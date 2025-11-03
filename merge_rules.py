@@ -21,100 +21,94 @@ def process_line(line):
     if not line:
         return results, log_msgs
 
-    # 去掉注释行
+    # 注释行
     if line.startswith("!"):
         log_msgs.append(f"🚫 去掉注释行: {line}")
         return results, log_msgs
 
-    # HOSTS 转换
+    # HOSTS 规则转换
     if line.startswith("0.0.0.0") or line.startswith("127.0.0.1"):
         parts = line.split()
         if len(parts) >= 2:
-            hosts = parts[1].split(",")  # 多域名逗号拆分
-            for host in hosts:
-                host = host.strip()
-                if host:
-                    converted = f"||{host}^"
-                    results.append(converted)
-                    log_msgs.append(f"✅ HOSTS 转换: {line} → {converted}")
-        else:
-            log_msgs.append(f"⚠ HOSTS 格式错误，忽略: {line}")
+            domain = parts[1]
+            new_rule = f"|{domain}^"
+            results.append(new_rule)
+            log_msgs.append(f"✅ HOSTS 转换: {line} → {new_rule}")
         return results, log_msgs
 
-    # 多域名拆分规则
-    if "," in line:
-        sep = ''
-        if '##' in line:
-            sep = '##'
-        elif '#@#' in line:
-            sep = '#@#'
-        elif '#?#' in line:
-            sep = '#?#'
+    # 多域名拆分逻辑改进（只改这里，其他逻辑不变）
+    sep = ''
+    if '##' in line:
+        sep = '##'
+    elif '#@#' in line:
+        sep = '#@#'
+    elif '#?#' in line:
+        sep = '#?#'
 
-        if sep:
-            domains_part, suffix = line.split(sep, 1)
-            domains = [d.strip() for d in domains_part.split(",") if d.strip()]
-            for domain in domains:
-                new_rule = f"||{domain}{sep}{suffix}"
-                results.append(new_rule)
-                log_msgs.append(f"✅ 多域名拆分: {line} → {new_rule}")
+    if sep and ',' in line.split(sep)[0]:
+        domains_part, suffix = line.split(sep, 1)
+        # 判断前缀
+        prefix = ''
+        if domains_part.startswith('||'):
+            prefix = '||'
+            domains_part = domains_part[2:]
+        elif domains_part.startswith('|'):
+            prefix = '|'
+            domains_part = domains_part[1:]
         else:
-            # 普通逗号规则
-            domains = [d.strip() for d in line.split(",") if d.strip()]
-            for domain in domains:
-                new_rule = f"||{domain}^"
-                results.append(new_rule)
-                log_msgs.append(f"✅ 多域名拆分: {line} → {new_rule}")
+            prefix = '|'
+        domains = domains_part.split(',')
+        for d in domains:
+            d = d.strip()
+            new_rule = f"{prefix}{d}{sep}{suffix}"
+            results.append(new_rule)
+            log_msgs.append(f"✅ 多域名拆分: {line} → {new_rule}")
         return results, log_msgs
 
     # 普通规则，不打印日志
     results.append(line)
     return results, log_msgs
 
-def main():
-    merged_rules = []
-    log_lines = []
+merged_rules = []
+log_lines = []
 
-    if not os.path.exists(URLS_FILE):
-        print(f"⚠ {URLS_FILE} 不存在")
-        return
+if not os.path.exists(URLS_FILE):
+    print(f"⚠ {URLS_FILE} 不存在")
+    exit(1)
 
-    with open(URLS_FILE, 'r', encoding='utf-8') as f:
-        urls = [line.strip() for line in f if line.strip()]
+with open(URLS_FILE, 'r', encoding='utf-8') as f:
+    urls = [line.strip() for line in f if line.strip()]
 
-    for idx, url in enumerate(urls, start=1):
-        print(f"🔗 开始处理第 {idx}/{len(urls)} 个源: {url}")
-        try:
-            r = requests.get(url, timeout=20)
-            r.raise_for_status()
-            lines = r.text.splitlines()
-            processed = []
-            for line in lines:
-                results, logs = process_line(line)
-                for log in logs:
-                    print(log)         # 中文逐条打印日志
-                    log_lines.append(log)
-                processed.extend(results)
-            # 保存每个源拆分后的规则
-            tmp_file = os.path.join(TMP_DIR, f"{idx:03}.txt")
-            with open(tmp_file, 'w', encoding='utf-8') as ftmp:
-                ftmp.write('\n'.join(processed))
-            merged_rules.extend(processed)
-        except Exception as e:
-            print(f"❌ 下载或处理失败: {e}")
+for idx, url in enumerate(urls, start=1):
+    print(f"🔗 开始处理第 {idx}/{len(urls)} 个源: {url}")
+    try:
+        r = requests.get(url, timeout=20)
+        r.raise_for_status()
+        lines = r.text.splitlines()
+        processed = []
+        for line in lines:
+            results, logs = process_line(line)
+            for log in logs:
+                print(log)          # 逐条打印日志
+                log_lines.append(log)
+            processed.extend(results)
+        # 保存每个源拆分后的规则
+        tmp_file = os.path.join(TMP_DIR, f"{idx:03}.txt")
+        with open(tmp_file, 'w', encoding='utf-8') as ftmp:
+            ftmp.write('\n'.join(processed))
+        merged_rules.extend(processed)
+    except Exception as e:
+        print(f"❌ 下载或处理失败: {e}")
 
-    # 保存合并后的规则
-    with open(MERGED_FILE, 'w', encoding='utf-8') as f:
-        f.write('\n'.join(merged_rules))
+# 保存合并后的规则
+with open(MERGED_FILE, 'w', encoding='utf-8') as f:
+    f.write('\n'.join(merged_rules))
 
-    # 保存日志
-    with open(LOG_FILE, 'w', encoding='utf-8') as f:
-        f.write('\n'.join(log_lines))
+# 保存日志
+with open(LOG_FILE, 'w', encoding='utf-8') as f:
+    f.write('\n'.join(log_lines))
 
-    print(f"🎉 完成！共生成 {len(merged_rules)} 条规则")
-    print(f"📂 tmp/ 文件: {len(os.listdir(TMP_DIR))} 个")
-    print(f"📄 合并规则文件: {MERGED_FILE}")
-    print(f"📝 日志文件: {LOG_FILE}")
-
-if __name__ == "__main__":
-    main()
+print(f"🎉 完成！共生成 {len(merged_rules)} 条规则")
+print(f"📂 tmp/ 文件: {len(os.listdir(TMP_DIR))} 个")
+print(f"📄 合并规则文件: {MERGED_FILE}")
+print(f"📝 日志文件: {LOG_FILE}")
