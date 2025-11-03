@@ -10,25 +10,34 @@ DIST_DIR = "dist"
 MERGED_FILE = os.path.join(DIST_DIR, "merged_rules.txt")
 LOG_FILE = os.path.join(DIST_DIR, "log.txt")
 
-# 创建目录
 os.makedirs(TMP_DIR, exist_ok=True)
 os.makedirs(DIST_DIR, exist_ok=True)
 
 def process_line(line):
     line = line.strip()
-    if not line or line.startswith("!"):
-        return []
-
+    log_msgs = []
     results = []
+
+    if not line:
+        return results, log_msgs
+
+    # 注释行
+    if line.startswith("!"):
+        log_msgs.append(f"🚫 去掉注释行: {line}")
+        return results, log_msgs
 
     # HOSTS 规则转换
     if line.startswith("0.0.0.0") or line.startswith("127.0.0.1"):
         parts = line.split()
         if len(parts) >= 2:
             domain = parts[1]
-            results.append(f"|{domain}^")
+            new_rule = f"|{domain}^"
+            results.append(new_rule)
+            log_msgs.append(f"✅ HOSTS 规则转换: {line} → {new_rule}")
+        return results, log_msgs
+
     # 多域名拆分
-    elif ',' in line.split('##')[0] or ',' in line.split('#@#')[0] or ',' in line.split('#?#')[0]:
+    if ',' in line.split('##')[0] or ',' in line.split('#@#')[0] or ',' in line.split('#?#')[0]:
         sep = ''
         if '##' in line:
             sep = '##'
@@ -42,13 +51,16 @@ def process_line(line):
         for d in domains:
             d = d.strip()
             if line.startswith('||'):
-                results.append(f"||{d}{sep}{suffix}")
+                new_rule = f"||{d}{sep}{suffix}"
             else:
-                results.append(f"|{d}{sep}{suffix}")
-    else:
-        results.append(line)
+                new_rule = f"|{d}{sep}{suffix}"
+            results.append(new_rule)
+            log_msgs.append(f"✅ 多域名拆分: {line} → {new_rule}")
+        return results, log_msgs
 
-    return results
+    # 普通规则
+    results.append(line)
+    return results, log_msgs
 
 merged_rules = []
 log_lines = []
@@ -61,19 +73,18 @@ with open(URLS_FILE, 'r', encoding='utf-8') as f:
     urls = [line.strip() for line in f if line.strip()]
 
 for idx, url in enumerate(urls, start=1):
-    print(f"🔗 处理源 {idx}/{len(urls)}: {url}")
+    print(f"🔗 开始处理第 {idx}/{len(urls)} 个源: {url}")
     try:
         r = requests.get(url, timeout=20)
         r.raise_for_status()
         lines = r.text.splitlines()
         processed = []
         for line in lines:
-            results = process_line(line)
-            for res in results:
-                print(f"  ✅ {res}")
-                log_lines.append(res)
+            results, logs = process_line(line)
+            for log in logs:
+                print(log)
+                log_lines.append(log)
             processed.extend(results)
-        # 保存每个源的拆分结果到 tmp
         tmp_file = os.path.join(TMP_DIR, f"{idx:03}.txt")
         with open(tmp_file, 'w', encoding='utf-8') as ftmp:
             ftmp.write('\n'.join(processed))
@@ -90,6 +101,6 @@ with open(LOG_FILE, 'w', encoding='utf-8') as f:
     f.write('\n'.join(log_lines))
 
 print(f"🎉 完成！共生成 {len(merged_rules)} 条规则")
-print(f"tmp/ 文件: {len(os.listdir(TMP_DIR))} 个")
-print(f"合并规则文件: {MERGED_FILE}")
-print(f"日志文件: {LOG_FILE}")
+print(f"📂 tmp/ 文件: {len(os.listdir(TMP_DIR))} 个")
+print(f"📄 合并规则文件: {MERGED_FILE}")
+print(f"📝 日志文件: {LOG_FILE}")
