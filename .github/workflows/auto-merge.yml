@@ -1,21 +1,22 @@
 name: Merge Rules & Commit
 
 on:
+  workflow_dispatch: {}        # 手动触发
   schedule:
-    - cron: "*/20 * * * *"  # 每 20 分钟执行一次
+    - cron: "*/20 * * * *"    # 每 20 分钟自动触发（UTC 时间）
 
 jobs:
   merge_commit:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout 仓库并保持 GITHUB_TOKEN 权限
+      # 1️⃣ Checkout 仓库
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           persist-credentials: true
 
-      # 2️⃣ 显示仓库文件，方便调试
+      # 2️⃣ 显示仓库文件
       - name: Show repository files
         run: ls -R
 
@@ -60,6 +61,6 @@ jobs:
         run: |
           git diff --cached --quiet || git commit -m "Update merged rules"
 
-      # 🔟 Push changes（使用 GITHUB_TOKEN 自动认证，避免 403）
+      # 🔟 Push changes
       - name: Push changes
         run: git push origin HEAD
