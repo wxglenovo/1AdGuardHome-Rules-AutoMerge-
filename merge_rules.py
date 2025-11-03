@@ -1,67 +1,107 @@
-name: Merge Rules & Commit
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
-on:
-  workflow_dispatch: {}        # 手动触发
-  schedule:
-    - cron: "*/20 * * * *"    # 每 20 分钟执行一次 (UTC 时间)
+import os
+import requests
 
-jobs:
-  merge_commit:
-    runs-on: ubuntu-latest
+URLS_FILE = "urls.txt"
+TMP_DIR = "tmp"
+DIST_DIR = "dist"
+MERGED_FILE = os.path.join(DIST_DIR, "merged_rules.txt")
+LOG_FILE = os.path.join(DIST_DIR, "log.txt")
 
-    steps:
-      # 1️⃣ Checkout 仓库并保持 GITHUB_TOKEN 权限
-      - name: Checkout repository
-        uses: actions/checkout@v3
-        with:
-          persist-credentials: true
+os.makedirs(TMP_DIR, exist_ok=True)
+os.makedirs(DIST_DIR, exist_ok=True)
 
-      # 2️⃣ 安装 Python
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: 3.x
+def process_line(line):
+    line = line.strip()
+    log_msgs = []
+    results = []
 
-      # 3️⃣ 安装依赖
-      - name: Install requests
-        run: pip install requests
+    if not line:
+        return results, log_msgs
 
-      # 4️⃣ 运行 merge_rules.py
-      - name: Run merge_rules.py
-        run: python merge_rules.py
+    # 注释行
+    if line.startswith("!"):
+        log_msgs.append(f"🚫 去掉注释行: {line}")
+        return results, log_msgs
 
-      # 5️⃣ 显示生成文件（调试用）
-      - name: List tmp/dist
-        run: |
-          echo "当前目录: $(pwd)"
-          ls -R
+    # HOSTS 规则转换
+    if line.startswith("0.0.0.0") or line.startswith("127.0.0.1"):
+        parts = line.split()
+        if len(parts) >= 2:
+            domain = parts[1]
+            new_rule = f"|{domain}^"
+            results.append(new_rule)
+            log_msgs.append(f"✅ HOSTS 转换: {line} → {new_rule}")
+        return results, log_msgs
 
-      # 6️⃣ 设置 Git 用户
-      - name: Set Git user
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+    # 多域名拆分
+    if ',' in line.split('##')[0] or ',' in line.split('#@#')[0] or ',' in line.split('#?#')[0]:
+        sep = ''
+        if '##' in line:
+            sep = '##'
+        elif '#@#' in line:
+            sep = '#@#'
+        elif '#?#' in line:
+            sep = '#?#'
 
-      # 7️⃣ 添加 tmp/dist 文件
-      - name: Add tmp/dist files
-        run: |
-          git add tmp/*.txt dist/*.txt || echo "没有文件可添加"
+        domains_part, suffix = line.split(sep, 1)
+        domains = domains_part.split(',')
+        for d in domains:
+            d = d.strip()
+            if line.startswith('||'):
+                new_rule = f"||{d}{sep}{suffix}"
+            else:
+                new_rule = f"|{d}{sep}{suffix}"
+            results.append(new_rule)
+            log_msgs.append(f"✅ 多域名拆分: {line} → {new_rule}")
+        return results, log_msgs
 
-      # 8️⃣ Commit 变更（仅有变更才 commit）
-      - name: Commit changes
-        run: |
-          git diff --cached --quiet || git commit -m "更新合并规则"
+    # 普通规则，不打印日志
+    results.append(line)
+    return results, log_msgs
 
-      # 9️⃣ Push 变更
-      - name: Push changes
-        run: git push origin HEAD
+merged_rules = []
+log_lines = []
 
-      # 🔟 上传 artifact
-      - name: Upload merged rules artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: merged-rules-artifacts
-          path: |
-            tmp/*.txt
-            dist/merged_rules.txt
-            dist/log.txt
+if not os.path.exists(URLS_FILE):
+    print(f"⚠ {URLS_FILE} 不存在")
+    exit(1)
+
+with open(URLS_FILE, 'r', encoding='utf-8') as f:
+    urls = [line.strip() for line in f if line.strip()]
+
+for idx, url in enumerate(urls, start=1):
+    print(f"🔗 开始处理第 {idx}/{len(urls)} 个源: {url}")
+    try:
+        r = requests.get(url, timeout=20)
+        r.raise_for_status()
+        lines = r.text.splitlines()
+        processed = []
+        for line in lines:
+            results, logs = process_line(line)
+            for log in logs:
+                print(log)          # 逐条打印日志
+                log_lines.append(log)
+            processed.extend(results)
+        # 保存每个源拆分后的规则
+        tmp_file = os.path.join(TMP_DIR, f"{idx:03}.txt")
+        with open(tmp_file, 'w', encoding='utf-8') as ftmp:
+            ftmp.write('\n'.join(processed))
+        merged_rules.extend(processed)
+    except Exception as e:
+        print(f"❌ 下载或处理失败: {e}")
+
+# 保存合并后的规则
+with open(MERGED_FILE, 'w', encoding='utf-8') as f:
+    f.write('\n'.join(merged_rules))
+
+# 保存日志
+with open(LOG_FILE, 'w', encoding='utf-8') as f:
+    f.write('\n'.join(log_lines))
+
+print(f"🎉 完成！共生成 {len(merged_rules)} 条规则")
+print(f"📂 tmp/ 文件: {len(os.listdir(TMP_DIR))} 个")
+print(f"📄 合并规则文件: {MERGED_FILE}")
+print(f"📝 日志文件: {LOG_FILE}")
