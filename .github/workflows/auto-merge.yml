@@ -3,64 +3,54 @@ name: Merge Rules & Commit
 on:
   workflow_dispatch: {}        # 手动触发
   schedule:
-    - cron: "*/20 * * * *"    # 每 20 分钟自动触发（UTC 时间）
+    - cron: "*/20 * * * *"    # 每 20 分钟触发一次（UTC时间）
 
 jobs:
   merge_commit:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout 仓库
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           persist-credentials: true
 
-      # 2️⃣ 显示仓库文件
-      - name: Show repository files
-        run: ls -R
-
-      # 3️⃣ 安装 Python
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: 3.x
 
-      # 4️⃣ 安装依赖
       - name: Install requests
         run: pip install requests
 
-      # 5️⃣ 运行 merge_rules.py
       - name: Run merge_rules.py
         run: python merge_rules.py
 
-      # 6️⃣ 列出 tmp 文件
-      - name: List tmp files
+      - name: Debug tmp/dist
         run: |
-          echo "🔎 当前 tmp 目录文件:"
-          ls -R tmp || echo "⚠ tmp 目录不存在"
+          echo "当前目录: $(pwd)"
+          ls -R
 
-      # 7️⃣ 设置 Git 用户
       - name: Set Git user
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      # 8️⃣ 添加 tmp 文件，如果存在
-      - name: Add tmp files if exist
+      - name: Add tmp/dist files if exist
         run: |
-          if compgen -G "tmp/*.txt" > /dev/null; then
-            echo "✅ tmp/*.txt 存在，添加到 Git"
-            git add tmp/*.txt
-          else
-            echo "⚠ tmp/*.txt 不存在，跳过 git add"
-          fi
+          git add tmp/*.txt dist/*.txt || echo "没有文件可添加"
 
-      # 9️⃣ Commit changes（只有有变更才 commit）
       - name: Commit changes
         run: |
           git diff --cached --quiet || git commit -m "Update merged rules"
 
-      # 🔟 Push changes
       - name: Push changes
         run: git push origin HEAD
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: merged-rules-artifacts
+          path: |
+            tmp/*.txt
+            dist/*.txt
