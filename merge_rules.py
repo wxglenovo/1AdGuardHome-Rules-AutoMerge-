@@ -1,129 +1,95 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
 import os
 import requests
 
 URLS_FILE = "urls.txt"
 TMP_DIR = "tmp"
 DIST_DIR = "dist"
-MERGED_FILE = os.path.join(DIST_DIR, "all_rules.txt")
+MERGED_FILE = os.path.join(DIST_DIR, "merged_rules.txt")
+LOG_FILE = os.path.join(DIST_DIR, "log.txt")
 
+# 创建目录
 os.makedirs(TMP_DIR, exist_ok=True)
 os.makedirs(DIST_DIR, exist_ok=True)
 
+def process_line(line):
+    line = line.strip()
+    if not line or line.startswith("!"):
+        return []
 
-def load_urls():
-    urls = []
-    with open(URLS_FILE, "r", encoding="utf-8") as f:
-        for line in f:
-            line = line.strip()
-            if line and not line.startswith("!"):
-                urls.append(line)
-    return urls
+    results = []
 
+    # HOSTS 规则转换
+    if line.startswith("0.0.0.0") or line.startswith("127.0.0.1"):
+        parts = line.split()
+        if len(parts) >= 2:
+            domain = parts[1]
+            results.append(f"|{domain}^")
+    # 多域名拆分
+    elif ',' in line.split('##')[0] or ',' in line.split('#@#')[0] or ',' in line.split('#?#')[0]:
+        sep = ''
+        if '##' in line:
+            sep = '##'
+        elif '#@#' in line:
+            sep = '#@#'
+        elif '#?#' in line:
+            sep = '#?#'
 
-def download_rules(url):
+        domains_part, suffix = line.split(sep, 1)
+        domains = domains_part.split(',')
+        for d in domains:
+            d = d.strip()
+            if line.startswith('||'):
+                results.append(f"||{d}{sep}{suffix}")
+            else:
+                results.append(f"|{d}{sep}{suffix}")
+    else:
+        results.append(line)
+
+    return results
+
+merged_rules = []
+log_lines = []
+
+if not os.path.exists(URLS_FILE):
+    print(f"⚠ {URLS_FILE} 不存在")
+    exit(1)
+
+with open(URLS_FILE, 'r', encoding='utf-8') as f:
+    urls = [line.strip() for line in f if line.strip()]
+
+for idx, url in enumerate(urls, start=1):
+    print(f"🔗 处理源 {idx}/{len(urls)}: {url}")
     try:
-        print(f"🔗 下载: {url}")
-        r = requests.get(url, timeout=15)
-        if r.status_code == 200:
-            return r.text.splitlines()
-    except Exception as e:
-        print(f"⚠ 下载失败 {url} -> {e}")
-    return []
-
-
-# HOSTS 转换
-def is_hosts_rule(line):
-    parts = line.split()
-    return len(parts) == 2 and parts[0] in ["0.0.0.0", "127.0.0.1"]
-
-
-def convert_hosts_rule(line):
-    domain = line.split()[1].strip()
-    rule = f"|{domain}^"
-    print(f"🧩 HOSTS 转换: {line}  →  {rule}")
-    return rule
-
-
-# 多域名拆分
-def is_multi_domain_rule(line):
-    if "," not in line:
-        return False
-    for tag in ["##", "#@#", "#?#"]:
-        if tag in line:
-            domain_part = line.split(tag)[0]
-            if "," in domain_part and all(" " not in d for d in domain_part.split(",")):
-                return True
-    return False
-
-
-def split_multi_domain(line):
-    suffix_index = None
-    prefix = ""
-    for tag in ["##", "#@#", "#?#"]:
-        idx = line.find(tag)
-        if idx != -1:
-            suffix_index = idx
-            break
-
-    if suffix_index is None:
-        return [line]
-
-    domain_part = line[:suffix_index]
-    suffix = line[suffix_index:]
-
-    if line.startswith("||"):
-        prefix = "||"
-        domain_part = domain_part[2:]
-    elif line.startswith("|"):
-        prefix = "|"
-        domain_part = domain_part[1:]
-
-    domains = domain_part.split(",")
-    result = []
-
-    print(f"🔁 多域名拆分: {line}")
-    for d in domains:
-        d = d.strip()
-        if d:
-            rule = f"{prefix}{d}{suffix}"
-            result.append(rule)
-            print(f"   → {rule}")
-
-    return result
-
-
-def main():
-    urls = load_urls()
-    merged = set()
-
-    for url in urls:
-        lines = download_rules(url)
+        r = requests.get(url, timeout=20)
+        r.raise_for_status()
+        lines = r.text.splitlines()
+        processed = []
         for line in lines:
-            line = line.strip()
-            if not line or line.startswith("!"):
-                continue
+            results = process_line(line)
+            for res in results:
+                print(f"  ✅ {res}")
+                log_lines.append(res)
+            processed.extend(results)
+        # 保存每个源的拆分结果到 tmp
+        tmp_file = os.path.join(TMP_DIR, f"{idx:03}.txt")
+        with open(tmp_file, 'w', encoding='utf-8') as ftmp:
+            ftmp.write('\n'.join(processed))
+        merged_rules.extend(processed)
+    except Exception as e:
+        print(f"❌ 下载或处理失败: {e}")
 
-            if is_hosts_rule(line):
-                merged.add(convert_hosts_rule(line))
-                continue
+# 保存合并后的规则
+with open(MERGED_FILE, 'w', encoding='utf-8') as f:
+    f.write('\n'.join(merged_rules))
 
-            if is_multi_domain_rule(line):
-                for new_rule in split_multi_domain(line):
-                    merged.add(new_rule)
-                continue
+# 保存日志
+with open(LOG_FILE, 'w', encoding='utf-8') as f:
+    f.write('\n'.join(log_lines))
 
-            merged.add(line)
-
-    # 保存合并结果
-    with open(MERGED_FILE, "w", encoding="utf-8") as f:
-        for rule in sorted(merged):
-            f.write(rule + "\n")
-
-    print(f"✅ 合并完成，总计 {len(merged)} 条规则")
-    print(f"📁 输出文件: {MERGED_FILE}")
-
-
-if __name__ == "__main__":
-    main()
+print(f"🎉 完成！共生成 {len(merged_rules)} 条规则")
+print(f"tmp/ 文件: {len(os.listdir(TMP_DIR))} 个")
+print(f"合并规则文件: {MERGED_FILE}")
+print(f"日志文件: {LOG_FILE}")
