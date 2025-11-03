@@ -33,7 +33,7 @@ def process_line(line):
             domain = parts[1]
             new_rule = f"|{domain}^"
             results.append(new_rule)
-            log_msgs.append(f"✅ HOSTS 规则转换: {line} → {new_rule}")
+            log_msgs.append(f"✅ HOSTS 转换: {line} → {new_rule}")
         return results, log_msgs
 
     # 多域名拆分
@@ -58,7 +58,7 @@ def process_line(line):
             log_msgs.append(f"✅ 多域名拆分: {line} → {new_rule}")
         return results, log_msgs
 
-    # 普通规则
+    # 普通规则，不打印日志
     results.append(line)
     return results, log_msgs
 
@@ -82,9 +82,10 @@ for idx, url in enumerate(urls, start=1):
         for line in lines:
             results, logs = process_line(line)
             for log in logs:
-                print(log)
+                print(log)          # 逐条打印日志
                 log_lines.append(log)
             processed.extend(results)
+        # 保存每个源拆分后的规则
         tmp_file = os.path.join(TMP_DIR, f"{idx:03}.txt")
         with open(tmp_file, 'w', encoding='utf-8') as ftmp:
             ftmp.write('\n'.join(processed))
