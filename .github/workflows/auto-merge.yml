@@ -1,11 +1,8 @@
 name: Merge Rules & Commit
 
 on:
-  workflow_dispatch:
-    inputs:
-      commit_message:
-        required: false
-        default: 'Update merged rules'
+  schedule:
+    - cron: "*/20 * * * *"  # 每 20 分钟执行一次
 
 jobs:
   merge_commit:
@@ -16,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: true   # 确保 git push 使用 GITHUB_TOKEN
+          persist-credentials: true
 
       # 2️⃣ 显示仓库文件，方便调试
       - name: Show repository files
@@ -61,7 +58,7 @@ jobs:
       # 9️⃣ Commit changes（只有有变更才 commit）
       - name: Commit changes
         run: |
-          git diff --cached --quiet || git commit -m "${{ github.event.inputs.commit_message }}"
+          git diff --cached --quiet || git commit -m "Update merged rules"
 
       # 🔟 Push changes（使用 GITHUB_TOKEN 自动认证，避免 403）
       - name: Push changes
