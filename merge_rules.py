@@ -36,7 +36,7 @@ def process_line(line):
             log_msgs.append(f"✅ HOSTS 转换: {line} → {new_rule}")
         return results, log_msgs
 
-    # 多域名拆分逻辑改进（只改这里，其他逻辑不变）
+    # 多域名拆分逻辑（原规则只打印一次，拆分规则逐行打印）
     sep = ''
     if '##' in line:
         sep = '##'
@@ -57,12 +57,13 @@ def process_line(line):
             domains_part = domains_part[1:]
         else:
             prefix = '|'
-        domains = domains_part.split(',')
-        for d in domains:
-            d = d.strip()
-            new_rule = f"{prefix}{d}{sep}{suffix}"
-            results.append(new_rule)
-            log_msgs.append(f"✅ 多域名拆分: {line} → {new_rule}")
+        domains = [d.strip() for d in domains_part.split(',')]
+        new_rules = [f"{prefix}{d}{sep}{suffix}" for d in domains]
+        results.extend(new_rules)
+        # 日志：原规则一次，拆分后逐条打印
+        log_msgs.append(f"✅ 多域名拆分: {line}")
+        for r in new_rules:
+            log_msgs.append(f"    → {r}")
         return results, log_msgs
 
     # 普通规则，不打印日志
