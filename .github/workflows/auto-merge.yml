@@ -3,20 +3,20 @@ name: Merge Rules & Commit
 on:
   workflow_dispatch: {}        # 手动触发
   schedule:
-    - cron: "*/20 * * * *"    # 每 20 分钟执行一次 (UTC 时间)
+    - cron: "*/20 * * * *"    # 每 20 分钟执行一次（UTC时间，北京时间 +8 小时）
 
 jobs:
   merge_commit:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout 仓库并保持 GITHUB_TOKEN 权限
+      # 1️⃣ Checkout 仓库
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           persist-credentials: true
 
-      # 2️⃣ 安装 Python
+      # 2️⃣ 设置 Python
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
@@ -30,11 +30,11 @@ jobs:
       - name: Run merge_rules.py
         run: python merge_rules.py
 
-      # 5️⃣ 显示生成文件（调试用）
+      # 5️⃣ 显示 tmp/dist 目录（调试用）
       - name: List tmp/dist
         run: |
           echo "当前目录: $(pwd)"
-          ls -R
+          ls -R tmp dist || echo "目录为空"
 
       # 6️⃣ 设置 Git 用户
       - name: Set Git user
