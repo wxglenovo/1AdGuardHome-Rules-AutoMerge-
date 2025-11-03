@@ -1,0 +1,68 @@
+name: Merge Rules & Commit
+
+on:
+  workflow_dispatch:
+    inputs:
+      commit_message:
+        required: false
+        default: 'Update merged rules'
+
+jobs:
+  merge_commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1️⃣ Checkout 仓库并保持 GITHUB_TOKEN 权限
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true   # 确保 git push 使用 GITHUB_TOKEN
+
+      # 2️⃣ 显示仓库文件，方便调试
+      - name: Show repository files
+        run: ls -R
+
+      # 3️⃣ 安装 Python
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+
+      # 4️⃣ 安装依赖
+      - name: Install requests
+        run: pip install requests
+
+      # 5️⃣ 运行 merge_rules.py
+      - name: Run merge_rules.py
+        run: python merge_rules.py
+
+      # 6️⃣ 列出 tmp 文件
+      - name: List tmp files
+        run: |
+          echo "🔎 当前 tmp 目录文件:"
+          ls -R tmp || echo "⚠ tmp 目录不存在"
+
+      # 7️⃣ 设置 Git 用户
+      - name: Set Git user
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      # 8️⃣ 添加 tmp 文件，如果存在
+      - name: Add tmp files if exist
+        run: |
+          if compgen -G "tmp/*.txt" > /dev/null; then
+            echo "✅ tmp/*.txt 存在，添加到 Git"
+            git add tmp/*.txt
+          else
+            echo "⚠ tmp/*.txt 不存在，跳过 git add"
+          fi
+
+      # 9️⃣ Commit changes（只有有变更才 commit）
+      - name: Commit changes
+        run: |
+          git diff --cached --quiet || git commit -m "${{ github.event.inputs.commit_message }}"
+
+      # 🔟 Push changes（使用 GITHUB_TOKEN 自动认证，避免 403）
+      - name: Push changes
+        run: git push origin HEAD
