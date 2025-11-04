@@ -20,29 +20,6 @@
 /z.zolapp.
 =Ad_ZPlusGoods&
 =window.awall.adblockwalltemplatefetchdef&
-###doyoo_mon_mask
-###doyoo_monitor
-###recommend-float + .footer + .popup
-##body.page > .popup
-###rm-float + .popup
-##.popup + .shortcuts-mobile-overlay
-##.siteAnn1
-###SOHU_MAIN > .module-cmt-float-bar
-###appBottomIn
-###appIn
-###appqrcode
-###bottomApp
-###bottom_qr_code
-###login_wp.foot_flwp
-###qrcodeDownloadBar
-###qrcodeWrap
-###sign-ad
-###upprev_box
-###windlocation
-##.s.u.m.o.me.scrollbox-popup
-###pop_hongbao
-###bgframe[style^="position: fixed;"]
-##.wwads_abp
 ||fundingchoicesmessages.google.com^$third-party
 ||7moor.com^$third-party
 ||2005net.net^$third-party
