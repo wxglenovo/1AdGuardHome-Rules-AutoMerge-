@@ -13,6 +13,18 @@ LOG_FILE = os.path.join(DIST_DIR, "log.txt")
 os.makedirs(TMP_DIR, exist_ok=True)
 os.makedirs(DIST_DIR, exist_ok=True)
 
+# ------------------------------
+# 删除 tmp/ 中所有以 # 开头的文件
+# ------------------------------
+for fname in os.listdir(TMP_DIR):
+    if fname.startswith("#"):
+        fpath = os.path.join(TMP_DIR, fname)
+        try:
+            os.remove(fpath)
+            print(f"🗑 删除注释文件: {fpath}")
+        except Exception as e:
+            print(f"❌ 删除文件失败: {fpath} -> {e}")
+
 def process_line(line):
     line = line.strip()
     log_msgs = []
@@ -22,7 +34,7 @@ def process_line(line):
         return results, log_msgs
 
     # 注释行
-    if line.startswith("!"):
+    if line.startswith("!") or line.startswith("#"):
         log_msgs.append(f"🚫 去掉注释行: {line}")
         return results, log_msgs
 
