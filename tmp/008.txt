@@ -2260,7 +2260,6 @@
 /status/impression?
 /storeAdvImpression.jsp
 /storefront.google-analytics-4.min.js
-/stormcaster.js
 /stp.gif?
 /stracking.js
 /sTrackStats.js
@@ -51974,7 +51973,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||palmettostatearmory.com/static/$script,~third-party
 @@||pals.pa.gov/vendor/analytics/$~third-party
 @@||parcel.app/webtrack.php?$~third-party
-@@||parliament.nz/*/stormcaster.js$script,~third-party
 @@||parsely.com/keys/$script,domain=wmmr.com|wrif.com
 @@||paypal.com/xoplatform/logger/api/logger$domain=play.leagueofkingdoms.com
 @@||paypalobjects.com/*/pageView.js$script,domain=paypal.com
@@ -52250,7 +52248,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||tag.aticdn.net/piano-analytics.js$script,domain=toureiffel.paris
 @@||tra.scds.pmdstatic.net/sourcepoint/$domain=businessinsider.fr|caminteresse.fr|capital.fr|geo.fr|voici.fr
 @@||trustcommander.net/iab-tcfapi/tcfapi.js$script,domain=tf1info.fr
-@@||usine-digitale.fr/*/stormcaster.js$script,~third-party
 @@||collector.leaddyno.com/shopify.js$script,domain=s4l.us
 @@||nbe.com.eg/NBEeChannelManager/CallMW.aspx$~third-party
 @@||rudaw.net/images/pixel.gif$~third-party
