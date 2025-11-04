@@ -13,30 +13,36 @@ LOG_FILE = os.path.join(DIST_DIR, "log.txt")
 os.makedirs(TMP_DIR, exist_ok=True)
 os.makedirs(DIST_DIR, exist_ok=True)
 
+log_lines = []
+
 # ------------------------------
-# 删除 tmp/ 中所有以 # 开头的文件
+# 删除 tmp/ 中所有以 # 开头的文件并打印日志
 # ------------------------------
 for fname in os.listdir(TMP_DIR):
     if fname.startswith("#"):
         fpath = os.path.join(TMP_DIR, fname)
         try:
             os.remove(fpath)
-            print(f"🗑 删除注释文件: {fpath}")
+            log_msg = f"🗑 删除注释文件: {fpath}"
+            print(log_msg)
+            log_lines.append(log_msg)
         except Exception as e:
-            print(f"❌ 删除文件失败: {fpath} -> {e}")
+            log_msg = f"❌ 删除文件失败: {fpath} -> {e}"
+            print(log_msg)
+            log_lines.append(log_msg)
 
 def process_line(line):
     line = line.strip()
-    log_msgs = []
+    line_logs = []
     results = []
 
     if not line:
-        return results, log_msgs
+        return results, line_logs
 
-    # 注释行
+    # 注释行处理: 记录日志
     if line.startswith("!") or line.startswith("#"):
-        log_msgs.append(f"🚫 去掉注释行: {line}")
-        return results, log_msgs
+        line_logs.append(f"🚫 去掉注释行: {line}")
+        return results, line_logs
 
     # HOSTS 规则转换
     if line.startswith("0.0.0.0") or line.startswith("127.0.0.1"):
@@ -45,10 +51,10 @@ def process_line(line):
             domain = parts[1]
             new_rule = f"|{domain}^"
             results.append(new_rule)
-            log_msgs.append(f"✅ HOSTS 转换: {line} → {new_rule}")
-        return results, log_msgs
+            line_logs.append(f"✅ HOSTS 转换: {line} → {new_rule}")
+        return results, line_logs
 
-    # 多域名拆分逻辑（原规则只打印一次，拆分规则逐行打印）
+    # 多域名拆分逻辑
     sep = ''
     if '##' in line:
         sep = '##'
@@ -59,7 +65,6 @@ def process_line(line):
 
     if sep and ',' in line.split(sep)[0]:
         domains_part, suffix = line.split(sep, 1)
-        # 判断前缀
         prefix = ''
         if domains_part.startswith('||'):
             prefix = '||'
@@ -72,18 +77,16 @@ def process_line(line):
         domains = [d.strip() for d in domains_part.split(',')]
         new_rules = [f"{prefix}{d}{sep}{suffix}" for d in domains]
         results.extend(new_rules)
-        # 日志：原规则一次，拆分后逐条打印
-        log_msgs.append(f"✅ 多域名拆分: {line}")
+        line_logs.append(f"✅ 多域名拆分: {line}")
         for r in new_rules:
-            log_msgs.append(f"    → {r}")
-        return results, log_msgs
+            line_logs.append(f"    → {r}")
+        return results, line_logs
 
     # 普通规则，不打印日志
     results.append(line)
-    return results, log_msgs
+    return results, line_logs
 
 merged_rules = []
-log_lines = []
 
 if not os.path.exists(URLS_FILE):
     print(f"⚠ {URLS_FILE} 不存在")
@@ -111,7 +114,9 @@ for idx, url in enumerate(urls, start=1):
             ftmp.write('\n'.join(processed))
         merged_rules.extend(processed)
     except Exception as e:
-        print(f"❌ 下载或处理失败: {e}")
+        log_msg = f"❌ 下载或处理失败: {e}"
+        print(log_msg)
+        log_lines.append(log_msg)
 
 # 保存合并后的规则
 with open(MERGED_FILE, 'w', encoding='utf-8') as f:
