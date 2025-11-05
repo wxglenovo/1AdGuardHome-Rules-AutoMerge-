@@ -141,7 +141,6 @@
 ||qurl.f.360.cn^
 ||s.360.cn^
 ||s.f.360.cn^
-||sdk.look.360.cn^
 ||shouji.360.cn^
 ||soft.data.weather.360.cn^
 ||stat.m.360.cn^
@@ -443,9 +442,7 @@
 ||report-edge.agora.io^
 ||report-europe.agora.io^
 ||report-north-america.agora.io^
-||report-oversea.agora.io^
 ||statscollector-1.agora.io^
-||statscollector-1-asia.agora.io^
 ||statscollector-1-europe.agora.io^
 ||statscollector-1-north-america.agora.io^
 ||tracking.agora.io^
@@ -519,7 +516,6 @@
 ||pcookie.aliexpress.com^
 ||aemetrics.aliexpress.ru^
 ||cddp-track.aligames.com^
-||optimus-ads.amap.com.w.alikunlun.com^
 ||bm.alimama.cn^
 ||bmvip.alimama.cn^
 ||cb.alimama.cn^
@@ -561,7 +557,6 @@
 ||first-hufu.oss-cn-shanghai.aliyuncs.com^
 ||free-cdn.oss-cn-shanghai.aliyuncs.com^
 ||hdtu.oss-cn-beijing.aliyuncs.com^
-||hfwpz4bisq-default-cn.rum.aliyuncs.com^
 ||httpdns-api.aliyuncs.com^
 ||httpdns-sc.aliyuncs.com^
 ||hwztx6svg3-default-cn.rum.aliyuncs.com^
@@ -666,7 +661,6 @@
 ||so.auto999.cn^
 ||autoffice.cn^
 ||al.autohome.com.cn^
-||applogapi.autohome.com.cn^
 ||comm.app.autohome.com.cn^
 ||dspmnt.autohome.com.cn^
 ||ftwo-feedback.autohome.com.cn^
@@ -726,7 +720,6 @@
 ||click.bes.baidu.com^
 ||cm.baidu.com^
 ||collector.dcdn.baidu.com^
-||console.bce.baidu.com^
 ||cpro.baidu.com^
 ||cpro.zhidao.baidu.com^
 ||cpu.baidu.com^
@@ -770,7 +763,6 @@
 ||kstj.baidu.com^
 ||libs.baidu.com^
 ||log.music.baidu.com^
-||login.bce.baidu.com^
 ||luimg.baidu.com^
 ||m1.baidu.com^
 ||miao.baidu.com^
@@ -949,7 +941,6 @@
 ||ad.bwton.com^
 ||dlogs.bwton.com^
 ||bxwccii.cn^
-||log-api.pangolin-sdk-toutiao-b.com.gtm.byte008.com^
 ||dm.bytedance.com^
 ||mssdk.bytedance.com^
 ||mssdk-bu.bytedance.com^
@@ -1278,7 +1269,6 @@
 ||events-dre-op-dbankcloud-com-dre.appacc-region.dbankedge.cn^
 ||events-dre-op-hicloud-com-dre.appacc.dbankedge.cn^
 ||hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn^
-||hisearch-dra-dt-dbankcloud-com-dra.appacc-region.dbankedge.cn^
 ||dchdmhf.cn^
 ||ddbuwo.cn^
 ||tadata.ddjiayou.cn^
@@ -1296,7 +1286,6 @@
 ||dhlasfo.click^
 ||dhlaxvy.click^
 ||dhlazxv.click^
-||dhleosv.click^
 ||dianru.com^
 ||diettopseek.cn^
 ||bea-s.dinghuoche.com^
@@ -1586,7 +1575,6 @@
 ||ng-vn-notice.gameitop.com^
 ||ad.gameley.com^
 ||click.gamersky.com^
-||ja2.gamersky.com^
 ||wmbd.gamersky.com^
 ||jiaoben.ganji.cn^
 ||ad.ganji.com^
@@ -1617,7 +1605,6 @@
 ||log-sdk.gifshow.com^
 ||ulog.gifshow.com^
 ||ulog-sdk.gifshow.com^
-||ulog.v6.gifshow.com^
 ||ulogjp.gifshow.com^
 ||ulogjs.gifshow.com^
 ||ulogko.gifshow.com^
@@ -1635,7 +1622,6 @@
 ||msg.ptqy.gitv.tv^
 ||ota.ptqy.gitv.tv^
 ||policy.video.ptqy.gitv.tv^
-||puma-api.ptqy.gitv.tv^
 ||sdk-cache.video.ptqy.gitv.tv^
 ||sdk.ptqy.gitv.tv^
 ||static.ptqy.gitv.tv^
@@ -1861,7 +1847,6 @@
 ||logbak.hicloud.com^
 ||logservice.hicloud.com^
 ||logservice-dra.platform.hicloud.com^
-||logservice-dre.platform.hicloud.com^
 ||logservice1.hicloud.com^
 ||ads-drcn.platform.hihonorcloud.com^
 ||honorsearch-dra.hiboard.hihonorcloud.com^
@@ -1874,9 +1859,7 @@
 ||hiido.com^
 ||analytics.shop.hisense.com^
 ||api-4know-em.hismarttv.com^
-||api-4know-eu.hismarttv.com^
 ||api-gps.hismarttv.com^
-||api-gps-em.hismarttv.com^
 ||api-gps-eu.hismarttv.com^
 ||api-gps-na.hismarttv.com^
 ||api-gps-sa.hismarttv.com^
@@ -1884,7 +1867,6 @@
 ||api-launcher-eu.hismarttv.com^
 ||api-launcher-na.hismarttv.com^
 ||api-launcher-sa.hismarttv.com^
-||api.eu.hismarttv.com^
 ||auth-em.hismarttv.com^
 ||auth-eu.hismarttv.com^
 ||auth-launcher-em.hismarttv.com^
@@ -2004,7 +1986,6 @@
 ||log-api.huxiu.com^
 ||log-api-mn.huxiu.com^
 ||df.huya.com^
-||e-ad-monitor.huya.com^
 ||e-stat.huya.com^
 ||fileserverpcdn.cdn.huya.com^
 ||g.huya.com^
@@ -2140,7 +2121,6 @@
 ||c.uaa.iqiyi.com^
 ||cards-css.iqiyi.com^
 ||cm.passport.iqiyi.com^
-||cs-feige.iqiyi.com^
 ||doh.iqiyi.com^
 ||emoticon-sns.iqiyi.com^
 ||emoticon.sns.iqiyi.com^
@@ -2322,7 +2302,6 @@
 ||adl.kkguan.com^
 ||houyi.kkmh.com^
 ||ipv4.kkmh.com^
-||logsdk.klingai.com^
 ||kmgfjc.cn^
 ||kmhmyaj.cn^
 ||kmihknj.cn^
@@ -2349,7 +2328,6 @@
 ||log-sdk.ksapisrv.com^
 ||multi-az-ulog.ksapisrv.com^
 ||ulog.ksapisrv.com^
-||ulog-sdk.ksapisrv.com^
 ||ulogjs.ksapisrv.com^
 ||ulogs1.ksapisrv.com^
 ||ulogs2.ksapisrv.com^
@@ -2654,7 +2632,6 @@
 ||a.mfcad.net^
 ||mfxyqh.cn^
 ||mgs123.com^
-||audit.aaa.mgtv.com^
 ||disp.titan.mgtv.com^
 ||mobaliyun.res.mgtv.com^
 ||ott-v0-al.data.mgtv.com^
@@ -2743,7 +2720,6 @@
 ||metok.sys.miui.com^
 ||mqs-log.miui.com^
 ||notify.sec.miui.com^
-||pmir.sec.miui.com^
 ||port.sec.miui.com^
 ||port.sec.intl.miui.com^
 ||proxy.sec.miui.com^
@@ -3150,7 +3126,6 @@
 ||aegis.qq.com^
 ||analy.qq.com^
 ||analytics.map.qq.com^
-||api.youtu.qq.com^
 ||apikey.map.qq.com^
 ||appcfg.v.qq.com^
 ||applog.reader.qq.com^
@@ -3473,7 +3448,6 @@
 ||jpaasne.e.shifen.com^
 ||shijixinrui.cn^
 ||shilian168.cn^
-||analysis.shixunsuda.com^
 ||tracking.shopee.cn^
 ||1.shopit.cn^
 ||shtatuo.cn^
@@ -3543,7 +3517,6 @@
 ||1.sj33.net^
 ||sjdfuvz.cn^
 ||sjoy7rq.cn^
-||clog.skysrt.com^
 ||m.slshiye.cn^
 ||sm-tc.cn^
 ||c.sm.cn^
@@ -3752,7 +3725,6 @@
 ||agoodm.m.taobao.com^
 ||ai.taobao.com^
 ||ai.m.taobao.com^
-||alimelog.taobao.com^
 ||amdcopen.m.taobao.com^
 ||audid-api.taobao.com^
 ||audid-api-sg.taobao.com^
@@ -3767,7 +3739,6 @@
 ||h-adashx.ut.taobao.com^
 ||h-adashx4ae.ut.taobao.com^
 ||h-adashx4sg.ut.taobao.com^
-||h-adashx4yt.ut.taobao.com^
 ||huodong.m.taobao.com^
 ||hybrid.miniapp.taobao.com^
 ||ip.taobao.com^
@@ -3813,7 +3784,6 @@
 ||tracking.tdk.cn^
 ||teamoffice.cn^
 ||metrics.teamviewer.cn^
-||log.tec73.com^
 ||1.tecbbs.com^
 ||tongji.techweb.com.cn^
 ||tecunonline.com^
@@ -4266,7 +4236,6 @@
 ||ru-romsp-unifyconfig.vivoglobal.com^
 ||ru-st-exappupgrade.vivoglobal.com^
 ||ru-st-sl.vivoglobal.com^
-||ru-stsdk.vivoglobal.com^
 ||ru-third-appstore.vivoglobal.com^
 ||ru-timesync.vivoglobal.com^
 ||ru-vcode-api.vivoglobal.com^
@@ -4296,7 +4265,6 @@
 ||tr-p.vivoglobal.com^
 ||tr-romsp-unifyconfig.vivoglobal.com^
 ||tr-st-sl.vivoglobal.com^
-||tr-stsdk.vivoglobal.com^
 ||tr-timesync.vivoglobal.com^
 ||tr-vcode-api.vivoglobal.com^
 ||tr-vcode-od.vivoglobal.com^
@@ -4754,7 +4722,6 @@
 ||ykrec.youku.com^
 ||ykrectab.youku.com^
 ||youku-crm-product.youku.com^
-||519332da.rtc.youme.im^
 ||youmi.net^
 ||report.ml.youngjoygame.com^
 ||api.youngle.site^
