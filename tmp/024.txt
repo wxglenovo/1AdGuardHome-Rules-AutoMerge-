@@ -12882,6 +12882,7 @@ browsershots.org#@#.advert_area
 ||faint-recognition.pro^
 ||faintestlogic.com^
 ||faintgas.com^
+||faintplan.com^
 ||faiqpoafkzsdx.com^
 ||fairfunction.pro^
 ||fairhole.com^
@@ -58584,6 +58585,7 @@ getcomics.org##.getco-content
 getcomics.org##.getco-content_2
 flickr.com##.getty-search-view
 flickr.com##.getty-widget-view
+pixabay.com##.gettyImagesContainer--7sZnR
 marketsfarm.com##.gfm-ad-network-ad
 law.cornell.edu##.gfs
 gg.deals##.gg-side-full-plane-link
@@ -64082,6 +64084,7 @@ qwant.com##div[data-testid="heroTiles"]
 qwant.com##div[data-testid="homeTrendsContainer"] a[href^="https://api.qwant.com/v3/r/?u="]
 qwant.com##div[data-testid="pam.container"]
 g2a.com##div[data-testid="placement"]
+lowes.com##div[data-testid="playwright-gam-carousel-banner"]
 qwant.com##div[data-testid="productAdsMicrosoft.container"]
 samsclub.com##div[data-testid="sba-container"]
 freepik.com##div[data-testid="unicorn-banner"]
@@ -64965,6 +64968,7 @@ cruisecritic.co.uk##article[data-sentry-component="ContentCard"]:has(a[href^="/s
 thetimes.com##article[id="article-main"] > div:has(#ad-header)
 costco.com##article[id][class]:has(img[alt*="Sponsored"])
 psychcentral.com##aside:has([data-empty])
+kohls.com##astro-island[component-export="KmnMarqueeBannerWrapper"]:has(img[alt="Sponsored Banner"])
 vidplay.lol##body > div > div[class][style]:has(> div > div > a[target="_blank"])
 countdown.co.nz##cdx-card:has(product-badge-list)
 creepypasta.com##center:has(+ #ad-container-1)
@@ -65056,6 +65060,7 @@ priceline.com##div[data-testid="HTL_NEW_LISTING_CARD_RESP"]:has(a[aria-label*=" 
 booking.com##div[data-testid="property-card"]:has(div[data-testid="new-ad-design-badge"])
 |twitter.com##div[data-testid="trend"]:has(path[d$="10H8.996V8h7v7z"])
 |x.com##div[data-testid="trend"]:has(path[d$="10H8.996V8h7v7z"])
+kohls.com##div[data-testid^="wallet-wrapper-"]:has(div[class="mt-3 text-xs"])
 |puzzle-aquarium.com##div[id]:has(> #bannerSide)
 |puzzle-battleships.com##div[id]:has(> #bannerSide)
 |puzzle-binairo.com##div[id]:has(> #bannerSide)
