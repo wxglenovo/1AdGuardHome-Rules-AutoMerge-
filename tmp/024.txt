@@ -9649,6 +9649,7 @@ browsershots.org#@#.advert_area
 ||cutoutsscissel.qpon^
 ||cuttlefly.com^
 ||cuwailrenogniph.net^
+||cuwlvystbfdnd.com^
 ||cuwnkedfa.com^
 ||cuybnvyuqlizr.space^
 ||cuyhuxmdfyx.com^
@@ -17258,6 +17259,7 @@ browsershots.org#@#.advert_area
 ||hvoxxnptntsrvxi.com^
 ||hvpsfsuruamnc.icu^
 ||hvrieelklzlbh.website^
+||hvtsiigtowhzm.online^
 ||hvuhmyogteatu.site^
 ||hvukkoxr.xyz^
 ||hvumtqywamn.net^
@@ -64707,7 +64709,6 @@ douglas.*##.product-grid-column:has([data-testid="sponsored-button"])
 douglas.*##.swiper-slide:has(button[data-testid="sponsored-button"])
 douglas.*##[data-testid="product-overview-content-slot"]:has(.criteo-teaser-gold__sponsored)
 douglas.*##div.product-grid-column:has(button[data-testid="sponsored-button"])
-flashscore.*##.boxOverContentRevive
 flashscore.*##.section--nmb
 |flashscore.*###box-over-content-a
 |livescore.*###box-over-content-a
@@ -64715,6 +64716,14 @@ flashscore.*##.section--nmb
 |flashscore.*##.zone
 |livescore.*##.zone
 |soccer24.com##.zone
+|flashscoreusa.com###box-over-content-revive
+|flashscore.*###box-over-content-revive
+|livescore.*###box-over-content-revive
+|soccer24.com###box-over-content-revive
+|flashscoreusa.com##.banner
+|flashscore.*##.banner
+|livescore.*##.banner
+|soccer24.com##.banner
 hookerhillstudios.com##div.items-center:has(> #articlead)
 kaufland.*##.exp-vision__ext-wrapper--spad
 kaufland.*##.product--spa
