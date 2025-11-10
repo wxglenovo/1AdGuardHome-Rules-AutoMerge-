@@ -18479,7 +18479,7 @@ $script,third-party,domain=cilimao.co|cilimao.one
 |cilimao.co##div[class^="FixBanner"]
 |cilimao.one##div[class^="FixBanner"]
 ||cilimao.*/amaod/
-$csp=script-src 'self' * 'unsafe-inline',domain=nodejs.cn|smsonline.cloud
+$csp=script-src 'self' * 'unsafe-inline',domain=smsonline.cloud
 ||anixwallpaper.com^$csp=script-src 'self' * 'unsafe-inline'
 ddooo.com##.gadat_list
 ddooo.com##.gs_list
