@@ -3288,7 +3288,6 @@ upornia.com##.cookie-notify
 kids.lego.com##.cookie-overlay_cookieOverlayContainer__V7Glz
 thirtyoneeight.org##.cookie-page-overlay
 rdu.com##.cookie-panel-wrapper
-swords-and-more.com##.cookie-permission-container
 evocsports.com##.cookie-permission-overlay
 mindworks-creative.com##.cookie-permission-popup
 vetstoria.com##.cookie-policy-acceptance-banner
@@ -5781,6 +5780,7 @@ sogeti.*###popup-cookieConsent
 |altabadialat.it##.cookie-permission-container
 |ausserhofer.bz##.cookie-permission-container
 |ballaro.eu##.cookie-permission-container
+|biere-aus-franken.de##.cookie-permission-container
 |bieronlineshop.ch##.cookie-permission-container
 |bike-lovers.it##.cookie-permission-container
 |bonsai-auer.com##.cookie-permission-container
@@ -5793,6 +5793,8 @@ sogeti.*###popup-cookieConsent
 |europa-shop-apotheke.de##.cookie-permission-container
 |fleurop.nl##.cookie-permission-container
 |folioverlag.com##.cookie-permission-container
+|global-messer.shop##.cookie-permission-container
+|glutenfrei-bier.com##.cookie-permission-container
 |hanako-koi.de##.cookie-permission-container
 |interaquaristik.de##.cookie-permission-container
 |kdshop.it##.cookie-permission-container
@@ -5807,6 +5809,7 @@ sogeti.*###popup-cookieConsent
 |pircher24.it##.cookie-permission-container
 |prantner.it##.cookie-permission-container
 |rudi-delago.com##.cookie-permission-container
+|swords-and-more.com##.cookie-permission-container
 |tieroase-lorsch.de##.cookie-permission-container
 |trauttmansdorff.it##.cookie-permission-container
 |tropical-deutschland.de##.cookie-permission-container
@@ -7313,6 +7316,7 @@ tomtom.com##.cookie_bar
 |wham.physics.wisc.edu##.cc-window
 |wisc.edu##.cc-window
 |zesty.tech##.cc-window
+bier-universum.*##.cc-window
 |advgazeta.ru##.popup
 |agcopartsbooks.com##.popup
 |beiersdorf.com##.popup
@@ -7632,6 +7636,8 @@ dryg.pl##div[class^="CookiesNoti"]
 |radio.menu###cookie-notice
 |recoveritalia.com###cookie-notice
 |removal.ai###cookie-notice
+|sangean.com###cookie-notice
+|sangean.eu###cookie-notice
 |sax-verlag.de###cookie-notice
 |skatedeluxe.com###cookie-notice
 |slot-mania.it###cookie-notice
@@ -9256,6 +9262,8 @@ jobs.datapizza.tech##.bottom-10
 |faberlic.com##.cookie-consent
 |factyl.com##.cookie-consent
 |forcepoint.com##.cookie-consent
+|ftm.eu##.cookie-consent
+|ftm.nl##.cookie-consent
 |gault-millau.nl##.cookie-consent
 |gaultmillau.be##.cookie-consent
 |gaultmillau.lu##.cookie-consent
@@ -11063,6 +11071,7 @@ naylorsfinance.com###gdproverlay
 |gipuzkoa.eus###klaro
 |handicap-love.de###klaro
 |hechingen.zollernalb-kinos.de###klaro
+|honest-rare.de###klaro
 |hotelaster.com###klaro
 |htgf.de###klaro
 |husqvarna-events.com###klaro
@@ -14646,7 +14655,6 @@ crossnative.com##.cookie-consent_overlay__SIXMM
 idw.de##.cookie-manager__overlay
 peax.ch##.cookie-note
 moebel-rieger.de##.cookie-permission-background
-global-messer.shop##.cookie-permission-container
 tee.at##.cookie-permission-outer
 finis-feinstes.at##.cookie-shadow
 bodenaturkost.de##.cookieBanner_start
@@ -14719,6 +14727,7 @@ unifilm.de##.form-dsgvo
 frankonia.de##.fr-c-message
 frankonia.de##.fr-c-message-wrap
 frs-helgoline.de##.frs__overlay
+getraenke-goebel.de##.fs-consent_component-2
 |fahrrad-xxl.at##.fxxl-cookie-mainmodal
 |fahrrad-xxl.de##.fxxl-cookie-mainmodal
 |galaxus.at##.gIRfBN
