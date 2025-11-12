@@ -17494,6 +17494,7 @@ just-eat.ie##div[data-qa="jet-privacy-settings"]
 |thecommonwealth.org###cookiesjsr
 |abcsinsights.com###cookieConsent
 |antena1.com.br###cookieConsent
+|author.today###cookieConsent
 |cellc.co.za###cookieConsent
 |eu-citizen.science###cookieConsent
 |finstat.cz###cookieConsent
@@ -49642,8 +49643,10 @@ webpronews.com##.modal-backdrop
 webpronews.com##html:style(overflow: auto !important)
 |psychiatrist.com##.kl-private-reset-css-Xuajs1.needsclick
 |windupwatchshop.com##.kl-private-reset-css-Xuajs1.needsclick
+|europesnus.com##.kl-private-reset-css-Xuajs1.needsclick
 |psychiatrist.com##body:style(overflow: auto !important)
 |windupwatchshop.com##body:style(overflow: auto !important)
+|europesnus.com##body:style(overflow: auto !important)
 addapinch.com##.cohoes-campaign
 addapinch.com##html:style(overflow: auto !important; position: initial !important;)
 outsports.com##.arlington-campaign
