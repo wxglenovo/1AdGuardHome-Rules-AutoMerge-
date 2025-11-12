@@ -15937,7 +15937,6 @@ f-secure.com##.fs-consent
 |brainhub.eu##.fs-consent_component
 |invoke.com##.fs-consent_component
 |min.io##.fs-consent_component
-|ricolacollection.com##.fs-consent_component
 |whaletv.com##.fs-consent_component
 |huntoffice.co.uk##.fs-cookie-banner
 |huntoffice.ie##.fs-cookie-banner
@@ -27342,7 +27341,6 @@ kubikum.com##+js(set-cookie, CookiePolicyComf, no)
 nsa-us.com##+js(set-cookie, CA, false)
 feinaactiva.gencat.cat##+js(set-cookie, cookie-consent, essential)
 engie.be##+js(set-cookie, cookie-consent, required)
-solana.com##+js(set-cookie, consent, rejected)
 puratos.*##+js(set-cookie, functionalCookieAccepted, true)
 |ostrzegamy.online##+js(set-cookie, rodo-acceptace, 1)
 |memo-book.pl##+js(set-cookie, rodo-acceptace, 1)
