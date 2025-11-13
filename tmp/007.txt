@@ -868,6 +868,7 @@ newduba.cn###jq_youxi
 ||rf10b9mq8.com^
 ||lls11130ko.com^
 ||airline49.top^
+||vkur.cn^
 ||9r0v0go0el.com^
 ||f6jd4k4xgo.com^
 ||lls11120ko.com^
@@ -9285,6 +9286,7 @@ meijutt.*/js/pcjs/
 ||natgeomedia.com/js/ads-parallax.
 ||shipin188.com/66
 /\/[a-z]+$/$script,third-party,domain=gimy.com.tw
+||rouman5.com/js/clickadu.
 zhihu.com##.Pc-word-new
 baozimh.org#?#.relative:-abp-has(>.bg-red-500)
 baozimh.org##a[href*="g-mh.com"]
@@ -9380,12 +9382,9 @@ baidu.com##.tieba-pause-ad-container
 laozuo.org###focusslide
 laozuo.org##.container[style="margin-bottom: 3px;"]
 laozuo.org##.widget_ui_orbui
-|rouman5.com##div[style^="display: flex;"]
-|roum20.xyz##div[style^="display: flex;"]
-|rouman5.com##ins
-|roum20.xyz##ins
-|rouman5.com###headlessui-portal-root
-|roum20.xyz###headlessui-portal-root
+rouman5.com##div[style^="display: flex;"]
+rouman5.com##ins
+rouman5.com###headlessui-portal-root
 sohu.com##.middle-insert-ad
 163.com##.hp_textlink1_ad
 163.com##.post_columnad_top
