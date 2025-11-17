@@ -2063,6 +2063,7 @@ hsph.harvard.edu##.wp-block-hsph-page-footer-cta
 humanists.uk##.wp-block-humanists-uk-bootstrap-campaigns-block
 humanists.uk##.wp-block-humanists-uk-bootstrap-notes-block
 watchers.news##.wp-block-kadence-infobox
+ms.now##.wp-block-msnbc-announcement
 san.com##.wp-block-san-news-popup
 techcrunch.com##.wp-block-techcrunch-inline-cta
 navylookout.com##.wp-block-template-part:has-text(Support us)
@@ -4381,10 +4382,8 @@ watchsomuchproxy.com##body:style(overflow: scroll !important)
 |news10.com##+js(aeld, scroll)
 |wavy.com##+js(aeld, scroll)
 |finance.yahoo.com##+js(aeld, scroll)
-|msnbc.com##.styles_stuck__gtILi
 |today.com##.styles_stuck__gtILi
 |nbcnews.com##.styles_stuck__gtILi
-|msnbc.com##+js(rc, styles_stuck__gtILi, , stay)
 |today.com##+js(rc, styles_stuck__gtILi, , stay)
 |nbcnews.com##+js(rc, styles_stuck__gtILi, , stay)
 independent.co.uk##+js(rc, sticky, , stay)
@@ -45669,7 +45668,6 @@ highsnobiety.com##.mpu___jBf9d
 msmagazine.com##.ms-actions
 |autosport.com##.ms-footer_top
 |motorsport.com##.ms-footer_top
-msnbc.com##.msnbcDaily__footer
 |insideevs.com##.msnt-mail-dialog
 |motor1.com##.msnt-mail-dialog
 insideevs.com##.msnt-mail-footer
@@ -46508,6 +46506,7 @@ mamamia.com.au##.subscribe-border-bottom
 |infoq.com##.subscribe-box
 |insidehighered.com##.subscribe-box
 |mamamia.com.au##.subscribe-box
+|ms.now##.subscribe-box
 |onmilwaukee.com##.subscribe-box
 |oversixty.co.nz##.subscribe-box
 |paloaltonetworks.com##.subscribe-box
