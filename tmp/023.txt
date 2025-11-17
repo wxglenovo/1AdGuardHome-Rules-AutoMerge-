@@ -1705,7 +1705,8 @@ lwlies.com##.imageBanner
 metservice.com##.img-responsive-container
 snopes.com##.in-house-placement
 brighteon.com##.index_top_banner
-luzmedia.co##.indietech-support-widget
+|luzmedia.co##.indietech-support-widget
+|therover.ca##.indietech-support-widget
 theinertia.com##.inertia-contribute-home
 thespinoff.co.nz##.infinite-scroll-divider
 road.cc##.info-subscription-box
@@ -5867,7 +5868,6 @@ cars.com##.global-footer-social-buttons
 tweaktown.com##.gnci
 phonearena.com##.gnews-wrapper
 oneindia.com##.goog-one-news
-cnbctv18.com##.google-btn-div
 dailyartmagazine.com##.google-feed-row
 pcguide.com##.google-news
 crypto.news##.google-news-banner
@@ -8761,6 +8761,7 @@ royalqueenseeds.*##.social-media-icons-footer
 |the-decoder.com##.social-icons
 |thechunkychef.com##.social-icons
 |thegrayzone.com##.social-icons
+|therover.ca##.social-icons
 |thetoyinsider.com##.social-icons
 |thewindowsclub.com##.social-icons
 |trtafrika.com##.social-icons
@@ -35642,6 +35643,8 @@ shangri-la.com###js-cookie-modal
 shangri-la.com##body,html:style(overflow: auto !important; position: initial !important;)
 farmer.pl###rodoPopup
 farmer.pl##+js(aopw, FrodoPV)
+therover.ca###cc--main
+therover.ca##html:style(overflow:auto !important)
 |ccifj.or.jp###orejime
 |masante.belgique.be###orejime
 |ccifj.or.jp##body,html:style(overflow: auto !important; position: initial !important;)
@@ -45121,6 +45124,7 @@ playswellwithbutter.com##.hayes-subscription-widget
 |jlconline.com##.hd-promo
 biztechmagazine.com##.hdr-top
 theprovince.com##.header-breaking__secondary
+therover.ca##.header-newsletter
 heraldnet.com##.header-newsletter-btn
 techonomy.com##.header-newsletter-cta
 iflscience.com##.header-secondary
@@ -46651,6 +46655,7 @@ gearpatrol.com##.wp-block-gearpatrol-newsletter-signup
 themom100.com##.wp-block-group-is-layout-flow
 cookingwithjanica.com##.wp-block-group__inner-container
 interiordesign.net##.wp-block-id-newsletter
+therover.ca##.wp-block-indiegraf-email-capture
 |eletric-vehicles.com##.wp-block-jetpack-subscriptions
 |snackstack.net##.wp-block-jetpack-subscriptions
 retailwire.com##.wp-block-kadence-conversions-conversion
