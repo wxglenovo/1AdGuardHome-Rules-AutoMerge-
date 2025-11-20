@@ -86,9 +86,9 @@ tab-size: var(--tab-size-preference);
 <meta name="route-pattern" content="/:user_id/:repository" data-turbo-transient>
 <meta name="route-controller" content="files" data-turbo-transient>
 <meta name="route-action" content="disambiguate" data-turbo-transient>
-<meta name="fetch-nonce" content="v2:68058df4-a70d-6419-7f71-03c410035df0">
+<meta name="fetch-nonce" content="v2:9cc4e3cd-2779-39ca-d7eb-8c2b058f2136">
 <meta name="current-catalog-service-hash" content="f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb">
-<meta name="request-id" content="7BC2:164EC4:1CC534:28A9C2:691F84AE" data-pjax-transient="true"/><meta name="html-safe-nonce" content="2e4df0d37f5a2b5f49e178262d77d92b4a97e044551ac5e5a03e90ca7bd066b4" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI3QkMyOjE2NEVDNDoxQ0M1MzQ6MjhBOUMyOjY5MUY4NEFFIiwidmlzaXRvcl9pZCI6IjU1MTY5Njc5OTk3OTc0Mjk0MjIiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="ed926fa139876bc158a6bed83e9efb9b999a9bd0cf033eb7632268e838a43409" data-pjax-transient="true"/>
+<meta name="request-id" content="67C2:238B08:31F64E:473290:691F8879" data-pjax-transient="true"/><meta name="html-safe-nonce" content="8b4388614b4d82b993d78926022babcf6599ef4ae52d09b87d475e297b4791b0" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI2N0MyOjIzOEIwODozMUY2NEU6NDczMjkwOjY5MUY4ODc5IiwidmlzaXRvcl9pZCI6IjYyMTg3MDkxOTg2MTg3MjQ0NzMiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="9c5f180447c5448837de2970532d0dc28aa24b7976616aea527572be796185a0" data-pjax-transient="true"/>
 <meta name="hovercard-subject-tag" content="repository:218568420" data-turbo-transient>
 <meta name="github-keyboard-shortcuts" content="repository,copilot" data-turbo-transient="true" />
 <meta name="selected-link" value="repo_source" data-turbo-transient>
@@ -184,10 +184,10 @@ Sign in
 </a>
 <div class="AppHeader-appearanceSettings">
 <react-partial-anchor>
-<button data-target="react-partial-anchor.anchor" id="icon-button-71879209-7807-4113-be15-e46109479ee8" aria-labelledby="tooltip-2edc31b9-345d-40b0-8e54-d1f33a3ead21" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
+<button data-target="react-partial-anchor.anchor" id="icon-button-c2d9e83c-b3e4-41d6-ab67-5aabc73d2a05" aria-labelledby="tooltip-0676c455-5a1d-4b69-b9ab-65ee162f40db" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
 <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip id="tooltip-2edc31b9-345d-40b0-8e54-d1f33a3ead21" for="icon-button-71879209-7807-4113-be15-e46109479ee8" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
+</button><tool-tip id="tooltip-0676c455-5a1d-4b69-b9ab-65ee162f40db" for="icon-button-c2d9e83c-b3e4-41d6-ab67-5aabc73d2a05" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 <template data-target="react-partial-anchor.template">
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react.a2372895bf899ec482a2.module.css" />
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/appearance-settings.753d458774a2f782559b.module.css" />
@@ -714,7 +714,7 @@ Enterprise-grade 24/7 support
 </ul>
 </nav>
 <div class="d-flex flex-column flex-lg-row width-full flex-justify-end flex-lg-items-center text-center mt-3 mt-lg-0 text-lg-left ml-lg-3">
-<qbsearch-input class="search-input" data-scope="repo:durablenapkin/scamblocklist" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="a9svQ_sDonAVH1UceeM7_tYU30PiR2874FITcqOPawidFShicHkRzoBiQOWt3Y8HJf7vA8zd4GeUo2wblFn2GA" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="durablenapkin/scamblocklist" data-current-org="" data-current-owner="durablenapkin" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
+<qbsearch-input class="search-input" data-scope="repo:durablenapkin/scamblocklist" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="0syUdwVAxNeRwJvYIMury0Eyh_nQ9vTkR-IB0t2673_dHrmkAR7OryQFyav4RFbBhdRwjJDtmzGFfm82C4Yehw" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="durablenapkin/scamblocklist" data-current-org="" data-current-owner="durablenapkin" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
 <div
 class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center mr-4 rounded"
 data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -774,7 +774,7 @@ data-target="query-builder.styledInputContent"
 ></div>
 <div class="QueryBuilder-InputWrapper">
 <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-<input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-2e017de4-aefc-44b5-8437-1367b0432575" data-target="query-builder.input" data-action="
+<input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-a2d0eb44-b802-4ca4-aaaf-13226837fb5a" data-target="query-builder.input" data-action="
 input:query-builder#inputChange
 blur:query-builder#inputBlur
 keydown:query-builder#inputKeydown
@@ -977,7 +977,7 @@ id="query-builder-test-results"
 tabindex="-1"
 ></ul>
 </div>
-<div class="FormControl-inlineValidation" id="validation-2e017de4-aefc-44b5-8437-1367b0432575" hidden="hidden">
+<div class="FormControl-inlineValidation" id="validation-a2d0eb44-b802-4ca4-aaaf-13226837fb5a" hidden="hidden">
 <span class="FormControl-inlineValidation--visual">
 <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
 <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -1014,7 +1014,7 @@ Provide feedback
 </div>
 </div>
 <scrollable-region data-labelled-by="feedback-dialog-title">
-<div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="6xpaaYKt8CSkHTnX7qm20cQKfDh92YIttk5p0P9nY5b5RoFzsAqTk8WI8P3msXFqND6lidqd/FSiPmDPBHyrPw==" />
+<div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="NP1cjNl4SDsxUAMfvQP8k+IeEjyHUMC/hboepKLxIbykHCnzzioYLdHBSyYrJYtWSdSV4hGEtQ0qrsnJLosuBw==" />
 <p>We read every piece of feedback, and take your input very seriously.</p>
 <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
 <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -1048,7 +1048,7 @@ Saved searches
 <scrollable-region data-labelled-by="custom-scopes-dialog-title">
 <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-<!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="W0RauOdmqIEQkZjxSiFkRE7gjCDflSmAJUUVEFBP7DFyMon13hqdX+hMdBdm7Ad2EX0ZjdxKqODCCnYfUYPpSA==" />
+<!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="oHM0i+Qi2CPzl7iPYWyf2nDQJYVsU6sk75avh2t8YLRrClCWSz8MB9wedL1WmOH1KvXd9Y44Oj/I+tvTZuIO9g==" />
 <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
 <div class="form-group">
@@ -1064,7 +1064,7 @@ autocomplete="off"
 placeholder="github-ruby"
 required
 maxlength="50">
-<input type="hidden" data-csrf="true" value="vNC7Qi/M4l6R95Z6UE8PwW+BRDDBUoJ2OLTz17NCrW1fxaTWvQtDWY9tGYmxki08sAz8uzkDV3UQjXkIzsxqzA==" />
+<input type="hidden" data-csrf="true" value="gTCgxEr72JWF7PJxyfrzd/nnEtrHt9xz61GrUnxsw8y4zLUHnUqdWSnDWpJlH4oGQXRIOTyuZo+aq7+laGMHtQ==" />
 </auto-check>
 </div>
 <div class="form-group">
@@ -1118,10 +1118,10 @@ Sign up
 </a>
 <div class="AppHeader-appearanceSettings">
 <react-partial-anchor>
-<button data-target="react-partial-anchor.anchor" id="icon-button-22d93b9b-faee-42c7-9458-f16e90c20026" aria-labelledby="tooltip-22754aae-20a3-46e3-b95f-d5ceb9ee1704" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
+<button data-target="react-partial-anchor.anchor" id="icon-button-d8060b10-3175-4556-b143-2e50782c5d3b" aria-labelledby="tooltip-a945da22-680d-4643-b349-dc3fd6477acb" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
 <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip id="tooltip-22754aae-20a3-46e3-b95f-d5ceb9ee1704" for="icon-button-22d93b9b-faee-42c7-9458-f16e90c20026" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
+</button><tool-tip id="tooltip-a945da22-680d-4643-b349-dc3fd6477acb" for="icon-button-d8060b10-3175-4556-b143-2e50782c5d3b" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 <template data-target="react-partial-anchor.template">
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react.a2372895bf899ec482a2.module.css" />
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/appearance-settings.753d458774a2f782559b.module.css" />
@@ -1150,10 +1150,10 @@ data-react-profiling="false"
 <span class="js-stale-session-flash-signed-in" hidden>You signed in with another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
-<button id="icon-button-a215058b-3ae7-4aac-bff8-ea95e9ed6585" aria-labelledby="tooltip-cccd9a2c-7fb3-478d-8d57-fc8acb4dc5da" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+<button id="icon-button-92e6736b-8188-4a62-80f2-0556333436a7" aria-labelledby="tooltip-c1eb74a2-5ca3-4a4e-b59f-64c57b4a285a" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
 <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-cccd9a2c-7fb3-478d-8d57-fc8acb4dc5da" for="icon-button-a215058b-3ae7-4aac-bff8-ea95e9ed6585" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-c1eb74a2-5ca3-4a4e-b59f-64c57b4a285a" for="icon-button-92e6736b-8188-4a62-80f2-0556333436a7" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 </div>
 </div>
 <div id="start-of-content" class="show-on-focus"></div>
@@ -1206,7 +1206,7 @@ durablenapkin
 <a href="/login?return_to=%2Fdurablenapkin%2Fscamblocklist" rel="nofollow" id="repository-details-watch-button" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/durablenapkin/scamblocklist&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="6aea9e9e85729c702414598e34c3d7897b593348a8dd306374e9846b87ba7966" aria-label="You must be signed in to change notification settings" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
 <path d="M8 16a2 2 0 0 0 1.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 0 0 8 16ZM3 5a5 5 0 0 1 10 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.519 1.519 0 0 1 13.482 13H2.518a1.516 1.516 0 0 1-1.263-2.36l1.703-2.554A.255.255 0 0 0 3 7.947Zm5-3.5A3.5 3.5 0 0 0 4.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.017.017 0 0 0-.003.01l.001.006c0 .002.002.004.004.006l.006.004.007.001h10.964l.007-.001.006-.004.004-.006.001-.007a.017.017 0 0 0-.003-.01l-1.703-2.554a1.745 1.745 0 0 1-.294-.97V5A3.5 3.5 0 0 0 8 1.5Z"></path>
 </svg>Notifications
-</a>    <tool-tip id="tooltip-93c6929f-99fa-4dd3-a162-d9ac20bca275" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
+</a>    <tool-tip id="tooltip-6c582bcb-6bc8-45eb-9c85-aca31bcb2071" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
 </li>
 <li>
 <a icon="repo-forked" id="fork-button" href="/login?return_to=%2Fdurablenapkin%2Fscamblocklist" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:218568420,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/durablenapkin/scamblocklist&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="979ba95ec64259cf9463ae956037d4ff93c04ef80ddce32e41b51d8e885b208e" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
@@ -1287,7 +1287,7 @@ Star
 <a href="/login?return_to=%2Fdurablenapkin%2Fscamblocklist" rel="nofollow" id="files-overview-watch-button" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/durablenapkin/scamblocklist&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="6aea9e9e85729c702414598e34c3d7897b593348a8dd306374e9846b87ba7966" aria-label="You must be signed in to change notification settings" data-view-component="true" class="btn-sm btn btn-block">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
 <path d="M8 16a2 2 0 0 0 1.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 0 0 8 16ZM3 5a5 5 0 0 1 10 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.519 1.519 0 0 1 13.482 13H2.518a1.516 1.516 0 0 1-1.263-2.36l1.703-2.554A.255.255 0 0 0 3 7.947Zm5-3.5A3.5 3.5 0 0 0 4.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.017.017 0 0 0-.003.01l.001.006c0 .002.002.004.004.006l.006.004.007.001h10.964l.007-.001.006-.004.004-.006.001-.007a.017.017 0 0 0-.003-.01l-1.703-2.554a1.745 1.745 0 0 1-.294-.97V5A3.5 3.5 0 0 0 8 1.5Z"></path>
 </svg>Notifications
-</a>    <tool-tip id="tooltip-dbd2d251-35e5-4ed1-a3f6-3a946d2062f0" for="files-overview-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
+</a>    <tool-tip id="tooltip-2fb89ccc-2455-4b08-bee4-45942804a365" for="files-overview-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
 </div>
 <span>
 </span>
@@ -1334,7 +1334,7 @@ Star
 <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
 </svg>
 <span data-content="Security">Security</span>
-<include-fragment src="/durablenapkin/scamblocklist/security/overall-count" accept="text/fragment+html" data-nonce="v2:68058df4-a70d-6419-7f71-03c410035df0" data-view-component="true">
+<include-fragment src="/durablenapkin/scamblocklist/security/overall-count" accept="text/fragment+html" data-nonce="v2:9cc4e3cd-2779-39ca-d7eb-8c2b058f2136" data-view-component="true">
 <div data-show-on-forbidden-error hidden>
 <div class="Box">
 <div class="blankslate-container">
@@ -1358,17 +1358,17 @@ Star
 </ul>
 <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 pr-md-4 pr-lg-5 right-0">      <action-menu data-select-variant="none" data-view-component="true">
 <focus-group direction="vertical" mnemonics retain>
-<button id="action-menu-bc328c06-a1d8-46db-ac02-8644ecf531b3-button" popovertarget="action-menu-bc328c06-a1d8-46db-ac02-8644ecf531b3-overlay" aria-controls="action-menu-bc328c06-a1d8-46db-ac02-8644ecf531b3-list" aria-haspopup="true" aria-labelledby="tooltip-7d5d0d07-849f-4b34-81be-b0079c64799c" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+<button id="action-menu-d5170159-647a-423b-8c5b-0decdae5476f-button" popovertarget="action-menu-d5170159-647a-423b-8c5b-0decdae5476f-overlay" aria-controls="action-menu-d5170159-647a-423b-8c5b-0decdae5476f-list" aria-haspopup="true" aria-labelledby="tooltip-3a63564a-2804-40c2-9174-9fb5645ecc0d" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
 <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-7d5d0d07-849f-4b34-81be-b0079c64799c" for="action-menu-bc328c06-a1d8-46db-ac02-8644ecf531b3-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
-<anchored-position data-target="action-menu.overlay" id="action-menu-bc328c06-a1d8-46db-ac02-8644ecf531b3-overlay" anchor="action-menu-bc328c06-a1d8-46db-ac02-8644ecf531b3-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+</button><tool-tip id="tooltip-3a63564a-2804-40c2-9174-9fb5645ecc0d" for="action-menu-d5170159-647a-423b-8c5b-0decdae5476f-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
+<anchored-position data-target="action-menu.overlay" id="action-menu-d5170159-647a-423b-8c5b-0decdae5476f-overlay" anchor="action-menu-d5170159-647a-423b-8c5b-0decdae5476f-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
 <div data-view-component="true" class="Overlay Overlay--size-auto">
 <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
 <div data-view-component="true">
-<ul aria-labelledby="action-menu-bc328c06-a1d8-46db-ac02-8644ecf531b3-button" id="action-menu-bc328c06-a1d8-46db-ac02-8644ecf531b3-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+<ul aria-labelledby="action-menu-d5170159-647a-423b-8c5b-0decdae5476f-button" id="action-menu-d5170159-647a-423b-8c5b-0decdae5476f-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
 <li hidden="hidden" data-menu-item="i0code-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
-<a tabindex="-1" id="item-12e13f96-1abb-4590-b960-e0059f423eec" href="/durablenapkin/scamblocklist" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+<a tabindex="-1" id="item-4bad8f71-4403-4b08-8a60-fdeefb194f37" href="/durablenapkin/scamblocklist" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
 <span class="ActionListItem-visual ActionListItem-visual--leading">
 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
 <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1380,7 +1380,7 @@ Code
 </a>
 </li>
 <li hidden="hidden" data-menu-item="i1issues-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
-<a tabindex="-1" id="item-4d469985-037d-41cd-ba71-284bf9bf45c8" href="/durablenapkin/scamblocklist/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+<a tabindex="-1" id="item-05d18446-4d1c-4d42-9310-05a877d29cce" href="/durablenapkin/scamblocklist/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
 <span class="ActionListItem-visual ActionListItem-visual--leading">
 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
 <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -1392,7 +1392,7 @@ Issues
 </a>
 </li>
 <li hidden="hidden" data-menu-item="i2pull-requests-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
-<a tabindex="-1" id="item-4baaabed-afd6-429e-9e87-327f85261311" href="/durablenapkin/scamblocklist/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+<a tabindex="-1" id="item-330d50d1-29f5-4ca2-9d2d-66bc1234a40e" href="/durablenapkin/scamblocklist/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
 <span class="ActionListItem-visual ActionListItem-visual--leading">
 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
 <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -1404,7 +1404,7 @@ Pull requests
 </a>
 </li>
 <li hidden="hidden" data-menu-item="i3actions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
-<a tabindex="-1" id="item-152e4319-2fe3-4156-bcfe-76d4c16c75cf" href="/durablenapkin/scamblocklist/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+<a tabindex="-1" id="item-a0285a1c-cb6b-43c8-ab86-dd7e9fc084e2" href="/durablenapkin/scamblocklist/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
 <span class="ActionListItem-visual ActionListItem-visual--leading">
 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
 <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1416,7 +1416,7 @@ Actions
 </a>
 </li>
 <li hidden="hidden" data-menu-item="i4security-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
-<a tabindex="-1" id="item-cd29118c-0e03-4348-9e1e-5352cfd0a273" href="/durablenapkin/scamblocklist/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+<a tabindex="-1" id="item-1bb4e4e7-f9c9-4312-b671-e019ebf1a20a" href="/durablenapkin/scamblocklist/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
 <span class="ActionListItem-visual ActionListItem-visual--leading">
 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield">
 <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
@@ -1428,7 +1428,7 @@ Security
 </a>
 </li>
 <li hidden="hidden" data-menu-item="i5insights-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
-<a tabindex="-1" id="item-ab31ba94-1b87-4912-9983-f3c189cbfb09" href="/durablenapkin/scamblocklist/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+<a tabindex="-1" id="item-3643bf7f-22ef-470a-9cd9-5dbdb8475970" href="/durablenapkin/scamblocklist/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
 <span class="ActionListItem-visual ActionListItem-visual--leading">
 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph">
 <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1492,7 +1492,7 @@ data-react-profiling="false"
 </ul>
 </article></div></div></div></div></div> <!-- --> <!-- --> <script type="application/json" id="__PRIMER_DATA_:R0:__">{"resolvedServerColorMode":"day"}</script></div>
 </react-partial>
-<input type="hidden" data-csrf="true" value="i5yxrIuSOoMQZ9Vrj7ILVcGfQb66AOcwdebO8E4cmItKQPTjiCo7x+3R6MEoC8rnEc731dU8QuAEazLORJOqTA==" />
+<input type="hidden" data-csrf="true" value="nWuWRYPDRWEqZEMc2o0/FeYhk8tvnWhGrEfRE6rIg/bu2TxeJ3bQ9qc6Mf3VgYf+G33KOMb/6Q24arhH3lE9bA==" />
 </div>
 <div data-view-component="true" class="Layout-sidebar">
 <div class="BorderGrid about-margin" data-pjax>
@@ -1555,7 +1555,7 @@ data-analytics-event="{&quot;category&quot;:&quot;Repository Overview&quot;,&quo
 MIT license
 </a>
 </div>
-<include-fragment src="/durablenapkin/scamblocklist/hovercards/citation/sidebar_partial?tree_name=master" data-nonce="v2:68058df4-a70d-6419-7f71-03c410035df0" data-view-component="true">
+<include-fragment src="/durablenapkin/scamblocklist/hovercards/citation/sidebar_partial?tree_name=master" data-nonce="v2:9cc4e3cd-2779-39ca-d7eb-8c2b058f2136" data-view-component="true">
 <div data-show-on-forbidden-error hidden>
 <div class="Box">
 <div class="blankslate-container">
