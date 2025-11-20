@@ -2095,6 +2095,7 @@ woolworths.co.nz###cartology-product-cig-tile:has-text(Start Free Trial)
 |x.com###layers[style="z-index: 1;"]:has(div[role="dialog"] a[href="/i/premium_sign_up"][style])
 deviantart.com##.ReactModalPortal + div[class]:has(> iframe[title="DealerAdIframe"])
 airfry.pro##.bg-gradient-to-br:has-text(Cookbook)
+claude.ai##.border-border-200:has-text(Try Claude Desktop now)
 eventbrite.com##.event-card:has([class*="EventCardPromoted-module"])
 jinxxy.com##.grid > .relative:has(.block[href^="https://"])
 theworld.org##.mui-style-9ulf7o-root:has-text(Donate today!)
@@ -14097,6 +14098,7 @@ novaramedia.com###obligation-bar
 swappa.com###offcanvasCookiesConsent
 postgraduatesearch.com###ol
 estrid.com###onetrust-banner
+openu.ac.il###openu_privacy_protection_policy_alert
 pollylingu.al###opt-form
 atlantic.money###opt-in
 accenture.com###optanon-minimize-wrapper
@@ -22001,6 +22003,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |maximintegrated.com###onetrust-consent-sdk
 |mention.com###onetrust-consent-sdk
 |mesaboogie.com###onetrust-consent-sdk
+|metacritic.com###onetrust-consent-sdk
 |millenniumhotels.com###onetrust-consent-sdk
 |moccona.sg###onetrust-consent-sdk
 |motoscout24.ch###onetrust-consent-sdk
@@ -22110,6 +22113,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |maximintegrated.com##.onetrust-pc-dark-filter
 |mention.com##.onetrust-pc-dark-filter
 |mesaboogie.com##.onetrust-pc-dark-filter
+|metacritic.com##.onetrust-pc-dark-filter
 |moccona.sg##.onetrust-pc-dark-filter
 |motoscout24.ch##.onetrust-pc-dark-filter
 |msn.com##.onetrust-pc-dark-filter
