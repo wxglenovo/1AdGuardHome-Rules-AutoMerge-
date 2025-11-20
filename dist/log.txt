@@ -3,8 +3,8 @@
 🚫 去掉注释行: ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 🚫 去掉注释行: ! Homepage: https://github.com/217heidai/adblockfilters
 🚫 去掉注释行: ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-🚫 去掉注释行: ! Version: 20251120001007
-🚫 去掉注释行: ! Last modified: 2025/11/20 00:10:07
+🚫 去掉注释行: ! Version: 20251120083154
+🚫 去掉注释行: ! Last modified: 2025/11/20 08:31:54
 🚫 去掉注释行: ! Blocked domains: 5260
 🚫 去掉注释行: ! unBlocked domains: 17
 🚫 去掉注释行: !
@@ -35,8 +35,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !生成时间: 2025-11-20 07:32:21
-🚫 去掉注释行: !有效规则数目: 1485671
+🚫 去掉注释行: !生成时间: 2025-11-20 07:45:40
+🚫 去掉注释行: !有效规则数目: 1485674
 🚫 去掉注释行: ! Version: 20230323162617
 🚫 去掉注释行: ! Title: adgk手机去广告规则
 🚫 去掉注释行: ! Homepage: https://github.com/banbendalao/ADgk
@@ -1176,10 +1176,10 @@
 ✅ 多域名拆分: baidu.com,youdao.com#@#.share-content
     → |baidu.com#@#.share-content
     → |youdao.com#@#.share-content
-🚫 去掉注释行: ! Checksum: nuj7dNIfC19hLW+VIsZduw
-🚫 去掉注释行: ! Version: 202511192331
+🚫 去掉注释行: ! Checksum: +0GWLTUKw7jWNU6d+1/YDg
+🚫 去掉注释行: ! Version: 202511200051
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 19 Nov 2025 23:31 UTC
+🚫 去掉注释行: ! Last modified: 20 Nov 2025 00:51 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -1867,10 +1867,10 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: 7th9PQoI32YqZ+GwLb17bQ
-🚫 去掉注释行: ! Version: 202511192331
+🚫 去掉注释行: ! Checksum: JyFmo4vZNeO2K9U+4s41nQ
+🚫 去掉注释行: ! Version: 202511200051
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 19 Nov 2025 23:31 UTC
+🚫 去掉注释行: ! Last modified: 20 Nov 2025 00:51 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -6373,10 +6373,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: OOJGRCxh3rDDZuRdkG7W5A
-🚫 去掉注释行: ! Version: 202511192331
+🚫 去掉注释行: ! Checksum: l9MzEHQt86F3mknLNmcDWA
+🚫 去掉注释行: ! Version: 202511200051
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 19 Nov 2025 23:31 UTC
+🚫 去掉注释行: ! Last modified: 20 Nov 2025 00:51 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29700,9 +29700,9 @@
 🚫 去掉注释行: ! 生成时间: 自动构建
 🚫 去掉注释行: ! 原始规则数: 185979
 🚫 去掉注释行: ! 压缩后规则数: 185979
-🚫 去掉注释行: ! Checksum: 7EPkwXIAixj02MOnYFCYbA
+🚫 去掉注释行: ! Checksum: lg8D2S/bzrey4ozYmtpblg
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Updated: 2025-11-19 22:38 UTC
+🚫 去掉注释行: ! Updated: 2025-11-20 00:10 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
@@ -169923,11 +169923,11 @@
 🚫 去掉注释行: ! Contribute: https://github.com/durablenapkin/scamblocklist/issues
 🚫 去掉注释行: ! License: MIT (https://mit-license.org/)
 🚫 去掉注释行: ! Optimized Expressions, thx DandelionSprout
-🚫 去掉注释行: ! Version: 202511192324
+🚫 去掉注释行: ! Version: 202511200054
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 19 Nov 2025 23:24 UTC
+🚫 去掉注释行: ! Last modified: 20 Nov 2025 00:54 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: dde3ee73bc8ae7f23f1a508f88e071a338ee9043
+🚫 去掉注释行: ! Commit: 62be9e6d054b126b6fb9816d2bc003f38dc58832
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -193044,10 +193044,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: zKsthl2n+PYfmO92Hdmo1w
-🚫 去掉注释行: ! Version: 202511192242
+🚫 去掉注释行: ! Checksum: XGvsS927TUcj6vSSJv43iQ
+🚫 去掉注释行: ! Version: 202511200042
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2025-11-19 22:42 UTC
+🚫 去掉注释行: ! Last modified: 2025-11-20 00:42 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -257911,11 +257911,11 @@
 🚫 去掉注释行: ! 5kporn.com
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Version: 202511192336
+🚫 去掉注释行: ! Version: 202511200101
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 19 Nov 2025 23:36 UTC
+🚫 去掉注释行: ! Last modified: 20 Nov 2025 01:01 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: ace8342ba88cf769c62cb6d30aa4a4356ca92fad
+🚫 去掉注释行: ! Commit: 6dcd3ae7f01f8c6b56aea36ee7065d1efa1c34f7
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
