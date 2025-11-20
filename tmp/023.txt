@@ -1768,6 +1768,7 @@ restofworld.org##.merch
 |eurogamer.net##.merch_component
 |rockpapershotgun.com##.merch_component
 |vg247.com##.merch_component
+thecrimson.com##.message-desktop
 miraheze.org##.mh-notice
 midhudsonnews.com##.midhu-target
 motherjones.com##.mj-adblock-widget
@@ -5239,6 +5240,7 @@ jpost.com##.article-subline-inner-share-buttons
 |altalex.com##.article-tools
 |dailystar.com.lb##.article-tools
 |eurekalert.org##.article-tools
+theparisreview.org##.article-tools-social
 businesstech.co.za##.article-top-bar-share
 www.psu.edu##.article-top-social-share_content__OYcDe
 nationalreview.com##.article-utility-nav
@@ -35617,8 +35619,10 @@ shangri-la.com###js-cookie-modal
 shangri-la.com##body,html:style(overflow: auto !important; position: initial !important;)
 farmer.pl###rodoPopup
 farmer.pl##+js(aopw, FrodoPV)
-therover.ca###cc--main
-therover.ca##html:style(overflow:auto !important)
+|univie.ac.at###cc--main
+|therover.ca###cc--main
+|univie.ac.at##html:style(overflow:auto !important)
+|therover.ca##html:style(overflow:auto !important)
 |ccifj.or.jp###orejime
 |masante.belgique.be###orejime
 |ccifj.or.jp##body,html:style(overflow: auto !important; position: initial !important;)
@@ -43403,6 +43407,7 @@ tmz.com###browser-notifications-prompt
 |sinya.com.tw###cboxOverlay
 |westhawaiitoday.com###cboxOverlay
 gatestoneinstitute.org###cboxWrapper
+neon.com###changelog-form
 holdthecarbs.ca###chated-iframe
 holdthecarbs.ca###chated-overlay
 ambcrypto.com###cm-embed_signup
