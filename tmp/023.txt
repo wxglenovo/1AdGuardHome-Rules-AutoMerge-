@@ -14735,6 +14735,7 @@ firstclasswatches.com##.cky-consent-bar
 |firstclasswatches.com##.cky-overlay
 |oiq.qc.ca##.cky-overlay
 |voip.ms##.cky-overlay
+jackjones.com##.cky-overlay-custom
 clineva.com##.clineva-cookies-info
 oipc.bc.ca##.clsPopupContainer
 |corporate.monro.com##.cm
@@ -46609,6 +46610,7 @@ seekingalpha.com##.z-sticky.bottom-0.sticky:has-text(opportunity)
 polygon.com##[class]:has(> .duet--cta--newsletter)
 lowes.com##[data-testid="scroll-modal-wrapper"]:has-text(sign up)
 politicalwire.com#?##custom_html-12:-abp-contains(newsletters)
+bytesauna.com##div.ReactModalPortal:has-text(Your email address)
 haitiantimes.com##div.is-style-border:has-text(Daily News)
 gizmodo.com##div.mt-10:has-text(Daily Newsletter)
 kotaku.com##div.mt-10:has-text(newsletter)
