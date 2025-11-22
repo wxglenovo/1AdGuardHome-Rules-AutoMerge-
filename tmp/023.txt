@@ -32854,8 +32854,6 @@ tnt.it##.cookie-message
 doka.com##+js(set-cookie, hide_cookieoverlay_v2, 1, , reload, 1)
 doka.com##+js(set-cookie, socialmedia-cookies_allowed_v2, 0)
 doka.com##+js(set-cookie, performance-cookies_allowed_v2, 0)
-foodnetwork.com###ltp-dialog
-foodnetwork.com##body:style(overflow:auto !important)
 leireg.de###cc_underlay
 |breakwaterit.co.uk###cc
 |unternehmensregister.de###cc
@@ -40525,6 +40523,7 @@ sberindex.ru##[class^="styles_Layout__cookiePanel_"]
 cian.ru##[data-name^="CookiesNotification"]
 online.sberbank.ru##[data-testid="cookie-policy"]
 detmir.ru##[data-testid="cookieNotificationText"]
+matchtv.ru##[data-testid="w-accept-cookie-notification"]
 sportmk.ru##[style^="position: fixed; left: 50%; bottom:"]
 sdamgia.ru##[style^="text-align: left; position: fixed;"]
 fastvps.ru##app-cookies-accept
@@ -44103,7 +44102,8 @@ thenarwhal.ca##.brave_popup
 |staradvertiser.com##.breaking-news-signup
 the-express.com##.breakout
 101cookbooks.com##.browsemore
-fabriziovanmarciano.com##.brx-popup
+|fabriziovanmarciano.com##.brx-popup
+|liber-net.org##.brx-popup
 bigthink.com##.bt-block__inner
 patch.com##.btn--follow
 venturebanc.com##.btn_footer_get_listed
@@ -46485,6 +46485,7 @@ michiganmedicine.org##labcoat-promo
 miamiherald.com##newsletter-signup-feature
 bcg.com##ps-subscription-module
 extremetech.com##section > .mt-8
+forty.news##section.newspaper-column
 christianpost.com##section[class^="inline-newsletter"]
 regain.us##section[data-testid="newsletter-section"]
 pedestrian.tv##ticker-subscription
@@ -49525,6 +49526,8 @@ abeka.com##.modal-backdrop
 abeka.com##body,html:style(overflow: auto !important; position: initial !important;)
 psychcentral.com###modal-host
 psychcentral.com##body,html:style(overflow: auto !important; position: initial !important;)
+theamericanscholar.org##.accokeek-campaign
+theamericanscholar.org##body:style(overflow:auto !important)
 dispatchlive.co.za###register-popup-backdrop
 dispatchlive.co.za##.register-modal-popup-wrapper
 dispatchlive.co.za##body,html:style(overflow: auto !important; position: initial !important;)
