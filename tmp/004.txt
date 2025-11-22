@@ -9528,7 +9528,7 @@ appinn.com##a[href*=".houdeyun.cn"]
 fitacg.com##a[href*="ifift.com"]
 cnys.tv###player_pause
 twkan.com##.txtcenter
-element-plus.org##.doc-content-zosdsoycx
+element-plus.org##aside > div[class^="doc-content-"]
 hcbbs.com##.wp > div:not([id]):not([class]) > a > img[src*=".imgdb.cn"]
 sehuatang.net##DIV[class^="show-text"]
 ghxi.com##.widget_html_ad + div[style]
@@ -15585,7 +15585,7 @@ huaren.tv##a[style*="height:"]
 |36dm.club##a[style="color:red;"][href*="show-"]
 |36dm.com##a[style="color:red;"][href*="show-"]
 |acgsou.com##a[style="color:red;"][href*="show-"]
-supercloudsms.com##a[style="display: block;"]
+supercloudsms.com##a[href^="/redirect?"]
 wandhi.com##a[style="display: inline-block;position: relative"]
 hanjutv2020.com##a[style="width: 1120px;height: 70px;overflow: hidden;display: block;"]
 houdao.com##a[style^="background:url"]
