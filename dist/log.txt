@@ -68816,8 +68816,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !生成时间: 2025-11-22 21:02:54
-🚫 去掉注释行: !有效规则数目: 1487370
+🚫 去掉注释行: !生成时间: 2025-11-22 21:34:29
+🚫 去掉注释行: !有效规则数目: 1485061
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
@@ -175496,10 +175496,10 @@
 🚫 去掉注释行: ! Blocked domains: 5227
 🚫 去掉注释行: ! unBlocked domains: 17
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: SW783mO9OlmskToi6MGF+A
-🚫 去掉注释行: ! Version: 202511221142
+🚫 去掉注释行: ! Checksum: Y7fHDemNPe0JMRzpCFAgQA
+🚫 去掉注释行: ! Version: 202511221242
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2025-11-22 11:42 UTC
+🚫 去掉注释行: ! Last modified: 2025-11-22 12:42 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -231094,6 +231094,9 @@
 ✅ 多域名拆分: 2gis.ru,2gis.uz##._nlniiu
     → |2gis.ru##._nlniiu
     → |2gis.uz##._nlniiu
+✅ 多域名拆分: gazeta.press,gazeta.ru##.b_accept_cookies
+    → |gazeta.press##.b_accept_cookies
+    → |gazeta.ru##.b_accept_cookies
 ✅ 多域名拆分: likeni.ru,seonews.ru##.bottom-popup
     → |likeni.ru##.bottom-popup
     → |seonews.ru##.bottom-popup
