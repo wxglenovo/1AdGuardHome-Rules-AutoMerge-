@@ -48528,10 +48528,7 @@ americastestkitchen.com##body,html:style(overflow: auto !important; position: in
 |zaui.com##+js(aeld, /^(mouseout|mouseleave)$/)
 |worldpopulationreview.com##+js(aeld, /^(mouseout|mouseleave)$/)
 |interestingengineering.com##+js(aeld, /^(mouseout|mouseleave)$/)
-the-tls.co.uk##+js(set-local-storage-item, tls_newsletter_visibility, true)
 breachmedia.ca##+js(set-cookie, cp_style_3841, true)
-breakingenergy.com###simplemodal-overlay
-breakingenergy.com##body,html:style(overflow: auto !important; position: initial !important;)
 jewishinsider.com##.subscribeModalOuter
 jewishinsider.com##body,html:style(overflow: auto !important; position: initial !important;)
 artribune.com##+js(set-cookie, m6e-newsletter, 1)
@@ -48543,8 +48540,6 @@ globoshoes.com##.main-overlay-container
 globoshoes.com##body:style(overflow: auto !important; position: initial !important;)
 thefp.com###myEmailModal
 thefp.com##body:style(overflow: scroll !important)
-kftv.com###modalnewsletter___BV_modal_outer_
-kftv.com##body:style(overflow: auto !important; position: initial !important;)
 health.harvard.edu##.sticky-popup
 health.harvard.edu##body:style(overflow: auto !important; position: initial !important;)
 jessicabryson.com##.dialog-lightbox-widget
@@ -48666,21 +48661,16 @@ elimento.com##.has-newsletter
 elimento.com##body,html:style(overflow: auto !important; position: initial !important;)
 tsunagujapan.com##.js-modal_wrap
 tsunagujapan.com##html,body:style(overflow: auto !important; position: initial !important;)
-|bitcoinke.io##.modal-wrap
-|carsalesbase.com##.modal-wrap
-|bitcoinke.io##body,html:style(overflow: auto !important; position: initial !important;)
-|carsalesbase.com##body,html:style(overflow: auto !important; position: initial !important;)
+bitcoinke.io##.modal-wrap
+bitcoinke.io##body,html:style(overflow: auto !important; position: initial !important;)
 ftm.eu##.blockingOverlay
 ftm.eu##html:style(overflow: auto !important)
 |gcn.com##.subscribe
 |washingtontechnology.com##.subscribe
-|fcw.com##.subscribe
 |gcn.com##.conversion-module
 |washingtontechnology.com##.conversion-module
-|fcw.com##.conversion-module
 |gcn.com##html,body:style(overflow: auto !important; position: initial !important;)
 |washingtontechnology.com##html,body:style(overflow: auto !important; position: initial !important;)
-|fcw.com##html,body:style(overflow: auto !important; position: initial !important;)
 |bibleportal.com##.modal
 |uinterview.com##.modal
 |moneycontrol.com##.modal
@@ -48695,7 +48685,6 @@ ftm.eu##html:style(overflow: auto !important)
 |wateronline.com##.modal
 |boredpanda.com##.modal
 |artnet.com##.modal
-|bongino.com##.modal
 |lensculture.com##.modal
 |patch.com##.modal
 |projectcbd.org##.modal
@@ -48704,7 +48693,6 @@ ftm.eu##html:style(overflow: auto !important)
 |thepostmillennial.com##.modal
 |zorbabooks.com##.modal
 |bellhelmets.com##.modal
-|humanevents.com##.modal
 |bibleportal.com##.modal-backdrop
 |uinterview.com##.modal-backdrop
 |moneycontrol.com##.modal-backdrop
@@ -48719,7 +48707,6 @@ ftm.eu##html:style(overflow: auto !important)
 |wateronline.com##.modal-backdrop
 |boredpanda.com##.modal-backdrop
 |artnet.com##.modal-backdrop
-|bongino.com##.modal-backdrop
 |lensculture.com##.modal-backdrop
 |patch.com##.modal-backdrop
 |projectcbd.org##.modal-backdrop
@@ -48728,7 +48715,6 @@ ftm.eu##html:style(overflow: auto !important)
 |thepostmillennial.com##.modal-backdrop
 |zorbabooks.com##.modal-backdrop
 |bellhelmets.com##.modal-backdrop
-|humanevents.com##.modal-backdrop
 |bibleportal.com##body:style(overflow: auto !important;)
 |uinterview.com##body:style(overflow: auto !important;)
 |moneycontrol.com##body:style(overflow: auto !important;)
@@ -48743,7 +48729,6 @@ ftm.eu##html:style(overflow: auto !important)
 |wateronline.com##body:style(overflow: auto !important;)
 |boredpanda.com##body:style(overflow: auto !important;)
 |artnet.com##body:style(overflow: auto !important;)
-|bongino.com##body:style(overflow: auto !important;)
 |lensculture.com##body:style(overflow: auto !important;)
 |patch.com##body:style(overflow: auto !important;)
 |projectcbd.org##body:style(overflow: auto !important;)
@@ -48752,7 +48737,6 @@ ftm.eu##html:style(overflow: auto !important)
 |thepostmillennial.com##body:style(overflow: auto !important;)
 |zorbabooks.com##body:style(overflow: auto !important;)
 |bellhelmets.com##body:style(overflow: auto !important;)
-|humanevents.com##body:style(overflow: auto !important;)
 |envol-vert.org##.avada-footer-scripts
 |latina.com##.avada-footer-scripts
 |envol-vert.org##body,html:style(overflow: auto !important; position: initial !important;)
@@ -48857,7 +48841,6 @@ capx.co##div#wrapper:style(filter: none !important)
 |lowpass.cc##+js(set-cookie, popup_closed, true)
 |readergrev.com##+js(set-cookie, popup_closed, true)
 |objectivebayesian.com##+js(set-cookie, popup_closed, true)
-|monopoly.marketecture.tv##+js(set-cookie, popup_closed, true)
 |jointhefollowup.com##+js(set-cookie, popup_closed, true)
 streamily.com##+js(set-cookie, email_modal, true)
 revolvermag.com##.emma-show
@@ -48944,17 +48927,12 @@ mediadump.com##.g1-newsletter
 mediadump.com##body,html:style(overflow: auto !important; position: initial !important;)
 |impulkits.com##.g1-popup-newsletter
 |bygonely.com##.g1-popup-newsletter
-|musclecarsandtrucks.com##.g1-popup-newsletter
-|thepetslife.online##.g1-popup-newsletter
 |impulkits.com##body,html:style(overflow: auto !important; position: initial !important;)
 |bygonely.com##body,html:style(overflow: auto !important; position: initial !important;)
-|musclecarsandtrucks.com##body,html:style(overflow: auto !important; position: initial !important;)
-|thepetslife.online##body,html:style(overflow: auto !important; position: initial !important;)
 decrypt.co##.left-0.top-0.fixed
 decrypt.co##body:style(overflow: auto !important; position: initial !important;)
 yesmagazine.org##.fajardo-campaign
 yesmagazine.org##body:style(overflow: auto !important; position: initial !important;)
-thebfd.co.nz##body:style(overflow: auto !important; position: initial !important;)
 tietoevry.com##body:style(overflow: auto !important)
 gourmetfoodstore.com##+js(set-cookie, SuppressInterstitial, true, , reload, 1)
 railsnotes.xyz##+js(set-cookie, exit-intent, true)
@@ -49101,7 +49079,6 @@ treblezine.com##body,html:style(height: auto !important; overflow: auto !importa
 |gamefile.news##.intro-popup
 |publicnotice.co##.intro-popup
 |techemails.com##.intro-popup
-|aisnakeoil.com##.intro-popup
 |secretsofprivacy.com##.intro-popup
 |moreisdifferent.blog##.intro-popup
 |latent.space##.intro-popup
@@ -49130,7 +49107,6 @@ treblezine.com##body,html:style(height: auto !important; overflow: auto !importa
 |hamiltonnolan.com##.intro-popup
 |aporiamagazine.com##.intro-popup
 |garbageday.email##.intro-popup
-|jacobwolf.report##.intro-popup
 |semianalysis.com##.intro-popup
 |dossier.today##.intro-popup
 |engineeringleadership.xyz##.intro-popup
@@ -49162,7 +49138,6 @@ treblezine.com##body,html:style(height: auto !important; overflow: auto !importa
 |gamefile.news##+js(rc, show-intro-popup, html, stay)
 |publicnotice.co##+js(rc, show-intro-popup, html, stay)
 |techemails.com##+js(rc, show-intro-popup, html, stay)
-|aisnakeoil.com##+js(rc, show-intro-popup, html, stay)
 |secretsofprivacy.com##+js(rc, show-intro-popup, html, stay)
 |moreisdifferent.blog##+js(rc, show-intro-popup, html, stay)
 |latent.space##+js(rc, show-intro-popup, html, stay)
@@ -49191,7 +49166,6 @@ treblezine.com##body,html:style(height: auto !important; overflow: auto !importa
 |hamiltonnolan.com##+js(rc, show-intro-popup, html, stay)
 |aporiamagazine.com##+js(rc, show-intro-popup, html, stay)
 |garbageday.email##+js(rc, show-intro-popup, html, stay)
-|jacobwolf.report##+js(rc, show-intro-popup, html, stay)
 |semianalysis.com##+js(rc, show-intro-popup, html, stay)
 |dossier.today##+js(rc, show-intro-popup, html, stay)
 |engineeringleadership.xyz##+js(rc, show-intro-popup, html, stay)
@@ -49223,7 +49197,6 @@ treblezine.com##body,html:style(height: auto !important; overflow: auto !importa
 |gamefile.news##+js(rc, has-intro-popup, html, stay)
 |publicnotice.co##+js(rc, has-intro-popup, html, stay)
 |techemails.com##+js(rc, has-intro-popup, html, stay)
-|aisnakeoil.com##+js(rc, has-intro-popup, html, stay)
 |secretsofprivacy.com##+js(rc, has-intro-popup, html, stay)
 |moreisdifferent.blog##+js(rc, has-intro-popup, html, stay)
 |latent.space##+js(rc, has-intro-popup, html, stay)
@@ -49252,7 +49225,6 @@ treblezine.com##body,html:style(height: auto !important; overflow: auto !importa
 |hamiltonnolan.com##+js(rc, has-intro-popup, html, stay)
 |aporiamagazine.com##+js(rc, has-intro-popup, html, stay)
 |garbageday.email##+js(rc, has-intro-popup, html, stay)
-|jacobwolf.report##+js(rc, has-intro-popup, html, stay)
 |semianalysis.com##+js(rc, has-intro-popup, html, stay)
 |dossier.today##+js(rc, has-intro-popup, html, stay)
 |engineeringleadership.xyz##+js(rc, has-intro-popup, html, stay)
@@ -49284,7 +49256,6 @@ treblezine.com##body,html:style(height: auto !important; overflow: auto !importa
 |gamefile.news##+js(rc, modal-in, html, stay)
 |publicnotice.co##+js(rc, modal-in, html, stay)
 |techemails.com##+js(rc, modal-in, html, stay)
-|aisnakeoil.com##+js(rc, modal-in, html, stay)
 |secretsofprivacy.com##+js(rc, modal-in, html, stay)
 |moreisdifferent.blog##+js(rc, modal-in, html, stay)
 |latent.space##+js(rc, modal-in, html, stay)
@@ -49313,7 +49284,6 @@ treblezine.com##body,html:style(height: auto !important; overflow: auto !importa
 |hamiltonnolan.com##+js(rc, modal-in, html, stay)
 |aporiamagazine.com##+js(rc, modal-in, html, stay)
 |garbageday.email##+js(rc, modal-in, html, stay)
-|jacobwolf.report##+js(rc, modal-in, html, stay)
 |semianalysis.com##+js(rc, modal-in, html, stay)
 |dossier.today##+js(rc, modal-in, html, stay)
 |engineeringleadership.xyz##+js(rc, modal-in, html, stay)
@@ -49345,7 +49315,6 @@ treblezine.com##body,html:style(height: auto !important; overflow: auto !importa
 |gamefile.news##div[class^="background-"]
 |publicnotice.co##div[class^="background-"]
 |techemails.com##div[class^="background-"]
-|aisnakeoil.com##div[class^="background-"]
 |secretsofprivacy.com##div[class^="background-"]
 |moreisdifferent.blog##div[class^="background-"]
 |latent.space##div[class^="background-"]
@@ -49374,7 +49343,6 @@ treblezine.com##body,html:style(height: auto !important; overflow: auto !importa
 |hamiltonnolan.com##div[class^="background-"]
 |aporiamagazine.com##div[class^="background-"]
 |garbageday.email##div[class^="background-"]
-|jacobwolf.report##div[class^="background-"]
 |semianalysis.com##div[class^="background-"]
 |dossier.today##div[class^="background-"]
 |engineeringleadership.xyz##div[class^="background-"]
@@ -49406,7 +49374,6 @@ treblezine.com##body,html:style(height: auto !important; overflow: auto !importa
 |gamefile.news##div[class*="subscribeDialog-"]
 |publicnotice.co##div[class*="subscribeDialog-"]
 |techemails.com##div[class*="subscribeDialog-"]
-|aisnakeoil.com##div[class*="subscribeDialog-"]
 |secretsofprivacy.com##div[class*="subscribeDialog-"]
 |moreisdifferent.blog##div[class*="subscribeDialog-"]
 |latent.space##div[class*="subscribeDialog-"]
@@ -49435,7 +49402,6 @@ treblezine.com##body,html:style(height: auto !important; overflow: auto !importa
 |hamiltonnolan.com##div[class*="subscribeDialog-"]
 |aporiamagazine.com##div[class*="subscribeDialog-"]
 |garbageday.email##div[class*="subscribeDialog-"]
-|jacobwolf.report##div[class*="subscribeDialog-"]
 |semianalysis.com##div[class*="subscribeDialog-"]
 |dossier.today##div[class*="subscribeDialog-"]
 |engineeringleadership.xyz##div[class*="subscribeDialog-"]
@@ -49475,7 +49441,6 @@ seattletimes.com##+js(set-cookie, st_newsletter_splash_desktop_seen, true)
 snopes.com##+js(set-cookie, newsletter_signup_promo, true)
 snopes.com##+js(set-cookie, newsletter_signup_views, 1)
 interestingengineering.com##+js(set-local-storage-item, hasShownPopup, true)
-iconduck.com##+js(set-cookie, client-mailingListModalShown, true)
 |shojiwax.com##+js(set-cookie, jetpack_post_subscribe_modal_dismissed, true)
 |skepticalraptor.com##+js(set-cookie, jetpack_post_subscribe_modal_dismissed, true)
 apotekfordeg.no##.newsletter-modal
@@ -49524,7 +49489,6 @@ mofi.com##body,html:style(position: static !important; overflow: auto !important
 |jumia.com.gh##.popup
 |jumia.com.ng##.popup
 |jumia.com.tn##.popup
-|jumia.dz##.popup
 |jumia.ma##.popup
 |jumia.sn##.popup
 |jumia.ug##.popup
@@ -49534,7 +49498,6 @@ mofi.com##body,html:style(position: static !important; overflow: auto !important
 |jumia.com.gh##body,html:style(position: static !important; overflow: auto !important; width: auto !important;)
 |jumia.com.ng##body,html:style(position: static !important; overflow: auto !important; width: auto !important;)
 |jumia.com.tn##body,html:style(position: static !important; overflow: auto !important; width: auto !important;)
-|jumia.dz##body,html:style(position: static !important; overflow: auto !important; width: auto !important;)
 |jumia.ma##body,html:style(position: static !important; overflow: auto !important; width: auto !important;)
 |jumia.sn##body,html:style(position: static !important; overflow: auto !important; width: auto !important;)
 |jumia.ug##body,html:style(position: static !important; overflow: auto !important; width: auto !important;)
@@ -49548,9 +49511,6 @@ psychcentral.com###modal-host
 psychcentral.com##body,html:style(overflow: auto !important; position: initial !important;)
 theamericanscholar.org##.accokeek-campaign
 theamericanscholar.org##body:style(overflow:auto !important)
-dispatchlive.co.za###register-popup-backdrop
-dispatchlive.co.za##.register-modal-popup-wrapper
-dispatchlive.co.za##body,html:style(overflow: auto !important; position: initial !important;)
 recyclingproductnews.com##[style*="opacity:"]
 recyclingproductnews.com##.card-newsletter-modal
 recyclingproductnews.com##body,html:style(overflow: auto !important; position: initial !important;)
@@ -49563,8 +49523,6 @@ launer.com##html:style(overflow: auto !important)
 soundproofcow.com##.sgpb-popup-overlay
 soundproofcow.com##.sgpb-popup-dialog-main-div-wrapper
 soundproofcow.com##body,html:style(overflow: auto !important; position: initial !important;)
-monarchmoney.com##.modal__overlay
-monarchmoney.com##body:style(overflow: auto !important; position: initial !important;)
 aulart.com##.elementor-popup-modal
 aulart.com##body:style(overflow: auto !important; max-height: unset !important;)
 palestinechronicle.com###newsletter_subscribition_box
