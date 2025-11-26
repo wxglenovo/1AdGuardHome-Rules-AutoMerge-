@@ -44,6 +44,7 @@
 .pageview-props.js
 .php?action=browse&
 .php?action_name=
+.php?logid=$image
 .php?logRefer=
 .php?logType=
 .php?notrack=
@@ -49926,6 +49927,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||t.wayfair.de^
 ||t2.aboutyou.de^
 ||tagm.eduscho.at^
+||tapi.kaufda.de^
 ||tarnkappe.info^$ping
 ||taz.de/count/
 ||teltarif.de/scripts/ttt.js
