@@ -39287,7 +39287,6 @@ apigo.com.tr##.ant-notification
 ikonambalaj.com.tr##.bottom-center
 |aydinyeniufuk.com.tr##.cerez
 |balikesirartihaber.com##.cerez
-|blokhaber.com##.cerez
 |denizli20haber.com##.cerez
 |eldedemokrasi.com##.cerez
 |haberimizvar.net##.cerez
@@ -39297,7 +39296,6 @@ ikonambalaj.com.tr##.bottom-center
 |mhrs.gov.tr##.cerez
 |sabancivakfi.org##.cerez
 |seffafbelediyecilik.com##.cerez
-|tarsusgazetesi.com##.cerez
 |yenigolcuk.com##.cerez
 tebilon.com##.cerezNotification
 akkushop-turkiye.com.tr##.cerezPopupUyari
@@ -46396,6 +46394,8 @@ auto.it##div[class^="ModalNewsletter_"]
 |lanazione.it##div[class^="Newsletter_"]
 |quotidiano.net##div[class^="Newsletter_"]
 bluetti.jp###dynamic-react-root + div:has(> div.needsclick input[id^="email_"])
+hotokami.jp###half-fixed-modal-visibled
+hotokami.jp##.bg-teal-500[href^="/subscription/landing_page/benefit"][onclick]
 product.minebeamitsumi.com##.bottom-popup
 rocket-boys.co.jp##.fixed-bottom
 domani.shogakukan.co.jp##.mailmagazine_area
