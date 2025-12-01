@@ -14771,7 +14771,8 @@ friends.figma.com##.cookie-consent-acknowledgement-conatiner
 meest-shop.com##.cookie-consent-banner_root__M9V7x
 developers.turing.com##.cookie-consent-overlay
 buying.expert##.cookie-consent-popover
-hm.com##.cookie-consent-popup
+|cos.com##.cookie-consent-popup
+|hm.com##.cookie-consent-popup
 fling2night.com##.cookie-consent-root
 samsungknox.com##.cookie-consent-v3
 visitworld.today##.cookie-consent-wrapper
@@ -34637,6 +34638,7 @@ artemide.com##+js(set-cookie, amdcookiechoice, necessary)
 |pigu.lt##+js(set-cookie, CA_DT_V3, 0)
 |kaup24.ee##+js(set-cookie, CA_DT_V3, 0)
 |hobbyhall.fi##+js(set-cookie, CA_DT_V3, 0)
+|t-challenge.com##+js(norafif, catch)
 |getaawp.com##+js(norafif, catch)
 |mhmscreenprinting.com##+js(norafif, catch)
 |stadtreporter.de##+js(norafif, catch)
