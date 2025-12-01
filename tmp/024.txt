@@ -1737,11 +1737,6 @@ dirsyncpro.org###cookie-notice-modal
 |tourradar.com###cookie-notification
 energylivenews.com###cookie-notification-mask
 kimkim.com###cookie-permissions-footer
-|creamher.com###cookie-popup
-|dorotheum.com###cookie-popup
-|mrluckyraw.com###cookie-popup
-|rospotrebnadzor.ru###cookie-popup
-|spizoo.com###cookie-popup
 |gorillas.io###cookie-settings
 |simbrief.com###cookie-settings
 dotmetrics.net###cookie-snackbar-container
@@ -2507,7 +2502,6 @@ atoocall.com##.GDPRPopup-module--popup--3chjm
 venngage.com##.GDPR_main__fxmFf
 laufcycles.com##.GdprBanner_banner___hVQl
 airasia.com##.Gdpr__GdprParentWrapper-sc-z30mcl-0
-flyfi.com##.HASH_COOKIE_ALERT_GRID_ITEM_FIXED
 tunemymusic.com##.HeaderMenu_CookieAlert__ipEfK
 repost.aws##.Header_terms__3jQyq
 rythm.fm##.Homepage_banner__Bo2QI
@@ -5575,6 +5569,12 @@ experianidentityservice.co.uk###ensBannerBG
 |studiosamsterdam.nl##.cookie-message
 |woonbotenamsterdam.com##.cookie-message
 autocango.com##.cookie-accept
+|creamher.com###cookie-popup
+|dorotheum.com###cookie-popup
+|klops.ru###cookie-popup
+|mrluckyraw.com###cookie-popup
+|rospotrebnadzor.ru###cookie-popup
+|spizoo.com###cookie-popup
 privateproperty.co.za###consentManager
 |norwegianholidays.com##[aria-label="cookieconsent"]
 |sedecatastro.gob.es##[aria-label="cookieconsent"]
@@ -12903,8 +12903,9 @@ canva.com##[role="dialog"]:has-text(/cookie/i)
 |bitbucket.org##[role="dialog"]:has-text(cookies)
 |chat.mistral.ai##[role="dialog"]:has-text(cookies)
 moebelix.at##body > div > div:has(#jentis_consent)
-aainflight.com##div[class*="_toastContainer_"]:has-text(We care about your privacy)
 yogainternational.com##div[class^="elements__Banner-"]:has(> div > a[href$="-privacy-policy"])
+flyfi.com##.HASH_COOKIE_ALERT_GRID_ITEM_FIXED
+aainflight.com##div[class*="_toastContainer_"]:has-text(We care about your privacy)
 |codeburst.io##body > div:not([class]):not([id]) > div[class*=" "]:has(> div > div > div[class] > a[href^="https://policy.medium.com/medium-privacy-policy-"])
 |doublepulsar.com##body > div:not([class]):not([id]) > div[class*=" "]:has(> div > div > div[class] > a[href^="https://policy.medium.com/medium-privacy-policy-"])
 |eand.co##body > div:not([class]):not([id]) > div[class*=" "]:has(> div > div > div[class] > a[href^="https://policy.medium.com/medium-privacy-policy-"])
