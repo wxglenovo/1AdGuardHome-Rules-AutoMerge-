@@ -628,7 +628,8 @@ sputnikglobe.com###cta
 indiabusinessjournal.com###cus-news-detail-sharing-icons
 ofbez.com###custom_html-2
 freegameplanet.com###custom_html-3
-archaeologymag.com###custom_html-4
+|archaeologymag.com###custom_html-4
+|thegrayzone.com###custom_html-4
 ceoworld.biz###custom_html-7
 asianews.it###det_article_share
 asianews.it###det_article_sharebottom
@@ -1493,6 +1494,7 @@ newsclick.in##.footerContainer
 loewe.tv##.footerIcons
 imagecollect.com##.footerLinks_03
 theanalyst.com##.footer__bottom--social-links
+dailykos.com##.footer__connect
 scientificamerican.com##.footer__followus-text
 bolavip.com##.footer__footer-top__social-links
 newrepublic.com##.footer__middleRow
@@ -1961,6 +1963,8 @@ onegreenplanet.org##.reveal-modal-bg
 businesstoday.in##.rhs-fixwhtsapp
 firstpost.com##.rhs-yt-ch-wrap
 businesstoday.in##.rhs_fixwhtsapp
+|aljazeera.com##.rich-share
+|aljazeera.net##.rich-share
 butternutbakeryblog.com##.right
 crealitycloud.com##.right-share-box
 |pulse.com.gh##.ring-detail-social-share
@@ -2790,7 +2794,9 @@ theguardian.com##div > gu-island[name="ShareButton"]
 photorumors.com##div[align="RIGHT"]
 fifa.com##div[class*="article-section_shareButton_"]
 theatlantic.com##div[class^="ArticleShare_"]
+kcrw.com##div[class^="SocialLinks_"]
 cnbc.com##div[class^="SocialShare-"]
+kcrw.com##div[class^="SocialShare_"]
 wired.com##div[class^="StickyBoxWrapper"]
 ici.radio-canada.ca##div[class^="StyledSharingBar-"]
 reuters.com##div[class^="image-caption__social__"]
@@ -5308,6 +5314,7 @@ hindustantimes.com##.ln
 |lonestar923.com##.social-links
 |lonestar995fm.com##.social-links
 |loudwire.com##.social-links
+|marketplace.org##.social-links
 |may9.ru##.social-links
 |med.stanford.edu##.social-links
 |mega993online.com##.social-links
