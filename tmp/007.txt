@@ -1802,6 +1802,7 @@ outlookindia.com##.nav-socials
 hnn.us##.nav__socialz
 triblive.com##.navbar-right
 chess.com##.navigation-footer-platforms-component
+thesouthafrican.com##.navigator-share
 newsbusters.org##.nb-twitter-block
 ncaa.com##.ncaa-share-hanger
 pmc.ncbi.nlm.nih.gov##.ncbi-footer__icon-section
@@ -2243,6 +2244,8 @@ firstpost.com##.social-ic-wrap
 |theshovel.com.au##.social-icon
 |wionews.com##.social-icon
 newsclick.in##.social-icons--fixed
+|diesuid-afrikaner.com##.social-icons--post-share
+|thesouthafrican.com##.social-icons--post-share
 |bonappetit.com##.social-icons--share
 |cntraveler.com##.social-icons--share
 |them.us##.social-icons--share
@@ -2837,6 +2840,9 @@ lataco.com##ul[class^="SocialSharing_"]
 |dailymail.co.uk##ul[class^="linksHolder-"]
 |thisismoney.co.uk##ul[class^="linksHolder-"]
 abc.net.au##.Button_root__UZ8td:has-text(Share)
+|netwerk24.com##.article--top-bar-right:has(.social-sharing)
+|news24.com##.article--top-bar-right:has(.social-sharing)
+|son.co.za##.article--top-bar-right:has(.social-sharing)
 foxnews.com##.article-meta-lower:has(.article-social)
 carnewschina.com##.article_detail__top_stories:has-text(Follow us for ev updates)
 qodo.ai##.block-single-post__aside-heading:has-text(Share)
@@ -2885,7 +2891,6 @@ royalqueenseeds.*##.social-media-icons-footer
 |maxabout.com##.social-sharing
 |motorsport-xl.de##.social-sharing
 |ncbi.nlm.nih.gov##.social-sharing
-|news24.com##.social-sharing
 |novosti.rs##.social-sharing
 |nu.nl##.social-sharing
 |politico.eu##.social-sharing
@@ -5349,7 +5354,9 @@ hindustantimes.com##.ln
 |myq1075.com##.social-links
 |nationalactionnetwork.net##.social-links
 |nau.ch##.social-links
+|netwerk24.com##.social-links
 |news.bg##.social-links
+|news24.com##.social-links
 |newsradio1310.com##.social-links
 |newstalk1280.com##.social-links
 |newstalk1290.com##.social-links
@@ -5395,6 +5402,7 @@ hindustantimes.com##.ln
 |skinnyms.com##.social-links
 |soaps.sheknows.com##.social-links
 |sojo1049.com##.social-links
+|son.co.za##.social-links
 |sportsradio977.com##.social-links
 |squatchrocks.com##.social-links
 |star939.com##.social-links
@@ -5589,9 +5597,11 @@ jewishpress.com##.twitter-follow-button
 arbys.com#?#[class^="linkBlocks_linkBlock__"]:-abp-has(> [class^="linkBlocks_socialLinkBlockList__"])
 relationshiphero.com#?#div:-abp-has(+ .socialIcons)
 viranomaisuutiset.fi#?#.wpb_wrapper.td_block_wrap:-abp-has(a[href^="https://whatsapp.com"])
+maroelamedia.co.za###social-followers
 akkogear.com.vn##.box_fixRight
 baoquocte.vn##.bqt-share-social
 360.cymru##.buttons
+maroelamedia.co.za##.deel_aksie
 berglouter.com##.pwebbox
 gnttv.com##.social_tracking_home
 nova.bg##.subs-wrapper
