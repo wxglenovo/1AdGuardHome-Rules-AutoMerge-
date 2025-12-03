@@ -2321,6 +2321,7 @@ feross.org##.next
 |adexchanger.com##.next-article
 |live-adexchanger.pantheonsite.io##.next-article
 |manilatimes.net##.next-article
+|netwerk24.com##.next-article
 |news24.com##.next-article
 foxsports.com##.next-article-toast
 bizcommunity.com##.next-navigation-container
@@ -2427,7 +2428,8 @@ twistedvoxel.com##.tt-shortcode-1
 yourstory.com##.unique-progress
 cheddar.com##.upnext-container
 truthout.org##.wp-block-truthout-related-article-block
-thelondoneconomic.com##.wpnp_anchor_js
+|thelondoneconomic.com##.wpnp_anchor_js
+|thesouthafrican.com##.wpnp_anchor_js
 denvergazette.com,fauquier.com,galvnews.com,herald-zeitung.com,lmtribune.com,nashvillescene.com#.asset-paging
 |courier-journal.com##promo-up-next
 |courierpress.com##promo-up-next
@@ -2755,6 +2757,7 @@ bestbuycyprus.com###scrollTopButton
 |myfaith.tv###scroll_top
 |szalonauto.hu###scroll_top
 |vipcars.com###scroll_top
+spin.com###scroller
 astrofame.com###scrolling-top
 |centrosuono.com###scrolltop
 |gigaset.com###scrolltop
@@ -6041,6 +6044,7 @@ outlookindia.com##.nav-socials
 hnn.us##.nav__socialz
 triblive.com##.navbar-right
 chess.com##.navigation-footer-platforms-component
+thesouthafrican.com##.navigator-share
 newsbusters.org##.nb-twitter-block
 ncaa.com##.ncaa-share-hanger
 pmc.ncbi.nlm.nih.gov##.ncbi-footer__icon-section
@@ -6482,6 +6486,8 @@ firstpost.com##.social-ic-wrap
 |theshovel.com.au##.social-icon
 |wionews.com##.social-icon
 newsclick.in##.social-icons--fixed
+|diesuid-afrikaner.com##.social-icons--post-share
+|thesouthafrican.com##.social-icons--post-share
 |bonappetit.com##.social-icons--share
 |cntraveler.com##.social-icons--share
 |them.us##.social-icons--share
@@ -7076,6 +7082,9 @@ lataco.com##ul[class^="SocialSharing_"]
 |dailymail.co.uk##ul[class^="linksHolder-"]
 |thisismoney.co.uk##ul[class^="linksHolder-"]
 abc.net.au##.Button_root__UZ8td:has-text(Share)
+|netwerk24.com##.article--top-bar-right:has(.social-sharing)
+|news24.com##.article--top-bar-right:has(.social-sharing)
+|son.co.za##.article--top-bar-right:has(.social-sharing)
 foxnews.com##.article-meta-lower:has(.article-social)
 carnewschina.com##.article_detail__top_stories:has-text(Follow us for ev updates)
 qodo.ai##.block-single-post__aside-heading:has-text(Share)
@@ -7124,7 +7133,6 @@ royalqueenseeds.*##.social-media-icons-footer
 |maxabout.com##.social-sharing
 |motorsport-xl.de##.social-sharing
 |ncbi.nlm.nih.gov##.social-sharing
-|news24.com##.social-sharing
 |novosti.rs##.social-sharing
 |nu.nl##.social-sharing
 |politico.eu##.social-sharing
@@ -9588,7 +9596,9 @@ hindustantimes.com##.ln
 |myq1075.com##.social-links
 |nationalactionnetwork.net##.social-links
 |nau.ch##.social-links
+|netwerk24.com##.social-links
 |news.bg##.social-links
+|news24.com##.social-links
 |newsradio1310.com##.social-links
 |newstalk1280.com##.social-links
 |newstalk1290.com##.social-links
@@ -9634,6 +9644,7 @@ hindustantimes.com##.ln
 |skinnyms.com##.social-links
 |soaps.sheknows.com##.social-links
 |sojo1049.com##.social-links
+|son.co.za##.social-links
 |sportsradio977.com##.social-links
 |squatchrocks.com##.social-links
 |star939.com##.social-links
@@ -9856,9 +9867,11 @@ aliprice.com##.modal-backdrop
 aliprice.com##body:style(overflow: auto !important;)
 finance.yahoo.com##.YDC-Overlay
 finance.yahoo.com##html:style(overflow: auto !important; position: initial !important;)
+maroelamedia.co.za###social-followers
 akkogear.com.vn##.box_fixRight
 baoquocte.vn##.bqt-share-social
 360.cymru##.buttons
+maroelamedia.co.za##.deel_aksie
 berglouter.com##.pwebbox
 gnttv.com##.social_tracking_home
 nova.bg##.subs-wrapper
@@ -44756,6 +44769,7 @@ balls.ie##.bg-left.bg-cover:has-text(Subscribe)
 crunchydata.com##.bg-primary-dark:has-text(newsletter)
 commoncog.com##.bg-purple-50:has-text(Fan of great business)
 compellingsciencefiction.com##.bg-slate-300:has-text(Sign up for the newsletter.)
+spin.com##.border-backgrounds.flex.flex-wrap.border-t:has(form-container)
 decrypt.co##.border-decryptGridline:has-text(Newsletter)
 businesstimes.com.sg##.border-gray-175:has-text(BT in your inbox)
 amgreatness.com##.border-gray-200:has-text(Get the news)
@@ -45258,6 +45272,7 @@ applefirmwares.com###newsletterForm
 |deutschland.de##.newsletter-subscription
 |intego.com##.newsletter-subscription
 |letrap.com.ar##.newsletter-subscription
+|netwerk24.com##.newsletter-subscription
 |news24.com##.newsletter-subscription
 |phonearena.com##.newsletter-subscription
 |recepty.cz##.newsletter-subscription
@@ -46169,6 +46184,8 @@ rtl.be##box-newsletters
 tdg.ch##section[class^="NewsletterBox_"]
 portal.rozhlas.cz###cro-common-newsletter-ecomail-entityform-edit-form
 signalfestival.com##.drawer--newsletter
+nuusflits.com###nuusbrief-anchor
+nuusflits.com###tuis-nuusbrief
 nabd.com###news-letter-pop
 alaraby.co.uk##.block-custom-mailchimp-subscription
 al-sharq.com##.boxemail
