@@ -2455,10 +2455,10 @@ instagram.com##.HoverCard
 www.google.com##[jscontroller][data-limp] > .zQSHZb.cH2VZe[style^="right:"] > .gLpFG
 |google.*###google-hats-survey
 |grow.google###google-hats-survey
-|www.google.com##div.nD2EKb.VEELad
 |www.google.*##div.nD2EKb.VEELad
-|www.google.com##div[jscontroller="MaoVMd"][jsdata*="nTLyye;"]
+|www.google.com##div.nD2EKb.VEELad
 |www.google.*##div[jscontroller="MaoVMd"][jsdata*="nTLyye;"]
+|www.google.com##div[jscontroller="MaoVMd"][jsdata*="nTLyye;"]
 heathrow.com###_im_feedbackTab__109
 thenationalnews.com###feedback-btn
 |startpage.com###feedback-button-container
@@ -16801,9 +16801,9 @@ evertiq.*##.cc-container
 track.amazon.*##.wfbHK2
 wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotification"]
 |betway.*###cookiePopup
+|easyinsights.ai###cookiePopup
 |reklama5.com###cookiePopup
 |visitseoul.net###cookiePopup
-easyinsights.ai###cookiePopup
 |athenaeumscheltema.nl##.cookie-popup
 |campfimfo.com##.cookie-popup
 |championat.ru##.cookie-popup
@@ -18513,6 +18513,7 @@ morningstar.com###additionalInfoe
 |anfarmag.org.br##.cc-window
 |augustiner-restaurant.com##.cc-window
 |aussenrollo.de##.cc-window
+|bier-universum.*##.cc-window
 |blenderartists.org##.cc-window
 |blisprobiotics.co.nz##.cc-window
 |bund-naturschutz.de##.cc-window
@@ -18573,7 +18574,6 @@ morningstar.com###additionalInfoe
 |wham.physics.wisc.edu##.cc-window
 |wisc.edu##.cc-window
 |zesty.tech##.cc-window
-bier-universum.*##.cc-window
 |advgazeta.ru##.popup
 |beiersdorf.com##.popup
 |czc.cz##.popup
@@ -48246,14 +48246,14 @@ shopcjglobal.com##flashy-popup
 market.samm.com#?#.bg-light:-abp-contains(newsletter)
 recordcollectormag.com#?#.widget_text:-abp-contains(newsletter)
 rprealtyplus.com#?#.border.rounded.p-2:-abp-contains(news letter)
-atrapalo.*###subscription
-dedoles.*##.mailinglist-signin
 |edestinos.*###newsletter
 |esky.*###newsletter
 |eskytravel.*###newsletter
-logitravel.*##div > div[data-testid="NewsletterSubscription"]
+atrapalo.*###subscription
 pricespy.*##.TopSection-sc-z3c0qx-11
 royalqueenseeds.*##.hubspot-widget-newsletter
+dedoles.*##.mailinglist-signin
+logitravel.*##div > div[data-testid="NewsletterSubscription"]
 |braveandkindbooks.com##[id^="smsbump-form-"]
 |deal4.ca##[id^="smsbump-form-"]
 |gizmogoober.com##[id^="smsbump-form-"]
