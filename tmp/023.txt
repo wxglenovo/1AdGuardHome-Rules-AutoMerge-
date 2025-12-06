@@ -16759,6 +16759,7 @@ just-eat.ie##div[data-qa="jet-privacy-settings"]
 |sparapo.de###cookie-message
 |surf-in-apotheke.de###cookie-message
 |szynalski.com###cookie-message
+|ukehut-nyc.com###cookie-message
 |adler-apotheke-kirchheim.de###cookie-wrapper
 |apo-srb.de###cookie-wrapper
 |apotheke-alt-buckow.de###cookie-wrapper
@@ -16802,6 +16803,7 @@ track.amazon.*##.wfbHK2
 wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotification"]
 |betway.*###cookiePopup
 |easyinsights.ai###cookiePopup
+|hito.xyz###cookiePopup
 |reklama5.com###cookiePopup
 |visitseoul.net###cookiePopup
 |athenaeumscheltema.nl##.cookie-popup
@@ -20699,6 +20701,7 @@ handandstone.com##.modal-cookie-policy
 |museodiroma.it##.sliding-popup-bottom
 |nationalinterest.org##.sliding-popup-bottom
 |ndsu.edu##.sliding-popup-bottom
+|news.delta.com##.sliding-popup-bottom
 |news.ki.se##.sliding-popup-bottom
 |nibusinessinfo.co.uk##.sliding-popup-bottom
 |nnieuws.be##.sliding-popup-bottom
@@ -22419,6 +22422,7 @@ onassis.org##.bottom-0.relative
 |apmoller.com##.bottom-6
 |app.houseofcb.com##.bottom-6
 |ilmanifesto.it##.bottom-6
+|lofigirl.com##.bottom-6
 |predecessorgame.com##.bottom-6
 |wimotic.fr##.bottom-6
 |app.gnosispay.com##.bottom-5
@@ -24844,6 +24848,7 @@ juken-mikata.net##body:remove-class(has-cookie-consent)
 search.upright-music.dk##+js(set-cookie, cookieConsent, true)
 toppy.be##+js(set-cookie, __toppy_consent, 1)
 ovation.ca##+js(set-cookie, ovation.v20231006.essentials, 1, , reload, 1)
+genomicpress.kglmeridian.com##+js(set-cookie, pf-cookie-banner-accepted, true)
 hyte.com##+js(set-cookie, AcceptUseCookie, Accept)
 qrzcq.com##+js(set-cookie, COOKIES_ACK, 1, , reload, 1)
 royalhuisman.com##+js(set-cookie, framework_cookies_date, 1, , reload, 1)
