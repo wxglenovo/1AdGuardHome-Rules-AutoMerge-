@@ -1528,6 +1528,7 @@ tsn.ca##.cta-element
 carsauce.com##.cta46_card
 fark.com##.custombox-content
 fark.com##.custombox-overlay
+github.com##.dashboard-changelog:has-text(Latest from our changelog)
 sleepfoundation.org##.data-mon-block
 theguardian.com##.dcr-nv35qx
 dailysignal.com##.dear_reader
@@ -3004,7 +3005,6 @@ esslinger-zeitung.de##.scroll-to
 |advgazeta.ru##.scroll-to-top
 |boredpanda.com##.scroll-to-top
 |btgpactual.com##.scroll-to-top
-|business-standard.com##.scroll-to-top
 |centroculturalfcsn.org.br##.scroll-to-top
 |cnevpost.com##.scroll-to-top
 |developer-tech.com##.scroll-to-top
@@ -6868,6 +6868,7 @@ bolavip.com##.whatsapp-link
 indiatvnews.com##.whatsapp_link
 business-standard.com##.whtsclick
 indiatoday.in##.whtspp_share
+business-standard.com##.whtsppchannle
 androidheadlines.com##.widget-ahcount
 trustedreviews.com##.widget-social-b
 mediapost.com##.widget-waypoint
