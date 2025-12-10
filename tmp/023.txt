@@ -16365,6 +16365,7 @@ iol.co.za##[data-dialog="true"]
 wizards.com##[data-fetch-key="TheCookiePrompt:0"]
 indeed.com##[data-gnav-region="GlobalPrivacyControlBanner"]
 scmp.com##[data-qa="GDPRBanner-Container"]
+app.greenhouse.io##[data-react-class="InformCookiesPopup"]
 wistia.com##[data-sentry-component="ConsentBanner"]
 g2a.com##[data-test-id="cookie-modal"]
 wellcomecollection.org##[data-test-id="cookie-notice"]
@@ -49767,6 +49768,7 @@ pizzahut.co.nz##.promote-app
 beermenus.com##.pure-button-round
 hostelworld.com##.qr-wrapper
 quora.com##.qu-bg--blue.qu-full
+x.com##.r-13qz1uu.r-1xcajam:has-text(See more on)
 x.com##.r-97e31f.r-l5o3uw.css-1dbjc4n
 google.*##.rbgrBd div[role="dialog"] > div[jsaction^="settings."] button[jsaction^="settings.useApp;"]
 thehindu.com##.read-in-app-floating-btn
@@ -50190,6 +50192,7 @@ ctvnews.ca##[href="https://www.ctvnews.ca/app"]
 sherbrookerecord.com##[href^="https://apps.apple.com/ca/app/the-record-news/"]
 atptour.com##[href^="https://www.atptour.com/en/apps"]
 temu.com##[js-selector="mobile-download-ui"]
+x.com##[role="dialog"]:has-text(See this post in the app)
 reddit.com##[slot="use-app"]
 timesofindia.indiatimes.com##[text="Continue On App"]
 asahi.com##[x-component-name="SmartBanner"]
