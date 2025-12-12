@@ -421,7 +421,7 @@ dashboard.razorpay.com#@##credential_picker_container
 ||repost.us^$third-party
 ||research.net^$third-party
 ||reviewability.com^$third-party
-||riddle.com/embed/$domain=evoke.ie
+||riddle.com/embed/$domain=evoke.ie|mentalfloss.com
 ||rightmessage.com^$third-party
 ||rokt.com^$third-party
 ||royapp.com^$third-party
@@ -1564,6 +1564,7 @@ democracynow.org##.donate_banner
 thenationalpulse.com##.donate_button
 peoplesworld.org##.donate_strip
 audubon.org##.donation
+sltrib.com##.donation-a-test
 hrw.org##.donation-block
 catholicnewsagency.com##.donation-box
 crooksandliars.com##.donation-drive
@@ -7043,7 +7044,6 @@ theshovel.com.au##.padding-top-small > .widgetizedArea:has-text(Like this)
 jacobin.com##.po-fr__heading:has-text(Share this article)
 lifenews.com##.post_style_zk > p:has-text(Please subscribe)
 newsroom.ucla.edu##.promo-card-muted:has-text(RSS feed)
-futurism.com##.py-4:has-text(Share This Article)
 tvblackbox.com.au##.tdm-descr:has-text(Share)
 heritagedaily.com##.tds-button:has-text(FOLLOW ON GOOGLE NEWS)
 twitch.tv##.tw-balloon:has-text(Share To)
@@ -7127,6 +7127,7 @@ royalqueenseeds.*##.social-media-icons-footer
 |thehighwire.com##.share-icons
 |theshadowleague.com##.share-icons
 |thisismoney.co.uk##.share-icons
+|4cc.com.au##.share-links
 |ansa.it##.share-links
 |cryptopotato.com##.share-links
 |dailyartmagazine.com##.share-links
@@ -41605,7 +41606,6 @@ austinchronicle.com###newsletter-box
 |azosensors.com###newsletter-content-wrap
 hagerty.com###newsletter-custom-container
 hagerty.com###newsletter-custom-form-toast
-sltrib.com###newsletter-embed
 sciencenews.org###newsletter-helper
 theamericanscholar.org###newsletter-homepage-right
 lapresse.ca###newsletter-hub-promo-box
@@ -41984,6 +41984,8 @@ outdoorstatus.com##.Modal
 |psyche.co##.NLFormInsertFromCMS
 stocktwits.com##.NewsArticleNewsletterWidget_border__rjr0o
 jagranjosh.com##.NewsLetterInlineHome
+|abergavennychronicle.com##.NewsLetterSignUpstyled__NewsLetterSignUpWrapper-sc-aru595-0
+|tenby-today.co.uk##.NewsLetterSignUpstyled__NewsLetterSignUpWrapper-sc-aru595-0
 earth.com##.NewsSubscribeLg_main__QWMpm
 thefinancialdiet.com##.NewslBanner
 |clarin.com##.Newsletter
@@ -43321,7 +43323,6 @@ seroundtable.com##.max-h-\[250px\]
 examiner.com.au##.max-w-7xl
 mashable.com##.max-w-9xl
 decrypt.co##.max-w-prose
-futurism.com##.max-w-screen-lg.w-full
 joydeepdeb.com##.mb-4.card
 washingtonpost.com##.mb-lg-mod.bh.b
 musicbusinessworldwide.com##.mb-newsletter
@@ -43617,6 +43618,7 @@ newportjerkycompany.com##.newsletter-subscription-section
 |networkworld.com##.newsletter-subscription-small
 thecradle.co##.newsletter-subscription_newsletterform__ulg8Q
 monstersandcritics.com##.newsletter-surround
+sltrib.com##.newsletter-test-a
 semiengineering.com##.newsletter-title
 maginative.com##.newsletter-toast
 gmanetwork.com##.newsletter-widget-container
