@@ -29647,11 +29647,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202512121002
+🚫 去掉注释行: ! Version: 202512121037
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 12 Dec 2025 10:02 UTC
+🚫 去掉注释行: ! Last modified: 12 Dec 2025 10:37 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: d8cf3e1cd672d9de0eb6ffa7252824eb35dadaf6
+🚫 去掉注释行: ! Commit: b4876ecea1dc1b38ec7d516f4bfce872a17b7f5b
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -52545,11 +52545,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202512121016
+🚫 去掉注释行: ! Version: 202512121036
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 12 Dec 2025 10:16 UTC
+🚫 去掉注释行: ! Last modified: 12 Dec 2025 10:36 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: ab4bc7c94c8d1d9b349d39a6c9a60c77a8edeb00
+🚫 去掉注释行: ! Commit: 16454d5387ce81faa62e7707cf12ba2aa30e7143
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -68507,8 +68507,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !生成时间: 2025-12-12 17:51:17
-🚫 去掉注释行: !有效规则数目: 1485851
+🚫 去掉注释行: !生成时间: 2025-12-12 18:23:47
+🚫 去掉注释行: !有效规则数目: 1485858
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
@@ -163782,10 +163782,10 @@
 🚫 去掉注释行: ! Blocked domains: 4798
 🚫 去掉注释行: ! unBlocked domains: 16
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: ocp3DfAsnFW6MJPwnrdK0w
-🚫 去掉注释行: ! Version: 202512120842
+🚫 去掉注释行: ! Checksum: gHKbwNqjSSJGiyIp34yNwg
+🚫 去掉注释行: ! Version: 202512120942
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2025-12-12 08:42 UTC
+🚫 去掉注释行: ! Last modified: 2025-12-12 09:42 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -209183,6 +209183,9 @@
     → |hemglass.se##+js(set-cookie, cookielawinfo-checkbox-performance, no)
 🚫 去掉注释行: ! cookielawinfo-checkbox-(rest)
 🚫 去掉注释行: ! set-local-storage-item
+✅ 多域名拆分: hospihousing.com,opentip.kaspersky.com##+js(set-local-storage-item, areCookiesAccepted, true)
+    → |hospihousing.com##+js(set-local-storage-item, areCookiesAccepted, true)
+    → |opentip.kaspersky.com##+js(set-local-storage-item, areCookiesAccepted, true)
 ✅ 多域名拆分: mastersintime.com,watch.co.uk##+js(set-local-storage-item, cookieConsentV2, 1)
     → |mastersintime.com##+js(set-local-storage-item, cookieConsentV2, 1)
     → |watch.co.uk##+js(set-local-storage-item, cookieConsentV2, 1)
