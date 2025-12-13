@@ -51194,6 +51194,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||beacon.radiko.jp^
 ||beacon.watch.impress.co.jp^
 ||beat.yourtv.jp^
+||bookoff.co.jp/assets/js/ac/tag-analyze.js
 ||bookoffonline.co.jp/files/inc_js/ac/
 ||bookoffonline.co.jp/files/tracking/
 ||bookwalker.jp/custom/unitag/
