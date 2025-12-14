@@ -6850,6 +6850,7 @@ trueachievements.com##.vc
 apa.org##.vertical-icon-bar
 videogameschronicle.com##.vgc-branding__container > ul
 videogameschronicle.com##.vgc-socialshare
+ms.now##.video-details__social-share-menu
 natlawreview.com##.view-footer
 motorsport.tv##.vjs-icons-bar
 dailymail.co.uk##.vjs-social-controls
@@ -7050,6 +7051,7 @@ heritagedaily.com##.tds-button:has-text(FOLLOW ON GOOGLE NEWS)
 twitch.tv##.tw-balloon:has-text(Share To)
 ruwix.com##.widget-title:has-text(Share this page!)
 archaeologymag.com##.widget_custom_html:has-text(Follow us)
+ms.now##.wp-block-group p:has(Share this)
 theintercept.com##[data-ga-track-action]:has-text(Join The Conversation)
 clubic.com##[style="position: sticky; top: 55px;"]:has-text(Inscrivez-vous Ã  notre newsletter quotidienne !)
 nbcsports.com##p.cms-textAlign-center:has-text(follow NBC Sports)
@@ -26695,12 +26697,12 @@ texthelp.com##+js(set-cookie, texthelp_cookie_consent, yes)
 |ecaytrade.com##+js(set-cookie, .AspNet.Consent, yes, , reload, 1)
 |apps.stratford.gov.uk##+js(set-cookie, .AspNet.Consent, yes, , reload, 1)
 |rapidonline.com##+js(set-cookie, .AspNet.Consent, yes, , reload, 1)
-|payworks.ca##+js(set-cookie, .AspNet.Consent, no, , reload, 1)
-|powerball.com##+js(set-cookie, .AspNet.Consent, no, , reload, 1)
-|tlaciarik.sk##+js(set-cookie, .AspNet.Consent, no, , reload, 1)
-|tiskarik.cz##+js(set-cookie, .AspNet.Consent, no, , reload, 1)
-|hetwkz.nl##+js(set-cookie, .AspNet.Consent, no, , reload, 1)
-|umcutrecht.nl##+js(set-cookie, .AspNet.Consent, no, , reload, 1)
+|payworks.ca##+js(set-cookie, .AspNet.Consent, no, , , reload, 1)
+|powerball.com##+js(set-cookie, .AspNet.Consent, no, , , reload, 1)
+|tlaciarik.sk##+js(set-cookie, .AspNet.Consent, no, , , reload, 1)
+|tiskarik.cz##+js(set-cookie, .AspNet.Consent, no, , , reload, 1)
+|hetwkz.nl##+js(set-cookie, .AspNet.Consent, no, , , reload, 1)
+|umcutrecht.nl##+js(set-cookie, .AspNet.Consent, no, , , reload, 1)
 sseriga.edu##+js(set-cookie, user_gave_consent, 1)
 sseriga.edu##+js(set-cookie, user_gave_consent_new, 1)
 rt.com##+js(set-cookie, rt-cb-approve, true)
