@@ -22386,6 +22386,7 @@ onassis.org##.bottom-0.relative
 |tierschutzverein-muenchen.de##.bottom-0.fixed
 |tina.io##.bottom-0.fixed
 |tinybird.co##.bottom-0.fixed
+|trigger.dev##.bottom-0.fixed
 |truthsocial.com##.bottom-0.fixed
 |tweetyai.com##.bottom-0.fixed
 |twitchcon.com##.bottom-0.fixed
@@ -24843,6 +24844,7 @@ juken-mikata.net##body:remove-class(has-cookie-consent)
 search.upright-music.dk##+js(set-cookie, cookieConsent, true)
 toppy.be##+js(set-cookie, __toppy_consent, 1)
 ovation.ca##+js(set-cookie, ovation.v20231006.essentials, 1, , reload, 1)
+moscow.shop.megafon.ru##+js(set-cookie, cookie_toast, true)
 genomicpress.kglmeridian.com##+js(set-cookie, pf-cookie-banner-accepted, true)
 hyte.com##+js(set-cookie, AcceptUseCookie, Accept)
 qrzcq.com##+js(set-cookie, COOKIES_ACK, 1, , reload, 1)
