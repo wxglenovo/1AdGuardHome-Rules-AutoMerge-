@@ -12546,6 +12546,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gamejolt.com/tick/
 ||gamemonetize.com/account/event.php?
 ||gamemonetize.com/account/eventvideo.php?
+||gamezop.com/c/events/
+||gamezop.com/c/impressions/
 ||gamivo.com/tcllc?
 ||gardpro.com/api/collect
 ||gc.newsweek.com/front/js/counter.js
@@ -51956,6 +51958,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||firebase.google.com/docs/analytics/$~third-party
 @@||forum.djicdn.com/static/js/sensorsdata.min.js$script,domain=forum.dji.com
 @@||friendbuy.com^$domain=butcherbox.com
+@@||gamezop.com/prebid.js$script,~third-party
 @@||ganyancanavari.com/js/fingerprint2.min.js$~third-party
 @@||geoip-db.com/jsonp/$script,third-party
 @@||getflywheel.com/addons/google-analytics/$~third-party
