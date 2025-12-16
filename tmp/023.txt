@@ -4191,7 +4191,6 @@ amazon.*##html.fable-no-scroll:style(overflow: auto !important; touch-action: au
 -follow-icons.
 -follow-us-icons.
 -followicons.
--share-bar/$~stylesheet
 -share-buttons2.
 -share-buttons3/$~stylesheet
 -share-sprite-
@@ -6353,7 +6352,8 @@ undark.org##.sidebar-action-share
 welivesecurity.com##.sidebar-card-media
 culture.pl##.sidebar-inner
 tribune.com.pk##.sidebar-social-icons
-pcgamesn.com##.sidebar-social-widget
+|pcgamesn.com##.sidebar-social-widget
+|wargamer.com##.sidebar-social-widget
 prdaily.com##.sidebarShareHeading
 newsshooter.com##.simple-social-icons
 dhakatribune.com##.single-artical-page-shear-section-shear-section
@@ -42426,6 +42426,7 @@ monochrome-watches.com##.boxzilla-bottom-right-container
 |wakingtimes.com##.boxzilla-overlay
 geopoliticalfutures.com##.boxzilla-slide-in-free-newsletter-2
 thenarwhal.ca##.brave_popup
+channelnews.com.au##.breakdance-popup-open
 |federalnewsnetwork.com##.breaking-news-signup
 |staradvertiser.com##.breaking-news-signup
 the-express.com##.breakout
@@ -44306,6 +44307,7 @@ memri.org##.subscribe-for-updates
 |armageddonexpo.com##.subscribe-form
 |businesstech.co.za##.subscribe-form
 |buttondown.com##.subscribe-form
+|channelnews.com.au##.subscribe-form
 |dashbit.co##.subscribe-form
 |itsfoss.com##.subscribe-form
 |jurist.org##.subscribe-form
