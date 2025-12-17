@@ -1558,10 +1558,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 92769
-🚫 去掉注释行: ! Checksum: P4TnGyPmvV8ifMh8j6LePA
-🚫 去掉注释行: ! Version: 202512170241
+🚫 去掉注释行: ! Checksum: 7Wo39mMEiiv0UlnBPdgZ8A
+🚫 去掉注释行: ! Version: 202512170341
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 17 Dec 2025 02:41 UTC
+🚫 去掉注释行: ! Last modified: 17 Dec 2025 03:41 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -22869,6 +22869,59 @@
     → |kayak.*##div[id^="inline-"]
     → |swoodoo.com##div[id^="inline-"]
 🚫 去掉注释行: ! *** easylist:easylist/easylist_specific_hide_abp.txt ***
+✅ 多域名拆分: acmemarkets.com,albertsons.com,andronicos.com,carrsqc.com,haggen.com,jewelosco.com,kingsfoodmarkets.com,pavilions.com,randalls.com,safeway.com,shaws.com,starmarket.com,tomthumb.com,vons.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |acmemarkets.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |albertsons.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |andronicos.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |carrsqc.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |haggen.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |jewelosco.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |kingsfoodmarkets.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |pavilions.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |randalls.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |safeway.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |shaws.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |starmarket.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |tomthumb.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |vons.com#?#.product-card-col:-abp-contains(Sponsored)
+✅ 多域名拆分: atlanticsuperstore.ca,fortinos.ca,loblaws.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
+    → |atlanticsuperstore.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
+    → |fortinos.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
+    → |loblaws.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
+    → |maxi.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
+    → |newfoundlandgrocerystores.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
+    → |nofrills.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
+    → |provigo.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
+    → |realcanadiansuperstore.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
+    → |valumart.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
+    → |yourindependentgrocer.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
+    → |zehrs.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
+✅ 多域名拆分: atlanticsuperstore.ca,fortinos.ca,loblaws.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
+    → |atlanticsuperstore.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
+    → |fortinos.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
+    → |loblaws.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
+    → |maxi.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
+    → |newfoundlandgrocerystores.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
+    → |nofrills.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
+    → |provigo.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
+    → |realcanadiansuperstore.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
+    → |valumart.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
+    → |yourindependentgrocer.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
+    → |zehrs.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
+✅ 多域名拆分: atlanticsuperstore.ca,fortinos.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca#?#[data-testid="card"]:-abp-contains(sponsored)
+    → |atlanticsuperstore.ca#?#[data-testid="card"]:-abp-contains(sponsored)
+    → |fortinos.ca#?#[data-testid="card"]:-abp-contains(sponsored)
+    → |maxi.ca#?#[data-testid="card"]:-abp-contains(sponsored)
+    → |newfoundlandgrocerystores.ca#?#[data-testid="card"]:-abp-contains(sponsored)
+    → |nofrills.ca#?#[data-testid="card"]:-abp-contains(sponsored)
+    → |provigo.ca#?#[data-testid="card"]:-abp-contains(sponsored)
+    → |realcanadiansuperstore.ca#?#[data-testid="card"]:-abp-contains(sponsored)
+    → |valumart.ca#?#[data-testid="card"]:-abp-contains(sponsored)
+    → |yourindependentgrocer.ca#?#[data-testid="card"]:-abp-contains(sponsored)
+    → |zehrs.ca#?#[data-testid="card"]:-abp-contains(sponsored)
+✅ 多域名拆分: backpack.tf,backpacktf.com#?#.panel:-abp-contains(createAd)
+    → |backpack.tf#?#.panel:-abp-contains(createAd)
+    → |backpacktf.com#?#.panel:-abp-contains(createAd)
 ✅ 多域名拆分: beaumontenterprise.com,chron.com,ctinsider.com,ctpost.com,expressnews.com,greenwichtime.com,houstonchronicle.com,lmtonline.com,manisteenews.com,michigansthumb.com,middletownpress.com,mrt.com,myjournalcourier.com,myplainview.com,mysanantonio.com,newstimes.com,nhregister.com,ourmidland.com,registercitizen.com,sfchronicle.com,sfgate.com,stamfordadvocate.com,thehour.com,theintelligencer.com#?#.mb32.b-gray300:has-text(Advertisement)
     → |beaumontenterprise.com#?#.mb32.b-gray300:has-text(Advertisement)
     → |chron.com#?#.mb32.b-gray300:has-text(Advertisement)
@@ -22918,86 +22971,33 @@
     → |stamfordadvocate.com#?#.b-gray300:has-text(Advertisement)
     → |thehour.com#?#.b-gray300:has-text(Advertisement)
     → |theintelligencer.com#?#.b-gray300:has-text(Advertisement)
-✅ 多域名拆分: atlanticsuperstore.ca,fortinos.ca,loblaws.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,yourindependentgrocer.ca,valumart.ca,zehrs.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
-    → |atlanticsuperstore.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
-    → |fortinos.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
-    → |loblaws.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
-    → |maxi.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
-    → |newfoundlandgrocerystores.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
-    → |nofrills.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
-    → |provigo.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
-    → |realcanadiansuperstore.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
-    → |yourindependentgrocer.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
-    → |valumart.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
-    → |zehrs.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
+✅ 多域名拆分: cruisecritic.co.uk,cruisecritic.com#?#div[role="group"]:-abp-contains(Sponsored)
+    → |cruisecritic.co.uk#?#div[role="group"]:-abp-contains(Sponsored)
+    → |cruisecritic.com#?#div[role="group"]:-abp-contains(Sponsored)
+✅ 多域名拆分: dictionary.com,thesaurus.com#?#[class] > p:-abp-contains(Advertisement)
+    → |dictionary.com#?#[class] > p:-abp-contains(Advertisement)
+    → |thesaurus.com#?#[class] > p:-abp-contains(Advertisement)
+✅ 多域名拆分: eztv.tf,eztv.yt#?#tbody:-abp-contains(WARNING! Use a)
+    → |eztv.tf#?#tbody:-abp-contains(WARNING! Use a)
+    → |eztv.yt#?#tbody:-abp-contains(WARNING! Use a)
+✅ 多域名拆分: giantfood.com,giantfoodstores.com,martinsfoods.com#?#.pdl-generic-content_full:-abp-contains(Sponsored)
+    → |giantfood.com#?#.pdl-generic-content_full:-abp-contains(Sponsored)
+    → |giantfoodstores.com#?#.pdl-generic-content_full:-abp-contains(Sponsored)
+    → |martinsfoods.com#?#.pdl-generic-content_full:-abp-contains(Sponsored)
 ✅ 多域名拆分: giantfood.com,giantfoodstores.com,martinsfoods.com#?#[data-product-id]:-abp-contains(Sponsored)
     → |giantfood.com#?#[data-product-id]:-abp-contains(Sponsored)
     → |giantfoodstores.com#?#[data-product-id]:-abp-contains(Sponsored)
     → |martinsfoods.com#?#[data-product-id]:-abp-contains(Sponsored)
-✅ 多域名拆分: giantfoodstores.com,giantfood.com,martinsfoods.com#?#.pdl-generic-content_full:-abp-contains(Sponsored)
-    → |giantfoodstores.com#?#.pdl-generic-content_full:-abp-contains(Sponsored)
-    → |giantfood.com#?#.pdl-generic-content_full:-abp-contains(Sponsored)
-    → |martinsfoods.com#?#.pdl-generic-content_full:-abp-contains(Sponsored)
 ✅ 多域名拆分: kslnewsradio.com,ksltv.com,ktar.com#?#.wrapper:-abp-contains(Sponsored Articles)
     → |kslnewsradio.com#?#.wrapper:-abp-contains(Sponsored Articles)
     → |ksltv.com#?#.wrapper:-abp-contains(Sponsored Articles)
     → |ktar.com#?#.wrapper:-abp-contains(Sponsored Articles)
-✅ 多域名拆分: atlanticsuperstore.ca,fortinos.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca#?#[data-testid="card"]:-abp-contains(sponsored)
-    → |atlanticsuperstore.ca#?#[data-testid="card"]:-abp-contains(sponsored)
-    → |fortinos.ca#?#[data-testid="card"]:-abp-contains(sponsored)
-    → |maxi.ca#?#[data-testid="card"]:-abp-contains(sponsored)
-    → |newfoundlandgrocerystores.ca#?#[data-testid="card"]:-abp-contains(sponsored)
-    → |nofrills.ca#?#[data-testid="card"]:-abp-contains(sponsored)
-    → |provigo.ca#?#[data-testid="card"]:-abp-contains(sponsored)
-    → |realcanadiansuperstore.ca#?#[data-testid="card"]:-abp-contains(sponsored)
-    → |valumart.ca#?#[data-testid="card"]:-abp-contains(sponsored)
-    → |yourindependentgrocer.ca#?#[data-testid="card"]:-abp-contains(sponsored)
-    → |zehrs.ca#?#[data-testid="card"]:-abp-contains(sponsored)
-✅ 多域名拆分: atlanticsuperstore.ca,fortinos.ca,loblaws.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
-    → |atlanticsuperstore.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
-    → |fortinos.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
-    → |loblaws.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
-    → |maxi.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
-    → |newfoundlandgrocerystores.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
-    → |nofrills.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
-    → |provigo.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
-    → |realcanadiansuperstore.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
-    → |valumart.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
-    → |yourindependentgrocer.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
-    → |zehrs.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
-✅ 多域名拆分: acmemarkets.com,albertsons.com,andronicos.com,carrsqc.com,haggen.com,jewelosco.com,kingsfoodmarkets.com,pavilions.com,randalls.com,safeway.com,shaws.com,starmarket.com,tomthumb.com,vons.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |acmemarkets.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |albertsons.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |andronicos.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |carrsqc.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |haggen.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |jewelosco.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |kingsfoodmarkets.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |pavilions.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |randalls.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |safeway.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |shaws.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |starmarket.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |tomthumb.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |vons.com#?#.product-card-col:-abp-contains(Sponsored)
-✅ 多域名拆分: backpack.tf,backpacktf.com#?#.panel:-abp-contains(createAd)
-    → |backpack.tf#?#.panel:-abp-contains(createAd)
-    → |backpacktf.com#?#.panel:-abp-contains(createAd)
-✅ 多域名拆分: cruisecritic.co.uk,cruisecritic.com#?#div[role="group"]:-abp-contains(Sponsored)
-    → |cruisecritic.co.uk#?#div[role="group"]:-abp-contains(Sponsored)
-    → |cruisecritic.com#?#div[role="group"]:-abp-contains(Sponsored)
-✅ 多域名拆分: eztv.tf,eztv.yt#?#tbody:-abp-contains(WARNING! Use a)
-    → |eztv.tf#?#tbody:-abp-contains(WARNING! Use a)
-    → |eztv.yt#?#tbody:-abp-contains(WARNING! Use a)
 ✅ 多域名拆分: loblaws.ca,provigo.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca#?#.chakra-container:-abp-contains(Featured Items)
     → |loblaws.ca#?#.chakra-container:-abp-contains(Featured Items)
     → |provigo.ca#?#.chakra-container:-abp-contains(Featured Items)
     → |valumart.ca#?#.chakra-container:-abp-contains(Featured Items)
     → |yourindependentgrocer.ca#?#.chakra-container:-abp-contains(Featured Items)
     → |zehrs.ca#?#.chakra-container:-abp-contains(Featured Items)
-✅ 多域名拆分: dictionary.com,thesaurus.com#?#[class] > p:-abp-contains(Advertisement)
-    → |dictionary.com#?#[class] > p:-abp-contains(Advertisement)
-    → |thesaurus.com#?#[class] > p:-abp-contains(Advertisement)
 ✅ 多域名拆分: twitter.com,x.com#?#h2[role="heading"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสมพนธ|परचरत|বজঞপত|تشہیر شدہ|مروج|تبلیغی|מקודם/)
     → |twitter.com#?#h2[role="heading"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสมพนธ|परचरत|বজঞপত|تشہیر شدہ|مروج|تبلیغی|מקודם/)
     → |x.com#?#h2[role="heading"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสมพนธ|परचरत|বজঞপত|تشہیر شدہ|مروج|تبلیغی|מקודם/)
@@ -24475,10 +24475,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: czvcfmfgxYhyHqEvyF3HIw
-🚫 去掉注释行: ! Version: 202512170241
+🚫 去掉注释行: ! Checksum: XEb6P1O8h+UCGOrRfw8bXQ
+🚫 去掉注释行: ! Version: 202512170341
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 17 Dec 2025 02:41 UTC
+🚫 去掉注释行: ! Last modified: 17 Dec 2025 03:41 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -28989,10 +28989,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: 3M5wYW0euWf++gunnhNG0Q
-🚫 去掉注释行: ! Version: 202512170241
+🚫 去掉注释行: ! Checksum: 7GsbaCrS4aMP2YULom5iVA
+🚫 去掉注释行: ! Version: 202512170341
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 17 Dec 2025 02:41 UTC
+🚫 去掉注释行: ! Last modified: 17 Dec 2025 03:41 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29683,11 +29683,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202512170249
+🚫 去掉注释行: ! Version: 202512170342
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 17 Dec 2025 02:49 UTC
+🚫 去掉注释行: ! Last modified: 17 Dec 2025 03:42 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: aa234b65932b7e81d3e5c3f5e3dbe4aead6f18d3
+🚫 去掉注释行: ! Commit: df6fe41996f5e732621d22db1afb9f4aa6123c8d
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -50998,6 +50998,59 @@
     → |kayak.*##div[id^="inline-"]
     → |swoodoo.com##div[id^="inline-"]
 🚫 去掉注释行: ! *** easylist:easylist/easylist_specific_hide_abp.txt ***
+✅ 多域名拆分: acmemarkets.com,albertsons.com,andronicos.com,carrsqc.com,haggen.com,jewelosco.com,kingsfoodmarkets.com,pavilions.com,randalls.com,safeway.com,shaws.com,starmarket.com,tomthumb.com,vons.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |acmemarkets.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |albertsons.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |andronicos.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |carrsqc.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |haggen.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |jewelosco.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |kingsfoodmarkets.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |pavilions.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |randalls.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |safeway.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |shaws.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |starmarket.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |tomthumb.com#?#.product-card-col:-abp-contains(Sponsored)
+    → |vons.com#?#.product-card-col:-abp-contains(Sponsored)
+✅ 多域名拆分: atlanticsuperstore.ca,fortinos.ca,loblaws.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
+    → |atlanticsuperstore.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
+    → |fortinos.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
+    → |loblaws.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
+    → |maxi.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
+    → |newfoundlandgrocerystores.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
+    → |nofrills.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
+    → |provigo.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
+    → |realcanadiansuperstore.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
+    → |valumart.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
+    → |yourindependentgrocer.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
+    → |zehrs.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
+✅ 多域名拆分: atlanticsuperstore.ca,fortinos.ca,loblaws.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
+    → |atlanticsuperstore.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
+    → |fortinos.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
+    → |loblaws.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
+    → |maxi.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
+    → |newfoundlandgrocerystores.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
+    → |nofrills.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
+    → |provigo.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
+    → |realcanadiansuperstore.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
+    → |valumart.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
+    → |yourindependentgrocer.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
+    → |zehrs.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
+✅ 多域名拆分: atlanticsuperstore.ca,fortinos.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca#?#[data-testid="card"]:-abp-contains(sponsored)
+    → |atlanticsuperstore.ca#?#[data-testid="card"]:-abp-contains(sponsored)
+    → |fortinos.ca#?#[data-testid="card"]:-abp-contains(sponsored)
+    → |maxi.ca#?#[data-testid="card"]:-abp-contains(sponsored)
+    → |newfoundlandgrocerystores.ca#?#[data-testid="card"]:-abp-contains(sponsored)
+    → |nofrills.ca#?#[data-testid="card"]:-abp-contains(sponsored)
+    → |provigo.ca#?#[data-testid="card"]:-abp-contains(sponsored)
+    → |realcanadiansuperstore.ca#?#[data-testid="card"]:-abp-contains(sponsored)
+    → |valumart.ca#?#[data-testid="card"]:-abp-contains(sponsored)
+    → |yourindependentgrocer.ca#?#[data-testid="card"]:-abp-contains(sponsored)
+    → |zehrs.ca#?#[data-testid="card"]:-abp-contains(sponsored)
+✅ 多域名拆分: backpack.tf,backpacktf.com#?#.panel:-abp-contains(createAd)
+    → |backpack.tf#?#.panel:-abp-contains(createAd)
+    → |backpacktf.com#?#.panel:-abp-contains(createAd)
 ✅ 多域名拆分: beaumontenterprise.com,chron.com,ctinsider.com,ctpost.com,expressnews.com,greenwichtime.com,houstonchronicle.com,lmtonline.com,manisteenews.com,michigansthumb.com,middletownpress.com,mrt.com,myjournalcourier.com,myplainview.com,mysanantonio.com,newstimes.com,nhregister.com,ourmidland.com,registercitizen.com,sfchronicle.com,sfgate.com,stamfordadvocate.com,thehour.com,theintelligencer.com#?#.mb32.b-gray300:has-text(Advertisement)
     → |beaumontenterprise.com#?#.mb32.b-gray300:has-text(Advertisement)
     → |chron.com#?#.mb32.b-gray300:has-text(Advertisement)
@@ -51047,86 +51100,33 @@
     → |stamfordadvocate.com#?#.b-gray300:has-text(Advertisement)
     → |thehour.com#?#.b-gray300:has-text(Advertisement)
     → |theintelligencer.com#?#.b-gray300:has-text(Advertisement)
-✅ 多域名拆分: atlanticsuperstore.ca,fortinos.ca,loblaws.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,yourindependentgrocer.ca,valumart.ca,zehrs.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
-    → |atlanticsuperstore.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
-    → |fortinos.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
-    → |loblaws.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
-    → |maxi.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
-    → |newfoundlandgrocerystores.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
-    → |nofrills.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
-    → |provigo.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
-    → |realcanadiansuperstore.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
-    → |yourindependentgrocer.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
-    → |valumart.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
-    → |zehrs.ca#?#.indiana-scroll-container > ul > li:has(.chakra-badge:-abp-contains(/Sponsorisé|Sponsored/))
+✅ 多域名拆分: cruisecritic.co.uk,cruisecritic.com#?#div[role="group"]:-abp-contains(Sponsored)
+    → |cruisecritic.co.uk#?#div[role="group"]:-abp-contains(Sponsored)
+    → |cruisecritic.com#?#div[role="group"]:-abp-contains(Sponsored)
+✅ 多域名拆分: dictionary.com,thesaurus.com#?#[class] > p:-abp-contains(Advertisement)
+    → |dictionary.com#?#[class] > p:-abp-contains(Advertisement)
+    → |thesaurus.com#?#[class] > p:-abp-contains(Advertisement)
+✅ 多域名拆分: eztv.tf,eztv.yt#?#tbody:-abp-contains(WARNING! Use a)
+    → |eztv.tf#?#tbody:-abp-contains(WARNING! Use a)
+    → |eztv.yt#?#tbody:-abp-contains(WARNING! Use a)
+✅ 多域名拆分: giantfood.com,giantfoodstores.com,martinsfoods.com#?#.pdl-generic-content_full:-abp-contains(Sponsored)
+    → |giantfood.com#?#.pdl-generic-content_full:-abp-contains(Sponsored)
+    → |giantfoodstores.com#?#.pdl-generic-content_full:-abp-contains(Sponsored)
+    → |martinsfoods.com#?#.pdl-generic-content_full:-abp-contains(Sponsored)
 ✅ 多域名拆分: giantfood.com,giantfoodstores.com,martinsfoods.com#?#[data-product-id]:-abp-contains(Sponsored)
     → |giantfood.com#?#[data-product-id]:-abp-contains(Sponsored)
     → |giantfoodstores.com#?#[data-product-id]:-abp-contains(Sponsored)
     → |martinsfoods.com#?#[data-product-id]:-abp-contains(Sponsored)
-✅ 多域名拆分: giantfoodstores.com,giantfood.com,martinsfoods.com#?#.pdl-generic-content_full:-abp-contains(Sponsored)
-    → |giantfoodstores.com#?#.pdl-generic-content_full:-abp-contains(Sponsored)
-    → |giantfood.com#?#.pdl-generic-content_full:-abp-contains(Sponsored)
-    → |martinsfoods.com#?#.pdl-generic-content_full:-abp-contains(Sponsored)
 ✅ 多域名拆分: kslnewsradio.com,ksltv.com,ktar.com#?#.wrapper:-abp-contains(Sponsored Articles)
     → |kslnewsradio.com#?#.wrapper:-abp-contains(Sponsored Articles)
     → |ksltv.com#?#.wrapper:-abp-contains(Sponsored Articles)
     → |ktar.com#?#.wrapper:-abp-contains(Sponsored Articles)
-✅ 多域名拆分: atlanticsuperstore.ca,fortinos.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca#?#[data-testid="card"]:-abp-contains(sponsored)
-    → |atlanticsuperstore.ca#?#[data-testid="card"]:-abp-contains(sponsored)
-    → |fortinos.ca#?#[data-testid="card"]:-abp-contains(sponsored)
-    → |maxi.ca#?#[data-testid="card"]:-abp-contains(sponsored)
-    → |newfoundlandgrocerystores.ca#?#[data-testid="card"]:-abp-contains(sponsored)
-    → |nofrills.ca#?#[data-testid="card"]:-abp-contains(sponsored)
-    → |provigo.ca#?#[data-testid="card"]:-abp-contains(sponsored)
-    → |realcanadiansuperstore.ca#?#[data-testid="card"]:-abp-contains(sponsored)
-    → |valumart.ca#?#[data-testid="card"]:-abp-contains(sponsored)
-    → |yourindependentgrocer.ca#?#[data-testid="card"]:-abp-contains(sponsored)
-    → |zehrs.ca#?#[data-testid="card"]:-abp-contains(sponsored)
-✅ 多域名拆分: atlanticsuperstore.ca,fortinos.ca,loblaws.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
-    → |atlanticsuperstore.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
-    → |fortinos.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
-    → |loblaws.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
-    → |maxi.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
-    → |newfoundlandgrocerystores.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
-    → |nofrills.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
-    → |provigo.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
-    → |realcanadiansuperstore.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
-    → |valumart.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
-    → |yourindependentgrocer.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
-    → |zehrs.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
-✅ 多域名拆分: acmemarkets.com,albertsons.com,andronicos.com,carrsqc.com,haggen.com,jewelosco.com,kingsfoodmarkets.com,pavilions.com,randalls.com,safeway.com,shaws.com,starmarket.com,tomthumb.com,vons.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |acmemarkets.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |albertsons.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |andronicos.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |carrsqc.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |haggen.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |jewelosco.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |kingsfoodmarkets.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |pavilions.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |randalls.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |safeway.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |shaws.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |starmarket.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |tomthumb.com#?#.product-card-col:-abp-contains(Sponsored)
-    → |vons.com#?#.product-card-col:-abp-contains(Sponsored)
-✅ 多域名拆分: backpack.tf,backpacktf.com#?#.panel:-abp-contains(createAd)
-    → |backpack.tf#?#.panel:-abp-contains(createAd)
-    → |backpacktf.com#?#.panel:-abp-contains(createAd)
-✅ 多域名拆分: cruisecritic.co.uk,cruisecritic.com#?#div[role="group"]:-abp-contains(Sponsored)
-    → |cruisecritic.co.uk#?#div[role="group"]:-abp-contains(Sponsored)
-    → |cruisecritic.com#?#div[role="group"]:-abp-contains(Sponsored)
-✅ 多域名拆分: eztv.tf,eztv.yt#?#tbody:-abp-contains(WARNING! Use a)
-    → |eztv.tf#?#tbody:-abp-contains(WARNING! Use a)
-    → |eztv.yt#?#tbody:-abp-contains(WARNING! Use a)
 ✅ 多域名拆分: loblaws.ca,provigo.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca#?#.chakra-container:-abp-contains(Featured Items)
     → |loblaws.ca#?#.chakra-container:-abp-contains(Featured Items)
     → |provigo.ca#?#.chakra-container:-abp-contains(Featured Items)
     → |valumart.ca#?#.chakra-container:-abp-contains(Featured Items)
     → |yourindependentgrocer.ca#?#.chakra-container:-abp-contains(Featured Items)
     → |zehrs.ca#?#.chakra-container:-abp-contains(Featured Items)
-✅ 多域名拆分: dictionary.com,thesaurus.com#?#[class] > p:-abp-contains(Advertisement)
-    → |dictionary.com#?#[class] > p:-abp-contains(Advertisement)
-    → |thesaurus.com#?#[class] > p:-abp-contains(Advertisement)
 ✅ 多域名拆分: twitter.com,x.com#?#h2[role="heading"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสมพนธ|परचरत|বজঞপত|تشہیر شدہ|مروج|تبلیغی|מקודם/)
     → |twitter.com#?#h2[role="heading"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสมพนธ|परचरत|বজঞপত|تشہیر شدہ|مروج|تبلیغی|מקודם/)
     → |x.com#?#h2[role="heading"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสมพนธ|परचरत|বজঞপত|تشہیر شدہ|مروج|تبلیغی|מקודם/)
@@ -52604,11 +52604,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202512170249
+🚫 去掉注释行: ! Version: 202512170342
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 17 Dec 2025 02:49 UTC
+🚫 去掉注释行: ! Last modified: 17 Dec 2025 03:42 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: aa234b65932b7e81d3e5c3f5e3dbe4aead6f18d3
+🚫 去掉注释行: ! Commit: df6fe41996f5e732621d22db1afb9f4aa6123c8d
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -68579,8 +68579,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !生成时间: 2025-12-17 09:39:54
-🚫 去掉注释行: !有效规则数目: 1488458
+🚫 去掉注释行: !生成时间: 2025-12-17 11:10:46
+🚫 去掉注释行: !有效规则数目: 1488479
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
@@ -227732,9 +227732,9 @@
 🚫 去掉注释行: ! 5kporn.com
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: xWtN9KlkLjsgW4wrbXN5uQ
+🚫 去掉注释行: ! Checksum: nQQlBGP9nGPJnPbDwqMUdQ
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Updated: 2025-12-17 01:38 UTC
+🚫 去掉注释行: ! Updated: 2025-12-17 03:38 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
