@@ -1167,6 +1167,7 @@ celebified.com##footer
 |makeagif.com##uvTab
 |post-gazette.com##uvTab
 |tldrlegal.com##uvTab
+ms.now###GLOBAL_POPUP__container
 opb.org###OPB-slideup
 therealnews.com###XCSCGNVU
 progressive.org###XHMSPXWS
@@ -16066,6 +16067,7 @@ central1.com##.show-cookie-div
 nikkei.com##.show_s1oy9cxe
 maxtena.com##.showcookiedialog
 tarot.com##.shown
+pornhub.com##.sideAds
 thedrum.com##.signup-cta__fixed
 sim-networks.com##.sim-cookies-popup
 |dendrite.ai##.simple-cookie-widget
@@ -28194,6 +28196,7 @@ teknokutu.com##+js(set-session-storage-item, cookieDeclined, true)
 bytello.com##+js(set-local-storage-item, _APP_COOKIE_NOTICE, reject)
 foodnetwork.com##+js(set-local-storage-item, wbdLTP, true)
 ytj.fi##+js(set-local-storage-item, accept-cookies, done)
+unisa.ac.za##+js(set-local-storage-item, cookieConsent, essential)
 ytj.fi##+js(set-local-storage-item, cookie-neta, false)
 ytj.fi##+js(set-local-storage-item, cookie-snoop, false)
 teamtailor.com##+js(set-local-storage-item, CookieConsent--hideCookieConsent, true)
