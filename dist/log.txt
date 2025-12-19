@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2025-12-18T22:06:35.650Z
+🚫 去掉注释行: ! Last modified: 2025-12-19T00:29:00.140Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v1.0.38
 🚫 去掉注释行: !
@@ -1558,10 +1558,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 92768
-🚫 去掉注释行: ! Checksum: tMC6B8/72RPPsK3rpMtZDw
-🚫 去掉注释行: ! Version: 202512182331
+🚫 去掉注释行: ! Checksum: m9OWCIL8cR2M8pXQhGllSQ
+🚫 去掉注释行: ! Version: 202512190101
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 18 Dec 2025 23:31 UTC
+🚫 去掉注释行: ! Last modified: 19 Dec 2025 01:01 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -18377,9 +18377,6 @@
 ✅ 多域名拆分: charlieintel.com,dexerto.com##.bg-neutral-grey-4.items-center
     → |charlieintel.com##.bg-neutral-grey-4.items-center
     → |dexerto.com##.bg-neutral-grey-4.items-center
-✅ 多域名拆分: charlieintel.com,dexerto.com##.bg-neutral-grey.justify-center
-    → |charlieintel.com##.bg-neutral-grey.justify-center
-    → |dexerto.com##.bg-neutral-grey.justify-center
 ✅ 多域名拆分: ipolitics.ca,qpbriefing.com##.big-box
     → |ipolitics.ca##.big-box
     → |qpbriefing.com##.big-box
@@ -18557,7 +18554,7 @@
     → |goodreturns.in##.cmscontent-right1
     → |nativeplanet.com##.cmscontent-right1
     → |oneindia.com##.cmscontent-right1
-✅ 多域名拆分: 100percentfedup.com,academicful.com,addapinch.com,aiarticlespinner.co,allaboutfpl.com,alltechnerd.com,americanmilitarynews.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,australiangeographic.com.au,autodaily.com.au,bakeitwithlove.com,bioinformant.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,charlieintel.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,cjr.org,coincodecap.com,conservativebrief.com,conservativefiringline.com,corrosionhour.com,cricfy.net,crimereads.com,cryptobriefing.com,cryptointelligence.co.uk,cryptopotato.com,cryptoreporter.info,cryptoslate.com,cryptotimes.io,dafontfree.io,dailynewshungary.com,digitalreg.net,dorohedoro.online,dramacool.com.my,ecoportal.net,ecoticias.com,emobilityplus.com,engineering-designer.com,epicdope.com,eurweb.com,fandomwire.com,firstcuriosity.com,firstsportz.com,flashbak.com,flickeringmyth.com,flowmountainbike.com,flyingmag.com,freemagazines.top,gadgetinsiders.com,gamebyte.com,gameinfinitus.com,gamertweak.com,gamingdeputy.com,gatewayhispanic.com,gatewaynews.co.za,geekdashboard.com,geekzag.com,glassalmanac.com,goodyfeed.com,greekreporter.com,hard-drive.net,harrowonline.org,helihub.com,hollywoodinsider.com,hollywoodunlocked.com,hotcelebshome.com,ifoodreal.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,jardineriaon.com,jessicagavin.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,libertyunlocked.com,linuxfordevices.com,lithub.com,mangaread.org,mb.com.ph,meaningfulspaces.com,medicotopics.com,medievalists.net,mpost.io,mycariboonow.com,mymodernmet.com,mymotherlode.com,nationalfile.com,nexdrive.lol,nexusgames.to,notalwaysright.com,nxbrew.com,organicfacts.net,patriotfetch.com,pcoptimizedsettings.com,politizoom.com,premiumtimesng.com,protrumpnews.com,pureinfotech.com,redrightvideos.com,reneweconomy.com.au,reptilesmagazine.com,rightwingnews.com,roadaheadonline.co.za,rok.guide,saabplanet.com,sacurrent.com,sciencenotes.org,simscommunity.info,slaynews.com,small-screen.co.uk,snipercentral.com,snowbrains.com,statisticsbyjim.com,storypick.com,streamingbetter.com,superwatchman.com,talkandroid.com,talkers.com,tech-latest.com,techaeris.com,techpp.com,techrounder.com,techviral.net,thebeaverton.com,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,theoilrig.ca,thepeoplesvoice.tv,theprint.in,thewincentral.com,trendingpoliticsnews.com,tvtonight.com.au,twistedvoxel.com,walletinvestor.com,washingtonblade.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,whynow.co.uk,win.gg,windowslatest.com,wisden.com,wltreport.com,wnd.com,wrestlingnews.co,zerohanger.com,ziperto.com##.code-block
+✅ 多域名拆分: 100percentfedup.com,academicful.com,addapinch.com,aiarticlespinner.co,allaboutfpl.com,alltechnerd.com,americanmilitarynews.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,australiangeographic.com.au,autodaily.com.au,bakeitwithlove.com,bioinformant.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,cjr.org,coincodecap.com,conservativebrief.com,conservativefiringline.com,corrosionhour.com,cricfy.net,crimereads.com,cryptobriefing.com,cryptointelligence.co.uk,cryptopotato.com,cryptoreporter.info,cryptoslate.com,cryptotimes.io,dafontfree.io,dailynewshungary.com,digitalreg.net,dorohedoro.online,dramacool.com.my,ecoportal.net,ecoticias.com,emobilityplus.com,engineering-designer.com,epicdope.com,eurweb.com,fandomwire.com,firstcuriosity.com,firstsportz.com,flashbak.com,flickeringmyth.com,flowmountainbike.com,flyingmag.com,freemagazines.top,gadgetinsiders.com,gamebyte.com,gameinfinitus.com,gamertweak.com,gamingdeputy.com,gatewayhispanic.com,gatewaynews.co.za,geekdashboard.com,geekzag.com,glassalmanac.com,goodyfeed.com,greekreporter.com,hard-drive.net,harrowonline.org,helihub.com,hollywoodinsider.com,hollywoodunlocked.com,hotcelebshome.com,ifoodreal.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,jardineriaon.com,jessicagavin.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,libertyunlocked.com,linuxfordevices.com,lithub.com,mangaread.org,mb.com.ph,meaningfulspaces.com,medicotopics.com,medievalists.net,mpost.io,mycariboonow.com,mymodernmet.com,mymotherlode.com,nationalfile.com,nexdrive.lol,nexusgames.to,notalwaysright.com,nxbrew.com,organicfacts.net,patriotfetch.com,pcoptimizedsettings.com,politizoom.com,premiumtimesng.com,protrumpnews.com,pureinfotech.com,redrightvideos.com,reneweconomy.com.au,reptilesmagazine.com,rightwingnews.com,roadaheadonline.co.za,rok.guide,saabplanet.com,sacurrent.com,sciencenotes.org,simscommunity.info,slaynews.com,small-screen.co.uk,snipercentral.com,snowbrains.com,statisticsbyjim.com,storypick.com,streamingbetter.com,superwatchman.com,talkandroid.com,talkers.com,tech-latest.com,techaeris.com,techpp.com,techrounder.com,techviral.net,thebeaverton.com,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,theoilrig.ca,thepeoplesvoice.tv,theprint.in,thewincentral.com,trendingpoliticsnews.com,tvtonight.com.au,twistedvoxel.com,walletinvestor.com,washingtonblade.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,whynow.co.uk,win.gg,windowslatest.com,wisden.com,wltreport.com,wnd.com,wrestlingnews.co,zerohanger.com,ziperto.com##.code-block
     → |100percentfedup.com##.code-block
     → |academicful.com##.code-block
     → |addapinch.com##.code-block
@@ -18578,7 +18575,6 @@
     → |borncity.com##.code-block
     → |boxingnews24.com##.code-block
     → |browserhow.com##.code-block
-    → |charlieintel.com##.code-block
     → |chillinghistory.com##.code-block
     → |chromeunboxed.com##.code-block
     → |circuitbasics.com##.code-block
@@ -19356,9 +19352,6 @@
     → |northernstar.info##.leaderboardwrap
     → |theorion.com##.leaderboardwrap
     → |theprospectordaily.com##.leaderboardwrap
-✅ 多域名拆分: charlieintel.com,dexerto.com##.lg\:min-h-\[290px\]
-    → |charlieintel.com##.lg\:min-h-\[290px\]
-    → |dexerto.com##.lg\:min-h-\[290px\]
 ✅ 多域名拆分: gizmodo.com,kotaku.com##.lg\:min-h-\[300px\]
     → |gizmodo.com##.lg\:min-h-\[300px\]
     → |kotaku.com##.lg\:min-h-\[300px\]
@@ -19430,9 +19423,6 @@
     → |op.gg##.min-h-\[250px\]
     → |outsideonline.com##.min-h-\[250px\]
     → |radio.net##.min-h-\[250px\]
-✅ 多域名拆分: charlieintel.com,dexerto.com##.min-h-\[278px\]
-    → |charlieintel.com##.min-h-\[278px\]
-    → |dexerto.com##.min-h-\[278px\]
 ✅ 多域名拆分: fansided.com,thenewdaily.com.au##.min-h-\[280px\]
     → |fansided.com##.min-h-\[280px\]
     → |thenewdaily.com.au##.min-h-\[280px\]
@@ -20909,9 +20899,6 @@
 ✅ 多域名拆分: androidauthority.com,soundguys.com##[data-ad-type]
     → |androidauthority.com##[data-ad-type]
     → |soundguys.com##[data-ad-type]
-✅ 多域名拆分: charlieintel.com,dexerto.com##[data-ad-unit-id]
-    → |charlieintel.com##[data-ad-unit-id]
-    → |dexerto.com##[data-ad-unit-id]
 ✅ 多域名拆分: chron.com,seattlepi.com,sfchronicle.com,timesunion.com##[data-block-type="ad"]
     → |chron.com##[data-block-type="ad"]
     → |seattlepi.com##[data-block-type="ad"]
@@ -22654,9 +22641,6 @@
     → |madamenoire.com###player-wrapper
     → |newsone.com###player-wrapper
     → |tvone.tv###player-wrapper
-✅ 多域名拆分: charlieintel.com,dexerto.com###primis-player
-    → |charlieintel.com###primis-player
-    → |dexerto.com###primis-player
 ✅ 多域名拆分: lifehacker.com,mashable.com,pcmag.com###related-video
     → |lifehacker.com###related-video
     → |mashable.com###related-video
@@ -24483,10 +24467,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: Gz/ee+G3jFr67e2pCJmL8Q
-🚫 去掉注释行: ! Version: 202512182331
+🚫 去掉注释行: ! Checksum: C2gwL1TCF38TDjRieAkUFQ
+🚫 去掉注释行: ! Version: 202512190101
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 18 Dec 2025 23:31 UTC
+🚫 去掉注释行: ! Last modified: 19 Dec 2025 01:01 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29010,10 +28994,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: 2Y4lTlbX5X+KGgiwvn+jPQ
-🚫 去掉注释行: ! Version: 202512182331
+🚫 去掉注释行: ! Checksum: iz8KqJ4Ggr7PH9gcZyIBrA
+🚫 去掉注释行: ! Version: 202512190101
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 18 Dec 2025 23:31 UTC
+🚫 去掉注释行: ! Last modified: 19 Dec 2025 01:01 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29704,11 +29688,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202512182339
+🚫 去掉注释行: ! Version: 202512190106
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 18 Dec 2025 23:39 UTC
+🚫 去掉注释行: ! Last modified: 19 Dec 2025 01:06 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 63075207c4741d9349fda6da7baae2eee0564fa7
+🚫 去掉注释行: ! Commit: 958143efa525fe18a4689cdc533b9e3dd8bc3a0e
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -46527,9 +46511,6 @@
 ✅ 多域名拆分: charlieintel.com,dexerto.com##.bg-neutral-grey-4.items-center
     → |charlieintel.com##.bg-neutral-grey-4.items-center
     → |dexerto.com##.bg-neutral-grey-4.items-center
-✅ 多域名拆分: charlieintel.com,dexerto.com##.bg-neutral-grey.justify-center
-    → |charlieintel.com##.bg-neutral-grey.justify-center
-    → |dexerto.com##.bg-neutral-grey.justify-center
 ✅ 多域名拆分: ipolitics.ca,qpbriefing.com##.big-box
     → |ipolitics.ca##.big-box
     → |qpbriefing.com##.big-box
@@ -46707,7 +46688,7 @@
     → |goodreturns.in##.cmscontent-right1
     → |nativeplanet.com##.cmscontent-right1
     → |oneindia.com##.cmscontent-right1
-✅ 多域名拆分: 100percentfedup.com,academicful.com,addapinch.com,aiarticlespinner.co,allaboutfpl.com,alltechnerd.com,americanmilitarynews.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,australiangeographic.com.au,autodaily.com.au,bakeitwithlove.com,bioinformant.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,charlieintel.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,cjr.org,coincodecap.com,conservativebrief.com,conservativefiringline.com,corrosionhour.com,cricfy.net,crimereads.com,cryptobriefing.com,cryptointelligence.co.uk,cryptopotato.com,cryptoreporter.info,cryptoslate.com,cryptotimes.io,dafontfree.io,dailynewshungary.com,digitalreg.net,dorohedoro.online,dramacool.com.my,ecoportal.net,ecoticias.com,emobilityplus.com,engineering-designer.com,epicdope.com,eurweb.com,fandomwire.com,firstcuriosity.com,firstsportz.com,flashbak.com,flickeringmyth.com,flowmountainbike.com,flyingmag.com,freemagazines.top,gadgetinsiders.com,gamebyte.com,gameinfinitus.com,gamertweak.com,gamingdeputy.com,gatewayhispanic.com,gatewaynews.co.za,geekdashboard.com,geekzag.com,glassalmanac.com,goodyfeed.com,greekreporter.com,hard-drive.net,harrowonline.org,helihub.com,hollywoodinsider.com,hollywoodunlocked.com,hotcelebshome.com,ifoodreal.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,jardineriaon.com,jessicagavin.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,libertyunlocked.com,linuxfordevices.com,lithub.com,mangaread.org,mb.com.ph,meaningfulspaces.com,medicotopics.com,medievalists.net,mpost.io,mycariboonow.com,mymodernmet.com,mymotherlode.com,nationalfile.com,nexdrive.lol,nexusgames.to,notalwaysright.com,nxbrew.com,organicfacts.net,patriotfetch.com,pcoptimizedsettings.com,politizoom.com,premiumtimesng.com,protrumpnews.com,pureinfotech.com,redrightvideos.com,reneweconomy.com.au,reptilesmagazine.com,rightwingnews.com,roadaheadonline.co.za,rok.guide,saabplanet.com,sacurrent.com,sciencenotes.org,simscommunity.info,slaynews.com,small-screen.co.uk,snipercentral.com,snowbrains.com,statisticsbyjim.com,storypick.com,streamingbetter.com,superwatchman.com,talkandroid.com,talkers.com,tech-latest.com,techaeris.com,techpp.com,techrounder.com,techviral.net,thebeaverton.com,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,theoilrig.ca,thepeoplesvoice.tv,theprint.in,thewincentral.com,trendingpoliticsnews.com,tvtonight.com.au,twistedvoxel.com,walletinvestor.com,washingtonblade.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,whynow.co.uk,win.gg,windowslatest.com,wisden.com,wltreport.com,wnd.com,wrestlingnews.co,zerohanger.com,ziperto.com##.code-block
+✅ 多域名拆分: 100percentfedup.com,academicful.com,addapinch.com,aiarticlespinner.co,allaboutfpl.com,alltechnerd.com,americanmilitarynews.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,australiangeographic.com.au,autodaily.com.au,bakeitwithlove.com,bioinformant.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,cjr.org,coincodecap.com,conservativebrief.com,conservativefiringline.com,corrosionhour.com,cricfy.net,crimereads.com,cryptobriefing.com,cryptointelligence.co.uk,cryptopotato.com,cryptoreporter.info,cryptoslate.com,cryptotimes.io,dafontfree.io,dailynewshungary.com,digitalreg.net,dorohedoro.online,dramacool.com.my,ecoportal.net,ecoticias.com,emobilityplus.com,engineering-designer.com,epicdope.com,eurweb.com,fandomwire.com,firstcuriosity.com,firstsportz.com,flashbak.com,flickeringmyth.com,flowmountainbike.com,flyingmag.com,freemagazines.top,gadgetinsiders.com,gamebyte.com,gameinfinitus.com,gamertweak.com,gamingdeputy.com,gatewayhispanic.com,gatewaynews.co.za,geekdashboard.com,geekzag.com,glassalmanac.com,goodyfeed.com,greekreporter.com,hard-drive.net,harrowonline.org,helihub.com,hollywoodinsider.com,hollywoodunlocked.com,hotcelebshome.com,ifoodreal.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,jardineriaon.com,jessicagavin.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,libertyunlocked.com,linuxfordevices.com,lithub.com,mangaread.org,mb.com.ph,meaningfulspaces.com,medicotopics.com,medievalists.net,mpost.io,mycariboonow.com,mymodernmet.com,mymotherlode.com,nationalfile.com,nexdrive.lol,nexusgames.to,notalwaysright.com,nxbrew.com,organicfacts.net,patriotfetch.com,pcoptimizedsettings.com,politizoom.com,premiumtimesng.com,protrumpnews.com,pureinfotech.com,redrightvideos.com,reneweconomy.com.au,reptilesmagazine.com,rightwingnews.com,roadaheadonline.co.za,rok.guide,saabplanet.com,sacurrent.com,sciencenotes.org,simscommunity.info,slaynews.com,small-screen.co.uk,snipercentral.com,snowbrains.com,statisticsbyjim.com,storypick.com,streamingbetter.com,superwatchman.com,talkandroid.com,talkers.com,tech-latest.com,techaeris.com,techpp.com,techrounder.com,techviral.net,thebeaverton.com,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,theoilrig.ca,thepeoplesvoice.tv,theprint.in,thewincentral.com,trendingpoliticsnews.com,tvtonight.com.au,twistedvoxel.com,walletinvestor.com,washingtonblade.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,whynow.co.uk,win.gg,windowslatest.com,wisden.com,wltreport.com,wnd.com,wrestlingnews.co,zerohanger.com,ziperto.com##.code-block
     → |100percentfedup.com##.code-block
     → |academicful.com##.code-block
     → |addapinch.com##.code-block
@@ -46728,7 +46709,6 @@
     → |borncity.com##.code-block
     → |boxingnews24.com##.code-block
     → |browserhow.com##.code-block
-    → |charlieintel.com##.code-block
     → |chillinghistory.com##.code-block
     → |chromeunboxed.com##.code-block
     → |circuitbasics.com##.code-block
@@ -47506,9 +47486,6 @@
     → |northernstar.info##.leaderboardwrap
     → |theorion.com##.leaderboardwrap
     → |theprospectordaily.com##.leaderboardwrap
-✅ 多域名拆分: charlieintel.com,dexerto.com##.lg\:min-h-\[290px\]
-    → |charlieintel.com##.lg\:min-h-\[290px\]
-    → |dexerto.com##.lg\:min-h-\[290px\]
 ✅ 多域名拆分: gizmodo.com,kotaku.com##.lg\:min-h-\[300px\]
     → |gizmodo.com##.lg\:min-h-\[300px\]
     → |kotaku.com##.lg\:min-h-\[300px\]
@@ -47580,9 +47557,6 @@
     → |op.gg##.min-h-\[250px\]
     → |outsideonline.com##.min-h-\[250px\]
     → |radio.net##.min-h-\[250px\]
-✅ 多域名拆分: charlieintel.com,dexerto.com##.min-h-\[278px\]
-    → |charlieintel.com##.min-h-\[278px\]
-    → |dexerto.com##.min-h-\[278px\]
 ✅ 多域名拆分: fansided.com,thenewdaily.com.au##.min-h-\[280px\]
     → |fansided.com##.min-h-\[280px\]
     → |thenewdaily.com.au##.min-h-\[280px\]
@@ -49059,9 +49033,6 @@
 ✅ 多域名拆分: androidauthority.com,soundguys.com##[data-ad-type]
     → |androidauthority.com##[data-ad-type]
     → |soundguys.com##[data-ad-type]
-✅ 多域名拆分: charlieintel.com,dexerto.com##[data-ad-unit-id]
-    → |charlieintel.com##[data-ad-unit-id]
-    → |dexerto.com##[data-ad-unit-id]
 ✅ 多域名拆分: chron.com,seattlepi.com,sfchronicle.com,timesunion.com##[data-block-type="ad"]
     → |chron.com##[data-block-type="ad"]
     → |seattlepi.com##[data-block-type="ad"]
@@ -50804,9 +50775,6 @@
     → |madamenoire.com###player-wrapper
     → |newsone.com###player-wrapper
     → |tvone.tv###player-wrapper
-✅ 多域名拆分: charlieintel.com,dexerto.com###primis-player
-    → |charlieintel.com###primis-player
-    → |dexerto.com###primis-player
 ✅ 多域名拆分: lifehacker.com,mashable.com,pcmag.com###related-video
     → |lifehacker.com###related-video
     → |mashable.com###related-video
@@ -52633,11 +52601,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202512182339
+🚫 去掉注释行: ! Version: 202512190106
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 18 Dec 2025 23:39 UTC
+🚫 去掉注释行: ! Last modified: 19 Dec 2025 01:06 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 63075207c4741d9349fda6da7baae2eee0564fa7
+🚫 去掉注释行: ! Commit: 958143efa525fe18a4689cdc533b9e3dd8bc3a0e
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -66426,9 +66394,6 @@
     → |kabeleins.de##.fb-page
     → |ran.de##.fb-page
     → |suomi24.fi##.fb-page
-✅ 多域名拆分: charlieintel.com,dexerto.com##.w-full.border-gray-900.p-5
-    → |charlieintel.com##.w-full.border-gray-900.p-5
-    → |dexerto.com##.w-full.border-gray-900.p-5
 🚫 去掉注释行: ! Include ubO specific
 🚫 去掉注释行: ! #include fanboy_social_specific_uBO.txt
 🚫 去掉注释行: ! *** easylist:fanboy-addon/fanboy_social_specific_ABP.txt ***
@@ -164836,15 +164801,15 @@
 🚫 去掉注释行: ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 🚫 去掉注释行: ! Homepage: https://github.com/217heidai/adblockfilters
 🚫 去掉注释行: ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-🚫 去掉注释行: ! Version: 20251219001050
-🚫 去掉注释行: ! Last modified: 2025/12/19 00:10:50
+🚫 去掉注释行: ! Version: 20251219083359
+🚫 去掉注释行: ! Last modified: 2025/12/19 08:33:59
 🚫 去掉注释行: ! Blocked domains: 4764
 🚫 去掉注释行: ! unBlocked domains: 15
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: o4xbcVYKDGJaP/MkKiRtMQ
-🚫 去掉注释行: ! Version: 202512182242
+🚫 去掉注释行: ! Checksum: odiLm/3YOIhrvoo7+sccBg
+🚫 去掉注释行: ! Version: 202512182342
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2025-12-18 22:42 UTC
+🚫 去掉注释行: ! Last modified: 2025-12-18 23:42 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -227763,9 +227728,9 @@
 🚫 去掉注释行: ! 5kporn.com
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: d7dAXfIe9zE6JQroSofAiw
+🚫 去掉注释行: ! Checksum: IvSu4TXBM7wI1Wd07Y5xzw
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Updated: 2025-12-18 23:10 UTC
+🚫 去掉注释行: ! Updated: 2025-12-19 00:38 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
