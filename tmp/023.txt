@@ -4190,7 +4190,7 @@ pbs.org##body,html:style(overflow: auto !important; position: initial !important
 |voskey.icalo.net##+js(json-prune, ads.[].imageUrl)
 branc.jp##+js(set-cookie, inc_optin_never_see_again-popup-1, 1)
 amazon.*##.fable-portal-container:has(a#cross-benefit-modal-call_to_action-btn-0[href^="https://www.amazon."][href*="/gp/video/signup?benefitId=primeaddon"])
-amazon.*##html.fable-no-scroll:style(overflow: auto !important; touch-action: auto !important;)!--------------------------General blocking rules-----------------------------!
+amazon.*##html.fable-no-scroll:style(overflow: auto !important; touch-action: auto !important;)
 -facebook-likeButton-
 -facebook-share.
 -facebook-widget.
@@ -49029,6 +49029,78 @@ doctorofcredit.com#@#.wpdiscuz-subscribe-bar
 /mobile-welcome-overlay/*$script
 /MobileDownloadBanner.js
 /smart-app-banner.js
+/firebase-messaging.js$script,domain=tribunnews.com
+||9to5terminal.com/push.js
+||abendpoint.com/dist/js/push.js
+||alerts.ndtv.com^
+||alerts.thedailystar.net^
+||alibaba.com/sw.js
+||anewz.tv/firebase-messaging-sw.js
+||annahar.com/assets/js/notifications.js
+||assets.ilcdn.fi/questback.popup-$script,domain=iltalehti.fi
+||astian.org/?push_notification_sw
+||bdstatic.com/linksubmit/push.js
+||dailymail.co.uk/api/web-push-notification/
+||diabetes.co.uk/wp-content/themes/spotlight/src/sw.js
+||gadgetsnow.com/sw.cms
+||gstatic.com/firebasejs/$domain=joins.com|kompas.com|novayagazeta.eu|packaginginsights.com
+||hindustantimes.com/messaging-sw.js
+||hindustantimes.com/sw.js
+||hindustantimes.com^*/ht-notification-
+||hulkprod.anm.co.uk/api/web-push-notification/
+||imyfone.com/*/notification/$script
+||indiatimes.com/pn/
+||iol.co.za/sw.js
+||kogan.com/sw.js
+||latestdeals.co.uk/sw.js
+||msn.com/bundles/v1/homePage/latest/experiences_conditional-banner
+||ndtv.com/js/breaking_pushalert_revised.js
+||ndtv.com/sw.js
+||newsukraine.rbc.ua/sworker.js
+||nookazon.com/firebase-messaging-sw.js
+||pcguide.com/sp-push-worker-fb.js
+||pinterest.com/sw.js
+||push.cnnindonesia.com^
+||push.ictsd.org^
+||renaultsport.com/spip.php?page=sw.js
+||rottentomatoes.com/service-worker/sw.js
+||rt.com/homescreen-sw.js
+||sammobile.com/wp-content/plugins/sam-push-notifications/
+||scmp.com/sw.js
+||seattletimes.com/wp-content/plugins/st-user-messaging/$script
+||sportskeeda.com/js/production/web-notifications/
+||techwalla.com/push-service-worker.js
+||telegraphindia.com/akam-sw.js
+||timesnownews.com/sw.js
+||ultimedia.com/js/common/notification.js
+||weather.com/*.MedalliaSurvey.
+||wepc.com/sp-push-worker-fb.js
+||0564.ua/assets/d6ade384/js/alertsWidget.js
+||ad-hoc-news.de/js/push.js
+||agazeta.com.br/assets/javascript/notification.js
+||cnnindonesia.com/sw.js
+||dcnews.ro/sm-
+||elpais.com.uy/utms.js
+||flashscore.fr^*/build/notifications.
+||futura-sciences.com/clientscript/push.js
+||horoscope.fr/notifications/
+||informazione.it/wr/promo-miainfo.js
+||japan.cnet.com/static/js/webpush/push.js
+||kompas.com/firebase-messaging-sw.js
+||metrobilbao.eus/firebase-messaging-sw.js
+||push.idowa.de^
+||push.neko-san.fr^
+||pushme.magellanotech.it^
+||strettoweb.com/Notifiche/
+||tio.ch/js/api.push.js
+||tutto.tv/wp-content/plugins/plugin-notifiche-
+||uchubiz.com/wp-content/themes/uchubiz/assets/js/push.js
+||widget.push.forja.ma^
+||winnipegfreepress.com/firebase-messaging-sw.js
+||baby-calendar.jp/nazuke/img/app/header_
+||browser.geekbench.com/assets/ads/
+||static.chrono24.com/lib/generated/js/app-hint-layer.
+||tapcart.com/mobile-download-banner/banner-min.js
 clickindia.com###GetCustomCategoryLead
 tbsnews.net###___tbspushdiv
 thedailystar.net###bellIcon
@@ -50357,78 +50429,6 @@ linkedin.com#?#div#public_post_contextual-sign-in:-abp-contains(Sign in to view 
 mail.proton.me#?#[aria-label="Notification"]:-abp-contains(app)
 news.bitcoin.com#?#.cwDafx:-abp-contains(Continue in the Bitcoin.com App)
 thepointsguy.com#?#.noVerticalPad:-abp-contains(Download the TPG App)
-/firebase-messaging.js$script,domain=tribunnews.com
-||9to5terminal.com/push.js
-||abendpoint.com/dist/js/push.js
-||alerts.ndtv.com^
-||alerts.thedailystar.net^
-||alibaba.com/sw.js
-||anewz.tv/firebase-messaging-sw.js
-||annahar.com/assets/js/notifications.js
-||assets.ilcdn.fi/questback.popup-$script,domain=iltalehti.fi
-||astian.org/?push_notification_sw
-||bdstatic.com/linksubmit/push.js
-||dailymail.co.uk/api/web-push-notification/
-||diabetes.co.uk/wp-content/themes/spotlight/src/sw.js
-||gadgetsnow.com/sw.cms
-||gstatic.com/firebasejs/$domain=joins.com|kompas.com|novayagazeta.eu|packaginginsights.com
-||hindustantimes.com/messaging-sw.js
-||hindustantimes.com/sw.js
-||hindustantimes.com^*/ht-notification-
-||hulkprod.anm.co.uk/api/web-push-notification/
-||imyfone.com/*/notification/$script
-||indiatimes.com/pn/
-||iol.co.za/sw.js
-||kogan.com/sw.js
-||latestdeals.co.uk/sw.js
-||msn.com/bundles/v1/homePage/latest/experiences_conditional-banner
-||ndtv.com/js/breaking_pushalert_revised.js
-||ndtv.com/sw.js
-||newsukraine.rbc.ua/sworker.js
-||nookazon.com/firebase-messaging-sw.js
-||pcguide.com/sp-push-worker-fb.js
-||pinterest.com/sw.js
-||push.cnnindonesia.com^
-||push.ictsd.org^
-||renaultsport.com/spip.php?page=sw.js
-||rottentomatoes.com/service-worker/sw.js
-||rt.com/homescreen-sw.js
-||sammobile.com/wp-content/plugins/sam-push-notifications/
-||scmp.com/sw.js
-||seattletimes.com/wp-content/plugins/st-user-messaging/$script
-||sportskeeda.com/js/production/web-notifications/
-||techwalla.com/push-service-worker.js
-||telegraphindia.com/akam-sw.js
-||timesnownews.com/sw.js
-||ultimedia.com/js/common/notification.js
-||weather.com/*.MedalliaSurvey.
-||wepc.com/sp-push-worker-fb.js
-||0564.ua/assets/d6ade384/js/alertsWidget.js
-||ad-hoc-news.de/js/push.js
-||agazeta.com.br/assets/javascript/notification.js
-||cnnindonesia.com/sw.js
-||dcnews.ro/sm-
-||elpais.com.uy/utms.js
-||flashscore.fr^*/build/notifications.
-||futura-sciences.com/clientscript/push.js
-||horoscope.fr/notifications/
-||informazione.it/wr/promo-miainfo.js
-||japan.cnet.com/static/js/webpush/push.js
-||kompas.com/firebase-messaging-sw.js
-||metrobilbao.eus/firebase-messaging-sw.js
-||push.idowa.de^
-||push.neko-san.fr^
-||pushme.magellanotech.it^
-||strettoweb.com/Notifiche/
-||tio.ch/js/api.push.js
-||tutto.tv/wp-content/plugins/plugin-notifiche-
-||uchubiz.com/wp-content/themes/uchubiz/assets/js/push.js
-||widget.push.forja.ma^
-||winnipegfreepress.com/firebase-messaging-sw.js
-||baby-calendar.jp/nazuke/img/app/header_
-||browser.geekbench.com/assets/ads/
-||static.chrono24.com/lib/generated/js/app-hint-layer.
-||tapcart.com/mobile-download-banner/banner-min.js
 ||api-push.com^$third-party
 ||azureedge.net/js/cookie_notificacao.min.js
 ||bildirimat.com^$third-party
@@ -50626,6 +50626,341 @@ thepointsguy.com#?#.noVerticalPad:-abp-contains(Download the TPG App)
 ||xtremepush.com^$third-party
 ||app.adjust.net.in/smart_banner
 ||mobi24.net^$third-party
+downace.com##+js(acis, requestPermission)
+news18.com##+js(acis, serviceworker.register)
+puuilo.fi##.cf-container-wrapper
+puuilo.fi##body:style(overflow: auto !important)
+noovo.info##+js(set-cookie, pushNotifications_popup_displayed_v2, true)
+autoevolution.com###notif_asker_div
+autoevolution.com##body,html:style(height: auto !important; overflow: auto !important)
+threads.net##+js(set-session-storage-item, barcelona_mobile_upsell_state, 1)
+phonearena.com###pa-survey-modal
+phonearena.com##.pa-modal-backdrop
+phonearena.com##body:style(overflow: auto !important; position: initial !important;)
+instagram.com##+js(set-session-storage-item, lodum, 1)
+instagram.com##+js(set-session-storage-item, loggedOutCTAIsShown, 1)
+ktoo.org##+js(set-cookie, modalDismissed, 1)
+threads.com##+js(set-session-storage-item, barcelona_mobile_upsell_state, 1)
+gq.co.za##+js(set-cookie, PromptLater, true)
+ask.fm##.lightbox_overlay
+ask.fm##body:style(overflow: auto !important)
+cosmos.so##+js(set, Object.prototype.disablePaginationLimitForLoggedOut, true)
+reddit.com##.v2 > shreddit-async-loader
+reddit.com##shreddit-async-loader[bundlename="app_selector"]
+reddit.com##shreddit-async-loader[bundlename="app_selector"]:remove()
+reddit.com###xpromo-small-header.mr-xs
+reddit.com##.XPromoBlockingModal
+reddit.com##.XPromoPopup__overlay
+reddit.com##.XPromoBlockingModalRpl
+reddit.com##.PreviewDrawer
+reddit.com##.XPromoPopup
+reddit.com##.XPromoPill
+reddit.com##shreddit-experience-tree
+reddit.com##+js(aeld, block-body-scrolling)
+reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
+reddit.com##.XPromoPopupRpl
+reddit.com##body:style(pointer-events:auto !important;)
+reddit.com##.XPromoInFeed
+amp.reddit.com##.AppSelectorModal__body
+reddit.com##+js(set-local-storage-item, xpromo-consolidation, 1)
+reddit.com##+js(rc, scroll-disabled, body, stay)
+amp.reddit.com##.upsell_banner
+reddit.com##body:style(overflow: auto !important;)
+tiktok.com##+js(set-session-storage-item,webapp_first_open_cta, 1)
+tiktok.com##.e1pecv674.css-99ed1t-DivFooterGuide
+tiktok.com##.e1x4pa920.css-18fyv6p-DivFloatButtonWrapper
+m.twitch.tv##+js(set-session-storage-item, twilight.custom-smart-banner-dismissed, true)
+perplexity.ai##+js(set-session-storage-item, appDownloadBannerDismissed, true)
+lightnovelworld.com###lnwappmsg
+lightnovelworld.com##html:style(overflow: auto !important;)
+bestbuy.com##+js(set-local-storage-item, smartBannerDismissed, 1)
+bestbuy.com###smartbannerContainer
+bestbuy.com##body:style(margin-top:0px !important)
+|expedia.at###app-layer-customer-notification-centered-sheet-dialog
+|expedia.co.id###app-layer-customer-notification-centered-sheet-dialog
+|expedia.co.in###app-layer-customer-notification-centered-sheet-dialog
+|expedia.co.jp###app-layer-customer-notification-centered-sheet-dialog
+|expedia.co.kr###app-layer-customer-notification-centered-sheet-dialog
+|expedia.co.nz###app-layer-customer-notification-centered-sheet-dialog
+|expedia.co.th###app-layer-customer-notification-centered-sheet-dialog
+|expedia.co.uk###app-layer-customer-notification-centered-sheet-dialog
+|expedia.com.ar###app-layer-customer-notification-centered-sheet-dialog
+|expedia.com.au###app-layer-customer-notification-centered-sheet-dialog
+|expedia.com.hk###app-layer-customer-notification-centered-sheet-dialog
+|expedia.com.sg###app-layer-customer-notification-centered-sheet-dialog
+|expedia.de###app-layer-customer-notification-centered-sheet-dialog
+|expedia.dk###app-layer-customer-notification-centered-sheet-dialog
+|expedia.es###app-layer-customer-notification-centered-sheet-dialog
+|expedia.fi###app-layer-customer-notification-centered-sheet-dialog
+|expedia.fr###app-layer-customer-notification-centered-sheet-dialog
+|expedia.it###app-layer-customer-notification-centered-sheet-dialog
+|expedia.no###app-layer-customer-notification-centered-sheet-dialog
+|expedia.se###app-layer-customer-notification-centered-sheet-dialog
+|hotels.com###app-layer-customer-notification-centered-sheet-dialog
+|expedia.nl###app-layer-customer-notification-centered-sheet-dialog
+|expedia.com###app-layer-customer-notification-centered-sheet-dialog
+|expedia.at##body,html:style(overflow: auto !important; position: initial !important;)
+|expedia.co.id##body,html:style(overflow: auto !important; position: initial !important;)
+|expedia.co.in##body,html:style(overflow: auto !important; position: initial !important;)
+|expedia.co.jp##body,html:style(overflow: auto !important; position: initial !important;)
+|expedia.co.kr##body,html:style(overflow: auto !important; position: initial !important;)
+|expedia.co.nz##body,html:style(overflow: auto !important; position: initial !important;)
+|expedia.co.th##body,html:style(overflow: auto !important; position: initial !important;)
+|expedia.co.uk##body,html:style(overflow: auto !important; position: initial !important;)
+|expedia.com.ar##body,html:style(overflow: auto !important; position: initial !important;)
+|expedia.com.au##body,html:style(overflow: auto !important; position: initial !important;)
+|expedia.com.hk##body,html:style(overflow: auto !important; position: initial !important;)
+|expedia.com.sg##body,html:style(overflow: auto !important; position: initial !important;)
+|expedia.de##body,html:style(overflow: auto !important; position: initial !important;)
+|expedia.dk##body,html:style(overflow: auto !important; position: initial !important;)
+|expedia.es##body,html:style(overflow: auto !important; position: initial !important;)
+|expedia.fi##body,html:style(overflow: auto !important; position: initial !important;)
+|expedia.fr##body,html:style(overflow: auto !important; position: initial !important;)
+|expedia.it##body,html:style(overflow: auto !important; position: initial !important;)
+|expedia.no##body,html:style(overflow: auto !important; position: initial !important;)
+|expedia.se##body,html:style(overflow: auto !important; position: initial !important;)
+|hotels.com##body,html:style(overflow: auto !important; position: initial !important;)
+|expedia.nl##body,html:style(overflow: auto !important; position: initial !important;)
+|expedia.com##body,html:style(overflow: auto !important; position: initial !important;)
+|asia.nikkei.com##.tp-modal
+|businesspost.ie##.tp-modal
+|rappler.com##.tp-modal
+|asia.nikkei.com##.tp-backdrop
+|businesspost.ie##.tp-backdrop
+|rappler.com##.tp-backdrop
+|asia.nikkei.com##body:style(height: auto !important; overflow: auto !important)
+|businesspost.ie##body:style(height: auto !important; overflow: auto !important)
+|rappler.com##body:style(height: auto !important; overflow: auto !important)
+google.com##+js(set-local-storage-item, mapslitepromosdismissed, 1)
+behance.net##.js-vue-mobile-app-upsell
+behance.net##body,html:style(overflow: auto !important; position: initial !important;)
+behance.net##.PrimaryNav-appLinkContainer-bhx
+m.economictimes.com##+js(set-session-storage-item, nudgeStickyBannerHide, true)
+mypenndentist.org##+js(set-cookie, undefinedpopup-pdfpcouponoffer, 1)
+ifunny.co##.aq4y._0sJI
+ifunny.co##body,html:style(overflow: auto !important; position: initial !important;)
+crunchbase.com##+js(set-local-storage-item, entity-limiter-views, $remove$)
+themonthly.com.au##+js(set-local-storage-item, rn, $remove$)
+tunein.com##+js(set-cookie, navBasedDialogManager, true)
+tunein.com##+js(set-cookie, hideMacDesktopDialog, true)
+sprintmedical.in##.react-responsive-modal-root
+sprintmedical.in##body:style(height: auto !important; overflow: auto !important)
+trip.com##.tcp-h5-install-pop
+trip.com##body:style(overflow: auto !important; position: initial !important;)
+player.fm##.bottom-promo-overlay
+player.fm##.bottom-promo
+player.fm##body,html:style(overflow: auto !important; position: initial !important;)
+wunderground.com##+js(rc, enable-sda, body, stay)
+tubitv.com##+js(set-local-storage-item, windows_prompt_shown_v3, 1)
+makerworld.com##.MuiModal-root.MuiDialog-root:has-text(Open in Bambu Handy)
+makerworld.com##body:style(overflow: auto !important; position: initial !important;)
+m.economictimes.com###prominentOverlay
+m.economictimes.com##body,html:style(overflow: auto !important; position: initial !important;)
+|m.yelp.com##div[class^="overlay-color-"]
+|m.yelp.co.uk##div[class^="overlay-color-"]
+|m.yelp.ca##div[class^="overlay-color-"]
+|m.yelp.com.au##div[class^="overlay-color-"]
+|m.yelp.co.nz##div[class^="overlay-color-"]
+|m.yelp.dk##div[class^="overlay-color-"]
+|m.yelp.de##div[class^="overlay-color-"]
+|m.yelp.fi##div[class^="overlay-color-"]
+|m.yelp.cz##div[class^="overlay-color-"]
+|m.yelp.fr##div[class^="overlay-color-"]
+|m.yelp.es##div[class^="overlay-color-"]
+|m.yelp.pt##div[class^="overlay-color-"]
+|m.yelp.it##div[class^="overlay-color-"]
+|m.yelp.no##div[class^="overlay-color-"]
+|m.yelp.se##div[class^="overlay-color-"]
+|m.yelp.ie##div[class^="overlay-color-"]
+|m.yelp.com.tr##div[class^="overlay-color-"]
+|m.yelp.com.br##div[class^="overlay-color-"]
+|m.yelp.nl##div[class^="overlay-color-"]
+|m.yelp.com.mx##div[class^="overlay-color-"]
+|m.yelp.co.jp##div[class^="overlay-color-"]
+|m.yelp.com.tw##div[class^="overlay-color-"]
+|m.yelp.be##div[class^="overlay-color-"]
+|m.yelp.com##body,html:style(overflow: auto !important; position: initial !important;)
+|m.yelp.co.uk##body,html:style(overflow: auto !important; position: initial !important;)
+|m.yelp.ca##body,html:style(overflow: auto !important; position: initial !important;)
+|m.yelp.com.au##body,html:style(overflow: auto !important; position: initial !important;)
+|m.yelp.co.nz##body,html:style(overflow: auto !important; position: initial !important;)
+|m.yelp.dk##body,html:style(overflow: auto !important; position: initial !important;)
+|m.yelp.de##body,html:style(overflow: auto !important; position: initial !important;)
+|m.yelp.fi##body,html:style(overflow: auto !important; position: initial !important;)
+|m.yelp.cz##body,html:style(overflow: auto !important; position: initial !important;)
+|m.yelp.fr##body,html:style(overflow: auto !important; position: initial !important;)
+|m.yelp.es##body,html:style(overflow: auto !important; position: initial !important;)
+|m.yelp.pt##body,html:style(overflow: auto !important; position: initial !important;)
+|m.yelp.it##body,html:style(overflow: auto !important; position: initial !important;)
+|m.yelp.no##body,html:style(overflow: auto !important; position: initial !important;)
+|m.yelp.se##body,html:style(overflow: auto !important; position: initial !important;)
+|m.yelp.ie##body,html:style(overflow: auto !important; position: initial !important;)
+|m.yelp.com.tr##body,html:style(overflow: auto !important; position: initial !important;)
+|m.yelp.com.br##body,html:style(overflow: auto !important; position: initial !important;)
+|m.yelp.nl##body,html:style(overflow: auto !important; position: initial !important;)
+|m.yelp.com.mx##body,html:style(overflow: auto !important; position: initial !important;)
+|m.yelp.co.jp##body,html:style(overflow: auto !important; position: initial !important;)
+|m.yelp.com.tw##body,html:style(overflow: auto !important; position: initial !important;)
+|m.yelp.be##body,html:style(overflow: auto !important; position: initial !important;)
+|m.yelp.com##[aria-label*="Download the Yelp app"]
+|m.yelp.co.uk##[aria-label*="Download the Yelp app"]
+|m.yelp.ca##[aria-label*="Download the Yelp app"]
+|m.yelp.com.au##[aria-label*="Download the Yelp app"]
+|m.yelp.co.nz##[aria-label*="Download the Yelp app"]
+|m.yelp.dk##[aria-label*="Download the Yelp app"]
+|m.yelp.de##[aria-label*="Download the Yelp app"]
+|m.yelp.fi##[aria-label*="Download the Yelp app"]
+|m.yelp.cz##[aria-label*="Download the Yelp app"]
+|m.yelp.fr##[aria-label*="Download the Yelp app"]
+|m.yelp.es##[aria-label*="Download the Yelp app"]
+|m.yelp.pt##[aria-label*="Download the Yelp app"]
+|m.yelp.it##[aria-label*="Download the Yelp app"]
+|m.yelp.no##[aria-label*="Download the Yelp app"]
+|m.yelp.se##[aria-label*="Download the Yelp app"]
+|m.yelp.ie##[aria-label*="Download the Yelp app"]
+|m.yelp.com.tr##[aria-label*="Download the Yelp app"]
+|m.yelp.com.br##[aria-label*="Download the Yelp app"]
+|m.yelp.nl##[aria-label*="Download the Yelp app"]
+|m.yelp.com.mx##[aria-label*="Download the Yelp app"]
+|m.yelp.co.jp##[aria-label*="Download the Yelp app"]
+|m.yelp.com.tw##[aria-label*="Download the Yelp app"]
+|m.yelp.be##[aria-label*="Download the Yelp app"]
+|m.yelp.com##[data-testid="OpenAppButton"]
+|m.yelp.co.uk##[data-testid="OpenAppButton"]
+|m.yelp.ca##[data-testid="OpenAppButton"]
+|m.yelp.com.au##[data-testid="OpenAppButton"]
+|m.yelp.co.nz##[data-testid="OpenAppButton"]
+|m.yelp.dk##[data-testid="OpenAppButton"]
+|m.yelp.de##[data-testid="OpenAppButton"]
+|m.yelp.fi##[data-testid="OpenAppButton"]
+|m.yelp.cz##[data-testid="OpenAppButton"]
+|m.yelp.fr##[data-testid="OpenAppButton"]
+|m.yelp.es##[data-testid="OpenAppButton"]
+|m.yelp.pt##[data-testid="OpenAppButton"]
+|m.yelp.it##[data-testid="OpenAppButton"]
+|m.yelp.no##[data-testid="OpenAppButton"]
+|m.yelp.se##[data-testid="OpenAppButton"]
+|m.yelp.ie##[data-testid="OpenAppButton"]
+|m.yelp.com.tr##[data-testid="OpenAppButton"]
+|m.yelp.com.br##[data-testid="OpenAppButton"]
+|m.yelp.nl##[data-testid="OpenAppButton"]
+|m.yelp.com.mx##[data-testid="OpenAppButton"]
+|m.yelp.co.jp##[data-testid="OpenAppButton"]
+|m.yelp.com.tw##[data-testid="OpenAppButton"]
+|m.yelp.be##[data-testid="OpenAppButton"]
+thedesignlove.com##.cp-overlay
+thedesignlove.com##body,html:style(overflow: auto !important; position: initial !important;)
+sigmalive.com##+js(set-local-storage-item, push-notifications, no)
+linkedin.com##.promo-bottom-sheet
+linkedin.com##.promo
+linkedin.com##.overlay
+linkedin.com##body:style(overflow: auto !important; position: initial !important;)
+imgur.io##.SeeImgurOIA-overlay
+imgur.io##.SeeImgurOIA-container
+imgur.io##body:style(overflow: auto !important; position: initial !important;)
+coinpaprika.com##.coins-promo
+coinpaprika.com##body:style(overflow: auto !important; position: initial !important;)
+slickdeals.net##.sdModalOverlay
+slickdeals.net##.bottomBarContainer
+slickdeals.net##body:style(overflow: auto !important; position: initial !important;)
+canva.com##.BB_TDQ[style="height: auto; max-height: 66vh;"]
+canva.com##body:style(overflow: auto !important; position: initial !important;)
+ebay.com##.pc-dweb
+ebay.com##html:style(overflow: auto !important; position: initial !important;)
+audius.co##[class*="AppRedirectPopover_container_"]
+audius.co##+js(rc, scrollLock, , stay)
+audius.co##body:style(overflow: scroll !important)
+cnet.com##.c-globalModal
+cnet.com##.c-shoppingExtModal
+cnet.com##.modal-backdrop
+cnet.com##.modalSelector
+cnet.com##body:style(height: auto !important; overflow: auto !important)
+simpleswap.io##.iRXLZi
+simpleswap.io##body,html:style(overflow: auto !important; position: initial !important;)
+m.webtoons.com##.pop_download_home
+m.webtoons.com##.dim
+nextdoor.com##.blocks-2rwum1
+nextdoor.com##body:style(overflow: auto !important; position: initial !important;)
+9gag.com##.open-in-app
+9gag.com##body:style(overflow: auto !important;)
+|insider.com##.in-app-banner
+|businessinsider.com##.in-app-banner
+|insider.com##body:style(overflow: auto !important; position: initial !important;)
+|businessinsider.com##body:style(overflow: auto !important; position: initial !important;)
+|insider.com##.app-button
+|businessinsider.com##.app-button
+makemytrip.com##.appDnldOffers
+makemytrip.com##.overlay-wrapper
+makemytrip.com##body:style(overflow: unset !important)
+thestar.com##.kumulos-background-mask
+thestar.com##.kumulos-prompt
+thestar.com##body,html:style(overflow: auto !important; position: initial !important;)
+thestar.com##+js(rc, kumulos-background-mask-blur, , stay)
+sports.ndtv.com###__cricketsubscribe
+sports.ndtv.com###overlaybtn
+sports.ndtv.com##body,html:style(overflow: auto !important; position: initial !important;)
+inews.hket.com##.app-redirect-panel
+inews.hket.com##+js(rc, no-scroll, html, stay)
+inews.hket.com###app-floating-button
+jp-m.banggood.com##+js(rc,  show-app-bar, , stay)
+realestate.co.nz##.z-overlay
+realestate.co.nz##body:style(height: auto !important; overflow: auto !important)
+miravia.es###g_download_bar
+miravia.es##html:style(--g-header-top-pos: 0vw !important;)
+instacart.com###native-app-upsell-interstitial
+instacart.com##body:style(height: auto !important; overflow: auto !important)
+crealitycloud.com##+js(set-local-storage-item, permission_open_push, 1)
+crealitycloud.com##+js(set-local-storage-item, closeGuideRegisterTime, 1)
+thedp.com##.modal
+thedp.com##.modal-backdrop
+thedp.com##body,html:style(overflow: auto !important; position: initial !important;)
+emailnator.com##.modal
+emailnator.com##.modal-backdrop
+emailnator.com##.top-banner
+m.kaskus.co.id##+js(set-session-storage-item, open_in_browser, 1)
+foundit.com.ph##+js(set-session-storage-item, isDownloadAppBannerClosed, true)
+flightradar24.com##+js(set-cookie, map_new_features_new_flightradar24_com_label_options, 1)
+shop-apotheke.com##+js(set-session-storage-item, ErxModal, true)
+fogaonet.com##+js(set-cookie, fn_cookie_whatsapp_alert, 1)
+zillow.com##.app-upsell-banner
+zillow.com###pfs-upsell:remove()
+zillow.com##.exposed-filters:style(top:0 !important)
+zillow.com##+js(aeld, /^(mouseout|mouseleave)$/)
+zillow.com##+js(ra, oncontextmenu|ondragstart|onselectstart|onkeydown|oncopy|oncut|onclick)
+tvtropes.org##+js(set-cookie, app-announcement-banner-count-guest, 1)
+tvtropes.org##+js(set-cookie, app-announcement-banner-guest, true)
+news.bitcoin.com##.hsnyER.sc-fEpuOf:style(top:0 !important)
+deepl.com##+js(set-session-storage-item, LMT_browserExtensionPromo.displayed, true)
+benzinga.com##.shadow-xl:has-text(Would you like to be notified)
+food.ndtv.com##+js(set-cookie, ndtvfood_isSubscribed_elex_v1, no)
+daadscholarship.com##+js(abort-on-property-write, LaraPush)
+sammobile.com##+js(set-local-storage-item, request-permission-modal, 1)
+belstad.com##+js(set-local-storage-item, is_announcement_closed, true)
+temu.com##.sticky-2vWAY:style(top: 0px; transform: translate(-50%, 0rem) !important)
+newsbreak.com##.bottom-0.fixed
+newsbreak.com##body:style(height: auto !important; overflow: auto !important)
+s.tabelog.com##+js(set-cookie, ignore_language_guide, true)
+deribit.com##+js(set-local-storage-item, appCardSeen, true)
+tubitv.com##+js(set-local-storage-item, windows_prompt_shown_v3, 1)
+vrbo.com###app-layer-customer-notification-centered-sheet-dialog
+vrbo.com##+js(rc, has-uitk-sheet, body, stay)
+similarweb.com##+js(rc, app-banner-parent, body, stay)
+similarweb.com##.app-header:style(top:0 !important)
+eksisozluk.com###app-suggestion-container
+eksisozluk.com##body,html:style(overflow: auto !important; position: initial !important;)
+mydramalist.com##+js(rc, smartbanner-active, body)
+smocca.jp##+js(set, history.state, undefined)
+patreon.com##+js(aeld, touchmove, preventDefault)
+onedio.com##+js(set-cookie, o-push-alert, 1)
+copilot.microsoft.com##.sac3p_popup_overlay
+copilot.microsoft.com##body,html:style(overflow: auto !important; position: initial !important;)
+izumi.jp###s_header[style="top: 84px;"]:style(top: 0 !important;)
+izumi.jp##html[data-smartbanner-original-margin-top="0"][style="margin-top: 84px;"]:style(margin-top: 0 !important;)
+|cecile.co.jp##.smartbanner-show:style(margin-top: 0 !important;)
+|nola-novel.com##.smartbanner-show:style(margin-top: 0 !important;)
+s.tabelog.com##body,html:style(overflow-y: auto !important;)
+s.tabelog.com###js-webtoapp-floating-banner
+s.tabelog.com###js-webtoapp-floating-banner-overlay
 @@||bostonherald.com^*/webpush.js$script,~third-party
 @@||braze.com/api/$domain=dairyqueen.com|deezer.com
 @@||creator.klarna.com/plugins/onesignal-cordova-plugin/www/onesignal.js$~third-party
@@ -50688,6 +51023,12 @@ mobi24.net#@#a[href^="https://www.mobi24.net/"]
 /module.popup-age-confirmation.min.js
 /plugins/age-verification-popup-for-woocommerce/*
 /plugins/wps-disclaimer/public/assets/js/disclaimer.js
+||agechecker.net^$third-party
+||ageverif.com^$third-party
+||av-northern-apps.com/js/agecheckerplus_
+||lifteragecheck.com^$third-party
+||static.elfsight.com/apps/age-verification/
+||zooomyapps.com/age/ZooomyAgeVerify.js
 ||editmysite.com/app/marketing/js/dist/lead$script,domain=blueandwhitebottleshop.com|weebly.com
 fcutrecht.net###popup-overlay
 |7games.bet.br##.content-manager.popup-holder-f-bc.popup-holder-bc
@@ -50905,12 +51246,6 @@ shoptheking.us##.popup-wrap
 vapetyson.com##.section-pd-age-gate
 relxnow.com##age-modal
 hypnoticherb.com##mkp-age-verification-popup
-||agechecker.net^$third-party
-||ageverif.com^$third-party
-||av-northern-apps.com/js/agecheckerplus_
-||lifteragecheck.com^$third-party
-||static.elfsight.com/apps/age-verification/
-||zooomyapps.com/age/ZooomyAgeVerify.js
 reddit.com##+js(rc, thumbnail-blur, , stay)
 reddit.com##+js(set-cookie, over18, 1)
 beyblade.com##+js(set-cookie, underage, false, , reload, 1)
