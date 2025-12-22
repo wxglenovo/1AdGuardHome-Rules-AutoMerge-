@@ -13460,6 +13460,7 @@ kramp.com###cookiewall-modal
 |rarlab.com###cookiewarning
 |rudaslaska.pl###cookiewarning
 |win-rar.com###cookiewarning
+beta.ideas.lego.com###coookies
 |mdachieve.com###copyright-2
 |pharmachieve.com###copyright-2
 sameday.costco.ca###costco-consent-manager
@@ -16383,7 +16384,8 @@ docs.nats.io##[aria-label="Cookies"]
 |runnersworld.com##[aria-label="Privacy Disclosure"]
 |thepioneerwoman.com##[aria-label="Privacy Disclosure"]
 |womenshealthmag.com##[aria-label="Privacy Disclosure"]
-tesco.com##[aria-label="consent-banner"]
+|itesco.sk##[aria-label="consent-banner"]
+|tesco.com##[aria-label="consent-banner"]
 perlego.com##[aria-label="cookie banner"]
 app.joinknack.com##[aria-label="cookie consent banner"]
 app.wooclap.com##[aria-labelledby="cookie-banner-title"]
@@ -16909,6 +16911,7 @@ sogeti.*###popup-cookieConsent
 |bodenlager24.de##.consent-banner-root
 |bruni.biz##.consent-banner-root
 |burobraak.nl##.consent-banner-root
+|celula21.com##.consent-banner-root
 |clorin.com.br##.consent-banner-root
 |conteudoscatolicos.com##.consent-banner-root
 |crestcare.co.za##.consent-banner-root
@@ -17017,6 +17020,7 @@ sogeti.*###popup-cookieConsent
 |klepierre.it###tarteaucitronRoot
 |klimabuendnis.lu###tarteaucitronRoot
 |lechegaza.com###tarteaucitronRoot
+|openedition.org###tarteaucitronRoot
 |palais.mc###tarteaucitronRoot
 |plazario2.com###tarteaucitronRoot
 |rosenbauer.com###tarteaucitronRoot
@@ -22394,6 +22398,7 @@ onassis.org##.bottom-0.relative
 |pornermates.com##.bottom-0.fixed
 |prettylittlething.com##.bottom-0.fixed
 |procrosshairs.com##.bottom-0.fixed
+|productpine.com##.bottom-0.fixed
 |prographers.com##.bottom-0.fixed
 |propello.bike##.bottom-0.fixed
 |publicsquare.com##.bottom-0.fixed
@@ -28337,6 +28342,7 @@ veed.io##+js(set-local-storage-item, trainingDataConsent, true)
 |varusteleka.com##+js(set-local-storage-item, cookieConsent, false)
 |lazyrecords.app##+js(set-local-storage-item, cookieConsent, false)
 |unmute.sh##+js(set-local-storage-item, cookieConsent, false)
+bcgame.vc##+js(set-local-storage-item, ignore_cookie_warn, true)
 kundenportal.harzenergie.de##+js(set-local-storage-item, cookiesAccepted, true)
 zoho.com##+js(set-local-storage-item, zglobal_Acookie_optOut, 3)
 |femibion.rs##+js(set-local-storage-item, cookie, true)
@@ -37680,6 +37686,7 @@ jp.ign.com###consent-wrapper
 juken-mikata.net###cookieAlt
 |marna.jp###cookieBox
 |plazastyle.com###cookieBox
+|right-on.co.jp###cookieBox
 |store.kadokawa.co.jp###cookieBox
 |wind.yamano-music.co.jp###cookieBox
 tokyostarbank.co.jp###floatArea
@@ -38958,6 +38965,7 @@ inzeratyzadarmo.sk##.pd10-ing
 zebracomp.sk##.position-fixed.ov.shadow
 soi.sk##.set-win-coo-popup
 speedmeter.sk##.w_notice
+itesco.sk##[aria-labelledby="ddsweb-cookies-notification-headline"]
 posta.sk##[src="https://static.posta.sk/cookies-consents/dialog/sk/index.html"]
 spsjm.sk##[style^="position: fixed; bottom: 0px;"]
 tescoma.sk##div[data-testid="layout-popup"]
@@ -39832,6 +39840,7 @@ voas.fi#@##coockie-modal
 |huellendirekt.de##cookie-banner
 |kmudigital.at##cookie-banner
 |kontostand.at##cookie-banner
+|mazda-autohaus-volz-saarbruecken.de##cookie-banner
 |serveminecraft.net##cookie-banner
 |vrtranspoint.fi##cookie-banner
 |zukunft-jetzt.deutsche-rentenversicherung.de#@##cookie-banner
