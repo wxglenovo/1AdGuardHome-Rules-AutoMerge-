@@ -3644,6 +3644,7 @@ f-secure.com##.fs-consent
 |11miami.com##.fs-consent_banner
 |americanwildhorse.org##.fs-consent_banner
 |antenna.live##.fs-consent_banner
+|min.io##.fs-consent_banner
 |newscatcherapi.com##.fs-consent_banner
 |biorio.se##.fs-consent_component
 |brainhub.eu##.fs-consent_component
@@ -4742,7 +4743,7 @@ docs.nats.io##[aria-label="Cookies"]
 |thepioneerwoman.com##[aria-label="Privacy Disclosure"]
 |womenshealthmag.com##[aria-label="Privacy Disclosure"]
 |itesco.sk##[aria-label="consent-banner"]
-|tesco.com##[aria-label="consent-banner"]
+|tesco.*##[aria-label="consent-banner"]
 perlego.com##[aria-label="cookie banner"]
 app.joinknack.com##[aria-label="cookie consent banner"]
 app.wooclap.com##[aria-labelledby="cookie-banner-title"]
@@ -10690,6 +10691,7 @@ onassis.org##.bottom-0.relative
 |flakehub.com##.bottom-0.fixed
 |fluxaiimagegenerator.com##.bottom-0.fixed
 |focus-entmt.com##.bottom-0.fixed
+|food52.com##.bottom-0.fixed
 |form3.tech##.bottom-0.fixed
 |fvd.nl##.bottom-0.fixed
 |garbanzo.io##.bottom-0.fixed
@@ -15572,6 +15574,7 @@ webd.pl###cffc
 |kozy.pl###claw
 pobieralnia.org###close
 generatorkodowkreskowych.pl###cn
+oglaszamy24h.pl###consentModal
 centrumrowerowe.pl###consentsPolicyDialog
 przyspiesz.pl###container_vsm
 krsystem.pl###cook
@@ -17086,6 +17089,7 @@ pantip.com##.pt-snackbar__surface
 scbam.com##.scbam-modal-list_b004
 bnn.in.th##.the-pdpa-consent-bar
 punpro.com##div[class^="CookieSession"]
+it-insight.shop##ket-pdpa-alert
 sinerji.gen.tr###CookieConcent
 find.com.tr###KVK_Cerez
 memurlar.net###PersonalDataInfoBar
