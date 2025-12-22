@@ -13325,6 +13325,7 @@ velosure.co.uk###cookie-bar-template
 |dnschecker.org###cookie-box
 |iplocation.io###cookie-box
 |ruedasgordas.es###cookie-box
+|sixthleafclover.com###cookie-box
 loversstores.com###cookie-check
 yousign.com###cookie-consent-app
 store.azeron.eu###cookie-consent-background
@@ -13460,6 +13461,7 @@ kramp.com###cookiewall-modal
 |rarlab.com###cookiewarning
 |rudaslaska.pl###cookiewarning
 |win-rar.com###cookiewarning
+beta.ideas.lego.com###coookies
 |mdachieve.com###copyright-2
 |pharmachieve.com###copyright-2
 sameday.costco.ca###costco-consent-manager
@@ -14719,6 +14721,7 @@ gold.razer.com##.component-sticky-dialog
 conductor.com##.conductor-cs-content
 visit.brussels##.confirm
 navicat.com##.consent-banner-background
+botafarmcalifornia.com##.consent-banner-root-container
 umontreal.ca##.consent-container
 citynews.ca##.consent-cookie-box
 sees.com##.consent-ctnr
@@ -15286,6 +15289,7 @@ f-secure.com##.fs-consent
 |11miami.com##.fs-consent_banner
 |americanwildhorse.org##.fs-consent_banner
 |antenna.live##.fs-consent_banner
+|min.io##.fs-consent_banner
 |newscatcherapi.com##.fs-consent_banner
 |biorio.se##.fs-consent_component
 |brainhub.eu##.fs-consent_component
@@ -16383,7 +16387,8 @@ docs.nats.io##[aria-label="Cookies"]
 |runnersworld.com##[aria-label="Privacy Disclosure"]
 |thepioneerwoman.com##[aria-label="Privacy Disclosure"]
 |womenshealthmag.com##[aria-label="Privacy Disclosure"]
-tesco.com##[aria-label="consent-banner"]
+|itesco.sk##[aria-label="consent-banner"]
+|tesco.*##[aria-label="consent-banner"]
 perlego.com##[aria-label="cookie banner"]
 app.joinknack.com##[aria-label="cookie consent banner"]
 app.wooclap.com##[aria-labelledby="cookie-banner-title"]
@@ -16909,6 +16914,7 @@ sogeti.*###popup-cookieConsent
 |bodenlager24.de##.consent-banner-root
 |bruni.biz##.consent-banner-root
 |burobraak.nl##.consent-banner-root
+|celula21.com##.consent-banner-root
 |clorin.com.br##.consent-banner-root
 |conteudoscatolicos.com##.consent-banner-root
 |crestcare.co.za##.consent-banner-root
@@ -17017,6 +17023,7 @@ sogeti.*###popup-cookieConsent
 |klepierre.it###tarteaucitronRoot
 |klimabuendnis.lu###tarteaucitronRoot
 |lechegaza.com###tarteaucitronRoot
+|openedition.org###tarteaucitronRoot
 |palais.mc###tarteaucitronRoot
 |plazario2.com###tarteaucitronRoot
 |rosenbauer.com###tarteaucitronRoot
@@ -22329,6 +22336,7 @@ onassis.org##.bottom-0.relative
 |flakehub.com##.bottom-0.fixed
 |fluxaiimagegenerator.com##.bottom-0.fixed
 |focus-entmt.com##.bottom-0.fixed
+|food52.com##.bottom-0.fixed
 |form3.tech##.bottom-0.fixed
 |fvd.nl##.bottom-0.fixed
 |garbanzo.io##.bottom-0.fixed
@@ -22394,6 +22402,7 @@ onassis.org##.bottom-0.relative
 |pornermates.com##.bottom-0.fixed
 |prettylittlething.com##.bottom-0.fixed
 |procrosshairs.com##.bottom-0.fixed
+|productpine.com##.bottom-0.fixed
 |prographers.com##.bottom-0.fixed
 |propello.bike##.bottom-0.fixed
 |publicsquare.com##.bottom-0.fixed
@@ -22468,6 +22477,7 @@ onassis.org##.bottom-0.relative
 |app.houseofcb.com##.bottom-6
 |ilmanifesto.it##.bottom-6
 |lofigirl.com##.bottom-6
+|momentosdealegriace.com.br##.bottom-6
 |predecessorgame.com##.bottom-6
 |wimotic.fr##.bottom-6
 |app.gnosispay.com##.bottom-5
@@ -24902,6 +24912,7 @@ juken-mikata.net##body:remove-class(has-cookie-consent)
 search.upright-music.dk##+js(set-cookie, cookieConsent, true)
 toppy.be##+js(set-cookie, __toppy_consent, 1)
 ovation.ca##+js(set-cookie, ovation.v20231006.essentials, 1, , reload, 1)
+highliferoleplay.net##+js(set-cookie, HighLife-cookie-accept, true)
 sneakerfreaker.com##+js(set-cookie, sfConsent, denied)
 moscow.shop.megafon.ru##+js(set-cookie, cookie_toast, true)
 genomicpress.kglmeridian.com##+js(set-cookie, pf-cookie-banner-accepted, true)
@@ -36155,6 +36166,7 @@ mibaby.de##.overlay_buddy
 querstarter.de##.page-lock
 |avl-ludwigsburg.de##.page-overlay
 |packster.de##.page-overlay
+furnster.de##.page-wrap--cookie-permission
 sport2000rent.com##.pageOverlay
 tchibo.de##.pageloading-mask
 |hollaus-it.at##.pcb
@@ -37681,6 +37693,7 @@ jp.ign.com###consent-wrapper
 juken-mikata.net###cookieAlt
 |marna.jp###cookieBox
 |plazastyle.com###cookieBox
+|right-on.co.jp###cookieBox
 |store.kadokawa.co.jp###cookieBox
 |wind.yamano-music.co.jp###cookieBox
 tokyostarbank.co.jp###floatArea
@@ -37880,6 +37893,7 @@ webd.pl###cffc
 |kozy.pl###claw
 pobieralnia.org###close
 generatorkodowkreskowych.pl###cn
+oglaszamy24h.pl###consentModal
 centrumrowerowe.pl###consentsPolicyDialog
 przyspiesz.pl###container_vsm
 krsystem.pl###cook
@@ -38959,6 +38973,7 @@ inzeratyzadarmo.sk##.pd10-ing
 zebracomp.sk##.position-fixed.ov.shadow
 soi.sk##.set-win-coo-popup
 speedmeter.sk##.w_notice
+itesco.sk##[aria-labelledby="ddsweb-cookies-notification-headline"]
 posta.sk##[src="https://static.posta.sk/cookies-consents/dialog/sk/index.html"]
 spsjm.sk##[style^="position: fixed; bottom: 0px;"]
 tescoma.sk##div[data-testid="layout-popup"]
@@ -39393,6 +39408,7 @@ pantip.com##.pt-snackbar__surface
 scbam.com##.scbam-modal-list_b004
 bnn.in.th##.the-pdpa-consent-bar
 punpro.com##div[class^="CookieSession"]
+it-insight.shop##ket-pdpa-alert
 sinerji.gen.tr###CookieConcent
 find.com.tr###KVK_Cerez
 memurlar.net###PersonalDataInfoBar
