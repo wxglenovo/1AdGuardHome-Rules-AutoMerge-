@@ -4101,6 +4101,9 @@ t-nation.com##.toggle_lb_scrolling_mobile
 t-nation.com##body:style(position: static !important; overflow: auto !important; width: auto !important;)
 banistmo.com##+js(ra, oncontextmenu|onselectstart|ondragstart|oncopy|oncut|onpaste|onbeforecopy)
 fantasyfootballhub.co.uk##+js(set-session-storage-item, modalViewed, true)
+theintercept.com##+js(rmnt, script, userData_)
+theintercept.com##.inline-wall
+theintercept.com##.ft-ab-test-case
 flightconnections.com###map-container:style(top:0 !important)
 flightconnections.com##.join-flc
 flightconnections.com##body:style(position: static !important; overflow: auto !important; width: auto !important;)
