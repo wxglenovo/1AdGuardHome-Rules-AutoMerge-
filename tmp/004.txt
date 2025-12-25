@@ -9619,6 +9619,7 @@ meijutt.*/js/pcjs/
 ||workers.dev^$domain=axiang.cc
 ||sphdigital.com.sg/_plat/$domain=zaobao.com.sg
 zhihu.com##.Pc-word-new
+douyu.com#?#div[class^="body__"] > div[class^="card__"]:-abp-has(span[class^="cardTypeLabel"]:-abp-contains(广告))
 h-ciyuan.com##.theiaStickySidebar .widget_media_image
 h-ciyuan.com#?#.gridview-grid-post:-abp-has(a[title*="Ad』"])
 yahoo.com##li[id^="taboola-twhk-"]
