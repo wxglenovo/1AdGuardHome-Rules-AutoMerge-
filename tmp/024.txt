@@ -13008,6 +13008,7 @@ canva.com##[role="dialog"]:has-text(/cookie/i)
 |bitbucket.org##[role="dialog"]:has-text(cookies)
 |chat.mistral.ai##[role="dialog"]:has-text(cookies)
 moebelix.at##body > div > div:has(#jentis_consent)
+boomlify.com##div > div:has-text(We use cookies to improve your experience.)
 yogainternational.com##div[class^="elements__Banner-"]:has(> div > a[href$="-privacy-policy"])
 flyfi.com##.HASH_COOKIE_ALERT_GRID_ITEM_FIXED
 aainflight.com##div[class*="_toastContainer_"]:has-text(We care about your privacy)
