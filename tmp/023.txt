@@ -49883,6 +49883,8 @@ moviewalker.jp##.footerBnr
 news24.com##.footer__app-links
 thepinknews.com##.footer__top-bar
 uniqlo.com##.fr-ec-cms-smart-banner
+|bunnings.co.nz##.gAsToc.sc-c292709d-0
+|bunnings.com.au##.gAsToc.sc-c292709d-0
 sp.live.nicovideo.jp##.ga-ns-app-alert-dialog
 |ebay.at##.gadget-banner-wrapper
 |ebay.co.uk##.gadget-banner-wrapper
@@ -50737,6 +50739,7 @@ instagram.com##+js(set-session-storage-item, lodum, 1)
 instagram.com##+js(set-session-storage-item, loggedOutCTAIsShown, 1)
 ktoo.org##+js(set-cookie, modalDismissed, 1)
 threads.com##+js(set-session-storage-item, barcelona_mobile_upsell_state, 1)
+livesportsontv.com##+js(set-local-storage-item, promotion-popup-closed, 1)
 gq.co.za##+js(set-cookie, PromptLater, true)
 ask.fm##.lightbox_overlay
 ask.fm##body:style(overflow: auto !important)
