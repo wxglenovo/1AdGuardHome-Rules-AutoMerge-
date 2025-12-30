@@ -2142,7 +2142,7 @@ youtube.com##.ytp-paid-content-overlay
 www.youtube.com###content > .ytd-rich-section-renderer:has-text(YouTube Playables)
 www.youtube.com##.YtdTalkToRecsFlowRendererHost:has-text(What hobbies are you interested in developing?)
 www.youtube.com##tp-yt-paper-dialog.ytd-popup-container:has(> .ytd-popup-container > #options.ytd-checkbox-survey-renderer)
-www.youtube.com##tp-yt-paper-dialog.ytd-popup-container:has-text(/How do you feel|Which of the following|following Premium|Get background play|Choose all that apply|Become a member|Free trial|How are your|How interested|Live TV|Wish videos|better TV|cable box|cable reimagined|hidden fees|of YouTube TV|on YouTube TV|unlimited DVR|with YouTube TV|without the ads|try this feature|Terms apply|View live scores/)
+www.youtube.com##tp-yt-paper-dialog.ytd-popup-container:has-text(/How do you feel|Which of the following|following Premium|Get background play|Choose all that apply|Become a member of this channel|Free trial|How are your|How interested|Live TV|Wish videos|better TV|cable box|cable reimagined|hidden fees|of YouTube TV|on YouTube TV|unlimited DVR|with YouTube TV|without the ads|try this feature|Terms apply|View live scores/)
 music.youtube.com##tp-yt-paper-dialog.ytmusic-popup-container:has-text(/family plan|Premium|ad-free|background play|kept playing|month free|without the ads|Try YouTube Music/)
 www.youtube.com##.YtdTalkToRecsFlowRendererHost:has-text(/Ask for videos|What do you like|Help us improve/)
 usnews.com##.MuiPaper-elevation.MuiPaper-root:has-text(Create an Account)
@@ -43233,6 +43233,7 @@ iflscience.com##.header-secondary
 therecord.media##.header__cta
 |forksoverknives.com##.hello-bar
 |history-computer.com##.hello-bar
+|projectpro.io##.hello-bar
 a-z-animals.com##.hello-bar-container
 forksoverknives.com##.hello-overlay
 news.crunchbase.com##.herald-ad
@@ -44160,6 +44161,7 @@ swissinfo.ch##.si-teaser--newsletter-subscription
 |technology.org##.sib_signup_form
 |tourscanner.com##.sib_signup_form
 worldcrunch.com##.side-bar-nl-wrap
+projectpro.io##.side-form-with-animation
 thetechfactor.ca##.side-newsletter
 metv.com##.side-newsletter-wrap
 mymodernmet.com##.side-subscribe
