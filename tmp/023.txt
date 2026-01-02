@@ -4117,6 +4117,20 @@ brainly.co.id##.js-react-registration-toplayer
 brainly.co.id##body.sg-dialog-no-scroll:style(overflow: auto !important; position: static !important;)
 analyticsvidhya.com##+js(nostif, loginModal)
 quillbot.com##+js(set-local-storage-item, mode-quills, $remove$)
+|defenceconnect.com.au###free-article
+|accountantsdaily.com.au###free-article
+|realestatebusiness.com.au###free-article
+|smartpropertyinvestment.com.au###free-article
+|theadviser.com.au###free-article
+|cyberdaily.au###free-article
+|lawyersweekly.com.au###free-article
+|defenceconnect.com.au##+js(set-local-storage-item, articleGateData, $remove$)
+|accountantsdaily.com.au##+js(set-local-storage-item, articleGateData, $remove$)
+|realestatebusiness.com.au##+js(set-local-storage-item, articleGateData, $remove$)
+|smartpropertyinvestment.com.au##+js(set-local-storage-item, articleGateData, $remove$)
+|theadviser.com.au##+js(set-local-storage-item, articleGateData, $remove$)
+|cyberdaily.au##+js(set-local-storage-item, articleGateData, $remove$)
+|lawyersweekly.com.au##+js(set-local-storage-item, articleGateData, $remove$)
 science.org##+js(cookie-remover, MAID)
 csmonitor.com##.stickyMessenger-cta
 csmonitor.com##+js(set-local-storage-item, csm_unique_stories, $remove$)
