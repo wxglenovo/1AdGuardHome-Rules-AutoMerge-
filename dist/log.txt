@@ -1566,10 +1566,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 96465
-🚫 去掉注释行: ! Checksum: ZTiac9AeNjtZtF4mMR8iWQ
-🚫 去掉注释行: ! Version: 202601032302
+🚫 去掉注释行: ! Checksum: JU6yucCAUVjUrxrzzhvGcQ
+🚫 去掉注释行: ! Version: 202601032321
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 03 Jan 2026 23:02 UTC
+🚫 去掉注释行: ! Last modified: 03 Jan 2026 23:21 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -24504,10 +24504,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: jAPfv687pfYkRRR/Akyb8A
-🚫 去掉注释行: ! Version: 202601032302
+🚫 去掉注释行: ! Checksum: 8S9fsuLOHMNO6XhDPlUA9Q
+🚫 去掉注释行: ! Version: 202601032321
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 03 Jan 2026 23:02 UTC
+🚫 去掉注释行: ! Last modified: 03 Jan 2026 23:21 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29037,10 +29037,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: mzv3N+jvisKrPINxFQ2sDg
-🚫 去掉注释行: ! Version: 202601032302
+🚫 去掉注释行: ! Checksum: bC3YF1BUofWHgBVBPbVtmw
+🚫 去掉注释行: ! Version: 202601032321
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 03 Jan 2026 23:02 UTC
+🚫 去掉注释行: ! Last modified: 03 Jan 2026 23:21 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29735,11 +29735,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202601032259
+🚫 去掉注释行: ! Version: 202601032314
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 03 Jan 2026 22:59 UTC
+🚫 去掉注释行: ! Last modified: 03 Jan 2026 23:14 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 0dfaee1f2a0cb59e03577c5f63a5b219d67f602e
+🚫 去掉注释行: ! Commit: dd18f4b7fb053e50413e741b5c5d1973519e0d2d
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -52677,11 +52677,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202601032259
+🚫 去掉注释行: ! Version: 202601032314
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 03 Jan 2026 22:59 UTC
+🚫 去掉注释行: ! Last modified: 03 Jan 2026 23:14 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 0dfaee1f2a0cb59e03577c5f63a5b219d67f602e
+🚫 去掉注释行: ! Commit: dd18f4b7fb053e50413e741b5c5d1973519e0d2d
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -62732,6 +62732,12 @@
 ✅ 多域名拆分: newrepublic.com,thetech.com##.article-social
     → |newrepublic.com##.article-social
     → |thetech.com##.article-social
+✅ 多域名拆分: browardpalmbeach.com,dallasobserver.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.article-social-share-buttons
+    → |browardpalmbeach.com##.article-social-share-buttons
+    → |dallasobserver.com##.article-social-share-buttons
+    → |miaminewtimes.com##.article-social-share-buttons
+    → |phoenixnewtimes.com##.article-social-share-buttons
+    → |westword.com##.article-social-share-buttons
 ✅ 多域名拆分: altalex.com,dailystar.com.lb,eurekalert.org##.article-tools
     → |altalex.com##.article-tools
     → |dailystar.com.lb##.article-tools
@@ -63301,6 +63307,12 @@
     → |nme.com##.site-footer-social
     → |operawire.com##.site-footer-social
     → |whoopsee.it##.site-footer-social
+✅ 多域名拆分: dallasobserver.com,ecowatch.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.site-header__social
+    → |dallasobserver.com##.site-header__social
+    → |ecowatch.com##.site-header__social
+    → |miaminewtimes.com##.site-header__social
+    → |phoenixnewtimes.com##.site-header__social
+    → |westword.com##.site-header__social
 ✅ 多域名拆分: news.sky.com,skysports.com##.site-share-wrapper
     → |news.sky.com##.site-share-wrapper
     → |skysports.com##.site-share-wrapper
@@ -68655,8 +68667,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !生成时间: 2026-01-04 06:51:47
-🚫 去掉注释行: !有效规则数目: 1483107
+🚫 去掉注释行: !生成时间: 2026-01-04 07:19:45
+🚫 去掉注释行: !有效规则数目: 1483110
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
@@ -159490,10 +159502,10 @@
 🚫 去掉注释行: ! Blocked domains: 4762
 🚫 去掉注释行: ! unBlocked domains: 15
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: auhB3R9rmgIe9EAIBKoKgw
-🚫 去掉注释行: ! Version: 202601032225
+🚫 去掉注释行: ! Checksum: r5ifwe7aeWt+moUFNNgJHA
+🚫 去掉注释行: ! Version: 202601032325
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-01-03 22:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-01-03 23:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -160781,6 +160793,12 @@
     → |metrotimes.com##.fdn-support-us-button-block
     → |orlandoweekly.com##.fdn-support-us-button-block
     → |sacurrent.com##.fdn-support-us-button-block
+✅ 多域名拆分: browardpalmbeach.com,dallasobserver.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.fundraising-thermometer-block
+    → |browardpalmbeach.com##.fundraising-thermometer-block
+    → |dallasobserver.com##.fundraising-thermometer-block
+    → |miaminewtimes.com##.fundraising-thermometer-block
+    → |phoenixnewtimes.com##.fundraising-thermometer-block
+    → |westword.com##.fundraising-thermometer-block
 ✅ 多域名拆分: kitchenknifeforums.com,quadraphonicquad.com##.gb-donate_wrapper
     → |kitchenknifeforums.com##.gb-donate_wrapper
     → |quadraphonicquad.com##.gb-donate_wrapper
@@ -172384,6 +172402,12 @@
 ✅ 多域名拆分: newrepublic.com,thetech.com##.article-social
     → |newrepublic.com##.article-social
     → |thetech.com##.article-social
+✅ 多域名拆分: browardpalmbeach.com,dallasobserver.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.article-social-share-buttons
+    → |browardpalmbeach.com##.article-social-share-buttons
+    → |dallasobserver.com##.article-social-share-buttons
+    → |miaminewtimes.com##.article-social-share-buttons
+    → |phoenixnewtimes.com##.article-social-share-buttons
+    → |westword.com##.article-social-share-buttons
 ✅ 多域名拆分: altalex.com,dailystar.com.lb,eurekalert.org##.article-tools
     → |altalex.com##.article-tools
     → |dailystar.com.lb##.article-tools
@@ -172953,6 +172977,12 @@
     → |nme.com##.site-footer-social
     → |operawire.com##.site-footer-social
     → |whoopsee.it##.site-footer-social
+✅ 多域名拆分: dallasobserver.com,ecowatch.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.site-header__social
+    → |dallasobserver.com##.site-header__social
+    → |ecowatch.com##.site-header__social
+    → |miaminewtimes.com##.site-header__social
+    → |phoenixnewtimes.com##.site-header__social
+    → |westword.com##.site-header__social
 ✅ 多域名拆分: news.sky.com,skysports.com##.site-share-wrapper
     → |news.sky.com##.site-share-wrapper
     → |skysports.com##.site-share-wrapper
@@ -216386,9 +216416,6 @@
 ✅ 多域名拆分: retailwire.com,wlrn.org##.Campaign
     → |retailwire.com##.Campaign
     → |wlrn.org##.Campaign
-✅ 多域名拆分: miaminewtimes.com,westword.com##.ContentFooterNewsletterSignup
-    → |miaminewtimes.com##.ContentFooterNewsletterSignup
-    → |westword.com##.ContentFooterNewsletterSignup
 ✅ 多域名拆分: aftermath.site,defector.com##.ContentGate_wrapper__tNtjt
     → |aftermath.site##.ContentGate_wrapper__tNtjt
     → |defector.com##.ContentGate_wrapper__tNtjt
@@ -218023,7 +218050,7 @@
     → |exchangerates.org.uk##.form-newsletter
     → |vozpopuli.com##.form-newsletter
 🚫 去掉注释行: !! .newsletter-signup
-✅ 多域名拆分: 247sports.com,4029tv.com,abovethelaw.com,aeon.co,asmartbear.com,bookriot.com,carsguide.com.au,christianitytoday.com,citiblog.co.uk,citusdata.com,citynews.ca,click2houston.com,clickorlando.com,cockroachlabs.com,creation.com,currentaffairs.org,dailybee.com,dailysignal.com,dallasinnovates.com,eltrecetv.com.ar,euobserver.com,feadship.nl,fox10phoenix.com,fox13news.com,fox13seattle.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox6now.com,fox7austin.com,fox9.com,foxla.com,freedom.press,frommers.com,hedgehogreview.com,hiphopdx.com,hot97.com,japantimes.co.jp,jta.org,kantinepraat.nl,kcci.com,kcra.com,ketv.com,kmbc.com,koat.com,koco.com,komando.com,ksbw.com,ktvu.com,livescience.com,local10.com,morningstar.com.au,motherjones.com,mynbc5.com,newsweek.com,pogo.org,progressive.org,propublica.org,publicdomainreview.org,readbetting.com,readcars.co,readceltic.com,readfashion.co,readfilm.co,readfood.co,readgaming.co,readmanutd.com,readmotorsport.com,readmusic.co,readshowbiz.co,readtv.co,samvirke.dk,san.com,slate.com,sportsworldnews.com,tastecooking.com,techfinitive.com,thebeliever.net,thekitchenmagpie.com,tn.com.ar,tomsguide.com,toofab.com,tvtropes.org,undark.org,venturebeat.com,voetbalverslaafd.nl,wapt.com,wbaltv.com,wcvb.com,wdsu.com,wesh.com,wgal.com,wisn.com,wjcl.com,wlky.com,wlwt.com,wmtw.com,wmur.com,womanandhome.com,wpbf.com,wqxr.org,wtae.com,wvtm13.com,wxii12.com,wyff4.com,zeit.de##.newsletter-signup
+✅ 多域名拆分: 247sports.com,4029tv.com,abovethelaw.com,aeon.co,asmartbear.com,bookriot.com,carsguide.com.au,christianitytoday.com,citiblog.co.uk,citusdata.com,citynews.ca,click2houston.com,clickorlando.com,cockroachlabs.com,creation.com,currentaffairs.org,dailybee.com,dailysignal.com,dallasinnovates.com,eltrecetv.com.ar,euobserver.com,feadship.nl,fox10phoenix.com,fox13news.com,fox13seattle.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox6now.com,fox7austin.com,fox9.com,foxla.com,freedom.press,frommers.com,hedgehogreview.com,hiphopdx.com,hot97.com,japantimes.co.jp,jta.org,kantinepraat.nl,kcci.com,kcra.com,ketv.com,kmbc.com,koat.com,koco.com,komando.com,ksbw.com,ktvu.com,livescience.com,local10.com,morningstar.com.au,motherjones.com,mynbc5.com,newsweek.com,pogo.org,progressive.org,propublica.org,publicdomainreview.org,readbetting.com,readcars.co,readceltic.com,readfashion.co,readfilm.co,readfood.co,readgaming.co,readmanutd.com,readmotorsport.com,readmusic.co,readshowbiz.co,readtv.co,samvirke.dk,san.com,slate.com,sportsworldnews.com,tastecooking.com,techfinitive.com,thebeliever.net,thekitchenmagpie.com,tn.com.ar,tomsguide.com,toofab.com,tvtropes.org,undark.org,voetbalverslaafd.nl,wapt.com,wbaltv.com,wcvb.com,wdsu.com,wesh.com,wgal.com,wisn.com,wjcl.com,wlky.com,wlwt.com,wmtw.com,wmur.com,womanandhome.com,wpbf.com,wqxr.org,wtae.com,wvtm13.com,wxii12.com,wyff4.com,zeit.de##.newsletter-signup
     → |247sports.com##.newsletter-signup
     → |4029tv.com##.newsletter-signup
     → |abovethelaw.com##.newsletter-signup
@@ -218113,7 +218140,6 @@
     → |toofab.com##.newsletter-signup
     → |tvtropes.org##.newsletter-signup
     → |undark.org##.newsletter-signup
-    → |venturebeat.com##.newsletter-signup
     → |voetbalverslaafd.nl##.newsletter-signup
     → |wapt.com##.newsletter-signup
     → |wbaltv.com##.newsletter-signup
@@ -218277,13 +218303,13 @@
     → |proteste.org.br##.newsletter-box
     → |ricethresher.org##.newsletter-box
     → |ripost.hu##.newsletter-box
-🚫 去掉注释行: !! #NewsletterModal
-✅ 多域名拆分: browardpalmbeach.com,dallasobserver.com,miaminewtimes.com,phoenixnewtimes.com,westword.com###fdn-sm-NewsletterSignupWidgetSlideIn
-    → |browardpalmbeach.com###fdn-sm-NewsletterSignupWidgetSlideIn
-    → |dallasobserver.com###fdn-sm-NewsletterSignupWidgetSlideIn
-    → |miaminewtimes.com###fdn-sm-NewsletterSignupWidgetSlideIn
-    → |phoenixnewtimes.com###fdn-sm-NewsletterSignupWidgetSlideIn
-    → |westword.com###fdn-sm-NewsletterSignupWidgetSlideIn
+🚫 去掉注释行: !! .vmg-newsletter-form
+✅ 多域名拆分: browardpalmbeach.com,dallasobserver.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.vmg-newsletter-form
+    → |browardpalmbeach.com##.vmg-newsletter-form
+    → |dallasobserver.com##.vmg-newsletter-form
+    → |miaminewtimes.com##.vmg-newsletter-form
+    → |phoenixnewtimes.com##.vmg-newsletter-form
+    → |westword.com##.vmg-newsletter-form
 🚫 去掉注释行: !! #mc-embedded-subscribe-form
 ✅ 多域名拆分: dagelijksestandaard.nl,egyptianstreets.com,evonomics.com,gimmesomeoven.com,investordaily.com.au,macrumors.com,reductress.com,reliefweb.int,theawesomer.com,wweek.com###mc-embedded-subscribe-form
     → |dagelijksestandaard.nl###mc-embedded-subscribe-form
@@ -218858,7 +218884,7 @@
     → |wsbtv.com##.newsletter-form
     → |zelfrijdendvervoer.nl##.newsletter-form
 🚫 去掉注释行: !! .subscribe
-✅ 多域名拆分: 404media.co,972mag.com,a-z-animals.com,al-shabaka.org,alexandracooks.com,alhurra.com,android.gs,artscanvas.org,attn.com,bamargera.com,bcg.com,blackagendareport.com,boardingarea.com,bottradionetwork.com,briefly.co.za,broadwayworld.com,chicagomag.com,cityandstateny.com,coincodex.com,coinspeaker.com,cointelegraph.com,cybernews.com,dailyfeed.co.uk,damndelicious.net,defenseone.com,delishknowledge.com,divascancook.com,downshiftology.com,electronicsweekly.com,finews.ch,foxnews.com,freshersworld.com,gadgets360.com,gellerreport.com,gimmesomeoven.com,gotquestions.org,govexec.com,greece-is.com,greenbot.com,healthyseasonalrecipes.com,howsweeteats.com,hpcwire.com,idiallo.com,irishpost.com,jessicainthekitchen.com,jewishinsider.com,kitchentreaty.com,kristineskitchenblog.com,lafiamma.com.au,lindsaypleskot.com,littlespicejar.com,livewellbakeoften.com,luzmedia.co,melskitchencafe.com,messynessychic.com,miaminewtimes.com,mouser.com,mpr.org,mumbrella.com.au,mygaming.co.za,nationalpost.com,ndtv.com,newsmaxtv.com,newsthump.com,nextgov.com,noticiabrasil.net.br,notquitenigella.com,player.one,politicsweb.co.za,professionearchitetto.it,rbth.com,realfoodwholelife.com,recipetineats.com,restaurantguru.com,roadbook.com,route-fifty.com,seasonsandsuppers.ca,selenagomez.com,stereogum.com,stream.org,tasteandtellblog.com,ted.com,thechunkychef.com,thehighwire.com,today.ucsd.edu,u24.gov.ua,up.com,venezuelastar.com,viewfromthewing.com,wackymania.com,wttw.com##.subscribe
+✅ 多域名拆分: 404media.co,972mag.com,a-z-animals.com,al-shabaka.org,alexandracooks.com,alhurra.com,android.gs,artscanvas.org,attn.com,bamargera.com,bcg.com,blackagendareport.com,boardingarea.com,bottradionetwork.com,briefly.co.za,broadwayworld.com,chicagomag.com,cityandstateny.com,coincodex.com,coinspeaker.com,cointelegraph.com,cybernews.com,dailyfeed.co.uk,damndelicious.net,defenseone.com,delishknowledge.com,divascancook.com,downshiftology.com,electronicsweekly.com,finews.ch,foxnews.com,freshersworld.com,gadgets360.com,gellerreport.com,gimmesomeoven.com,gotquestions.org,govexec.com,greece-is.com,greenbot.com,healthyseasonalrecipes.com,howsweeteats.com,hpcwire.com,idiallo.com,irishpost.com,jessicainthekitchen.com,jewishinsider.com,kitchentreaty.com,kristineskitchenblog.com,lafiamma.com.au,lindsaypleskot.com,littlespicejar.com,livewellbakeoften.com,luzmedia.co,melskitchencafe.com,messynessychic.com,mouser.com,mpr.org,mumbrella.com.au,mygaming.co.za,nationalpost.com,ndtv.com,newsmaxtv.com,newsthump.com,nextgov.com,noticiabrasil.net.br,notquitenigella.com,player.one,politicsweb.co.za,professionearchitetto.it,rbth.com,realfoodwholelife.com,recipetineats.com,restaurantguru.com,roadbook.com,route-fifty.com,seasonsandsuppers.ca,selenagomez.com,stereogum.com,stream.org,tasteandtellblog.com,ted.com,thechunkychef.com,thehighwire.com,today.ucsd.edu,u24.gov.ua,up.com,venezuelastar.com,viewfromthewing.com,wackymania.com,wttw.com##.subscribe
     → |404media.co##.subscribe
     → |972mag.com##.subscribe
     → |a-z-animals.com##.subscribe
@@ -218914,7 +218940,6 @@
     → |luzmedia.co##.subscribe
     → |melskitchencafe.com##.subscribe
     → |messynessychic.com##.subscribe
-    → |miaminewtimes.com##.subscribe
     → |mouser.com##.subscribe
     → |mpr.org##.subscribe
     → |mumbrella.com.au##.subscribe
