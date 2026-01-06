@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-01-06T10:07:59.690Z
+🚫 去掉注释行: ! Last modified: 2026-01-06T12:12:04.896Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v1.0.38
 🚫 去掉注释行: !
@@ -1567,10 +1567,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 92843
-🚫 去掉注释行: ! Checksum: N5CVkflSjJf0kyBkE6KDtg
-🚫 去掉注释行: ! Version: 202601061131
+🚫 去掉注释行: ! Checksum: Pk5DQrATAwOa3u6Hms/JMw
+🚫 去掉注释行: ! Version: 202601061221
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 06 Jan 2026 11:31 UTC
+🚫 去掉注释行: ! Last modified: 06 Jan 2026 12:21 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -23684,6 +23684,9 @@
 ✅ 多域名拆分: escortnews.eu,topescort.com##.newbottom-fbanners
     → |escortnews.eu##.newbottom-fbanners
     → |topescort.com##.newbottom-fbanners
+✅ 多域名拆分: hdzog.com,hdzog.tube##.nopop
+    → |hdzog.com##.nopop
+    → |hdzog.tube##.nopop
 ✅ 多域名拆分: xv-ru.com,xvideos.*##.nutaku-gamesAdd commentMore actions
     → |xv-ru.com##.nutaku-gamesAdd commentMore actions
     → |xvideos.*##.nutaku-gamesAdd commentMore actions
@@ -23940,6 +23943,10 @@
 ✅ 多域名拆分: upornia.com,upornia.tube##.underplayer > section
     → |upornia.com##.underplayer > section
     → |upornia.tube##.underplayer > section
+✅ 多域名拆分: hdzog.com,hdzog.tube,senzuri.tube##.underplayer-review
+    → |hdzog.com##.underplayer-review
+    → |hdzog.tube##.underplayer-review
+    → |senzuri.tube##.underplayer-review
 ✅ 多域名拆分: vjav.com,vjav.tube##.undp
     → |vjav.com##.undp
     → |vjav.tube##.undp
@@ -24506,10 +24513,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: JMLD5c5FdcZLq7nyZNHUIQ
-🚫 去掉注释行: ! Version: 202601061131
+🚫 去掉注释行: ! Checksum: PZXflGXNrW4BUa7wOGhCvA
+🚫 去掉注释行: ! Version: 202601061221
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 06 Jan 2026 11:31 UTC
+🚫 去掉注释行: ! Last modified: 06 Jan 2026 12:21 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29039,10 +29046,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: y/BwjBRdJL9aHQ/YpW4sDQ
-🚫 去掉注释行: ! Version: 202601061131
+🚫 去掉注释行: ! Checksum: q+UOgfFqtBp41IEUQgOTqA
+🚫 去掉注释行: ! Version: 202601061221
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 06 Jan 2026 11:31 UTC
+🚫 去掉注释行: ! Last modified: 06 Jan 2026 12:21 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29737,11 +29744,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202601061137
+🚫 去掉注释行: ! Version: 202601061219
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 06 Jan 2026 11:37 UTC
+🚫 去掉注释行: ! Last modified: 06 Jan 2026 12:19 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 116d6977556cfa402ff302b8da4d0a634dd757ec
+🚫 去掉注释行: ! Commit: 0f82a84b4351cc3598564646dacb96859beaf987
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -51858,6 +51865,9 @@
 ✅ 多域名拆分: escortnews.eu,topescort.com##.newbottom-fbanners
     → |escortnews.eu##.newbottom-fbanners
     → |topescort.com##.newbottom-fbanners
+✅ 多域名拆分: hdzog.com,hdzog.tube##.nopop
+    → |hdzog.com##.nopop
+    → |hdzog.tube##.nopop
 ✅ 多域名拆分: xv-ru.com,xvideos.*##.nutaku-gamesAdd commentMore actions
     → |xv-ru.com##.nutaku-gamesAdd commentMore actions
     → |xvideos.*##.nutaku-gamesAdd commentMore actions
@@ -52114,6 +52124,10 @@
 ✅ 多域名拆分: upornia.com,upornia.tube##.underplayer > section
     → |upornia.com##.underplayer > section
     → |upornia.tube##.underplayer > section
+✅ 多域名拆分: hdzog.com,hdzog.tube,senzuri.tube##.underplayer-review
+    → |hdzog.com##.underplayer-review
+    → |hdzog.tube##.underplayer-review
+    → |senzuri.tube##.underplayer-review
 ✅ 多域名拆分: vjav.com,vjav.tube##.undp
     → |vjav.com##.undp
     → |vjav.tube##.undp
@@ -52680,11 +52694,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202601061131
+🚫 去掉注释行: ! Version: 202601061219
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 06 Jan 2026 11:31 UTC
+🚫 去掉注释行: ! Last modified: 06 Jan 2026 12:19 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 116d6977556cfa402ff302b8da4d0a634dd757ec
+🚫 去掉注释行: ! Commit: 0f82a84b4351cc3598564646dacb96859beaf987
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -68671,8 +68685,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !生成时间: 2026-01-06 19:36:32
-🚫 去掉注释行: !有效规则数目: 1479011
+🚫 去掉注释行: !生成时间: 2026-01-06 19:48:42
+🚫 去掉注释行: !有效规则数目: 1479155
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
@@ -158044,10 +158058,10 @@
 🚫 去掉注释行: ! Blocked domains: 4759
 🚫 去掉注释行: ! unBlocked domains: 14
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: IWiy16b9oLotiLCA2RSU2g
-🚫 去掉注释行: ! Version: 202601061025
+🚫 去掉注释行: ! Checksum: enLHjp+mUiRR2kpYCX3I+g
+🚫 去掉注释行: ! Version: 202601061125
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-01-06 10:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-01-06 11:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -192809,12 +192823,11 @@
     → |ganassa.com##.wt-cli-cookie-bar-container
     → |kd.fi##.wt-cli-cookie-bar-container
 🚫 去掉注释行: !! .cookie-disclaimer
-✅ 多域名拆分: doviz.com,emaar.com,ford.co.uk,news.northeastern.edu,theatlantic.com,tous.com,williamhill.com##.cookie-disclaimer
+✅ 多域名拆分: doviz.com,emaar.com,ford.co.uk,news.northeastern.edu,tous.com,williamhill.com##.cookie-disclaimer
     → |doviz.com##.cookie-disclaimer
     → |emaar.com##.cookie-disclaimer
     → |ford.co.uk##.cookie-disclaimer
     → |news.northeastern.edu##.cookie-disclaimer
-    → |theatlantic.com##.cookie-disclaimer
     → |tous.com##.cookie-disclaimer
     → |williamhill.com##.cookie-disclaimer
 🚫 去掉注释行: !! ###iubenda-cs-banner
@@ -194515,7 +194528,7 @@
     → |mall.sk##.legal-consent
     → |mimovrste.com##.legal-consent
 🚫 去掉注释行: !! #cookie-consent
-✅ 多域名拆分: altman.co.il,anixe.pl,avantlink.com,b-kassa.ru,biblesforamerica.org,bilaborg.is,bilas.is,bilasolur.is,boernestar.com,craig-russell.co.uk,druni.es,ecobee.com,erau.edu,fontawesome.com,garberhof.com,guffi.is,hofdahollin.is,hotel-avidea.com,ispot.tv,joomshaper.com,kranj.si,lottostar.co.za,ma-hsh.de,mk.ru,moe.video,moebel-berning.de,notadir.toyotakauptuni.is,openeu.eu,pereirinha.com,perplexity.ai,portalderwirtschaft.de,seehotel.it,soundcore.com,stormware.cz,taseralm.com,touring-artists.info,toyotaselfossi.is,uhrzeit123.de,zonneplan.nl###cookie-consent
+✅ 多域名拆分: altman.co.il,anixe.pl,avantlink.com,b-kassa.ru,biblesforamerica.org,bilaborg.is,bilas.is,bilasolur.is,boernestar.com,craig-russell.co.uk,druni.es,ecobee.com,erau.edu,fontawesome.com,garberhof.com,guffi.is,hofdahollin.is,hotel-avidea.com,ispot.tv,joomshaper.com,kranj.si,lottostar.co.za,ma-hsh.de,mk-amur.ru,mk-belgorod.ru,mk-chukotka.ru,mk-donbass.ru,mk-hakasia.ru,mk-kaliningrad.ru,mk-kamchatka.ru,mk-kirov.ru,mk-kolyma.ru,mk-kuzbass.ru,mk-kz.kz,mk-lenobl.ru,mk-lipetsk.ru,mk-mari.ru,mk-mosobl.ru,mk-nao.ru,mk-novgorod.ru,mk-orel.ru,mk-pskov.ru,mk-saransk.ru,mk-smolensk.ru,mk-tuva.ru,mk-yamal.ru,mk-zap.ru,mk.kg,mk.ru,mkbryansk.ru,mkisrael.co.il,mkivanovo.ru,mkkaluga.ru,mknews.de,mkpenza.ru,moe.video,moebel-berning.de,notadir.toyotakauptuni.is,openeu.eu,pereirinha.com,perplexity.ai,portalderwirtschaft.de,seehotel.it,soundcore.com,stormware.cz,taseralm.com,touring-artists.info,toyotaselfossi.is,uhrzeit123.de,zonneplan.nl###cookie-consent
     → |altman.co.il###cookie-consent
     → |anixe.pl###cookie-consent
     → |avantlink.com###cookie-consent
@@ -194539,7 +194552,38 @@
     → |kranj.si###cookie-consent
     → |lottostar.co.za###cookie-consent
     → |ma-hsh.de###cookie-consent
+    → |mk-amur.ru###cookie-consent
+    → |mk-belgorod.ru###cookie-consent
+    → |mk-chukotka.ru###cookie-consent
+    → |mk-donbass.ru###cookie-consent
+    → |mk-hakasia.ru###cookie-consent
+    → |mk-kaliningrad.ru###cookie-consent
+    → |mk-kamchatka.ru###cookie-consent
+    → |mk-kirov.ru###cookie-consent
+    → |mk-kolyma.ru###cookie-consent
+    → |mk-kuzbass.ru###cookie-consent
+    → |mk-kz.kz###cookie-consent
+    → |mk-lenobl.ru###cookie-consent
+    → |mk-lipetsk.ru###cookie-consent
+    → |mk-mari.ru###cookie-consent
+    → |mk-mosobl.ru###cookie-consent
+    → |mk-nao.ru###cookie-consent
+    → |mk-novgorod.ru###cookie-consent
+    → |mk-orel.ru###cookie-consent
+    → |mk-pskov.ru###cookie-consent
+    → |mk-saransk.ru###cookie-consent
+    → |mk-smolensk.ru###cookie-consent
+    → |mk-tuva.ru###cookie-consent
+    → |mk-yamal.ru###cookie-consent
+    → |mk-zap.ru###cookie-consent
+    → |mk.kg###cookie-consent
     → |mk.ru###cookie-consent
+    → |mkbryansk.ru###cookie-consent
+    → |mkisrael.co.il###cookie-consent
+    → |mkivanovo.ru###cookie-consent
+    → |mkkaluga.ru###cookie-consent
+    → |mknews.de###cookie-consent
+    → |mkpenza.ru###cookie-consent
     → |moe.video###cookie-consent
     → |moebel-berning.de###cookie-consent
     → |notadir.toyotakauptuni.is###cookie-consent
