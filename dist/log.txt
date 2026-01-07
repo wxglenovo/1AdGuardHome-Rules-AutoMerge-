@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-01-07T00:29:04.715Z
+🚫 去掉注释行: ! Last modified: 2026-01-07T02:44:48.451Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v1.0.38
 🚫 去掉注释行: !
@@ -1562,15 +1562,15 @@
 🚫 去掉注释行: ! Watson News App for iOS https://github.com/AdguardTeam/AdguardFilters/issues/4524
 🚫 去掉注释行: ! Fixing Walmart
 🚫 去掉注释行: !Title: anti-AD
-🚫 去掉注释行: !Version: 20260105024838
+🚫 去掉注释行: !Version: 20260107093428
 🚫 去掉注释行: !Homepage: https://github.com/privacy-protection-tools/anti-AD
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
-🚫 去掉注释行: !Total lines: 92843
-🚫 去掉注释行: ! Checksum: VYBJOZAhCe8U1zs0DMvqJw
-🚫 去掉注释行: ! Version: 202601070101
+🚫 去掉注释行: !Total lines: 92844
+🚫 去掉注释行: ! Checksum: mzak1WcRO4nzxnxXLCMSeQ
+🚫 去掉注释行: ! Version: 202601070251
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 07 Jan 2026 01:01 UTC
+🚫 去掉注释行: ! Last modified: 07 Jan 2026 02:51 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -24516,10 +24516,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: 8was7TM3Wod6Ahk7m5ov5w
-🚫 去掉注释行: ! Version: 202601070101
+🚫 去掉注释行: ! Checksum: zz0tdMG5sdZfJBGKQ+cWfQ
+🚫 去掉注释行: ! Version: 202601070251
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 07 Jan 2026 01:01 UTC
+🚫 去掉注释行: ! Last modified: 07 Jan 2026 02:51 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -24885,7 +24885,6 @@
 🚫 去掉注释行: ##.advert-short
 🚫 去掉注释行: ##.advertising_lightbox
 🚫 去掉注释行: ##.afc_popup
-🚫 去掉注释行: ##.aiboav-ads
 🚫 去掉注释行: ##.alert_windows > .q-card__actions > a
 🚫 去掉注释行: ##.anniversary-wrap-2018
 🚫 去掉注释行: ##.apd-footer
@@ -25122,7 +25121,6 @@
 🚫 去掉注释行: ##.page-wwads
 🚫 去掉注释行: ##.pagead_3
 🚫 去掉注释行: ##.pagecon + .ad1
-🚫 去掉注释行: ##.partialViewSlider-outerwrapper
 🚫 去掉注释行: ##.pasuAD
 🚫 去掉注释行: ##.pause-ad
 🚫 去掉注释行: ##.pc-ads
@@ -27400,10 +27398,6 @@
     → |easylife.tw##.popup_bottom_block
     → |ez3c.tw##.popup_bottom_block
     → |softwarebrother.com##.popup_bottom_block
-✅ 多域名拆分: javdove.com,javdove2.club,porn5f.com##.preroll-adv-popup-overlay
-    → |javdove.com##.preroll-adv-popup-overlay
-    → |javdove2.club##.preroll-adv-popup-overlay
-    → |porn5f.com##.preroll-adv-popup-overlay
 ✅ 多域名拆分: duba.com,newduba.cn##.pro_r_t
     → |duba.com##.pro_r_t
     → |newduba.cn##.pro_r_t
@@ -28078,8 +28072,10 @@
 ✅ 多域名拆分: qq.com,sogou.com##div[class^="page-top-banner"]
     → |qq.com##div[class^="page-top-banner"]
     → |sogou.com##div[class^="page-top-banner"]
-✅ 多域名拆分: kzs1w.com,sehuatang.org##div[class^="show-text"]
+✅ 多域名拆分: 4rzxy.net,kzs1w.com,sehuatang.net,sehuatang.org##div[class^="show-text"]
+    → |4rzxy.net##div[class^="show-text"]
     → |kzs1w.com##div[class^="show-text"]
+    → |sehuatang.net##div[class^="show-text"]
     → |sehuatang.org##div[class^="show-text"]
 ✅ 多域名拆分: mail.126.com,mail.163.com##div[id$="_AdDiv"]
     → |mail.126.com##div[id$="_AdDiv"]
@@ -29049,10 +29045,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: YtNGVLOIuEj1BN/y5koERA
-🚫 去掉注释行: ! Version: 202601070101
+🚫 去掉注释行: ! Checksum: peZUguGd1aM520rTf9an3Q
+🚫 去掉注释行: ! Version: 202601070251
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 07 Jan 2026 01:01 UTC
+🚫 去掉注释行: ! Last modified: 07 Jan 2026 02:51 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29747,11 +29743,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202601070102
+🚫 去掉注释行: ! Version: 202601070302
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 07 Jan 2026 01:02 UTC
+🚫 去掉注释行: ! Last modified: 07 Jan 2026 03:02 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 9b74673f834090a995e9d3e22814d88b9ea9b124
+🚫 去掉注释行: ! Commit: 1a6e5b2c65c201cece77bde8fe4e8c6e86988764
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -52700,11 +52696,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202601070102
+🚫 去掉注释行: ! Version: 202601070251
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 07 Jan 2026 01:02 UTC
+🚫 去掉注释行: ! Last modified: 07 Jan 2026 02:51 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 9b74673f834090a995e9d3e22814d88b9ea9b124
+🚫 去掉注释行: ! Commit: 8373dd1e330d38a6b3b65de4bf9c06d3ea435413
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -68670,32 +68666,32 @@
 🚫 去掉注释行: ! Issues: https://github.com/hagezi/dns-blocklists/issues
 🚫 去掉注释行: ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 🚫 去掉注释行: ! Expires: 1 day
-🚫 去掉注释行: ! Last modified: 06 Jan 2026 18:08 UTC
-🚫 去掉注释行: ! Version: 2026.0106.1808.55
+🚫 去掉注释行: ! Last modified: 07 Jan 2026 02:07 UTC
+🚫 去掉注释行: ! Version: 2026.0107.0207.35
 🚫 去掉注释行: ! Syntax: AdBlock
-🚫 去掉注释行: ! Number of entries: 40144
+🚫 去掉注释行: ! Number of entries: 40202
 🚫 去掉注释行: !
 🚫 去掉注释行: !Title: anti-AD for AdGuard
-🚫 去掉注释行: !Version: 20260104184839891965389
-🚫 去掉注释行: !Last modified: Sun Jan  4 18:48:39 UTC 2026
-🚫 去掉注释行: !Updated: 2026-01-04T18:48:39+00:00
+🚫 去掉注释行: !Version: 20260107013429453169740
+🚫 去掉注释行: !Last modified: Wed Jan  7 01:34:29 UTC 2026
+🚫 去掉注释行: !Updated: 2026-01-07T01:34:29+00:00
 🚫 去掉注释行: !Expires: 4 days
 🚫 去掉注释行: !Homepage: https://anti-ad.net/
 🚫 去掉注释行: !!!note! If you are using "AdGuard Home", please load https://anti-ad.net/easylist.txt
-🚫 去掉注释行: !Total lines: 98380
+🚫 去掉注释行: !Total lines: 98381
 🚫 去掉注释行: !Title: anti-AD
-🚫 去掉注释行: !Version: 20260105024838
+🚫 去掉注释行: !Version: 20260107093428
 🚫 去掉注释行: !Homepage: https://github.com/privacy-protection-tools/anti-AD
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
-🚫 去掉注释行: !Total lines: 92843
+🚫 去掉注释行: !Total lines: 92844
 🚫 去掉注释行: !Title: Adblock-Rule-Collection-Dns
 🚫 去掉注释行: !Description: 一个汇总了多个广告过滤器过滤规则的DNS过滤器订阅，每20分钟更新一次，确保即时同步上游减少误杀
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !生成时间: 2026-01-07 07:46:39
-🚫 去掉注释行: !有效规则数目: 1478752
+🚫 去掉注释行: !生成时间: 2026-01-07 09:46:09
+🚫 去掉注释行: !有效规则数目: 1478657
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
