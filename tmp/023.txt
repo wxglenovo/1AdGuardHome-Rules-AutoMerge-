@@ -1157,7 +1157,6 @@ portableapps.com##[alt="RSS"]
 |xhaccess.com##[class*="cam-wgt"]
 |xhamster.com##[class*="cam-wgt"]
 |xhamster.desi##[class*="cam-wgt"]
-chromewebstore.google.com##[role="dialog"][aria-labelledby="promo-header"]
 |twitter.com##div[data-testid="profileAnalyticsUpsell"]
 |x.com##div[data-testid="profileAnalyticsUpsell"]
 |twitter.com##div[data-testid="verified_profile_upsell"]
@@ -2140,6 +2139,7 @@ developer.android.com##.devsite-snackbar-snack:has-text(Please help us)
 chromewebstore.google.com##[aria-describedby="promo-header"]:has-text(Switch to Chrome)
 www.google.com##[aria-describedby="promo_desc_id"]:has-text(/Time for a new laptop|Gemini, |Choose Chrome|built by Google|Search differently|Cherchez diffÃ©remment|Search just got easier|Try more ways|Switch to Chrome/)
 google.com##[jscontroller="HCSvae"]:has-text(Sign in to Google)
+chromewebstore.google.com##[role="dialog"][aria-labelledby="promo-header"]
 google.com##div[jsname="wA2P2b"]:has-text(How helpful were the results)
 youtube.com##.ytp-paid-content-overlay
 www.youtube.com###content > .ytd-rich-section-renderer:has-text(YouTube Playables)
@@ -40108,6 +40108,7 @@ xsports.lv#@##notice-cookie-block
 |dicebreaker.com##onetrust-banner-sdk
 |digitalfoundry.net##onetrust-banner-sdk
 |dmax.de##onetrust-banner-sdk
+|downdetector.com##onetrust-banner-sdk
 |drafthouse.com##onetrust-banner-sdk
 |e-ladestation.aldi-sued.de##onetrust-banner-sdk
 |elkspel.nl##onetrust-banner-sdk
@@ -40287,6 +40288,7 @@ xsports.lv#@##notice-cookie-block
 |dicebreaker.com##onetrust-consent-sdk
 |digitalfoundry.net##onetrust-consent-sdk
 |dmax.de##onetrust-consent-sdk
+|downdetector.com##onetrust-consent-sdk
 |drafthouse.com##onetrust-consent-sdk
 |e-ladestation.aldi-sued.de##onetrust-consent-sdk
 |elkspel.nl##onetrust-consent-sdk
