@@ -13474,6 +13474,7 @@ esa.int###cookie_loc
 |search.podcastmusic.com###cookie_manager
 |sourceaudio.com###cookie_manager
 groners.com###cookiebanner_bg
+meetings.smartrecoveryglobal.org###cookieconsentmodal
 cvedetails.com###cookieconsentwarningcontainer
 spf-record.com###cookieguidelineRoot
 treadsafe.co.za###cookiemessagecontainer
@@ -14080,6 +14081,7 @@ visionworks.com###transcend-consent-manager
 undercurrentnews.com###ucn-gdpr-overlay
 strikermanager.com###ue
 netflix.com###uma > div > .message
+mcdonalds.com###usTnCBanner
 |search.brave.com###usage-metrics
 |search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion###usage-metrics
 search.brave.com###usage-metrics-notice
@@ -15574,6 +15576,7 @@ pixiv.net##.kjvIqh
 honeygain.com##.kksiKu
 depop.com##.klIvEu
 klook.com##.klk-notification
+konzertmeister.app##.km-cookie-banner-container
 avontyres.com##.koekjesbalk
 realestate-magazine.rs##.kolacici
 smallpdf.com##.krHGwU
@@ -16884,6 +16887,7 @@ wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotifi
 |hampers.com##.cookie-popup
 |icmarkets.eu##.cookie-popup
 |kinoflex.ru##.cookie-popup
+|lovereading4kids.co.uk##.cookie-popup
 |mediathek.lfv-bayern.de##.cookie-popup
 |mts.ru##.cookie-popup
 |mysky.com.ph##.cookie-popup
@@ -21605,6 +21609,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |masjerez.com##.modal-backdrop
 |mateco.ro##.modal-backdrop
 |meetings.smartrecovery.org##.modal-backdrop
+|meetings.smartrecoveryglobal.org##.modal-backdrop
 |meteo.fvg.it##.modal-backdrop
 |mgames.rs##.modal-backdrop
 |miteco.gob.es##.modal-backdrop
@@ -25099,6 +25104,7 @@ cloud.kaspersky.com##+js(set-cookie, B2BCloudTracking, Disabled, , , reload, 1)
 babyshop.com##+js(set-cookie, BABY_MARKETING_COOKIES_CONSENTED, false)
 babyshop.com##+js(set-cookie, BABY_NECESSARY_COOKIES_CONSENTED, true)
 babyshop.com##+js(set-cookie, BABY_PERFORMANCE_COOKIES_CONSENTED, false)
+borger.dk##+js(set-cookie, BDK_CookieLawAccepted, false, ,reload, 1)
 berkeleygroup.digital##+js(set-cookie, BGDESKTOP_TERMS, 1)
 backmarket.*##+js(set-cookie, BM_Advertising, false, , reload, 1)
 backmarket.*##+js(set-cookie, BM_Analytics, false)
@@ -25878,6 +25884,7 @@ cancercentrum.se##+js(set-cookie, analyticalConsent, false)
 pubgesports.com##+js(set-cookie, analytics, N)
 |alter-meierhof.de##+js(set-cookie, analytics, false)
 |mjob.si##+js(set-cookie, analytics, false)
+|planetepluscanada.com##+js(set-cookie, analytics, false)
 |protan-elmark.*##+js(set-cookie, analytics, false)
 |shakespeare.org.uk##+js(set-cookie, analytics, false)
 gadis.es##+js(set-cookie, analyticsAccepted, false)
@@ -26224,6 +26231,10 @@ cancercentrum.se##+js(set-cookie, consentStored, true)
 charleskeith.com##+js(set-cookie, consentTracking, true)
 charleskeith.com##+js(set-cookie, consentTrackingPopupCookie, true)
 neuhauschocolates.com##+js(set-cookie, consentTrackingVerified, true)
+|zapatos.*##+js(set-cookie, consent_Advertising, 0)
+|zappatos.*##+js(set-cookie, consent_Advertising, 0)
+|zapatos.*##+js(set-cookie, consent_Analytics, 0)
+|zappatos.*##+js(set-cookie, consent_Analytics, 0)
 |allstarssportsbars.co.uk##+js(set-cookie, consent_analytics, false)
 |orbia.com##+js(set-cookie, consent_analytics, false)
 dpp.cz##+js(set-cookie, consent_analytics_storage, denied)
@@ -27009,6 +27020,7 @@ cuvva.com##+js(set-cookie, cuvva.app.website.cookie-policy.consent, 1)
 empik.com##+js(set-cookie, cvc, true)
 againstdata.com##+js(set-cookie, dad_consent, true)
 daimant.co##+js(set-cookie, daimant_collective, accept, , reload, 1)
+daltonmaag.com##+js(set-cookie, dama.cookieConsent, false)
 data-media.gr##+js(set-cookie, data-privacy-statement, true)
 debijenkorf.nl##+js(set-cookie, dbk_cookie_acceptance, declined)
 reservations.helveticmotion.ch##+js(set-cookie, decline, true, , , reload, 1)
@@ -27390,6 +27402,8 @@ heysummit.com##+js(set-cookie, hs_cookieconsent, true)
 hitech-gamer.com##+js(set-cookie, htg_consent, 0)
 shopilya.com##+js(set-cookie, hulkCookieBarClick, 1)
 huss-licht-ton.de##+js(set-cookie, huss_cookie_version, 1)
+|zapatos.*##+js(set-cookie, hw_cookie_law, 1)
+|zappatos.*##+js(set-cookie, hw_cookie_law, 1)
 unifachbuch.de##+js(set-cookie, i_c_a, true)
 unifachbuch.de##+js(set-cookie, i_cm_a, false)
 unifachbuch.de##+js(set-cookie, i_sc_a, false)
@@ -27758,6 +27772,7 @@ miceportal.com##+js(set-cookie, requierd_cookies, true)
 |schwanger-in-bayern.de##+js(set-cookie, required, 1)
 asdatyres.co.uk##+js(set-cookie, required_cookies_set, 1)
 flixclassic.pl##+js(set-cookie, rgp-gdpr-policy, 1)
+planetepluscanada.com##+js(set-cookie, rgpd, false, , reload, 1)
 lassociation.fr##+js(set-cookie, rgpdLassoCheck, 1)
 soell.gv.at##+js(set-cookie, ris_cookie_setting, -1)
 |algund.eu##+js(set-cookie, ris_cookie_setting, 1)
