@@ -5432,6 +5432,7 @@ cafonline.com##.caf-c-followbar
 cafonline.com##.caf-o-footer__socials
 cryptotvplus.com##.call-now-button
 iotsrg.org##.call-to-action
+briefly.co.za##.call_to_action
 u.today##.card__subscribe
 u.today##.card__wrap
 cricbuzz.com##.cb-social-td
@@ -47584,6 +47585,7 @@ treblezine.com##body,html:style(height: auto !important; overflow: auto !importa
 |pv-magazine.*##body,html:style(height: auto !important; overflow: auto !important)
 |afterbabel.com##+js(rc, has-intro-popup, html, stay)
 |americafirstreport.com##+js(rc, has-intro-popup, html, stay)
+|americasvoice.news##+js(rc, has-intro-popup, html, stay)
 |antiracismnewsletter.com##+js(rc, has-intro-popup, html, stay)
 |aporiamagazine.com##+js(rc, has-intro-popup, html, stay)
 |asiasentinel.com##+js(rc, has-intro-popup, html, stay)
@@ -47641,6 +47643,7 @@ treblezine.com##body,html:style(height: auto !important; overflow: auto !importa
 |wonkette.com##+js(rc, has-intro-popup, html, stay)
 |afterbabel.com##+js(rc, modal-in, html, stay)
 |americafirstreport.com##+js(rc, modal-in, html, stay)
+|americasvoice.news##+js(rc, modal-in, html, stay)
 |antiracismnewsletter.com##+js(rc, modal-in, html, stay)
 |aporiamagazine.com##+js(rc, modal-in, html, stay)
 |asiasentinel.com##+js(rc, modal-in, html, stay)
@@ -47698,6 +47701,7 @@ treblezine.com##body,html:style(height: auto !important; overflow: auto !importa
 |wonkette.com##+js(rc, modal-in, html, stay)
 |afterbabel.com##+js(rc, show-intro-popup, html, stay)
 |americafirstreport.com##+js(rc, show-intro-popup, html, stay)
+|americasvoice.news##+js(rc, show-intro-popup, html, stay)
 |antiracismnewsletter.com##+js(rc, show-intro-popup, html, stay)
 |aporiamagazine.com##+js(rc, show-intro-popup, html, stay)
 |asiasentinel.com##+js(rc, show-intro-popup, html, stay)
@@ -47755,6 +47759,7 @@ treblezine.com##body,html:style(height: auto !important; overflow: auto !importa
 |wonkette.com##+js(rc, show-intro-popup, html, stay)
 |afterbabel.com##.intro-popup
 |americafirstreport.com##.intro-popup
+|americasvoice.news##.intro-popup
 |antiracismnewsletter.com##.intro-popup
 |aporiamagazine.com##.intro-popup
 |asiasentinel.com##.intro-popup
@@ -47812,6 +47817,7 @@ treblezine.com##body,html:style(height: auto !important; overflow: auto !importa
 |wonkette.com##.intro-popup
 |afterbabel.com##div[class*="subscribeDialog-"]
 |americafirstreport.com##div[class*="subscribeDialog-"]
+|americasvoice.news##div[class*="subscribeDialog-"]
 |antiracismnewsletter.com##div[class*="subscribeDialog-"]
 |aporiamagazine.com##div[class*="subscribeDialog-"]
 |asiasentinel.com##div[class*="subscribeDialog-"]
@@ -47869,6 +47875,7 @@ treblezine.com##body,html:style(height: auto !important; overflow: auto !importa
 |wonkette.com##div[class*="subscribeDialog-"]
 |afterbabel.com##div[class^="background-"]
 |americafirstreport.com##div[class^="background-"]
+|americasvoice.news##div[class^="background-"]
 |antiracismnewsletter.com##div[class^="background-"]
 |aporiamagazine.com##div[class^="background-"]
 |asiasentinel.com##div[class^="background-"]
