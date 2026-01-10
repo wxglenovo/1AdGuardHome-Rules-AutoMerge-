@@ -1808,6 +1808,7 @@ infoq.com##.notice
 backpacker.com##.o-content-cta
 backpacker.com##.o-promo-module
 omgubuntu.co.uk##.omg-hero-button
+energypolicy.columbia.edu##.overall-notification
 edutopia.org##.overlay
 opb.org##.overlay-cta
 asuracomic.net##.p-4.z-50:has-text(Upgrade to)
@@ -1924,6 +1925,7 @@ loom.com##.signup-overlay_isCentered_2Al
 splashlearn.com##.signup_cta.tdi_90
 investopedia.com##.sim-promo
 creativefabrica.com##.single-banner-tier
+democracydocket.com##.site-footer
 propublica.org##.site-header__banner
 theguardian.com##.site-message--banner
 newsnow.co.uk##.site-ribbon
@@ -2136,7 +2138,7 @@ washingtonmonthly.com#?#.wp-block-group__inner-container:-abp-contains(Support t
 google.com##.Ryrdad:has-text(Please help us improve)
 developer.android.com##.devsite-snackbar-snack:has-text(Please help us)
 chromewebstore.google.com##[aria-describedby="promo-header"]:has-text(Switch to Chrome)
-www.google.com##[aria-describedby="promo_desc_id"]:has-text(/Time for a new laptop|Gemini, |Choose Chrome|built by Google|Search differently|Cherchez diffÃ©remment|Search just got easier|Try more ways|Switch to Chrome/)
+www.google.com##[aria-describedby="promo_desc_id"]:has-text(/Time for a new laptop|Gemini, |Choose Chrome|built by Google|Search differently|Cherchez diffÃ©remment|Search just got easier|Try more ways|Switch to Chrome|Keep things dark/)
 google.com##[jscontroller="HCSvae"]:has-text(Sign in to Google)
 chromewebstore.google.com##[role="dialog"][aria-labelledby="promo-header"]
 google.com##div[jsname="wA2P2b"]:has-text(How helpful were the results)
@@ -2203,6 +2205,7 @@ thespinoff.co.nz##.article-peep
 |citizentribune.com##.asset-paging-container
 |clintonherald.com##.asset-paging-container
 |coloradopolitics.com##.asset-paging-container
+|couriernews.com##.asset-paging-container
 |crossroadstoday.com##.asset-paging-container
 |csindy.com##.asset-paging-container
 |dailygazette.com##.asset-paging-container
@@ -17138,6 +17141,7 @@ sogeti.*###popup-cookieConsent
 |carletonvillemall.co.za##.cookie-notification
 |cosmomall.co.za##.cookie-notification
 |e-recharge.net##.cookie-notification
+|energypolicy.columbia.edu##.cookie-notification
 |eurotradefair.nl##.cookie-notification
 |iahsap.com##.cookie-notification
 |informationmagazine.com##.cookie-notification
@@ -44880,6 +44884,7 @@ blog.youtube##.yt-newsletter-toast
 |unifiedpatents.com##.yui-popup-container-node
 |ursulakleguin.com##.yui-popup-container-node
 |worldofreel.com##.yui-popup-container-node
+qz.com##.z-\[999999\].bg-black\/50
 culturemap.com##.z-newsletter
 sciencenews.org##.zephr-form-container
 bbc.com##.zephr-overlay
@@ -45351,6 +45356,7 @@ marieclaire.fr##.NewsletterBox
 |lifestyleasia.com##.subscription
 |livejournal.com##.subscription
 |news.bg##.subscription
+|democracydocket.com##.sign-up
 |iai.tv##.sign-up
 |loopchicago.com##.sign-up
 |loopnet.com##.sign-up
@@ -47477,9 +47483,12 @@ upworthy.com##.mailchimp-popup-upworthy
 upworthy.com##body:style(overflow: auto !important; position: initial !important;)
 sportskeeda.com##.newsletter-ui
 sportskeeda.com##body:style(overflow: auto !important; position: initial !important;)
-digital4.biz###hs-web-interactives-bottom-anchor
-digital4.biz###hs-web-interactives-top-anchor
-digital4.biz##body,html:style(overflow: auto !important; position: initial !important;)
+|democracydocket.com###hs-web-interactives-bottom-anchor
+|digital4.biz###hs-web-interactives-bottom-anchor
+|democracydocket.com###hs-web-interactives-top-anchor
+|digital4.biz###hs-web-interactives-top-anchor
+|democracydocket.com##body,html:style(overflow: auto !important; position: initial !important;)
+|digital4.biz##body,html:style(overflow: auto !important; position: initial !important;)
 jns.org###hs-web-interactives-top-anchor
 jns.org##body,html:style(overflow: auto !important; position: initial !important;)
 |brandingmag.com##.reveal-overlay
