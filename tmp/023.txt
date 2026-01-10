@@ -3818,6 +3818,7 @@ gardrops.com##.callToRegister2
 gardrops.com##.callToRegisterPopupWrapper
 milliyet.com.tr##.sticky
 ||ilan.gov.tr/widgets/$third-party
+@@||alp440.activehosted.com/f/embed.php$script,domain=openpeople.university
 @@||bibblio.org^*/bib-related-content.min.js$script,domain=hindawi.com
 @@||cdn.wisepops.com/shared/wisepops/$script,domain=bluecinema.ch
 @@||csm.cxpublic.com/Shueisha.js$domain=wpb.shueisha.co.jp
@@ -7124,6 +7125,7 @@ theshovel.com.au##.padding-top-small > .widgetizedArea:has-text(Like this)
 jacobin.com##.po-fr__heading:has-text(Share this article)
 lifenews.com##.post_style_zk > p:has-text(Please subscribe)
 newsroom.ucla.edu##.promo-card-muted:has-text(RSS feed)
+club386.com##.td-block-title:has-text(Share)
 tvblackbox.com.au##.tdm-descr:has-text(Share)
 cybersecuritynews.com##.tdm_block_button_simplified:has-text(Follow on LinkedIn)
 heritagedaily.com##.tds-button:has-text(FOLLOW ON GOOGLE NEWS)
@@ -45113,6 +45115,7 @@ ctpost.com##.px20.pb32:has-text(Sign up for)
 aarp.org##.recommendationSection:has-text(Newsletter)
 streetinsider.com##.right_pod:has-text(E-mail Address)
 wisegeek.com##.rounded-3xl:has-text(in your inbox)
+stackabuse.com##.rounded-lg:has-text(Improve your dev skills!)
 cjr.org##.row > .entry-content > p:has-text(daily newsletter)
 byteofdev.com##.shadow-xl.m-2.p-4:has-text(Sign up for email updates)
 emobilityplus.com##.sharedaddy
@@ -49718,9 +49721,11 @@ privacywall.org###myModal
 |amazon.ca###nav-app-banner-container
 |amazon.co.uk###nav-app-banner-container
 |amazon.com###nav-app-banner-container
+|amazon.com.au###nav-app-banner-container
 |amazon.de###nav-app-banner-container
 |amazon.es###nav-app-banner-container
 |amazon.fr###nav-app-banner-container
+|amazon.in###nav-app-banner-container
 |amazon.nl###nav-app-banner-container
 oneindia.com###open-app
 windy.com###open-in-app
