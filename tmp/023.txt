@@ -5822,7 +5822,8 @@ crypto.news##.google-news-banner
 coinedition.com##.google-news-block
 crypto.news##.google-news-button
 alarabiya.net##.google-news-callout
-glassalmanac.com##.google-news-card
+|dailygalaxy.com##.google-news-card
+|glassalmanac.com##.google-news-card
 |cybernews.com##.google-news-cta
 |sammobile.com##.google-news-cta
 quiverquant.com##.google-news-follow
@@ -6257,7 +6258,8 @@ beincrypto.com##.share-block
 pbs.org##.share-block-static
 ibtimes.co.in##.share-btn-wrp
 bylancer.com##.share-buttons-icons
-glassalmanac.com##.share-buttons-toggler
+|dailygalaxy.com##.share-buttons-toggler
+|glassalmanac.com##.share-buttons-toggler
 cknxnewstoday.ca##.share-buttons_buttons__V3uFu
 apptrigger.com##.share-capture
 cryptopolitan.com##.share-col
@@ -22732,6 +22734,7 @@ newsbreak.com##.py-2.px-2
 |mbelik.com##.cookie-container
 |mpt.mp.br##.cookie-container
 |oeh-wu.at##.cookie-container
+|pcm.ru##.cookie-container
 |postimees.ee##.cookie-container
 |privacy.com.br##.cookie-container
 |punchline-gloucester.com##.cookie-container
@@ -41130,7 +41133,6 @@ yoigo.com#@#thor-cookies
 @@||joska.com/typo3conf/ext/dsgvo_manager/Resources/Public/javascript/cookie-consent.js
 @@||jurga.lt/vendor/orestbida/cookieconsent/dist/cookieconsent.umd.js$~third-party
 @@||khl.ru^*/cookieconsent.min.js
-@@||kleinanzeigen.de/gdpr/$~third-party
 @@||kontostand.at/WebportalAPK/js/cookie-banner.js$~third-party
 @@||krainz-loipersdorf.at/statics/js/cookieconsent.js$~third-party
 @@||kuechencenterweber.de/js/cookiebanner.js$~third-party
@@ -43199,6 +43201,7 @@ spotlightpa.org##.ga\:component\:main\:sidebar\:top\:promo-image
 housefresh.com##.gb-container-20db77c8
 crisismagazine.com##.gb-container-6d731b3a
 housefresh.com##.gb-container-bc87a424
+dailygalaxy.com##.gb-element-27df9619
 quadraphonicquad.com##.gb-reg-modal-overlay
 gcaptain.com##.gcaptain-subscribe-modal
 goodreturns.in##.gd-newsletter-subscribe-box-outer
