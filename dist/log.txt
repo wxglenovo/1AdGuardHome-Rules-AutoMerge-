@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-01-11T22:06:29.861Z
+🚫 去掉注释行: ! Last modified: 2026-01-12T00:31:41.634Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v1.0.38
 🚫 去掉注释行: !
@@ -1567,10 +1567,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 93694
-🚫 去掉注释行: ! Checksum: pjZN68l6QNjXcjEzQdmPWg
-🚫 去掉注释行: ! Version: 202601112331
+🚫 去掉注释行: ! Checksum: 0ukHylX0ucYVEZX8EIExmA
+🚫 去掉注释行: ! Version: 202601120111
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 11 Jan 2026 23:31 UTC
+🚫 去掉注释行: ! Last modified: 12 Jan 2026 01:11 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -24539,10 +24539,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: LjtTweY1wxm2qwzPTRVILg
-🚫 去掉注释行: ! Version: 202601112331
+🚫 去掉注释行: ! Checksum: c9SewmSON54VqKaJAA/RDw
+🚫 去掉注释行: ! Version: 202601120111
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 11 Jan 2026 23:31 UTC
+🚫 去掉注释行: ! Last modified: 12 Jan 2026 01:11 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -26214,7 +26214,7 @@
 ✅ 多域名拆分: 18avtube.com,mm-cg.com##.CN_qmvtoy
     → |18avtube.com##.CN_qmvtoy
     → |mm-cg.com##.CN_qmvtoy
-✅ 多域名拆分: 52fzwg.com,79tao.com,hqol.cn,icabbs.com,k7d.com,kxdao.net,sunwy.org,twunbbs.com,wnflb.com,wnflb2023.com,wnflb66.com,xkeba.com,zn513.cc##.GzList
+✅ 多域名拆分: 52fzwg.com,79tao.com,hqol.cn,icabbs.com,k7d.com,kxdao.net,sunwy.org,twunbbs.com,wnflb.com,wnflb2023.com,wnflb66.com,xkeba.com,zn524.cc##.GzList
     → |52fzwg.com##.GzList
     → |79tao.com##.GzList
     → |hqol.cn##.GzList
@@ -26227,7 +26227,7 @@
     → |wnflb2023.com##.GzList
     → |wnflb66.com##.GzList
     → |xkeba.com##.GzList
-    → |zn513.cc##.GzList
+    → |zn524.cc##.GzList
 ✅ 多域名拆分: price.com.hk,uwants.com##.MFV
     → |price.com.hk##.MFV
     → |uwants.com##.MFV
@@ -27826,7 +27826,7 @@
 ✅ 多域名拆分: mydrivers.com,wmzhe.com##a[href*=".jd.com/"]
     → |mydrivers.com##a[href*=".jd.com/"]
     → |wmzhe.com##a[href*=".jd.com/"]
-✅ 多域名拆分: 52movieba.com,acglala.cc,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cgown.com,cn163.net,comicat.org,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,touchgal.org,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
+✅ 多域名拆分: 52movieba.com,acglala.cc,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cgown.com,cn163.net,comicat.org,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,ifenpaidy.com,jitapu.com,jitashe.org,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,touchgal.org,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
     → |52movieba.com##a[href*=".taobao.com"]
     → |acglala.cc##a[href*=".taobao.com"]
     → |awaker.cn##a[href*=".taobao.com"]
@@ -27848,7 +27848,6 @@
     → |hggard.com##a[href*=".taobao.com"]
     → |hmghmg.com##a[href*=".taobao.com"]
     → |hmoe11.net##a[href*=".taobao.com"]
-    → |idanmu.ee##a[href*=".taobao.com"]
     → |ifenpaidy.com##a[href*=".taobao.com"]
     → |jitapu.com##a[href*=".taobao.com"]
     → |jitashe.org##a[href*=".taobao.com"]
@@ -29067,10 +29066,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: 3QZxgNrzbdQvFr/HKXZHqA
-🚫 去掉注释行: ! Version: 202601112331
+🚫 去掉注释行: ! Checksum: gGEayWZYdZVrcwrKLrBzNg
+🚫 去掉注释行: ! Version: 202601120111
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 11 Jan 2026 23:31 UTC
+🚫 去掉注释行: ! Last modified: 12 Jan 2026 01:11 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29765,11 +29764,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202601112337
+🚫 去掉注释行: ! Version: 202601120109
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 11 Jan 2026 23:37 UTC
+🚫 去掉注释行: ! Last modified: 12 Jan 2026 01:09 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: c36a287865ae5b67b1543ead57463370c2afea38
+🚫 去掉注释行: ! Commit: e0ff50b9eba278de3f8ea135f0df86196c93ca70
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -52741,11 +52740,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202601112337
+🚫 去掉注释行: ! Version: 202601120117
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 11 Jan 2026 23:37 UTC
+🚫 去掉注释行: ! Last modified: 12 Jan 2026 01:17 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: c36a287865ae5b67b1543ead57463370c2afea38
+🚫 去掉注释行: ! Commit: 410be68b5f2c04fddbd0e6b95b5750db9fae289a
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -68750,7 +68749,7 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !生成时间: 2026-01-12 07:36:43
+🚫 去掉注释行: !生成时间: 2026-01-12 07:48:27
 🚫 去掉注释行: !有效规则数目: 1476789
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
@@ -153276,9 +153275,9 @@
 🚫 去掉注释行: ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 🚫 去掉注释行: ! Homepage: https://github.com/217heidai/adblockfilters
 🚫 去掉注释行: ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-🚫 去掉注释行: ! Version: 20260112000909
-🚫 去掉注释行: ! Last modified: 2026/01/12 00:09:09
-🚫 去掉注释行: ! Blocked domains: 4642
+🚫 去掉注释行: ! Version: 20260112083656
+🚫 去掉注释行: ! Last modified: 2026/01/12 08:36:56
+🚫 去掉注释行: ! Blocked domains: 4641
 🚫 去掉注释行: ! unBlocked domains: 15
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Checksum: EWdwmWIaRxMRniFtwV2Ncw
