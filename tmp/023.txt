@@ -45485,6 +45485,7 @@ marieclaire.fr##.NewsletterBox
 |aeon.co##.newsletter-signup
 |asmartbear.com##.newsletter-signup
 |bookriot.com##.newsletter-signup
+|breakingdefense.com##.newsletter-signup
 |carsguide.com.au##.newsletter-signup
 |christianitytoday.com##.newsletter-signup
 |citiblog.co.uk##.newsletter-signup
@@ -45535,6 +45536,7 @@ marieclaire.fr##.NewsletterBox
 |ktvu.com##.newsletter-signup
 |livescience.com##.newsletter-signup
 |local10.com##.newsletter-signup
+|medcitynews.com##.newsletter-signup
 |morningstar.com.au##.newsletter-signup
 |motherjones.com##.newsletter-signup
 |mynbc5.com##.newsletter-signup
@@ -47600,6 +47602,8 @@ cjr.org##html:style(overflow: auto !important; position: initial !important;)
 coinbase.com##+js(set-cookie, bytes_signup_modal_viewed, 1)
 cnn.com##.bx-impress
 cnn.com##html:style(overflow: auto !important; position: initial !important;)
+medcitynews.com##.ekalaka-campaign
+medcitynews.com##body,html:style(height: auto !important; overflow: auto !important)
 worldcrunch.com##*:style(filter: none !important)
 worldcrunch.com##body,html:style(height: auto !important; overflow: auto !important)
 worldcrunch.com##div[id*="snewsletter-popup-MailChimp_"]
