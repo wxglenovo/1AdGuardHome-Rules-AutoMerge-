@@ -18545,6 +18545,7 @@ stokrotka.pl###cboxWrapper
 |tomba.io##.gdpr
 |ezviz.com##.gdpr-wrapper
 |hikvision.com##.gdpr-wrapper
+|ria.com##.gdpr-wrapper
 |agegeek.com###GDPR
 |bit-tech.net###GDPR
 |evanews.eu###GDPR
@@ -38882,6 +38883,7 @@ fialkaspb.ru##.bottom__cookie_block
 bitrix24.ru##.bx-main-cookie-policy-sidebar
 tvguru.ru##.c-modal
 apteka-april.ru##.c-notices > .hasButton.c-notice
+ria.com##.c-notifier-container
 blablacar.ru##.cCPiMF
 |marchgroup.ru##.cbar
 |severstal-avia.ru##.cbar
@@ -51028,6 +51030,9 @@ bestbuy.com##body:style(margin-top:0px !important)
 |asia.nikkei.com##body:style(height: auto !important; overflow: auto !important)
 |businesspost.ie##body:style(height: auto !important; overflow: auto !important)
 |rappler.com##body:style(height: auto !important; overflow: auto !important)
+levels.fyi##.download-app-promo-module-scss-module__g5Zuta__downloadAppPromoContent
+levels.fyi##.modal-module-scss-module__jIc2SW__overlay
+levels.fyi##body:style(overflow: auto !important; position: initial !important;)
 google.com##+js(set-local-storage-item, mapslitepromosdismissed, 1)
 behance.net##.PrimaryNav-appLinkContainer-bhx
 behance.net##.js-vue-mobile-app-upsell
