@@ -17987,6 +17987,7 @@ browsershots.org#@#.advert_area
 ||gnweykgfnrqwg.net^
 ||gnxszedepbbef.online^
 ||gnxzfqmoyvvjt.website^
+||gnylrhejoejyesm.com^
 ||gnzfwmyurtkii.website^
 ||go-g3t-push.net^
 ||go-g3t-s0me.net^
@@ -42536,6 +42537,7 @@ browsershots.org#@#.advert_area
 ||uommyhvsmzozp.website^
 ||uoolxh3g7ntj85o.cfd^
 ||uooumilwtodnh.website^
+||uoptxvqdacicy.space^
 ||uopvpepvmrepe.website^
 ||uorksewkwesln.space^
 ||uoutube.com^
@@ -42720,6 +42722,7 @@ browsershots.org#@#.advert_area
 ||usainoad.net^
 ||usaraexturb.cfd^
 ||usbrowserspeed.com^
+||uscahcjmcjyuj.space^
 ||usckthgqdbflv.site^
 ||usdjhvbme.com^
 ||usdspxxgwqqzn.online^
@@ -44901,6 +44904,7 @@ browsershots.org#@#.advert_area
 ||wideorganizati.com^
 ||wideprophetbeast.com^
 ||widespreadcomponent.com^
+||widestcarter.qpon^
 ||widgetbucks.com^
 ||widgetly.com^
 ||widiaoexhe.top^
@@ -57199,6 +57203,7 @@ browsershots.org#@#.advert_area
 ||youtube.com/get_video_info?*adunit$~third-party
 @@||jetzt.de^$generichide
 /^https?:\/\/www\.[0-9a-z]{8,}\.com\/[0-9a-z]{1,4}\.js$/$script,third-party,domain=dood.la|dood.pm|dood.sh|dood.so|dood.to|dood.watch|dood.ws
+/\.gsmarena\.com\/[0-9]+\.[a-z]+\?s?Search=/$xmlhttprequest,domain=gsmarena.com
 ||raw.githubusercontent.com/easylist/easylist/master/docs/1x1.gif
 ||raw.githubusercontent.com/easylist/easylist/master/docs/2x2.png$third-party
 testpages.eyeo.com*js/test-script-regex
@@ -68072,7 +68077,6 @@ cars.com##[id$="-sponsored"]
 lolalytics.com##[id$=":inline"]
 bridgebase.com##[id*="_ad"]
 homedepot.com##[id*="sponsored"]
-gsmarena.com##[id][style="display: block;"]
 80.lv##[id^="Image_bner_"]
 ldoceonline.com##[id^="ad_contentslot"]
 |bestbuy.ca##[id^="atwb-ninja-carousel"]
