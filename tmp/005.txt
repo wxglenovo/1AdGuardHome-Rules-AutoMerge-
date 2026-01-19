@@ -50577,6 +50577,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||allocine.fr/_/geolocalize
 ||analytics.allovoisins.com^
 ||analytics.clubic.com^
+||api.bookvillage.app/analytics/track
 ||api.doctolib.fr/nr_insert_
 ||api.odysee.com/locale/get
 ||api.ouedkniss.com^*&xTrackId=
@@ -50591,7 +50592,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||cesu.urssaf.fr/clm10
 ||clubic.com/tview
 ||compteur.developpez.com^
-||courrierinternational.com/*&vtag=
+||courrierinternational.com/*.pa.js
 ||datalayer.orange.fr^
 ||dd.bellesdemeures.com^
 ||dd.leboncoin.fr^
@@ -50674,8 +50675,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||lecho.be/fb2?
 ||lecho.be/tag/tag-
 ||ledevoir.com/js/pianoAnalyticsTags.js
-||lemonde.fr/*&cts=
-||lemonde.fr/*&stc=
+||lemonde.fr/*.pa.js
 ||lemonde.fr/bucket/*/tagistan.
 ||lemonde.fr^$ping
 ||leparking-moto.fr/jsV155/Tracker.js
