@@ -1182,7 +1182,6 @@ jns.org###XZSCFLEW
 edutopia.org###accountmodal
 investors.com###action_insert_15511419671934590
 texasobserver.org###adDonate
-forward.com###after-post-content-widget-wrapper
 knowablemagazine.org###alerts
 |gardinerbryant.com###announcement-bar-root
 |therage.co###announcement-bar-root
@@ -1857,6 +1856,7 @@ processengineering.co.uk##.promo--small
 knowablemagazine.org##.promo-article-dark
 carsandbids.com##.promo-bar
 lmtribune.com##.promo-button
+forward.com##.promo-carousel
 |herald-dispatch.com##.promo-designer-modal
 |oleantimesherald.com##.promo-designer-modal
 thesaturdaypaper.com.au##.promo-footer-strap-wrapper
@@ -2017,9 +2017,7 @@ internationalliving.com##.top-0.bg-deep-sea\/default
 curseforge.com##.top-banner
 |aliexpress.com##.top-banner-container
 |aliexpress.us##.top-banner-container
-forward.com##.top-banner-desktop
 crypto.com##.top-banner__item
-healthday.com##.top-bar-promo
 jfrog.com##.top-fixed-stripe
 thestayathomechef.com##.top-hat
 banggood.com##.top-item
@@ -6963,6 +6961,7 @@ apa.org##.vertical-icon-bar
 videogameschronicle.com##.vgc-branding__container > ul
 videogameschronicle.com##.vgc-socialshare
 ms.now##.video-details__social-share-menu
+healthday.com##.video-story-m_share__d27z7
 natlawreview.com##.view-footer
 motorsport.tv##.vjs-icons-bar
 dailymail.co.uk##.vjs-social-controls
@@ -26021,6 +26020,7 @@ bitbucket.io##+js(set-cookie, atl-gdpr-consent, 0010000)
 ggsport.live##+js(set-cookie, auth.userConsent, 1, , reload, 1)
 autobassadone.fi##+js(set-cookie, av-cookieConsent, false)
 airwallex.com##+js(set-cookie, awx_cookie_consent, true)
+leguidedufromage.com##+js(set-cookie, bandeaucookies, 1)
 |karriere-hamburg.de##+js(set-cookie, banner, 2, , reload, 1)
 |lokalplus.nrw##+js(set-cookie, banner, 2, , reload, 1)
 galaxy.com##+js(set-cookie, bannerDissmissal, true, ,reload, 1)
@@ -28132,6 +28132,7 @@ octopusenergy.es##+js(set-cookie, switchCookies, 1)
 |posterstore.nz##+js(set-cookie, synapse-cookie-preferences-set, true)
 |posterstore.pl##+js(set-cookie, synapse-cookie-preferences-set, true)
 |posterstore.se##+js(set-cookie, synapse-cookie-preferences-set, true)
+magyarorszag.hu##+js(set-cookie, szuf_consent, 0)
 developer.nintendo.com##+js(set-cookie, tGoogleAnalytics, disabled)
 m.twitch.tv##+js(set-cookie, tachyon-accepted-cookie-notice, true)
 |booking.reederei-zingst.de##+js(set-cookie, targeting, false)
@@ -28188,6 +28189,7 @@ beinsports.com##+js(set-cookie, use_cookie, 1)
 athletic-club.eus##+js(set-cookie, user-accepted-AEPD-cookies, 1)
 smartfilmbase.se##+js(set-cookie, user-cookies-set, 1)
 app.aave.com##+js(set-cookie, userAcceptedAnalytics, false)
+leguidedufromage.com##+js(set-cookie, userConsent, all)
 manutd.com##+js(set-cookie, userConsentCookiePolicy, off)
 climatecentral.org##+js(set-cookie, userCookieConsent, true)
 eatsalad.com##+js(set-cookie, userCookies, true)
@@ -28569,7 +28571,8 @@ adfilteringdevsummit.com##+js(set-local-storage-item, acceptCookies, no)
 app.bionic-reading.com##+js(set-local-storage-item, accept_all_cookies, false)
 vietjetair.com##+js(set-local-storage-item, accept_cookie_policy, true)
 lifesum.com##+js(set-local-storage-item, accepted-cookies, [])
-ef.co.id##+js(set-local-storage-item, accepted-cookies, true)
+|app.standards.site##+js(set-local-storage-item, accepted-cookies, true)
+|ef.co.id##+js(set-local-storage-item, accepted-cookies, true)
 grass.io##+js(set-local-storage-item, acceptedAllCookies, false)
 |blommerscoffee.shipping-portal.com##+js(set-local-storage-item, acceptedCookies, false)
 |helium.com##+js(set-local-storage-item, acceptedCookies, false)
@@ -46018,7 +46021,6 @@ idealista.pt##.newsletter-subscription-form
 |hausgeraete-test.de##.newsletter
 |hcb.net##.newsletter
 |hdwallpapers.in##.newsletter
-|healthday.com##.newsletter
 |heimwerker-test.de##.newsletter
 |hifitest.de##.newsletter
 |historic-uk.com##.newsletter
@@ -46535,6 +46537,7 @@ citoyens.com###nlsubscribe
 croq-kilos.com###popinCK
 sanctuary.fr###popup_actu
 la-croix.com###showAutoPromoReasons
+inc-conso.fr###sliding-popup-news
 brgm.fr###spb-block-popinnewsletter
 zdnet.fr###zdnet_newsletter_inread
 lopinion.fr##.PromoFooter
@@ -46563,6 +46566,7 @@ toutelanutrition.com##.musthave-right
 lorientlejour.com##.newsletter-box-container
 toulouscope.fr##.newsletter-popin-overlay
 lematin.ma##.newsletterPopupBtn
+leguidedufromage.com##.newsletter_subscribeme
 closermag.fr##.newsletter_widget
 repasdelice.com##.newslettreastuce
 leparisien.fr##.nl-article-card
@@ -47084,7 +47088,6 @@ nationalgeographic.com##+js(aeld, scroll)
 nationalgeographic.com##.EmailStickyFooter__Modal
 nationalgeographic.com##body:style(overflow: auto !important; position: initial !important;)
 medium.com##+js(aeld, scroll)
-|forward.com##.tp-backdrop
 |monroenews.com##.tp-backdrop
 |nationalobserver.com##.tp-backdrop
 |npr.org##.tp-backdrop
@@ -47092,7 +47095,6 @@ medium.com##+js(aeld, scroll)
 |thebulletin.org##.tp-backdrop
 |vice.com##.tp-backdrop
 |washingtontimes.com##.tp-backdrop
-|forward.com##.tp-modal
 |monroenews.com##.tp-modal
 |nationalobserver.com##.tp-modal
 |npr.org##.tp-modal
@@ -47100,7 +47102,6 @@ medium.com##+js(aeld, scroll)
 |thebulletin.org##.tp-modal
 |vice.com##.tp-modal
 |washingtontimes.com##.tp-modal
-|forward.com##body:style(height: auto !important; overflow: auto !important)
 |monroenews.com##body:style(height: auto !important; overflow: auto !important)
 |nationalobserver.com##body:style(height: auto !important; overflow: auto !important)
 |npr.org##body:style(height: auto !important; overflow: auto !important)
