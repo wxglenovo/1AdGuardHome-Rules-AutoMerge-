@@ -14942,6 +14942,7 @@ chicco.co.uk##.cookie-pop-up-wrapper
 slidelizard.com##.cookie-popup-dialog
 revolutionrace.com##.cookie-popup__content
 |acquire.io##.cookie-popup_component
+|adelphi.ai##.cookie-popup_component
 |brkfree.com##.cookie-popup_component
 |casey-tanner.com##.cookie-popup_component
 |dfine.at##.cookie-popup_component
@@ -28883,6 +28884,7 @@ metamask.io##+js(set-local-storage-item, privacyModalSeen, true)
 pixeden.com##+js(set-local-storage-item, pxdn_cookie_consent, true)
 greubelforsey.com##+js(set-local-storage-item, rgpd.consent, 1)
 theroom.lol##+js(set-local-storage-item, room-welcome-ack-v1, 1)
+rudderstack.com##+js(set-local-storage-item, rudderstack_cookie_consent, true)
 app.klarna.com##+js(set-local-storage-item, safe-storage/v1/tracking-consent/trackingConsentAdvertisingKey, false)
 app.klarna.com##+js(set-local-storage-item, safe-storage/v1/tracking-consent/trackingConsentAnalyticsKey, false)
 app.klarna.com##+js(set-local-storage-item, safe-storage/v1/tracking-consent/trackingConsentMarketingKey, false)
@@ -43999,6 +44001,7 @@ thegazette.com##.newsletter_sign_up_page_breaker
 |eater.com##.newsletter_signup
 |shakira.com##.newsletter_signup
 thenationalnews.com##.newsletter_subscribe_container
+leguidedufromage.com##.newsletter_subscribeme
 themoscowtimes.com##.newsletterbanner
 |christiantoday.com##.newsletterbox
 |lanacion.com.ar##.newsletterbox
