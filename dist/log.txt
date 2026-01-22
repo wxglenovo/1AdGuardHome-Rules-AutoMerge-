@@ -1571,10 +1571,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 96173
-🚫 去掉注释行: ! Checksum: k84190tg1RCfxVgSHiKUUw
-🚫 去掉注释行: ! Version: 202601222201
+🚫 去掉注释行: ! Checksum: vxZb0QZQpI73oGdi9BCHGg
+🚫 去掉注释行: ! Version: 202601222231
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 22 Jan 2026 22:01 UTC
+🚫 去掉注释行: ! Last modified: 22 Jan 2026 22:31 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -15951,9 +15951,6 @@
     → |kob.com###Header_1
     → |kstp.com###Header_1
     → |whec.com###Header_1
-✅ 多域名拆分: cnet.com,medicalnewstoday.com###MyFiAd
-    → |cnet.com###MyFiAd
-    → |medicalnewstoday.com###MyFiAd
 ✅ 多域名拆分: puzzle-aquarium.com,puzzle-minesweeper.com,puzzle-nonograms.com,puzzle-skyscrapers.com###Skyscraper
     → |puzzle-aquarium.com###Skyscraper
     → |puzzle-minesweeper.com###Skyscraper
@@ -18834,19 +18831,14 @@
     → |crmbuyer.com##.content-tab-slinks
     → |ectnews.com##.content-tab-slinks
     → |technewsworld.com##.content-tab-slinks
-✅ 多域名拆分: greatist.com,healthline.com,medicalnewstoday.com,psychcentral.com##.css-1cg0byz
-    → |greatist.com##.css-1cg0byz
-    → |healthline.com##.css-1cg0byz
-    → |medicalnewstoday.com##.css-1cg0byz
-    → |psychcentral.com##.css-1cg0byz
 ✅ 多域名拆分: startpage.com,startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion##.css-1j5r2ie
     → |startpage.com##.css-1j5r2ie
     → |startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion##.css-1j5r2ie
-✅ 多域名拆分: greatist.com,healthline.com,medicalnewstoday.com,psychcentral.com##.css-20w1gi
-    → |greatist.com##.css-20w1gi
-    → |healthline.com##.css-20w1gi
-    → |medicalnewstoday.com##.css-20w1gi
-    → |psychcentral.com##.css-20w1gi
+✅ 多域名拆分: greatist.com,healthline.com,medicalnewstoday.com,psychcentral.com##.css-pp6cpn
+    → |greatist.com##.css-pp6cpn
+    → |healthline.com##.css-pp6cpn
+    → |medicalnewstoday.com##.css-pp6cpn
+    → |psychcentral.com##.css-pp6cpn
 ✅ 多域名拆分: amateurphotographer.com,cryptoslate.com,techspot.com##.cta
     → |amateurphotographer.com##.cta
     → |cryptoslate.com##.cta
@@ -19678,9 +19670,6 @@
     → |radio.pl##.my-\[5px\].mx-auto.w-full.hidden.md\:flex.md\:min-h-\[90px\].lg\:min-h-\[250px\].items-center.justify-center
     → |radio.pt##.my-\[5px\].mx-auto.w-full.hidden.md\:flex.md\:min-h-\[90px\].lg\:min-h-\[250px\].items-center.justify-center
     → |radio.se##.my-\[5px\].mx-auto.w-full.hidden.md\:flex.md\:min-h-\[90px\].lg\:min-h-\[250px\].items-center.justify-center
-✅ 多域名拆分: cnet.com,healthline.com##.myFinance-ad-unit
-    → |cnet.com##.myFinance-ad-unit
-    → |healthline.com##.myFinance-ad-unit
 ✅ 多域名拆分: greatist.com,psychcentral.com##.myFinance-widget
     → |greatist.com##.myFinance-widget
     → |psychcentral.com##.myFinance-widget
@@ -21035,11 +21024,6 @@
     → |healthline.com##[data-testid="header-leaderboard"]
     → |medicalnewstoday.com##[data-testid="header-leaderboard"]
     → |psychcentral.com##[data-testid="header-leaderboard"]
-✅ 多域名拆分: greatist.com,healthline.com,medicalnewstoday.com,psychcentral.com##[data-testid="sponsored-bar"]
-    → |greatist.com##[data-testid="sponsored-bar"]
-    → |healthline.com##[data-testid="sponsored-bar"]
-    → |medicalnewstoday.com##[data-testid="sponsored-bar"]
-    → |psychcentral.com##[data-testid="sponsored-bar"]
 ✅ 多域名拆分: manomano.co.uk,manomano.de,manomano.es,manomano.fr,manomano.it##[data-testid="spr-brd-banner"]
     → |manomano.co.uk##[data-testid="spr-brd-banner"]
     → |manomano.de##[data-testid="spr-brd-banner"]
@@ -24561,10 +24545,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: hWKc4orW+O3jhkdtEz9x9w
-🚫 去掉注释行: ! Version: 202601222201
+🚫 去掉注释行: ! Checksum: KmCo5ryFATTrN+mNnUrPtQ
+🚫 去掉注释行: ! Version: 202601222231
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 22 Jan 2026 22:01 UTC
+🚫 去掉注释行: ! Last modified: 22 Jan 2026 22:31 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29106,10 +29090,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: tqnyqbBzwDHEMYphqNhhPQ
-🚫 去掉注释行: ! Version: 202601222201
+🚫 去掉注释行: ! Checksum: UusHdr96fMgyAltwX+F15w
+🚫 去掉注释行: ! Version: 202601222231
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 22 Jan 2026 22:01 UTC
+🚫 去掉注释行: ! Last modified: 22 Jan 2026 22:31 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29805,11 +29789,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202601222212
+🚫 去掉注释行: ! Version: 202601222232
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 22 Jan 2026 22:12 UTC
+🚫 去掉注释行: ! Last modified: 22 Jan 2026 22:32 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 82ac42337cd6d1511015732c3bebe60d4053f052
+🚫 去掉注释行: ! Commit: eae840a98dce6a188d2d115e042175e38fcf2a09
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -52783,11 +52767,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202601222212
+🚫 去掉注释行: ! Version: 202601222232
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 22 Jan 2026 22:12 UTC
+🚫 去掉注释行: ! Last modified: 22 Jan 2026 22:32 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 82ac42337cd6d1511015732c3bebe60d4053f052
+🚫 去掉注释行: ! Commit: eae840a98dce6a188d2d115e042175e38fcf2a09
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -68808,8 +68792,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !生成时间: 2026-01-23 05:53:05
-🚫 去掉注释行: !有效规则数目: 1511903
+🚫 去掉注释行: !生成时间: 2026-01-23 06:23:39
+🚫 去掉注释行: !有效规则数目: 1511914
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
@@ -148361,10 +148345,10 @@
 🚫 去掉注释行: ! Blocked domains: 4680
 🚫 去掉注释行: ! unBlocked domains: 15
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: NHsPZgTn/Yzd/Ddv23LWlQ
-🚫 去掉注释行: ! Version: 202601222050
+🚫 去掉注释行: ! Checksum: HzMCJwacnAJdW6x0CkxDXA
+🚫 去掉注释行: ! Version: 202601222200
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-01-22 20:50 UTC
+🚫 去掉注释行: ! Last modified: 2026-01-22 22:00 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -161035,6 +161019,9 @@
     → |amazon.sa###Share
     → |amazon.se###Share
     → |amazon.sg###Share
+✅ 多域名拆分: naturalnews.com,newstarget.com###ShareRow
+    → |naturalnews.com###ShareRow
+    → |newstarget.com###ShareRow
 ✅ 多域名拆分: 9to5google.com,9to5mac.com,dronedj.com,electrek.co###after_disclaimer_placement
     → |9to5google.com###after_disclaimer_placement
     → |9to5mac.com###after_disclaimer_placement
@@ -243830,5 +243817,5 @@
 ✅ HOSTS 转换: 127.0.0.1 zqtk.net → |zqtk.net^
 ✅ HOSTS 转换: 127.0.0.1 zzhc.vnet.cn → |zzhc.vnet.cn^
 🚫 去掉注释行: ! 生成时间: 自动构建
-🚫 去掉注释行: ! 原始规则数: 216927
-🚫 去掉注释行: ! 压缩后规则数: 216927
+🚫 去掉注释行: ! 原始规则数: 216930
+🚫 去掉注释行: ! 压缩后规则数: 216930
