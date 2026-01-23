@@ -49826,6 +49826,7 @@ filmora.wondershare.jp###appboxWrapper
 brandeli.com###appbuner
 bing.com###b_pole
 dtac.co.th###banner_dtacapp
+nzpost.co.nz###block-applaunchbanner
 linkedin.com###blocking-upsell-modal
 looopings.nl###blogAppbox
 gadgets360.com###bnotify
@@ -50302,6 +50303,7 @@ pizzahut.co.nz##.promote-app
 beermenus.com##.pure-button-round
 |azscore.com##.pwa-popup__wrapper
 |bescore.com##.pwa-popup__wrapper
+safeswim.org.nz##.px-10:has-text(Download it now)
 hostelworld.com##.qr-wrapper
 quora.com##.qu-bg--blue.qu-full
 x.com##.r-13qz1uu.r-1xcajam:has-text(See more on)
@@ -51095,6 +51097,8 @@ behance.net##.js-vue-mobile-app-upsell
 behance.net##body,html:style(overflow: auto !important; position: initial !important;)
 m.economictimes.com##+js(set-session-storage-item, nudgeStickyBannerHide, true)
 mypenndentist.org##+js(set-cookie, undefinedpopup-pdfpcouponoffer, 1)
+rottentomatoes.com##body,html:style(height: auto !important; overflow: auto !important)
+rottentomatoes.com##overlay-base
 ifunny.co##.aq4y._0sJI
 ifunny.co##body,html:style(overflow: auto !important; position: initial !important;)
 crunchbase.com##+js(set-local-storage-item, entity-limiter-views, $remove$)
