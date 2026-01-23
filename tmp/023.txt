@@ -17715,6 +17715,7 @@ bossautoukraine.com.ua##[class^="style_container__"]
 |eduroam.ba##.usn-notification
 |ewswa.org##.usn-notification
 |getselfhelp.co.uk##.usn-notification
+|haltonpolice.ca##.usn-notification
 |lethbridge.ca##.usn-notification
 |merthyr.ac.uk##.usn-notification
 |mfy.org.uk##.usn-notification
@@ -28705,6 +28706,7 @@ unisa.ac.za##+js(set-local-storage-item, cookieConsent, essential)
 |unmute.sh##+js(set-local-storage-item, cookieConsent, false)
 |varusteleka.com##+js(set-local-storage-item, cookieConsent, false)
 notthebee.com##+js(set-local-storage-item, cookieConsent, granted)
+|axionnews.live##+js(set-local-storage-item, cookieConsent, true)
 |comnet.com.tr##+js(set-local-storage-item, cookieConsent, true)
 |cricketgully.com##+js(set-local-storage-item, cookieConsent, true)
 |estrelabet.bet.br##+js(set-local-storage-item, cookieConsent, true)
@@ -50366,6 +50368,7 @@ hs.fi##.toast__background--app-marketing
 hotsale.ge##.top-banner-app
 thehindu.com##.top-bar
 zaim.net##.top-fix
+linkedin.com##.top-level-modal-container:has-text(Get the full app experience)
 lightinthebox.com##.top_open_app
 fortnitetracker.com##.trn-site-appbar
 fortnitetracker.com##.trn-site-appbar__apps
