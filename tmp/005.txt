@@ -51667,6 +51667,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||agrointel.ro/ga.js
 ||agrointel.ro/track.js
 ||analytics.okazii.ro^
+||tracking-api.bookzone.ro^
 ||views.b1tv.ro^
 ||views.romaniatv.net^
 ||2ch.hk^*/tracker.js?
