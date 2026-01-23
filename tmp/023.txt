@@ -7150,6 +7150,7 @@ carnewschina.com##.article_detail__top_stories:has-text(Follow us for ev updates
 qodo.ai##.block-single-post__aside-heading:has-text(Share)
 gizmodo.com##.border-t-grey-200:has-text(Share this story)
 thedispatch.com##.border-y.py-2:has-text(Share)
+sfgate.com##.br4.deep.fdc:has-text(Google)
 sfchronicle.com##.br4.deep:has-text(Want more SF Chronicle)
 sfgate.com##.br4:has-text(Want more SFGATE?)
 appleinsider.com##.col-xs-12 > div:has-text(Follow AppleInsider)
@@ -15114,6 +15115,7 @@ cryptonews.net##.cookies_processing
 obarbershop.com##.cookies_section
 myplantin.com##.cookies_wrapper___zIeC
 erregame.com##.cookieshow
+businessairnews.com##.cookietab
 harmonyos.com##.cookietip
 stockstories.com##.cookis
 coop.co.uk##.coopssn-c-cookienotice
@@ -19222,6 +19224,7 @@ dryg.pl##div[class^="CookiesNoti"]
 |navicat.com##.consent-banner
 |nowtv.com.tr##.consent-banner
 |ring.com##.consent-banner
+|runwaygirlnetwork.com##.consent-banner
 |screencrush.com##.consent-banner
 |smarty.cz##.consent-banner
 |stromvergleich.de##.consent-banner
@@ -27889,6 +27892,7 @@ researchaffiliates.com##+js(set-cookie, ra-cookie-disclaimer-11-05-2022, true)
 |yourstorebox.com##+js(set-cookie, rcl_consent_given, true)
 bitscrunch.com##+js(set-cookie, rcl_marketing_consent, false)
 bitscrunch.com##+js(set-cookie, rcl_preferences_consent, true)
+sfgate.com##+js(set-cookie, realm.cookiesAndJavascript, true)
 miceportal.com##+js(set-cookie, requierd_cookies, true)
 |bayern-gegen-gewalt.de##+js(set-cookie, required, 1)
 |bayern.de##+js(set-cookie, required, 1)
@@ -44047,6 +44051,7 @@ hellomagazine.com##.newsletterClass_n1f72qdk
 inthesetimes.com##.newsletterForm
 livemint.com##.newsletterRHS
 diet.mayoclinic.org##.newsletterRightColBlog
+flightglobal.com##.newsletterSignup-widget
 bigislandnow.com##.newsletterSignupGrid
 petri.com##.newsletterWide
 usafacts.org##.newsletter__bg
@@ -44625,7 +44630,8 @@ bolavip.com##.subs-block
 unherd.com##.subs-modal
 holyrood.com##.subs-popup
 live-adexchanger.pantheonsite.io##.subsciption
-thesuburbansoapbox.com##.subscribe
+|businessairnews.com##.subscribe
+|thesuburbansoapbox.com##.subscribe
 3dprint.com##.subscribe--sidebar
 bookforum.com##.subscribe-ad__corner
 |countynewscenter.com##.subscribe-area
@@ -44858,6 +44864,7 @@ tp-link.com##.tp-follow-container
 crypto-news-flash.com##.tve-leads-shortcode
 breakingbelizenews.com##.tve-leads-slide-i
 drivencarguide.co.nz##.tw-text-white.tw-bg-gray-900
+tracxn.com##.txn--midpage-cta-wrapper-v4
 texasobserver.org##.txo-newsletter__outer
 wwd.com##.u-width-300.lrv-u-background-color-black
 alamocitygolftrail.com##.uabb-modal-parent-wrapper
