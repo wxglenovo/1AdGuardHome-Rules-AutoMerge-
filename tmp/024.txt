@@ -3729,7 +3729,8 @@ curacao.com##.gdprConsent
 mitac.com##.gdpr_block
 learnpick.in##.gdpr_holder
 zionsbank.com##.genesis-cookie-consent
-gamefound.com##.gfu-floating-message
+|gamefound.com##.gfu-floating-message
+|indiegogo.com##.gfu-floating-message
 gosugamers.net##.gg-css-77iu9o
 downloadcrew.com##.ginger_banner
 |burgerking.co.nz##.gkHgcP
@@ -5350,6 +5351,7 @@ sogeti.*###popup-cookieConsent
 |maldivealternative.com##.consent-banner-root
 |mariaspizza.ca##.consent-banner-root
 |miocomune.tv##.consent-banner-root
+|monetixads.com##.consent-banner-root
 |mysterium.network##.consent-banner-root
 |naturalia.it##.consent-banner-root
 |nbs-bouwmaterialen.nl##.consent-banner-root
@@ -6553,6 +6555,7 @@ stokrotka.pl###cboxWrapper
 |dervit.cz###cc-main
 |edb.cz###cc-main
 |edb.eu###cc-main
+|eufy.com###cc-main
 |exquisitetimepieces.com###cc-main
 |ferrari-tower.com###cc-main
 |foxsports.com.mx###cc-main
@@ -13089,7 +13092,9 @@ news.abs-cbn.com##.MuiBox-root:has-text(Welcome,)
 memefi.club##.MuiStack-root:has-text(Personalised ads)
 honeygain.com##.Wrapper--1lbmq00:has-text(This website uses cookies)
 bing.com##.b_hPanel:has-text(Terms of Use)
-sfgate.com##.bg-white.b-gray600.tpa:has-text(We use technologies that provide information)
+|chron.com##.bg-white.b-gray600.tpa:has-text(We use technologies that provide information)
+|sfchronicle.com##.bg-white.b-gray600.tpa:has-text(We use technologies that provide information)
+|sfgate.com##.bg-white.b-gray600.tpa:has-text(We use technologies that provide information)
 fairwinds.org##.bg-white.flex-col.flex.fixed:has-text(Your Privacy is Important to Us)
 ev-mallorca.com##.bottom-0.fixed:has-text(This website uses cookies)
 bcgame.lu##.bottom-16.fixed:has-text(We use cookies)
@@ -15571,6 +15576,7 @@ tedate.jp##.m-snackbar-notice
 insource.co.jp##.m_cookieBanner
 osaka-seitetu.co.jp##.mod_message
 predge.jp##.modal-gdpr
+nikkei.com##.modalStyle_modrqv7
 jma.or.jp##.modal_content
 jsps.go.jp##.notepanelWrap
 molnlycke.jp##.notifications
