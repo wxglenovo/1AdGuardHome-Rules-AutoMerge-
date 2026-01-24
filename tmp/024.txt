@@ -1756,8 +1756,10 @@ dotmetrics.net###cookie-snackbar-container
 hope.study###cookie-snackbar-popup
 startermotoralternator.com###cookie-status
 chowtaifook.com###cookie-tracking-notify
-|bitvavo.com###cookie-wall
-|faphouse.com###cookie-wall
+bitvavo.com###cookie-wall
+|faphouse.com###cookie-wall-short
+|faphouse1.com###cookie-wall-short
+|faphouse2.com###cookie-wall-short
 letsdothis.com###cookieAcceptanceModal
 511mt.net###cookieBannerHolder
 rsvp.withgoogle.com###cookieBarWrapper
@@ -1975,6 +1977,7 @@ kumc.edu###gdpr-popup
 food52.com###gdprBannerRoot
 sync.com###gdprConsent
 wallarm.com###gdpr_banner_container
+korg.com###gdpr_container
 |flooringfirst.co.uk###gdpr_cookie-mainWrapp
 |flooringsuppliescentre.co.uk###gdpr_cookie-mainWrapp
 fawesome.tv###gdpr_cookie_info_bar-wr
@@ -6531,6 +6534,7 @@ stokrotka.pl###cboxWrapper
 |aitum.tv###cc-main
 |aktivia.it###cc-main
 |andromede-cms.com###cc-main
+|anker-in.com###cc-main
 |anker.com###cc-main
 |any.run###cc-main
 |art.org###cc-main
@@ -13087,14 +13091,33 @@ x.com##.r-13qz1uu.r-tvv088.r-d9fdf6.r-1d7fvdj.r-18u37iz.r-1upvrn0.r-1m3jxhj.r-1a
 x.com##.r-13qz1uu.r-tvv088.r-d9fdf6.r-1d7fvdj.r-18u37iz.r-qo02w8.r-1m3jxhj.r-1awozwy.css-1dbjc4n
 x.com##.r-5kkj8d.r-153w4nv.r-1e4ma89.r-qq4cyc.css-175oi2r
 x.com##.rn-gvpnoh.rn-eps6nq.rn-13qz1uu
+tinder.com##.C\(\$c-ds-text-secondary\):has-text(We value your privacy.)
 primevideo.com##.DVWebNode-conditional-site-wide-wrapper:has([data-testid="consent-reject-all-endpoint"])
 news.abs-cbn.com##.MuiBox-root:has-text(Welcome,)
 memefi.club##.MuiStack-root:has-text(Personalised ads)
 honeygain.com##.Wrapper--1lbmq00:has-text(This website uses cookies)
 bing.com##.b_hPanel:has-text(Terms of Use)
+|beaumontenterprise.com##.bg-white.b-gray600.tpa:has-text(We use technologies that provide information)
 |chron.com##.bg-white.b-gray600.tpa:has-text(We use technologies that provide information)
+|ctpost.com##.bg-white.b-gray600.tpa:has-text(We use technologies that provide information)
+|expressnews.com##.bg-white.b-gray600.tpa:has-text(We use technologies that provide information)
+|greenwichtime.com##.bg-white.b-gray600.tpa:has-text(We use technologies that provide information)
+|houstonchronicle.com##.bg-white.b-gray600.tpa:has-text(We use technologies that provide information)
+|lmtonline.com##.bg-white.b-gray600.tpa:has-text(We use technologies that provide information)
+|manisteenews.com##.bg-white.b-gray600.tpa:has-text(We use technologies that provide information)
+|michigansthumb.com##.bg-white.b-gray600.tpa:has-text(We use technologies that provide information)
+|middletownpress.com##.bg-white.b-gray600.tpa:has-text(We use technologies that provide information)
+|mrt.com##.bg-white.b-gray600.tpa:has-text(We use technologies that provide information)
+|myjournalcourier.com##.bg-white.b-gray600.tpa:has-text(We use technologies that provide information)
+|myplainview.com##.bg-white.b-gray600.tpa:has-text(We use technologies that provide information)
+|mysanantonio.com##.bg-white.b-gray600.tpa:has-text(We use technologies that provide information)
+|nhregister.com##.bg-white.b-gray600.tpa:has-text(We use technologies that provide information)
+|ourmidland.com##.bg-white.b-gray600.tpa:has-text(We use technologies that provide information)
+|registercitizen.com##.bg-white.b-gray600.tpa:has-text(We use technologies that provide information)
 |sfchronicle.com##.bg-white.b-gray600.tpa:has-text(We use technologies that provide information)
 |sfgate.com##.bg-white.b-gray600.tpa:has-text(We use technologies that provide information)
+|stamfordadvocate.com##.bg-white.b-gray600.tpa:has-text(We use technologies that provide information)
+|theintelligencer.com##.bg-white.b-gray600.tpa:has-text(We use technologies that provide information)
 fairwinds.org##.bg-white.flex-col.flex.fixed:has-text(Your Privacy is Important to Us)
 ev-mallorca.com##.bottom-0.fixed:has-text(This website uses cookies)
 bcgame.lu##.bottom-16.fixed:has-text(We use cookies)
@@ -13134,6 +13157,7 @@ sniffies.com##.footer:has-text(By using our platform)
 play.google.com##.gb_g:has-text(cookie)
 twitch.tv##.hLgTAv:has-text(Terms of Sale)
 t3.chat##.justify-center.flex:has-text(Make sure you agree)
+repocket.com##.max-w-sm.z-10:has-text(We use third-party cookies)
 chatgpt.com##.md\:px-\[60px\]:has-text(By messaging ChatGPT)
 alohaprofile.com##.md\:right-\[40px\]:has-text(By continuing to use our site)
 planeteclipse.com##.notification:has-text(We use only essential cookies)
