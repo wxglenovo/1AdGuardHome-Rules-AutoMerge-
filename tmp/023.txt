@@ -16428,6 +16428,7 @@ fontspring.com##.user_notice
 |tipard.com##.usernotice_pop
 |videoproc.com##.usernotice_pop
 |vidmore.com##.usernotice_pop
+atlasroofing.com##.util-cookie-consent
 freewebstore.com##.utilities_grant_panel_show
 remax.com##.utility-container
 singtel.com##.ux-consent-banner
@@ -18464,6 +18465,7 @@ stokrotka.pl###cboxWrapper
 |byu.edu##.c--anim
 |cgmfinance.it##.c--anim
 |cira.ca##.c--anim
+|community.breathworks-mindfulness.org.uk##.c--anim
 |cubeshot.io##.c--anim
 |diderot.sk##.c--anim
 |earthday.org##.c--anim
@@ -28649,6 +28651,7 @@ gs1.se##+js(set-local-storage-item, allowFunctionalCookies, false)
 ecoints.com##+js(set-local-storage-item, allowed_cookies, true)
 markimicrowave.com##+js(set-local-storage-item, alreadyAcceptCookie, true)
 beermerchants.com##+js(set-local-storage-item, amCookieBarFirstShow, 1)
+avemaria.edu##+js(set-local-storage-item, amu_cookie_consent, 1)
 revanced.app##+js(set-local-storage-item, analytics, false)
 thai-novel.com##+js(set-local-storage-item, analytics-consent, accepted)
 puregoldprotein.com##+js(set-local-storage-item, analyticsAccepted, false)
@@ -41675,6 +41678,7 @@ yoigo.com#@#thor-cookies
 ||widgets.cpr.org/embeds/$domain=denverite.com
 ||wisepops.com^$domain=grist.org|prospect.org
 airlinegeeks.com###AGemailcapform
+avweb.com###AVWemailcapform
 3f-filippi.com###BannerNewsletter_Container
 newsmax.com###EmailSignupContainer
 |air1.com###FooterSignUp
