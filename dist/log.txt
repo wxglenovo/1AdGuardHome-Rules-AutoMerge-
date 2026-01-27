@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-01-27T00:31:51.688Z
+🚫 去掉注释行: ! Last modified: 2026-01-27T02:50:13.537Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v1.0.38
 🚫 去掉注释行: !
@@ -1575,10 +1575,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 96901
-🚫 去掉注释行: ! Checksum: f8wTQ7VssGUa4NNZk8LQPQ
-🚫 去掉注释行: ! Version: 202601270111
+🚫 去掉注释行: ! Checksum: uOgb3Sk/JU7crkpgjt31Wg
+🚫 去掉注释行: ! Version: 202601270311
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 27 Jan 2026 01:11 UTC
+🚫 去掉注释行: ! Last modified: 27 Jan 2026 03:11 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -17937,10 +17937,11 @@
 ✅ 多域名拆分: mid-day.com,radiocity.in##.advertisement-text
     → |mid-day.com##.advertisement-text
     → |radiocity.in##.advertisement-text
-✅ 多域名拆分: afternoondc.in,allmovie.com,allmusic.com,bolnews.com,gq.co.za,imageupscaler.com,mja.com.au,ocregister.com,online-convert.com,pornicom.com,premier.org.uk,premierchristianity.com,radio.com,sidereel.com,spine-health.com,yourdictionary.com##.advertising
+✅ 多域名拆分: afternoondc.in,allmovie.com,allmusic.com,betakit.com,bolnews.com,gq.co.za,imageupscaler.com,mja.com.au,ocregister.com,online-convert.com,pornicom.com,premier.org.uk,premierchristianity.com,radio.com,sidereel.com,spine-health.com,yourdictionary.com##.advertising
     → |afternoondc.in##.advertising
     → |allmovie.com##.advertising
     → |allmusic.com##.advertising
+    → |betakit.com##.advertising
     → |bolnews.com##.advertising
     → |gq.co.za##.advertising
     → |imageupscaler.com##.advertising
@@ -20625,11 +20626,12 @@
     → |topcartoons.tv##.widget_block
     → |usmagazine.com##.widget_block
     → |wiki-topia.com##.widget_block
-✅ 多域名拆分: 4sysops.com,activistpost.com,aftvnews.com,arcadepunks.com,corrosionhour.com,corvetteblogger.com,dcrainmaker.com,discover.is,elhayat-life.com,gamingonphone.com,girgitnews.com,gizmochina.com,guides.wp-bullet.com,inews.co.uk,macsources.com,manhuatop.org,mediachomp.com,metalsucks.net,mmoculture.com,monstersandcritics.com,motoringfile.com,nasaspaceflight.com,newsbtc.com,openloading.com,patriotfetch.com,planetofreviews.com,precinctreporter.com,prepperwebsite.com,rugbylad.ie,sashares.co.za,scienceabc.com,scienceandliteracy.org,seganerds.com,sixteen-nine.net,snipercentral.com,spokesman-recorder.com,survivopedia.com,techdows.com,techiecorner.com,techjuice.pk,theblueoceansgroup.com,thecinemaholic.com,tooxclusive.com,torrentfreak.com,torrentmac.net,trackalerts.com,trendingpoliticsnews.com,wabetainfo.com##.widget_custom_html
+✅ 多域名拆分: 4sysops.com,activistpost.com,aftvnews.com,arcadepunks.com,autotalk.co.nz,corrosionhour.com,corvetteblogger.com,dcrainmaker.com,discover.is,elhayat-life.com,gamingonphone.com,girgitnews.com,gizmochina.com,guides.wp-bullet.com,inews.co.uk,macsources.com,manhuatop.org,mediachomp.com,metalsucks.net,mmoculture.com,monstersandcritics.com,motoringfile.com,nasaspaceflight.com,newsbtc.com,openloading.com,patriotfetch.com,planetofreviews.com,precinctreporter.com,prepperwebsite.com,rugbylad.ie,sashares.co.za,scienceabc.com,scienceandliteracy.org,seganerds.com,sixteen-nine.net,snipercentral.com,spokesman-recorder.com,survivopedia.com,techdows.com,techiecorner.com,techjuice.pk,theblueoceansgroup.com,thecinemaholic.com,tooxclusive.com,torrentfreak.com,torrentmac.net,trackalerts.com,trendingpoliticsnews.com,wabetainfo.com##.widget_custom_html
     → |4sysops.com##.widget_custom_html
     → |activistpost.com##.widget_custom_html
     → |aftvnews.com##.widget_custom_html
     → |arcadepunks.com##.widget_custom_html
+    → |autotalk.co.nz##.widget_custom_html
     → |corrosionhour.com##.widget_custom_html
     → |corvetteblogger.com##.widget_custom_html
     → |dcrainmaker.com##.widget_custom_html
@@ -20681,9 +20683,10 @@
 ✅ 多域名拆分: gizmodo.com,kotaku.com##.widget_keleops-ad
     → |gizmodo.com##.widget_keleops-ad
     → |kotaku.com##.widget_keleops-ad
-✅ 多域名拆分: appleworld.today,athleticsillustrated.com,businessaccountingbasics.co.uk,circuitbasics.com,closerweekly.com,coincodecap.com,cozyberries.com,dbknews.com,deshdoaba.com,developer-tech.com,electricbikereport.com,foreverconscious.com,friendsjournal.org,glitched.online,globalgovernancenews.com,granitegrok.com,intouchweekly.com,jharkhandmirror.net,kashmirreader.com,kkfm.com,levittownnow.com,lifeandstylemag.com,manhuatop.org,marqueesportsnetwork.com,mensjournal.com,nikonrumors.com,ognsc.com,palipost.com,patriotfetch.com,pctechmag.com,prajwaldesai.com,pstribune.com,raspians.com,robinhoodnews.com,rok.guide,rsbnetwork.com,salesforcegeek.in,showbiz411.com,spokesman-recorder.com,sportsspectrum.com,stacyknows.com,supertotobet90.com,teksyndicate.com,thecatholictravelguide.com,thedefensepost.com,theoverclocker.com,thethaiger.com,theyucatantimes.com,tronweekly.com,ubuntu101.co.za,wakingtimes.com,washingtonmonthly.com,webscrypto.com,wgow.com,wgowam.com,wlevradio.com##.widget_media_image
+✅ 多域名拆分: appleworld.today,athleticsillustrated.com,betakit.com,businessaccountingbasics.co.uk,circuitbasics.com,closerweekly.com,coincodecap.com,cozyberries.com,dbknews.com,deshdoaba.com,developer-tech.com,electricbikereport.com,foreverconscious.com,friendsjournal.org,glitched.online,globalgovernancenews.com,granitegrok.com,intouchweekly.com,jharkhandmirror.net,kashmirreader.com,kkfm.com,levittownnow.com,lifeandstylemag.com,manhuatop.org,marqueesportsnetwork.com,mensjournal.com,nikonrumors.com,ognsc.com,palipost.com,patriotfetch.com,pctechmag.com,prajwaldesai.com,pstribune.com,raspians.com,robinhoodnews.com,rok.guide,rsbnetwork.com,salesforcegeek.in,showbiz411.com,spokesman-recorder.com,sportsspectrum.com,stacyknows.com,supertotobet90.com,teksyndicate.com,thecatholictravelguide.com,thedefensepost.com,theoverclocker.com,thethaiger.com,theyucatantimes.com,tronweekly.com,ubuntu101.co.za,wakingtimes.com,washingtonmonthly.com,webscrypto.com,wgow.com,wgowam.com,wlevradio.com##.widget_media_image
     → |appleworld.today##.widget_media_image
     → |athleticsillustrated.com##.widget_media_image
+    → |betakit.com##.widget_media_image
     → |businessaccountingbasics.co.uk##.widget_media_image
     → |circuitbasics.com##.widget_media_image
     → |closerweekly.com##.widget_media_image
@@ -22578,6 +22581,35 @@
     → |travelocity.com##div[class="uitk-spacing uitk-spacing-margin-blockstart-three"]:has(a[href^="https://pagead2.googlesyndication.com/"])
     → |wotif.com##div[class="uitk-spacing uitk-spacing-margin-blockstart-three"]:has(a[href^="https://pagead2.googlesyndication.com/"])
 🚫 去掉注释行: ! adsninja fix
+✅ 多域名拆分: androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##.ad-current
+    → |androidpolice.com##.ad-current
+    → |babygaga.com##.ad-current
+    → |backyardboss.net##.ad-current
+    → |carbuzz.com##.ad-current
+    → |cbr.com##.ad-current
+    → |collider.com##.ad-current
+    → |dualshockers.com##.ad-current
+    → |footballfancast.com##.ad-current
+    → |footballleagueworld.co.uk##.ad-current
+    → |gamerant.com##.ad-current
+    → |givemesport.com##.ad-current
+    → |hardcoregamer.com##.ad-current
+    → |hotcars.com##.ad-current
+    → |howtogeek.com##.ad-current
+    → |makeuseof.com##.ad-current
+    → |moms.com##.ad-current
+    → |movieweb.com##.ad-current
+    → |pocket-lint.com##.ad-current
+    → |pocketnow.com##.ad-current
+    → |screenrant.com##.ad-current
+    → |simpleflying.com##.ad-current
+    → |thegamer.com##.ad-current
+    → |therichest.com##.ad-current
+    → |thesportster.com##.ad-current
+    → |thethings.com##.ad-current
+    → |thetravel.com##.ad-current
+    → |topspeed.com##.ad-current
+    → |xda-developers.com##.ad-current
 ✅ 多域名拆分: androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##[class*="ad-zone-container-content-character-count-repeatable"]
     → |androidpolice.com##[class*="ad-zone-container-content-character-count-repeatable"]
     → |babygaga.com##[class*="ad-zone-container-content-character-count-repeatable"]
@@ -24538,10 +24570,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: onMP8+51P7VPWh4q6bEBmA
-🚫 去掉注释行: ! Version: 202601270111
+🚫 去掉注释行: ! Checksum: T4CZyIScCFP4sTZbkPuQzw
+🚫 去掉注释行: ! Version: 202601270311
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 27 Jan 2026 01:11 UTC
+🚫 去掉注释行: ! Last modified: 27 Jan 2026 03:11 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29089,10 +29121,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: 3QPkany6XxLWZv2kQ52Gpg
-🚫 去掉注释行: ! Version: 202601270111
+🚫 去掉注释行: ! Checksum: uYzufN+vgg9wk+Ry8+nQNw
+🚫 去掉注释行: ! Version: 202601270311
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 27 Jan 2026 01:11 UTC
+🚫 去掉注释行: ! Last modified: 27 Jan 2026 03:11 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29791,11 +29823,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202601270112
+🚫 去掉注释行: ! Version: 202601270309
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 27 Jan 2026 01:12 UTC
+🚫 去掉注释行: ! Last modified: 27 Jan 2026 03:09 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: c5eb94b8d223c5af38f4a00f24f3eda739847951
+🚫 去掉注释行: ! Commit: 49760b629e27d932c67eb37924f539173419274e
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -46157,10 +46189,11 @@
 ✅ 多域名拆分: mid-day.com,radiocity.in##.advertisement-text
     → |mid-day.com##.advertisement-text
     → |radiocity.in##.advertisement-text
-✅ 多域名拆分: afternoondc.in,allmovie.com,allmusic.com,bolnews.com,gq.co.za,imageupscaler.com,mja.com.au,ocregister.com,online-convert.com,pornicom.com,premier.org.uk,premierchristianity.com,radio.com,sidereel.com,spine-health.com,yourdictionary.com##.advertising
+✅ 多域名拆分: afternoondc.in,allmovie.com,allmusic.com,betakit.com,bolnews.com,gq.co.za,imageupscaler.com,mja.com.au,ocregister.com,online-convert.com,pornicom.com,premier.org.uk,premierchristianity.com,radio.com,sidereel.com,spine-health.com,yourdictionary.com##.advertising
     → |afternoondc.in##.advertising
     → |allmovie.com##.advertising
     → |allmusic.com##.advertising
+    → |betakit.com##.advertising
     → |bolnews.com##.advertising
     → |gq.co.za##.advertising
     → |imageupscaler.com##.advertising
@@ -48845,11 +48878,12 @@
     → |topcartoons.tv##.widget_block
     → |usmagazine.com##.widget_block
     → |wiki-topia.com##.widget_block
-✅ 多域名拆分: 4sysops.com,activistpost.com,aftvnews.com,arcadepunks.com,corrosionhour.com,corvetteblogger.com,dcrainmaker.com,discover.is,elhayat-life.com,gamingonphone.com,girgitnews.com,gizmochina.com,guides.wp-bullet.com,inews.co.uk,macsources.com,manhuatop.org,mediachomp.com,metalsucks.net,mmoculture.com,monstersandcritics.com,motoringfile.com,nasaspaceflight.com,newsbtc.com,openloading.com,patriotfetch.com,planetofreviews.com,precinctreporter.com,prepperwebsite.com,rugbylad.ie,sashares.co.za,scienceabc.com,scienceandliteracy.org,seganerds.com,sixteen-nine.net,snipercentral.com,spokesman-recorder.com,survivopedia.com,techdows.com,techiecorner.com,techjuice.pk,theblueoceansgroup.com,thecinemaholic.com,tooxclusive.com,torrentfreak.com,torrentmac.net,trackalerts.com,trendingpoliticsnews.com,wabetainfo.com##.widget_custom_html
+✅ 多域名拆分: 4sysops.com,activistpost.com,aftvnews.com,arcadepunks.com,autotalk.co.nz,corrosionhour.com,corvetteblogger.com,dcrainmaker.com,discover.is,elhayat-life.com,gamingonphone.com,girgitnews.com,gizmochina.com,guides.wp-bullet.com,inews.co.uk,macsources.com,manhuatop.org,mediachomp.com,metalsucks.net,mmoculture.com,monstersandcritics.com,motoringfile.com,nasaspaceflight.com,newsbtc.com,openloading.com,patriotfetch.com,planetofreviews.com,precinctreporter.com,prepperwebsite.com,rugbylad.ie,sashares.co.za,scienceabc.com,scienceandliteracy.org,seganerds.com,sixteen-nine.net,snipercentral.com,spokesman-recorder.com,survivopedia.com,techdows.com,techiecorner.com,techjuice.pk,theblueoceansgroup.com,thecinemaholic.com,tooxclusive.com,torrentfreak.com,torrentmac.net,trackalerts.com,trendingpoliticsnews.com,wabetainfo.com##.widget_custom_html
     → |4sysops.com##.widget_custom_html
     → |activistpost.com##.widget_custom_html
     → |aftvnews.com##.widget_custom_html
     → |arcadepunks.com##.widget_custom_html
+    → |autotalk.co.nz##.widget_custom_html
     → |corrosionhour.com##.widget_custom_html
     → |corvetteblogger.com##.widget_custom_html
     → |dcrainmaker.com##.widget_custom_html
@@ -48901,9 +48935,10 @@
 ✅ 多域名拆分: gizmodo.com,kotaku.com##.widget_keleops-ad
     → |gizmodo.com##.widget_keleops-ad
     → |kotaku.com##.widget_keleops-ad
-✅ 多域名拆分: appleworld.today,athleticsillustrated.com,businessaccountingbasics.co.uk,circuitbasics.com,closerweekly.com,coincodecap.com,cozyberries.com,dbknews.com,deshdoaba.com,developer-tech.com,electricbikereport.com,foreverconscious.com,friendsjournal.org,glitched.online,globalgovernancenews.com,granitegrok.com,intouchweekly.com,jharkhandmirror.net,kashmirreader.com,kkfm.com,levittownnow.com,lifeandstylemag.com,manhuatop.org,marqueesportsnetwork.com,mensjournal.com,nikonrumors.com,ognsc.com,palipost.com,patriotfetch.com,pctechmag.com,prajwaldesai.com,pstribune.com,raspians.com,robinhoodnews.com,rok.guide,rsbnetwork.com,salesforcegeek.in,showbiz411.com,spokesman-recorder.com,sportsspectrum.com,stacyknows.com,supertotobet90.com,teksyndicate.com,thecatholictravelguide.com,thedefensepost.com,theoverclocker.com,thethaiger.com,theyucatantimes.com,tronweekly.com,ubuntu101.co.za,wakingtimes.com,washingtonmonthly.com,webscrypto.com,wgow.com,wgowam.com,wlevradio.com##.widget_media_image
+✅ 多域名拆分: appleworld.today,athleticsillustrated.com,betakit.com,businessaccountingbasics.co.uk,circuitbasics.com,closerweekly.com,coincodecap.com,cozyberries.com,dbknews.com,deshdoaba.com,developer-tech.com,electricbikereport.com,foreverconscious.com,friendsjournal.org,glitched.online,globalgovernancenews.com,granitegrok.com,intouchweekly.com,jharkhandmirror.net,kashmirreader.com,kkfm.com,levittownnow.com,lifeandstylemag.com,manhuatop.org,marqueesportsnetwork.com,mensjournal.com,nikonrumors.com,ognsc.com,palipost.com,patriotfetch.com,pctechmag.com,prajwaldesai.com,pstribune.com,raspians.com,robinhoodnews.com,rok.guide,rsbnetwork.com,salesforcegeek.in,showbiz411.com,spokesman-recorder.com,sportsspectrum.com,stacyknows.com,supertotobet90.com,teksyndicate.com,thecatholictravelguide.com,thedefensepost.com,theoverclocker.com,thethaiger.com,theyucatantimes.com,tronweekly.com,ubuntu101.co.za,wakingtimes.com,washingtonmonthly.com,webscrypto.com,wgow.com,wgowam.com,wlevradio.com##.widget_media_image
     → |appleworld.today##.widget_media_image
     → |athleticsillustrated.com##.widget_media_image
+    → |betakit.com##.widget_media_image
     → |businessaccountingbasics.co.uk##.widget_media_image
     → |circuitbasics.com##.widget_media_image
     → |closerweekly.com##.widget_media_image
@@ -50798,6 +50833,35 @@
     → |travelocity.com##div[class="uitk-spacing uitk-spacing-margin-blockstart-three"]:has(a[href^="https://pagead2.googlesyndication.com/"])
     → |wotif.com##div[class="uitk-spacing uitk-spacing-margin-blockstart-three"]:has(a[href^="https://pagead2.googlesyndication.com/"])
 🚫 去掉注释行: ! adsninja fix
+✅ 多域名拆分: androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##.ad-current
+    → |androidpolice.com##.ad-current
+    → |babygaga.com##.ad-current
+    → |backyardboss.net##.ad-current
+    → |carbuzz.com##.ad-current
+    → |cbr.com##.ad-current
+    → |collider.com##.ad-current
+    → |dualshockers.com##.ad-current
+    → |footballfancast.com##.ad-current
+    → |footballleagueworld.co.uk##.ad-current
+    → |gamerant.com##.ad-current
+    → |givemesport.com##.ad-current
+    → |hardcoregamer.com##.ad-current
+    → |hotcars.com##.ad-current
+    → |howtogeek.com##.ad-current
+    → |makeuseof.com##.ad-current
+    → |moms.com##.ad-current
+    → |movieweb.com##.ad-current
+    → |pocket-lint.com##.ad-current
+    → |pocketnow.com##.ad-current
+    → |screenrant.com##.ad-current
+    → |simpleflying.com##.ad-current
+    → |thegamer.com##.ad-current
+    → |therichest.com##.ad-current
+    → |thesportster.com##.ad-current
+    → |thethings.com##.ad-current
+    → |thetravel.com##.ad-current
+    → |topspeed.com##.ad-current
+    → |xda-developers.com##.ad-current
 ✅ 多域名拆分: androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##[class*="ad-zone-container-content-character-count-repeatable"]
     → |androidpolice.com##[class*="ad-zone-container-content-character-count-repeatable"]
     → |babygaga.com##[class*="ad-zone-container-content-character-count-repeatable"]
@@ -52758,11 +52822,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202601270112
+🚫 去掉注释行: ! Version: 202601270309
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 27 Jan 2026 01:12 UTC
+🚫 去掉注释行: ! Last modified: 27 Jan 2026 03:09 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: c5eb94b8d223c5af38f4a00f24f3eda739847951
+🚫 去掉注释行: ! Commit: 49760b629e27d932c67eb37924f539173419274e
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -63787,9 +63851,10 @@
     → |hcb.net##.socialmedia
     → |travel.state.gov##.socialmedia
 🚫 去掉注释行: ! ! .social-sharing
-✅ 多域名拆分: 1movies.bz,avira.com,byjus.com,commentpicker.com,hakaimagazine.com,hollywoodlife.com,homemark.co.za,ilgiornale.it,iphoneitalia.com,malaymail.com,maxabout.com,motorsport-xl.de,ncbi.nlm.nih.gov,novosti.rs,nu.nl,politico.eu,tennismagazin.de,thepostmillennial.com,uncnews.unc.edu##.social-sharing
+✅ 多域名拆分: 1movies.bz,avira.com,betakit.com,byjus.com,commentpicker.com,hakaimagazine.com,hollywoodlife.com,homemark.co.za,ilgiornale.it,iphoneitalia.com,malaymail.com,maxabout.com,motorsport-xl.de,ncbi.nlm.nih.gov,novosti.rs,nu.nl,politico.eu,tennismagazin.de,thepostmillennial.com,uncnews.unc.edu##.social-sharing
     → |1movies.bz##.social-sharing
     → |avira.com##.social-sharing
+    → |betakit.com##.social-sharing
     → |byjus.com##.social-sharing
     → |commentpicker.com##.social-sharing
     → |hakaimagazine.com##.social-sharing
@@ -68787,8 +68852,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !生成时间: 2026-01-27 07:51:43
-🚫 去掉注释行: !有效规则数目: 1531663
+🚫 去掉注释行: !生成时间: 2026-01-27 09:53:40
+🚫 去掉注释行: !有效规则数目: 1530922
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
@@ -144985,10 +145050,10 @@
 🚫 去掉注释行: ! Blocked domains: 4924
 🚫 去掉注释行: ! unBlocked domains: 14
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: a5wKBKPHEhLwAuZK37dDzg
-🚫 去掉注释行: ! Version: 202601270025
+🚫 去掉注释行: ! Checksum: fxRP/mTAOwNNNYjBsIEDuA
+🚫 去掉注释行: ! Version: 202601270200
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-01-27 00:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-01-27 02:00 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -158839,9 +158904,10 @@
     → |hcb.net##.socialmedia
     → |travel.state.gov##.socialmedia
 🚫 去掉注释行: !! .social-sharing
-✅ 多域名拆分: 1movies.bz,avira.com,byjus.com,commentpicker.com,hakaimagazine.com,hollywoodlife.com,homemark.co.za,ilgiornale.it,iphoneitalia.com,malaymail.com,maxabout.com,motorsport-xl.de,ncbi.nlm.nih.gov,novosti.rs,nu.nl,politico.eu,tennismagazin.de,thepostmillennial.com,uncnews.unc.edu##.social-sharing
+✅ 多域名拆分: 1movies.bz,avira.com,betakit.com,byjus.com,commentpicker.com,hakaimagazine.com,hollywoodlife.com,homemark.co.za,ilgiornale.it,iphoneitalia.com,malaymail.com,maxabout.com,motorsport-xl.de,ncbi.nlm.nih.gov,novosti.rs,nu.nl,politico.eu,tennismagazin.de,thepostmillennial.com,uncnews.unc.edu##.social-sharing
     → |1movies.bz##.social-sharing
     → |avira.com##.social-sharing
+    → |betakit.com##.social-sharing
     → |byjus.com##.social-sharing
     → |commentpicker.com##.social-sharing
     → |hakaimagazine.com##.social-sharing
@@ -178608,14 +178674,6 @@
 ✅ 多域名拆分: aerofilms.cz,uxcel.com##.cookie-banner-wrap
     → |aerofilms.cz##.cookie-banner-wrap
     → |uxcel.com##.cookie-banner-wrap
-✅ 多域名拆分: agados.cz,concert.ua,delfortgroup.com,githubstatus.com,puffy.com,splice-cad.com,wincatalog.com##.cookie-consent-banner
-    → |agados.cz##.cookie-consent-banner
-    → |concert.ua##.cookie-consent-banner
-    → |delfortgroup.com##.cookie-consent-banner
-    → |githubstatus.com##.cookie-consent-banner
-    → |puffy.com##.cookie-consent-banner
-    → |splice-cad.com##.cookie-consent-banner
-    → |wincatalog.com##.cookie-consent-banner
 ✅ 多域名拆分: cos.com,hm.com##.cookie-consent-popup
     → |cos.com##.cookie-consent-popup
     → |hm.com##.cookie-consent-popup
@@ -179915,6 +179973,16 @@
     → |comparethemarket.com###__tealiumGDPRcpPrefs
     → |gsk.com###__tealiumGDPRcpPrefs
     → |pepperl-fuchs.com###__tealiumGDPRcpPrefs
+🚫 去掉注释行: !! .cookie-consent-banner
+✅ 多域名拆分: agados.cz,concert.ua,delfortgroup.com,githubstatus.com,morfix.co.il,puffy.com,splice-cad.com,wincatalog.com##.cookie-consent-banner
+    → |agados.cz##.cookie-consent-banner
+    → |concert.ua##.cookie-consent-banner
+    → |delfortgroup.com##.cookie-consent-banner
+    → |githubstatus.com##.cookie-consent-banner
+    → |morfix.co.il##.cookie-consent-banner
+    → |puffy.com##.cookie-consent-banner
+    → |splice-cad.com##.cookie-consent-banner
+    → |wincatalog.com##.cookie-consent-banner
 🚫 去掉注释行: !! .cookiebar
 ✅ 多域名拆分: ammeraalbeltech.com,asst-lecco.it,community.dyson.com,mahle-aftermarket.com,mega-monheim.de,nautadutilh.com,purejingles.com,sigmanet.lv,trtcocuk.net.tr,um.edu.mt##.cookiebar
     → |ammeraalbeltech.com##.cookiebar
@@ -182185,7 +182253,7 @@
     → |stromvergleich.de##.consent-banner
     → |twitch.tv##.consent-banner
 🚫 去掉注释行: !! .dialog-lightbox-message
-✅ 多域名拆分: 1800runaway.org,aceprensa.com,ak-asya.com.tr,alivia.org.pl,almeidastextile.pt,ancon.io,caltex.co.za,cerre.eu,cofense.com,detonated.com,direct-carpets.com,experiorfinancial.com,fermedelinciaux.be,fft.mt,getspace.us,gilmoreglobal.com,ingeniamc.com,janninebarron.com,lsisoftware.pl,lucerna-chem.ch,luukku.com,lwab.se,maltaconsulting.mt,marathonhr.com,marshfieldpre-school.co.uk,mitreprinting.co.uk,ourdutyofcare.org.uk,polutowani.pl,realvnc.com,ritchy.com,rwi.se,shotam.info,smackcoders.com,takeoff.org.mt,terracreta.gr,terveyskauneus.fi,tvpop.com.br,tzumi.com,vrxdb.com,webdesignspecialistamsterdam.nl,whatcounts.com##.dialog-lightbox-message
+✅ 多域名拆分: 1800runaway.org,aceprensa.com,ak-asya.com.tr,alivia.org.pl,almeidastextile.pt,ancon.io,caltex.co.za,cerre.eu,cofense.com,detonated.com,direct-carpets.com,experiorfinancial.com,fermedelinciaux.be,fft.mt,getspace.us,gilmoreglobal.com,ingeniamc.com,janninebarron.com,loro.co.il,lsisoftware.pl,lucerna-chem.ch,luukku.com,lwab.se,maltaconsulting.mt,marathonhr.com,marshfieldpre-school.co.uk,mitreprinting.co.uk,ourdutyofcare.org.uk,polutowani.pl,realvnc.com,ritchy.com,rwi.se,shotam.info,smackcoders.com,takeoff.org.mt,terracreta.gr,terveyskauneus.fi,tvpop.com.br,tzumi.com,vrxdb.com,webdesignspecialistamsterdam.nl,whatcounts.com##.dialog-lightbox-message
     → |1800runaway.org##.dialog-lightbox-message
     → |aceprensa.com##.dialog-lightbox-message
     → |ak-asya.com.tr##.dialog-lightbox-message
@@ -182204,6 +182272,7 @@
     → |gilmoreglobal.com##.dialog-lightbox-message
     → |ingeniamc.com##.dialog-lightbox-message
     → |janninebarron.com##.dialog-lightbox-message
+    → |loro.co.il##.dialog-lightbox-message
     → |lsisoftware.pl##.dialog-lightbox-message
     → |lucerna-chem.ch##.dialog-lightbox-message
     → |luukku.com##.dialog-lightbox-message
@@ -202765,6 +202834,9 @@
 ✅ 多域名拆分: disconnect.blog,the-londoner.co.uk##.kg-signup-card-content
     → |disconnect.blog##.kg-signup-card-content
     → |the-londoner.co.uk##.kg-signup-card-content
+✅ 多域名拆分: betakit.com,govee.com##.kl-private-reset-css-Xuajs1.needsclick
+    → |betakit.com##.kl-private-reset-css-Xuajs1.needsclick
+    → |govee.com##.kl-private-reset-css-Xuajs1.needsclick
 ✅ 多域名拆分: legit.ng,tuko.co.ke##.l-header__subscribe
     → |legit.ng##.l-header__subscribe
     → |tuko.co.ke##.l-header__subscribe
@@ -208599,9 +208671,9 @@
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: !---------------------------------Allowlists----------------------------------!
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: 7sT2Hpq31DQuQm8KiUVh9w
+🚫 去掉注释行: ! Checksum: es3MZso97v3awvkqqSmCoA
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Last modified: 2026-01-27 00:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-01-27 02:00 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
@@ -224751,14 +224823,6 @@
 ✅ 多域名拆分: aerofilms.cz,uxcel.com##.cookie-banner-wrap
     → |aerofilms.cz##.cookie-banner-wrap
     → |uxcel.com##.cookie-banner-wrap
-✅ 多域名拆分: agados.cz,concert.ua,delfortgroup.com,githubstatus.com,puffy.com,splice-cad.com,wincatalog.com##.cookie-consent-banner
-    → |agados.cz##.cookie-consent-banner
-    → |concert.ua##.cookie-consent-banner
-    → |delfortgroup.com##.cookie-consent-banner
-    → |githubstatus.com##.cookie-consent-banner
-    → |puffy.com##.cookie-consent-banner
-    → |splice-cad.com##.cookie-consent-banner
-    → |wincatalog.com##.cookie-consent-banner
 ✅ 多域名拆分: cos.com,hm.com##.cookie-consent-popup
     → |cos.com##.cookie-consent-popup
     → |hm.com##.cookie-consent-popup
@@ -226058,6 +226122,16 @@
     → |comparethemarket.com###__tealiumGDPRcpPrefs
     → |gsk.com###__tealiumGDPRcpPrefs
     → |pepperl-fuchs.com###__tealiumGDPRcpPrefs
+🚫 去掉注释行: !! .cookie-consent-banner
+✅ 多域名拆分: agados.cz,concert.ua,delfortgroup.com,githubstatus.com,morfix.co.il,puffy.com,splice-cad.com,wincatalog.com##.cookie-consent-banner
+    → |agados.cz##.cookie-consent-banner
+    → |concert.ua##.cookie-consent-banner
+    → |delfortgroup.com##.cookie-consent-banner
+    → |githubstatus.com##.cookie-consent-banner
+    → |morfix.co.il##.cookie-consent-banner
+    → |puffy.com##.cookie-consent-banner
+    → |splice-cad.com##.cookie-consent-banner
+    → |wincatalog.com##.cookie-consent-banner
 🚫 去掉注释行: !! .cookiebar
 ✅ 多域名拆分: ammeraalbeltech.com,asst-lecco.it,community.dyson.com,mahle-aftermarket.com,mega-monheim.de,nautadutilh.com,purejingles.com,sigmanet.lv,trtcocuk.net.tr,um.edu.mt##.cookiebar
     → |ammeraalbeltech.com##.cookiebar
@@ -228328,7 +228402,7 @@
     → |stromvergleich.de##.consent-banner
     → |twitch.tv##.consent-banner
 🚫 去掉注释行: !! .dialog-lightbox-message
-✅ 多域名拆分: 1800runaway.org,aceprensa.com,ak-asya.com.tr,alivia.org.pl,almeidastextile.pt,ancon.io,caltex.co.za,cerre.eu,cofense.com,detonated.com,direct-carpets.com,experiorfinancial.com,fermedelinciaux.be,fft.mt,getspace.us,gilmoreglobal.com,ingeniamc.com,janninebarron.com,lsisoftware.pl,lucerna-chem.ch,luukku.com,lwab.se,maltaconsulting.mt,marathonhr.com,marshfieldpre-school.co.uk,mitreprinting.co.uk,ourdutyofcare.org.uk,polutowani.pl,realvnc.com,ritchy.com,rwi.se,shotam.info,smackcoders.com,takeoff.org.mt,terracreta.gr,terveyskauneus.fi,tvpop.com.br,tzumi.com,vrxdb.com,webdesignspecialistamsterdam.nl,whatcounts.com##.dialog-lightbox-message
+✅ 多域名拆分: 1800runaway.org,aceprensa.com,ak-asya.com.tr,alivia.org.pl,almeidastextile.pt,ancon.io,caltex.co.za,cerre.eu,cofense.com,detonated.com,direct-carpets.com,experiorfinancial.com,fermedelinciaux.be,fft.mt,getspace.us,gilmoreglobal.com,ingeniamc.com,janninebarron.com,loro.co.il,lsisoftware.pl,lucerna-chem.ch,luukku.com,lwab.se,maltaconsulting.mt,marathonhr.com,marshfieldpre-school.co.uk,mitreprinting.co.uk,ourdutyofcare.org.uk,polutowani.pl,realvnc.com,ritchy.com,rwi.se,shotam.info,smackcoders.com,takeoff.org.mt,terracreta.gr,terveyskauneus.fi,tvpop.com.br,tzumi.com,vrxdb.com,webdesignspecialistamsterdam.nl,whatcounts.com##.dialog-lightbox-message
     → |1800runaway.org##.dialog-lightbox-message
     → |aceprensa.com##.dialog-lightbox-message
     → |ak-asya.com.tr##.dialog-lightbox-message
@@ -228347,6 +228421,7 @@
     → |gilmoreglobal.com##.dialog-lightbox-message
     → |ingeniamc.com##.dialog-lightbox-message
     → |janninebarron.com##.dialog-lightbox-message
+    → |loro.co.il##.dialog-lightbox-message
     → |lsisoftware.pl##.dialog-lightbox-message
     → |lucerna-chem.ch##.dialog-lightbox-message
     → |luukku.com##.dialog-lightbox-message

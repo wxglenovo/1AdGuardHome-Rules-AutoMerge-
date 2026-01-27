@@ -7190,6 +7190,7 @@ royalqueenseeds.*##.social-media-icons-footer
 |travel.state.gov##.socialmedia
 |1movies.bz##.social-sharing
 |avira.com##.social-sharing
+|betakit.com##.social-sharing
 |byjus.com##.social-sharing
 |commentpicker.com##.social-sharing
 |hakaimagazine.com##.social-sharing
@@ -14918,13 +14919,6 @@ allyouplay.com##.cookie-card_container
 benq.com##.cookie-component
 moneycontrol.com##.cookie-concern-wrapper
 friends.figma.com##.cookie-consent-acknowledgement-conatiner
-|agados.cz##.cookie-consent-banner
-|concert.ua##.cookie-consent-banner
-|delfortgroup.com##.cookie-consent-banner
-|githubstatus.com##.cookie-consent-banner
-|puffy.com##.cookie-consent-banner
-|splice-cad.com##.cookie-consent-banner
-|wincatalog.com##.cookie-consent-banner
 meest-shop.com##.cookie-consent-banner_root__M9V7x
 aerolopa.com##.cookie-consent-modern
 developers.turing.com##.cookie-consent-overlay
@@ -17297,6 +17291,14 @@ sogeti.*###popup-cookieConsent
 |comparethemarket.com###__tealiumGDPRcpPrefs
 |gsk.com###__tealiumGDPRcpPrefs
 |pepperl-fuchs.com###__tealiumGDPRcpPrefs
+|agados.cz##.cookie-consent-banner
+|concert.ua##.cookie-consent-banner
+|delfortgroup.com##.cookie-consent-banner
+|githubstatus.com##.cookie-consent-banner
+|morfix.co.il##.cookie-consent-banner
+|puffy.com##.cookie-consent-banner
+|splice-cad.com##.cookie-consent-banner
+|wincatalog.com##.cookie-consent-banner
 |ammeraalbeltech.com##.cookiebar
 |asst-lecco.it##.cookiebar
 |community.dyson.com##.cookiebar
@@ -19261,6 +19263,7 @@ dryg.pl##div[class^="CookiesNoti"]
 |gilmoreglobal.com##.dialog-lightbox-message
 |ingeniamc.com##.dialog-lightbox-message
 |janninebarron.com##.dialog-lightbox-message
+|loro.co.il##.dialog-lightbox-message
 |lsisoftware.pl##.dialog-lightbox-message
 |lucerna-chem.ch##.dialog-lightbox-message
 |luukku.com##.dialog-lightbox-message
@@ -37586,6 +37589,7 @@ maccabi4u.co.il###ZA_CAMP_BANNER_CONTAINER
 maccabi4u.co.il###ZA_CAMP_MOBILE_CONTAINER
 foodsdictionary.co.il###cookie-consent
 019mobile.co.il###cookie-except-banner
+madlan.co.il###cookie-root
 ivory.co.il###removeBannerCookie
 gadgety.co.il###upnext-cookie-notice
 cal-online.co.il###wc-using-cookies
@@ -37596,6 +37600,7 @@ israelpost.co.il##.cookie-agreement
 yad2.co.il##.cookie-implementation-disclaimer_popupRoot__CLI1m
 easy.co.il##.cookies-consent-banner
 pais.co.il##.cookies_sec
+drushim.co.il##.dr-cookie-banner
 yad-mordechai.co.il##.eupopup-container
 diners.co.il##.message-container
 bankhapoalim.co.il##.muirtl-1cwm7gt
@@ -43691,7 +43696,8 @@ the-londoner.co.uk##.kg-cta-content
 |disconnect.blog##.kg-signup-card-content
 |the-londoner.co.uk##.kg-signup-card-content
 digitalocean.com##.khfYvn
-govee.com##.kl-private-reset-css-Xuajs1.needsclick
+|betakit.com##.kl-private-reset-css-Xuajs1.needsclick
+|govee.com##.kl-private-reset-css-Xuajs1.needsclick
 klima101.rs##.klima-subscribe
 |legit.ng##.l-header__subscribe
 |tuko.co.ke##.l-header__subscribe
