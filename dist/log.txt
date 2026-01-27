@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-01-27T02:50:13.537Z
+🚫 去掉注释行: ! Last modified: 2026-01-27T04:24:34.832Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v1.0.38
 🚫 去掉注释行: !
@@ -1575,10 +1575,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 96901
-🚫 去掉注释行: ! Checksum: uOgb3Sk/JU7crkpgjt31Wg
-🚫 去掉注释行: ! Version: 202601270311
+🚫 去掉注释行: ! Checksum: g5AK2P9bIYtEv8x7nvh3xw
+🚫 去掉注释行: ! Version: 202601270421
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 27 Jan 2026 03:11 UTC
+🚫 去掉注释行: ! Last modified: 27 Jan 2026 04:21 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -20155,6 +20155,9 @@
     → |intouchweekly.com##.shop-with-us__container
     → |lifeandstylemag.com##.shop-with-us__container
     → |usmagazine.com##.shop-with-us__container
+✅ 多域名拆分: mirror.co.uk,themirror.com##.shopwindow-advertorial
+    → |mirror.co.uk##.shopwindow-advertorial
+    → |themirror.com##.shopwindow-advertorial
 ✅ 多域名拆分: agar.live,news.am##.side-banner
     → |agar.live##.side-banner
     → |news.am##.side-banner
@@ -21050,9 +21053,10 @@
     → |manomano.es##[data-testid="spr-brd-banner"]
     → |manomano.fr##[data-testid="spr-brd-banner"]
     → |manomano.it##[data-testid="spr-brd-banner"]
-✅ 多域名拆分: dailystar.co.uk,mirror.co.uk##[data-tmdatatrack-type="commercial"]
+✅ 多域名拆分: dailystar.co.uk,mirror.co.uk,themirror.com##[data-tmdatatrack-type="commercial"]
     → |dailystar.co.uk##[data-tmdatatrack-type="commercial"]
     → |mirror.co.uk##[data-tmdatatrack-type="commercial"]
+    → |themirror.com##[data-tmdatatrack-type="commercial"]
 ✅ 多域名拆分: 3addedminutes.com,anguscountyworld.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,blackpoolgazette.co.uk,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,chad.co.uk,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,falkirkherald.co.uk,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,lep.co.uk,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,lutontoday.co.uk,manchesterworld.uk,meltontimes.co.uk,miltonkeynes.co.uk,newcastleworld.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,peterboroughtoday.co.uk,portsmouth.co.uk,rotherhamadvertiser.co.uk,scotsman.com,shieldsgazette.com,stornowaygazette.co.uk,sunderlandecho.com,surreyworld.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,totallysnookered.com,wakefieldexpress.co.uk,warwickshireworld.com,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk##[data-type="AdRowBillboard"]
     → |3addedminutes.com##[data-type="AdRowBillboard"]
     → |anguscountyworld.co.uk##[data-type="AdRowBillboard"]
@@ -24570,10 +24574,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: T4CZyIScCFP4sTZbkPuQzw
-🚫 去掉注释行: ! Version: 202601270311
+🚫 去掉注释行: ! Checksum: eHpHqxpUZgpTHidXNpWZeA
+🚫 去掉注释行: ! Version: 202601270421
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 27 Jan 2026 03:11 UTC
+🚫 去掉注释行: ! Last modified: 27 Jan 2026 04:21 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29121,10 +29125,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: uYzufN+vgg9wk+Ry8+nQNw
-🚫 去掉注释行: ! Version: 202601270311
+🚫 去掉注释行: ! Checksum: +hizWZ/eHkb1oWeBLs4AYA
+🚫 去掉注释行: ! Version: 202601270421
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 27 Jan 2026 03:11 UTC
+🚫 去掉注释行: ! Last modified: 27 Jan 2026 04:21 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29823,11 +29827,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202601270309
+🚫 去掉注释行: ! Version: 202601270417
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 27 Jan 2026 03:09 UTC
+🚫 去掉注释行: ! Last modified: 27 Jan 2026 04:17 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 49760b629e27d932c67eb37924f539173419274e
+🚫 去掉注释行: ! Commit: 91964073fdac24759414bfa90e74f08f2ce1cda9
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -48407,6 +48411,9 @@
     → |intouchweekly.com##.shop-with-us__container
     → |lifeandstylemag.com##.shop-with-us__container
     → |usmagazine.com##.shop-with-us__container
+✅ 多域名拆分: mirror.co.uk,themirror.com##.shopwindow-advertorial
+    → |mirror.co.uk##.shopwindow-advertorial
+    → |themirror.com##.shopwindow-advertorial
 ✅ 多域名拆分: agar.live,news.am##.side-banner
     → |agar.live##.side-banner
     → |news.am##.side-banner
@@ -49302,9 +49309,10 @@
     → |manomano.es##[data-testid="spr-brd-banner"]
     → |manomano.fr##[data-testid="spr-brd-banner"]
     → |manomano.it##[data-testid="spr-brd-banner"]
-✅ 多域名拆分: dailystar.co.uk,mirror.co.uk##[data-tmdatatrack-type="commercial"]
+✅ 多域名拆分: dailystar.co.uk,mirror.co.uk,themirror.com##[data-tmdatatrack-type="commercial"]
     → |dailystar.co.uk##[data-tmdatatrack-type="commercial"]
     → |mirror.co.uk##[data-tmdatatrack-type="commercial"]
+    → |themirror.com##[data-tmdatatrack-type="commercial"]
 ✅ 多域名拆分: 3addedminutes.com,anguscountyworld.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,blackpoolgazette.co.uk,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,chad.co.uk,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,falkirkherald.co.uk,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,lep.co.uk,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,lutontoday.co.uk,manchesterworld.uk,meltontimes.co.uk,miltonkeynes.co.uk,newcastleworld.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,peterboroughtoday.co.uk,portsmouth.co.uk,rotherhamadvertiser.co.uk,scotsman.com,shieldsgazette.com,stornowaygazette.co.uk,sunderlandecho.com,surreyworld.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,totallysnookered.com,wakefieldexpress.co.uk,warwickshireworld.com,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk##[data-type="AdRowBillboard"]
     → |3addedminutes.com##[data-type="AdRowBillboard"]
     → |anguscountyworld.co.uk##[data-type="AdRowBillboard"]
@@ -52822,11 +52830,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202601270309
+🚫 去掉注释行: ! Version: 202601270417
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 27 Jan 2026 03:09 UTC
+🚫 去掉注释行: ! Last modified: 27 Jan 2026 04:17 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 49760b629e27d932c67eb37924f539173419274e
+🚫 去掉注释行: ! Commit: 91964073fdac24759414bfa90e74f08f2ce1cda9
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -68852,8 +68860,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !生成时间: 2026-01-27 09:53:40
-🚫 去掉注释行: !有效规则数目: 1530922
+🚫 去掉注释行: !生成时间: 2026-01-27 11:47:56
+🚫 去掉注释行: !有效规则数目: 1530947
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
@@ -145050,10 +145058,10 @@
 🚫 去掉注释行: ! Blocked domains: 4924
 🚫 去掉注释行: ! unBlocked domains: 14
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: fxRP/mTAOwNNNYjBsIEDuA
-🚫 去掉注释行: ! Version: 202601270200
+🚫 去掉注释行: ! Checksum: 53JbrQs+sRa54g2pa4BmYQ
+🚫 去掉注释行: ! Version: 202601270425
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-01-27 02:00 UTC
+🚫 去掉注释行: ! Last modified: 2026-01-27 04:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -146593,7 +146601,7 @@
     → |rferl.org##.slide-in-wg
     → |rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion##.slide-in-wg
     → |voanews.com##.slide-in-wg
-✅ 多域名拆分: aberdeenlive.news,belfastlive.co.uk,birminghammail.co.uk,bristolpost.co.uk,business-live.co.uk,cambridge-news.co.uk,cheshire-live.co.uk,chroniclelive.co.uk,cornwalllive.com,coventrytelegraph.net,dailypost.co.uk,dailyrecord.co.uk,dailystar.co.uk,derbytelegraph.co.uk,devonlive.com,dublinlive.ie,edinburghlive.co.uk,essexlive.news,examinerlive.co.uk,gazettelive.co.uk,getsurrey.co.uk,glasgowlive.co.uk,gloucestershirelive.co.uk,grimsbytelegraph.co.uk,hertfordshiremercury.co.uk,hulldailymail.co.uk,insider.co.uk,irishmirror.ie,kentlive.news,lancs.live,leeds-live.co.uk,leicestermercury.co.uk,lincolnshirelive.co.uk,liverpoolecho.co.uk,manchestereveningnews.co.uk,mirror.co.uk,mylondon.news,nottinghampost.com,ok.co.uk,plymouthherald.co.uk,somersetlive.co.uk,stokesentinel.co.uk,walesonline.co.uk##.swipe-prompt
+✅ 多域名拆分: aberdeenlive.news,belfastlive.co.uk,birminghammail.co.uk,bristolpost.co.uk,business-live.co.uk,cambridge-news.co.uk,cheshire-live.co.uk,chroniclelive.co.uk,cornwalllive.com,coventrytelegraph.net,dailypost.co.uk,dailyrecord.co.uk,dailystar.co.uk,derbytelegraph.co.uk,devonlive.com,dublinlive.ie,edinburghlive.co.uk,essexlive.news,examinerlive.co.uk,gazettelive.co.uk,getsurrey.co.uk,glasgowlive.co.uk,gloucestershirelive.co.uk,grimsbytelegraph.co.uk,hertfordshiremercury.co.uk,hulldailymail.co.uk,insider.co.uk,irishmirror.ie,kentlive.news,lancs.live,leeds-live.co.uk,leicestermercury.co.uk,lincolnshirelive.co.uk,liverpoolecho.co.uk,manchestereveningnews.co.uk,mirror.co.uk,mylondon.news,nottinghampost.com,ok.co.uk,plymouthherald.co.uk,somersetlive.co.uk,stokesentinel.co.uk,themirror.com,walesonline.co.uk##.swipe-prompt
     → |aberdeenlive.news##.swipe-prompt
     → |belfastlive.co.uk##.swipe-prompt
     → |birminghammail.co.uk##.swipe-prompt
@@ -146636,6 +146644,7 @@
     → |plymouthherald.co.uk##.swipe-prompt
     → |somersetlive.co.uk##.swipe-prompt
     → |stokesentinel.co.uk##.swipe-prompt
+    → |themirror.com##.swipe-prompt
     → |walesonline.co.uk##.swipe-prompt
 ✅ 多域名拆分: ddtonline.com,northsidesun.com##.swipe_arrows
     → |ddtonline.com##.swipe_arrows
@@ -240694,5 +240703,5 @@
 ✅ HOSTS 转换: 127.0.0.1 zqtk.net → |zqtk.net^
 ✅ HOSTS 转换: 127.0.0.1 zzhc.vnet.cn → |zzhc.vnet.cn^
 🚫 去掉注释行: ! 生成时间: 自动构建
-🚫 去掉注释行: ! 原始规则数: 236766
-🚫 去掉注释行: ! 压缩后规则数: 236766
+🚫 去掉注释行: ! 原始规则数: 236767
+🚫 去掉注释行: ! 压缩后规则数: 236767
