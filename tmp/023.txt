@@ -11648,7 +11648,9 @@ aerztezeitung.de#@#.social-sharer
 medialeaks.ru#@#.social-widgets
 keepa.com#@#.socialButtons
 kuriertczewski.pl#@#.social_header
-jobdetails.nestle.com#@#.socialbutton
+|jobdetails.nestle.com#@#.socialbutton
+|jobs.hatch.com#@#.socialbutton
+|jobsearch.alstom.com#@#.socialbutton
 |advocate.com#@#.sticky-share
 |comicsands.com#@#.sticky-share
 40ton.net#@#.td-post-sharing-top
@@ -28343,6 +28345,7 @@ blog.documentfoundation.org##+js(set-cookie, ytprefs_gdpr_consent, 1, , reload, 
 yuboto-telephony.gr##+js(set-cookie, yuboto-telephony.gr_CookiesAcceptedN, 1)
 zoommer.ge##+js(set-cookie, zoommer-cookie_agreed, true)
 baur.eu##+js(set-cookie-reload, cookies_confirmed_18, 4)
+dom.ria.com##+js(set-cookie-reload, gdpr, 1)
 xistore.by##+js(set-cookie-reload, marketing_cookie_agree, false)
 travelfranceonline.com##+js(set-cookie-reload, tlc_cookie_banner_declined, true)
 |abels.co.uk##+js(set-cookie, viewed_cookie_policy, yes, , reload, 1)
@@ -39235,6 +39238,7 @@ vmeste.mosreg.ru##dd-cookie-accept-banner
 rabota.sber.ru##div[class*="styled__CookieWrapper-"]
 sberbank.ru##div[class^="CookieWarning-"]
 novayagazeta.eu##div[class^="CookiesInformer_"]
+dom.ria.com##div[class^="GdprComponent"]
 stoloto.ru##div[class^="Provider_container"]
 aliexpress.ru##div[class^="SnowPrivacyPolicyBanner_"]
 bb.market##div[class^="_cookies_"]

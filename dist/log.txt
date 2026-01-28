@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-01-28T10:09:33.550Z
+🚫 去掉注释行: ! Last modified: 2026-01-28T12:13:35.752Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v1.0.38
 🚫 去掉注释行: !
@@ -1575,10 +1575,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 97519
-🚫 去掉注释行: ! Checksum: V4YJ1ZukGiCpuBRKu4Mk3A
-🚫 去掉注释行: ! Version: 202601281132
+🚫 去掉注释行: ! Checksum: zIQtmBWADNDdaDbiLLy1yw
+🚫 去掉注释行: ! Version: 202601281221
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 28 Jan 2026 11:32 UTC
+🚫 去掉注释行: ! Last modified: 28 Jan 2026 12:21 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -22586,35 +22586,122 @@
     → |travelocity.com##div[class="uitk-spacing uitk-spacing-margin-blockstart-three"]:has(a[href^="https://pagead2.googlesyndication.com/"])
     → |wotif.com##div[class="uitk-spacing uitk-spacing-margin-blockstart-three"]:has(a[href^="https://pagead2.googlesyndication.com/"])
 🚫 去掉注释行: ! adsninja fix
-✅ 多域名拆分: androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##.ad-current
-    → |androidpolice.com##.ad-current
-    → |babygaga.com##.ad-current
-    → |backyardboss.net##.ad-current
-    → |carbuzz.com##.ad-current
-    → |cbr.com##.ad-current
-    → |collider.com##.ad-current
-    → |dualshockers.com##.ad-current
-    → |footballfancast.com##.ad-current
-    → |footballleagueworld.co.uk##.ad-current
-    → |gamerant.com##.ad-current
-    → |givemesport.com##.ad-current
-    → |hardcoregamer.com##.ad-current
-    → |hotcars.com##.ad-current
-    → |howtogeek.com##.ad-current
-    → |makeuseof.com##.ad-current
-    → |moms.com##.ad-current
-    → |movieweb.com##.ad-current
-    → |pocket-lint.com##.ad-current
-    → |pocketnow.com##.ad-current
-    → |screenrant.com##.ad-current
-    → |simpleflying.com##.ad-current
-    → |thegamer.com##.ad-current
-    → |therichest.com##.ad-current
-    → |thesportster.com##.ad-current
-    → |thethings.com##.ad-current
-    → |thetravel.com##.ad-current
-    → |topspeed.com##.ad-current
-    → |xda-developers.com##.ad-current
+✅ 多域名拆分: androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##.ad-zone-container-sidebar-default
+    → |androidpolice.com##.ad-zone-container-sidebar-default
+    → |babygaga.com##.ad-zone-container-sidebar-default
+    → |backyardboss.net##.ad-zone-container-sidebar-default
+    → |carbuzz.com##.ad-zone-container-sidebar-default
+    → |cbr.com##.ad-zone-container-sidebar-default
+    → |collider.com##.ad-zone-container-sidebar-default
+    → |dualshockers.com##.ad-zone-container-sidebar-default
+    → |footballfancast.com##.ad-zone-container-sidebar-default
+    → |footballleagueworld.co.uk##.ad-zone-container-sidebar-default
+    → |gamerant.com##.ad-zone-container-sidebar-default
+    → |givemesport.com##.ad-zone-container-sidebar-default
+    → |hardcoregamer.com##.ad-zone-container-sidebar-default
+    → |hotcars.com##.ad-zone-container-sidebar-default
+    → |howtogeek.com##.ad-zone-container-sidebar-default
+    → |makeuseof.com##.ad-zone-container-sidebar-default
+    → |moms.com##.ad-zone-container-sidebar-default
+    → |movieweb.com##.ad-zone-container-sidebar-default
+    → |pocket-lint.com##.ad-zone-container-sidebar-default
+    → |pocketnow.com##.ad-zone-container-sidebar-default
+    → |screenrant.com##.ad-zone-container-sidebar-default
+    → |simpleflying.com##.ad-zone-container-sidebar-default
+    → |thegamer.com##.ad-zone-container-sidebar-default
+    → |therichest.com##.ad-zone-container-sidebar-default
+    → |thesportster.com##.ad-zone-container-sidebar-default
+    → |thethings.com##.ad-zone-container-sidebar-default
+    → |thetravel.com##.ad-zone-container-sidebar-default
+    → |topspeed.com##.ad-zone-container-sidebar-default
+    → |xda-developers.com##.ad-zone-container-sidebar-default
+✅ 多域名拆分: androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##.ad-zone-sidebar-default
+    → |androidpolice.com##.ad-zone-sidebar-default
+    → |babygaga.com##.ad-zone-sidebar-default
+    → |backyardboss.net##.ad-zone-sidebar-default
+    → |carbuzz.com##.ad-zone-sidebar-default
+    → |cbr.com##.ad-zone-sidebar-default
+    → |collider.com##.ad-zone-sidebar-default
+    → |dualshockers.com##.ad-zone-sidebar-default
+    → |footballfancast.com##.ad-zone-sidebar-default
+    → |footballleagueworld.co.uk##.ad-zone-sidebar-default
+    → |gamerant.com##.ad-zone-sidebar-default
+    → |givemesport.com##.ad-zone-sidebar-default
+    → |hardcoregamer.com##.ad-zone-sidebar-default
+    → |hotcars.com##.ad-zone-sidebar-default
+    → |howtogeek.com##.ad-zone-sidebar-default
+    → |makeuseof.com##.ad-zone-sidebar-default
+    → |moms.com##.ad-zone-sidebar-default
+    → |movieweb.com##.ad-zone-sidebar-default
+    → |pocket-lint.com##.ad-zone-sidebar-default
+    → |pocketnow.com##.ad-zone-sidebar-default
+    → |screenrant.com##.ad-zone-sidebar-default
+    → |simpleflying.com##.ad-zone-sidebar-default
+    → |thegamer.com##.ad-zone-sidebar-default
+    → |therichest.com##.ad-zone-sidebar-default
+    → |thesportster.com##.ad-zone-sidebar-default
+    → |thethings.com##.ad-zone-sidebar-default
+    → |thetravel.com##.ad-zone-sidebar-default
+    → |topspeed.com##.ad-zone-sidebar-default
+    → |xda-developers.com##.ad-zone-sidebar-default
+✅ 多域名拆分: androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##.ad-zone-sidebar-first
+    → |androidpolice.com##.ad-zone-sidebar-first
+    → |babygaga.com##.ad-zone-sidebar-first
+    → |backyardboss.net##.ad-zone-sidebar-first
+    → |carbuzz.com##.ad-zone-sidebar-first
+    → |cbr.com##.ad-zone-sidebar-first
+    → |collider.com##.ad-zone-sidebar-first
+    → |dualshockers.com##.ad-zone-sidebar-first
+    → |footballfancast.com##.ad-zone-sidebar-first
+    → |footballleagueworld.co.uk##.ad-zone-sidebar-first
+    → |gamerant.com##.ad-zone-sidebar-first
+    → |givemesport.com##.ad-zone-sidebar-first
+    → |hardcoregamer.com##.ad-zone-sidebar-first
+    → |hotcars.com##.ad-zone-sidebar-first
+    → |howtogeek.com##.ad-zone-sidebar-first
+    → |makeuseof.com##.ad-zone-sidebar-first
+    → |moms.com##.ad-zone-sidebar-first
+    → |movieweb.com##.ad-zone-sidebar-first
+    → |pocket-lint.com##.ad-zone-sidebar-first
+    → |pocketnow.com##.ad-zone-sidebar-first
+    → |screenrant.com##.ad-zone-sidebar-first
+    → |simpleflying.com##.ad-zone-sidebar-first
+    → |thegamer.com##.ad-zone-sidebar-first
+    → |therichest.com##.ad-zone-sidebar-first
+    → |thesportster.com##.ad-zone-sidebar-first
+    → |thethings.com##.ad-zone-sidebar-first
+    → |thetravel.com##.ad-zone-sidebar-first
+    → |topspeed.com##.ad-zone-sidebar-first
+    → |xda-developers.com##.ad-zone-sidebar-first
+✅ 多域名拆分: androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##.ad-zone-size-container-content-above-latest
+    → |androidpolice.com##.ad-zone-size-container-content-above-latest
+    → |babygaga.com##.ad-zone-size-container-content-above-latest
+    → |backyardboss.net##.ad-zone-size-container-content-above-latest
+    → |carbuzz.com##.ad-zone-size-container-content-above-latest
+    → |cbr.com##.ad-zone-size-container-content-above-latest
+    → |collider.com##.ad-zone-size-container-content-above-latest
+    → |dualshockers.com##.ad-zone-size-container-content-above-latest
+    → |footballfancast.com##.ad-zone-size-container-content-above-latest
+    → |footballleagueworld.co.uk##.ad-zone-size-container-content-above-latest
+    → |gamerant.com##.ad-zone-size-container-content-above-latest
+    → |givemesport.com##.ad-zone-size-container-content-above-latest
+    → |hardcoregamer.com##.ad-zone-size-container-content-above-latest
+    → |hotcars.com##.ad-zone-size-container-content-above-latest
+    → |howtogeek.com##.ad-zone-size-container-content-above-latest
+    → |makeuseof.com##.ad-zone-size-container-content-above-latest
+    → |moms.com##.ad-zone-size-container-content-above-latest
+    → |movieweb.com##.ad-zone-size-container-content-above-latest
+    → |pocket-lint.com##.ad-zone-size-container-content-above-latest
+    → |pocketnow.com##.ad-zone-size-container-content-above-latest
+    → |screenrant.com##.ad-zone-size-container-content-above-latest
+    → |simpleflying.com##.ad-zone-size-container-content-above-latest
+    → |thegamer.com##.ad-zone-size-container-content-above-latest
+    → |therichest.com##.ad-zone-size-container-content-above-latest
+    → |thesportster.com##.ad-zone-size-container-content-above-latest
+    → |thethings.com##.ad-zone-size-container-content-above-latest
+    → |thetravel.com##.ad-zone-size-container-content-above-latest
+    → |topspeed.com##.ad-zone-size-container-content-above-latest
+    → |xda-developers.com##.ad-zone-size-container-content-above-latest
 ✅ 多域名拆分: androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##[class*="ad-zone-container-content-character-count-repeatable"]
     → |androidpolice.com##[class*="ad-zone-container-content-character-count-repeatable"]
     → |babygaga.com##[class*="ad-zone-container-content-character-count-repeatable"]
@@ -24575,10 +24662,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: eXaAavCLjKrA9+ZoVJou6Q
-🚫 去掉注释行: ! Version: 202601281141
+🚫 去掉注释行: ! Checksum: KcwTXX1NxIjgapOIlp1+2A
+🚫 去掉注释行: ! Version: 202601281221
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 28 Jan 2026 11:41 UTC
+🚫 去掉注释行: ! Last modified: 28 Jan 2026 12:21 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29132,10 +29219,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: /iN4Toe3bjU5BdhGa4TYnQ
-🚫 去掉注释行: ! Version: 202601281141
+🚫 去掉注释行: ! Checksum: nDaG3qxYPzKzlkRhPH8mZA
+🚫 去掉注释行: ! Version: 202601281221
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 28 Jan 2026 11:41 UTC
+🚫 去掉注释行: ! Last modified: 28 Jan 2026 12:21 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29834,11 +29921,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202601281145
+🚫 去掉注释行: ! Version: 202601281232
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 28 Jan 2026 11:45 UTC
+🚫 去掉注释行: ! Last modified: 28 Jan 2026 12:32 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 48d2db3168e878aa1c823e4f45bc5ba055d47028
+🚫 去掉注释行: ! Commit: 6f701b6732d37e58182d2713527899435194df8a
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -50849,35 +50936,122 @@
     → |travelocity.com##div[class="uitk-spacing uitk-spacing-margin-blockstart-three"]:has(a[href^="https://pagead2.googlesyndication.com/"])
     → |wotif.com##div[class="uitk-spacing uitk-spacing-margin-blockstart-three"]:has(a[href^="https://pagead2.googlesyndication.com/"])
 🚫 去掉注释行: ! adsninja fix
-✅ 多域名拆分: androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##.ad-current
-    → |androidpolice.com##.ad-current
-    → |babygaga.com##.ad-current
-    → |backyardboss.net##.ad-current
-    → |carbuzz.com##.ad-current
-    → |cbr.com##.ad-current
-    → |collider.com##.ad-current
-    → |dualshockers.com##.ad-current
-    → |footballfancast.com##.ad-current
-    → |footballleagueworld.co.uk##.ad-current
-    → |gamerant.com##.ad-current
-    → |givemesport.com##.ad-current
-    → |hardcoregamer.com##.ad-current
-    → |hotcars.com##.ad-current
-    → |howtogeek.com##.ad-current
-    → |makeuseof.com##.ad-current
-    → |moms.com##.ad-current
-    → |movieweb.com##.ad-current
-    → |pocket-lint.com##.ad-current
-    → |pocketnow.com##.ad-current
-    → |screenrant.com##.ad-current
-    → |simpleflying.com##.ad-current
-    → |thegamer.com##.ad-current
-    → |therichest.com##.ad-current
-    → |thesportster.com##.ad-current
-    → |thethings.com##.ad-current
-    → |thetravel.com##.ad-current
-    → |topspeed.com##.ad-current
-    → |xda-developers.com##.ad-current
+✅ 多域名拆分: androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##.ad-zone-container-sidebar-default
+    → |androidpolice.com##.ad-zone-container-sidebar-default
+    → |babygaga.com##.ad-zone-container-sidebar-default
+    → |backyardboss.net##.ad-zone-container-sidebar-default
+    → |carbuzz.com##.ad-zone-container-sidebar-default
+    → |cbr.com##.ad-zone-container-sidebar-default
+    → |collider.com##.ad-zone-container-sidebar-default
+    → |dualshockers.com##.ad-zone-container-sidebar-default
+    → |footballfancast.com##.ad-zone-container-sidebar-default
+    → |footballleagueworld.co.uk##.ad-zone-container-sidebar-default
+    → |gamerant.com##.ad-zone-container-sidebar-default
+    → |givemesport.com##.ad-zone-container-sidebar-default
+    → |hardcoregamer.com##.ad-zone-container-sidebar-default
+    → |hotcars.com##.ad-zone-container-sidebar-default
+    → |howtogeek.com##.ad-zone-container-sidebar-default
+    → |makeuseof.com##.ad-zone-container-sidebar-default
+    → |moms.com##.ad-zone-container-sidebar-default
+    → |movieweb.com##.ad-zone-container-sidebar-default
+    → |pocket-lint.com##.ad-zone-container-sidebar-default
+    → |pocketnow.com##.ad-zone-container-sidebar-default
+    → |screenrant.com##.ad-zone-container-sidebar-default
+    → |simpleflying.com##.ad-zone-container-sidebar-default
+    → |thegamer.com##.ad-zone-container-sidebar-default
+    → |therichest.com##.ad-zone-container-sidebar-default
+    → |thesportster.com##.ad-zone-container-sidebar-default
+    → |thethings.com##.ad-zone-container-sidebar-default
+    → |thetravel.com##.ad-zone-container-sidebar-default
+    → |topspeed.com##.ad-zone-container-sidebar-default
+    → |xda-developers.com##.ad-zone-container-sidebar-default
+✅ 多域名拆分: androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##.ad-zone-sidebar-default
+    → |androidpolice.com##.ad-zone-sidebar-default
+    → |babygaga.com##.ad-zone-sidebar-default
+    → |backyardboss.net##.ad-zone-sidebar-default
+    → |carbuzz.com##.ad-zone-sidebar-default
+    → |cbr.com##.ad-zone-sidebar-default
+    → |collider.com##.ad-zone-sidebar-default
+    → |dualshockers.com##.ad-zone-sidebar-default
+    → |footballfancast.com##.ad-zone-sidebar-default
+    → |footballleagueworld.co.uk##.ad-zone-sidebar-default
+    → |gamerant.com##.ad-zone-sidebar-default
+    → |givemesport.com##.ad-zone-sidebar-default
+    → |hardcoregamer.com##.ad-zone-sidebar-default
+    → |hotcars.com##.ad-zone-sidebar-default
+    → |howtogeek.com##.ad-zone-sidebar-default
+    → |makeuseof.com##.ad-zone-sidebar-default
+    → |moms.com##.ad-zone-sidebar-default
+    → |movieweb.com##.ad-zone-sidebar-default
+    → |pocket-lint.com##.ad-zone-sidebar-default
+    → |pocketnow.com##.ad-zone-sidebar-default
+    → |screenrant.com##.ad-zone-sidebar-default
+    → |simpleflying.com##.ad-zone-sidebar-default
+    → |thegamer.com##.ad-zone-sidebar-default
+    → |therichest.com##.ad-zone-sidebar-default
+    → |thesportster.com##.ad-zone-sidebar-default
+    → |thethings.com##.ad-zone-sidebar-default
+    → |thetravel.com##.ad-zone-sidebar-default
+    → |topspeed.com##.ad-zone-sidebar-default
+    → |xda-developers.com##.ad-zone-sidebar-default
+✅ 多域名拆分: androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##.ad-zone-sidebar-first
+    → |androidpolice.com##.ad-zone-sidebar-first
+    → |babygaga.com##.ad-zone-sidebar-first
+    → |backyardboss.net##.ad-zone-sidebar-first
+    → |carbuzz.com##.ad-zone-sidebar-first
+    → |cbr.com##.ad-zone-sidebar-first
+    → |collider.com##.ad-zone-sidebar-first
+    → |dualshockers.com##.ad-zone-sidebar-first
+    → |footballfancast.com##.ad-zone-sidebar-first
+    → |footballleagueworld.co.uk##.ad-zone-sidebar-first
+    → |gamerant.com##.ad-zone-sidebar-first
+    → |givemesport.com##.ad-zone-sidebar-first
+    → |hardcoregamer.com##.ad-zone-sidebar-first
+    → |hotcars.com##.ad-zone-sidebar-first
+    → |howtogeek.com##.ad-zone-sidebar-first
+    → |makeuseof.com##.ad-zone-sidebar-first
+    → |moms.com##.ad-zone-sidebar-first
+    → |movieweb.com##.ad-zone-sidebar-first
+    → |pocket-lint.com##.ad-zone-sidebar-first
+    → |pocketnow.com##.ad-zone-sidebar-first
+    → |screenrant.com##.ad-zone-sidebar-first
+    → |simpleflying.com##.ad-zone-sidebar-first
+    → |thegamer.com##.ad-zone-sidebar-first
+    → |therichest.com##.ad-zone-sidebar-first
+    → |thesportster.com##.ad-zone-sidebar-first
+    → |thethings.com##.ad-zone-sidebar-first
+    → |thetravel.com##.ad-zone-sidebar-first
+    → |topspeed.com##.ad-zone-sidebar-first
+    → |xda-developers.com##.ad-zone-sidebar-first
+✅ 多域名拆分: androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##.ad-zone-size-container-content-above-latest
+    → |androidpolice.com##.ad-zone-size-container-content-above-latest
+    → |babygaga.com##.ad-zone-size-container-content-above-latest
+    → |backyardboss.net##.ad-zone-size-container-content-above-latest
+    → |carbuzz.com##.ad-zone-size-container-content-above-latest
+    → |cbr.com##.ad-zone-size-container-content-above-latest
+    → |collider.com##.ad-zone-size-container-content-above-latest
+    → |dualshockers.com##.ad-zone-size-container-content-above-latest
+    → |footballfancast.com##.ad-zone-size-container-content-above-latest
+    → |footballleagueworld.co.uk##.ad-zone-size-container-content-above-latest
+    → |gamerant.com##.ad-zone-size-container-content-above-latest
+    → |givemesport.com##.ad-zone-size-container-content-above-latest
+    → |hardcoregamer.com##.ad-zone-size-container-content-above-latest
+    → |hotcars.com##.ad-zone-size-container-content-above-latest
+    → |howtogeek.com##.ad-zone-size-container-content-above-latest
+    → |makeuseof.com##.ad-zone-size-container-content-above-latest
+    → |moms.com##.ad-zone-size-container-content-above-latest
+    → |movieweb.com##.ad-zone-size-container-content-above-latest
+    → |pocket-lint.com##.ad-zone-size-container-content-above-latest
+    → |pocketnow.com##.ad-zone-size-container-content-above-latest
+    → |screenrant.com##.ad-zone-size-container-content-above-latest
+    → |simpleflying.com##.ad-zone-size-container-content-above-latest
+    → |thegamer.com##.ad-zone-size-container-content-above-latest
+    → |therichest.com##.ad-zone-size-container-content-above-latest
+    → |thesportster.com##.ad-zone-size-container-content-above-latest
+    → |thethings.com##.ad-zone-size-container-content-above-latest
+    → |thetravel.com##.ad-zone-size-container-content-above-latest
+    → |topspeed.com##.ad-zone-size-container-content-above-latest
+    → |xda-developers.com##.ad-zone-size-container-content-above-latest
 ✅ 多域名拆分: androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##[class*="ad-zone-container-content-character-count-repeatable"]
     → |androidpolice.com##[class*="ad-zone-container-content-character-count-repeatable"]
     → |babygaga.com##[class*="ad-zone-container-content-character-count-repeatable"]
@@ -52838,11 +53012,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202601281145
+🚫 去掉注释行: ! Version: 202601281232
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 28 Jan 2026 11:45 UTC
+🚫 去掉注释行: ! Last modified: 28 Jan 2026 12:32 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 48d2db3168e878aa1c823e4f45bc5ba055d47028
+🚫 去掉注释行: ! Commit: 6f701b6732d37e58182d2713527899435194df8a
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -68872,7 +69046,7 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !生成时间: 2026-01-28 19:30:59
+🚫 去掉注释行: !生成时间: 2026-01-28 19:51:51
 🚫 去掉注释行: !有效规则数目: 1532155
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
@@ -145070,10 +145244,10 @@
 🚫 去掉注释行: ! Blocked domains: 4950
 🚫 去掉注释行: ! unBlocked domains: 16
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: We/hyxweQVz84JYi9cuNpw
-🚫 去掉注释行: ! Version: 202601280325
+🚫 去掉注释行: ! Checksum: STkSXfaEdC0jqU6nkbmykw
+🚫 去掉注释行: ! Version: 202601281150
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-01-28 03:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-01-28 11:50 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -162539,6 +162713,10 @@
 ✅ 多域名拆分: marianne.net,rambler.ru#@#.share__list
     → |marianne.net#@#.share__list
     → |rambler.ru#@#.share__list
+✅ 多域名拆分: jobdetails.nestle.com,jobs.hatch.com,jobsearch.alstom.com#@#.socialbutton
+    → |jobdetails.nestle.com#@#.socialbutton
+    → |jobs.hatch.com#@#.socialbutton
+    → |jobsearch.alstom.com#@#.socialbutton
 ✅ 多域名拆分: advocate.com,comicsands.com#@#.sticky-share
     → |advocate.com#@#.sticky-share
     → |comicsands.com#@#.sticky-share
@@ -208695,9 +208873,9 @@
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: !---------------------------------Allowlists----------------------------------!
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: 9tm3Ik08qaBXSUADOBUFAw
+🚫 去掉注释行: ! Checksum: QFhO0tQi12hxd55Vq8QucQ
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Last modified: 2026-01-28 02:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-01-28 11:50 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
