@@ -34,14 +34,19 @@
 .de/l.gif?
 .eloqua.js
 .EventTracking.
+.file-downloads.outbound-links.js
 .gatracking.js
 .gif?Log=
+.hash.outbound-links.js
 .jp/pv?
 .jp/static/js/track.js
 .net/l.gif?
 .no/app/aas/a
+.outbound-links.file-downloads.js
 .outbound-links.pageview-props.revenue.tagged-events.js
+.outbound-links.tagged-events.js
 .pageview-props.js
+.pageview-props.tagged-events.js
 .php?action=browse&
 .php?action_name=
 .php?logid=$image
@@ -56,6 +61,7 @@
 .skimlinks.js
 .stats?action=
 .svc/?tracking_id=
+.tagged-events.outbound-links.js
 .v4.analytics.
 /.webscale/rum?
 /.well-known/shopify/monorail
@@ -1353,6 +1359,7 @@
 /load_analytics.php
 /loader-wp/static/loader.min.js?
 /loader/counter.js
+/loaders/analyticsScript.ts?
 /localga.js
 /locotrack.js
 /log-adblock.php?
@@ -1481,6 +1488,7 @@
 /matomo.php
 /matomo/*$script,domain=~github.com|~hub.docker.com|~matomo.org|~wordpress.org
 /matomo_video_tracking.js
+/mc4wp-premium/ecommerce3/assets/js/tracker.js
 /mcookie.aspx
 /mcount.cgi?
 /measure/pixel/*
@@ -1816,6 +1824,8 @@
 /pomegranate.js
 /pongAudienceLS?
 /popu.js$script
+/post-views-counter-pro/js/crawler-detect.js
+/post-views-counter-pro/js/frontend.js
 /postcounter.php?
 /postlog?
 /postview.gif?
@@ -2013,10 +2023,8 @@
 /scmetrics.*/b/ss/*
 /screencount?vcid=
 /scribd_events?
-/script.hash.outbound-links.pageview-props.tagged-events.js
-/script.pageview-props.tagged-events.js
+/script.outbound-links.js
 /script.tagged-events.js
-/script.tagged-events.outbound-links.js
 /script/pixel.js
 /scriptAnalytics.js
 /scripts.kissmetrics.com/*
@@ -3572,6 +3580,7 @@ omni.soundestlink.com$image
 ||instantfox.co^
 ||intellimizeio.com^
 ||irs01.com^
+||itsstats.wp1.site^
 ||jams.wiki^
 ||jcpclick.com^
 ||jubbie.de^
@@ -8415,6 +8424,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||customers.xray-superpixel.com^
 ||customfingerprints.bablosoft.com^
 ||cws.conviva.com^
+||d.lilstts.com^
 ||d.rcmd.jp^$image
 ||d.shareaholic.com^
 ||dadi.technology^$third-party
@@ -13898,6 +13908,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||vk.com/js/lib/px.js
 ||vortex.hulu.com^
 ||voyeur-house.tv/js/track.js
+||vpsbenchmarks.com/plausible.vpsb.js
 ||vrbo.com/edap/elo/v1/event/beacon
 ||vrbo.com/serp/api/metrics
 ||vsco.co/api/cantor/track
