@@ -1575,10 +1575,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 97519
-🚫 去掉注释行: ! Checksum: /iD9x+T8wKrFy3SfBQU6wg
-🚫 去掉注释行: ! Version: 202601281111
+🚫 去掉注释行: ! Checksum: V4YJ1ZukGiCpuBRKu4Mk3A
+🚫 去掉注释行: ! Version: 202601281132
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 28 Jan 2026 11:11 UTC
+🚫 去掉注释行: ! Last modified: 28 Jan 2026 11:32 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -24575,10 +24575,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: NNpyq0hLvfbWnBqaagM1gQ
-🚫 去掉注释行: ! Version: 202601281111
+🚫 去掉注释行: ! Checksum: eXaAavCLjKrA9+ZoVJou6Q
+🚫 去掉注释行: ! Version: 202601281141
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 28 Jan 2026 11:11 UTC
+🚫 去掉注释行: ! Last modified: 28 Jan 2026 11:41 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29132,10 +29132,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: fVLVtgog24R4bqVXYpBHSg
-🚫 去掉注释行: ! Version: 202601281111
+🚫 去掉注释行: ! Checksum: /iN4Toe3bjU5BdhGa4TYnQ
+🚫 去掉注释行: ! Version: 202601281141
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 28 Jan 2026 11:11 UTC
+🚫 去掉注释行: ! Last modified: 28 Jan 2026 11:41 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29834,11 +29834,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202601281114
+🚫 去掉注释行: ! Version: 202601281145
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 28 Jan 2026 11:14 UTC
+🚫 去掉注释行: ! Last modified: 28 Jan 2026 11:45 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: d207acacd0dbd4760ca100163409b7b9de5272f8
+🚫 去掉注释行: ! Commit: 48d2db3168e878aa1c823e4f45bc5ba055d47028
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -52838,11 +52838,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202601281118
+🚫 去掉注释行: ! Version: 202601281145
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 28 Jan 2026 11:18 UTC
+🚫 去掉注释行: ! Last modified: 28 Jan 2026 11:45 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: fb1e4fb58e8ff960b729dd248b9ebafd6f9f7f0d
+🚫 去掉注释行: ! Commit: 48d2db3168e878aa1c823e4f45bc5ba055d47028
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -67466,6 +67466,10 @@
 ✅ 多域名拆分: marianne.net,rambler.ru#@#.share__list
     → |marianne.net#@#.share__list
     → |rambler.ru#@#.share__list
+✅ 多域名拆分: jobdetails.nestle.com,jobs.hatch.com,jobsearch.alstom.com#@#.socialbutton
+    → |jobdetails.nestle.com#@#.socialbutton
+    → |jobs.hatch.com#@#.socialbutton
+    → |jobsearch.alstom.com#@#.socialbutton
 ✅ 多域名拆分: advocate.com,comicsands.com#@#.sticky-share
     → |advocate.com#@#.sticky-share
     → |comicsands.com#@#.sticky-share
@@ -68868,8 +68872,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !生成时间: 2026-01-28 18:59:13
-🚫 去掉注释行: !有效规则数目: 1532145
+🚫 去掉注释行: !生成时间: 2026-01-28 19:30:59
+🚫 去掉注释行: !有效规则数目: 1532155
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
