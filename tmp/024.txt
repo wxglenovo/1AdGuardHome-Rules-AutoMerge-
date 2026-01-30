@@ -2494,6 +2494,7 @@ anthropic.com##.ConsentBanner-module-scss-module__0uauWW__container
 sportsnet.ca##.ConsentModal-module_consent-modal-container__nDtVX
 |nordpass.com##.ConsentWidget__container
 |support.nordvpn.com##.ConsentWidget__container
+humanizeai.pro##.CoockiesBanner_cookies_container__3epvo
 jksrestaurants.com##.Cookie-message
 weverse.io##.CookieAgreeView_container__qYaK3
 radioplayer.vistaradio.ca##.CookieBanner-module__wrap--1QK9t
@@ -5134,6 +5135,7 @@ just-eat.ie##div[data-qa="jet-privacy-settings"]
 |finstat.cz###cookieConsent
 |finstat.sk###cookieConsent
 |fortunebusinessinsights.com###cookieConsent
+|ikmultimedia.com###cookieConsent
 |julesjordan.com###cookieConsent
 |kaveverzum.hu###cookieConsent
 |kurz-mal-weg.de###cookieConsent
@@ -7361,6 +7363,7 @@ dryg.pl##div[class^="CookiesNoti"]
 |brasil.perfil.com###cookie-notice
 |chortle.co.uk###cookie-notice
 |dersportverlag.de###cookie-notice
+|docs.flutter.dev###cookie-notice
 |epoch.ai###cookie-notice
 |foodbloggermania.it###cookie-notice
 |gamenode.app###cookie-notice
@@ -11043,6 +11046,9 @@ newsbreak.com##.py-2.px-2
 |spoke-store.com##.cookies_2022_bg
 |spoke-store.sk##.cookies_2022_bg
 |spoke.cz##.cookies_2022_bg
+|docpose.com###cookieAlert
+|seopolarity.com###cookieAlert
+|terabyteshop.com.br###cookieAlert
 |bitfactura.com##.jGrowl
 |bitfaktura.cz##.jGrowl
 |efakturierung.de##.jGrowl
@@ -13215,8 +13221,6 @@ support.github.com###consent-banner
 www.google.*###consent-bump
 netflix.com###cookie-disclosure
 whatsapp.com###cookie-policy-banner
-|docpose.com###cookieAlert
-|seopolarity.com###cookieAlert
 flightaware.com###cookieDisclaimerContainer
 duplichecker.com###cookie_directive_container
 |depositfiles.com###cookie_popup
