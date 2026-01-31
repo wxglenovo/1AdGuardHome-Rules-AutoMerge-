@@ -22708,7 +22708,6 @@ onassis.org##.bottom-0.relative
 |onsk.no##.bottom-0.fixed
 |opening-hours.today##.bottom-0.fixed
 |parqet.com##.bottom-0.fixed
-|pazarama.com##.bottom-0.fixed
 |penger.no##.bottom-0.fixed
 |pepeporn.com##.bottom-0.fixed
 |peppagame.com##.bottom-0.fixed
@@ -26968,6 +26967,7 @@ entail.ai##+js(set-cookie, cookie_consent_status, rejected, , reload, 1)
 stiegeler.com##+js(set-cookie, cookie_consent_user_accepted, false)
 |lotusantwerp.wacs.online##+js(set-cookie, cookie_consent_user_accepted, true)
 |ol-webshop.com##+js(set-cookie, cookie_consent_user_accepted, true)
+pazarama.com##+js(set-cookie, cookie_consent_v2, true)
 crosig.hr##+js(set-cookie, cookie_control_consent, true)
 crosig.hr##+js(set-cookie, cookie_control_enabled_cookies, required)
 |amzs.si##+js(set-cookie, cookie_gdpr, true, , reload, 1)
