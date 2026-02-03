@@ -4118,7 +4118,6 @@ accuradio.com##.ReactModal__Overlay--after-open.ReactModal__Overlay
 |aliexpress.com##+js(aeld, mouseleave)
 |aliexpress.us##+js(aeld, mouseleave)
 |dhgate.com##+js(aeld, mouseleave)
-|instagram.com##+js(aeld, mouseleave)
 |temu.com##+js(aeld, mouseleave)
 |x.com##+js(aeld, mouseleave)
 rumble.com##+js(set-cookie, premium_popup, 1)
@@ -14451,7 +14450,6 @@ promotion.simplefx.com##._cookiesDialog_108o2_90
 pixiv.net##._gdpr-notify-header
 dic.pixiv.net##._gdpr-notify-header_replace
 getblock.io##._getblock_ui_cookie_1m598_1
-instagram.com##._he402
 my.macpaw.com##._notification_qpb1z_1
 abplive.com##._p_policy
 luisaviaroma.com##._vgSl0cx4ao
@@ -15701,7 +15699,6 @@ addgene.org##.l-dismissible-msg
 lacoste.com##.l-fixed--bottom
 wiley.com##.l-notification
 campfirewriting.com##.lDcxu
-instagram.com##.lOPC8
 inoreader.com##.landing_promo_banner_top
 evs.com##.language-switcher
 shop.staplescopyandprint.ca##.law25-modal-container
@@ -51316,8 +51313,6 @@ behance.net##.js-vue-mobile-app-upsell
 behance.net##body,html:style(overflow: auto !important; position: initial !important;)
 m.economictimes.com##+js(set-session-storage-item, nudgeStickyBannerHide, true)
 mypenndentist.org##+js(set-cookie, undefinedpopup-pdfpcouponoffer, 1)
-rottentomatoes.com##body,html:style(height: auto !important; overflow: auto !important)
-rottentomatoes.com##overlay-base
 ifunny.co##.aq4y._0sJI
 ifunny.co##body,html:style(overflow: auto !important; position: initial !important;)
 crunchbase.com##+js(set-local-storage-item, entity-limiter-views, $remove$)
