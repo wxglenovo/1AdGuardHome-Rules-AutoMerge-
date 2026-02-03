@@ -2216,7 +2216,7 @@
 /stats-js.cgi?
 /stats-listener.js
 /stats-tracking.js
-/stats.*/event
+/stats.*/event$domain=~stats.prisamedia.cl
 /stats.*/hits/*
 /stats.*/tracker.
 /stats.asp?id
@@ -7840,6 +7840,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.shorte.st^
 ||analytics.shorthand.com^
 ||analytics.sitewit.com^
+||analytics.skyscanner.net^
 ||analytics.sleeknote.com^
 ||analytics.snidigital.com^
 ||analytics.strangeloopnetworks.com^
@@ -12430,6 +12431,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cookpad.com/*/activity_logs
 ||copilot-telemetry.githubusercontent.com^
 ||core-features.cambridge.org/proxy/client/metrics
+||coros.com/traceapi
 ||count.all.biz^
 ||count.darkreader.app^
 ||count.rin.ru^
@@ -13759,6 +13761,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tilanalytics.timesinternet.in^
 ||time.is/img/nod.png
 ||tiplink.io/fp-agent.js
+||titanprod.narvar.com^
 ||tms.abconsent.com^
 ||tms.delta.com/privacy/$image
 ||tms.eharmony.ca^
