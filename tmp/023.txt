@@ -14227,6 +14227,7 @@ spiceworks.com###zdprivacy-content-new
 |iverify.io##.--framer-cookie-banner-container
 |localculture.org##.--framer-cookie-banner-container
 |neon-free.ch##.--framer-cookie-banner-container
+|netcraft.com##.--framer-cookie-banner-container
 |podspace.com##.--framer-cookie-banner-container
 |site.trasti.pl##.--framer-cookie-banner-container
 |snoutcover.com##.--framer-cookie-banner-container
@@ -16425,6 +16426,7 @@ nwtc.edu##.u-background--default-dark
 nfumutual.co.uk##.u-bg-padd
 developer.x.com##.u12-data-protection-notice__item
 uswitch.com##.ucb
+sierraspace.com##.ue-cookie-consent-wrapper
 asendiausa.com##.ui-alert
 touchemedia.com##.ui-privacy
 zend.com##.ui-resizable
@@ -18307,6 +18309,7 @@ stokrotka.pl###cboxWrapper
 |surflightingdesign.com###colorbox
 |testo.com###colorbox
 |transletra.pl###colorbox
+|cretepa.com##.cookies-component
 |proprospan.ru##.cookies-component
 |worksmile.com##.cookies-component
 |alte-apotheke-hamm.de###BorlabsCookieBox
@@ -28905,6 +28908,7 @@ voltadol.at##+js(set-local-storage-item, cookiebanner-active, false)
 haleon-gebro.at##+js(set-local-storage-item, cookiebanner:extMedia, false)
 haleon-gebro.at##+js(set-local-storage-item, cookiebanner:statistic, false)
 apply.opentech.fund##+js(set-local-storage-item, cookieconsent, decline)
+faucetcrypto.com##+js(set-local-storage-item, cookieconsent, true)
 librinova.com##+js(set-local-storage-item, cookieconsent_status, false)
 unobike.com##+js(set-local-storage-item, cookieinfo, 1)
 tennessine.co.uk##+js(set-local-storage-item, cookies, 0)
