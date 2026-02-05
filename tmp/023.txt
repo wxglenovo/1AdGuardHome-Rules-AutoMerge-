@@ -25575,6 +25575,10 @@ esa.nask.pl##+js(set-cookie, GA_COOKIE_SMOG, accepted)
 turvakilvet.fi##+js(set-cookie, GBaseConsent, 0)
 turvakilvet.fi##+js(set-cookie, GBaseConsentToAnalytics, 0)
 marinelink.com##+js(set-cookie, GDPR, 9)
+warrenjames.co.uk##+js(set-cookie, GDPR.CONSENT.ANALYTICS, false)
+warrenjames.co.uk##+js(set-cookie, GDPR.CONSENT.MARKETING, false)
+warrenjames.co.uk##+js(set-cookie, GDPR.CONSENT.NECESSARY, true)
+warrenjames.co.uk##+js(set-cookie, GDPR.CONSENT.STATUS, true, , reload, 1)
 |szerencsejatek.hu##+js(set-cookie, GDPR_LEVEL, 1)
 |tippmix.hu##+js(set-cookie, GDPR_LEVEL, 1)
 |szerencsejatek.hu##+js(set-cookie, GDPR_VERSION, 1)
@@ -26708,6 +26712,8 @@ karls-shop.de##+js(set-cookie, cookie-preference-v3, 1)
 armedangels.com##+js(set-cookie, cookie-preference_renew10, 1)
 deltatre.com##+js(set-cookie, cookie-preferences-analytics, no)
 deltatre.com##+js(set-cookie, cookie-preferences-marketing, no)
+|mythical.market##+js(set-cookie, cookie-preferences-mythical, 1)
+|mythicalgames.com##+js(set-cookie, cookie-preferences-mythical, 1)
 eurosupps.nl##+js(set-cookie, cookie-preferences-submitted20190710, true)
 deltatre.com##+js(set-cookie, cookie-preferences-technical, yes)
 hifitest.de##+js(set-cookie, cookie-set-popup, 0, , reload, 1)
@@ -27340,6 +27346,7 @@ atombank.co.uk##+js(set-cookie, enableTargetingAdvertisingCookies, denied)
 catawiki.com##+js(set-cookie, enable_analytical_cookies, false)
 catawiki.com##+js(set-cookie, enable_marketing_cookies, false)
 onderwijsvacaturebank.nl##+js(set-cookie, enablecookie, false, , reload, 1)
+dragshop.com##+js(set-cookie, enabled_cookie_accept_cookies, 0, , reload, 1)
 endgame.id##+js(set-cookie, endgame-accept-policy, true)
 |anderweltverlag.com##+js(set-cookie, epCookieConsent, 0, , reload, 1)
 |bikepro.de##+js(set-cookie, epCookieConsent, 0, , reload, 1)
@@ -27892,6 +27899,7 @@ ofdb.de##+js(set-cookie, ofdb_werbung, Y, , reload, 1)
 oxfordonlineenglish.com##+js(set-cookie, ooe_cookie_policy_accepted, no)
 sebo.ddns.opc-asp.de##+js(set-cookie, opc_webapp_cookiesaccepted_be264d3fecc64041f12c2afcba82edc0, 1, , reload, 1)
 opintopolku.fi##+js(set-cookie, oph-mandatory-cookies-accepted, true)
+supplier.stellantis.com##+js(set-cookie, opncl_general, true)
 moebel-mahler-siebenlehn.de##+js(set-cookie, optOutAccepted, true)
 moebel-mahler-siebenlehn.de##+js(set-cookie, optOutsTouched, true)
 ovation.ca##+js(set-cookie, ovation.v20231006.essentials, 1)
@@ -28872,6 +28880,7 @@ notthebee.com##+js(set-local-storage-item, cookieConsent, granted)
 rg.ru##+js(set-local-storage-item, cookieConsent, {})
 |mastersintime.com##+js(set-local-storage-item, cookieConsentV2, 1)
 |watch.co.uk##+js(set-local-storage-item, cookieConsentV2, 1)
+eyeletic.com##+js(set-local-storage-item, cookieInfoDismissed, true)
 sberdisk.ru##+js(set-local-storage-item, cookieIsAccepted, true)
 |i-fundusze.pl##+js(set-local-storage-item, cookiePolicy, true)
 |movies4us.*##+js(set-local-storage-item, cookiePolicy, true)
@@ -40790,6 +40799,7 @@ volantino.carrefour.it#@#.c-cookie
 hartmanngruppe.net#@#.cc-type-opt-in.cc-floating
 mbanc.com#@#.ccpa-banner
 cooleffect.org#@#.ce-banner
+myigetit.com#@#.cky-classic-bottom.cky-consent-container
 highlights.legaseriea.it#@#.cl-consent
 varzesh3.com#@#.cm-message
 eplus.jp#@#.cm-notification-container
@@ -40818,6 +40828,7 @@ voetbal.nu#@#.cookie-consent.show
 |eduvulcan.pl#@#.cookie-footer
 |nltraining.nl#@#.cookie-footer
 |sevdesk.de#@#.cookie-footer
+|supplier.stellantis.com#@#.cookie-footer
 gostanford.com#@#.cookie-holder
 |scouting.webdamdb.com#@#.cookie-info-block
 |squla.nl#@#.cookie-info-block
