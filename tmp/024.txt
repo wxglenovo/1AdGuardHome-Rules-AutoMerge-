@@ -3329,6 +3329,7 @@ gstarcad.net##.cookies-ask
 |credential.net##.cookies-banner
 |meningitisnow.org##.cookies-banner
 |soenergy.com##.cookies-banner
+fullstack.com##.cookies-banner_wrapper
 gomosafer.com##.cookies-body
 gitads.dev##.cookies-card
 mycar.com.au##.cookies-cards
@@ -5083,7 +5084,8 @@ trumpf.com##ux-cookie-layer
 |rockymountainpower.net##wcss-cookie-banner
 web.dev##web-snackbar
 wirexapp.com##wx-cookie-policy-notification
-history.com##.p11s5o4
+|history.com##.p11s5o4
+|yunexpress.com##.p11s5o4
 history.com##[data-sentry-component="Box"]:has-text(Legal Terms and Privacy)
 |amazon.ca###sp-cc-wrapper
 |amazon.co.uk###sp-cc-wrapper
@@ -5429,6 +5431,7 @@ sogeti.*###popup-cookieConsent
 |thewallsthotel.com##div[class^="cookie__"]
 |account.bhvr.com##.osano-cm-window
 |advancedsciencenews.com##.osano-cm-window
+|americastestkitchen.com##.osano-cm-window
 |bitwarden.com##.osano-cm-window
 |midnight.gd##.osano-cm-window
 |scribd.com##.osano-cm-window
@@ -9051,6 +9054,7 @@ decovarrubias.es###sliding-popup-cookies
 |vietnamradio.org##.cookie-consent
 |vinkkoeltechniek.com##.cookie-consent
 |vitrosearch.ch##.cookie-consent
+|vmcardio.com##.cookie-consent
 |webhallen.com##.cookie-consent
 |werkenbijversluis.nl##.cookie-consent
 |zhibo.fm##.cookie-consent
@@ -10211,6 +10215,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |lifehacker.ru##.cookie-banner
 |lokmat.com##.cookie-banner
 |massey.ac.nz##.cookie-banner
+|mcc-9.jp##.cookie-banner
 |medipolis.de##.cookie-banner
 |mega.io##.cookie-banner
 |mercadona.es##.cookie-banner
@@ -11042,10 +11047,12 @@ onassis.org##.bottom-0.relative
 |veryfront.com##.bottom-0.fixed
 |wizzair.com##.bottom-0.fixed
 |wyylde.com##.bottom-0.fixed
+|yunexpress.com##.bottom-0.fixed
 |zubi.swiss##.bottom-0.fixed
 |argyle.com##.bottom-2
 |artma-zaproszenia.pl##.bottom-2
 |claude.ai##.bottom-2
+|deno.com##.bottom-2
 |getmerlin.in##.bottom-2
 |olecams.com##.bottom-2
 |producthunt.com##.bottom-2
@@ -14877,6 +14884,7 @@ nieuwbouw-borger-odoorn.nl###cookie-overlay
 ekoplaza.nl###cookie-prompt-modal___BV_modal_outer_
 keuze.nl###cookie_consent
 nt-e.nl###cookie_container
+|afzuigkap.nl###cookie_popup_body
 |l28.nl###cookie_popup_body
 |snickersshopbelgie.be###cookie_popup_body
 doof.nl###cookiechoices
@@ -15642,6 +15650,7 @@ juken-mikata.net###cookieAlt
 |marna.jp###cookieBox
 |naturesway.jp###cookieBox
 |noevirgroup.jp###cookieBox
+|online.tutuanna.jp###cookieBox
 |plazastyle.com###cookieBox
 |right-on.co.jp###cookieBox
 |store.kadokawa.co.jp###cookieBox
@@ -17860,6 +17869,7 @@ gogolf.fi#@##cookie_hdr_showagain
 |buendnisse-fuer-bildung.de##cookiebanner
 |destatis.de##cookiebanner
 |drklein.de##cookiebanner
+|gdi-sh.de##cookiebanner
 |oxfamnovib.nl##cookiebanner
 |schleswig-holstein.de##cookiebanner
 |thw-ausbildungszentrum.de##cookiebanner
@@ -18967,6 +18977,7 @@ yoigo.com#@#thor-cookies
 @@||gamersgate.com/js/cookieconsent.js$script,~third-party
 @@||gastronovi.com/_assets/*/JavaScript/cookie_consent.js$~third-party
 @@||gazetabilgoraj.pl/wp-content/plugins/uk-cookie-consent/
+@@||gdi-sh.de/SiteGlobals/Modules/CookieBanner/$xmlhttprequest,domain=gdi-sh.de
 @@||gdpr-wrapper.privacymanager.io/gdpr/$script,xmlhttprequest,domain=dailybuzz.nl|esquire.de|futurezone.at|geenstijl.nl|gids.tv|kinuskikissa.fi|kleinezeitung.at|kurier.at|lablue.de|mediaite.com|nettivuokraus.com|omroepbrabant.nl|parra.nu|pickmypostcode.com|plusonline.nl|profil.at|rtvnoord.nl|verkeerplaza.nl|vesti.bg|weeronline.nl|weerplaza.nl
 @@||geo.privacymanager.io^$xmlhttprequest,domain=omroepbrabant.nl|plusonline.nl|weerplaza.nl
 @@||geolocation.onetrust.com/cookieconsentpub/$script,domain=rackroomshoes.com
