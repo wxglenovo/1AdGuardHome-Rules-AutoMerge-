@@ -1,5 +1,6 @@
 [Adblock Plus 2.0]
 /1-popupally-pro-code.js
+/akam-sw.js
 /amp-apester-
 /arscode-ninja-popups/*$~stylesheet
 /copy_text.js
@@ -3100,6 +3101,7 @@ esslinger-zeitung.de##.scroll-to
 |pbteen.com##.scroll-to-top
 |peoplematters.in##.scroll-to-top
 |ptinews.com##.scroll-to-top
+|radiondadurto.org##.scroll-to-top
 |saalbach-hinterglemm.nl##.scroll-to-top
 |sasol.com##.scroll-to-top
 |westcordhotels.com##.scroll-to-top
@@ -3636,6 +3638,7 @@ imbruttito.com##.gototopdesk
 |comuniciclabili.it##.hc_scrollup
 |wikibit.it##.hc_scrollup
 astrooroscopo.it##.in
+radiondadurto.org##.inpage-ad-section
 |condominio.com##.ir-arriba
 |libero.it##.ir-arriba
 sky.it##.j-navTop
@@ -13489,18 +13492,6 @@ velosure.co.uk###cookie-bar-template
 loversstores.com###cookie-check
 yousign.com###cookie-consent-app
 store.azeron.eu###cookie-consent-background
-|albar.co.il###cookie-consent-banner
-|chicagobooth.edu###cookie-consent-banner
-|eurocommercialproperties.com###cookie-consent-banner
-|fundrazr.com###cookie-consent-banner
-|joinstellar.ai###cookie-consent-banner
-|news.stanford.edu###cookie-consent-banner
-|rfdtvcanada.ca###cookie-consent-banner
-|softexia.com###cookie-consent-banner
-|thecowboychannelcanada.ca###cookie-consent-banner
-|thewaterchannel.ca###cookie-consent-banner
-|travel-europe.europa.eu###cookie-consent-banner
-|wildtv.ca###cookie-consent-banner
 |ames-surgery.com###cookie-consent-container
 |baxtercycle.com###cookie-consent-container
 |centralstate.bank###cookie-consent-container
@@ -22123,6 +22114,19 @@ prsformusic.com###cookie__modal
 |bta-international.com##.cc-layer
 |dahlhaus-leuchten.de##.cc-layer
 |poenvoorgroen.nl##.cc-layer
+|albar.co.il###cookie-consent-banner
+|chicagobooth.edu###cookie-consent-banner
+|eurocommercialproperties.com###cookie-consent-banner
+|frisbi24.ru###cookie-consent-banner
+|fundrazr.com###cookie-consent-banner
+|joinstellar.ai###cookie-consent-banner
+|news.stanford.edu###cookie-consent-banner
+|rfdtvcanada.ca###cookie-consent-banner
+|softexia.com###cookie-consent-banner
+|thecowboychannelcanada.ca###cookie-consent-banner
+|thewaterchannel.ca###cookie-consent-banner
+|travel-europe.europa.eu###cookie-consent-banner
+|wildtv.ca###cookie-consent-banner
 |adp-enseignes.com###gdpr
 |affidabile.org###gdpr
 |auburn.edu###gdpr
@@ -25069,6 +25073,7 @@ canva.com##[role="dialog"]:has-text(/cookie/i)
 moebelix.at##body > div > div:has(#jentis_consent)
 boomlify.com##div > div:has-text(We use cookies to improve your experience.)
 yogainternational.com##div[class^="elements__Banner-"]:has(> div > a[href$="-privacy-policy"])
+help.semmelweis.hu#?#.modal:has(h3:has-text(SÃ¼tik hasznÃ¡lata)):has(button:has-text(ElfogadÃ¡s))
 flyfi.com##.HASH_COOKIE_ALERT_GRID_ITEM_FIXED
 aainflight.com##div[class*="_toastContainer_"]:has-text(We care about your privacy)
 |codeburst.io##body > div:not([class]):not([id]) > div[class*=" "]:has(> div > div > div[class] > a[href^="https://policy.medium.com/medium-privacy-policy-"])
@@ -25329,6 +25334,11 @@ ft.com##.o-cookie-message
 |saubusse-thermes.com##+js(rc, unreadable-display, , stay)
 |systelia.fr##+js(rc, unreadable-display, , stay)
 juken-mikata.net##body:remove-class(has-cookie-consent)
+|foodker.hu##+js(set, cookie_alert_overlay, noopFunc)
+|laptophardware.hu##+js(set, cookie_alert_overlay, noopFunc)
+|milestone66.hu##+js(set, cookie_alert_overlay, noopFunc)
+|paplanvilag.hu##+js(set, cookie_alert_overlay, noopFunc)
+|reformsziget.hu##+js(set, cookie_alert_overlay, noopFunc)
 figurepos.com##+js(set-cookie, %22generic-cookie-agreement%22, true)
 |hetwkz.nl##+js(set-cookie, .AspNet.Consent, no, , , reload, 1)
 |payworks.ca##+js(set-cookie, .AspNet.Consent, no, , , reload, 1)
@@ -26785,6 +26795,7 @@ deltatre.com##+js(set-cookie, cookie-preferences-technical, yes)
 hifitest.de##+js(set-cookie, cookie-set-popup, 0, , reload, 1)
 prageru.com##+js(set-cookie, cookie-status-analytics, false)
 sugi-net.jp##+js(set-cookie, cookie-use-accept, false)
+fizz.hu##+js(set-cookie, cookie.consent.finished, 1)
 batesenvironmental.co.uk##+js(set-cookie, cookieAccepted, 0)
 |dom.ru##+js(set-cookie, cookieAccepted, true)
 |gadis.es##+js(set-cookie, cookieAccepted, true)
@@ -27620,6 +27631,7 @@ reliant.co.uk##+js(set-cookie, gdpr_cookie_groups, 1)
 petcity.lt##+js(set-cookie, gdpr_cookie_token, 1)
 iconoclasts.blog##+js(set-cookie, gdpr_decline, 1)
 calendly.com##+js(set-cookie, gdpr_dismissal, true)
+fizz.hu##+js(set-cookie, gdpr_level, 1)
 bonbon.hr##+js(set-cookie, gdpr_level_1_necessary, 1)
 xn--lkylen-vxa.se##+js(set-cookie, gdpr_ok, necessary)
 flinders.edu.au##+js(set-cookie, gdpr_opted_in, true, , reload, 1)
@@ -28522,6 +28534,7 @@ baur.eu##+js(set-cookie-reload, cookies_confirmed_18, 4)
 dom.ria.com##+js(set-cookie-reload, gdpr, 1)
 xistore.by##+js(set-cookie-reload, marketing_cookie_agree, false)
 travelfranceonline.com##+js(set-cookie-reload, tlc_cookie_banner_declined, true)
+skanzen.hu##+js(set-local-storage-item, skanzen-cookie-consent, false)
 |abels.co.uk##+js(set-cookie, viewed_cookie_policy, yes, , reload, 1)
 |ahepaseniorliving.org##+js(set-cookie, viewed_cookie_policy, yes, , reload, 1)
 |altraeta.it##+js(set-cookie, viewed_cookie_policy, yes, , reload, 1)
@@ -29089,6 +29102,7 @@ mui.com##+js(set-local-storage-item, docs-cookie-consent, essential)
 walmart.ca##+js(set-local-storage-item, enableCookieBanner, false)
 form.fillout.com##+js(set-local-storage-item, explicitCookieAccept-24149, true)
 studiofabiobiesel.com##+js(set-local-storage-item, fb-cookies-accepted, false)
+onlinepenztarca.hu##+js(set-local-storage-item, felhasznalo_cookie_preferencia, 0)
 librumreader.com##+js(set-local-storage-item, firstVisit, false)
 |bunq.com##+js(set-local-storage-item, framerCookiesDismissed, true)
 |framer.com##+js(set-local-storage-item, framerCookiesDismissed, true)
@@ -49652,6 +49666,7 @@ doctorofcredit.com#@#.wpdiscuz-subscribe-bar
 /onesignalfix.js
 /OneSignalSDKUpdaterWorker.js
 /OneSignalSDKWorker.js
+/partytown-sw.js
 /perfecty-push-sdk.min.js
 /plugins/tfnotifier-wp/swloader.php
 /push-notification.js
@@ -49761,7 +49776,6 @@ doctorofcredit.com#@#.wpdiscuz-subscribe-bar
 ||seattletimes.com/wp-content/plugins/st-user-messaging/$script
 ||sportskeeda.com/js/production/web-notifications/
 ||techwalla.com/push-service-worker.js
-||telegraphindia.com/akam-sw.js
 ||timesnownews.com/sw.js
 ||ultimedia.com/js/common/notification.js
 ||weather.com/*.MedalliaSurvey.

@@ -1695,18 +1695,6 @@ velosure.co.uk###cookie-bar-template
 loversstores.com###cookie-check
 yousign.com###cookie-consent-app
 store.azeron.eu###cookie-consent-background
-|albar.co.il###cookie-consent-banner
-|chicagobooth.edu###cookie-consent-banner
-|eurocommercialproperties.com###cookie-consent-banner
-|fundrazr.com###cookie-consent-banner
-|joinstellar.ai###cookie-consent-banner
-|news.stanford.edu###cookie-consent-banner
-|rfdtvcanada.ca###cookie-consent-banner
-|softexia.com###cookie-consent-banner
-|thecowboychannelcanada.ca###cookie-consent-banner
-|thewaterchannel.ca###cookie-consent-banner
-|travel-europe.europa.eu###cookie-consent-banner
-|wildtv.ca###cookie-consent-banner
 |ames-surgery.com###cookie-consent-container
 |baxtercycle.com###cookie-consent-container
 |centralstate.bank###cookie-consent-container
@@ -10329,6 +10317,19 @@ prsformusic.com###cookie__modal
 |bta-international.com##.cc-layer
 |dahlhaus-leuchten.de##.cc-layer
 |poenvoorgroen.nl##.cc-layer
+|albar.co.il###cookie-consent-banner
+|chicagobooth.edu###cookie-consent-banner
+|eurocommercialproperties.com###cookie-consent-banner
+|frisbi24.ru###cookie-consent-banner
+|fundrazr.com###cookie-consent-banner
+|joinstellar.ai###cookie-consent-banner
+|news.stanford.edu###cookie-consent-banner
+|rfdtvcanada.ca###cookie-consent-banner
+|softexia.com###cookie-consent-banner
+|thecowboychannelcanada.ca###cookie-consent-banner
+|thewaterchannel.ca###cookie-consent-banner
+|travel-europe.europa.eu###cookie-consent-banner
+|wildtv.ca###cookie-consent-banner
 |adp-enseignes.com###gdpr
 |affidabile.org###gdpr
 |auburn.edu###gdpr
@@ -13275,6 +13276,7 @@ canva.com##[role="dialog"]:has-text(/cookie/i)
 moebelix.at##body > div > div:has(#jentis_consent)
 boomlify.com##div > div:has-text(We use cookies to improve your experience.)
 yogainternational.com##div[class^="elements__Banner-"]:has(> div > a[href$="-privacy-policy"])
+help.semmelweis.hu#?#.modal:has(h3:has-text(SÃ¼tik hasznÃ¡lata)):has(button:has-text(ElfogadÃ¡s))
 flyfi.com##.HASH_COOKIE_ALERT_GRID_ITEM_FIXED
 aainflight.com##div[class*="_toastContainer_"]:has-text(We care about your privacy)
 |codeburst.io##body > div:not([class]):not([id]) > div[class*=" "]:has(> div > div > div[class] > a[href^="https://policy.medium.com/medium-privacy-policy-"])
