@@ -1860,6 +1860,7 @@ ally.com###cx_banner_container
 crecipe.com###cxcx
 littlerealestate.com.au###da-float-cookie
 agrarshop-online.com###darkBack
+gv.com.sg###dataProtectionDiv
 mobily.com.sa###data_priv_bar
 ibm.com###dbdm--message
 pdfprof.com###dddhh
@@ -4030,6 +4031,7 @@ spotify.com##.mh-message-bar
 infineon.com##.mi-consent-layer
 bitget.com##.micro-cookie-dialog
 transparency.org##.mk-c-modal
+themarketer.com##.mkt-cookies-wrapper
 amazon.com##.mo-wp
 ny.thepaperfair.com##.mob-cookie-consent
 xhamster.com##.mobile-4488f.wrapper-4488f
@@ -5221,6 +5223,7 @@ just-eat.ie##div[data-qa="jet-privacy-settings"]
 |georg-apotheke-hannover.de###cookie-wrapper
 |grosskreuz-apotheke.de###cookie-wrapper
 |klosterapotheke-blankenburg.de###cookie-wrapper
+|magticom.ge###cookie-wrapper
 |mitunsgesund.de###cookie-wrapper
 |pannier-apotheke.de###cookie-wrapper
 |postapotheke.biz###cookie-wrapper
@@ -5337,6 +5340,7 @@ sogeti.*###popup-cookieConsent
 |tourradar.com###cookie-notification
 |verkkokauppa.mikrokulma.fi###cookie-notification
 |airtel.in##.cookies-container
+|ashdodport.co.il##.cookies-container
 |habblet.city##.cookies-container
 |interativa.ind.br##.cookies-container
 |moex.com##.cookies-container
@@ -9584,6 +9588,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |u.sb##.CookieConsent
 |ubank.co.za##.CookieConsent
 |upgrade.chat##.CookieConsent
+|vinnitsa.info##.CookieConsent
 |wunderkind.co##.CookieConsent
 |zakzak.co.jp##.CookieConsent
 |hilti.com##.m-smartbar-container
@@ -13259,6 +13264,7 @@ coopmobile.ch##.top-0.z-9999.fixed.bg-opacity-30:has-text(Website Cookies)
 studocu.com##.undefined:has([data-test-selector="click-the-cookie-banner"])
 istockphoto.com##.warning:has([data-cookie-type])
 app.filen.io##.z-50:has-text(This site uses cookies)
+hm-news.co.il##[data-elementor-type="popup"]:has-text(Cookies)
 unsplash.com##[open]:has(a[href="/cookies"])
 canva.com##[role="dialog"]:has-text(/cookie/i)
 |bitbucket.org##[role="dialog"]:has-text(cookies)
@@ -15252,29 +15258,40 @@ calendar.2net.co.il###UseCookies
 maccabi4u.co.il###ZA_CAMP_BANNER_CONTAINER
 maccabi4u.co.il###ZA_CAMP_MOBILE_CONTAINER
 foodsdictionary.co.il###cookie-consent
+ladaat.co###cookie-consent-banner
 019mobile.co.il###cookie-except-banner
 madlan.co.il###cookie-root
+soltam.co.il###dfwt-gdpr-overlay
 ivory.co.il###removeBannerCookie
 gadgety.co.il###upnext-cookie-notice
 cal-online.co.il###wc-using-cookies
 iroads.co.il##.CookiePolicyDisclaimer
 lastprice.co.il##.PCConsent
+shop.sano.co.il##.accept_cookies_wrapper
 guidestar.org.il##.app-cookies-disclaimer-container
+ladaat.co##.ck-cookie-banner
 israelpost.co.il##.cookie-agreement
 yad2.co.il##.cookie-implementation-disclaimer_popupRoot__CLI1m
 easy.co.il##.cookies-consent-banner
+bug.co.il##.cookies-policy-modal-container
+pazgas.co.il##.cookies-popup-overlay
+landwercafe.co.il##.cookies_modal_container
 pais.co.il##.cookies_sec
 drushim.co.il##.dr-cookie-banner
+mtoys.co.il##.e2w-cookie-popup
+xphone.co.il##.elementor-element-7f094b47
 yad-mordechai.co.il##.eupopup-container
+cinema-city.co.il##.gdpr-module
 diners.co.il##.message-container
 bankhapoalim.co.il##.muirtl-1cwm7gt
 super-pharm.co.il##.phcBlockCookiesWrap
 colmobil.co.il##.popup-privacy
+|dynamica.co.il##[class^="cookiesPopup"]
+|kfar.co.il##[class^="cookiesPopup"]
 alljobs.co.il##[id^="ZA_CAMP_BUBBLE_CONTAINER_CID_"]
 lastminute.co.il##app-notifications-container
 iec.co.il##app-sticky-banner
 dutyfree.co.il##div[class^="cookieRestriction-module__root-"]
-dynamica.co.il##div[class^="cookiesPopup"]
 yad2.co.il##div[data-nagish="cookie-implementation-disclaimer"]
 hb2.bankleumi.co.il##div[data-tid="cookies-banner"]
 postalfinance.co.il##float-window-alert
@@ -17507,6 +17524,7 @@ intertop.ua##.agreement
 kurs.com.ua##.background-popup
 ire.com.ua##.block
 booknet.ua##.bn_cookies
+delo.ua##.c-cookies-modal
 carta.ua##.carta-policy-bottom
 alfa-tv.ua##.cook
 |glavcom.ua##.cookie-label
