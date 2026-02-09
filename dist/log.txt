@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-02-09T06:30:52.864Z
+🚫 去掉注释行: ! Last modified: 2026-02-09T08:21:13.139Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v1.0.38
 🚫 去掉注释行: !
@@ -1575,10 +1575,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 96641
-🚫 去掉注释行: ! Checksum: RSNEDs8e66+dBUQCr/9Qrw
-🚫 去掉注释行: ! Version: 202602090751
+🚫 去掉注释行: ! Checksum: HpCiRX8vCkwwu+f9pNPXTQ
+🚫 去掉注释行: ! Version: 202602090841
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 09 Feb 2026 07:51 UTC
+🚫 去掉注释行: ! Last modified: 09 Feb 2026 08:41 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -19520,6 +19520,9 @@
 ✅ 多域名拆分: dexerto.com,republicworld.com##.min-h-\[400px\]
     → |dexerto.com##.min-h-\[400px\]
     → |republicworld.com##.min-h-\[400px\]
+✅ 多域名拆分: op.gg,stomp.sg##.min-h-\[50px\]
+    → |op.gg##.min-h-\[50px\]
+    → |stomp.sg##.min-h-\[50px\]
 ✅ 多域名拆分: motortrend.com,officialcharts.com,republicworld.com,w3docs.com,yaledailynews.com##.min-h-\[90px\]
     → |motortrend.com##.min-h-\[90px\]
     → |officialcharts.com##.min-h-\[90px\]
@@ -24683,10 +24686,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: ROAXAufY7XdhDqa8pZpqnA
-🚫 去掉注释行: ! Version: 202602090741
+🚫 去掉注释行: ! Checksum: yF7ilybzBCVic1xoPjxnQQ
+🚫 去掉注释行: ! Version: 202602090841
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 09 Feb 2026 07:41 UTC
+🚫 去掉注释行: ! Last modified: 09 Feb 2026 08:41 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29248,10 +29251,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: Ga0lPSKxfATtQemuNZkbdg
-🚫 去掉注释行: ! Version: 202602090741
+🚫 去掉注释行: ! Checksum: Pa+DuhBJVyczECsXo6SWxA
+🚫 去掉注释行: ! Version: 202602090841
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 09 Feb 2026 07:41 UTC
+🚫 去掉注释行: ! Last modified: 09 Feb 2026 08:41 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29955,11 +29958,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202602090746
+🚫 去掉注释行: ! Version: 202602090849
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 09 Feb 2026 07:46 UTC
+🚫 去掉注释行: ! Last modified: 09 Feb 2026 08:49 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: bbf4f6adc63a5d99c024d095043512847120bc61
+🚫 去掉注释行: ! Commit: 8a3915f91df3d2222e740d4ae7417c51fd6ba903
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -47904,6 +47907,9 @@
 ✅ 多域名拆分: dexerto.com,republicworld.com##.min-h-\[400px\]
     → |dexerto.com##.min-h-\[400px\]
     → |republicworld.com##.min-h-\[400px\]
+✅ 多域名拆分: op.gg,stomp.sg##.min-h-\[50px\]
+    → |op.gg##.min-h-\[50px\]
+    → |stomp.sg##.min-h-\[50px\]
 ✅ 多域名拆分: motortrend.com,officialcharts.com,republicworld.com,w3docs.com,yaledailynews.com##.min-h-\[90px\]
     → |motortrend.com##.min-h-\[90px\]
     → |officialcharts.com##.min-h-\[90px\]
@@ -53067,11 +53073,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202602090752
+🚫 去掉注释行: ! Version: 202602090849
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 09 Feb 2026 07:52 UTC
+🚫 去掉注释行: ! Last modified: 09 Feb 2026 08:49 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 810142555fe1c8cf0826cc3b66eab4baac30dd88
+🚫 去掉注释行: ! Commit: 8a3915f91df3d2222e740d4ae7417c51fd6ba903
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -63539,11 +63545,13 @@
     → |karanpc.com##.ns-buttons
     → |parlamentario.com##.ns-buttons
     → |sexypedia.it##.ns-buttons
-✅ 多域名拆分: cyberinsider.com,thepeoplesvoice.tv##.ns-buttons-wrapper
+✅ 多域名拆分: cyberinsider.com,origami.guide,thepeoplesvoice.tv##.ns-buttons-wrapper
     → |cyberinsider.com##.ns-buttons-wrapper
+    → |origami.guide##.ns-buttons-wrapper
     → |thepeoplesvoice.tv##.ns-buttons-wrapper
-✅ 多域名拆分: nerdnomads.com,stationx.net##.ns-share-count
+✅ 多域名拆分: nerdnomads.com,paperkawaii.com,stationx.net##.ns-share-count
     → |nerdnomads.com##.ns-share-count
+    → |paperkawaii.com##.ns-share-count
     → |stationx.net##.ns-share-count
 ✅ 多域名拆分: sheknows.com,spy.com##.o-social-list__item
     → |sheknows.com##.o-social-list__item
@@ -69109,8 +69117,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !生成时间: 2026-02-09 15:34:28
-🚫 去掉注释行: !有效规则数目: 1541768
+🚫 去掉注释行: !生成时间: 2026-02-09 16:27:41
+🚫 去掉注释行: !有效规则数目: 1541775
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
@@ -152363,15 +152371,15 @@
 🚫 去掉注释行: ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 🚫 去掉注释行: ! Homepage: https://github.com/217heidai/adblockfilters
 🚫 去掉注释行: ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-🚫 去掉注释行: ! Version: 20260209084436
-🚫 去掉注释行: ! Last modified: 2026/02/09 08:44:36
-🚫 去掉注释行: ! Blocked domains: 4791
+🚫 去掉注释行: ! Version: 20260209162342
+🚫 去掉注释行: ! Last modified: 2026/02/09 16:23:42
+🚫 去掉注释行: ! Blocked domains: 4823
 🚫 去掉注释行: ! unBlocked domains: 16
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: yEXkLjXsrLuKYZ5EGJf50Q
-🚫 去掉注释行: ! Version: 202602090700
+🚫 去掉注释行: ! Checksum: 5t8lPQCuUjeAjIZDYfATtQ
+🚫 去掉注释行: ! Version: 202602090825
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-02-09 07:00 UTC
+🚫 去掉注释行: ! Last modified: 2026-02-09 08:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -165674,11 +165682,13 @@
     → |karanpc.com##.ns-buttons
     → |parlamentario.com##.ns-buttons
     → |sexypedia.it##.ns-buttons
-✅ 多域名拆分: cyberinsider.com,thepeoplesvoice.tv##.ns-buttons-wrapper
+✅ 多域名拆分: cyberinsider.com,origami.guide,thepeoplesvoice.tv##.ns-buttons-wrapper
     → |cyberinsider.com##.ns-buttons-wrapper
+    → |origami.guide##.ns-buttons-wrapper
     → |thepeoplesvoice.tv##.ns-buttons-wrapper
-✅ 多域名拆分: nerdnomads.com,stationx.net##.ns-share-count
+✅ 多域名拆分: nerdnomads.com,paperkawaii.com,stationx.net##.ns-share-count
     → |nerdnomads.com##.ns-share-count
+    → |paperkawaii.com##.ns-share-count
     → |stationx.net##.ns-share-count
 ✅ 多域名拆分: sheknows.com,spy.com##.o-social-list__item
     → |sheknows.com##.o-social-list__item
@@ -197064,6 +197074,9 @@
     → |medtube.fr##+js(set-cookie, cookiePolicy, 4)
     → |medtube.net##+js(set-cookie, cookiePolicy, 4)
     → |medtube.pl##+js(set-cookie, cookiePolicy, 4)
+✅ 多域名拆分: butter.us,starhub.com##+js(set-cookie, cookiePolicy, true)
+    → |butter.us##+js(set-cookie, cookiePolicy, true)
+    → |starhub.com##+js(set-cookie, cookiePolicy, true)
 ✅ 多域名拆分: lifemiles.com,tise.com##+js(set-cookie, cookiePolicyAccepted, true)
     → |lifemiles.com##+js(set-cookie, cookiePolicyAccepted, true)
     → |tise.com##+js(set-cookie, cookiePolicyAccepted, true)
@@ -248240,5 +248253,5 @@
 ✅ HOSTS 转换: 127.0.0.1 zqtk.net → |zqtk.net^
 ✅ HOSTS 转换: 127.0.0.1 zzhc.vnet.cn → |zzhc.vnet.cn^
 🚫 去掉注释行: ! 生成时间: 自动构建
-🚫 去掉注释行: ! 原始规则数: 248240
-🚫 去掉注释行: ! 压缩后规则数: 248240
+🚫 去掉注释行: ! 原始规则数: 248243
+🚫 去掉注释行: ! 压缩后规则数: 248243

@@ -6144,8 +6144,10 @@ sfbayca.com##.notizia-tweet-this
 |parlamentario.com##.ns-buttons
 |sexypedia.it##.ns-buttons
 |cyberinsider.com##.ns-buttons-wrapper
+|origami.guide##.ns-buttons-wrapper
 |thepeoplesvoice.tv##.ns-buttons-wrapper
 |nerdnomads.com##.ns-share-count
+|paperkawaii.com##.ns-share-count
 |stationx.net##.ns-share-count
 crypto-news-flash.com##.nso_single_social
 nationaltoday.com##.nt-share
@@ -7097,6 +7099,7 @@ retbit.com##.zox-post-soc-scroll-out
 retbit.com##.zox-post-soc-stat
 securityweek.com##.zox-post-soc-top-wrap
 securityweek.com##.zox-top-soc-wrap
+straitstimes.com##[alt="Google Preferred Source badge"]
 breakingnews.ie##[aria-label="Facebook"]
 esquire.com##[aria-label="Google Preferred Sources Banner"]
 breakingnews.ie##[aria-label="Instagram"]
@@ -7135,6 +7138,7 @@ irishnews.com##[href^="https://whatsapp.com/channel/"]
 militarywatchmagazine.com##[href^="https://x.com/MilitaryWatchM"]
 colourlovers.com##a.mr-10.left > [src]
 telekom.com##a[title="Share"]
+straitstimes.com##button.desktop\:block
 thinkglobalhealth.org##button.hover\:bg-accent-social-button
 |player.amperwavepodcasting.com##button[aria-label="Share"]
 |stockx.com##button[aria-label="Share"]
@@ -10738,12 +10742,14 @@ srad.jp###article-bottom
 ntv.co.jp###sns
 news.j-wave.co.jp###snsLink
 biz-journal.jp###vertical_sns
+fnn.jp##.--share
 vippers.jp##.article-sns
 kakakumag.com##.article-sns-btm
 oricon.co.jp##.block-sub-sns
 iphone-mania.jp##.button_ss
 tokyo-np.co.jp##.cmp-misc003
 diners.co.jp##.dc__footer_sns
+fnn.jp##.footer-social
 kakakumag.com##.hd-sns
 suumo.jp##.headlinks
 kai-you.net##.l-article-social-follow
@@ -11638,6 +11644,7 @@ wpolityce.pl#@#.icon-facebook-official
 petsmart.com#@#.icon-facebook2
 roblox.com#@#.inline-social
 dikidi.net#@#.item-shares
+forums.hardwarezone.com.sg#@#.js-shareButton
 faz.net#@#.js-sharebuttons
 deezer.com#@#.link-social
 lemonde.fr#@#.meta__social
@@ -15553,6 +15560,7 @@ istockphoto.com##.global-notification-container
 telenor.com##.global-overlay-background
 |matrixgames.com##.globalAnnouncement
 |slitherine.com##.globalAnnouncement
+starhub.com##.globalimportantmessage
 |levy.co.uk##.glow-banner
 |wisehosting.com##.glow-banner
 gw2mists.com##.gm-cookie-consent
@@ -26934,7 +26942,8 @@ showtv.com.tr##+js(set-cookie, cookiePolicy, 1)
 |medtube.fr##+js(set-cookie, cookiePolicy, 4)
 |medtube.net##+js(set-cookie, cookiePolicy, 4)
 |medtube.pl##+js(set-cookie, cookiePolicy, 4)
-butter.us##+js(set-cookie, cookiePolicy, true)
+|butter.us##+js(set-cookie, cookiePolicy, true)
+|starhub.com##+js(set-cookie, cookiePolicy, true)
 |lifemiles.com##+js(set-cookie, cookiePolicyAccepted, true)
 |tise.com##+js(set-cookie, cookiePolicyAccepted, true)
 assura.ch##+js(set-cookie, cookiePolicyApproved, true)
