@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-02-13T22:11:58.084Z
+🚫 去掉注释行: ! Last modified: 2026-02-14T00:35:51.432Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v1.0.38
 🚫 去掉注释行: !
@@ -1571,10 +1571,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 97880
-🚫 去掉注释行: ! Checksum: fhlEcDz0wBQqeSH+As/uaQ
-🚫 去掉注释行: ! Version: 202602132331
+🚫 去掉注释行: ! Checksum: 4hGUNwqY95knWyUbcg0LRw
+🚫 去掉注释行: ! Version: 202602140121
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 13 Feb 2026 23:31 UTC
+🚫 去掉注释行: ! Last modified: 14 Feb 2026 01:21 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -24719,10 +24719,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: As/oX8yXnbE2+g89FLwi4Q
-🚫 去掉注释行: ! Version: 202602132331
+🚫 去掉注释行: ! Checksum: v7bKrGIc8Z+akcNJd49dDQ
+🚫 去掉注释行: ! Version: 202602140121
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 13 Feb 2026 23:31 UTC
+🚫 去掉注释行: ! Last modified: 14 Feb 2026 01:21 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -25638,6 +25638,7 @@
 🚫 去掉注释行: ##.home-qf > div[class*="img-ad"]
 🚫 去掉注释行: ##.module-player > .dds_w
 🚫 去掉注释行: ##.content > .dds_w
+🚫 去掉注释行: ##.tjtagmanager[data-ad_id]
 🚫 去掉注释行: ##a[href^="https://l.erodalabs.com"]
 🚫 去掉注释行: ###interstitial_fade[style^="display: block"]
 🚫 去掉注释行: ##body > div.container[style="margin-bottom: 10px;"] > script:first-child ~ div[style="height:60px;width:100%;"]
@@ -25672,6 +25673,15 @@
 🚫 去掉注释行: ! Contains domain names
 🚫 去掉注释行: !----------------------Specific advert blocking filters-----------------------!
 🚫 去掉注释行: !------------------------Specific element hiding rules------------------------!
+✅ 多域名拆分: mgsfhw.com,mgsgirls.com##.widget_media_image
+    → |mgsfhw.com##.widget_media_image
+    → |mgsgirls.com##.widget_media_image
+✅ 多域名拆分: mgsfhw.com,mgsgirls.com##.affs
+    → |mgsfhw.com##.affs
+    → |mgsgirls.com##.affs
+✅ 多域名拆分: mgsfhw.com,mgsgirls.com##blockquote > blockquote
+    → |mgsfhw.com##blockquote > blockquote
+    → |mgsgirls.com##blockquote > blockquote
 ✅ 多域名拆分: jmsnode.com,linuxsss.com,linuxssr.com,linuxtrojan.com,linuxv2ray.com,linuxxray.com,tizidajian.com,dailijichang.com,qv2ray.org##.elementor-popup-modal
     → |jmsnode.com##.elementor-popup-modal
     → |linuxsss.com##.elementor-popup-modal
@@ -27511,13 +27521,12 @@
 ✅ 多域名拆分: hao.360.cn,hao.360.com##.mbar-bd
     → |hao.360.cn##.mbar-bd
     → |hao.360.com##.mbar-bd
-✅ 多域名拆分: 1909.me,8se.me,crxs.me,xchina.site,xchina.biz,xchina.co##.media
-    → |1909.me##.media
-    → |8se.me##.media
-    → |crxs.me##.media
-    → |xchina.site##.media
-    → |xchina.biz##.media
-    → |xchina.co##.media
+✅ 多域名拆分: 1909.me,8se.me,xchina.site,xchina.biz,xchina.co##div[id^="z-extra-"]
+    → |1909.me##div[id^="z-extra-"]
+    → |8se.me##div[id^="z-extra-"]
+    → |xchina.site##div[id^="z-extra-"]
+    → |xchina.biz##div[id^="z-extra-"]
+    → |xchina.co##div[id^="z-extra-"]
 ✅ 多域名拆分: 1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.mediago-ad-wrapper
     → |1111.baidu.com##.mediago-ad-wrapper
     → |bdimg.com##.mediago-ad-wrapper
@@ -28563,74 +28572,74 @@
 🚫 去掉注释行: !#0
 🚫 去掉注释行: !#17ce.com
 🚫 去掉注释行: !#18comic.org
-✅ 多域名拆分: 18comic.org,18comic.vip,jm18c-jjd.club###guide-modal
+✅ 多域名拆分: 18comic.org,18comic.vip,18comic.ink###guide-modal
     → |18comic.org###guide-modal
     → |18comic.vip###guide-modal
-    → |jm18c-jjd.club###guide-modal
-✅ 多域名拆分: 18comic.org,18comic.vip,jm18c-jjd.club##.div_sticky2
+    → |18comic.ink###guide-modal
+✅ 多域名拆分: 18comic.org,18comic.vip,18comic.ink##.div_sticky2
     → |18comic.org##.div_sticky2
     → |18comic.vip##.div_sticky2
-    → |jm18c-jjd.club##.div_sticky2
-✅ 多域名拆分: 18comic.org,18comic.vip,jm18c-jjd.club##.modal-backdrop
+    → |18comic.ink##.div_sticky2
+✅ 多域名拆分: 18comic.org,18comic.vip,18comic.ink##.modal-backdrop
     → |18comic.org##.modal-backdrop
     → |18comic.vip##.modal-backdrop
-    → |jm18c-jjd.club##.modal-backdrop
-✅ 多域名拆分: 18comic.org,18comic.vip,jm18c-jjd.club##.row[style="display: flex;flex-wrap: wrap;"]
+    → |18comic.ink##.modal-backdrop
+✅ 多域名拆分: 18comic.org,18comic.vip,18comic.ink##.row[style="display: flex;flex-wrap: wrap;"]
     → |18comic.org##.row[style="display: flex;flex-wrap: wrap;"]
     → |18comic.vip##.row[style="display: flex;flex-wrap: wrap;"]
-    → |jm18c-jjd.club##.row[style="display: flex;flex-wrap: wrap;"]
-✅ 多域名拆分: 18comic.org,18comic.vip,jm18c-jjd.club##a[href*="//"]:not([href*="18c"]) > [style*="back"]
+    → |18comic.ink##.row[style="display: flex;flex-wrap: wrap;"]
+✅ 多域名拆分: 18comic.org,18comic.vip,18comic.ink##a[href*="//"]:not([href*="18c"]) > [style*="back"]
     → |18comic.org##a[href*="//"]:not([href*="18c"]) > [style*="back"]
     → |18comic.vip##a[href*="//"]:not([href*="18c"]) > [style*="back"]
-    → |jm18c-jjd.club##a[href*="//"]:not([href*="18c"]) > [style*="back"]
-✅ 多域名拆分: 18comic.org,18comic.vip,jm18c-jjd.club##a[href*="//"]:not([href*="18c"]) > div[style]
+    → |18comic.ink##a[href*="//"]:not([href*="18c"]) > [style*="back"]
+✅ 多域名拆分: 18comic.org,18comic.vip,18comic.ink##a[href*="//"]:not([href*="18c"]) > div[style]
     → |18comic.org##a[href*="//"]:not([href*="18c"]) > div[style]
     → |18comic.vip##a[href*="//"]:not([href*="18c"]) > div[style]
-    → |jm18c-jjd.club##a[href*="//"]:not([href*="18c"]) > div[style]
-✅ 多域名拆分: 18comic.org,18comic.vip,jm18c-jjd.club##a[herf*="//"]:not([href*="18c"]) > img
+    → |18comic.ink##a[href*="//"]:not([href*="18c"]) > div[style]
+✅ 多域名拆分: 18comic.org,18comic.vip,18comic.ink##a[herf*="//"]:not([href*="18c"]) > img
     → |18comic.org##a[herf*="//"]:not([href*="18c"]) > img
     → |18comic.vip##a[herf*="//"]:not([href*="18c"]) > img
-    → |jm18c-jjd.club##a[herf*="//"]:not([href*="18c"]) > img
-✅ 多域名拆分: 18comic.org,18comic.vip,jm18c-jjd.club##a[href*="//"]:not([href*="18c"]) > img
+    → |18comic.ink##a[herf*="//"]:not([href*="18c"]) > img
+✅ 多域名拆分: 18comic.org,18comic.vip,18comic.ink##a[href*="//"]:not([href*="18c"]) > img
     → |18comic.org##a[href*="//"]:not([href*="18c"]) > img
     → |18comic.vip##a[href*="//"]:not([href*="18c"]) > img
-    → |jm18c-jjd.club##a[href*="//"]:not([href*="18c"]) > img
-✅ 多域名拆分: 18comic.org,18comic.vip,jm18c-jjd.club##a[href*="//"]:not([href*="18c"]) > img + [style]
+    → |18comic.ink##a[href*="//"]:not([href*="18c"]) > img
+✅ 多域名拆分: 18comic.org,18comic.vip,18comic.ink##a[href*="//"]:not([href*="18c"]) > img + [style]
     → |18comic.org##a[href*="//"]:not([href*="18c"]) > img + [style]
     → |18comic.vip##a[href*="//"]:not([href*="18c"]) > img + [style]
-    → |jm18c-jjd.club##a[href*="//"]:not([href*="18c"]) > img + [style]
-✅ 多域名拆分: 18comic.org,18comic.vip,jm18c-jjd.club##div[data-group][data-width="300"]
+    → |18comic.ink##a[href*="//"]:not([href*="18c"]) > img + [style]
+✅ 多域名拆分: 18comic.org,18comic.vip,18comic.ink##div[data-group][data-width="300"]
     → |18comic.org##div[data-group][data-width="300"]
     → |18comic.vip##div[data-group][data-width="300"]
-    → |jm18c-jjd.club##div[data-group][data-width="300"]
-✅ 多域名拆分: 18comic.org,18comic.vip,jm18c-jjd.club##style + div[style="cursor: pointer; position: relative;"]
+    → |18comic.ink##div[data-group][data-width="300"]
+✅ 多域名拆分: 18comic.org,18comic.vip,18comic.ink##style + div[style="cursor: pointer; position: relative;"]
     → |18comic.org##style + div[style="cursor: pointer; position: relative;"]
     → |18comic.vip##style + div[style="cursor: pointer; position: relative;"]
-    → |jm18c-jjd.club##style + div[style="cursor: pointer; position: relative;"]
-✅ 多域名拆分: 18comic.org,18comic.vip,jm18c-jjd.club#?#:-abp-has(>ins+div)
+    → |18comic.ink##style + div[style="cursor: pointer; position: relative;"]
+✅ 多域名拆分: 18comic.org,18comic.vip,18comic.ink#?#:-abp-has(>ins+div)
     → |18comic.org#?#:-abp-has(>ins+div)
     → |18comic.vip#?#:-abp-has(>ins+div)
-    → |jm18c-jjd.club#?#:-abp-has(>ins+div)
-✅ 多域名拆分: 18comic.org,18comic.vip,jm18c-jjd.club#?#:-abp-has(>ins+script)
+    → |18comic.ink#?#:-abp-has(>ins+div)
+✅ 多域名拆分: 18comic.org,18comic.vip,18comic.ink#?#:-abp-has(>ins+script)
     → |18comic.org#?#:-abp-has(>ins+script)
     → |18comic.vip#?#:-abp-has(>ins+script)
-    → |jm18c-jjd.club#?#:-abp-has(>ins+script)
-✅ 多域名拆分: 18comic.org,18comic.vip,jm18c-jjd.club#?#:-abp-has(>ins+style)
+    → |18comic.ink#?#:-abp-has(>ins+script)
+✅ 多域名拆分: 18comic.org,18comic.vip,18comic.ink#?#:-abp-has(>ins+style)
     → |18comic.org#?#:-abp-has(>ins+style)
     → |18comic.vip#?#:-abp-has(>ins+style)
-    → |jm18c-jjd.club#?#:-abp-has(>ins+style)
-✅ 多域名拆分: 18comic.org,18comic.vip,jm18c-jjd.club#?#:-abp-has(>script+ins)
+    → |18comic.ink#?#:-abp-has(>ins+style)
+✅ 多域名拆分: 18comic.org,18comic.vip,18comic.ink#?#:-abp-has(>script+ins)
     → |18comic.org#?#:-abp-has(>script+ins)
     → |18comic.vip#?#:-abp-has(>script+ins)
-    → |jm18c-jjd.club#?#:-abp-has(>script+ins)
-✅ 多域名拆分: 18comic.org,18comic.vip,jm18c-jjd.club#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
+    → |18comic.ink#?#:-abp-has(>script+ins)
+✅ 多域名拆分: 18comic.org,18comic.vip,18comic.ink#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
     → |18comic.org#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
     → |18comic.vip#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
-    → |jm18c-jjd.club#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
-✅ 多域名拆分: 18comic.org,18comic.vip,jm18c-jjd.club#?#div[data-group]:-abp-has(>.group-notice)
+    → |18comic.ink#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
+✅ 多域名拆分: 18comic.org,18comic.vip,18comic.ink#?#div[data-group]:-abp-has(>.group-notice)
     → |18comic.org#?#div[data-group]:-abp-has(>.group-notice)
     → |18comic.vip#?#div[data-group]:-abp-has(>.group-notice)
-    → |jm18c-jjd.club#?#div[data-group]:-abp-has(>.group-notice)
+    → |18comic.ink#?#div[data-group]:-abp-has(>.group-notice)
 🚫 去掉注释行: !#2
 🚫 去掉注释行: !#3
 🚫 去掉注释行: !#4
@@ -29284,10 +29293,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: UhOP/tL3/scbTfmJQcz8Jw
-🚫 去掉注释行: ! Version: 202602132331
+🚫 去掉注释行: ! Checksum: 8Esg8wVZgFzdxtA1l/rRNg
+🚫 去掉注释行: ! Version: 202602140121
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 13 Feb 2026 23:31 UTC
+🚫 去掉注释行: ! Last modified: 14 Feb 2026 01:21 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29992,11 +30001,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202602132331
+🚫 去掉注释行: ! Version: 202602140114
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 13 Feb 2026 23:31 UTC
+🚫 去掉注释行: ! Last modified: 14 Feb 2026 01:14 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: e4211c375a4efae9c06e92148eea02270a8e3a28
+🚫 去掉注释行: ! Commit: 7b4ba645a4025f5c103ae91a4a95c5597f393bd9
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -53144,11 +53153,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202602132331
+🚫 去掉注释行: ! Version: 202602140126
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 13 Feb 2026 23:31 UTC
+🚫 去掉注释行: ! Last modified: 14 Feb 2026 01:26 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: e4211c375a4efae9c06e92148eea02270a8e3a28
+🚫 去掉注释行: ! Commit: b7c7bcc2537b11526a0c6beacde9c6af73e3083b
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -152531,15 +152540,15 @@
 🚫 去掉注释行: ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 🚫 去掉注释行: ! Homepage: https://github.com/217heidai/adblockfilters
 🚫 去掉注释行: ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-🚫 去掉注释行: ! Version: 20260214002047
-🚫 去掉注释行: ! Last modified: 2026/02/14 00:20:47
+🚫 去掉注释行: ! Version: 20260214084132
+🚫 去掉注释行: ! Last modified: 2026/02/14 08:41:32
 🚫 去掉注释行: ! Blocked domains: 4910
 🚫 去掉注释行: ! unBlocked domains: 14
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: AZiMlLoC6bnqn3SBrUsn4w
-🚫 去掉注释行: ! Version: 202602132225
+🚫 去掉注释行: ! Checksum: Gr8wGLU4ahDakmummkWhng
+🚫 去掉注释行: ! Version: 202602140100
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-02-13 22:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-02-14 01:00 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/

@@ -876,6 +876,7 @@ newduba.cn###jq_youxi
 ||5edf1d2qv.com^
 ||46q8oxohlt.com^
 ||fuztty4b5g.com^
+||rta4z4ncsl.com^
 ||nws5ay4cr2.com^
 ||sxzl6x4k9p.com^
 ||multiple46.top^
@@ -6925,9 +6926,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||cr173.com/skina/
 ||cr173.com/skinb/
 ||creaders.net*/ad_func.js
-||crxs.me/plugins/jquery.modal/
-||crxs.me/scripts/my_
-||crxs.me/upload/ad/
 ||csdn.net/ggmm/
 ||csdn.net/msg.popup.js
 ||csdnimg.cn/check-adblock/
@@ -9480,6 +9478,8 @@ meijutt.*/js/pcjs/
 ||xc.macd.cn^
 ||xc.mydrivers.com^
 ||xcar.com.cn/dsp/ad
+||8se.me/service/assets/core-state.
+||xchina.*/service/assets/core-state.
 ||xchina.*/scripts/modal/modal.js
 ||xchina.*/ad/
 ||xchina.*/plugins/jquery.modal/
@@ -9812,7 +9812,14 @@ meijutt.*/js/pcjs/
 ||711dm.com/color.
 ||joyacg.top/wp-content/uploads/*-640
 ||wnacg.com/game/
+||thjfcs.cn/hc237/uploads/default/other/2025-12-10/81a0f876800ea81616864d841f102ef4.
 zhihu.com##.Pc-word-new
+|mgsfhw.com##.widget_media_image
+|mgsgirls.com##.widget_media_image
+|mgsfhw.com##.affs
+|mgsgirls.com##.affs
+|mgsfhw.com##blockquote > blockquote
+|mgsgirls.com##blockquote > blockquote
 iplark.com##div[style="position: relative;"]
 cngold.org#?#.w310:-abp-has(>.swiper-company)
 cngold.org##.headCompanys
@@ -14230,12 +14237,11 @@ douguo.com##.mbs
 pcworks.cn##.md-show
 hk01.com##.md\:min-h-\[90px\]
 redian.news##.md\:w-\[728px\].mx-auto
-|1909.me##.media
-|8se.me##.media
-|crxs.me##.media
-|xchina.site##.media
-|xchina.biz##.media
-|xchina.co##.media
+|1909.me##div[id^="z-extra-"]
+|8se.me##div[id^="z-extra-"]
+|xchina.site##div[id^="z-extra-"]
+|xchina.biz##div[id^="z-extra-"]
+|xchina.co##div[id^="z-extra-"]
 |1111.baidu.com##.mediago-ad-wrapper
 |bdimg.com##.mediago-ad-wrapper
 |live.baidu.com##.mediago-ad-wrapper
@@ -17830,55 +17836,55 @@ guailie.com#@#.google-ad
 /exads-adblock-$image
 |18comic.org###guide-modal
 |18comic.vip###guide-modal
-|jm18c-jjd.club###guide-modal
+|18comic.ink###guide-modal
 |18comic.org##.div_sticky2
 |18comic.vip##.div_sticky2
-|jm18c-jjd.club##.div_sticky2
+|18comic.ink##.div_sticky2
 |18comic.org##.modal-backdrop
 |18comic.vip##.modal-backdrop
-|jm18c-jjd.club##.modal-backdrop
+|18comic.ink##.modal-backdrop
 |18comic.org##.row[style="display: flex;flex-wrap: wrap;"]
 |18comic.vip##.row[style="display: flex;flex-wrap: wrap;"]
-|jm18c-jjd.club##.row[style="display: flex;flex-wrap: wrap;"]
+|18comic.ink##.row[style="display: flex;flex-wrap: wrap;"]
 |18comic.org##a[href*="//"]:not([href*="18c"]) > [style*="back"]
 |18comic.vip##a[href*="//"]:not([href*="18c"]) > [style*="back"]
-|jm18c-jjd.club##a[href*="//"]:not([href*="18c"]) > [style*="back"]
+|18comic.ink##a[href*="//"]:not([href*="18c"]) > [style*="back"]
 |18comic.org##a[href*="//"]:not([href*="18c"]) > div[style]
 |18comic.vip##a[href*="//"]:not([href*="18c"]) > div[style]
-|jm18c-jjd.club##a[href*="//"]:not([href*="18c"]) > div[style]
+|18comic.ink##a[href*="//"]:not([href*="18c"]) > div[style]
 |18comic.org##a[herf*="//"]:not([href*="18c"]) > img
 |18comic.vip##a[herf*="//"]:not([href*="18c"]) > img
-|jm18c-jjd.club##a[herf*="//"]:not([href*="18c"]) > img
+|18comic.ink##a[herf*="//"]:not([href*="18c"]) > img
 |18comic.org##a[href*="//"]:not([href*="18c"]) > img
 |18comic.vip##a[href*="//"]:not([href*="18c"]) > img
-|jm18c-jjd.club##a[href*="//"]:not([href*="18c"]) > img
+|18comic.ink##a[href*="//"]:not([href*="18c"]) > img
 |18comic.org##a[href*="//"]:not([href*="18c"]) > img + [style]
 |18comic.vip##a[href*="//"]:not([href*="18c"]) > img + [style]
-|jm18c-jjd.club##a[href*="//"]:not([href*="18c"]) > img + [style]
+|18comic.ink##a[href*="//"]:not([href*="18c"]) > img + [style]
 |18comic.org##div[data-group][data-width="300"]
 |18comic.vip##div[data-group][data-width="300"]
-|jm18c-jjd.club##div[data-group][data-width="300"]
+|18comic.ink##div[data-group][data-width="300"]
 |18comic.org##style + div[style="cursor: pointer; position: relative;"]
 |18comic.vip##style + div[style="cursor: pointer; position: relative;"]
-|jm18c-jjd.club##style + div[style="cursor: pointer; position: relative;"]
+|18comic.ink##style + div[style="cursor: pointer; position: relative;"]
 |18comic.org#?#:-abp-has(>ins+div)
 |18comic.vip#?#:-abp-has(>ins+div)
-|jm18c-jjd.club#?#:-abp-has(>ins+div)
+|18comic.ink#?#:-abp-has(>ins+div)
 |18comic.org#?#:-abp-has(>ins+script)
 |18comic.vip#?#:-abp-has(>ins+script)
-|jm18c-jjd.club#?#:-abp-has(>ins+script)
+|18comic.ink#?#:-abp-has(>ins+script)
 |18comic.org#?#:-abp-has(>ins+style)
 |18comic.vip#?#:-abp-has(>ins+style)
-|jm18c-jjd.club#?#:-abp-has(>ins+style)
+|18comic.ink#?#:-abp-has(>ins+style)
 |18comic.org#?#:-abp-has(>script+ins)
 |18comic.vip#?#:-abp-has(>script+ins)
-|jm18c-jjd.club#?#:-abp-has(>script+ins)
+|18comic.ink#?#:-abp-has(>script+ins)
 |18comic.org#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
 |18comic.vip#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
-|jm18c-jjd.club#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
+|18comic.ink#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
 |18comic.org#?#div[data-group]:-abp-has(>.group-notice)
 |18comic.vip#?#div[data-group]:-abp-has(>.group-notice)
-|jm18c-jjd.club#?#div[data-group]:-abp-has(>.group-notice)
+|18comic.ink#?#div[data-group]:-abp-has(>.group-notice)
 ||18comic.*/media/albums/*?$media
 58.com###rightRetui
 58.com##.S_table_ding_box
