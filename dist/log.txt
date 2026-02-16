@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-02-16T00:37:05.123Z
+🚫 去掉注释行: ! Last modified: 2026-02-16T03:08:02.787Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v1.0.38
 🚫 去掉注释行: !
@@ -1571,10 +1571,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 97880
-🚫 去掉注释行: ! Checksum: me3cHWklyjVB2jA5aSOapA
-🚫 去掉注释行: ! Version: 202602160131
+🚫 去掉注释行: ! Checksum: Vrq1fXoBYUDpiBXTQAENDA
+🚫 去掉注释行: ! Version: 202602160411
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 16 Feb 2026 01:31 UTC
+🚫 去掉注释行: ! Last modified: 16 Feb 2026 04:11 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -16432,9 +16432,6 @@
 ✅ 多域名拆分: wakingtimes.com,ymcinema.com###media_image-2
     → |wakingtimes.com###media_image-2
     → |ymcinema.com###media_image-2
-✅ 多域名拆分: jezebel.com,pastemagazine.com###middle_rectangle
-    → |jezebel.com###middle_rectangle
-    → |pastemagazine.com###middle_rectangle
 ✅ 多域名拆分: consobaby.co.uk,gumtree.com,pcgamingwiki.com,thefootballnetwork.net###mpu
     → |consobaby.co.uk###mpu
     → |gumtree.com###mpu
@@ -16732,13 +16729,9 @@
 ✅ 多域名拆分: indy100.com,tarladalal.com###top_banner
     → |indy100.com###top_banner
     → |tarladalal.com###top_banner
-✅ 多域名拆分: bleedingcool.com,jamaicaobserver.com,pastemagazine.com###top_leaderboard
-    → |bleedingcool.com###top_leaderboard
+✅ 多域名拆分: jamaicaobserver.com,pastemagazine.com###top_leaderboard
     → |jamaicaobserver.com###top_leaderboard
     → |pastemagazine.com###top_leaderboard
-✅ 多域名拆分: jezebel.com,pastemagazine.com###top_rectangle
-    → |jezebel.com###top_rectangle
-    → |pastemagazine.com###top_rectangle
 ✅ 多域名拆分: absolutelyrics.com,cdrlabs.com,eonline.com,exiledonline.com,findtheword.info,realitywanted.com,revizoronline.com,snapfiles.com###topbanner
     → |absolutelyrics.com###topbanner
     → |cdrlabs.com###topbanner
@@ -19215,10 +19208,6 @@
     → |flv2mp3.by##.horizontal-area
     → |flvto.biz##.horizontal-area
     → |flvto.com.mx##.horizontal-area
-✅ 多域名拆分: avclub.com,jezebel.com,pastemagazine.com##.htlad-sidebar_rectangle
-    → |avclub.com##.htlad-sidebar_rectangle
-    → |jezebel.com##.htlad-sidebar_rectangle
-    → |pastemagazine.com##.htlad-sidebar_rectangle
 ✅ 多域名拆分: atlpresscollective.com,luzmedia.co,therover.ca##.iam-ad
     → |atlpresscollective.com##.iam-ad
     → |luzmedia.co##.iam-ad
@@ -20600,9 +20589,6 @@
     → |foxnews.com##.vendor-unit
     → |ktvu.com##.vendor-unit
     → |wogx.com##.vendor-unit
-✅ 多域名拆分: avclub.com,jezebel.com##.vertical-ad-spacer
-    → |avclub.com##.vertical-ad-spacer
-    → |jezebel.com##.vertical-ad-spacer
 ✅ 多域名拆分: hashrate.no,thelancet.com##.verticalAdContainer
     → |hashrate.no##.verticalAdContainer
     → |thelancet.com##.verticalAdContainer
@@ -20646,7 +20632,7 @@
     → |topcartoons.tv##.widget_block
     → |usmagazine.com##.widget_block
     → |wiki-topia.com##.widget_block
-✅ 多域名拆分: 4sysops.com,activistpost.com,aftvnews.com,arcadepunks.com,autotalk.co.nz,corrosionhour.com,corvetteblogger.com,dcrainmaker.com,discover.is,elhayat-life.com,gamingonphone.com,girgitnews.com,gizmochina.com,guides.wp-bullet.com,inews.co.uk,macsources.com,manhuatop.org,mediachomp.com,metalsucks.net,mmoculture.com,monstersandcritics.com,motoringfile.com,nasaspaceflight.com,newsbtc.com,openloading.com,patriotfetch.com,planetofreviews.com,precinctreporter.com,prepperwebsite.com,rugbylad.ie,sashares.co.za,scienceabc.com,scienceandliteracy.org,seganerds.com,sixteen-nine.net,snipercentral.com,spokesman-recorder.com,survivopedia.com,techdows.com,techiecorner.com,techjuice.pk,theblueoceansgroup.com,thecinemaholic.com,tooxclusive.com,torrentfreak.com,torrentmac.net,trackalerts.com,trendingpoliticsnews.com,wabetainfo.com##.widget_custom_html
+✅ 多域名拆分: 4sysops.com,activistpost.com,aftvnews.com,arcadepunks.com,autotalk.co.nz,corrosionhour.com,corvetteblogger.com,dcrainmaker.com,discover.is,elhayat-life.com,gamingonphone.com,girgitnews.com,gizmochina.com,guides.wp-bullet.com,inews.co.uk,macsources.com,manhuatop.org,mediachomp.com,metalsucks.net,mmoculture.com,monstersandcritics.com,motoringfile.com,nasaspaceflight.com,newsbtc.com,openloading.com,patriotfetch.com,planetofreviews.com,precinctreporter.com,prepperwebsite.com,rugbylad.ie,sashares.co.za,scienceandliteracy.org,seganerds.com,sixteen-nine.net,snipercentral.com,spokesman-recorder.com,survivopedia.com,techdows.com,techiecorner.com,techjuice.pk,theblueoceansgroup.com,thecinemaholic.com,tooxclusive.com,torrentfreak.com,torrentmac.net,trackalerts.com,trendingpoliticsnews.com,wabetainfo.com##.widget_custom_html
     → |4sysops.com##.widget_custom_html
     → |activistpost.com##.widget_custom_html
     → |aftvnews.com##.widget_custom_html
@@ -20678,7 +20664,6 @@
     → |prepperwebsite.com##.widget_custom_html
     → |rugbylad.ie##.widget_custom_html
     → |sashares.co.za##.widget_custom_html
-    → |scienceabc.com##.widget_custom_html
     → |scienceandliteracy.org##.widget_custom_html
     → |seganerds.com##.widget_custom_html
     → |sixteen-nine.net##.widget_custom_html
@@ -20703,7 +20688,7 @@
 ✅ 多域名拆分: gizmodo.com,kotaku.com##.widget_keleops-ad
     → |gizmodo.com##.widget_keleops-ad
     → |kotaku.com##.widget_keleops-ad
-✅ 多域名拆分: appleworld.today,athleticsillustrated.com,betakit.com,businessaccountingbasics.co.uk,circuitbasics.com,closerweekly.com,coincodecap.com,cozyberries.com,dbknews.com,deshdoaba.com,developer-tech.com,electricbikereport.com,foreverconscious.com,friendsjournal.org,glitched.online,globalgovernancenews.com,intouchweekly.com,jharkhandmirror.net,kashmirreader.com,kkfm.com,levittownnow.com,lifeandstylemag.com,manhuatop.org,marqueesportsnetwork.com,mensjournal.com,nikonrumors.com,ognsc.com,palipost.com,patriotfetch.com,pctechmag.com,prajwaldesai.com,pstribune.com,raspians.com,robinhoodnews.com,rok.guide,rsbnetwork.com,salesforcegeek.in,showbiz411.com,spokesman-recorder.com,sportsspectrum.com,stacyknows.com,supertotobet90.com,teksyndicate.com,thecatholictravelguide.com,thedefensepost.com,theoverclocker.com,thethaiger.com,theyucatantimes.com,tronweekly.com,ubuntu101.co.za,wakingtimes.com,washingtonmonthly.com,webscrypto.com,wgow.com,wgowam.com,wlevradio.com##.widget_media_image
+✅ 多域名拆分: appleworld.today,athleticsillustrated.com,betakit.com,businessaccountingbasics.co.uk,circuitbasics.com,closerweekly.com,coincodecap.com,cozyberries.com,dbknews.com,deshdoaba.com,developer-tech.com,electricbikereport.com,foreverconscious.com,friendsjournal.org,glitched.online,globalgovernancenews.com,intouchweekly.com,jharkhandmirror.net,kashmirreader.com,kkfm.com,levittownnow.com,lifeandstylemag.com,manhuatop.org,marqueesportsnetwork.com,mensjournal.com,nikonrumors.com,ognsc.com,palipost.com,patriotfetch.com,pctechmag.com,prajwaldesai.com,pstribune.com,raspians.com,robinhoodnews.com,rok.guide,rsbnetwork.com,salesforcegeek.in,showbiz411.com,spokesman-recorder.com,sportsspectrum.com,stacyknows.com,supertotobet90.com,teksyndicate.com,thecatholictravelguide.com,thedefensepost.com,theoverclocker.com,theyucatantimes.com,tronweekly.com,ubuntu101.co.za,wakingtimes.com,washingtonmonthly.com,webscrypto.com,wgow.com,wgowam.com,wlevradio.com##.widget_media_image
     → |appleworld.today##.widget_media_image
     → |athleticsillustrated.com##.widget_media_image
     → |betakit.com##.widget_media_image
@@ -20750,7 +20735,6 @@
     → |thecatholictravelguide.com##.widget_media_image
     → |thedefensepost.com##.widget_media_image
     → |theoverclocker.com##.widget_media_image
-    → |thethaiger.com##.widget_media_image
     → |theyucatantimes.com##.widget_media_image
     → |tronweekly.com##.widget_media_image
     → |ubuntu101.co.za##.widget_media_image
@@ -22959,6 +22943,9 @@
 ✅ 多域名拆分: gbnews.com,marketscreener.com##.vsly-player
     → |gbnews.com##.vsly-player
     → |marketscreener.com##.vsly-player
+✅ 多域名拆分: destructoid.com,wegotthiscovered.com##.wp-block-gamurs-ad
+    → |destructoid.com##.wp-block-gamurs-ad
+    → |wegotthiscovered.com##.wp-block-gamurs-ad
 ✅ 多域名拆分: comicbook.com,vice.com##.wp-block-savage-platform-primis-video
     → |comicbook.com##.wp-block-savage-platform-primis-video
     → |vice.com##.wp-block-savage-platform-primis-video
@@ -24716,10 +24703,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: MhmorwGf/IdrqkPoDzGl2w
-🚫 去掉注释行: ! Version: 202602160131
+🚫 去掉注释行: ! Checksum: KgO2j91Dxs/kTs4UnQ+C7g
+🚫 去掉注释行: ! Version: 202602160411
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 16 Feb 2026 01:31 UTC
+🚫 去掉注释行: ! Last modified: 16 Feb 2026 04:11 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29291,10 +29278,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: EfVrtkb9yJBhLAr76GHGlA
-🚫 去掉注释行: ! Version: 202602160131
+🚫 去掉注释行: ! Checksum: 5YNokUXgT7chmZ5lBn67AA
+🚫 去掉注释行: ! Version: 202602160411
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 16 Feb 2026 01:31 UTC
+🚫 去掉注释行: ! Last modified: 16 Feb 2026 04:11 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29999,11 +29986,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202602160140
+🚫 去掉注释行: ! Version: 202602160408
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 16 Feb 2026 01:40 UTC
+🚫 去掉注释行: ! Last modified: 16 Feb 2026 04:08 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 2d81b4b5c5fd34f0347f3867624d6cd519aab85c
+🚫 去掉注释行: ! Commit: 0bbe34dcaf74600864207efce25ff1ff3b3619eb
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -44864,9 +44851,6 @@
 ✅ 多域名拆分: wakingtimes.com,ymcinema.com###media_image-2
     → |wakingtimes.com###media_image-2
     → |ymcinema.com###media_image-2
-✅ 多域名拆分: jezebel.com,pastemagazine.com###middle_rectangle
-    → |jezebel.com###middle_rectangle
-    → |pastemagazine.com###middle_rectangle
 ✅ 多域名拆分: consobaby.co.uk,gumtree.com,pcgamingwiki.com,thefootballnetwork.net###mpu
     → |consobaby.co.uk###mpu
     → |gumtree.com###mpu
@@ -45164,13 +45148,9 @@
 ✅ 多域名拆分: indy100.com,tarladalal.com###top_banner
     → |indy100.com###top_banner
     → |tarladalal.com###top_banner
-✅ 多域名拆分: bleedingcool.com,jamaicaobserver.com,pastemagazine.com###top_leaderboard
-    → |bleedingcool.com###top_leaderboard
+✅ 多域名拆分: jamaicaobserver.com,pastemagazine.com###top_leaderboard
     → |jamaicaobserver.com###top_leaderboard
     → |pastemagazine.com###top_leaderboard
-✅ 多域名拆分: jezebel.com,pastemagazine.com###top_rectangle
-    → |jezebel.com###top_rectangle
-    → |pastemagazine.com###top_rectangle
 ✅ 多域名拆分: absolutelyrics.com,cdrlabs.com,eonline.com,exiledonline.com,findtheword.info,realitywanted.com,revizoronline.com,snapfiles.com###topbanner
     → |absolutelyrics.com###topbanner
     → |cdrlabs.com###topbanner
@@ -47647,10 +47627,6 @@
     → |flv2mp3.by##.horizontal-area
     → |flvto.biz##.horizontal-area
     → |flvto.com.mx##.horizontal-area
-✅ 多域名拆分: avclub.com,jezebel.com,pastemagazine.com##.htlad-sidebar_rectangle
-    → |avclub.com##.htlad-sidebar_rectangle
-    → |jezebel.com##.htlad-sidebar_rectangle
-    → |pastemagazine.com##.htlad-sidebar_rectangle
 ✅ 多域名拆分: atlpresscollective.com,luzmedia.co,therover.ca##.iam-ad
     → |atlpresscollective.com##.iam-ad
     → |luzmedia.co##.iam-ad
@@ -49032,9 +49008,6 @@
     → |foxnews.com##.vendor-unit
     → |ktvu.com##.vendor-unit
     → |wogx.com##.vendor-unit
-✅ 多域名拆分: avclub.com,jezebel.com##.vertical-ad-spacer
-    → |avclub.com##.vertical-ad-spacer
-    → |jezebel.com##.vertical-ad-spacer
 ✅ 多域名拆分: hashrate.no,thelancet.com##.verticalAdContainer
     → |hashrate.no##.verticalAdContainer
     → |thelancet.com##.verticalAdContainer
@@ -51389,6 +51362,9 @@
 ✅ 多域名拆分: gbnews.com,marketscreener.com##.vsly-player
     → |gbnews.com##.vsly-player
     → |marketscreener.com##.vsly-player
+✅ 多域名拆分: destructoid.com,wegotthiscovered.com##.wp-block-gamurs-ad
+    → |destructoid.com##.wp-block-gamurs-ad
+    → |wegotthiscovered.com##.wp-block-gamurs-ad
 ✅ 多域名拆分: comicbook.com,vice.com##.wp-block-savage-platform-primis-video
     → |comicbook.com##.wp-block-savage-platform-primis-video
     → |vice.com##.wp-block-savage-platform-primis-video
@@ -53146,11 +53122,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202602160133
+🚫 去掉注释行: ! Version: 202602160408
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 16 Feb 2026 01:33 UTC
+🚫 去掉注释行: ! Last modified: 16 Feb 2026 04:08 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: aa0623e4a2488c0de862ad8966162fb3c9b4b137
+🚫 去掉注释行: ! Commit: 0bbe34dcaf74600864207efce25ff1ff3b3619eb
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -69195,8 +69171,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !生成时间: 2026-02-16 07:56:46
-🚫 去掉注释行: !有效规则数目: 1544120
+🚫 去掉注释行: !生成时间: 2026-02-16 10:32:53
+🚫 去掉注释行: !有效规则数目: 1544097
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
@@ -152538,10 +152514,10 @@
 🚫 去掉注释行: ! Blocked domains: 4868
 🚫 去掉注释行: ! unBlocked domains: 16
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: akSvp8zuZ3Y62NqCirWe+g
-🚫 去掉注释行: ! Version: 202602160025
+🚫 去掉注释行: ! Checksum: s5L6t/gCEIF1bx6OmY7wfQ
+🚫 去掉注释行: ! Version: 202602160250
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-02-16 00:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-02-16 02:50 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -211666,7 +211642,7 @@
     → |wyff4.com##.newsletter-signup
     → |zeit.de##.newsletter-signup
 🚫 去掉注释行: !! .newsletter-container
-✅ 多域名拆分: advocate.com,avclub.com,cnevpost.com,jezebel.com,life.com,nextplz.fr,out.com,pastemagazine.com,popsci.com,pride.com,qhubomedellin.com,san.com,spendless.com.au,weeklyrecess.com##.newsletter-container
+✅ 多域名拆分: advocate.com,avclub.com,cnevpost.com,jezebel.com,life.com,nextplz.fr,out.com,popsci.com,pride.com,qhubomedellin.com,san.com,spendless.com.au,weeklyrecess.com##.newsletter-container
     → |advocate.com##.newsletter-container
     → |avclub.com##.newsletter-container
     → |cnevpost.com##.newsletter-container
@@ -211674,7 +211650,6 @@
     → |life.com##.newsletter-container
     → |nextplz.fr##.newsletter-container
     → |out.com##.newsletter-container
-    → |pastemagazine.com##.newsletter-container
     → |popsci.com##.newsletter-container
     → |pride.com##.newsletter-container
     → |qhubomedellin.com##.newsletter-container
@@ -211946,7 +211921,7 @@
     → |onmeda.de##.mc_embed_signup
     → |tribalfootball.com##.mc_embed_signup
 🚫 去掉注释行: !! .newsletter
-✅ 多域名拆分: 01net.it,2gb.com,4investors.de,aawsat.com,addictivetips.com,administradores.com.br,adventures.com,advisoronline.it,advocate.com,aeroporto.net,agenziacasaclima.it,airliners.de,airqualitynews.com,aiscoop.com,alattefood.com,aldianews.com,alexander-wallasch.de,algemeiner.com,allclassical.org,antlionaudio.com,apracticalwedding.com,arab24.com,arsenalinsider.com,artnews.com,asteriskmag.com,astrooroscopo.it,atlantadailyworld.com,atlatszo.hu,autocasion.com,autoguide.com,automotive-fleet.com,baguete.com.br,basketinside.com,bestlifeonline.com,billboard.com,bintmusic.it,biometricupdate.com,bit.pt,bitmag.com.br,boardgameprices.co.uk,boerse-express.com,bolzano-bozen.it,bostonglobe.com,bostonmagazine.com,brindisisera.it,brooklynbased.com,buoyant.io,businessfleet.com,businessinsider.com,capx.co,carolinajournal.com,carpicalcionews.it,ccmagazine.es,cdt.ch,cheapies.nz,chicagodefender.com,chiesadimilano.it,cittaceleste.it,clevelandclinic.org,clubic.com,cmjornal.pt,cnn.com,comicsands.com,commondreams.org,condominioweb.com,corsedimoto.com,crn.com,cronista.com,crypto.news,cuisineetvinsdefrance.com,culture.pl,cyberscoop.com,dazeddigital.com,defensescoop.com,delamar.de,denofgeek.com,diepresse.com,digiday.com,digitaleterrestrefacile.it,dissipatio.it,dn.pt,dojacat.com,doktersvandewereld.org,dreambigtravelfarblog.com,dri.es,edscoop.com,electricfencing.co.uk,electronicsweekly.com,elmostrador.cl,enstarz.com,epicurious.com,estadao.com.br,estrelando.com.br,etonline.com,euractiv.com,euractiv.de,eventfinda.co.nz,evz.ro,familyhandyman.com,fandom.com,fantamagazine.com,fashionotes.com,fcinter1908.it,fdr.com.br,fedscoop.com,fliegermagazin.de,fmc.hu,focusardegna.com,forbesafrica.com,forzaroma.info,futura-sciences.com,gault-millau.nl,gaultmillau.be,gaultmillau.lu,giornaledibrescia.it,gizchina.com,gogedizioni.it,golssip.it,goodbye.be,goodnet.org,goodrx.com,gooieneemlander.nl,government-fleet.com,greatbritishchefs.com,greenbot.com,haarlemsdagblad.nl,hacks.mozilla.org,handdoekentoiletpapier.nl,hannity.com,hausgeraete-test.de,hcb.net,hdwallpapers.in,heimwerker-test.de,hifitest.de,historic-uk.com,hits973.com,hngn.com,hodinkee.com,hollywoodreporter.com,horse-canada.com,hottopics.ht,huffpost.com,i24news.tv,icij.org,ilgiorno.it,ilmilanista.it,ilposticipo.it,ilrestodelcarlino.it,ilsecoloxix.it,ilsussidiario.net,iltascabile.com,imasters.com.br,indypendent.org,infoq.com,insidehighered.com,inthesetimes.com,investopedia.com,israeltoday.co.il,itechpost.com,jewishjournal.com,jfrog.com,jornaldebrasilia.com.br,jornaldenegocios.pt,jornaldocomercio.com,juvenews.eu,key4biz.it,kipparilehti.fi,kleinezeitung.at,klimahaus.it,kpfa.org,lanazione.it,lanutrition.fr,laopinion.com,laprensafl.com,laraza.com,lavoz.com.ar,legab.it,leidschdagblad.nl,lescienze.it,life.com,linkiesta.it,lintellettualedissidente.it,livability.com,longislandpress.com,lvh.it,maplin.co.uk,maritimejobs.com,massivesci.com,mcsweeneys.net,mediagol.it,meteolive.it,metro-magazine.com,michiganchronicle.com,micura.it,mlb.com,mmajunkie.usatoday.com,mondoudinese.it,moodiedavittreport.com,motorionline.com,muscleandfitness.com,muslimnews.co.uk,mymodernmet.com,nationalgeographic.com.es,nationalgeographic.pt,nationalinterest.org,newbeauty.com,newpittsburghcourier.com,newrepublic.com,nieuwrechts.nl,nofilmschool.com,noordhollandsdagblad.nl,nooun.net,noticiasrcn.com,numericalcio.it,offresasaisir.fr,oilcity.news,omelete.com.br,ozbargain.com.au,padovasport.tv,participaties.nl,passioneinter.com,phillymag.com,phonandroid.com,pianetagenoa1893.net,pianetamilan.it,pitchfork.com,pomade.com,portalinsights.com.br,profil.at,prospectmagazine.co.uk,psfk.com,quickanddirtytips.com,quotidiano.net,rainbowplantlife.com,recombu.com,record.pt,redsharknews.com,revealnews.org,reynardsec.com,rivistacontrasti.it,rollingstone.com,sabado.pt,salon.com,sangbadpratidin.in,sapo.pt,sassuolocalcionews.it,saucemagazine.com,sayrodigital.net,schoolbusfleet.com,screencrush.com,serieously.com,servus.com,sfitalianheritage.org,sheknows.com,silicon.co.uk,silicon.de,silicon.es,slashfilm.com,sourcingjournal.com,speedcafe.com,sportavellino.it,sportico.com,spy.com,startpage.com,startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion,statescoop.com,superfly.fm,surfer.com,swz.it,syria.tv,taste.com.au,tasteofhome.com,tasty.co,tech.trivago.com,tenniscircus.com,the-decoder.com,the-decoder.de,the-star.co.ke,theblaze.com,thedp.com,thedrinknation.com,thefulcrum.us,theitaliantimes.it,themeshreport.com,thenevadaindependent.com,theodysseyonline.com,thepointsguy.com,thetruthaboutcars.com,thrillercafe.it,tiempoar.com.ar,time.com,timeslive.co.za,timesofisrael.com,topdocumentaryfilms.com,toronews.net,torresette.news,toutelanutrition.com,transworld.net,travelweekly.com,trendy.letudiant.fr,truckinginfo.com,truthdig.com,tuasaude.com,turkiyetoday.com,tuttobolognaweb.it,tvquran.com,twitchy.com,ukraine-nachrichten.de,undercurrentnews.com,unsolved.com,usatoday.com,usopen.org,valori.it,variety.com,verdesmares.com.br,verportugal.net,vibe.com,videogamer.com,violanews.com,voetbalnieuws.be,voxeurop.eu,vtvgujarati.com,wccftech.com,web3wire.news,welivesecurity.com,wielernieuws.be,wikihow.com,wizworkwear.com,workscoop.com,worktruckonline.com,wwd.com,ziarulevenimentul.ro##.newsletter
+✅ 多域名拆分: 01net.it,2gb.com,4investors.de,aawsat.com,addictivetips.com,administradores.com.br,adventures.com,advisoronline.it,advocate.com,aeroporto.net,agenziacasaclima.it,airliners.de,airqualitynews.com,aiscoop.com,alattefood.com,aldianews.com,alexander-wallasch.de,algemeiner.com,allclassical.org,antlionaudio.com,apracticalwedding.com,arab24.com,arsenalinsider.com,artnews.com,asteriskmag.com,astrooroscopo.it,atlantadailyworld.com,atlatszo.hu,autocasion.com,autoguide.com,automotive-fleet.com,baguete.com.br,basketinside.com,bestlifeonline.com,billboard.com,bintmusic.it,biometricupdate.com,bit.pt,bitmag.com.br,boardgameprices.co.uk,boerse-express.com,bolzano-bozen.it,bostonglobe.com,bostonmagazine.com,brindisisera.it,brooklynbased.com,buoyant.io,businessfleet.com,businessinsider.com,capx.co,carolinajournal.com,carpicalcionews.it,ccmagazine.es,cdt.ch,cheapies.nz,chicagodefender.com,chiesadimilano.it,cittaceleste.it,clevelandclinic.org,clubic.com,cmjornal.pt,cnn.com,comicsands.com,commondreams.org,condominioweb.com,corsedimoto.com,crn.com,cronista.com,crypto.news,cuisineetvinsdefrance.com,culture.pl,cyberscoop.com,dazeddigital.com,defensescoop.com,delamar.de,denofgeek.com,diepresse.com,digiday.com,digitaleterrestrefacile.it,dissipatio.it,dn.pt,dojacat.com,doktersvandewereld.org,dreambigtravelfarblog.com,dri.es,edscoop.com,electricfencing.co.uk,electronicsweekly.com,elmostrador.cl,enstarz.com,epicurious.com,estadao.com.br,estrelando.com.br,etonline.com,euractiv.com,euractiv.de,eventfinda.co.nz,evz.ro,familyhandyman.com,fandom.com,fantamagazine.com,fashionotes.com,fcinter1908.it,fdr.com.br,fedscoop.com,fliegermagazin.de,fmc.hu,focusardegna.com,forbesafrica.com,forzaroma.info,futura-sciences.com,gault-millau.nl,gaultmillau.be,gaultmillau.lu,giornaledibrescia.it,gizchina.com,gogedizioni.it,golssip.it,goodbye.be,goodnet.org,goodrx.com,gooieneemlander.nl,government-fleet.com,greatbritishchefs.com,greenbot.com,haarlemsdagblad.nl,hacks.mozilla.org,handdoekentoiletpapier.nl,hannity.com,hausgeraete-test.de,hcb.net,hdwallpapers.in,heimwerker-test.de,hifitest.de,historic-uk.com,hits973.com,hngn.com,hodinkee.com,hollywoodreporter.com,horse-canada.com,hottopics.ht,huffpost.com,i24news.tv,icij.org,ilgiorno.it,ilmilanista.it,ilposticipo.it,ilrestodelcarlino.it,ilsecoloxix.it,ilsussidiario.net,iltascabile.com,imasters.com.br,indypendent.org,infoq.com,insidehighered.com,inthesetimes.com,investopedia.com,israeltoday.co.il,itechpost.com,jewishjournal.com,jfrog.com,jornaldebrasilia.com.br,jornaldenegocios.pt,jornaldocomercio.com,juvenews.eu,key4biz.it,kipparilehti.fi,kleinezeitung.at,klimahaus.it,kpfa.org,lanazione.it,lanutrition.fr,laopinion.com,laprensafl.com,laraza.com,lavoz.com.ar,legab.it,leidschdagblad.nl,lescienze.it,life.com,linkiesta.it,lintellettualedissidente.it,livability.com,longislandpress.com,lvh.it,maplin.co.uk,maritimejobs.com,massivesci.com,mcsweeneys.net,mediagol.it,meteolive.it,metro-magazine.com,michiganchronicle.com,micura.it,mlb.com,mmajunkie.usatoday.com,mondoudinese.it,moodiedavittreport.com,motorionline.com,muscleandfitness.com,muslimnews.co.uk,mymodernmet.com,nationalgeographic.com.es,nationalgeographic.pt,nationalinterest.org,newbeauty.com,newpittsburghcourier.com,newrepublic.com,nieuwrechts.nl,nofilmschool.com,noordhollandsdagblad.nl,nooun.net,noticiasrcn.com,numericalcio.it,offresasaisir.fr,oilcity.news,omelete.com.br,ozbargain.com.au,padovasport.tv,participaties.nl,passioneinter.com,phillymag.com,phonandroid.com,pianetagenoa1893.net,pianetamilan.it,pitchfork.com,pomade.com,portalinsights.com.br,profil.at,prospectmagazine.co.uk,psfk.com,quickanddirtytips.com,quotidiano.net,rainbowplantlife.com,recombu.com,record.pt,redsharknews.com,revealnews.org,reynardsec.com,rivistacontrasti.it,rollingstone.com,sabado.pt,salon.com,sangbadpratidin.in,sapo.pt,sassuolocalcionews.it,saucemagazine.com,sayrodigital.net,schoolbusfleet.com,screencrush.com,serieously.com,servus.com,sfitalianheritage.org,sheknows.com,silicon.co.uk,silicon.de,silicon.es,slashfilm.com,sourcingjournal.com,speedcafe.com,sportavellino.it,sportico.com,spy.com,startpage.com,startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion,statescoop.com,superfly.fm,surfer.com,swz.it,syria.tv,taste.com.au,tasteofhome.com,tasty.co,tech.trivago.com,tenniscircus.com,the-decoder.com,the-decoder.de,the-star.co.ke,theblaze.com,thedp.com,thedrinknation.com,thefulcrum.us,theitaliantimes.it,themeshreport.com,thenevadaindependent.com,theodysseyonline.com,thepointsguy.com,thetruthaboutcars.com,thrillercafe.it,tiempoar.com.ar,time.com,timeslive.co.za,timesofisrael.com,topdocumentaryfilms.com,toronews.net,torresette.news,toutelanutrition.com,transworld.net,travelweekly.com,trendy.letudiant.fr,truthdig.com,tuasaude.com,turkiyetoday.com,tuttobolognaweb.it,tvquran.com,twitchy.com,ukraine-nachrichten.de,undercurrentnews.com,unsolved.com,usatoday.com,usopen.org,valori.it,variety.com,verdesmares.com.br,verportugal.net,vibe.com,videogamer.com,violanews.com,voetbalnieuws.be,voxeurop.eu,vtvgujarati.com,wccftech.com,web3wire.news,welivesecurity.com,wielernieuws.be,wikihow.com,wizworkwear.com,workscoop.com,worktruckonline.com,wwd.com,ziarulevenimentul.ro##.newsletter
     → |01net.it##.newsletter
     → |2gb.com##.newsletter
     → |4investors.de##.newsletter
@@ -212247,7 +212222,6 @@
     → |transworld.net##.newsletter
     → |travelweekly.com##.newsletter
     → |trendy.letudiant.fr##.newsletter
-    → |truckinginfo.com##.newsletter
     → |truthdig.com##.newsletter
     → |tuasaude.com##.newsletter
     → |turkiyetoday.com##.newsletter
