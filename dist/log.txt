@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-02-15T22:07:59.732Z
+🚫 去掉注释行: ! Last modified: 2026-02-16T00:37:05.123Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v1.0.38
 🚫 去掉注释行: !
@@ -1571,10 +1571,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 97880
-🚫 去掉注释行: ! Checksum: 2rRTMFWlkIDtzDDHHM0ukw
-🚫 去掉注释行: ! Version: 202602152341
+🚫 去掉注释行: ! Checksum: me3cHWklyjVB2jA5aSOapA
+🚫 去掉注释行: ! Version: 202602160131
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 15 Feb 2026 23:41 UTC
+🚫 去掉注释行: ! Last modified: 16 Feb 2026 01:31 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -16211,15 +16211,10 @@
     → |theproxy.lol###cookieConsentUR99472
     → |unblock-it.com###cookieConsentUR99472
     → |uproxy2.biz###cookieConsentUR99472
-✅ 多域名拆分: miloserdov.org,playstore.pw,reneweconomy.com.au,winaero.com,wpneon.com###custom_html-10
+✅ 多域名拆分: miloserdov.org,winaero.com,wpneon.com###custom_html-10
     → |miloserdov.org###custom_html-10
-    → |playstore.pw###custom_html-10
-    → |reneweconomy.com.au###custom_html-10
     → |winaero.com###custom_html-10
     → |wpneon.com###custom_html-10
-✅ 多域名拆分: miloserdov.org,playstore.pw###custom_html-11
-    → |miloserdov.org###custom_html-11
-    → |playstore.pw###custom_html-11
 ✅ 多域名拆分: colombiareports.com,miloserdov.org,mostlyblogging.com###custom_html-14
     → |colombiareports.com###custom_html-14
     → |miloserdov.org###custom_html-14
@@ -24721,10 +24716,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: t0TWGkqXN9TSTvQfnQmc4w
-🚫 去掉注释行: ! Version: 202602152341
+🚫 去掉注释行: ! Checksum: MhmorwGf/IdrqkPoDzGl2w
+🚫 去掉注释行: ! Version: 202602160131
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 15 Feb 2026 23:41 UTC
+🚫 去掉注释行: ! Last modified: 16 Feb 2026 01:31 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29296,10 +29291,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: CzhN8NpSKImebMR6z7n9ag
-🚫 去掉注释行: ! Version: 202602152341
+🚫 去掉注释行: ! Checksum: EfVrtkb9yJBhLAr76GHGlA
+🚫 去掉注释行: ! Version: 202602160131
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 15 Feb 2026 23:41 UTC
+🚫 去掉注释行: ! Last modified: 16 Feb 2026 01:31 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -30004,11 +29999,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202602152346
+🚫 去掉注释行: ! Version: 202602160140
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 15 Feb 2026 23:46 UTC
+🚫 去掉注释行: ! Last modified: 16 Feb 2026 01:40 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 955db859b9977ca07810490a3c54ee914a581149
+🚫 去掉注释行: ! Commit: 2d81b4b5c5fd34f0347f3867624d6cd519aab85c
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -44648,15 +44643,10 @@
     → |theproxy.lol###cookieConsentUR99472
     → |unblock-it.com###cookieConsentUR99472
     → |uproxy2.biz###cookieConsentUR99472
-✅ 多域名拆分: miloserdov.org,playstore.pw,reneweconomy.com.au,winaero.com,wpneon.com###custom_html-10
+✅ 多域名拆分: miloserdov.org,winaero.com,wpneon.com###custom_html-10
     → |miloserdov.org###custom_html-10
-    → |playstore.pw###custom_html-10
-    → |reneweconomy.com.au###custom_html-10
     → |winaero.com###custom_html-10
     → |wpneon.com###custom_html-10
-✅ 多域名拆分: miloserdov.org,playstore.pw###custom_html-11
-    → |miloserdov.org###custom_html-11
-    → |playstore.pw###custom_html-11
 ✅ 多域名拆分: colombiareports.com,miloserdov.org,mostlyblogging.com###custom_html-14
     → |colombiareports.com###custom_html-14
     → |miloserdov.org###custom_html-14
@@ -49088,7 +49078,7 @@
     → |topcartoons.tv##.widget_block
     → |usmagazine.com##.widget_block
     → |wiki-topia.com##.widget_block
-✅ 多域名拆分: 4sysops.com,activistpost.com,aftvnews.com,arcadepunks.com,autotalk.co.nz,corrosionhour.com,corvetteblogger.com,dcrainmaker.com,discover.is,elhayat-life.com,gamingonphone.com,girgitnews.com,gizmochina.com,guides.wp-bullet.com,inews.co.uk,macsources.com,manhuatop.org,mediachomp.com,metalsucks.net,mmoculture.com,monstersandcritics.com,motoringfile.com,nasaspaceflight.com,newsbtc.com,openloading.com,patriotfetch.com,planetofreviews.com,precinctreporter.com,prepperwebsite.com,rugbylad.ie,sashares.co.za,scienceabc.com,scienceandliteracy.org,seganerds.com,sixteen-nine.net,snipercentral.com,spokesman-recorder.com,survivopedia.com,techdows.com,techiecorner.com,techjuice.pk,theblueoceansgroup.com,thecinemaholic.com,tooxclusive.com,torrentfreak.com,torrentmac.net,trackalerts.com,trendingpoliticsnews.com,wabetainfo.com##.widget_custom_html
+✅ 多域名拆分: 4sysops.com,activistpost.com,aftvnews.com,arcadepunks.com,autotalk.co.nz,corrosionhour.com,corvetteblogger.com,dcrainmaker.com,discover.is,elhayat-life.com,gamingonphone.com,girgitnews.com,gizmochina.com,guides.wp-bullet.com,inews.co.uk,macsources.com,manhuatop.org,mediachomp.com,metalsucks.net,mmoculture.com,monstersandcritics.com,motoringfile.com,nasaspaceflight.com,newsbtc.com,openloading.com,patriotfetch.com,planetofreviews.com,precinctreporter.com,prepperwebsite.com,rugbylad.ie,sashares.co.za,scienceandliteracy.org,seganerds.com,sixteen-nine.net,snipercentral.com,spokesman-recorder.com,survivopedia.com,techdows.com,techiecorner.com,techjuice.pk,theblueoceansgroup.com,thecinemaholic.com,tooxclusive.com,torrentfreak.com,torrentmac.net,trackalerts.com,trendingpoliticsnews.com,wabetainfo.com##.widget_custom_html
     → |4sysops.com##.widget_custom_html
     → |activistpost.com##.widget_custom_html
     → |aftvnews.com##.widget_custom_html
@@ -49120,7 +49110,6 @@
     → |prepperwebsite.com##.widget_custom_html
     → |rugbylad.ie##.widget_custom_html
     → |sashares.co.za##.widget_custom_html
-    → |scienceabc.com##.widget_custom_html
     → |scienceandliteracy.org##.widget_custom_html
     → |seganerds.com##.widget_custom_html
     → |sixteen-nine.net##.widget_custom_html
@@ -49145,7 +49134,7 @@
 ✅ 多域名拆分: gizmodo.com,kotaku.com##.widget_keleops-ad
     → |gizmodo.com##.widget_keleops-ad
     → |kotaku.com##.widget_keleops-ad
-✅ 多域名拆分: appleworld.today,athleticsillustrated.com,betakit.com,businessaccountingbasics.co.uk,circuitbasics.com,closerweekly.com,coincodecap.com,cozyberries.com,dbknews.com,deshdoaba.com,developer-tech.com,electricbikereport.com,foreverconscious.com,friendsjournal.org,glitched.online,globalgovernancenews.com,intouchweekly.com,jharkhandmirror.net,kashmirreader.com,kkfm.com,levittownnow.com,lifeandstylemag.com,manhuatop.org,marqueesportsnetwork.com,mensjournal.com,nikonrumors.com,ognsc.com,palipost.com,patriotfetch.com,pctechmag.com,prajwaldesai.com,pstribune.com,raspians.com,robinhoodnews.com,rok.guide,rsbnetwork.com,salesforcegeek.in,showbiz411.com,spokesman-recorder.com,sportsspectrum.com,stacyknows.com,supertotobet90.com,teksyndicate.com,thecatholictravelguide.com,thedefensepost.com,theoverclocker.com,thethaiger.com,theyucatantimes.com,tronweekly.com,ubuntu101.co.za,wakingtimes.com,washingtonmonthly.com,webscrypto.com,wgow.com,wgowam.com,wlevradio.com##.widget_media_image
+✅ 多域名拆分: appleworld.today,athleticsillustrated.com,betakit.com,businessaccountingbasics.co.uk,circuitbasics.com,closerweekly.com,coincodecap.com,cozyberries.com,dbknews.com,deshdoaba.com,developer-tech.com,electricbikereport.com,foreverconscious.com,friendsjournal.org,glitched.online,globalgovernancenews.com,intouchweekly.com,jharkhandmirror.net,kashmirreader.com,kkfm.com,levittownnow.com,lifeandstylemag.com,manhuatop.org,marqueesportsnetwork.com,mensjournal.com,nikonrumors.com,ognsc.com,palipost.com,patriotfetch.com,pctechmag.com,prajwaldesai.com,pstribune.com,raspians.com,robinhoodnews.com,rok.guide,rsbnetwork.com,salesforcegeek.in,showbiz411.com,spokesman-recorder.com,sportsspectrum.com,stacyknows.com,supertotobet90.com,teksyndicate.com,thecatholictravelguide.com,thedefensepost.com,theoverclocker.com,theyucatantimes.com,tronweekly.com,ubuntu101.co.za,wakingtimes.com,washingtonmonthly.com,webscrypto.com,wgow.com,wgowam.com,wlevradio.com##.widget_media_image
     → |appleworld.today##.widget_media_image
     → |athleticsillustrated.com##.widget_media_image
     → |betakit.com##.widget_media_image
@@ -49192,7 +49181,6 @@
     → |thecatholictravelguide.com##.widget_media_image
     → |thedefensepost.com##.widget_media_image
     → |theoverclocker.com##.widget_media_image
-    → |thethaiger.com##.widget_media_image
     → |theyucatantimes.com##.widget_media_image
     → |tronweekly.com##.widget_media_image
     → |ubuntu101.co.za##.widget_media_image
@@ -53158,11 +53146,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202602152346
+🚫 去掉注释行: ! Version: 202602160133
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 15 Feb 2026 23:46 UTC
+🚫 去掉注释行: ! Last modified: 16 Feb 2026 01:33 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 955db859b9977ca07810490a3c54ee914a581149
+🚫 去掉注释行: ! Commit: aa0623e4a2488c0de862ad8966162fb3c9b4b137
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -69207,7 +69195,7 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !生成时间: 2026-02-16 07:34:03
+🚫 去掉注释行: !生成时间: 2026-02-16 07:56:46
 🚫 去掉注释行: !有效规则数目: 1544120
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
@@ -152545,15 +152533,15 @@
 🚫 去掉注释行: ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 🚫 去掉注释行: ! Homepage: https://github.com/217heidai/adblockfilters
 🚫 去掉注释行: ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-🚫 去掉注释行: ! Version: 20260216001057
-🚫 去掉注释行: ! Last modified: 2026/02/16 00:10:57
+🚫 去掉注释行: ! Version: 20260216084332
+🚫 去掉注释行: ! Last modified: 2026/02/16 08:43:32
 🚫 去掉注释行: ! Blocked domains: 4868
 🚫 去掉注释行: ! unBlocked domains: 16
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: vDGgouOadZqdpB8hSm91eg
-🚫 去掉注释行: ! Version: 202602151050
+🚫 去掉注释行: ! Checksum: akSvp8zuZ3Y62NqCirWe+g
+🚫 去掉注释行: ! Version: 202602160025
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-02-15 10:50 UTC
+🚫 去掉注释行: ! Last modified: 2026-02-16 00:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -216381,9 +216369,9 @@
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: !---------------------------------Allowlists----------------------------------!
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: N8OJG4T3PJT5s+kIJlTrRA
+🚫 去掉注释行: ! Checksum: 4YG/6kYASf/3JiJm1VDaMQ
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Last modified: 2026-02-14 22:50 UTC
+🚫 去掉注释行: ! Last modified: 2026-02-16 00:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
