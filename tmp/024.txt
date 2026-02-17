@@ -5190,6 +5190,7 @@ just-eat.ie##div[data-qa="jet-privacy-settings"]
 |campax.org##.cookies-consent
 |controller.com##.cookies-consent
 |mrfdev.com##.cookies-consent
+|pandoor.co.il##.cookies-consent
 |pelephone.co.il##.cookies-consent
 |voicemod.net##.cookies-consent
 |arukereso.hu###cookie-disclaimer
@@ -7387,6 +7388,7 @@ dryg.pl##div[class^="CookiesNoti"]
 |candaceowens.com##.cookie-notice
 |castlefineart.com##.cookie-notice
 |cls-computer.de##.cookie-notice
+|dio-center.info##.cookie-notice
 |direct2u.co.uk##.cookie-notice
 |drgerard.eu##.cookie-notice
 |ecosia.org##.cookie-notice
@@ -9071,6 +9073,7 @@ decovarrubias.es###sliding-popup-cookies
 |teinvitoalcine.com##.cookie-consent
 |tether.io##.cookie-consent
 |toneelhuis.be##.cookie-consent
+|top-boilers.co.il##.cookie-consent
 |trafficstars.com##.cookie-consent
 |trinidadradiostations.net##.cookie-consent
 |truyenyy.xyz##.cookie-consent
@@ -10249,6 +10252,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |metroag.de##.cookie-banner
 |middelfart.dk##.cookie-banner
 |midrandreporter.co.za##.cookie-banner
+|mishloha.co.il##.cookie-banner
 |modworkshop.net##.cookie-banner
 |northeasterntribune.co.za##.cookie-banner
 |oaic.gov.au##.cookie-banner
@@ -10354,10 +10358,15 @@ prsformusic.com###cookie__modal
 |eurocommercialproperties.com###cookie-consent-banner
 |frisbi24.ru###cookie-consent-banner
 |fundrazr.com###cookie-consent-banner
+|interdiscount.ch###cookie-consent-banner
 |joinstellar.ai###cookie-consent-banner
+|kley-zemer.co.il###cookie-consent-banner
+|ladaat.co###cookie-consent-banner
+|mundoperfecto.net###cookie-consent-banner
 |news.stanford.edu###cookie-consent-banner
 |rfdtvcanada.ca###cookie-consent-banner
 |softexia.com###cookie-consent-banner
+|tainio-mania.online###cookie-consent-banner
 |thecowboychannelcanada.ca###cookie-consent-banner
 |thewaterchannel.ca###cookie-consent-banner
 |travel-europe.europa.eu###cookie-consent-banner
@@ -13598,7 +13607,6 @@ content.de###content-de-hinweis-cookie-richtlinie
 content.de###content-de-hinweis-cookie-richtlinie-blocking
 directupload.eu###cookboxback
 adressmonster.de###cookie
-interdiscount.ch###cookie-consent-banner
 app.taxfix.de###cookie-consent-banner-container
 spdyn.de###cookie-consent-dialog
 tec7.com###cookie-manager
@@ -15283,7 +15291,6 @@ stigmap.gr###btm_terms
 digea.gr###ck_cookies
 eudoxus.gr###consentPlaceholder
 krikri.gr###cookSETwin
-tainio-mania.online###cookie-consent-banner
 dod.gr###cookies_component
 kteohellas.gr###cookiesettings-dialog
 huli.gr###cp
@@ -15318,7 +15325,9 @@ calendar.2net.co.il###UseCookies
 maccabi4u.co.il###ZA_CAMP_BANNER_CONTAINER
 maccabi4u.co.il###ZA_CAMP_MOBILE_CONTAINER
 foodsdictionary.co.il###cookie-consent
-ladaat.co###cookie-consent-banner
+|pccenter.co.il###cookie-consent-popup
+|rsm.co.il###cookie-consent-popup
+zinger-organic.com###cookie-consent-wrapper
 019mobile.co.il###cookie-except-banner
 madlan.co.il###cookie-root
 soltam.co.il###dfwt-gdpr-overlay
@@ -15332,6 +15341,7 @@ guidestar.org.il##.app-cookies-disclaimer-container
 ladaat.co##.ck-cookie-banner
 israelpost.co.il##.cookie-agreement
 yad2.co.il##.cookie-implementation-disclaimer_popupRoot__CLI1m
+gesher-theatre.co.il##.cookies-approval-strip-wrapper
 easy.co.il##.cookies-consent-banner
 bug.co.il##.cookies-policy-modal-container
 pazgas.co.il##.cookies-popup-overlay
@@ -15341,13 +15351,22 @@ drushim.co.il##.dr-cookie-banner
 mtoys.co.il##.e2w-cookie-popup
 xphone.co.il##.elementor-element-7f094b47
 yad-mordechai.co.il##.eupopup-container
-cinema-city.co.il##.gdpr-module
+|cinema-city.co.il##.gdpr-module
+|peamitstore.co.il##.gdpr-module
+ksp.co.il##.ltr-1075xo6
+mdyo.co.il##.mdyo-cookie
 diners.co.il##.message-container
+ksp.co.il##.mui-b13abt.MuiBox-root
 bankhapoalim.co.il##.muirtl-1cwm7gt
+ksp.co.il##.muirtl-b13abt.MuiBox-root
 super-pharm.co.il##.phcBlockCookiesWrap
 colmobil.co.il##.popup-privacy
+ksp.co.il##.rtl-1075xo6
+letlive.org.il##.site-consent-banner
+cts.co.il##.upnext-cookie-notice
 |dynamica.co.il##[class^="cookiesPopup"]
 |kfar.co.il##[class^="cookiesPopup"]
+|wineandmore.co.il##[class^="cookiesPopup"]
 alljobs.co.il##[id^="ZA_CAMP_BUBBLE_CONTAINER_CID_"]
 lastminute.co.il##app-notifications-container
 iec.co.il##app-sticky-banner
@@ -17129,7 +17148,6 @@ aportesenlinea.com###containerActionMessage
 qalaub.com###contentOverlay
 tienda.edicionesbabylon.es###cook
 packzum.com###cookie-area
-mundoperfecto.net###cookie-consent-banner
 parcan.es###cookie-consent-panel
 web.centro-zaragoza.com###cookie-wrapper-objeto
 |lekeitio.com###cookieTop
