@@ -17322,6 +17322,7 @@ sogeti.*###popup-cookieConsent
 |campusfrance.org###tarteaucitronRoot
 |chablis-wines.com###tarteaucitronRoot
 |chartediversite.lu###tarteaucitronRoot
+|chequeenergie.gouv.fr###tarteaucitronRoot
 |competence.lu###tarteaucitronRoot
 |cyprus-weather.com###tarteaucitronRoot
 |diplomatie.gouv.fr###tarteaucitronRoot
@@ -19025,6 +19026,7 @@ morningstar.com###additionalInfoe
 |sdxcentral.com##.cc-window
 |siebenfoercher.it##.cc-window
 |starmicronics.com##.cc-window
+|sugarsync.com##.cc-window
 |tann.it##.cc-window
 |technoalpin.com##.cc-window
 |tiom.pl##.cc-window
@@ -28890,6 +28892,7 @@ titantvguide.com##+js(set-local-storage-item, COOKIE_CHECK, false)
 settings.gg##+js(set-local-storage-item, COOKIE_CONSENT, 1)
 ultrahuman.com##+js(set-local-storage-item, COOKIE_CONSENT, false)
 manuals.annafreud.org##+js(set-local-storage-item, COOKIE_CONSENT, no)
+mvideo.ru##+js(set-local-storage-item, COOKIE_NOTIFICATION_SUBMITED, true)
 cpc2r.ch##+js(set-local-storage-item, CPCCookies, true)
 akkushop-turkiye.com.tr##+js(set-local-storage-item, CerezUyariGosterildi, true)
 teamtailor.com##+js(set-local-storage-item, CookieConsent--hideCookieConsent, true)
