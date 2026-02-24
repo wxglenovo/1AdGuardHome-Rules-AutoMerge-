@@ -17044,7 +17044,8 @@ fastvps.ru##app-cookies-accept
 |uchebnik.mos.ru##body > div[style^="position: fixed; overflow: visible; top: 0px; left: 0px; transform: translate("]
 vmeste.mosreg.ru##dd-cookie-accept-banner
 rabota.sber.ru##div[class*="styled__CookieWrapper-"]
-sberbank.ru##div[class^="CookieWarning-"]
+|sberbank.com##div[class^="CookieWarning-"]
+|sberbank.ru##div[class^="CookieWarning-"]
 life.by##div[class^="Cookie_modalRoot_"]
 novayagazeta.eu##div[class^="CookiesInformer_"]
 dom.ria.com##div[class^="GdprComponent"]
@@ -17052,6 +17053,7 @@ stoloto.ru##div[class^="Provider_container"]
 aliexpress.ru##div[class^="SnowPrivacyPolicyBanner_"]
 bb.market##div[class^="_cookies_"]
 asna.ru##div[class^="modalCookies_"]
+rencredit.ru##div[data-attention-id="3420"]
 yoomoney.ru##div[data-qa="gdpr"]
 russianfield.com##div[data-storage-item^="t886cookiename_"]
 knmoloko.ru##div[data-storage-item^="t887cookiename_"]
@@ -18230,6 +18232,7 @@ xsports.lv#@##notice-cookie-block
 |thejournal.ie##onetrust-banner-sdk
 |thepopverse.com##onetrust-banner-sdk
 |thetrainline.com##onetrust-banner-sdk
+|ticketmaster.*##onetrust-banner-sdk
 |tio.ch##onetrust-banner-sdk
 |tokfm.pl##onetrust-banner-sdk
 |travelandleisure.com##onetrust-banner-sdk
@@ -18411,6 +18414,7 @@ xsports.lv#@##notice-cookie-block
 |thejournal.ie##onetrust-consent-sdk
 |thepopverse.com##onetrust-consent-sdk
 |thetrainline.com##onetrust-consent-sdk
+|ticketmaster.*##onetrust-consent-sdk
 |tio.ch##onetrust-consent-sdk
 |tokfm.pl##onetrust-consent-sdk
 |travelandleisure.com##onetrust-consent-sdk
