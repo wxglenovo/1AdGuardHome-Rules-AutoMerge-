@@ -5277,6 +5277,7 @@ just-eat.ie##div[data-qa="jet-privacy-settings"]
 |pyszne.pl##.cookie-overlay
 cam4.*##.EEoPD
 evertiq.*##.cc-container
+alza.*##.cookies-info
 track.amazon.*##.wfbHK2
 wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotification"]
 |betway.*###cookiePopup
@@ -5720,14 +5721,17 @@ sogeti.*###popup-cookieConsent
 |bienen-voigt.de##.page-wrap--cookie-permission
 |blitzhandel24.it##.page-wrap--cookie-permission
 |boschettileo.com##.page-wrap--cookie-permission
+|furnster.de##.page-wrap--cookie-permission
 |gartenteiche-fockenberg.de##.page-wrap--cookie-permission
 |hardwarebro.de##.page-wrap--cookie-permission
 |heilkraft.online##.page-wrap--cookie-permission
+|hiq24.de##.page-wrap--cookie-permission
 |hupfer.com##.page-wrap--cookie-permission
 |kdvisual.it##.page-wrap--cookie-permission
 |kellereikaltern.com##.page-wrap--cookie-permission
 |messerworld.de##.page-wrap--cookie-permission
 |mm-aquaristik.de##.page-wrap--cookie-permission
+|office-partner.de##.page-wrap--cookie-permission
 |originalteilemarkt.de##.page-wrap--cookie-permission
 |reifen-felgen.de##.page-wrap--cookie-permission
 |sixpack-racing.com##.page-wrap--cookie-permission
@@ -13385,6 +13389,7 @@ moebelix.at##body > div > div:has(#jentis_consent)
 boomlify.com##div > div:has-text(We use cookies to improve your experience.)
 yogainternational.com##div[class^="elements__Banner-"]:has(> div > a[href$="-privacy-policy"])
 help.semmelweis.hu#?#.modal:has(h3:has-text(SÃ¼tik hasznÃ¡lata)):has(button:has-text(ElfogadÃ¡s))
+kick.com#?#.z-modal:-abp-contains(You are in control of cookies used)
 flyfi.com##.HASH_COOKIE_ALERT_GRID_ITEM_FIXED
 aainflight.com##div[class*="_toastContainer_"]:has-text(We care about your privacy)
 |codeburst.io##body > div:not([class]):not([id]) > div[class*=" "]:has(> div > div > div[class] > a[href^="https://policy.medium.com/medium-privacy-policy-"])
@@ -13633,6 +13638,7 @@ ruegenmagic.de###confirm_cookies
 reka.ch###consent
 patienten.helios-gesundheit.de###consent-dialog
 swissquote.ch###consent-form-root
+computeruniverse.net###consent-layer
 |helite.de###consent-manager
 |stompgrip.de###consent-manager
 ihk-akademie.de###consent-overlay
@@ -13748,6 +13754,7 @@ gutfried.de###fog
 apotal.de###footer
 sumatronic.ch###fupi_cookie_notice
 dubaro.de###gdpr-cookie-message
+cyberport.de###gdpr_cookie_notice
 bluvista.tv###gdpr_footer
 pokewiki.de###gl-topbar-bg
 antonius.de###google-splash-screen
@@ -14229,8 +14236,6 @@ mibaby.de##.overlay_buddy
 querstarter.de##.page-lock
 |avl-ludwigsburg.de##.page-overlay
 |packster.de##.page-overlay
-|furnster.de##.page-wrap--cookie-permission
-|hiq24.de##.page-wrap--cookie-permission
 sport2000rent.com##.pageOverlay
 tchibo.de##.pageloading-mask
 |hollaus-it.at##.pcb
@@ -14868,7 +14873,6 @@ mikov.cz##.cookieconsent-com---nb
 |ibdkurz.cz##.cookies-canvas
 |shop-wedrink.com##.cookies-canvas
 vzdelanibudoucnosti.cz##.cookies-dialog-wrapper
-alza.cz##.cookies-info
 |phnaverandach.cz##.cookies-popup-short
 |realbonus.cz##.cookies-popup-short
 menicka.cz##.cookies_panel_wrp
@@ -17716,6 +17720,8 @@ ants.vn##.sg-popup-content
 ||cc.mpa-web.de^
 ||ccm1.dlr.de^
 ||ccm19.atradior.de/public/app.js
+||cm-dynamic.billiger.de/delivery/cmp.php?
+||cm-static.billiger.de/delivery/js/cmp_final.min.js
 ||cmp.bordverpflegung.de/public/app.js
 ||cmp.eick.it^
 ||cmp.pcwelt.de^

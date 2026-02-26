@@ -2183,7 +2183,7 @@ www.youtube.com###content > .ytd-rich-section-renderer:has-text(YouTube Playable
 www.youtube.com##.YtdTalkToRecsFlowRendererHost:has-text(What hobbies are you interested in developing?)
 www.youtube.com##tp-yt-paper-dialog.ytd-popup-container:has(> .ytd-popup-container > #options.ytd-checkbox-survey-renderer)
 www.youtube.com##tp-yt-paper-dialog.ytd-popup-container:has-text(/How do you feel|Which of the following|following Premium|Get background play|Choose all that apply|Become a member of this channel|Free trial|How are your|How interested|Live TV|Wish videos|better TV|cable box|cable reimagined|hidden fees|of YouTube TV|on YouTube TV|unlimited DVR|with YouTube TV|without the ads|try this feature|Terms apply|View live scores/)
-music.youtube.com##tp-yt-paper-dialog.ytmusic-popup-container:has-text(/family plan|Premium|ad-free|background play|kept playing|month free|without the ads|Try YouTube Music/)
+music.youtube.com##tp-yt-paper-dialog.ytmusic-popup-container:has-text(/Weâre listening!|family plan|Premium|ad-free|background play|kept playing|month free|without the ads|Try YouTube Music/)
 www.youtube.com##.YtdTalkToRecsFlowRendererHost:has-text(/Ask for videos|What do you like|Help us improve/)
 usnews.com##.MuiPaper-elevation.MuiPaper-root:has-text(Create an Account)
 |aajtak.in##.tapBoxCls
@@ -6921,6 +6921,7 @@ newsclick.in##.subscribeTelegram
 locals.com##.support-now
 elsate.com##.swBar
 |dcrainmaker.com##.swp_floating_horizontal_wrapper
+|disruptionbanking.com##.swp_floating_horizontal_wrapper
 |msmagazine.com##.swp_floating_horizontal_wrapper
 |davidlebovitz.com##.swp_share_button
 |jessicagavin.com##.swp_share_button
@@ -7352,6 +7353,7 @@ royalqueenseeds.*##.social-media-icons-footer
 |auto-moto.com##.share-buttons
 |autoplus.fr##.share-buttons
 |bank.gov.ua##.share-buttons
+|basic-tutorials.de##.share-buttons
 |canadaradiostations.com##.share-buttons
 |canli-radyo-dinle.com##.share-buttons
 |criminaljusticedegreehub.com##.share-buttons
@@ -10099,6 +10101,7 @@ it-daily.net##.ns-buttons
 onvista.de##.ov-article__sharebar
 domradio.de##.page-tools
 haustec.de##.paragraph--type--social-links
+basic-tutorials.de##.post-followus-btn
 hansa-online.de##.printfriendly
 streamkiste.tv##.sb
 teltarif.de##.sbm
@@ -10144,6 +10147,7 @@ kress.de##.susc-social-media
 t3n.de##.tg-pockethinweis
 t3n.de##.tg-social-bottom
 kleinezeitung.at##.tik4-sharing
+barax.de##.twt-sharing-links
 goldinvest.de##.uael-marketing-button
 dioezesanmuseum-rottenburg.de##.uncode-vc-social
 watson.ch##.watson-sharebuttons
@@ -17111,6 +17115,7 @@ just-eat.ie##div[data-qa="jet-privacy-settings"]
 |pyszne.pl##.cookie-overlay
 cam4.*##.EEoPD
 evertiq.*##.cc-container
+alza.*##.cookies-info
 track.amazon.*##.wfbHK2
 wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotification"]
 |betway.*###cookiePopup
@@ -17554,14 +17559,17 @@ sogeti.*###popup-cookieConsent
 |bienen-voigt.de##.page-wrap--cookie-permission
 |blitzhandel24.it##.page-wrap--cookie-permission
 |boschettileo.com##.page-wrap--cookie-permission
+|furnster.de##.page-wrap--cookie-permission
 |gartenteiche-fockenberg.de##.page-wrap--cookie-permission
 |hardwarebro.de##.page-wrap--cookie-permission
 |heilkraft.online##.page-wrap--cookie-permission
+|hiq24.de##.page-wrap--cookie-permission
 |hupfer.com##.page-wrap--cookie-permission
 |kdvisual.it##.page-wrap--cookie-permission
 |kellereikaltern.com##.page-wrap--cookie-permission
 |messerworld.de##.page-wrap--cookie-permission
 |mm-aquaristik.de##.page-wrap--cookie-permission
+|office-partner.de##.page-wrap--cookie-permission
 |originalteilemarkt.de##.page-wrap--cookie-permission
 |reifen-felgen.de##.page-wrap--cookie-permission
 |sixpack-racing.com##.page-wrap--cookie-permission
@@ -25219,6 +25227,7 @@ moebelix.at##body > div > div:has(#jentis_consent)
 boomlify.com##div > div:has-text(We use cookies to improve your experience.)
 yogainternational.com##div[class^="elements__Banner-"]:has(> div > a[href$="-privacy-policy"])
 help.semmelweis.hu#?#.modal:has(h3:has-text(SÃ¼tik hasznÃ¡lata)):has(button:has-text(ElfogadÃ¡s))
+kick.com#?#.z-modal:-abp-contains(You are in control of cookies used)
 flyfi.com##.HASH_COOKIE_ALERT_GRID_ITEM_FIXED
 aainflight.com##div[class*="_toastContainer_"]:has-text(We care about your privacy)
 |codeburst.io##body > div:not([class]):not([id]) > div[class*=" "]:has(> div > div > div[class] > a[href^="https://policy.medium.com/medium-privacy-policy-"])
@@ -33700,8 +33709,10 @@ identity.riverisland.com##div[class^="cookie-consent"]
 riverisland.com##html:style(position: static !important; overflow: auto !important; width: auto !important;)
 |filmzie.com##.cookie-modal
 |ovenclean.com##.cookie-modal
+|playox.de##.cookie-modal
 |filmzie.com##body,html:style(overflow: auto !important; position: initial !important;)
 |ovenclean.com##body,html:style(overflow: auto !important; position: initial !important;)
+|playox.de##body,html:style(overflow: auto !important; position: initial !important;)
 |benakey.com##.cookies-widget--light
 |booking-locly.com##.cookies-widget--light
 |carlton-riviera-cannes.com##.cookies-widget--light
@@ -36260,6 +36271,7 @@ ruegenmagic.de###confirm_cookies
 reka.ch###consent
 patienten.helios-gesundheit.de###consent-dialog
 swissquote.ch###consent-form-root
+computeruniverse.net###consent-layer
 |helite.de###consent-manager
 |stompgrip.de###consent-manager
 ihk-akademie.de###consent-overlay
@@ -36375,6 +36387,7 @@ gutfried.de###fog
 apotal.de###footer
 sumatronic.ch###fupi_cookie_notice
 dubaro.de###gdpr-cookie-message
+cyberport.de###gdpr_cookie_notice
 bluvista.tv###gdpr_footer
 pokewiki.de###gl-topbar-bg
 antonius.de###google-splash-screen
@@ -36856,8 +36869,6 @@ mibaby.de##.overlay_buddy
 querstarter.de##.page-lock
 |avl-ludwigsburg.de##.page-overlay
 |packster.de##.page-overlay
-|furnster.de##.page-wrap--cookie-permission
-|hiq24.de##.page-wrap--cookie-permission
 sport2000rent.com##.pageOverlay
 tchibo.de##.pageloading-mask
 |hollaus-it.at##.pcb
@@ -37495,7 +37506,6 @@ mikov.cz##.cookieconsent-com---nb
 |ibdkurz.cz##.cookies-canvas
 |shop-wedrink.com##.cookies-canvas
 vzdelanibudoucnosti.cz##.cookies-dialog-wrapper
-alza.cz##.cookies-info
 |phnaverandach.cz##.cookies-popup-short
 |realbonus.cz##.cookies-popup-short
 menicka.cz##.cookies_panel_wrp
@@ -40343,6 +40353,8 @@ ants.vn##.sg-popup-content
 ||cc.mpa-web.de^
 ||ccm1.dlr.de^
 ||ccm19.atradior.de/public/app.js
+||cm-dynamic.billiger.de/delivery/cmp.php?
+||cm-static.billiger.de/delivery/js/cmp_final.min.js
 ||cmp.bordverpflegung.de/public/app.js
 ||cmp.eick.it^
 ||cmp.pcwelt.de^
@@ -43951,6 +43963,7 @@ socialistworker.co.uk##.gform_fields
 |yellowhammernews.com##.gform_widget
 |atlanticcouncil.org##.gform_wrapper
 |dictionary.com##.gform_wrapper
+|disruptionbanking.com##.gform_wrapper
 |eiwittrends.nl##.gform_wrapper
 |pressherald.com##.gform_wrapper
 |pv-magazine.com##.gform_wrapper
@@ -44888,6 +44901,7 @@ backstage.com##.section--newsletter
 mygenefood.com##.section--optin
 theideasletter.org##.section--subscribe
 usrtk.org##.section-callout-newsletter
+wheresyoured.at##.section-cta
 crowdsupply.com##.section-email-signup
 247wallst.com##.section-email-sub
 |developer.mozilla.org##.section-newsletter
@@ -44995,6 +45009,7 @@ fortune.com##.sidebarPlea
 |evinfocus.com##.sidebar__subscribe
 |pbs.org##.sidebar__subscribe
 |readtangle.com##.sidebar__subscribe
+|wheresyoured.at##.sidebar__subscribe
 therecord.media##.sidebar__widget--newsletter
 masterinvestor.co.uk##.sidebar_nl
 vnews.com##.sidebaritem2018
@@ -49333,6 +49348,7 @@ shopcjglobal.com##flashy-popup
 market.samm.com#?#.bg-light:-abp-contains(newsletter)
 recordcollectormag.com#?#.widget_text:-abp-contains(newsletter)
 rprealtyplus.com#?#.border.rounded.p-2:-abp-contains(news letter)
+|asgoodasnew.*###newsletter
 |edestinos.*###newsletter
 |esky.*###newsletter
 |eskytravel.*###newsletter
@@ -49544,6 +49560,7 @@ bassols.es##.bg-modalnews
 hightechplace.com##.block-subscribe
 bahia-principe.com##.c-newsletter
 ditano.com##.container-box-email
+mediarado.de##.es-cmspro-element-newsletter
 |mmoga.co.uk##.footNewsletter
 |mmoga.com##.footNewsletter
 |mmoga.de##.footNewsletter
@@ -49578,6 +49595,7 @@ kingattitude.it##.subscribe-widget
 |tevanaot.co.il##.subscribe-wrapper
 kruidvat.nl##.subscription-box
 telhanorte.com.br##.telhanorte-telha-store-app-1-x-container-newsletter
+barax.de##.twt-element-newsletter
 viata.fr##.vi-newsletter-subscribe__content
 loungerie.com.br##.vtex-flex-layout-0-x-flexRow--newsletter-vtex-row
 drezzy.it##.widget-newsletter
@@ -49866,9 +49884,17 @@ suzukicycles.com##.popup-promo
 partsinmotion.co.uk###fancybox-overlay
 partsinmotion.co.uk##body,html:style(overflow: auto !important; position: initial !important;)
 |ardene.com##.modal
+|asgoodasnew.de##.modal
+|asgoodasnew.es##.modal
+|asgoodasnew.fr##.modal
+|asgoodasnew.it##.modal
 |biglots.com##.modal
 |toysrus.ca##.modal
 |ardene.com##body,html:style(overflow: auto !important; position: initial !important;)
+|asgoodasnew.de##body,html:style(overflow: auto !important; position: initial !important;)
+|asgoodasnew.es##body,html:style(overflow: auto !important; position: initial !important;)
+|asgoodasnew.fr##body,html:style(overflow: auto !important; position: initial !important;)
+|asgoodasnew.it##body,html:style(overflow: auto !important; position: initial !important;)
 |biglots.com##body,html:style(overflow: auto !important; position: initial !important;)
 |toysrus.ca##body,html:style(overflow: auto !important; position: initial !important;)
 |authenticoilco.com##.modals-wrapper
