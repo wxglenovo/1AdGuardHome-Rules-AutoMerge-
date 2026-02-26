@@ -5877,10 +5877,13 @@ avaaz.org##.global-footer-connect
 cars.com##.global-footer-social-buttons
 tweaktown.com##.gnci
 phonearena.com##.gnews-wrapper
+phonearena.com##.gnews-wrapper-down
 oneindia.com##.goog-one-news
 militarywatchmagazine.com##.google--text
 |bringmethenews.com##.google-btn
 |thehindu.com##.google-btn
+responsiblestatecraft.org##.google-cta
+responsiblestatecraft.org##.google-cta-infy
 dailyartmagazine.com##.google-feed-row
 pcguide.com##.google-news
 crypto.news##.google-news-banner
@@ -5892,7 +5895,8 @@ alarabiya.net##.google-news-callout
 |glassalmanac.com##.google-news-card
 |cybernews.com##.google-news-cta
 |sammobile.com##.google-news-cta
-quiverquant.com##.google-news-follow
+|phonearena.com##.google-news-follow
+|quiverquant.com##.google-news-follow
 bleedingcool.com##.google-news-source
 |ringsidenews.com##.google-preferred-btn
 |tmz.com##.google-preferred-btn
@@ -19566,6 +19570,7 @@ dryg.pl##div[class^="CookiesNoti"]
 |ugenr.dk###gdpr-consent
 |ukenr.no###gdpr-consent
 |veckonr.se###gdpr-consent
+|cbc.ca###didomi-host
 |festo.com###didomi-host
 |frandroid.com###didomi-host
 |giphy.com###didomi-host
@@ -43084,6 +43089,7 @@ israelnationalnews.com##.article-join-button
 |972mag.com##.article-newsletter
 |indiatimes.com##.article-newsletter
 brookings.edu##.article-newsletter-bottom-toolbar
+foreignaffairs.com##.article-newsletter-signup--container
 britishheritage.com##.article-newsletter-signup-cta
 valetmag.com##.article-newsletterFooterModule-container
 reuters.com##.article-prompt__container__3uXJV
@@ -44034,6 +44040,7 @@ news.crunchbase.com##.herald-txt-module
 |chatelaine.com##.hero-sidebar
 |macleans.ca##.hero-sidebar
 press.asimov.com##.hero-signup-wrap
+responsiblestatecraft.org##.highlight-wrapper--newsletter
 vinepair.com##.home-email-cta
 saksfifthavenue.com##.home-email-signup
 guidingtech.com##.home-form
@@ -45198,6 +45205,7 @@ emergingtechbrew.com##.styles__NewsletterButtonWrapper-sc-1d1d7156-13
 lareviewofbooks.org##.styles_newsletterContainer__8v_OS
 semafor.com##.styles_newsletterSection__6CWXE
 autoblog.com##.styles_newsletters___lVzh
+nbcnews.com##.styles_subscriptionCTA__LOUeY
 |thehackernews.com##.sub-button
 |yardbarker.com##.sub-button
 |fansided.com##.sub-footer-container
@@ -46782,6 +46790,7 @@ idealista.pt##.newsletter-subscription-form
 |recombu.com##.newsletter
 |record.pt##.newsletter
 |redsharknews.com##.newsletter
+|responsiblestatecraft.org##.newsletter
 |revealnews.org##.newsletter
 |reynardsec.com##.newsletter
 |rivistacontrasti.it##.newsletter
