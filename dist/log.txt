@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-02-27T14:18:18.487Z
+🚫 去掉注释行: ! Last modified: 2026-02-27T16:14:44.403Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v1.0.38
 🚫 去掉注释行: !
@@ -1572,10 +1572,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 100433
-🚫 去掉注释行: ! Checksum: h5pPv3vA+YK96SsixFfJRA
-🚫 去掉注释行: ! Version: 202602271531
+🚫 去掉注释行: ! Checksum: tC46BgMz5gYX4olDbKhcnQ
+🚫 去掉注释行: ! Version: 202602271621
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 27 Feb 2026 15:31 UTC
+🚫 去掉注释行: ! Last modified: 27 Feb 2026 16:21 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -23736,9 +23736,10 @@
     → |sexseeimage.com##.happy-section
     → |thisav.me##.happy-section
     → |thisav.video##.happy-section
-✅ 多域名拆分: deepfake-porn.com,deepfucks.com,hdpornflix.com,hentaisexclub.com,sexkbj.com,vpornhd.com,x-picture.com##.happy-sidebar
+✅ 多域名拆分: deepfake-porn.com,deepfucks.com,faply.cc,hdpornflix.com,hentaisexclub.com,sexkbj.com,vpornhd.com,x-picture.com##.happy-sidebar
     → |deepfake-porn.com##.happy-sidebar
     → |deepfucks.com##.happy-sidebar
+    → |faply.cc##.happy-sidebar
     → |hdpornflix.com##.happy-sidebar
     → |hentaisexclub.com##.happy-sidebar
     → |sexkbj.com##.happy-sidebar
@@ -24715,10 +24716,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: LQVuPHXvi0v6GawoXGEtNA
-🚫 去掉注释行: ! Version: 202602271531
+🚫 去掉注释行: ! Checksum: bL2oAuua2VVUQV78juXTkw
+🚫 去掉注释行: ! Version: 202602271621
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 27 Feb 2026 15:31 UTC
+🚫 去掉注释行: ! Last modified: 27 Feb 2026 16:21 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29290,10 +29291,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: WFQDdryWW3vCFwkWbIsNVg
-🚫 去掉注释行: ! Version: 202602271531
+🚫 去掉注释行: ! Checksum: y5WDkAjUBAIXuBddYAaG6g
+🚫 去掉注释行: ! Version: 202602271621
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 27 Feb 2026 15:31 UTC
+🚫 去掉注释行: ! Last modified: 27 Feb 2026 16:21 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29999,11 +30000,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202602271532
+🚫 去掉注释行: ! Version: 202602271625
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 27 Feb 2026 15:32 UTC
+🚫 去掉注释行: ! Last modified: 27 Feb 2026 16:25 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 66b644ab96d53fbe207e2049ec3da070fb56f3d4
+🚫 去掉注释行: ! Commit: 98f7ddce8c00ed547f8e1c9418f95b05310795b1
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -52167,9 +52168,10 @@
     → |sexseeimage.com##.happy-section
     → |thisav.me##.happy-section
     → |thisav.video##.happy-section
-✅ 多域名拆分: deepfake-porn.com,deepfucks.com,hdpornflix.com,hentaisexclub.com,sexkbj.com,vpornhd.com,x-picture.com##.happy-sidebar
+✅ 多域名拆分: deepfake-porn.com,deepfucks.com,faply.cc,hdpornflix.com,hentaisexclub.com,sexkbj.com,vpornhd.com,x-picture.com##.happy-sidebar
     → |deepfake-porn.com##.happy-sidebar
     → |deepfucks.com##.happy-sidebar
+    → |faply.cc##.happy-sidebar
     → |hdpornflix.com##.happy-sidebar
     → |hentaisexclub.com##.happy-sidebar
     → |sexkbj.com##.happy-sidebar
@@ -53146,11 +53148,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202602271539
+🚫 去掉注释行: ! Version: 202602271622
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 27 Feb 2026 15:39 UTC
+🚫 去掉注释行: ! Last modified: 27 Feb 2026 16:22 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 5c7add1b7f409f57561981cbc1cc22249d578f8c
+🚫 去掉注释行: ! Commit: 98f7ddce8c00ed547f8e1c9418f95b05310795b1
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -69202,8 +69204,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !生成时间: 2026-02-27 23:00:17
-🚫 去掉注释行: !有效规则数目: 1562426
+🚫 去掉注释行: !生成时间: 2026-02-27 23:48:24
+🚫 去掉注释行: !有效规则数目: 1562454
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
@@ -152253,15 +152255,15 @@
 🚫 去掉注释行: ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 🚫 去掉注释行: ! Homepage: https://github.com/217heidai/adblockfilters
 🚫 去掉注释行: ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-🚫 去掉注释行: ! Version: 20260227183417
-🚫 去掉注释行: ! Last modified: 2026/02/27 18:34:17
-🚫 去掉注释行: ! Blocked domains: 4916
+🚫 去掉注释行: ! Version: 20260228001651
+🚫 去掉注释行: ! Last modified: 2026/02/28 00:16:51
+🚫 去掉注释行: ! Blocked domains: 4908
 🚫 去掉注释行: ! unBlocked domains: 15
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: 0SQqccLljiMEhddsklfIsw
-🚫 去掉注释行: ! Version: 202602270800
+🚫 去掉注释行: ! Checksum: nvFx/yUlSWtQJTYXLUIlbw
+🚫 去掉注释行: ! Version: 202602271625
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-02-27 08:00 UTC
+🚫 去掉注释行: ! Last modified: 2026-02-27 16:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -216210,9 +216212,9 @@
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: !---------------------------------Allowlists----------------------------------!
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: hZNa3dJrQwBNr9Jf+NBbRQ
+🚫 去掉注释行: ! Checksum: /YuDNGRdIG5rpoW6Wk1c/A
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Last modified: 2026-02-27 02:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-02-27 16:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
