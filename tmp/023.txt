@@ -18547,6 +18547,7 @@ stokrotka.pl###cboxWrapper
 |rustdesk.com###cc-main
 |sampi.net.br###cc-main
 |sardynkibiznesu.pl###cc-main
+|softorino.com###cc-main
 |soleretriever.com###cc-main
 |sporthotel-zoll.com###cc-main
 |trae.ai###cc-main
@@ -41699,7 +41700,7 @@ yoigo.com#@#thor-cookies
 @@||assets.travix.com/client/cookie-banner-$script
 @@||astrogaming.com/etc.clientlibs/logitech-common/clientlibs/onetrust.$script,~third-party
 @@||ats-wrapper.privacymanager.io/ats-modules/*/ats.js$script,domain=iodonna.it|video.corriere.it|video.gazzetta.it
-@@||badgeland.no/static/*/cookie-consent.js$~third-party
+@@||badgeland.*/cookie-consent.js$~third-party
 @@||banking.fyrst.de/translations/*-cookiedisclaimer$~third-party,xmlhttprequest
 @@||barclays.co.uk^*/cookiepolicy.js$~third-party
 @@||bbci.co.uk^*/cookie-library.min.js
