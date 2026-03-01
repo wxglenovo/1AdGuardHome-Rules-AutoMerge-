@@ -1813,6 +1813,7 @@ weather.com##.min-h-12:has-text(Sign in to see fewer ads)
 motherjones.com##.mj-adblock-widget
 allrecipes.com##.mntl-notification-banner
 moneyweb.co.za##.mny-promo-popup
+search.brave.com##.mobile-promo-content-wrapper
 banggood.com##.modal-newbie
 propublica.org##.module-donate
 darkreading.com##.more-insights
@@ -3359,7 +3360,6 @@ tumblr.com##[style="background-color: rgb(124, 92, 255); color: rgb(255, 255, 25
 |groupon.fr###spotlight
 vansoestklassiekers.nl##.cc-FloatingButtonBarContainer-button-scroll
 gamereactor.eu###videoContainer.playersmall[style^="position: relative; aspect-ratio: initial; background: black; margin-bottom:"]
-abcnews.go.com##.StickyVideoPlayer.VideoPlayer[style=""]
 thehill.com##.cross-sign
 thehill.com##.desktop-floating-player
 cwtv.com###user_optin_banner
@@ -5180,7 +5180,6 @@ whatcar.com##.ReviewSocialSection_reviewSocialSection__qzV0o
 abc.net.au##.ShareBanner_container__OX63I
 aleteia.org##.ShareBar_link__3gR4V
 manofmany.com##.ShareBar_listItem__6t0E_
-genius.com##.ShareButtons__Root-sc-8c8eaea4-0
 thescore.com##.ShareLinks__container--3C8C4
 meduza.io##.SharePanel-module-root
 hoorayteams.com##.Share_share__FQTKw
@@ -5700,6 +5699,7 @@ thehackernews.com##.follow-box
 |mybroadband.co.za##.follow-buttons
 brobible.com##.follow-buttons-block
 carscoops.com##.follow-carscoops-container
+|arkansasonline.com##.follow-container
 |ctrl.blog##.follow-container
 |ein-herz-fuer-kinder.de##.follow-container
 arabnews.com##.follow-field
@@ -7174,6 +7174,7 @@ theguardian.com##div > gu-island[name="ShareButton"]
 photorumors.com##div[align="RIGHT"]
 fifa.com##div[class*="article-section_shareButton_"]
 theatlantic.com##div[class^="ArticleShare_"]
+genius.com##div[class^="ShareButtons_"]
 kcrw.com##div[class^="SocialLinks_"]
 cnbc.com##div[class^="SocialShare-"]
 kcrw.com##div[class^="SocialShare_"]
@@ -8143,6 +8144,7 @@ royalqueenseeds.*##.social-media-icons-footer
 |areanapoli.it##.share
 |aristeguinoticias.com##.share
 |arizonasports.com##.share
+|arkansasonline.com##.share
 |asia.nikkei.com##.share
 |asmartbear.com##.share
 |astanatimes.com##.share
@@ -11703,7 +11705,8 @@ gala.fr#@#.share-bottom
 |knivesout.jp#@#.share-btn
 ida2at.com#@#.share-holder
 app.degoo.com#@#.share-icon-container
-seher.no#@#.share-icons-bottom
+|dagbladet.no#@#.share-icons-bottom
+|seher.no#@#.share-icons-bottom
 pornhub.com#@#.share-link-container
 |baidu.com#@#.share-list
 |findagrave.com#@#.share-list
@@ -15043,9 +15046,6 @@ meest-shop.com##.cookie-consent-banner_root__M9V7x
 aerolopa.com##.cookie-consent-modern
 developers.turing.com##.cookie-consent-overlay
 buying.expert##.cookie-consent-popover
-|cos.com##.cookie-consent-popup
-|expireddomains.com##.cookie-consent-popup
-|hm.com##.cookie-consent-popup
 fling2night.com##.cookie-consent-root
 samsungknox.com##.cookie-consent-v3
 |springbok-puzzles.com##.cookie-consent-wrapper
@@ -17142,6 +17142,7 @@ wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotifi
 |campfimfo.com##.cookie-popup
 |championat.ru##.cookie-popup
 |evraz.com##.cookie-popup
+|ewines.co.il##.cookie-popup
 |hampers.com##.cookie-popup
 |icmarkets.eu##.cookie-popup
 |kinoflex.ru##.cookie-popup
@@ -17481,10 +17482,21 @@ sogeti.*###popup-cookieConsent
 |concert.ua##.cookie-consent-banner
 |delfortgroup.com##.cookie-consent-banner
 |githubstatus.com##.cookie-consent-banner
+|goldaglida.co.il##.cookie-consent-banner
 |morfix.co.il##.cookie-consent-banner
 |puffy.com##.cookie-consent-banner
 |splice-cad.com##.cookie-consent-banner
 |wincatalog.com##.cookie-consent-banner
+|015.co.il##.cookie-consent-popup
+|almaviva.it##.cookie-consent-popup
+|cos.com##.cookie-consent-popup
+|expireddomains.com##.cookie-consent-popup
+|gcli.li##.cookie-consent-popup
+|hm.com##.cookie-consent-popup
+|finam.ru###cookie-consent-popup
+|halalit.co.il###cookie-consent-popup
+|pccenter.co.il###cookie-consent-popup
+|rsm.co.il###cookie-consent-popup
 |ammeraalbeltech.com##.cookiebar
 |asst-lecco.it##.cookiebar
 |community.dyson.com##.cookiebar
@@ -19467,6 +19479,7 @@ dryg.pl##div[class^="CookiesNoti"]
 |chase.com##.consent-banner
 |chasebonus.com##.consent-banner
 |gameduell.de##.consent-banner
+|has.co.il##.consent-banner
 |iziwork.com##.consent-banner
 |jpmorgan.com##.consent-banner
 |jpmorganchase.com##.consent-banner
@@ -19563,6 +19576,7 @@ dryg.pl##div[class^="CookiesNoti"]
 |satel.pl##.dialog-lightbox-widget
 |selectmedia.asia##.dialog-lightbox-widget
 |sublabmusic.com##.dialog-lightbox-widget
+|tavshilim.co.il##.dialog-lightbox-widget
 |tealstreet.io##.dialog-lightbox-widget
 |thebfa.org##.dialog-lightbox-widget
 |towersemi.com##.dialog-lightbox-widget
@@ -29157,7 +29171,8 @@ ajanvaraus.idealinspect.fi##+js(set-local-storage-item, cookieConsent, 0)
 |turbo.ai##+js(set-local-storage-item, cookieConsent, 1)
 min.io##+js(set-local-storage-item, cookieConsent, accepted)
 luvvoice.com##+js(set-local-storage-item, cookieConsent, declined)
-opmaatzagen.nl##+js(set-local-storage-item, cookieConsent, denied)
+|musehub.com##+js(set-local-storage-item, cookieConsent, denied)
+|opmaatzagen.nl##+js(set-local-storage-item, cookieConsent, denied)
 unisa.ac.za##+js(set-local-storage-item, cookieConsent, essential)
 |dorkgpt.com##+js(set-local-storage-item, cookieConsent, false)
 |foodvessel.com##+js(set-local-storage-item, cookieConsent, false)
@@ -36650,7 +36665,6 @@ webcountdown.de##.cooBubble
 der-ersatzteile-profi.de##.coockie_poliy
 |dreieich.de##.cookie-consent-dialogue
 |koenigstein.de##.cookie-consent-dialogue
-gcli.li##.cookie-consent-popup
 horeca-hero.com##.cookie-consent-root
 boesendorfer.com##.cookie-consent-wrapper
 crossnative.com##.cookie-consent_overlay__SIXMM
@@ -38037,9 +38051,6 @@ maccabi4u.co.il###ZA_CAMP_MOBILE_CONTAINER
 foodsdictionary.co.il###cookie-consent
 tambour.co.il###cookie-consent-acf-backdrop
 tambour.co.il###cookie-consent-acf-modal
-|halalit.co.il###cookie-consent-popup
-|pccenter.co.il###cookie-consent-popup
-|rsm.co.il###cookie-consent-popup
 zinger-organic.com###cookie-consent-wrapper
 019mobile.co.il###cookie-except-banner
 madlan.co.il###cookie-root
@@ -38058,8 +38069,10 @@ gesher-theatre.co.il##.cookies-approval-strip-wrapper
 easy.co.il##.cookies-consent-banner
 bug.co.il##.cookies-policy-modal-container
 pazgas.co.il##.cookies-popup-overlay
+eliasi.co.il##.cookies13wrap
 landwercafe.co.il##.cookies_modal_container
 pais.co.il##.cookies_sec
+tel-aviv.gov.il##.customerAgreement
 drushim.co.il##.dr-cookie-banner
 mtoys.co.il##.e2w-cookie-popup
 xphone.co.il##.elementor-element-7f094b47
@@ -38069,11 +38082,13 @@ yad-mordechai.co.il##.eupopup-container
 ksp.co.il##.ltr-1075xo6
 mdyo.co.il##.mdyo-cookie
 diners.co.il##.message-container
+pizzangel.co.il##.mishloha-gdpr-popup
 ksp.co.il##.mui-b13abt.MuiBox-root
 bankhapoalim.co.il##.muirtl-1cwm7gt
 ksp.co.il##.muirtl-b13abt.MuiBox-root
 super-pharm.co.il##.phcBlockCookiesWrap
 colmobil.co.il##.popup-privacy
+comedyclub.co.il##.ppb-banner
 ksp.co.il##.rtl-1075xo6
 letlive.org.il##.site-consent-banner
 cts.co.il##.upnext-cookie-notice
@@ -38356,7 +38371,6 @@ ebible.it##.clm
 bontempi.it##.colaw-div
 centrogamma.com##.contPopup
 unirc.it##.content
-almaviva.it##.cookie-consent-popup
 automercatoavenoso.it##.cookieBox-Main
 |bioinsuedtirol.it##.cookiePolicy
 |esselungajob.it##.cookiePolicy
@@ -39370,7 +39384,6 @@ solgarvitamin.ru###consent-modal
 gorodperm.ru###cookb
 gazprombank.ru###cookie-accept
 cardiovascular.elpub.ru###cookie-banner-wrapper
-finam.ru###cookie-consent-popup
 ria-m.tv###cookie-msg
 companies.rbc.ru###cookie-popup
 aeroflot.ru###cookieInfo
@@ -39391,6 +39404,7 @@ volnamobile.ru###message-block-cookie
 belgazprombank.by###modal-cookies
 readovka.news###modalCookie
 alfazdrav.ru###modalcookie
+www.vtbnpf.ru###notify-container
 online-kassa.ru###ok-cookie
 stentex.ru###overlay
 verno-info.ru###overlaycookie
@@ -39502,6 +39516,7 @@ mnogo.ru##.cook_LFPnK
 propb.ru##.cooke
 invitro.ru##.cookie--popup
 supersamsev.ru##.cookie-consent-container-wrap
+lk-new.vtbnpf.ru##.cookie-layout
 rutube.ru##.cookie-message-module__cookie-consent
 1cbit.ru##.cookie-panel
 sponsr.ru##.cookie-site-alert
@@ -50660,6 +50675,7 @@ instagram.com##._acc8
 m.webtoons.com##._appDownloadPopup
 smartfren.com##.alert-download
 skysports.com##.android-banner
+genius.com##.android_banner
 coincodex.com##.app
 washingtonpost.com##.app-adoption-banner
 flypgs.com##.app-b
@@ -51436,7 +51452,6 @@ cvs.com##cvs-smart-app-banner
 trademe.co.nz##div.responsive-wrapper[aria-label="App promotion banner"]
 web.nhk##div[class*=" _"][role="region"][aria-labelledby="_r_1_"]
 m.bilibili.com##div[class*="-openapp"]
-genius.com##div[class*="AndroidBannermobile_"]
 thescore.com##div[class*="GetTheAppModal_"]
 giphy.com##div[class*="OpenInAppContainer-"]
 thescore.com##div[class^="GetTheApp__fullScreenContainerScrolldown--"]
@@ -52017,6 +52032,7 @@ s.tabelog.com###js-webtoapp-floating-banner-overlay
 s.tabelog.com##body,html:style(overflow-y: auto !important;)
 trial-net.co.jp##.app-remind
 trial-net.co.jp##.header-app-remind:remove-class(header-app-remind)
+genius.com##.android_interstitial:remove()
 @@||bostonherald.com^*/webpush.js$script,~third-party
 @@||braze.com/api/$domain=dairyqueen.com|deezer.com
 @@||creator.klarna.com/plugins/onesignal-cordova-plugin/www/onesignal.js$~third-party

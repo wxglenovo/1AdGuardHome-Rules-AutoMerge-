@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-03-01T00:40:45.683Z
+🚫 去掉注释行: ! Last modified: 2026-03-01T03:08:31.682Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v1.0.38
 🚫 去掉注释行: !
@@ -1572,10 +1572,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 101026
-🚫 去掉注释行: ! Checksum: JGqF3dUtgSFHCcZMRHr97Q
-🚫 去掉注释行: ! Version: 202603010141
+🚫 去掉注释行: ! Checksum: I/nDiMdsXg6aeX/5mSNnmw
+🚫 去掉注释行: ! Version: 202603010411
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 01 Mar 2026 01:41 UTC
+🚫 去掉注释行: ! Last modified: 01 Mar 2026 04:11 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -19389,9 +19389,6 @@
     → |where.ca##.leaderboard
     → |wyff4.com##.leaderboard
     → |yoimaletyoufinish.com##.leaderboard
-✅ 多域名拆分: abcnews.go.com,edarabia.com##.leaderboard-970
-    → |abcnews.go.com##.leaderboard-970
-    → |edarabia.com##.leaderboard-970
 ✅ 多域名拆分: apnews.com,arabiaweather.com,atlasobscura.com,forum.audiogon.com,gamesindustry.biz,golfdigest.com,zerohedge.com##.leaderboard-container
     → |apnews.com##.leaderboard-container
     → |arabiaweather.com##.leaderboard-container
@@ -22466,9 +22463,9 @@
 ✅ 多域名拆分: independent.co.uk,the-independent.com###taboola-mid-article-thumbnails-iii
     → |independent.co.uk###taboola-mid-article-thumbnails-iii
     → |the-independent.com###taboola-mid-article-thumbnails-iii
-✅ 多域名拆分: 6abc.com,abcnews.go.com,goodmorningamerica.com##.taboola
+✅ 多域名拆分: 6abc.com,abcnews.com,goodmorningamerica.com##.taboola
     → |6abc.com##.taboola
-    → |abcnews.go.com##.taboola
+    → |abcnews.com##.taboola
     → |goodmorningamerica.com##.taboola
 ✅ 多域名拆分: drivespark.com,express.co.uk,goodreturns.in##div[id^="taboola-"]
     → |drivespark.com##div[id^="taboola-"]
@@ -24717,10 +24714,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: N/JqBxXDgO8KVgUJbAG7VQ
-🚫 去掉注释行: ! Version: 202603010141
+🚫 去掉注释行: ! Checksum: rwt0GnYN1x3KGtzD8dfNjA
+🚫 去掉注释行: ! Version: 202603010411
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 01 Mar 2026 01:41 UTC
+🚫 去掉注释行: ! Last modified: 01 Mar 2026 04:11 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29292,10 +29289,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: H1lCHEB4jJ/3GhmR/QbWtQ
-🚫 去掉注释行: ! Version: 202603010141
+🚫 去掉注释行: ! Checksum: Ya+vb/6ppVLLRNrITAvJGA
+🚫 去掉注释行: ! Version: 202603010411
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 01 Mar 2026 01:41 UTC
+🚫 去掉注释行: ! Last modified: 01 Mar 2026 04:11 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -30002,11 +29999,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202603010144
+🚫 去掉注释行: ! Version: 202603010413
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 01 Mar 2026 01:44 UTC
+🚫 去掉注释行: ! Last modified: 01 Mar 2026 04:13 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 79323ecaa82e78fc8f6203b140e3aa958e4eb8b3
+🚫 去掉注释行: ! Commit: 7747ff289bcac07f199014f4099cfc0fb237284e
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -47823,9 +47820,6 @@
     → |where.ca##.leaderboard
     → |wyff4.com##.leaderboard
     → |yoimaletyoufinish.com##.leaderboard
-✅ 多域名拆分: abcnews.go.com,edarabia.com##.leaderboard-970
-    → |abcnews.go.com##.leaderboard-970
-    → |edarabia.com##.leaderboard-970
 ✅ 多域名拆分: apnews.com,arabiaweather.com,atlasobscura.com,forum.audiogon.com,gamesindustry.biz,golfdigest.com,zerohedge.com##.leaderboard-container
     → |apnews.com##.leaderboard-container
     → |arabiaweather.com##.leaderboard-container
@@ -50900,9 +50894,9 @@
 ✅ 多域名拆分: independent.co.uk,the-independent.com###taboola-mid-article-thumbnails-iii
     → |independent.co.uk###taboola-mid-article-thumbnails-iii
     → |the-independent.com###taboola-mid-article-thumbnails-iii
-✅ 多域名拆分: 6abc.com,abcnews.go.com,goodmorningamerica.com##.taboola
+✅ 多域名拆分: 6abc.com,abcnews.com,goodmorningamerica.com##.taboola
     → |6abc.com##.taboola
-    → |abcnews.go.com##.taboola
+    → |abcnews.com##.taboola
     → |goodmorningamerica.com##.taboola
 ✅ 多域名拆分: drivespark.com,express.co.uk,goodreturns.in##div[id^="taboola-"]
     → |drivespark.com##div[id^="taboola-"]
@@ -53151,11 +53145,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202603010131
+🚫 去掉注释行: ! Version: 202603010405
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 01 Mar 2026 01:31 UTC
+🚫 去掉注释行: ! Last modified: 01 Mar 2026 04:05 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 2575d20327be478d5a69391369466eb323a5b931
+🚫 去掉注释行: ! Commit: 7528cd987e6f0fa48814b8fd9bddbe188a038cb9
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -63406,7 +63400,8 @@
     → |businesstech.co.za##.follow-buttons
     → |handletheheat.com##.follow-buttons
     → |mybroadband.co.za##.follow-buttons
-✅ 多域名拆分: ctrl.blog,ein-herz-fuer-kinder.de##.follow-container
+✅ 多域名拆分: arkansasonline.com,ctrl.blog,ein-herz-fuer-kinder.de##.follow-container
+    → |arkansasonline.com##.follow-container
     → |ctrl.blog##.follow-container
     → |ein-herz-fuer-kinder.de##.follow-container
 ✅ 多域名拆分: christianitytoday.com,sfexaminer.com,sfweekly.com##.follow-links
@@ -65078,7 +65073,7 @@
     → |xvideos-br.com###share
     → |xxxymovies.com###share
 🚫 去掉注释行: ! ! .share
-✅ 多域名拆分: 411mania.com,9gag.com,about.gitlab.com,abril.com.br,actiefwonen.be,administradores.com.br,agoranovale.com.br,al-shabaka.org,al-sharq.com,alfredopedulla.com,algemeiner.com,alibaba.com,alu.jp,amica.it,aminiya.ng,ara.cat,areanapoli.it,aristeguinoticias.com,arizonasports.com,asia.nikkei.com,asmartbear.com,astanatimes.com,at5.nl,autodidacts.io,autoline-az.com,autoline-eu.ru,autoline-eu.se,autoline-ge.com,autoline-nl.be,autoline-ru.lt,autoline-tm.com,autoline.be,autoline.bo,autoline.com.pl,autoline.com.py,autoline.es,autoline.kg,autoline.lu,autoline.lv,autoline.md,autoline.me,autoline.nl,autoline.pe,autoline.pt,autoline.ro,autoline.tj,autoline.ua,autoline.uz,automotive-online.nl,basketinside.com,bianconeranews.it,bitcoindaily.nl,bleacherreport.com,blogtivvu.com,brundisium.net,businessam.be,buzzmoica.fr,c-span.org,canadianbusiness.com,cardealermagazine.co.uk,carpicalcionews.it,caryinstitute.org,cbc.ca,cctv.com,cdt.ch,ch-aviation.com,chicercacasa.it,cittaceleste.it,clarin.com,classicandsportscar.com,cna.com.tw,cnbcindonesia.com,cncnews.cn,cnnturk.com,columbian.com,commentwiki.fr,coopcasarsa.it,corsedimoto.com,courthousenews.com,cricket.com.au,crusoe.com.br,crypto.news,cryptopotato.com,dailymail.co.uk,dailysabah.com,dailytrust.com,democracynow.org,dererker.it,devisesquare.com,dictionary.com,diningcity.be,diningcity.hu,diningcity.nl,downzen.com,dr.dk,ecoaustral.com,ecommercemag.fr,eleconomista.com.mx,elgrafico.com,elperiodico.cat,elperiodico.com,elperuano.pe,elquindiano.com,entaotane.net,epochtimes.com.br,epochtimes.fr,epochtimes.nl,estadao.com.br,euobserver.com,exchangerates.org.uk,exclusivo.com.br,fairplanet.org,fantamagazine.com,fcinter1908.it,firenzeviola.it,fleet-mobility.nl,flowingdata.com,food.com,foodnetwork.it,football365.com,forbes.com.br,fortune.com,forzaroma.info,fotomac.com.tr,frandroid.com,freespeech.org,funweek.it,gamespot.com,gamingonlinux.com,gazeta.pl,gazetaesportiva.com,gazzetta.it,gcd.com.br,geekwire.com,gettyimages.be,gettyimages.dk,gettyimages.es,gettyimages.fr,gettyimages.it,gettyimages.nl,gettyimages.pt,gettyimages.se,gmconline.com.br,godtube.com,golssip.it,good.is,gumtree.co.za,hedgehogreview.com,helpnetsecurity.com,hispantv.com,huuto.net,hvg.hu,hyundai.co.nz,ibtimes.sg,idcquan.com,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsussidiario.net,ilviaggiatorgoloso.it,indy100.com,infoenergia.info,infofranquicias.ar,infomendoza.info,infonegocios.barcelona,infonegocios.biz,infonegocios.com.py,infonegocios.info,infonegocios.madrid,infonegocios.miami,infonegociosgalicia.es,infonegociosvalencia.es,infostyle.info,infotecnologia.info,injujuy.info,inlitoral.info,inneuquen.info,inpatagonia.info,inrosario.info,insalta.info,insanjuan.info,insantiagodelestero.info,insomnia.gr,intesasanpaolo.com,intucuman.info,isaechia.it,jblitoral.com.br,jewishinsider.com,jornada.com.mx,juvenews.eu,jweekly.com,karryon.com.au,kingarthurbaking.com,kleinreport.ch,kmfa.org,knjizara-dominovic.hr,ktar.com,kurier.at,laleggepertutti.it,landrover.be,landrover.ch,landrover.com.br,landrover.com.cn,landrover.dk,landrover.es,landrover.fr,landrover.hu,landrover.it,landrover.lv,landrover.nl,landrover.pt,landrover.se,landroverkz.com,lantidiplomatico.it,laola1.at,laprensagrafica.com,larian.com,lastampa.it,laverita.info,lavozdegalicia.es,lifegate.it,lifezette.com,londrinasexy.com.br,ltn.com.tw,maannews.net,mail.ru,mediacorp.sg,mediagol.it,megasesso.com,metropolitano.it,milesplit.com,mmegi.bw,mobilita.org,monacomatin.mc,mondoudinese.it,money.com,moonlock.com,mr-jatt.im,mynorthwest.com,naomesmo.com.br,neoplan.com,newhua.com,news.tvbs.com.tw,news.unl.edu,newsmaxtv.com,newsmonkey.be,newsukraine.rbc.ua,nicematin.com,nieuwsblad.be,nos.nl,notateslaapp.com,ntn24.com,ntr.nl,numericalcio.it,nuus.hu,nzz.ch,obastidor.com.br,omglinux.com,otempo.com.br,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pbs.org,perlaretorica.it,pianetagenoa1893.net,pianetamilan.it,planetrugby.com,planetware.com,portaldotransito.com.br,portalinsights.com.br,portugueselegal.com.br,qz.com,radiopanamericana.com,radiotirol.it,radiotoday.com.au,ravennanotizie.it,rbc.ua,recyclingproductnews.com,reductress.com,reporteindigo.com,responsiblestatecraft.org,reteimprese.it,ria.ru,romadailynews.it,rpp.pe,rtvslo.si,rxresource.org,sanmarinortv.sm,sassuolocalcionews.it,sayrodigital.net,scholarlykitchen.sspnet.org,segmentnext.com,slantmagazine.com,sleepfoundation.org,socialistamorena.com.br,speakingtree.in,sportando.basketball,sportavellino.it,sportsbusinessjournal.com,sputnikportal.rs,stanfordchildrens.org,steampowered.com,suedtirol1.it,supereva.it,tag43.it,taiwanheute.tw,taiwantoday.tw,tasteandtellblog.com,tattoomuse.it,techrepublic.com,teledoce.com,tenniscircus.com,tennismajors.com,testfakta.com,the-decoder.com,theringreport.com,theroot.com,tivusat.tv,toronews.net,toy-people.com,trend-online.com,tuttobolognaweb.it,tuttoeuropei.com,u.today,ukrinform.de,ukrinform.es,ukrinform.fr,ukrinform.jp,ukrinform.net,ukrinform.pl,ukrinform.ua,uol.com.br,valeursactuelles.com,vastoweb.com,vectorstock.com,videogamer.com,violanews.com,viveusa.mx,voxweb.nl,vz.ru,wdhafm.com,webdunia.com,wikiway.com,windowslatest.com,windowsreport.com,writteninmusic.com,xxxymovies.com,xzorra.net,yougov.com##.share
+✅ 多域名拆分: 411mania.com,9gag.com,about.gitlab.com,abril.com.br,actiefwonen.be,administradores.com.br,agoranovale.com.br,al-shabaka.org,al-sharq.com,alfredopedulla.com,algemeiner.com,alibaba.com,alu.jp,amica.it,aminiya.ng,ara.cat,areanapoli.it,aristeguinoticias.com,arizonasports.com,arkansasonline.com,asia.nikkei.com,asmartbear.com,astanatimes.com,at5.nl,autodidacts.io,autoline-az.com,autoline-eu.ru,autoline-eu.se,autoline-ge.com,autoline-nl.be,autoline-ru.lt,autoline-tm.com,autoline.be,autoline.bo,autoline.com.pl,autoline.com.py,autoline.es,autoline.kg,autoline.lu,autoline.lv,autoline.md,autoline.me,autoline.nl,autoline.pe,autoline.pt,autoline.ro,autoline.tj,autoline.ua,autoline.uz,automotive-online.nl,basketinside.com,bianconeranews.it,bitcoindaily.nl,bleacherreport.com,blogtivvu.com,brundisium.net,businessam.be,buzzmoica.fr,c-span.org,canadianbusiness.com,cardealermagazine.co.uk,carpicalcionews.it,caryinstitute.org,cbc.ca,cctv.com,cdt.ch,ch-aviation.com,chicercacasa.it,cittaceleste.it,clarin.com,classicandsportscar.com,cna.com.tw,cnbcindonesia.com,cncnews.cn,cnnturk.com,columbian.com,commentwiki.fr,coopcasarsa.it,corsedimoto.com,courthousenews.com,cricket.com.au,crusoe.com.br,crypto.news,cryptopotato.com,dailymail.co.uk,dailysabah.com,dailytrust.com,democracynow.org,dererker.it,devisesquare.com,dictionary.com,diningcity.be,diningcity.hu,diningcity.nl,downzen.com,dr.dk,ecoaustral.com,ecommercemag.fr,eleconomista.com.mx,elgrafico.com,elperiodico.cat,elperiodico.com,elperuano.pe,elquindiano.com,entaotane.net,epochtimes.com.br,epochtimes.fr,epochtimes.nl,estadao.com.br,euobserver.com,exchangerates.org.uk,exclusivo.com.br,fairplanet.org,fantamagazine.com,fcinter1908.it,firenzeviola.it,fleet-mobility.nl,flowingdata.com,food.com,foodnetwork.it,football365.com,forbes.com.br,fortune.com,forzaroma.info,fotomac.com.tr,frandroid.com,freespeech.org,funweek.it,gamespot.com,gamingonlinux.com,gazeta.pl,gazetaesportiva.com,gazzetta.it,gcd.com.br,geekwire.com,gettyimages.be,gettyimages.dk,gettyimages.es,gettyimages.fr,gettyimages.it,gettyimages.nl,gettyimages.pt,gettyimages.se,gmconline.com.br,godtube.com,golssip.it,good.is,gumtree.co.za,hedgehogreview.com,helpnetsecurity.com,hispantv.com,huuto.net,hvg.hu,hyundai.co.nz,ibtimes.sg,idcquan.com,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsussidiario.net,ilviaggiatorgoloso.it,indy100.com,infoenergia.info,infofranquicias.ar,infomendoza.info,infonegocios.barcelona,infonegocios.biz,infonegocios.com.py,infonegocios.info,infonegocios.madrid,infonegocios.miami,infonegociosgalicia.es,infonegociosvalencia.es,infostyle.info,infotecnologia.info,injujuy.info,inlitoral.info,inneuquen.info,inpatagonia.info,inrosario.info,insalta.info,insanjuan.info,insantiagodelestero.info,insomnia.gr,intesasanpaolo.com,intucuman.info,isaechia.it,jblitoral.com.br,jewishinsider.com,jornada.com.mx,juvenews.eu,jweekly.com,karryon.com.au,kingarthurbaking.com,kleinreport.ch,kmfa.org,knjizara-dominovic.hr,ktar.com,kurier.at,laleggepertutti.it,landrover.be,landrover.ch,landrover.com.br,landrover.com.cn,landrover.dk,landrover.es,landrover.fr,landrover.hu,landrover.it,landrover.lv,landrover.nl,landrover.pt,landrover.se,landroverkz.com,lantidiplomatico.it,laola1.at,laprensagrafica.com,larian.com,lastampa.it,laverita.info,lavozdegalicia.es,lifegate.it,lifezette.com,londrinasexy.com.br,ltn.com.tw,maannews.net,mail.ru,mediacorp.sg,mediagol.it,megasesso.com,metropolitano.it,milesplit.com,mmegi.bw,mobilita.org,monacomatin.mc,mondoudinese.it,money.com,moonlock.com,mr-jatt.im,mynorthwest.com,naomesmo.com.br,neoplan.com,newhua.com,news.tvbs.com.tw,news.unl.edu,newsmaxtv.com,newsmonkey.be,newsukraine.rbc.ua,nicematin.com,nieuwsblad.be,nos.nl,notateslaapp.com,ntn24.com,ntr.nl,numericalcio.it,nuus.hu,nzz.ch,obastidor.com.br,omglinux.com,otempo.com.br,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pbs.org,perlaretorica.it,pianetagenoa1893.net,pianetamilan.it,planetrugby.com,planetware.com,portaldotransito.com.br,portalinsights.com.br,portugueselegal.com.br,qz.com,radiopanamericana.com,radiotirol.it,radiotoday.com.au,ravennanotizie.it,rbc.ua,recyclingproductnews.com,reductress.com,reporteindigo.com,responsiblestatecraft.org,reteimprese.it,ria.ru,romadailynews.it,rpp.pe,rtvslo.si,rxresource.org,sanmarinortv.sm,sassuolocalcionews.it,sayrodigital.net,scholarlykitchen.sspnet.org,segmentnext.com,slantmagazine.com,sleepfoundation.org,socialistamorena.com.br,speakingtree.in,sportando.basketball,sportavellino.it,sportsbusinessjournal.com,sputnikportal.rs,stanfordchildrens.org,steampowered.com,suedtirol1.it,supereva.it,tag43.it,taiwanheute.tw,taiwantoday.tw,tasteandtellblog.com,tattoomuse.it,techrepublic.com,teledoce.com,tenniscircus.com,tennismajors.com,testfakta.com,the-decoder.com,theringreport.com,theroot.com,tivusat.tv,toronews.net,toy-people.com,trend-online.com,tuttobolognaweb.it,tuttoeuropei.com,u.today,ukrinform.de,ukrinform.es,ukrinform.fr,ukrinform.jp,ukrinform.net,ukrinform.pl,ukrinform.ua,uol.com.br,valeursactuelles.com,vastoweb.com,vectorstock.com,videogamer.com,violanews.com,viveusa.mx,voxweb.nl,vz.ru,wdhafm.com,webdunia.com,wikiway.com,windowslatest.com,windowsreport.com,writteninmusic.com,xxxymovies.com,xzorra.net,yougov.com##.share
     → |411mania.com##.share
     → |9gag.com##.share
     → |about.gitlab.com##.share
@@ -65098,6 +65093,7 @@
     → |areanapoli.it##.share
     → |aristeguinoticias.com##.share
     → |arizonasports.com##.share
+    → |arkansasonline.com##.share
     → |asia.nikkei.com##.share
     → |asmartbear.com##.share
     → |astanatimes.com##.share
@@ -67786,6 +67782,9 @@
 ✅ 多域名拆分: bitly.com,knivesout.jp#@#.share-btn
     → |bitly.com#@#.share-btn
     → |knivesout.jp#@#.share-btn
+✅ 多域名拆分: dagbladet.no,seher.no#@#.share-icons-bottom
+    → |dagbladet.no#@#.share-icons-bottom
+    → |seher.no#@#.share-icons-bottom
 ✅ 多域名拆分: baidu.com,findagrave.com,locataire.dossierfacile.logement.gouv.fr#@#.share-list
     → |baidu.com#@#.share-list
     → |findagrave.com#@#.share-list
@@ -69209,8 +69208,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !生成时间: 2026-03-01 07:52:18
-🚫 去掉注释行: !有效规则数目: 1562271
+🚫 去掉注释行: !生成时间: 2026-03-01 10:24:17
+🚫 去掉注释行: !有效规则数目: 1562034
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
@@ -151003,10 +151002,10 @@
 🚫 去掉注释行: ! Blocked domains: 4882
 🚫 去掉注释行: ! unBlocked domains: 13
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: 9/0IVL4aGC6kO5eF/fUigw
-🚫 去掉注释行: ! Version: 202603010100
+🚫 去掉注释行: ! Checksum: AjCNW8irE4y3MsrzWPJhwg
+🚫 去掉注释行: ! Version: 202603010400
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-03-01 01:00 UTC
+🚫 去掉注释行: ! Last modified: 2026-03-01 04:00 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -164092,7 +164091,8 @@
     → |businesstech.co.za##.follow-buttons
     → |handletheheat.com##.follow-buttons
     → |mybroadband.co.za##.follow-buttons
-✅ 多域名拆分: ctrl.blog,ein-herz-fuer-kinder.de##.follow-container
+✅ 多域名拆分: arkansasonline.com,ctrl.blog,ein-herz-fuer-kinder.de##.follow-container
+    → |arkansasonline.com##.follow-container
     → |ctrl.blog##.follow-container
     → |ein-herz-fuer-kinder.de##.follow-container
 ✅ 多域名拆分: christianitytoday.com,sfexaminer.com,sfweekly.com##.follow-links
@@ -165764,7 +165764,7 @@
     → |xvideos-br.com###share
     → |xxxymovies.com###share
 🚫 去掉注释行: !! .share
-✅ 多域名拆分: 411mania.com,9gag.com,about.gitlab.com,abril.com.br,actiefwonen.be,administradores.com.br,agoranovale.com.br,al-shabaka.org,al-sharq.com,alfredopedulla.com,algemeiner.com,alibaba.com,alu.jp,amica.it,aminiya.ng,ara.cat,areanapoli.it,aristeguinoticias.com,arizonasports.com,asia.nikkei.com,asmartbear.com,astanatimes.com,at5.nl,autodidacts.io,autoline-az.com,autoline-eu.ru,autoline-eu.se,autoline-ge.com,autoline-nl.be,autoline-ru.lt,autoline-tm.com,autoline.be,autoline.bo,autoline.com.pl,autoline.com.py,autoline.es,autoline.kg,autoline.lu,autoline.lv,autoline.md,autoline.me,autoline.nl,autoline.pe,autoline.pt,autoline.ro,autoline.tj,autoline.ua,autoline.uz,automotive-online.nl,basketinside.com,bianconeranews.it,bitcoindaily.nl,bleacherreport.com,blogtivvu.com,brundisium.net,businessam.be,buzzmoica.fr,c-span.org,canadianbusiness.com,cardealermagazine.co.uk,carpicalcionews.it,caryinstitute.org,cbc.ca,cctv.com,cdt.ch,ch-aviation.com,chicercacasa.it,cittaceleste.it,clarin.com,classicandsportscar.com,cna.com.tw,cnbcindonesia.com,cncnews.cn,cnnturk.com,columbian.com,commentwiki.fr,coopcasarsa.it,corsedimoto.com,courthousenews.com,cricket.com.au,crusoe.com.br,crypto.news,cryptopotato.com,dailymail.co.uk,dailysabah.com,dailytrust.com,democracynow.org,dererker.it,devisesquare.com,dictionary.com,diningcity.be,diningcity.hu,diningcity.nl,downzen.com,dr.dk,ecoaustral.com,ecommercemag.fr,eleconomista.com.mx,elgrafico.com,elperiodico.cat,elperiodico.com,elperuano.pe,elquindiano.com,entaotane.net,epochtimes.com.br,epochtimes.fr,epochtimes.nl,estadao.com.br,euobserver.com,exchangerates.org.uk,exclusivo.com.br,fairplanet.org,fantamagazine.com,fcinter1908.it,firenzeviola.it,fleet-mobility.nl,flowingdata.com,food.com,foodnetwork.it,football365.com,forbes.com.br,fortune.com,forzaroma.info,fotomac.com.tr,frandroid.com,freespeech.org,funweek.it,gamespot.com,gamingonlinux.com,gazeta.pl,gazetaesportiva.com,gazzetta.it,gcd.com.br,geekwire.com,gettyimages.be,gettyimages.dk,gettyimages.es,gettyimages.fr,gettyimages.it,gettyimages.nl,gettyimages.pt,gettyimages.se,gmconline.com.br,godtube.com,golssip.it,good.is,gumtree.co.za,hedgehogreview.com,helpnetsecurity.com,hispantv.com,huuto.net,hvg.hu,hyundai.co.nz,ibtimes.sg,idcquan.com,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsussidiario.net,ilviaggiatorgoloso.it,indy100.com,infoenergia.info,infofranquicias.ar,infomendoza.info,infonegocios.barcelona,infonegocios.biz,infonegocios.com.py,infonegocios.info,infonegocios.madrid,infonegocios.miami,infonegociosgalicia.es,infonegociosvalencia.es,infostyle.info,infotecnologia.info,injujuy.info,inlitoral.info,inneuquen.info,inpatagonia.info,inrosario.info,insalta.info,insanjuan.info,insantiagodelestero.info,insomnia.gr,intesasanpaolo.com,intucuman.info,isaechia.it,jblitoral.com.br,jewishinsider.com,jornada.com.mx,juvenews.eu,jweekly.com,karryon.com.au,kingarthurbaking.com,kleinreport.ch,kmfa.org,knjizara-dominovic.hr,ktar.com,kurier.at,laleggepertutti.it,landrover.be,landrover.ch,landrover.com.br,landrover.com.cn,landrover.dk,landrover.es,landrover.fr,landrover.hu,landrover.it,landrover.lv,landrover.nl,landrover.pt,landrover.se,landroverkz.com,lantidiplomatico.it,laola1.at,laprensagrafica.com,larian.com,lastampa.it,laverita.info,lavozdegalicia.es,lifegate.it,lifezette.com,londrinasexy.com.br,ltn.com.tw,maannews.net,mail.ru,mediacorp.sg,mediagol.it,megasesso.com,metropolitano.it,milesplit.com,mmegi.bw,mobilita.org,monacomatin.mc,mondoudinese.it,money.com,moonlock.com,mr-jatt.im,mynorthwest.com,naomesmo.com.br,neoplan.com,newhua.com,news.tvbs.com.tw,news.unl.edu,newsmaxtv.com,newsmonkey.be,newsukraine.rbc.ua,nicematin.com,nieuwsblad.be,nos.nl,notateslaapp.com,ntn24.com,ntr.nl,numericalcio.it,nuus.hu,nzz.ch,obastidor.com.br,omglinux.com,otempo.com.br,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pbs.org,perlaretorica.it,pianetagenoa1893.net,pianetamilan.it,planetrugby.com,planetware.com,portaldotransito.com.br,portalinsights.com.br,portugueselegal.com.br,qz.com,radiopanamericana.com,radiotirol.it,radiotoday.com.au,ravennanotizie.it,rbc.ua,recyclingproductnews.com,reductress.com,reporteindigo.com,responsiblestatecraft.org,reteimprese.it,ria.ru,romadailynews.it,rpp.pe,rtvslo.si,rxresource.org,sanmarinortv.sm,sassuolocalcionews.it,sayrodigital.net,scholarlykitchen.sspnet.org,segmentnext.com,slantmagazine.com,sleepfoundation.org,socialistamorena.com.br,speakingtree.in,sportando.basketball,sportavellino.it,sportsbusinessjournal.com,sputnikportal.rs,stanfordchildrens.org,steampowered.com,suedtirol1.it,supereva.it,tag43.it,taiwanheute.tw,taiwantoday.tw,tasteandtellblog.com,tattoomuse.it,techrepublic.com,teledoce.com,tenniscircus.com,tennismajors.com,testfakta.com,the-decoder.com,theringreport.com,theroot.com,tivusat.tv,toronews.net,toy-people.com,trend-online.com,tuttobolognaweb.it,tuttoeuropei.com,u.today,ukrinform.de,ukrinform.es,ukrinform.fr,ukrinform.jp,ukrinform.net,ukrinform.pl,ukrinform.ua,uol.com.br,valeursactuelles.com,vastoweb.com,vectorstock.com,videogamer.com,violanews.com,viveusa.mx,voxweb.nl,vz.ru,wdhafm.com,webdunia.com,wikiway.com,windowslatest.com,windowsreport.com,writteninmusic.com,xxxymovies.com,xzorra.net,yougov.com##.share
+✅ 多域名拆分: 411mania.com,9gag.com,about.gitlab.com,abril.com.br,actiefwonen.be,administradores.com.br,agoranovale.com.br,al-shabaka.org,al-sharq.com,alfredopedulla.com,algemeiner.com,alibaba.com,alu.jp,amica.it,aminiya.ng,ara.cat,areanapoli.it,aristeguinoticias.com,arizonasports.com,arkansasonline.com,asia.nikkei.com,asmartbear.com,astanatimes.com,at5.nl,autodidacts.io,autoline-az.com,autoline-eu.ru,autoline-eu.se,autoline-ge.com,autoline-nl.be,autoline-ru.lt,autoline-tm.com,autoline.be,autoline.bo,autoline.com.pl,autoline.com.py,autoline.es,autoline.kg,autoline.lu,autoline.lv,autoline.md,autoline.me,autoline.nl,autoline.pe,autoline.pt,autoline.ro,autoline.tj,autoline.ua,autoline.uz,automotive-online.nl,basketinside.com,bianconeranews.it,bitcoindaily.nl,bleacherreport.com,blogtivvu.com,brundisium.net,businessam.be,buzzmoica.fr,c-span.org,canadianbusiness.com,cardealermagazine.co.uk,carpicalcionews.it,caryinstitute.org,cbc.ca,cctv.com,cdt.ch,ch-aviation.com,chicercacasa.it,cittaceleste.it,clarin.com,classicandsportscar.com,cna.com.tw,cnbcindonesia.com,cncnews.cn,cnnturk.com,columbian.com,commentwiki.fr,coopcasarsa.it,corsedimoto.com,courthousenews.com,cricket.com.au,crusoe.com.br,crypto.news,cryptopotato.com,dailymail.co.uk,dailysabah.com,dailytrust.com,democracynow.org,dererker.it,devisesquare.com,dictionary.com,diningcity.be,diningcity.hu,diningcity.nl,downzen.com,dr.dk,ecoaustral.com,ecommercemag.fr,eleconomista.com.mx,elgrafico.com,elperiodico.cat,elperiodico.com,elperuano.pe,elquindiano.com,entaotane.net,epochtimes.com.br,epochtimes.fr,epochtimes.nl,estadao.com.br,euobserver.com,exchangerates.org.uk,exclusivo.com.br,fairplanet.org,fantamagazine.com,fcinter1908.it,firenzeviola.it,fleet-mobility.nl,flowingdata.com,food.com,foodnetwork.it,football365.com,forbes.com.br,fortune.com,forzaroma.info,fotomac.com.tr,frandroid.com,freespeech.org,funweek.it,gamespot.com,gamingonlinux.com,gazeta.pl,gazetaesportiva.com,gazzetta.it,gcd.com.br,geekwire.com,gettyimages.be,gettyimages.dk,gettyimages.es,gettyimages.fr,gettyimages.it,gettyimages.nl,gettyimages.pt,gettyimages.se,gmconline.com.br,godtube.com,golssip.it,good.is,gumtree.co.za,hedgehogreview.com,helpnetsecurity.com,hispantv.com,huuto.net,hvg.hu,hyundai.co.nz,ibtimes.sg,idcquan.com,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsussidiario.net,ilviaggiatorgoloso.it,indy100.com,infoenergia.info,infofranquicias.ar,infomendoza.info,infonegocios.barcelona,infonegocios.biz,infonegocios.com.py,infonegocios.info,infonegocios.madrid,infonegocios.miami,infonegociosgalicia.es,infonegociosvalencia.es,infostyle.info,infotecnologia.info,injujuy.info,inlitoral.info,inneuquen.info,inpatagonia.info,inrosario.info,insalta.info,insanjuan.info,insantiagodelestero.info,insomnia.gr,intesasanpaolo.com,intucuman.info,isaechia.it,jblitoral.com.br,jewishinsider.com,jornada.com.mx,juvenews.eu,jweekly.com,karryon.com.au,kingarthurbaking.com,kleinreport.ch,kmfa.org,knjizara-dominovic.hr,ktar.com,kurier.at,laleggepertutti.it,landrover.be,landrover.ch,landrover.com.br,landrover.com.cn,landrover.dk,landrover.es,landrover.fr,landrover.hu,landrover.it,landrover.lv,landrover.nl,landrover.pt,landrover.se,landroverkz.com,lantidiplomatico.it,laola1.at,laprensagrafica.com,larian.com,lastampa.it,laverita.info,lavozdegalicia.es,lifegate.it,lifezette.com,londrinasexy.com.br,ltn.com.tw,maannews.net,mail.ru,mediacorp.sg,mediagol.it,megasesso.com,metropolitano.it,milesplit.com,mmegi.bw,mobilita.org,monacomatin.mc,mondoudinese.it,money.com,moonlock.com,mr-jatt.im,mynorthwest.com,naomesmo.com.br,neoplan.com,newhua.com,news.tvbs.com.tw,news.unl.edu,newsmaxtv.com,newsmonkey.be,newsukraine.rbc.ua,nicematin.com,nieuwsblad.be,nos.nl,notateslaapp.com,ntn24.com,ntr.nl,numericalcio.it,nuus.hu,nzz.ch,obastidor.com.br,omglinux.com,otempo.com.br,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pbs.org,perlaretorica.it,pianetagenoa1893.net,pianetamilan.it,planetrugby.com,planetware.com,portaldotransito.com.br,portalinsights.com.br,portugueselegal.com.br,qz.com,radiopanamericana.com,radiotirol.it,radiotoday.com.au,ravennanotizie.it,rbc.ua,recyclingproductnews.com,reductress.com,reporteindigo.com,responsiblestatecraft.org,reteimprese.it,ria.ru,romadailynews.it,rpp.pe,rtvslo.si,rxresource.org,sanmarinortv.sm,sassuolocalcionews.it,sayrodigital.net,scholarlykitchen.sspnet.org,segmentnext.com,slantmagazine.com,sleepfoundation.org,socialistamorena.com.br,speakingtree.in,sportando.basketball,sportavellino.it,sportsbusinessjournal.com,sputnikportal.rs,stanfordchildrens.org,steampowered.com,suedtirol1.it,supereva.it,tag43.it,taiwanheute.tw,taiwantoday.tw,tasteandtellblog.com,tattoomuse.it,techrepublic.com,teledoce.com,tenniscircus.com,tennismajors.com,testfakta.com,the-decoder.com,theringreport.com,theroot.com,tivusat.tv,toronews.net,toy-people.com,trend-online.com,tuttobolognaweb.it,tuttoeuropei.com,u.today,ukrinform.de,ukrinform.es,ukrinform.fr,ukrinform.jp,ukrinform.net,ukrinform.pl,ukrinform.ua,uol.com.br,valeursactuelles.com,vastoweb.com,vectorstock.com,videogamer.com,violanews.com,viveusa.mx,voxweb.nl,vz.ru,wdhafm.com,webdunia.com,wikiway.com,windowslatest.com,windowsreport.com,writteninmusic.com,xxxymovies.com,xzorra.net,yougov.com##.share
     → |411mania.com##.share
     → |9gag.com##.share
     → |about.gitlab.com##.share
@@ -165784,6 +165784,7 @@
     → |areanapoli.it##.share
     → |aristeguinoticias.com##.share
     → |arizonasports.com##.share
+    → |arkansasonline.com##.share
     → |asia.nikkei.com##.share
     → |asmartbear.com##.share
     → |astanatimes.com##.share
@@ -168487,6 +168488,9 @@
 ✅ 多域名拆分: bitly.com,knivesout.jp#@#.share-btn
     → |bitly.com#@#.share-btn
     → |knivesout.jp#@#.share-btn
+✅ 多域名拆分: dagbladet.no,seher.no#@#.share-icons-bottom
+    → |dagbladet.no#@#.share-icons-bottom
+    → |seher.no#@#.share-icons-bottom
 ✅ 多域名拆分: baidu.com,findagrave.com,locataire.dossierfacile.logement.gouv.fr#@#.share-list
     → |baidu.com#@#.share-list
     → |findagrave.com#@#.share-list
@@ -184645,10 +184649,6 @@
 ✅ 多域名拆分: aerofilms.cz,uxcel.com##.cookie-banner-wrap
     → |aerofilms.cz##.cookie-banner-wrap
     → |uxcel.com##.cookie-banner-wrap
-✅ 多域名拆分: cos.com,expireddomains.com,hm.com##.cookie-consent-popup
-    → |cos.com##.cookie-consent-popup
-    → |expireddomains.com##.cookie-consent-popup
-    → |hm.com##.cookie-consent-popup
 ✅ 多域名拆分: springbok-puzzles.com,tinyurl.com,visitworld.today##.cookie-consent-wrapper
     → |springbok-puzzles.com##.cookie-consent-wrapper
     → |tinyurl.com##.cookie-consent-wrapper
@@ -185602,11 +185602,12 @@
     → |reklama5.com###cookiePopup
     → |visitseoul.net###cookiePopup
 🚫 去掉注释行: !! .cookie-popup
-✅ 多域名拆分: athenaeumscheltema.nl,campfimfo.com,championat.ru,evraz.com,hampers.com,icmarkets.eu,kinoflex.ru,lovereading4kids.co.uk,mediathek.lfv-bayern.de,mts.ru,mysky.com.ph,nobliecustomknives.com,rsna.org,superrichthailand.com,supersport.hr,taxsummaries.pwc.com,teemill.com,trt.net.tr,uwa.edu.au,zamnesia.com##.cookie-popup
+✅ 多域名拆分: athenaeumscheltema.nl,campfimfo.com,championat.ru,evraz.com,ewines.co.il,hampers.com,icmarkets.eu,kinoflex.ru,lovereading4kids.co.uk,mediathek.lfv-bayern.de,mts.ru,mysky.com.ph,nobliecustomknives.com,rsna.org,superrichthailand.com,supersport.hr,taxsummaries.pwc.com,teemill.com,trt.net.tr,uwa.edu.au,zamnesia.com##.cookie-popup
     → |athenaeumscheltema.nl##.cookie-popup
     → |campfimfo.com##.cookie-popup
     → |championat.ru##.cookie-popup
     → |evraz.com##.cookie-popup
+    → |ewines.co.il##.cookie-popup
     → |hampers.com##.cookie-popup
     → |icmarkets.eu##.cookie-popup
     → |kinoflex.ru##.cookie-popup
@@ -186007,15 +186008,30 @@
     → |gsk.com###__tealiumGDPRcpPrefs
     → |pepperl-fuchs.com###__tealiumGDPRcpPrefs
 🚫 去掉注释行: !! .cookie-consent-banner
-✅ 多域名拆分: agados.cz,concert.ua,delfortgroup.com,githubstatus.com,morfix.co.il,puffy.com,splice-cad.com,wincatalog.com##.cookie-consent-banner
+✅ 多域名拆分: agados.cz,concert.ua,delfortgroup.com,githubstatus.com,goldaglida.co.il,morfix.co.il,puffy.com,splice-cad.com,wincatalog.com##.cookie-consent-banner
     → |agados.cz##.cookie-consent-banner
     → |concert.ua##.cookie-consent-banner
     → |delfortgroup.com##.cookie-consent-banner
     → |githubstatus.com##.cookie-consent-banner
+    → |goldaglida.co.il##.cookie-consent-banner
     → |morfix.co.il##.cookie-consent-banner
     → |puffy.com##.cookie-consent-banner
     → |splice-cad.com##.cookie-consent-banner
     → |wincatalog.com##.cookie-consent-banner
+🚫 去掉注释行: !! .cookie-consent-popup
+✅ 多域名拆分: 015.co.il,almaviva.it,cos.com,expireddomains.com,gcli.li,hm.com##.cookie-consent-popup
+    → |015.co.il##.cookie-consent-popup
+    → |almaviva.it##.cookie-consent-popup
+    → |cos.com##.cookie-consent-popup
+    → |expireddomains.com##.cookie-consent-popup
+    → |gcli.li##.cookie-consent-popup
+    → |hm.com##.cookie-consent-popup
+🚫 去掉注释行: !! #cookie-consent-popup
+✅ 多域名拆分: finam.ru,halalit.co.il,pccenter.co.il,rsm.co.il###cookie-consent-popup
+    → |finam.ru###cookie-consent-popup
+    → |halalit.co.il###cookie-consent-popup
+    → |pccenter.co.il###cookie-consent-popup
+    → |rsm.co.il###cookie-consent-popup
 🚫 去掉注释行: !! .cookiebar
 ✅ 多域名拆分: ammeraalbeltech.com,asst-lecco.it,community.dyson.com,mahle-aftermarket.com,mega-monheim.de,nautadutilh.com,purejingles.com,sigmanet.lv,trtcocuk.net.tr,um.edu.mt##.cookiebar
     → |ammeraalbeltech.com##.cookiebar
@@ -188318,10 +188334,11 @@
     → |cheynecapital.com##.disclaimer-overlay
     → |community.hero-wars.com##.disclaimer-overlay
 🚫 去掉注释行: !! .consent-banner
-✅ 多域名拆分: chase.com,chasebonus.com,gameduell.de,iziwork.com,jpmorgan.com,jpmorganchase.com,jrc.cz,justwatch.com,kannettavatietokone.fi,loudwire.com,navicat.com,nowtv.com.tr,ring.com,runwaygirlnetwork.com,screencrush.com,smarty.cz,socradar.io,stromvergleich.de,twitch.tv##.consent-banner
+✅ 多域名拆分: chase.com,chasebonus.com,gameduell.de,has.co.il,iziwork.com,jpmorgan.com,jpmorganchase.com,jrc.cz,justwatch.com,kannettavatietokone.fi,loudwire.com,navicat.com,nowtv.com.tr,ring.com,runwaygirlnetwork.com,screencrush.com,smarty.cz,socradar.io,stromvergleich.de,twitch.tv##.consent-banner
     → |chase.com##.consent-banner
     → |chasebonus.com##.consent-banner
     → |gameduell.de##.consent-banner
+    → |has.co.il##.consent-banner
     → |iziwork.com##.consent-banner
     → |jpmorgan.com##.consent-banner
     → |jpmorganchase.com##.consent-banner
@@ -188390,7 +188407,7 @@
     → |pharmacyplanet.com##.amgdprcookie-modal-container
     → |shop.lecoqporcelaine.it##.amgdprcookie-modal-container
 🚫 去掉注释行: !! .dialog-lightbox-widget
-✅ 多域名拆分: amos-spacecom.com,blackmusicscholar.com,coachdaveacademy.com,cosmere.es,cover-4-less.com,distritoanhembi.com.br,dogfoodreviews.com,elegis.com.br,escolarofficebrasil.com.br,eureciclo.com.br,four12global.com,fundacaodorina.org.br,golffang.co.uk,hoteldelftcentre.nl,intertechne.com.br,itepexam.com,kedraflowerscpa.com,lightlife.com,martonmedia.pl,maxstock.co.il,meerdirectedemocratie.nl,mindigital.gr,nadacnifondvb.cz,nepirockcastle.com,newnoisemagazine.com,onlyonce.today,ouvi.io,powerzone.com,renovainvest.com.br,saferpass.com,satel.pl,selectmedia.asia,sublabmusic.com,tealstreet.io,thebfa.org,towersemi.com,victorvision.com.br##.dialog-lightbox-widget
+✅ 多域名拆分: amos-spacecom.com,blackmusicscholar.com,coachdaveacademy.com,cosmere.es,cover-4-less.com,distritoanhembi.com.br,dogfoodreviews.com,elegis.com.br,escolarofficebrasil.com.br,eureciclo.com.br,four12global.com,fundacaodorina.org.br,golffang.co.uk,hoteldelftcentre.nl,intertechne.com.br,itepexam.com,kedraflowerscpa.com,lightlife.com,martonmedia.pl,maxstock.co.il,meerdirectedemocratie.nl,mindigital.gr,nadacnifondvb.cz,nepirockcastle.com,newnoisemagazine.com,onlyonce.today,ouvi.io,powerzone.com,renovainvest.com.br,saferpass.com,satel.pl,selectmedia.asia,sublabmusic.com,tavshilim.co.il,tealstreet.io,thebfa.org,towersemi.com,victorvision.com.br##.dialog-lightbox-widget
     → |amos-spacecom.com##.dialog-lightbox-widget
     → |blackmusicscholar.com##.dialog-lightbox-widget
     → |coachdaveacademy.com##.dialog-lightbox-widget
@@ -188424,6 +188441,7 @@
     → |satel.pl##.dialog-lightbox-widget
     → |selectmedia.asia##.dialog-lightbox-widget
     → |sublabmusic.com##.dialog-lightbox-widget
+    → |tavshilim.co.il##.dialog-lightbox-widget
     → |tealstreet.io##.dialog-lightbox-widget
     → |thebfa.org##.dialog-lightbox-widget
     → |towersemi.com##.dialog-lightbox-widget
@@ -197147,6 +197165,9 @@
     → |cultistcircle.com##+js(set-local-storage-item, cookieConsent, 1)
     → |sneakerfreaker.com##+js(set-local-storage-item, cookieConsent, 1)
     → |turbo.ai##+js(set-local-storage-item, cookieConsent, 1)
+✅ 多域名拆分: musehub.com,opmaatzagen.nl##+js(set-local-storage-item, cookieConsent, denied)
+    → |musehub.com##+js(set-local-storage-item, cookieConsent, denied)
+    → |opmaatzagen.nl##+js(set-local-storage-item, cookieConsent, denied)
 ✅ 多域名拆分: dorkgpt.com,foodvessel.com,kyutai.org,lazyrecords.app,unmute.sh,varusteleka.com##+js(set-local-storage-item, cookieConsent, false)
     → |dorkgpt.com##+js(set-local-storage-item, cookieConsent, false)
     → |foodvessel.com##+js(set-local-storage-item, cookieConsent, false)
@@ -205030,10 +205051,6 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: ! ---------- Hebrew ----------
 🚫 去掉注释行: !
-✅ 多域名拆分: halalit.co.il,pccenter.co.il,rsm.co.il###cookie-consent-popup
-    → |halalit.co.il###cookie-consent-popup
-    → |pccenter.co.il###cookie-consent-popup
-    → |rsm.co.il###cookie-consent-popup
 ✅ 多域名拆分: cinema-city.co.il,peamitstore.co.il##.gdpr-module
     → |cinema-city.co.il##.gdpr-module
     → |peamitstore.co.il##.gdpr-module
@@ -214549,6 +214566,7 @@
     → |nola-novel.com##.smartbanner-show:style(margin-top: 0 !important;)
 🚫 去掉注释行: ! tabelog.com (mobile app)
 🚫 去掉注释行: ! trial-net.co.jp (mobile app)
+🚫 去掉注释行: ! genius.com (mobile app)
 🚫 去掉注释行: !---------------------------------Allowlists----------------------------------!
 🚫 去掉注释行: ! fanboy_notifications_allowlist.txt
 🚫 去掉注释行: ! Mobile Notifications
@@ -214961,9 +214979,9 @@
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: !---------------------------------Allowlists----------------------------------!
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: H3jhZVhH0JFwLgcBNdZTCA
+🚫 去掉注释行: ! Checksum: FpR2byjZpyqqMmDRVwaLig
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Last modified: 2026-02-28 11:50 UTC
+🚫 去掉注释行: ! Last modified: 2026-03-01 03:00 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
@@ -234767,10 +234785,11 @@
     → |cheynecapital.com##.disclaimer-overlay
     → |community.hero-wars.com##.disclaimer-overlay
 🚫 去掉注释行: !! .consent-banner
-✅ 多域名拆分: chase.com,chasebonus.com,gameduell.de,iziwork.com,jpmorgan.com,jpmorganchase.com,jrc.cz,justwatch.com,kannettavatietokone.fi,loudwire.com,navicat.com,nowtv.com.tr,ring.com,runwaygirlnetwork.com,screencrush.com,smarty.cz,socradar.io,stromvergleich.de,twitch.tv##.consent-banner
+✅ 多域名拆分: chase.com,chasebonus.com,gameduell.de,has.co.il,iziwork.com,jpmorgan.com,jpmorganchase.com,jrc.cz,justwatch.com,kannettavatietokone.fi,loudwire.com,navicat.com,nowtv.com.tr,ring.com,runwaygirlnetwork.com,screencrush.com,smarty.cz,socradar.io,stromvergleich.de,twitch.tv##.consent-banner
     → |chase.com##.consent-banner
     → |chasebonus.com##.consent-banner
     → |gameduell.de##.consent-banner
+    → |has.co.il##.consent-banner
     → |iziwork.com##.consent-banner
     → |jpmorgan.com##.consent-banner
     → |jpmorganchase.com##.consent-banner
@@ -234839,7 +234858,7 @@
     → |pharmacyplanet.com##.amgdprcookie-modal-container
     → |shop.lecoqporcelaine.it##.amgdprcookie-modal-container
 🚫 去掉注释行: !! .dialog-lightbox-widget
-✅ 多域名拆分: amos-spacecom.com,blackmusicscholar.com,coachdaveacademy.com,cosmere.es,cover-4-less.com,distritoanhembi.com.br,dogfoodreviews.com,elegis.com.br,escolarofficebrasil.com.br,eureciclo.com.br,four12global.com,fundacaodorina.org.br,golffang.co.uk,hoteldelftcentre.nl,intertechne.com.br,itepexam.com,kedraflowerscpa.com,lightlife.com,martonmedia.pl,maxstock.co.il,meerdirectedemocratie.nl,mindigital.gr,nadacnifondvb.cz,nepirockcastle.com,newnoisemagazine.com,onlyonce.today,ouvi.io,powerzone.com,renovainvest.com.br,saferpass.com,satel.pl,selectmedia.asia,sublabmusic.com,tealstreet.io,thebfa.org,towersemi.com,victorvision.com.br##.dialog-lightbox-widget
+✅ 多域名拆分: amos-spacecom.com,blackmusicscholar.com,coachdaveacademy.com,cosmere.es,cover-4-less.com,distritoanhembi.com.br,dogfoodreviews.com,elegis.com.br,escolarofficebrasil.com.br,eureciclo.com.br,four12global.com,fundacaodorina.org.br,golffang.co.uk,hoteldelftcentre.nl,intertechne.com.br,itepexam.com,kedraflowerscpa.com,lightlife.com,martonmedia.pl,maxstock.co.il,meerdirectedemocratie.nl,mindigital.gr,nadacnifondvb.cz,nepirockcastle.com,newnoisemagazine.com,onlyonce.today,ouvi.io,powerzone.com,renovainvest.com.br,saferpass.com,satel.pl,selectmedia.asia,sublabmusic.com,tavshilim.co.il,tealstreet.io,thebfa.org,towersemi.com,victorvision.com.br##.dialog-lightbox-widget
     → |amos-spacecom.com##.dialog-lightbox-widget
     → |blackmusicscholar.com##.dialog-lightbox-widget
     → |coachdaveacademy.com##.dialog-lightbox-widget
@@ -234873,6 +234892,7 @@
     → |satel.pl##.dialog-lightbox-widget
     → |selectmedia.asia##.dialog-lightbox-widget
     → |sublabmusic.com##.dialog-lightbox-widget
+    → |tavshilim.co.il##.dialog-lightbox-widget
     → |tealstreet.io##.dialog-lightbox-widget
     → |thebfa.org##.dialog-lightbox-widget
     → |towersemi.com##.dialog-lightbox-widget

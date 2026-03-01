@@ -912,7 +912,6 @@ whatcar.com##.ReviewSocialSection_reviewSocialSection__qzV0o
 abc.net.au##.ShareBanner_container__OX63I
 aleteia.org##.ShareBar_link__3gR4V
 manofmany.com##.ShareBar_listItem__6t0E_
-genius.com##.ShareButtons__Root-sc-8c8eaea4-0
 thescore.com##.ShareLinks__container--3C8C4
 meduza.io##.SharePanel-module-root
 hoorayteams.com##.Share_share__FQTKw
@@ -1432,6 +1431,7 @@ thehackernews.com##.follow-box
 |mybroadband.co.za##.follow-buttons
 brobible.com##.follow-buttons-block
 carscoops.com##.follow-carscoops-container
+|arkansasonline.com##.follow-container
 |ctrl.blog##.follow-container
 |ein-herz-fuer-kinder.de##.follow-container
 arabnews.com##.follow-field
@@ -2906,6 +2906,7 @@ theguardian.com##div > gu-island[name="ShareButton"]
 photorumors.com##div[align="RIGHT"]
 fifa.com##div[class*="article-section_shareButton_"]
 theatlantic.com##div[class^="ArticleShare_"]
+genius.com##div[class^="ShareButtons_"]
 kcrw.com##div[class^="SocialLinks_"]
 cnbc.com##div[class^="SocialShare-"]
 kcrw.com##div[class^="SocialShare_"]
@@ -3875,6 +3876,7 @@ royalqueenseeds.*##.social-media-icons-footer
 |areanapoli.it##.share
 |aristeguinoticias.com##.share
 |arizonasports.com##.share
+|arkansasonline.com##.share
 |asia.nikkei.com##.share
 |asmartbear.com##.share
 |astanatimes.com##.share
@@ -7407,7 +7409,8 @@ gala.fr#@#.share-bottom
 |knivesout.jp#@#.share-btn
 ida2at.com#@#.share-holder
 app.degoo.com#@#.share-icon-container
-seher.no#@#.share-icons-bottom
+|dagbladet.no#@#.share-icons-bottom
+|seher.no#@#.share-icons-bottom
 pornhub.com#@#.share-link-container
 |baidu.com#@#.share-list
 |findagrave.com#@#.share-list
