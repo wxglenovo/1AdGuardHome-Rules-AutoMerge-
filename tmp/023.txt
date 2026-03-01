@@ -2017,6 +2017,7 @@ opb.org##.sustainer
 restofworld.org##.sustainer_campaign
 food.com##.sweeps-promo
 toucharcade.com##.ta_patreonWidget
+wired.com##.table-container:has-text(Got a Tip?)
 thedrum.com##.td-miso
 marketscreener.com##.teasing_widget_surtop_light
 swissinfo.ch##.temp-sticky-banner
@@ -7882,6 +7883,7 @@ royalqueenseeds.*##.social-media-icons-footer
 |naturalborngamers.it##.social
 |nbcolympics.com##.social
 |neowin.net##.social
+|nextplatform.com##.social
 |nintendolife.com##.social
 |nogomania.com##.social
 |noordernieuws.nl##.social
@@ -45012,6 +45014,7 @@ youcouldtravel.com##.sidebar-item-subscribe-form
 |happymoneysaver.com##.sidebar-newsletter
 |sugarandsoul.co##.sidebar-newsletter
 |togetherasfamily.com##.sidebar-newsletter
+|popsci.com##.sidebar-newsletter-container
 |taskandpurpose.com##.sidebar-newsletter-container
 |thedrive.com##.sidebar-newsletter-container
 starttv.com##.sidebar-newsletter-signup-wrap
@@ -45894,6 +45897,7 @@ thebrakereport.com##.has-palette-color-6-color:has-text(Sign up)
 thebarbedwire.com##.has-secondary-background-color:has-text(Subscribe)
 babylonbee.com##.hidden:has-text(Fake news)
 esports.gg##.inset-0.fixed:has-text(Sign up)
+chaser.com.au##.is-layout-constrained.sticky-sidebar:has-text(The Chaser Weakly)
 publichealthpolicyjournal.com##.is-position-sticky:has-text(Subscribe)
 inc.com##.lg\:gap-3:has-text(Weekly roundup)
 dexerto.com##.lg\:grid-cols-\[445px_1fr\].gap-y-10 > div:has-text(Sign up to Dexerto)
@@ -45904,6 +45908,7 @@ gizmodo.com##.max-w-screen-2xl.py-10:has-text(Sign up)
 dexerto.com##.mb-16:has-text(Sign up)
 mashable.com##.md\:p-10:has-text(newsletter)
 commoncog.com##.md\:px-2.py-10:has-text(Subscribe to the newsletter)
+nextplatform.com##.mobile-hasBorder:has-text(Sign up to our newsletter)
 manofmany.com##.mom-hidden-auth:has-text(Join Our)
 inverse.com##.msl:has-text(Subscribe for free)
 kotaku.com##.mt-10:has-text(Level up your inbox)
