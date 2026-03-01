@@ -3193,9 +3193,6 @@ meest-shop.com##.cookie-consent-banner_root__M9V7x
 aerolopa.com##.cookie-consent-modern
 developers.turing.com##.cookie-consent-overlay
 buying.expert##.cookie-consent-popover
-|cos.com##.cookie-consent-popup
-|expireddomains.com##.cookie-consent-popup
-|hm.com##.cookie-consent-popup
 fling2night.com##.cookie-consent-root
 samsungknox.com##.cookie-consent-v3
 |springbok-puzzles.com##.cookie-consent-wrapper
@@ -5292,6 +5289,7 @@ wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotifi
 |campfimfo.com##.cookie-popup
 |championat.ru##.cookie-popup
 |evraz.com##.cookie-popup
+|ewines.co.il##.cookie-popup
 |hampers.com##.cookie-popup
 |icmarkets.eu##.cookie-popup
 |kinoflex.ru##.cookie-popup
@@ -5631,10 +5629,21 @@ sogeti.*###popup-cookieConsent
 |concert.ua##.cookie-consent-banner
 |delfortgroup.com##.cookie-consent-banner
 |githubstatus.com##.cookie-consent-banner
+|goldaglida.co.il##.cookie-consent-banner
 |morfix.co.il##.cookie-consent-banner
 |puffy.com##.cookie-consent-banner
 |splice-cad.com##.cookie-consent-banner
 |wincatalog.com##.cookie-consent-banner
+|015.co.il##.cookie-consent-popup
+|almaviva.it##.cookie-consent-popup
+|cos.com##.cookie-consent-popup
+|expireddomains.com##.cookie-consent-popup
+|gcli.li##.cookie-consent-popup
+|hm.com##.cookie-consent-popup
+|finam.ru###cookie-consent-popup
+|halalit.co.il###cookie-consent-popup
+|pccenter.co.il###cookie-consent-popup
+|rsm.co.il###cookie-consent-popup
 |ammeraalbeltech.com##.cookiebar
 |asst-lecco.it##.cookiebar
 |community.dyson.com##.cookiebar
@@ -14008,7 +14017,6 @@ webcountdown.de##.cooBubble
 der-ersatzteile-profi.de##.coockie_poliy
 |dreieich.de##.cookie-consent-dialogue
 |koenigstein.de##.cookie-consent-dialogue
-gcli.li##.cookie-consent-popup
 horeca-hero.com##.cookie-consent-root
 boesendorfer.com##.cookie-consent-wrapper
 crossnative.com##.cookie-consent_overlay__SIXMM
@@ -15395,9 +15403,6 @@ maccabi4u.co.il###ZA_CAMP_MOBILE_CONTAINER
 foodsdictionary.co.il###cookie-consent
 tambour.co.il###cookie-consent-acf-backdrop
 tambour.co.il###cookie-consent-acf-modal
-|halalit.co.il###cookie-consent-popup
-|pccenter.co.il###cookie-consent-popup
-|rsm.co.il###cookie-consent-popup
 zinger-organic.com###cookie-consent-wrapper
 019mobile.co.il###cookie-except-banner
 madlan.co.il###cookie-root
@@ -15416,6 +15421,7 @@ gesher-theatre.co.il##.cookies-approval-strip-wrapper
 easy.co.il##.cookies-consent-banner
 bug.co.il##.cookies-policy-modal-container
 pazgas.co.il##.cookies-popup-overlay
+eliasi.co.il##.cookies13wrap
 landwercafe.co.il##.cookies_modal_container
 pais.co.il##.cookies_sec
 tel-aviv.gov.il##.customerAgreement
@@ -15428,11 +15434,13 @@ yad-mordechai.co.il##.eupopup-container
 ksp.co.il##.ltr-1075xo6
 mdyo.co.il##.mdyo-cookie
 diners.co.il##.message-container
+pizzangel.co.il##.mishloha-gdpr-popup
 ksp.co.il##.mui-b13abt.MuiBox-root
 bankhapoalim.co.il##.muirtl-1cwm7gt
 ksp.co.il##.muirtl-b13abt.MuiBox-root
 super-pharm.co.il##.phcBlockCookiesWrap
 colmobil.co.il##.popup-privacy
+comedyclub.co.il##.ppb-banner
 ksp.co.il##.rtl-1075xo6
 letlive.org.il##.site-consent-banner
 cts.co.il##.upnext-cookie-notice
@@ -15715,7 +15723,6 @@ ebible.it##.clm
 bontempi.it##.colaw-div
 centrogamma.com##.contPopup
 unirc.it##.content
-almaviva.it##.cookie-consent-popup
 automercatoavenoso.it##.cookieBox-Main
 |bioinsuedtirol.it##.cookiePolicy
 |esselungajob.it##.cookiePolicy
@@ -16729,7 +16736,6 @@ solgarvitamin.ru###consent-modal
 gorodperm.ru###cookb
 gazprombank.ru###cookie-accept
 cardiovascular.elpub.ru###cookie-banner-wrapper
-finam.ru###cookie-consent-popup
 ria-m.tv###cookie-msg
 companies.rbc.ru###cookie-popup
 aeroflot.ru###cookieInfo
