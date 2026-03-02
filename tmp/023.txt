@@ -5912,6 +5912,7 @@ sammobile.com##.google-preferred-news-source-cta
 |dronedj.com##.google-preferred-source-badge
 |spaceexplored.com##.google-preferred-source-badge
 restofworld.org##.google-preferred-v1
+bolde.com##.google-source-button
 goal.com##.google-trusted-source
 coinpedia.org##.google_news-space
 techadvisor.com##.google_news_button
@@ -16740,6 +16741,7 @@ indeed.com##[data-gnav-region="GlobalPrivacyControlBanner"]
 |wjla.com##[data-ketch-backdrop="true"]
 scmp.com##[data-qa="GDPRBanner-Container"]
 app.greenhouse.io##[data-react-class="InformCookiesPopup"]
+etsy.com##[data-selector="privacy-cookie-banner-container"]
 wistia.com##[data-sentry-component="ConsentBanner"]
 g2a.com##[data-test-id="cookie-modal"]
 wellcomecollection.org##[data-test-id="cookie-notice"]
@@ -18504,6 +18506,7 @@ stokrotka.pl###cboxWrapper
 |anker.com###cc-main
 |any.run###cc-main
 |art.org###cc-main
+|atlas.flexport.com###cc-main
 |bienpreter.com###cc-main
 |billing.coned.com###cc-main
 |bistrono.cz###cc-main
@@ -25439,7 +25442,6 @@ claritin.ca##+js(aopr, cookieconsent.Popup)
 |historianet.fi##+js(set, cicc.cookie_cat_statistic, true)
 |tieku.fi##+js(set, cicc.cookie_cat_statistic, true)
 fimfiction.net##+js(set, config.requireCookieConsent, false)
-spotify.com##div > div[aria-live="polite"]:not([data-testid="top-result-card"])
 stadium.fi###cookie-bar
 nvidia.com###cookiePolicy-layer
 |de-baystars.doorblog.jp###gdpr-banner
@@ -43535,6 +43537,7 @@ richmondfed.org##.comp-subscribe
 vogue.com##.component-cnid-modal-backdrop
 judicialwatch.org##.component-daily-update-sticky
 investmentexecutive.com##.component-quick-subscribe-newsletters
+kqed.org##.components-NewsLetterEmailSignup-components-Signup2025-__Signup2025__signup
 news.artnet.com##.condensed-newsletter-signup
 citizen.org##.connect1
 nfib.com##.connected
