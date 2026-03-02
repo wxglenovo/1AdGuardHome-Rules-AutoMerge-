@@ -8896,6 +8896,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hearstmags.com^*/hdm-lib_hearstuser_proxy.html$third-party
 ||hearstnp.com/log?
 ||heg-cp.com/upm/$third-party
+||helix.bitformations.ca^
 ||hello.myfonts.net/count/
 ||hello.staticstuff.net^
 ||hellobar.com/ping?
@@ -9599,6 +9600,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||prod.benchmarkemail.com/tracker.bundle.js
 ||prod.ew.srp.navigacloud.com^
 ||prod.fennec.atp.fox^
+||prod.tahoe-analytics.publishers.advertising.a2z.com^
 ||propps.com/v1/referrer/
 ||propsid.b-cdn.net^
 ||providesupport.com/cmd/$image
@@ -51307,6 +51309,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||io-tech.fi/io/www/delvr/lokiz.php
 ||is.fi/stats/
 ||logger.omio.com^
+||logs.kaya.delfi.ee^
 ||mha.fi/simple.gif?
 ||mtv3.fi/remarketing.js
 ||nelonenmedia.fi/hitcounter$image
