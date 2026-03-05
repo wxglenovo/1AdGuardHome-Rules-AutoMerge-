@@ -14026,6 +14026,7 @@ accenture.com###optanon-minimize-wrapper
 harvester.co.uk###optin-optout
 |gouvernement.lu###orejime
 |merics.org###orejime
+|service-public.gouv.fr###orejime
 |baltimoresun.com###osanoCustomDialogDiv
 |chicagotribune.com###osanoCustomDialogDiv
 |nydailynews.com###osanoCustomDialogDiv
@@ -22747,6 +22748,7 @@ barcode.tec-it.com##.cookieConsent
 |deluxemusic.de##div[class*="CookieBanner"]
 |desiindian-brighton.co.uk##div[class*="CookieBanner"]
 |drbuho.com##div[class*="CookieBanner"]
+|dropboxforum.com##div[class*="CookieBanner"]
 |fingerprint.com##div[class*="CookieBanner"]
 |foodcorner.dk##div[class*="CookieBanner"]
 |forum.effectivealtruism.org##div[class*="CookieBanner"]
@@ -25853,7 +25855,6 @@ chilledpackaging.co.uk##+js(set-cookie, DenyAllCookies, 1, , reload, 1)
 easyjet.com##+js(set-cookie, EASYJET_ENSIGHTEN_PRIVACY_BANNER_VIEWED, 1)
 easyjet.com##+js(set-cookie, EASYJET_ENSIGHTEN_PRIVACY_MODAL_VIEWED, 1)
 easyjet.com##+js(set-cookie, EASYJET_ENSIGHTEN_PRIVACY_easyJet_Marketing, 0)
-service-public.gouv.fr##+js(set-cookie, EA_cookie_intermediaire, 0, , , domain, .www.service-public.gouv.fr)
 emr.ch##+js(set-cookie, EMR-CookieConsent-Advertising, 0)
 emr.ch##+js(set-cookie, EMR-CookieConsent-Analytical, 0, , reload, 1)
 polycomp.bg##+js(set-cookie, EU_COOKIE_LAW_CONSENT_POLY, true)
@@ -34588,6 +34589,7 @@ revijahak.hr##html:style(overflow: auto !important)
 |asincar.com##.cookies
 |genserenergy.com##.cookies
 |graftonplc.com##.cookies
+|hitdiscount.by##.cookies
 |iledefrance-mobilites.fr##.cookies
 |intergen.com##.cookies
 |morsesclubplc.com##.cookies
@@ -34596,6 +34598,7 @@ revijahak.hr##html:style(overflow: auto !important)
 |asincar.com##body,html:style(overflow: auto !important; position: initial !important;)
 |genserenergy.com##body,html:style(overflow: auto !important; position: initial !important;)
 |graftonplc.com##body,html:style(overflow: auto !important; position: initial !important;)
+|hitdiscount.by##body,html:style(overflow: auto !important; position: initial !important;)
 |iledefrance-mobilites.fr##body,html:style(overflow: auto !important; position: initial !important;)
 |intergen.com##body,html:style(overflow: auto !important; position: initial !important;)
 |morsesclubplc.com##body,html:style(overflow: auto !important; position: initial !important;)
@@ -39455,7 +39458,6 @@ nord-news.ru###ym-cookie-notification
 bcs.ru##.Cbh_c
 prosv.ru##.CookieAccept_root__7K7ap
 tass.ru##.CookieAcceptance_container__DbL1S
-metaratings.ru##.CookieAllowance_cookiesAllowance__78hAO
 ati.su##.CookieBanner__cookie-banner___CVp_2
 sberdisk.ru##.CookieContainer_CookieContainer__1xqA-
 petshop.ru##.CookieInformer_wrapper__DUrv9
@@ -40771,6 +40773,7 @@ elrow.com#@##cookies-banner
 |setasdesevilla.com#@##cookies-bar
 asda-photo.co.uk#@##cookies-nag
 marcopanconesi.com#@##cookies-popup
+hitdiscount.by#@##cookiesAgreementNotice
 arbeiterkammer.at#@##cookiesContainer
 |happybaby.ru##cookiesPopup
 |muzeum.miejskie.wroclaw.pl#@##cookiesPopup
@@ -44841,6 +44844,7 @@ mathrubhumi.com##.piano-newsletter-article
 massispost.com##.pk-subscribe-container
 |foreigndesknews.com##.pk-subscribe-form-wrap
 |hackread.com##.pk-subscribe-form-wrap
+atlasobscura.com##.places-newsletter-standalone
 ny1.com##.playerBlocker
 crikey.com.au##.pm-todays-newsletter-block
 dot.la##.pop-up-content
