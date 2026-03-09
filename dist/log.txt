@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-03-09T10:21:24.012Z
+🚫 去掉注释行: ! Last modified: 2026-03-09T12:17:49.043Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v1.0.38
 🚫 去掉注释行: !
@@ -78,6 +78,11 @@
 🚫 去掉注释行: ! https://github.com/AdguardTeam/FiltersRegistry/pull/937
 🚫 去掉注释行: ! To fix the issue with the CNAME trackers, add problematic domains here:
 🚫 去掉注释行: ! https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/exclusions.txt
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: ! Dangerous sites in ads / Fake captcha
+🚫 去掉注释行: ! TODO: enable the directive when https://github.com/AdguardTeam/cname-trackers/issues/127 will be ready
+🚫 去掉注释行: ! include https://adguardteam.github.io/cname-trackers/data/ads/midnightlotusgrove.txt
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Galaksion: beixisys.com disguised advertising networks
 🚫 去掉注释行: !
@@ -1572,10 +1577,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 98872
-🚫 去掉注释行: ! Checksum: CR26AgbZbAI6H2pE6fU4QQ
-🚫 去掉注释行: ! Version: 202603091141
+🚫 去掉注释行: ! Checksum: Y2BxBadpL54EkAVfvnFaSg
+🚫 去掉注释行: ! Version: 202603091242
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 09 Mar 2026 11:41 UTC
+🚫 去掉注释行: ! Last modified: 09 Mar 2026 12:42 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -24737,10 +24742,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: 4HQzPxNqG24hP41av0GYQA
-🚫 去掉注释行: ! Version: 202603091141
+🚫 去掉注释行: ! Checksum: MrjBh1bysWfqFKXJl7hPtw
+🚫 去掉注释行: ! Version: 202603091242
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 09 Mar 2026 11:41 UTC
+🚫 去掉注释行: ! Last modified: 09 Mar 2026 12:42 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29319,10 +29324,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: qrwLCwucZcO3lFmKfrGWtA
-🚫 去掉注释行: ! Version: 202603091141
+🚫 去掉注释行: ! Checksum: 6kpPGApZdsxJ/e7IZgwo3A
+🚫 去掉注释行: ! Version: 202603091242
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 09 Mar 2026 11:41 UTC
+🚫 去掉注释行: ! Last modified: 09 Mar 2026 12:42 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -30030,11 +30035,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202603091143
+🚫 去掉注释行: ! Version: 202603091239
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 09 Mar 2026 11:43 UTC
+🚫 去掉注释行: ! Last modified: 09 Mar 2026 12:39 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 4ee2bdb3ca8ac9406ca33a38b3e20c2149a8b28d
+🚫 去掉注释行: ! Commit: a1b51b58ab2655f9c89c71de4332ebfd1a1b57a4
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -53199,11 +53204,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202603091143
+🚫 去掉注释行: ! Version: 202603091239
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 09 Mar 2026 11:43 UTC
+🚫 去掉注释行: ! Last modified: 09 Mar 2026 12:39 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 4ee2bdb3ca8ac9406ca33a38b3e20c2149a8b28d
+🚫 去掉注释行: ! Commit: a1b51b58ab2655f9c89c71de4332ebfd1a1b57a4
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -69277,8 +69282,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !生成时间: 2026-03-09 19:34:50
-🚫 去掉注释行: !有效规则数目: 1580367
+🚫 去掉注释行: !生成时间: 2026-03-09 19:59:58
+🚫 去掉注释行: !有效规则数目: 1590370
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
@@ -150001,10 +150006,10 @@
 🚫 去掉注释行: ! Blocked domains: 4836
 🚫 去掉注释行: ! unBlocked domains: 14
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: s2npX8+TBZQzz6qa4zGgEQ
-🚫 去掉注释行: ! Version: 202603091025
+🚫 去掉注释行: ! Checksum: THce9igu5rTkheVtCpdGSw
+🚫 去掉注释行: ! Version: 202603091200
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-03-09 10:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-03-09 12:00 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -168134,7 +168139,6 @@
 🚫 去掉注释行: ###acceptance_of_cookies
 🚫 去掉注释行: ###acceptcookie
 🚫 去掉注释行: ###acceptcookiealert
-🚫 去掉注释行: ###acceptcookies
 🚫 去掉注释行: ###acceptcookiesWrapper
 🚫 去掉注释行: ###acceptcookieswrapper
 🚫 去掉注释行: ###accepteCookies
@@ -170609,7 +170613,6 @@
 🚫 去掉注释行: ###cookie_wrapper2
 🚫 去掉注释行: ###cookie_yes_info
 🚫 去掉注释行: ###cookieabfrage
-🚫 去掉注释行: ###cookieacceptance
 🚫 去掉注释行: ###cookieaccepter
 🚫 去掉注释行: ###cookieacceptlayer
 🚫 去掉注释行: ###cookieadd
@@ -214066,9 +214069,9 @@
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: !---------------------------------Allowlists----------------------------------!
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: HRvH+HI2wUQQRT+e/7SQYw
+🚫 去掉注释行: ! Checksum: OinAAhslQmhgLrljRlA7PQ
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Last modified: 2026-03-09 10:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-03-09 12:00 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
@@ -214667,7 +214670,6 @@
 🚫 去掉注释行: ###acceptance_of_cookies
 🚫 去掉注释行: ###acceptcookie
 🚫 去掉注释行: ###acceptcookiealert
-🚫 去掉注释行: ###acceptcookies
 🚫 去掉注释行: ###acceptcookiesWrapper
 🚫 去掉注释行: ###acceptcookieswrapper
 🚫 去掉注释行: ###accepteCookies
@@ -217142,7 +217144,6 @@
 🚫 去掉注释行: ###cookie_wrapper2
 🚫 去掉注释行: ###cookie_yes_info
 🚫 去掉注释行: ###cookieabfrage
-🚫 去掉注释行: ###cookieacceptance
 🚫 去掉注释行: ###cookieaccepter
 🚫 去掉注释行: ###cookieacceptlayer
 🚫 去掉注释行: ###cookieadd
