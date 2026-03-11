@@ -9952,6 +9952,7 @@ meijutt.*/js/pcjs/
 ||gliacloud.com^$domain=thisiscm.com
 ||cilipa.com^*0.js
 ||ttks.tw/js/otherad.
+||*.mp4$rewrite=abp-resource:blank-mp3,domain=huavod.com
 zhihu.com##.Pc-word-new
 vpstop.cn##a[href*="/ClickAd"]
 joyacg.top##a[href^="http"] > .img-fluid
