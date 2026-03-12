@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-03-12T08:17:56.681Z
+🚫 去掉注释行: ! Last modified: 2026-03-12T10:18:12.783Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v1.0.38
 🚫 去掉注释行: !
@@ -1577,10 +1577,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 99558
-🚫 去掉注释行: ! Checksum: CFBsVCA7vSO0Wxz7wQjCQw
-🚫 去掉注释行: ! Version: 202603120921
+🚫 去掉注释行: ! Checksum: LONlgB7Ixi0eETUtm5iXeQ
+🚫 去掉注释行: ! Version: 202603121011
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 12 Mar 2026 09:21 UTC
+🚫 去掉注释行: ! Last modified: 12 Mar 2026 10:11 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -24751,10 +24751,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: t4dF78yyNFn7FP0pLJNQXw
-🚫 去掉注释行: ! Version: 202603120921
+🚫 去掉注释行: ! Checksum: H6A+PWFTJzF9A/KK+vNHww
+🚫 去掉注释行: ! Version: 202603121011
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 12 Mar 2026 09:21 UTC
+🚫 去掉注释行: ! Last modified: 12 Mar 2026 10:11 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -28438,9 +28438,8 @@
 ✅ 多域名拆分: a-i-l-s-a.com,buscodepto.com##div[style^="position: fixed;"]
     → |a-i-l-s-a.com##div[style^="position: fixed;"]
     → |buscodepto.com##div[style^="position: fixed;"]
-✅ 多域名拆分: tvyun07.com,yemancomic.com,zkk78.com##div[style^="position:fixed;"]
+✅ 多域名拆分: tvyun07.com,zkk78.com##div[style^="position:fixed;"]
     → |tvyun07.com##div[style^="position:fixed;"]
-    → |yemancomic.com##div[style^="position:fixed;"]
     → |zkk78.com##div[style^="position:fixed;"]
 ✅ 多域名拆分: doubiuser.github.io,doubibackup.com#?#.custom-html-widget:-abp-has(div[style^="position"])
     → |doubiuser.github.io#?#.custom-html-widget:-abp-has(div[style^="position"])
@@ -29330,10 +29329,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: x4uanGmoaEIF6xG4wLJ/kw
-🚫 去掉注释行: ! Version: 202603120921
+🚫 去掉注释行: ! Checksum: AJIBc8SVcsPis3ZpXDJRIA
+🚫 去掉注释行: ! Version: 202603121011
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 12 Mar 2026 09:21 UTC
+🚫 去掉注释行: ! Last modified: 12 Mar 2026 10:11 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -30041,11 +30040,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202603120929
+🚫 去掉注释行: ! Version: 202603121007
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 12 Mar 2026 09:29 UTC
+🚫 去掉注释行: ! Last modified: 12 Mar 2026 10:07 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 8885623e34186b4e645e5e9fc1a5981fe4e55865
+🚫 去掉注释行: ! Commit: 36738c36fbc660a1bb01e86cdf426ba83b74326d
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -53219,11 +53218,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202603120922
+🚫 去掉注释行: ! Version: 202603121007
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 12 Mar 2026 09:22 UTC
+🚫 去掉注释行: ! Last modified: 12 Mar 2026 10:07 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: a8fcd01f39db30151259f911f619681e76fe3d07
+🚫 去掉注释行: ! Commit: 36738c36fbc660a1bb01e86cdf426ba83b74326d
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -69310,8 +69309,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !生成时间: 2026-03-12 17:04:29
-🚫 去掉注释行: !有效规则数目: 1595826
+🚫 去掉注释行: !生成时间: 2026-03-12 18:02:09
+🚫 去掉注释行: !有效规则数目: 1595834
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
