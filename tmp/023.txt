@@ -22639,6 +22639,7 @@ naylorsfinance.com###gdproverlay
 |petermachtpause.de###klaro
 |phv.si###klaro
 |pohjanmaan.fi###klaro
+|politepaul.com###klaro
 |publicidadconcursal.es###klaro
 |radldiscount.de###klaro
 |rebreather-ccr.de###klaro
@@ -29516,6 +29517,8 @@ zeta-ai.io##+js(set-local-storage-item, mmkv.default\ANONYMOUS_ACCEPT_COOKIE, tr
 springmerchant.com##+js(set-local-storage-item, modal_cookies, 1)
 webhallen.com##+js(set-local-storage-item, necessaryConsent, true)
 tme.eu##+js(set-local-storage-item, necessary_cookie_confirmed, true)
+neofinancial.com##+js(set-local-storage-item, neoCookiesAdvertisingConsent, 1)
+neofinancial.com##+js(set-local-storage-item, neoCookiesPerformanceConsent, true)
 home.shortcutssoftware.com##+js(set-local-storage-item, ngx-webstorage|cookies, false)
 cape.co##+js(set-local-storage-item, no-cookie-notice-dismissed, true)
 cwallet.com##+js(set-local-storage-item, ns_cookies, 1)
@@ -38177,6 +38180,7 @@ zinger-organic.com###cookie-consent-wrapper
 019mobile.co.il###cookie-except-banner
 madlan.co.il###cookie-root
 soltam.co.il###dfwt-gdpr-overlay
+bigelectric.co.il###gdprCookieBar
 ivory.co.il###removeBannerCookie
 gadgety.co.il###upnext-cookie-notice
 cal-online.co.il###wc-using-cookies
