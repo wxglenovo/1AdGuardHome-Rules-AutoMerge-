@@ -16475,6 +16475,7 @@ sonic.com##.snc-consent-banner
 microcad.xyz##.snn-cookie-banner
 hotukdeals.com##.softMessages-item
 sonos.com##.sonoscontent-banner
+capitaloneshopping.com##.sp-cookie-consent-slide-up-el
 thermofisher.com##.specialMsg
 drdenim.com##.spicegems_gdpr_bottom_banner
 spreadshirt.com##.sprd-consent
@@ -16857,6 +16858,7 @@ c.realme.com##div > .cookie-privacy
 |support.saleae.com##div.r-1xcajam.css-175oi2r
 |wiki.valhelsia.net##div.r-1xcajam.css-175oi2r
 utrechtart.com##div[aria-label="cookie consent banner"]
+delish.com##div[aria-label^="Privacy Disclosure"]
 audiomack.com##div[class*="ConfirmMessage-module__cookie-"]
 easyoffices.com##div[class*="CookiesBar_"]
 phot.ai##div[class*="styles_consentCard__"]
@@ -21734,6 +21736,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |synchrony.com###onetrust-consent-sdk
 |teliacompany.com###onetrust-consent-sdk
 |thecloroxcompany.com###onetrust-consent-sdk
+|ticketmaster.com###onetrust-consent-sdk
 |tidal.com###onetrust-consent-sdk
 |time.com###onetrust-consent-sdk
 |unicef.de###onetrust-consent-sdk
@@ -39663,6 +39666,7 @@ texet.ru##.cookies-win
 syrovarnya.com##.cookiesMessage_cookiesmessage__jAFno
 bml.ru##.cookiesModal
 maximonline.ru##.cookiesPopup
+uxfeedback.ru##.cookies_notification_cookiesContainer__YcD5G
 atol.ru##.cooks_k
 myapples.ru##.copyright_fixed
 |peterburg2.ru##.cow
