@@ -142,6 +142,7 @@ _backToTop.
 thebetterindia.com##.vspl__gtap-notification-content
 thebetterindia.com##.vspl__gtap-notification-overlay
 dashboard.razorpay.com#@##credential_picker_container
+||answers.sg^$domain=mustsharenews.com
 ||api.qwant.com/*/homepage/trends?
 ||civilbeat.org/wp-content/themes/becivil/widgets/slp-widgets/donate.html
 ||cm.usatoday.com^
@@ -159,6 +160,7 @@ dashboard.razorpay.com#@##credential_picker_container
 ||kastatic.org/images/donate/$domain=khanacademy.org
 ||kdi-ppi.com/modal.js
 ||khanacademy.org/api/internal/graphql/getActiveDonationAsks
+||mustsharenews.com/wp-content/plugins/answers-client/
 ||neighbourly.co.nz/stuff/
 ||newegg.com/newegg/survey/
 ||planelogger.com/Content/Images/avitop6.gif
@@ -5531,6 +5533,7 @@ chesskid.com##.ck-share-buttons
 businesstoday.in##.cmp_shr_btn
 edugeek.net##.cms_widget_content.widget_content > [align="center"]
 townflex.com##.code-block
+mustsharenews.com##.code-block-18
 thenationalpulse.com##.code-block-3
 thenationalpulse.com##.code-block-8
 neatorama.com##.col-4
@@ -13548,6 +13551,7 @@ nasdaq.com###consent-placeholder-onetrust
 niwa.co.nz###consent-request
 store.steelcase.com###consent-skeleton
 |altardstate.com###consent-tracking
+|cacaushow.com.br###consent-tracking
 |citizenwatch.com###consent-tracking
 |helzberg.com###consent-tracking
 |manyavar.com###consent-tracking
@@ -15273,6 +15277,7 @@ augur.net##.cookies-notice__StyledCookieNotice-ub3ifz-0
 logon.slc.co.uk##.cookies-overly
 |arguedas.es##.cookies-policy
 |ccusyncedin.com##.cookies-policy
+|energean.com##.cookies-policy
 |obilet.com##.cookies-policy
 |science.edu.sg##.cookies-policy
 |wikov.com##.cookies-policy
@@ -16030,7 +16035,12 @@ nextbase.com##.nb-cookies-container
 userbenchmark.com##.nb-parent
 wik-walsoe.com##.ncm-ready
 ncts.ie##.nctoverlay
-giovannicosmetics.com##.needsclick
+|aldoshoes.co.il##.needsclick
+|gali.co.il##.needsclick
+|giovannicosmetics.com##.needsclick
+|leecooper.co.il##.needsclick
+|nine-west.co.il##.needsclick
+|stepin.co.il##.needsclick
 neliosoftware.com##.nelio-popup-wrapper
 cheaperthandirt.com##.new-consent-banner
 simpleimageresizer.com##.new-consent-popup-wrapper
@@ -18942,6 +18952,7 @@ flexiti.com##.z-999
 |mastername.ru##.cookie-bar
 |meuhedet.co.il##.cookie-bar
 |mylf.com##.cookie-bar
+|nocibe.fr##.cookie-bar
 |nordicpond.shop##.cookie-bar
 |pervmom.com##.cookie-bar
 |pervz.com##.cookie-bar
@@ -19614,6 +19625,7 @@ dryg.pl##div[class^="CookiesNoti"]
 |alivia.org.pl##.dialog-lightbox-message
 |almeidastextile.pt##.dialog-lightbox-message
 |ancon.io##.dialog-lightbox-message
+|bsre.co.il##.dialog-lightbox-message
 |caltex.co.za##.dialog-lightbox-message
 |cerre.eu##.dialog-lightbox-message
 |cofense.com##.dialog-lightbox-message
@@ -20955,12 +20967,14 @@ decovarrubias.es###sliding-popup-cookies
 |bg-radio.org##.cookie-consent
 |bioespecie.com##.cookie-consent
 |bitstamp.net##.cookie-consent
+|cebus-rimon.co.il##.cookie-consent
 |cecotec.es##.cookie-consent
 |ceskaradiaonline.cz##.cookie-consent
 |chacoonline.com.ar##.cookie-consent
 |comunicacionsmt.gob.ar##.cookie-consent
 |congeo.nl##.cookie-consent
 |crypto.news##.cookie-consent
+|denya-group.com##.cookie-consent
 |diarioalfil.com.ar##.cookie-consent
 |diariosumario.com.ar##.cookie-consent
 |dnb.nl##.cookie-consent
@@ -20986,6 +21000,7 @@ decovarrubias.es###sliding-popup-cookies
 |gaultmillau.be##.cookie-consent
 |gaultmillau.lu##.cookie-consent
 |geeksforgeeks.org##.cookie-consent
+|geodanya.co.il##.cookie-consent
 |group.softbank##.cookie-consent
 |haltech.com##.cookie-consent
 |heinz.st##.cookie-consent
@@ -22255,6 +22270,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |clarksolutions.com.br##.cookie-banner
 |codashop.com##.cookie-banner
 |coinpaprika.com##.cookie-banner
+|comfrt.com##.cookie-banner
 |cumlaudeimmobilia.com##.cookie-banner
 |cursos.io##.cookie-banner
 |cwi.nl##.cookie-banner
@@ -29725,6 +29741,7 @@ e-comas.com###ask-consent:remove()
 |arche.net##.modal
 |archeshousing.org.uk##.modal
 |architekturbedarf.de##.modal
+|aroma.co.il##.modal
 |art-immobilien.at##.modal
 |asadorderoxos.com##.modal
 |asfinag.at##.modal
@@ -30221,6 +30238,7 @@ e-comas.com###ask-consent:remove()
 |arche.net##.modal-backdrop
 |archeshousing.org.uk##.modal-backdrop
 |architekturbedarf.de##.modal-backdrop
+|aroma.co.il##.modal-backdrop
 |art-immobilien.at##.modal-backdrop
 |asadorderoxos.com##.modal-backdrop
 |asfinag.at##.modal-backdrop
@@ -30717,6 +30735,7 @@ e-comas.com###ask-consent:remove()
 |arche.net##body,html:style(overflow: auto !important; position: initial !important;)
 |archeshousing.org.uk##body,html:style(overflow: auto !important; position: initial !important;)
 |architekturbedarf.de##body,html:style(overflow: auto !important; position: initial !important;)
+|aroma.co.il##body,html:style(overflow: auto !important; position: initial !important;)
 |art-immobilien.at##body,html:style(overflow: auto !important; position: initial !important;)
 |asadorderoxos.com##body,html:style(overflow: auto !important; position: initial !important;)
 |asfinag.at##body,html:style(overflow: auto !important; position: initial !important;)
@@ -38251,6 +38270,9 @@ xphone.co.il##.elementor-element-7f094b47
 yad-mordechai.co.il##.eupopup-container
 |cinema-city.co.il##.gdpr-module
 |peamitstore.co.il##.gdpr-module
+|delta.co.il##.idus_popup_widget_cookie_popup
+|fixfixfixfix.co.il##.idus_popup_widget_cookie_popup
+|panta-rei.com##.idus_popup_widget_cookie_popup
 ksp.co.il##.ltr-1075xo6
 mdyo.co.il##.mdyo-cookie
 diners.co.il##.message-container
@@ -38262,6 +38284,16 @@ super-pharm.co.il##.phcBlockCookiesWrap
 colmobil.co.il##.popup-privacy
 comedyclub.co.il##.ppb-banner
 delek-motors.co.il##.privacy-info-banner
+|electra-danko.co.il##.pupup_cookies
+|electra-elco-cs.co.il##.pupup_cookies
+|electra-elevators.co.il##.pupup_cookies
+|electra-infrastructures.co.il##.pupup_cookies
+|electra-me.co.il##.pupup_cookies
+|electra.co.il##.pupup_cookies
+|electrainfrastructure-environment.co.il##.pupup_cookies
+|electraparking.co.il##.pupup_cookies
+|electrausa.com##.pupup_cookies
+|etco-nigeria.com##.pupup_cookies
 ksp.co.il##.rtl-1075xo6
 letlive.org.il##.site-consent-banner
 cts.co.il##.upnext-cookie-notice
