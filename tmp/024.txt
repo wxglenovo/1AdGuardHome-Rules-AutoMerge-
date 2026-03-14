@@ -1376,6 +1376,7 @@
 ||wukongsch.com/kaamel.js
 ||yelp.*/eu_cookie_notice?
 ||yimg.com^*/guce.js
+||zed.dev/docs/theme/c15t@2.0.0-rc.3.js
 ||hc.bonprix.hu^
 ||hc.bonprix.ro^
 ||hc.bonprix.sk^
@@ -1655,6 +1656,7 @@ nasdaq.com###consent-placeholder-onetrust
 niwa.co.nz###consent-request
 store.steelcase.com###consent-skeleton
 |altardstate.com###consent-tracking
+|cacaushow.com.br###consent-tracking
 |citizenwatch.com###consent-tracking
 |helzberg.com###consent-tracking
 |manyavar.com###consent-tracking
@@ -4138,7 +4140,12 @@ nextbase.com##.nb-cookies-container
 userbenchmark.com##.nb-parent
 wik-walsoe.com##.ncm-ready
 ncts.ie##.nctoverlay
-giovannicosmetics.com##.needsclick
+|aldoshoes.co.il##.needsclick
+|gali.co.il##.needsclick
+|giovannicosmetics.com##.needsclick
+|leecooper.co.il##.needsclick
+|nine-west.co.il##.needsclick
+|stepin.co.il##.needsclick
 neliosoftware.com##.nelio-popup-wrapper
 cheaperthandirt.com##.new-consent-banner
 simpleimageresizer.com##.new-consent-popup-wrapper
@@ -7050,6 +7057,7 @@ flexiti.com##.z-999
 |mastername.ru##.cookie-bar
 |meuhedet.co.il##.cookie-bar
 |mylf.com##.cookie-bar
+|nocibe.fr##.cookie-bar
 |nordicpond.shop##.cookie-bar
 |pervmom.com##.cookie-bar
 |pervz.com##.cookie-bar
@@ -7116,6 +7124,7 @@ tomtom.com##.cookie_bar
 |erau.edu###cookie-consent
 |flyscoot.com###cookie-consent
 |fontawesome.com###cookie-consent
+|foodsdictionary.co.il###cookie-consent
 |garberhof.com###cookie-consent
 |guffi.is###cookie-consent
 |heictojpg.com###cookie-consent
@@ -7124,6 +7133,7 @@ tomtom.com##.cookie_bar
 |ispot.tv###cookie-consent
 |joomshaper.com###cookie-consent
 |kranj.si###cookie-consent
+|littleworldtv.com###cookie-consent
 |lottostar.co.za###cookie-consent
 |ma-hsh.de###cookie-consent
 |mk-amur.ru###cookie-consent
@@ -10367,6 +10377,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |clarksolutions.com.br##.cookie-banner
 |codashop.com##.cookie-banner
 |coinpaprika.com##.cookie-banner
+|comfrt.com##.cookie-banner
 |cumlaudeimmobilia.com##.cookie-banner
 |cursos.io##.cookie-banner
 |cwi.nl##.cookie-banner
@@ -10447,6 +10458,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |struer.dk##.cookie-banner
 |student.com##.cookie-banner
 |superbio.es##.cookie-banner
+|taplink.cc##.cookie-banner
 |thefly.com##.cookie-banner
 |tiktok.com##.cookie-banner
 |tudogostoso.com.br##.cookie-banner
@@ -13521,6 +13533,7 @@ boomlify.com##div > div:has-text(We use cookies to improve your experience.)
 yogainternational.com##div[class^="elements__Banner-"]:has(> div > a[href$="-privacy-policy"])
 help.semmelweis.hu#?#.modal:has(h3:has-text(SÃ¼tik hasznÃ¡lata)):has(button:has-text(ElfogadÃ¡s))
 kick.com#?#.z-modal:-abp-contains(You are in control of cookies used)
+ura.news#?#.gR.t:has-text(Ð¡Ð°Ð¹Ñ Ð¸ÑÐ¿Ð¾Ð»ÑÐ·ÑÐµÑ cookie.)
 flyfi.com##.HASH_COOKIE_ALERT_GRID_ITEM_FIXED
 aainflight.com##div[class*="_toastContainer_"]:has-text(We care about your privacy)
 |codeburst.io##body > div:not([class]):not([id]) > div[class*=" "]:has(> div > div > div[class] > a[href^="https://policy.medium.com/medium-privacy-policy-"])
@@ -14832,6 +14845,7 @@ news.pts.org.tw##.cookie-flex
 sf-express.com##.cookie-policy_cookiePolicyWrapper__cwbwV
 bewildcard.com##.cookie-policy_cookiePolicy__iVL65
 hozonauto.com##.cookie-tips
+cht.com.tw##.cookie-wrap
 hkbu.edu.hk##.cookies-consent-banner
 unity.cn##.cookies-permission_2kEyTVGb
 news.tvb.com##.cookiesAgreeContainer
@@ -15512,7 +15526,6 @@ malamteam.com###MavilixCookiesBox
 calendar.2net.co.il###UseCookies
 maccabi4u.co.il###ZA_CAMP_BANNER_CONTAINER
 maccabi4u.co.il###ZA_CAMP_MOBILE_CONTAINER
-foodsdictionary.co.il###cookie-consent
 tambour.co.il###cookie-consent-acf-backdrop
 tambour.co.il###cookie-consent-acf-modal
 zinger-organic.com###cookie-consent-wrapper

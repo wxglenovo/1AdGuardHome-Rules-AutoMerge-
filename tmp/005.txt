@@ -13205,6 +13205,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mstm.motorsport.com^
 ||mtg.macpaw.com^
 ||mtm.bondagevalley.cc^
+||musescore.com/components/data?
+||musescore.com/score/stats/
 ||mx.eneba.com^
 ||myanimelist.net/static/logging.html
 ||myfreecams.com/php/tracking.php?
@@ -14147,6 +14149,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||youtube-nocookie.com/robots.txt?
 ||youtube-nocookie.com/youtubei/v1/log_event?
 ||youtube.com/api/stats/ads?
+||zed.dev/docs/theme/analytics.js
 ||youtube.com/api/stats/qoe?*page&ns=yt&fexp=v1%*&event=streamingstats&
 ||youtube.com/get_video?
 ||youtube.com/pcs/activeview?
