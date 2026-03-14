@@ -14304,6 +14304,7 @@ stingray.com###tracking-popup
 privacy.org.nz###trackingmessage
 visionworks.com###transcend-consent-manager
 undercurrentnews.com###ucn-gdpr-overlay
+uconn.edu###uconn-c-notice
 strikermanager.com###ue
 netflix.com###uma > div > .message
 mcdonalds.com###usTnCBanner
@@ -15815,6 +15816,7 @@ aquaphor.com##.js-cookies
 g-star.com##.js-dialog--cookie
 |jimmychoo.com##.js-first-visit-banner
 |versace.com##.js-first-visit-banner
+guess.com##.js-footer-cookies-policy
 iconstore.co##.js-notice
 forums.freebsd.org##.js-notices
 itv.com##.js-site-alert
@@ -16871,6 +16873,7 @@ c.realme.com##div > .cookie-privacy
 |support.saleae.com##div.r-1xcajam.css-175oi2r
 |wiki.valhelsia.net##div.r-1xcajam.css-175oi2r
 utrechtart.com##div[aria-label="cookie consent banner"]
+|biography.com##div[aria-label^="Privacy Disclosure"]
 |countryliving.com##div[aria-label^="Privacy Disclosure"]
 |delish.com##div[aria-label^="Privacy Disclosure"]
 |harpersbazaar.com##div[aria-label^="Privacy Disclosure"]
@@ -38221,6 +38224,7 @@ ivory.co.il###removeBannerCookie
 gadgety.co.il###upnext-cookie-notice
 cal-online.co.il###wc-using-cookies
 iroads.co.il##.CookiePolicyDisclaimer
+amot.co.il##.Cookies__StyledSnackbar-sc-1o4gw82-1
 lastprice.co.il##.PCConsent
 shop.sano.co.il##.accept_cookies_wrapper
 guidestar.org.il##.app-cookies-disclaimer-container
@@ -39825,7 +39829,8 @@ q-shopp.ru##.panel-warning
 kamkabel.ru##.panel_152_wp
 pegast.ru##.pgs-top
 finuslugi.ru##.plate___P4Xog
-b-kontur.ru##.policy-notification
+|b-kontur.ru##.policy-notification
+|kontur.ru##.policy-notification
 |delo-vcusa.ru##.policy-popup
 |izpn.ru##.policy-popup
 netlab.ru##.policy-warning

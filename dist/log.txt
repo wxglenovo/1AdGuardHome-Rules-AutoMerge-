@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-03-14T20:08:46.013Z
+🚫 去掉注释行: ! Last modified: 2026-03-14T22:08:34.639Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v1.0.38
 🚫 去掉注释行: !
@@ -1577,10 +1577,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 100235
-🚫 去掉注释行: ! Checksum: OOZDcOmX7LJd7x5YwqaYww
-🚫 去掉注释行: ! Version: 202603142141
+🚫 去掉注释行: ! Checksum: gMy5tSIU3iGZt+jb5IZ9wQ
+🚫 去掉注释行: ! Version: 202603142211
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 14 Mar 2026 21:41 UTC
+🚫 去掉注释行: ! Last modified: 14 Mar 2026 22:11 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -22141,9 +22141,10 @@
 ✅ 多域名拆分: grail.moe,trans.info##img[width="500"]
     → |grail.moe##img[width="500"]
     → |trans.info##img[width="500"]
-✅ 多域名拆分: americasvoice.news,arcadepunks.com##img[width="728"]
+✅ 多域名拆分: americasvoice.news,arcadepunks.com,sweetalert2.github.io##img[width="728"]
     → |americasvoice.news##img[width="728"]
     → |arcadepunks.com##img[width="728"]
+    → |sweetalert2.github.io##img[width="728"]
 ✅ 多域名拆分: everythingrf.com,natureworldnews.com##label
     → |everythingrf.com##label
     → |natureworldnews.com##label
@@ -24763,10 +24764,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: /Cbts2C39biTEy0rywyDrg
-🚫 去掉注释行: ! Version: 202603142141
+🚫 去掉注释行: ! Checksum: VNKZjxGQa/cYM2fp0GwXOQ
+🚫 去掉注释行: ! Version: 202603142211
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 14 Mar 2026 21:41 UTC
+🚫 去掉注释行: ! Last modified: 14 Mar 2026 22:11 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29341,10 +29342,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: UO3roWDJz4MQz1Ymxh0Phg
-🚫 去掉注释行: ! Version: 202603142141
+🚫 去掉注释行: ! Checksum: ZvRRJ9YzeL8VfEkgbP1ulA
+🚫 去掉注释行: ! Version: 202603142211
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 14 Mar 2026 21:41 UTC
+🚫 去掉注释行: ! Last modified: 14 Mar 2026 22:11 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -30052,11 +30053,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202603142149
+🚫 去掉注释行: ! Version: 202603142207
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 14 Mar 2026 21:49 UTC
+🚫 去掉注释行: ! Last modified: 14 Mar 2026 22:07 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 5da110ed143cf044e952c1cdd0559f837ae2875e
+🚫 去掉注释行: ! Commit: ff8ca4daa536bd45c4ae0abd7067c591976d0951
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -50620,9 +50621,10 @@
 ✅ 多域名拆分: grail.moe,trans.info##img[width="500"]
     → |grail.moe##img[width="500"]
     → |trans.info##img[width="500"]
-✅ 多域名拆分: americasvoice.news,arcadepunks.com##img[width="728"]
+✅ 多域名拆分: americasvoice.news,arcadepunks.com,sweetalert2.github.io##img[width="728"]
     → |americasvoice.news##img[width="728"]
     → |arcadepunks.com##img[width="728"]
+    → |sweetalert2.github.io##img[width="728"]
 ✅ 多域名拆分: everythingrf.com,natureworldnews.com##label
     → |everythingrf.com##label
     → |natureworldnews.com##label
@@ -53242,11 +53244,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202603142149
+🚫 去掉注释行: ! Version: 202603142211
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 14 Mar 2026 21:49 UTC
+🚫 去掉注释行: ! Last modified: 14 Mar 2026 22:11 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: b51d627f5962c8db74aa72c33cf93f5dda4e5ecc
+🚫 去掉注释行: ! Commit: 99e7362555d09c8b3110dd2d782b1764902e17f7
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -69333,7 +69335,7 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !生成时间: 2026-03-15 05:33:34
+🚫 去掉注释行: !生成时间: 2026-03-15 05:54:42
 🚫 去掉注释行: !有效规则数目: 1600153
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
@@ -154732,10 +154734,10 @@
 🚫 去掉注释行: ! Blocked domains: 5087
 🚫 去掉注释行: ! unBlocked domains: 16
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: BaZN8ZSr1xgZoOaIlzP4BQ
-🚫 去掉注释行: ! Version: 202603142125
+🚫 去掉注释行: ! Checksum: n3r0WiFgFWds6mLRfYO9rg
+🚫 去掉注释行: ! Version: 202603142150
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-03-14 21:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-03-14 21:50 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -189084,7 +189086,8 @@
     → |meshnet.nordvpn.com##div.r-1xcajam.css-175oi2r
     → |support.saleae.com##div.r-1xcajam.css-175oi2r
     → |wiki.valhelsia.net##div.r-1xcajam.css-175oi2r
-✅ 多域名拆分: countryliving.com,delish.com,harpersbazaar.com,prevention.com,townandcountrymag.com##div[aria-label^="Privacy Disclosure"]
+✅ 多域名拆分: biography.com,countryliving.com,delish.com,harpersbazaar.com,prevention.com,townandcountrymag.com##div[aria-label^="Privacy Disclosure"]
+    → |biography.com##div[aria-label^="Privacy Disclosure"]
     → |countryliving.com##div[aria-label^="Privacy Disclosure"]
     → |delish.com##div[aria-label^="Privacy Disclosure"]
     → |harpersbazaar.com##div[aria-label^="Privacy Disclosure"]
@@ -209513,6 +209516,9 @@
 ✅ 多域名拆分: lamoda.ru,lamoda.ua##.page > [class*="widget"]
     → |lamoda.ru##.page > [class*="widget"]
     → |lamoda.ua##.page > [class*="widget"]
+✅ 多域名拆分: b-kontur.ru,kontur.ru##.policy-notification
+    → |b-kontur.ru##.policy-notification
+    → |kontur.ru##.policy-notification
 ✅ 多域名拆分: delo-vcusa.ru,izpn.ru##.policy-popup
     → |delo-vcusa.ru##.policy-popup
     → |izpn.ru##.policy-popup
@@ -218850,9 +218856,9 @@
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: !---------------------------------Allowlists----------------------------------!
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: Q/OeAIt7HiqK1/rSgXJl7g
+🚫 去掉注释行: ! Checksum: o9nSshjvRK0rxm3d6zDtZw
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Last modified: 2026-03-14 21:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-03-14 21:50 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
@@ -235659,7 +235665,8 @@
     → |meshnet.nordvpn.com##div.r-1xcajam.css-175oi2r
     → |support.saleae.com##div.r-1xcajam.css-175oi2r
     → |wiki.valhelsia.net##div.r-1xcajam.css-175oi2r
-✅ 多域名拆分: countryliving.com,delish.com,harpersbazaar.com,prevention.com,townandcountrymag.com##div[aria-label^="Privacy Disclosure"]
+✅ 多域名拆分: biography.com,countryliving.com,delish.com,harpersbazaar.com,prevention.com,townandcountrymag.com##div[aria-label^="Privacy Disclosure"]
+    → |biography.com##div[aria-label^="Privacy Disclosure"]
     → |countryliving.com##div[aria-label^="Privacy Disclosure"]
     → |delish.com##div[aria-label^="Privacy Disclosure"]
     → |harpersbazaar.com##div[aria-label^="Privacy Disclosure"]
@@ -246419,6 +246426,9 @@
 ✅ 多域名拆分: lamoda.ru,lamoda.ua##.page > [class*="widget"]
     → |lamoda.ru##.page > [class*="widget"]
     → |lamoda.ua##.page > [class*="widget"]
+✅ 多域名拆分: b-kontur.ru,kontur.ru##.policy-notification
+    → |b-kontur.ru##.policy-notification
+    → |kontur.ru##.policy-notification
 ✅ 多域名拆分: delo-vcusa.ru,izpn.ru##.policy-popup
     → |delo-vcusa.ru##.policy-popup
     → |izpn.ru##.policy-popup
