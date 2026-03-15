@@ -264,6 +264,7 @@ dashboard.razorpay.com#@##credential_picker_container
 ||eventful.com^$third-party
 ||exitintel.com^$third-party
 ||factors.ai^$third-party
+||fakeimg.pl^$third-party
 ||fark.com/js/$third-party
 ||feedaty.com^$third-party
 ||feedbackify.com/f.js$third-party
@@ -5163,6 +5164,7 @@ weather.com##.Footer--socialContainer--3z8CW
 thedailybeast.com##.Footer__socials
 i24news.tv##.Footer_social-network-links-wrapper__xN9Go
 earth.com##.Footer_social_bar__E9yGn
+ndtv.com##.FtrScl
 indianexpress.com##.G-folow-button
 meduza.io##.GeneralMaterial-module-share
 newsweek.com##.GooglePreferredSourceBanner_container__4kWoo
@@ -5195,6 +5197,7 @@ rbth.com##.Popup-telegram
 sfstandard.com##.PopupSharer_container__Nhcrt
 aerospaceglobalnews.com##.PostMetaBar__Social
 whatcar.com##.ReviewSocialSection_reviewSocialSection__qzV0o
+ndtv.com##.SSR_drp
 abc.net.au##.ShareBanner_container__OX63I
 aleteia.org##.ShareBar_link__3gR4V
 manofmany.com##.ShareBar_listItem__6t0E_
@@ -5206,6 +5209,7 @@ hoorayteams.com##.Share_share__FQTKw
 futurework.org.au##.SiteFooter_socials
 asahi.com##.SnsName
 asahi.com##.SnsUtilityArea
+ndtv.com##.SoFl_cr-lf-r2
 amusingplanet.com##.SocialButtons
 cbssports.com##.SocialIconsBar
 |suntimes.com##.SocialLink
@@ -5267,6 +5271,7 @@ overdrive.in##.art-social-block
 khaleejtimes.com##.art-top-share-pan-nf
 wxyz.com##.article-action
 worldsoccertalk.com##.article-body__social-links
+jpost.com##.article-buttons-wrap
 chosun.com##.article-control-bar
 japan.go.jp##.article-fix-sns
 |gfinityesports.com##.article-float-buttons
@@ -5947,6 +5952,7 @@ verdictum.in##.h-anchor
 jam-news.net##.has-medium-font-size.has-background
 hard-drive.net##.hd-discord
 gmanetwork.com##.hdr-social-links
+ndtv.com##.hdr-ss
 cosmopolitan.in##.hdr_scl_icn
 jpost.com##.header-a
 airlive.net##.header-alert
@@ -6479,7 +6485,17 @@ cbsnews.com##.sharebar
 |mirror.co.uk##.sharebar-icon
 |themirror.com##.sharebar-icon
 nj.com##.sharebar-impact
-silive.com##.sharebarBetaWrapper
+|al.com##.sharebarBetaWrapper
+|cleveland.com##.sharebarBetaWrapper
+|lehighvalleylive.com##.sharebarBetaWrapper
+|masslive.com##.sharebarBetaWrapper
+|mlive.com##.sharebarBetaWrapper
+|newyorkupstate.com##.sharebarBetaWrapper
+|nj.com##.sharebarBetaWrapper
+|oregonlive.com##.sharebarBetaWrapper
+|pennlive.com##.sharebarBetaWrapper
+|silive.com##.sharebarBetaWrapper
+|syracuse.com##.sharebarBetaWrapper
 thehackernews.com##.sharebelow-twitter
 searchenginejournal.com##.sharebtn
 econotimes.com##.sharebutton
@@ -7504,6 +7520,7 @@ royalqueenseeds.*##.social-media-icons-footer
 |telemundoutah.com##.share-buttons
 |telemundowashingtondc.com##.share-buttons
 |tenor.com##.share-buttons
+|the-scientist.com##.share-buttons
 |thecradle.co##.share-buttons
 |tiempodesanjuan.com##.share-buttons
 |vlaamskijken.nl##.share-buttons
@@ -13060,6 +13077,7 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 ||privacy-api-eu1.clym.io^
 ||privacy-cdn.sixfifty.com^
 ||privacy-center.org^$third-party
+||privacy.acbj.com/fides.js
 ||privacy.advancelocal.com/fides.js
 ||privacy.clion.agency^$third-party
 ||privacy.condenastdigital.com/fides.js
@@ -13272,6 +13290,7 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 ||wukongsch.com/kaamel.js
 ||yelp.*/eu_cookie_notice?
 ||yimg.com^*/guce.js
+||zed.dev/docs/theme/c15t@2.0.0-rc.3.js
 ||hc.bonprix.hu^
 ||hc.bonprix.ro^
 ||hc.bonprix.sk^
@@ -13586,6 +13605,7 @@ enermax.com###cookice-text
 cookieshark.eu###cookie--Modal
 |peterchristian.co.uk###cookie-acceptancce
 |peterchristianoutfitters.com###cookie-acceptancce
+klook.com###cookie-agreement
 shop.naturtrend.com###cookie-appliance-popup-box
 team.repair###cookie-banner-ID
 velosure.co.uk###cookie-bar-template
@@ -17990,6 +18010,7 @@ brothers-graphics.com##.cc-window-wrapper
 |cdobrianza.org###cookie-bar
 |cesnet.cz###cookie-bar
 |chimeratool.com###cookie-bar
+|correiodoestado.com.br###cookie-bar
 |crossref.org###cookie-bar
 |einforma.co###cookie-bar
 |eshop.efko.cz###cookie-bar
@@ -19019,6 +19040,7 @@ tomtom.com##.cookie_bar
 |erau.edu###cookie-consent
 |flyscoot.com###cookie-consent
 |fontawesome.com###cookie-consent
+|foodsdictionary.co.il###cookie-consent
 |garberhof.com###cookie-consent
 |guffi.is###cookie-consent
 |heictojpg.com###cookie-consent
@@ -19027,6 +19049,7 @@ tomtom.com##.cookie_bar
 |ispot.tv###cookie-consent
 |joomshaper.com###cookie-consent
 |kranj.si###cookie-consent
+|littleworldtv.com###cookie-consent
 |lottostar.co.za###cookie-consent
 |ma-hsh.de###cookie-consent
 |mk-amur.ru###cookie-consent
@@ -22351,6 +22374,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |struer.dk##.cookie-banner
 |student.com##.cookie-banner
 |superbio.es##.cookie-banner
+|taplink.cc##.cookie-banner
 |thefly.com##.cookie-banner
 |tiktok.com##.cookie-banner
 |tudogostoso.com.br##.cookie-banner
@@ -23341,6 +23365,7 @@ newsbreak.com##.py-2.px-2
 |biriukov.dev##.cookie-container
 |cameronhouse.co.uk##.cookie-container
 |du.lv##.cookie-container
+|halalanresults.abs-cbn.com##.cookie-container
 |imou.com##.cookie-container
 |licon.com##.cookie-container
 |mbelik.com##.cookie-container
@@ -25425,6 +25450,7 @@ boomlify.com##div > div:has-text(We use cookies to improve your experience.)
 yogainternational.com##div[class^="elements__Banner-"]:has(> div > a[href$="-privacy-policy"])
 help.semmelweis.hu#?#.modal:has(h3:has-text(SÃ¼tik hasznÃ¡lata)):has(button:has-text(ElfogadÃ¡s))
 kick.com#?#.z-modal:-abp-contains(You are in control of cookies used)
+ura.news#?#.gR.t:has-text(Ð¡Ð°Ð¹Ñ Ð¸ÑÐ¿Ð¾Ð»ÑÐ·ÑÐµÑ cookie.)
 flyfi.com##.HASH_COOKIE_ALERT_GRID_ITEM_FIXED
 aainflight.com##div[class*="_toastContainer_"]:has-text(We care about your privacy)
 |codeburst.io##body > div:not([class]):not([id]) > div[class*=" "]:has(> div > div > div[class] > a[href^="https://policy.medium.com/medium-privacy-policy-"])
@@ -37552,6 +37578,7 @@ news.pts.org.tw##.cookie-flex
 sf-express.com##.cookie-policy_cookiePolicyWrapper__cwbwV
 bewildcard.com##.cookie-policy_cookiePolicy__iVL65
 hozonauto.com##.cookie-tips
+cht.com.tw##.cookie-wrap
 hkbu.edu.hk##.cookies-consent-banner
 unity.cn##.cookies-permission_2kEyTVGb
 news.tvb.com##.cookiesAgreeContainer
@@ -38232,7 +38259,6 @@ malamteam.com###MavilixCookiesBox
 calendar.2net.co.il###UseCookies
 maccabi4u.co.il###ZA_CAMP_BANNER_CONTAINER
 maccabi4u.co.il###ZA_CAMP_MOBILE_CONTAINER
-foodsdictionary.co.il###cookie-consent
 tambour.co.il###cookie-consent-acf-backdrop
 tambour.co.il###cookie-consent-acf-modal
 zinger-organic.com###cookie-consent-wrapper
@@ -38270,9 +38296,13 @@ xphone.co.il##.elementor-element-7f094b47
 yad-mordechai.co.il##.eupopup-container
 |cinema-city.co.il##.gdpr-module
 |peamitstore.co.il##.gdpr-module
+|bathandbodyworks.co.il##.idus_popup_widget_cookie_popup
+|castro.com##.idus_popup_widget_cookie_popup
 |delta.co.il##.idus_popup_widget_cookie_popup
 |fixfixfixfix.co.il##.idus_popup_widget_cookie_popup
+|lilit.co.il##.idus_popup_widget_cookie_popup
 |panta-rei.com##.idus_popup_widget_cookie_popup
+|urbanica-wh.com##.idus_popup_widget_cookie_popup
 ksp.co.il##.ltr-1075xo6
 mdyo.co.il##.mdyo-cookie
 diners.co.il##.message-container
@@ -39852,6 +39882,7 @@ culture.ru##.notify-bar
 |news-komi.ru##.notifycation__wrap
 |pg11.ru##.notifycation_notifycation__BeRRP
 |pg12.ru##.notifycation_notifycation__BeRRP
+|prochepetsk.ru##.notifycation_notifycation__BeRRP
 |progorod58.ru##.notifycation_notifycation__BeRRP
 |progorod62.ru##.notifycation_notifycation__BeRRP
 |progoroduhta.ru##.notifycation_notifycation__BeRRP
@@ -42667,6 +42698,7 @@ aulart.com###footer-aulart-newsletter
 agfundernews.com###footer-cta-wrapper
 nomadicmatt.com###footer-email
 statnews.com###footer-email-form
+the-scientist.com###footer-hubspot-form
 engadget.com###footer-newsletter
 independent.co.uk###footerPrompt
 grit.com###footer_signup_form
@@ -45084,6 +45116,15 @@ endocrineweb.com##.promo-inline
 themarkup.org##.promotion--newsletter
 simpurelife.com##.proof-factor-app
 slate.com##.prudie-google-form
+|cricket365.com##.ps-email-subscription
+|football365.com##.ps-email-subscription
+|golf365.com##.ps-email-subscription
+|loverugbyleague.com##.ps-email-subscription
+|planetf1.com##.ps-email-subscription
+|planetfootball.com##.ps-email-subscription
+|planetrugby.com##.ps-email-subscription
+|teamtalk.com##.ps-email-subscription
+|tennis365.com##.ps-email-subscription
 |campblessing.org##.pum-overlay
 |canaleenergia.com##.pum-overlay
 |celebrityaccess.com##.pum-overlay
@@ -47386,6 +47427,7 @@ tarnkappe.info###custom_html-1203
 digitalfernsehen.de###custom_html-3
 |gamepro.de###footer-bold
 |gamestar.de###footer-bold
+allround-pc.com###global-newsletter
 kress.de###kress-express
 clever-tanken.de###newsletter-container
 zeit.de###newsletter-signup-ki

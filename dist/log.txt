@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-03-14T22:08:34.639Z
+🚫 去掉注释行: ! Last modified: 2026-03-15T00:42:23.237Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v1.0.38
 🚫 去掉注释行: !
@@ -825,7 +825,6 @@
 🚫 去掉注释行: ! Dutch
 🚫 去掉注释行: ! Georgian
 🚫 去掉注释行: ! Greek
-🚫 去掉注释行: ! Hebrew
 🚫 去掉注释行: ! Indonesian
 🚫 去掉注释行: ! Korean
 🚫 去掉注释行: ! Latvian
@@ -1577,10 +1576,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 100235
-🚫 去掉注释行: ! Checksum: J9NtIJTZWqm3y+wEhgtpZw
-🚫 去掉注释行: ! Version: 202603142341
+🚫 去掉注释行: ! Checksum: 2ho5ngvkAaKeo+zIcdZxsg
+🚫 去掉注释行: ! Version: 202603150141
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 14 Mar 2026 23:41 UTC
+🚫 去掉注释行: ! Last modified: 15 Mar 2026 01:41 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -14953,6 +14952,7 @@
 🚫 去掉注释行: ! dailypost.co.uk/dailystar.co.uk  https://github.com/easylist/easylist/issues/9657
 🚫 去掉注释行: ##.click-track.partner
 🚫 去掉注释行: ##.click-track.shop-window-affiliate
+🚫 去掉注释行: ##.click-track.teaser
 🚫 去掉注释行: ! local12.com/bakersfieldnow.com/katv.com
 🚫 去掉注释行: ##.index-module_adBeforeContent__UYZT
 🚫 去掉注释行: ##.interstory_first_mobile
@@ -16141,11 +16141,12 @@
 ✅ 多域名拆分: dailyregister.com,dailyrepublicannews.com###billBoardATF
     → |dailyregister.com###billBoardATF
     → |dailyrepublicannews.com###billBoardATF
-✅ 多域名拆分: cricketnetwork.co.uk,f1network.net,pop.inquirer.net,rugbynetwork.net,thefootballnetwork.net###billboard
+✅ 多域名拆分: cricketnetwork.co.uk,f1network.net,pop.inquirer.net,rugbynetwork.net,the-scientist.com,thefootballnetwork.net###billboard
     → |cricketnetwork.co.uk###billboard
     → |f1network.net###billboard
     → |pop.inquirer.net###billboard
     → |rugbynetwork.net###billboard
+    → |the-scientist.com###billboard
     → |thefootballnetwork.net###billboard
 ✅ 多域名拆分: canberratimes.com.au,examiner.com.au,theland.com.au,whoscored.com###billboard-container
     → |canberratimes.com.au###billboard-container
@@ -16728,11 +16729,12 @@
 ✅ 多域名拆分: independent.co.uk,the-independent.com###top-banner-wrapper
     → |independent.co.uk###top-banner-wrapper
     → |the-independent.com###top-banner-wrapper
-✅ 多域名拆分: austinchronicle.com,carmag.co.za,fleetnews.co.uk,shawlocal.com,thegazette.com,vodacomsoccer.com###top-leaderboard
+✅ 多域名拆分: austinchronicle.com,carmag.co.za,fleetnews.co.uk,shawlocal.com,the-scientist.com,thegazette.com,vodacomsoccer.com###top-leaderboard
     → |austinchronicle.com###top-leaderboard
     → |carmag.co.za###top-leaderboard
     → |fleetnews.co.uk###top-leaderboard
     → |shawlocal.com###top-leaderboard
+    → |the-scientist.com###top-leaderboard
     → |thegazette.com###top-leaderboard
     → |vodacomsoccer.com###top-leaderboard
 ✅ 多域名拆分: gogetaroomie.com,snafu-comics.com###top-space
@@ -16949,7 +16951,7 @@
 ✅ 多域名拆分: britannica.com,merriam-webster.com##.abl
     → |britannica.com##.abl
     → |merriam-webster.com##.abl
-✅ 多域名拆分: 11alive.com,12news.com,12newsnow.com,13newsnow.com,13wmaz.com,5newsonline.com,9news.com,abc10.com,abovethelaw.com,adelaidenow.com.au,adtmag.com,aero-news.net,airportia.com,aiscoop.com,americanprofile.com,ans.org,appleinsider.com,arazu.io,arstechnica.com,as.com,asianwiki.com,askmen.com,associationsnow.com,attheraces.com,autoevolution.com,autoguide.com,automation.com,autotrader.com.au,bab.la,barchart.com,bdnews24.com,beinsports.com,biometricupdate.com,boats.com,bobvila.com,booksourcemagazine.com,bostonglobe.com,bradleybraves.com,briskoda.net,btimesonline.com,businessdailyafrica.com,businessinsider.com,businesstech.co.za,businessworld.in,c21media.net,carcomplaints.com,cbc.ca,cbs19.tv,celebdigs.com,celebified.com,ch-aviation.com,chargedevs.com,chemistryworld.com,cknxnewstoday.ca,cnn.com,colourlovers.com,computerhope.com,couriermail.com.au,cracked.com,createtv.com,crn.com,crossmap.com,crosswalk.com,cyberscoop.com,dailycaller.com,dailylobo.com,dailyparent.com,dailytarheel.com,dcist.com,dealnews.com,defenseone.com,defensescoop.com,discordbotlist.com,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.in,downdetector.sg,dpreview.com,driving.ca,dynamicwallpaper.club,earlygame.com,edmontonjournal.com,edscoop.com,elpais.com,emoji.gg,eurosport.com,excellence-mag.com,familydoctor.org,fanpop.com,fedscoop.com,femalefirst.co.uk,filehippo.com,filerox.com,finance.yahoo.com,firstcoastnews.com,flightglobal.com,flowermanga.net,fox6now.com,foxbusiness.com,foxnews.com,funeraltimes.com,gamepressure.com,gamesadshopper.com,gayvegas.com,geelongadvertiser.com.au,gmanetwork.com,go.com,godtube.com,golfweather.com,greasyfork.org,gtplanet.net,heraldnet.com,heraldsun.com.au,hodinkee.com,homebeautiful.com.au,hoodline.com,huckmag.com,indiatvnews.com,infobyip.com,inhabitat.com,interfax.com.ua,joc.com,jscompress.com,kagstv.com,kanogoma.com,kare11.com,kcentv.com,kens5.com,kgw.com,khou.com,kiiitv.com,king5.com,kpopstarz.com,krem.com,ksdk.com,ktvb.com,kvue.com,lagom.nl,leaderpost.com,leaf.tv,letsgodigital.org,lifezette.com,liga.net,lonestarlive.com,looktothestars.org,m.famousfix.com,mangarockteam.com,marieclaire.com.au,marketwatch.com,maxpreps.com,mcpmag.com,mlb.com,modernretail.co,monkeytype.com,motherjones.com,mprnews.org,mybroadband.co.za,myfox8.com,myfoxzone.com,mygaming.co.za,myrecipes.com,namibtimes.net,nejm.org,neowin.net,newbeauty.com,news.com.au,news.sky.com,newscentermaine.com,newsday.com,newstatesman.com,nowtolove.co.nz,nowtolove.com.au,nymag.com,nytimes.com,nzherald.co.nz,patch.com,patheos.com,pcgamebenchmark.com,pcgamesn.com,petfinder.com,pharmaceutical-journal.com,picmix.com,planelogger.com,playsnake.org,playtictactoe.org,pokertube.com,politico.com,politico.eu,powernationtv.com,pressgazette.co.uk,proremodeler.com,quackit.com,ranker.com,ratemds.com,ratemyprofessors.com,redmondmag.com,refinery29.com,revolver.news,roadsideamerica.com,salisburypost.com,scholarlykitchen.sspnet.org,scworld.com,seattletimes.com,segmentnext.com,silive.com,simpledesktops.com,slippedisc.com,sltrib.com,smartcompany.com.au,softpedia.com,soranews24.com,spryliving.com,statenews.com,statescoop.com,statscrop.com,straight.com,streetinsider.com,stv.tv,the-decoder.com,thecut.com,thedigitalfix.com,thedp.com,theeastafrican.co.ke,thefader.com,thefirearmblog.com,thegrocer.co.uk,themercury.com.au,theringreport.com,thestarphoenix.com,thv11.com,time.com,timeshighereducation.com,tntsports.co.uk,today.com,toonado.com,townhall.com,tracker.gg,tribalfootball.com,triblive.com,tripadvisor.*,tweaktown.com,ultimatespecs.com,ultiworld.com,untappedcities.com,uptodown.com,usmagazine.com,usnews.com,vancouversun.com,vogue.in,vulture.com,wamu.org,washingtonexaminer.com,washingtontimes.com,watzatsong.com,wbir.com,wcnc.com,wdhafm.com,weatheronline.co.uk,webestools.com,webmd.com,weeklytimesnow.com.au,wfaa.com,wfmynews2.com,wgntv.com,wgrz.com,whas11.com,who.com.au,windsorstar.com,winnipegfreepress.com,wkyc.com,wltx.com,wnep.com,worthplaying.com,wqad.com,wral.com,wrif.com,wtsp.com,wusa9.com,wwltv.com,wyff4.com,wzzm13.com,x17online.com,xatakaon.com,yorkpress.co.uk##.ad
+✅ 多域名拆分: 11alive.com,12news.com,12newsnow.com,13newsnow.com,13wmaz.com,5newsonline.com,9news.com,abc10.com,abovethelaw.com,adelaidenow.com.au,adtmag.com,aero-news.net,airportia.com,aiscoop.com,al.com,americanprofile.com,ans.org,appleinsider.com,arazu.io,arstechnica.com,as.com,asianwiki.com,askmen.com,associationsnow.com,attheraces.com,autoevolution.com,autoguide.com,automation.com,autotrader.com.au,bab.la,barchart.com,bdnews24.com,beinsports.com,biometricupdate.com,boats.com,bobvila.com,booksourcemagazine.com,bostonglobe.com,bradleybraves.com,briskoda.net,btimesonline.com,businessdailyafrica.com,businessinsider.com,businesstech.co.za,businessworld.in,c21media.net,carcomplaints.com,cbc.ca,cbs19.tv,celebdigs.com,celebified.com,ch-aviation.com,chargedevs.com,chemistryworld.com,cknxnewstoday.ca,cleveland.com,cnn.com,colourlovers.com,computerhope.com,couriermail.com.au,cracked.com,createtv.com,crn.com,crossmap.com,crosswalk.com,cyberscoop.com,dailycaller.com,dailylobo.com,dailyparent.com,dailytarheel.com,dcist.com,dealnews.com,defenseone.com,defensescoop.com,discordbotlist.com,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.in,downdetector.sg,dpreview.com,driving.ca,dynamicwallpaper.club,earlygame.com,edmontonjournal.com,edscoop.com,elpais.com,emoji.gg,eurosport.com,excellence-mag.com,familydoctor.org,fanpop.com,fedscoop.com,femalefirst.co.uk,filehippo.com,filerox.com,finance.yahoo.com,firstcoastnews.com,flightglobal.com,flowermanga.net,fox6now.com,foxbusiness.com,foxnews.com,funeraltimes.com,gamepressure.com,gamesadshopper.com,gayvegas.com,geelongadvertiser.com.au,gmanetwork.com,go.com,godtube.com,golfweather.com,greasyfork.org,gtplanet.net,heraldnet.com,heraldsun.com.au,hodinkee.com,homebeautiful.com.au,hoodline.com,huckmag.com,indiatvnews.com,infobyip.com,inhabitat.com,interfax.com.ua,joc.com,jscompress.com,kagstv.com,kanogoma.com,kare11.com,kcentv.com,kens5.com,kgw.com,khou.com,kiiitv.com,king5.com,kpopstarz.com,krem.com,ksdk.com,ktvb.com,kvue.com,lagom.nl,leaderpost.com,leaf.tv,lehighvalleylive.com,letsgodigital.org,lifezette.com,liga.net,lonestarlive.com,looktothestars.org,m.famousfix.com,mangarockteam.com,marieclaire.com.au,marketwatch.com,masslive.com,maxpreps.com,mcpmag.com,mlb.com,mlive.com,modernretail.co,monkeytype.com,motherjones.com,mprnews.org,mybroadband.co.za,myfox8.com,myfoxzone.com,mygaming.co.za,myrecipes.com,namibtimes.net,nejm.org,neowin.net,newbeauty.com,news.com.au,news.sky.com,newscentermaine.com,newsday.com,newstatesman.com,newyorkupstate.com,nj.com,nowtolove.co.nz,nowtolove.com.au,nymag.com,nytimes.com,nzherald.co.nz,oregonlive.com,patch.com,patheos.com,pcgamebenchmark.com,pcgamesn.com,pennlive.com,petfinder.com,pharmaceutical-journal.com,picmix.com,planelogger.com,playsnake.org,playtictactoe.org,pokertube.com,politico.com,politico.eu,powernationtv.com,pressgazette.co.uk,proremodeler.com,quackit.com,ranker.com,ratemds.com,ratemyprofessors.com,redmondmag.com,refinery29.com,revolver.news,roadsideamerica.com,salisburypost.com,scholarlykitchen.sspnet.org,scworld.com,seattletimes.com,segmentnext.com,silive.com,simpledesktops.com,slippedisc.com,sltrib.com,smartcompany.com.au,softpedia.com,soranews24.com,spryliving.com,statenews.com,statescoop.com,statscrop.com,straight.com,streetinsider.com,stv.tv,syracuse.com,the-decoder.com,thecut.com,thedigitalfix.com,thedp.com,theeastafrican.co.ke,thefader.com,thefirearmblog.com,thegrocer.co.uk,themercury.com.au,theringreport.com,thestarphoenix.com,thv11.com,time.com,timeshighereducation.com,tntsports.co.uk,today.com,toonado.com,townhall.com,tracker.gg,tribalfootball.com,triblive.com,tripadvisor.*,tweaktown.com,ultimatespecs.com,ultiworld.com,untappedcities.com,uptodown.com,usmagazine.com,usnews.com,vancouversun.com,vogue.in,vulture.com,wamu.org,washingtonexaminer.com,washingtontimes.com,watzatsong.com,wbir.com,wcnc.com,wdhafm.com,weatheronline.co.uk,webestools.com,webmd.com,weeklytimesnow.com.au,wfaa.com,wfmynews2.com,wgntv.com,wgrz.com,whas11.com,who.com.au,windsorstar.com,winnipegfreepress.com,wkyc.com,wltx.com,wnep.com,worthplaying.com,wqad.com,wral.com,wrif.com,wtsp.com,wusa9.com,wwltv.com,wyff4.com,wzzm13.com,x17online.com,xatakaon.com,yorkpress.co.uk##.ad
     → |11alive.com##.ad
     → |12news.com##.ad
     → |12newsnow.com##.ad
@@ -16964,6 +16966,7 @@
     → |aero-news.net##.ad
     → |airportia.com##.ad
     → |aiscoop.com##.ad
+    → |al.com##.ad
     → |americanprofile.com##.ad
     → |ans.org##.ad
     → |appleinsider.com##.ad
@@ -17004,6 +17007,7 @@
     → |chargedevs.com##.ad
     → |chemistryworld.com##.ad
     → |cknxnewstoday.ca##.ad
+    → |cleveland.com##.ad
     → |cnn.com##.ad
     → |colourlovers.com##.ad
     → |computerhope.com##.ad
@@ -17092,6 +17096,7 @@
     → |lagom.nl##.ad
     → |leaderpost.com##.ad
     → |leaf.tv##.ad
+    → |lehighvalleylive.com##.ad
     → |letsgodigital.org##.ad
     → |lifezette.com##.ad
     → |liga.net##.ad
@@ -17101,9 +17106,11 @@
     → |mangarockteam.com##.ad
     → |marieclaire.com.au##.ad
     → |marketwatch.com##.ad
+    → |masslive.com##.ad
     → |maxpreps.com##.ad
     → |mcpmag.com##.ad
     → |mlb.com##.ad
+    → |mlive.com##.ad
     → |modernretail.co##.ad
     → |monkeytype.com##.ad
     → |motherjones.com##.ad
@@ -17122,15 +17129,19 @@
     → |newscentermaine.com##.ad
     → |newsday.com##.ad
     → |newstatesman.com##.ad
+    → |newyorkupstate.com##.ad
+    → |nj.com##.ad
     → |nowtolove.co.nz##.ad
     → |nowtolove.com.au##.ad
     → |nymag.com##.ad
     → |nytimes.com##.ad
     → |nzherald.co.nz##.ad
+    → |oregonlive.com##.ad
     → |patch.com##.ad
     → |patheos.com##.ad
     → |pcgamebenchmark.com##.ad
     → |pcgamesn.com##.ad
+    → |pennlive.com##.ad
     → |petfinder.com##.ad
     → |pharmaceutical-journal.com##.ad
     → |picmix.com##.ad
@@ -17170,6 +17181,7 @@
     → |straight.com##.ad
     → |streetinsider.com##.ad
     → |stv.tv##.ad
+    → |syracuse.com##.ad
     → |the-decoder.com##.ad
     → |thecut.com##.ad
     → |thedigitalfix.com##.ad
@@ -18107,6 +18119,9 @@
     → |thehour.com##.ar16-9
     → |timesunion.com##.ar16-9
     → |weekand.com##.ar16-9
+✅ 多域名拆分: dailycaller.com,tuasaude.com##.ar82zL-ad-container
+    → |dailycaller.com##.ar82zL-ad-container
+    → |tuasaude.com##.ar82zL-ad-container
 ✅ 多域名拆分: ajc.com,bostonglobe.com,daytondailynews.com,journal-news.com,springfieldnewssun.com##.arc_ad
     → |ajc.com##.arc_ad
     → |bostonglobe.com##.arc_ad
@@ -20054,10 +20069,15 @@
     → |twitter.com##.promotion
     → |wral.com##.promotion
     → |x.com##.promotion
-✅ 多域名拆分: football365.com,planetf1.com,planetrugby.com,tennis365.com##.ps-block-a
+✅ 多域名拆分: cricket365.com,football365.com,golf365.com,loverugbyleague.com,planetf1.com,planetfootball.com,planetrugby.com,teamtalk.com,tennis365.com##.ps-block-a
+    → |cricket365.com##.ps-block-a
     → |football365.com##.ps-block-a
+    → |golf365.com##.ps-block-a
+    → |loverugbyleague.com##.ps-block-a
     → |planetf1.com##.ps-block-a
+    → |planetfootball.com##.ps-block-a
     → |planetrugby.com##.ps-block-a
+    → |teamtalk.com##.ps-block-a
     → |tennis365.com##.ps-block-a
 ✅ 多域名拆分: 1980-games.com,coleka.com,gameslol.net,theportugalnews.com,tolonews.com##.pub
     → |1980-games.com##.pub
@@ -24764,10 +24784,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: BU/LUBZiGl7XHqpWoHsu9g
-🚫 去掉注释行: ! Version: 202603142341
+🚫 去掉注释行: ! Checksum: DJ90szFoPR7VVCqJ9dY54w
+🚫 去掉注释行: ! Version: 202603150141
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 14 Mar 2026 23:41 UTC
+🚫 去掉注释行: ! Last modified: 15 Mar 2026 01:41 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29342,10 +29362,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: yvLp1rKHMoRK9t5e8L7z+g
-🚫 去掉注释行: ! Version: 202603142341
+🚫 去掉注释行: ! Checksum: eYQLMCvxUvvdNGyXcAtQgQ
+🚫 去掉注释行: ! Version: 202603150141
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 14 Mar 2026 23:41 UTC
+🚫 去掉注释行: ! Last modified: 15 Mar 2026 01:41 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -30053,11 +30073,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202603142346
+🚫 去掉注释行: ! Version: 202603150143
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 14 Mar 2026 23:46 UTC
+🚫 去掉注释行: ! Last modified: 15 Mar 2026 01:43 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 9a395859f78b613c9f111add94113290ded6de79
+🚫 去掉注释行: ! Commit: cbd70deb1f7f8367fff3401c3ff49a5d220845e1
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -43433,6 +43453,7 @@
 🚫 去掉注释行: ! dailypost.co.uk/dailystar.co.uk  https://github.com/easylist/easylist/issues/9657
 🚫 去掉注释行: ##.click-track.partner
 🚫 去掉注释行: ##.click-track.shop-window-affiliate
+🚫 去掉注释行: ##.click-track.teaser
 🚫 去掉注释行: ! local12.com/bakersfieldnow.com/katv.com
 🚫 去掉注释行: ##.index-module_adBeforeContent__UYZT
 🚫 去掉注释行: ##.interstory_first_mobile
@@ -44621,11 +44642,12 @@
 ✅ 多域名拆分: dailyregister.com,dailyrepublicannews.com###billBoardATF
     → |dailyregister.com###billBoardATF
     → |dailyrepublicannews.com###billBoardATF
-✅ 多域名拆分: cricketnetwork.co.uk,f1network.net,pop.inquirer.net,rugbynetwork.net,thefootballnetwork.net###billboard
+✅ 多域名拆分: cricketnetwork.co.uk,f1network.net,pop.inquirer.net,rugbynetwork.net,the-scientist.com,thefootballnetwork.net###billboard
     → |cricketnetwork.co.uk###billboard
     → |f1network.net###billboard
     → |pop.inquirer.net###billboard
     → |rugbynetwork.net###billboard
+    → |the-scientist.com###billboard
     → |thefootballnetwork.net###billboard
 ✅ 多域名拆分: canberratimes.com.au,examiner.com.au,theland.com.au,whoscored.com###billboard-container
     → |canberratimes.com.au###billboard-container
@@ -45208,11 +45230,12 @@
 ✅ 多域名拆分: independent.co.uk,the-independent.com###top-banner-wrapper
     → |independent.co.uk###top-banner-wrapper
     → |the-independent.com###top-banner-wrapper
-✅ 多域名拆分: austinchronicle.com,carmag.co.za,fleetnews.co.uk,shawlocal.com,thegazette.com,vodacomsoccer.com###top-leaderboard
+✅ 多域名拆分: austinchronicle.com,carmag.co.za,fleetnews.co.uk,shawlocal.com,the-scientist.com,thegazette.com,vodacomsoccer.com###top-leaderboard
     → |austinchronicle.com###top-leaderboard
     → |carmag.co.za###top-leaderboard
     → |fleetnews.co.uk###top-leaderboard
     → |shawlocal.com###top-leaderboard
+    → |the-scientist.com###top-leaderboard
     → |thegazette.com###top-leaderboard
     → |vodacomsoccer.com###top-leaderboard
 ✅ 多域名拆分: gogetaroomie.com,snafu-comics.com###top-space
@@ -45429,7 +45452,7 @@
 ✅ 多域名拆分: britannica.com,merriam-webster.com##.abl
     → |britannica.com##.abl
     → |merriam-webster.com##.abl
-✅ 多域名拆分: 11alive.com,12news.com,12newsnow.com,13newsnow.com,13wmaz.com,5newsonline.com,9news.com,abc10.com,abovethelaw.com,adelaidenow.com.au,adtmag.com,aero-news.net,airportia.com,aiscoop.com,americanprofile.com,ans.org,appleinsider.com,arazu.io,arstechnica.com,as.com,asianwiki.com,askmen.com,associationsnow.com,attheraces.com,autoevolution.com,autoguide.com,automation.com,autotrader.com.au,bab.la,barchart.com,bdnews24.com,beinsports.com,biometricupdate.com,boats.com,bobvila.com,booksourcemagazine.com,bostonglobe.com,bradleybraves.com,briskoda.net,btimesonline.com,businessdailyafrica.com,businessinsider.com,businesstech.co.za,businessworld.in,c21media.net,carcomplaints.com,cbc.ca,cbs19.tv,celebdigs.com,celebified.com,ch-aviation.com,chargedevs.com,chemistryworld.com,cknxnewstoday.ca,cnn.com,colourlovers.com,computerhope.com,couriermail.com.au,cracked.com,createtv.com,crn.com,crossmap.com,crosswalk.com,cyberscoop.com,dailycaller.com,dailylobo.com,dailyparent.com,dailytarheel.com,dcist.com,dealnews.com,defenseone.com,defensescoop.com,discordbotlist.com,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.in,downdetector.sg,dpreview.com,driving.ca,dynamicwallpaper.club,earlygame.com,edmontonjournal.com,edscoop.com,elpais.com,emoji.gg,eurosport.com,excellence-mag.com,familydoctor.org,fanpop.com,fedscoop.com,femalefirst.co.uk,filehippo.com,filerox.com,finance.yahoo.com,firstcoastnews.com,flightglobal.com,flowermanga.net,fox6now.com,foxbusiness.com,foxnews.com,funeraltimes.com,gamepressure.com,gamesadshopper.com,gayvegas.com,geelongadvertiser.com.au,gmanetwork.com,go.com,godtube.com,golfweather.com,greasyfork.org,gtplanet.net,heraldnet.com,heraldsun.com.au,hodinkee.com,homebeautiful.com.au,hoodline.com,huckmag.com,indiatvnews.com,infobyip.com,inhabitat.com,interfax.com.ua,joc.com,jscompress.com,kagstv.com,kanogoma.com,kare11.com,kcentv.com,kens5.com,kgw.com,khou.com,kiiitv.com,king5.com,kpopstarz.com,krem.com,ksdk.com,ktvb.com,kvue.com,lagom.nl,leaderpost.com,leaf.tv,letsgodigital.org,lifezette.com,liga.net,lonestarlive.com,looktothestars.org,m.famousfix.com,mangarockteam.com,marieclaire.com.au,marketwatch.com,maxpreps.com,mcpmag.com,mlb.com,modernretail.co,monkeytype.com,motherjones.com,mprnews.org,mybroadband.co.za,myfox8.com,myfoxzone.com,mygaming.co.za,myrecipes.com,namibtimes.net,nejm.org,neowin.net,newbeauty.com,news.com.au,news.sky.com,newscentermaine.com,newsday.com,newstatesman.com,nowtolove.co.nz,nowtolove.com.au,nymag.com,nytimes.com,nzherald.co.nz,patch.com,patheos.com,pcgamebenchmark.com,pcgamesn.com,petfinder.com,pharmaceutical-journal.com,picmix.com,planelogger.com,playsnake.org,playtictactoe.org,pokertube.com,politico.com,politico.eu,powernationtv.com,pressgazette.co.uk,proremodeler.com,quackit.com,ranker.com,ratemds.com,ratemyprofessors.com,redmondmag.com,refinery29.com,revolver.news,roadsideamerica.com,salisburypost.com,scholarlykitchen.sspnet.org,scworld.com,seattletimes.com,segmentnext.com,silive.com,simpledesktops.com,slippedisc.com,sltrib.com,smartcompany.com.au,softpedia.com,soranews24.com,spryliving.com,statenews.com,statescoop.com,statscrop.com,straight.com,streetinsider.com,stv.tv,the-decoder.com,thecut.com,thedigitalfix.com,thedp.com,theeastafrican.co.ke,thefader.com,thefirearmblog.com,thegrocer.co.uk,themercury.com.au,theringreport.com,thestarphoenix.com,thv11.com,time.com,timeshighereducation.com,tntsports.co.uk,today.com,toonado.com,townhall.com,tracker.gg,tribalfootball.com,triblive.com,tripadvisor.*,tweaktown.com,ultimatespecs.com,ultiworld.com,untappedcities.com,uptodown.com,usmagazine.com,usnews.com,vancouversun.com,vogue.in,vulture.com,wamu.org,washingtonexaminer.com,washingtontimes.com,watzatsong.com,wbir.com,wcnc.com,wdhafm.com,weatheronline.co.uk,webestools.com,webmd.com,weeklytimesnow.com.au,wfaa.com,wfmynews2.com,wgntv.com,wgrz.com,whas11.com,who.com.au,windsorstar.com,winnipegfreepress.com,wkyc.com,wltx.com,wnep.com,worthplaying.com,wqad.com,wral.com,wrif.com,wtsp.com,wusa9.com,wwltv.com,wyff4.com,wzzm13.com,x17online.com,xatakaon.com,yorkpress.co.uk##.ad
+✅ 多域名拆分: 11alive.com,12news.com,12newsnow.com,13newsnow.com,13wmaz.com,5newsonline.com,9news.com,abc10.com,abovethelaw.com,adelaidenow.com.au,adtmag.com,aero-news.net,airportia.com,aiscoop.com,al.com,americanprofile.com,ans.org,appleinsider.com,arazu.io,arstechnica.com,as.com,asianwiki.com,askmen.com,associationsnow.com,attheraces.com,autoevolution.com,autoguide.com,automation.com,autotrader.com.au,bab.la,barchart.com,bdnews24.com,beinsports.com,biometricupdate.com,boats.com,bobvila.com,booksourcemagazine.com,bostonglobe.com,bradleybraves.com,briskoda.net,btimesonline.com,businessdailyafrica.com,businessinsider.com,businesstech.co.za,businessworld.in,c21media.net,carcomplaints.com,cbc.ca,cbs19.tv,celebdigs.com,celebified.com,ch-aviation.com,chargedevs.com,chemistryworld.com,cknxnewstoday.ca,cleveland.com,cnn.com,colourlovers.com,computerhope.com,couriermail.com.au,cracked.com,createtv.com,crn.com,crossmap.com,crosswalk.com,cyberscoop.com,dailycaller.com,dailylobo.com,dailyparent.com,dailytarheel.com,dcist.com,dealnews.com,defenseone.com,defensescoop.com,discordbotlist.com,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.in,downdetector.sg,dpreview.com,driving.ca,dynamicwallpaper.club,earlygame.com,edmontonjournal.com,edscoop.com,elpais.com,emoji.gg,eurosport.com,excellence-mag.com,familydoctor.org,fanpop.com,fedscoop.com,femalefirst.co.uk,filehippo.com,filerox.com,finance.yahoo.com,firstcoastnews.com,flightglobal.com,flowermanga.net,fox6now.com,foxbusiness.com,foxnews.com,funeraltimes.com,gamepressure.com,gamesadshopper.com,gayvegas.com,geelongadvertiser.com.au,gmanetwork.com,go.com,godtube.com,golfweather.com,greasyfork.org,gtplanet.net,heraldnet.com,heraldsun.com.au,hodinkee.com,homebeautiful.com.au,hoodline.com,huckmag.com,indiatvnews.com,infobyip.com,inhabitat.com,interfax.com.ua,joc.com,jscompress.com,kagstv.com,kanogoma.com,kare11.com,kcentv.com,kens5.com,kgw.com,khou.com,kiiitv.com,king5.com,kpopstarz.com,krem.com,ksdk.com,ktvb.com,kvue.com,lagom.nl,leaderpost.com,leaf.tv,lehighvalleylive.com,letsgodigital.org,lifezette.com,liga.net,lonestarlive.com,looktothestars.org,m.famousfix.com,mangarockteam.com,marieclaire.com.au,marketwatch.com,masslive.com,maxpreps.com,mcpmag.com,mlb.com,mlive.com,modernretail.co,monkeytype.com,motherjones.com,mprnews.org,mybroadband.co.za,myfox8.com,myfoxzone.com,mygaming.co.za,myrecipes.com,namibtimes.net,nejm.org,neowin.net,newbeauty.com,news.com.au,news.sky.com,newscentermaine.com,newsday.com,newstatesman.com,newyorkupstate.com,nj.com,nowtolove.co.nz,nowtolove.com.au,nymag.com,nytimes.com,nzherald.co.nz,oregonlive.com,patch.com,patheos.com,pcgamebenchmark.com,pcgamesn.com,pennlive.com,petfinder.com,pharmaceutical-journal.com,picmix.com,planelogger.com,playsnake.org,playtictactoe.org,pokertube.com,politico.com,politico.eu,powernationtv.com,pressgazette.co.uk,proremodeler.com,quackit.com,ranker.com,ratemds.com,ratemyprofessors.com,redmondmag.com,refinery29.com,revolver.news,roadsideamerica.com,salisburypost.com,scholarlykitchen.sspnet.org,scworld.com,seattletimes.com,segmentnext.com,silive.com,simpledesktops.com,slippedisc.com,sltrib.com,smartcompany.com.au,softpedia.com,soranews24.com,spryliving.com,statenews.com,statescoop.com,statscrop.com,straight.com,streetinsider.com,stv.tv,syracuse.com,the-decoder.com,thecut.com,thedigitalfix.com,thedp.com,theeastafrican.co.ke,thefader.com,thefirearmblog.com,thegrocer.co.uk,themercury.com.au,theringreport.com,thestarphoenix.com,thv11.com,time.com,timeshighereducation.com,tntsports.co.uk,today.com,toonado.com,townhall.com,tracker.gg,tribalfootball.com,triblive.com,tripadvisor.*,tweaktown.com,ultimatespecs.com,ultiworld.com,untappedcities.com,uptodown.com,usmagazine.com,usnews.com,vancouversun.com,vogue.in,vulture.com,wamu.org,washingtonexaminer.com,washingtontimes.com,watzatsong.com,wbir.com,wcnc.com,wdhafm.com,weatheronline.co.uk,webestools.com,webmd.com,weeklytimesnow.com.au,wfaa.com,wfmynews2.com,wgntv.com,wgrz.com,whas11.com,who.com.au,windsorstar.com,winnipegfreepress.com,wkyc.com,wltx.com,wnep.com,worthplaying.com,wqad.com,wral.com,wrif.com,wtsp.com,wusa9.com,wwltv.com,wyff4.com,wzzm13.com,x17online.com,xatakaon.com,yorkpress.co.uk##.ad
     → |11alive.com##.ad
     → |12news.com##.ad
     → |12newsnow.com##.ad
@@ -45444,6 +45467,7 @@
     → |aero-news.net##.ad
     → |airportia.com##.ad
     → |aiscoop.com##.ad
+    → |al.com##.ad
     → |americanprofile.com##.ad
     → |ans.org##.ad
     → |appleinsider.com##.ad
@@ -45484,6 +45508,7 @@
     → |chargedevs.com##.ad
     → |chemistryworld.com##.ad
     → |cknxnewstoday.ca##.ad
+    → |cleveland.com##.ad
     → |cnn.com##.ad
     → |colourlovers.com##.ad
     → |computerhope.com##.ad
@@ -45572,6 +45597,7 @@
     → |lagom.nl##.ad
     → |leaderpost.com##.ad
     → |leaf.tv##.ad
+    → |lehighvalleylive.com##.ad
     → |letsgodigital.org##.ad
     → |lifezette.com##.ad
     → |liga.net##.ad
@@ -45581,9 +45607,11 @@
     → |mangarockteam.com##.ad
     → |marieclaire.com.au##.ad
     → |marketwatch.com##.ad
+    → |masslive.com##.ad
     → |maxpreps.com##.ad
     → |mcpmag.com##.ad
     → |mlb.com##.ad
+    → |mlive.com##.ad
     → |modernretail.co##.ad
     → |monkeytype.com##.ad
     → |motherjones.com##.ad
@@ -45602,15 +45630,19 @@
     → |newscentermaine.com##.ad
     → |newsday.com##.ad
     → |newstatesman.com##.ad
+    → |newyorkupstate.com##.ad
+    → |nj.com##.ad
     → |nowtolove.co.nz##.ad
     → |nowtolove.com.au##.ad
     → |nymag.com##.ad
     → |nytimes.com##.ad
     → |nzherald.co.nz##.ad
+    → |oregonlive.com##.ad
     → |patch.com##.ad
     → |patheos.com##.ad
     → |pcgamebenchmark.com##.ad
     → |pcgamesn.com##.ad
+    → |pennlive.com##.ad
     → |petfinder.com##.ad
     → |pharmaceutical-journal.com##.ad
     → |picmix.com##.ad
@@ -45650,6 +45682,7 @@
     → |straight.com##.ad
     → |streetinsider.com##.ad
     → |stv.tv##.ad
+    → |syracuse.com##.ad
     → |the-decoder.com##.ad
     → |thecut.com##.ad
     → |thedigitalfix.com##.ad
@@ -46587,6 +46620,9 @@
     → |thehour.com##.ar16-9
     → |timesunion.com##.ar16-9
     → |weekand.com##.ar16-9
+✅ 多域名拆分: dailycaller.com,tuasaude.com##.ar82zL-ad-container
+    → |dailycaller.com##.ar82zL-ad-container
+    → |tuasaude.com##.ar82zL-ad-container
 ✅ 多域名拆分: ajc.com,bostonglobe.com,daytondailynews.com,journal-news.com,springfieldnewssun.com##.arc_ad
     → |ajc.com##.arc_ad
     → |bostonglobe.com##.arc_ad
@@ -48534,10 +48570,15 @@
     → |twitter.com##.promotion
     → |wral.com##.promotion
     → |x.com##.promotion
-✅ 多域名拆分: football365.com,planetf1.com,planetrugby.com,tennis365.com##.ps-block-a
+✅ 多域名拆分: cricket365.com,football365.com,golf365.com,loverugbyleague.com,planetf1.com,planetfootball.com,planetrugby.com,teamtalk.com,tennis365.com##.ps-block-a
+    → |cricket365.com##.ps-block-a
     → |football365.com##.ps-block-a
+    → |golf365.com##.ps-block-a
+    → |loverugbyleague.com##.ps-block-a
     → |planetf1.com##.ps-block-a
+    → |planetfootball.com##.ps-block-a
     → |planetrugby.com##.ps-block-a
+    → |teamtalk.com##.ps-block-a
     → |tennis365.com##.ps-block-a
 ✅ 多域名拆分: 1980-games.com,coleka.com,gameslol.net,theportugalnews.com,tolonews.com##.pub
     → |1980-games.com##.pub
@@ -53244,11 +53285,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202603142333
+🚫 去掉注释行: ! Version: 202603150136
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 14 Mar 2026 23:33 UTC
+🚫 去掉注释行: ! Last modified: 15 Mar 2026 01:36 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 9a395859f78b613c9f111add94113290ded6de79
+🚫 去掉注释行: ! Commit: a8f33de4c8a645ac2e54194b0a993cee77834cbd
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -63900,6 +63941,18 @@
 ✅ 多域名拆分: mirror.co.uk,themirror.com##.sharebar-icon
     → |mirror.co.uk##.sharebar-icon
     → |themirror.com##.sharebar-icon
+✅ 多域名拆分: al.com,cleveland.com,lehighvalleylive.com,masslive.com,mlive.com,newyorkupstate.com,nj.com,oregonlive.com,pennlive.com,silive.com,syracuse.com##.sharebarBetaWrapper
+    → |al.com##.sharebarBetaWrapper
+    → |cleveland.com##.sharebarBetaWrapper
+    → |lehighvalleylive.com##.sharebarBetaWrapper
+    → |masslive.com##.sharebarBetaWrapper
+    → |mlive.com##.sharebarBetaWrapper
+    → |newyorkupstate.com##.sharebarBetaWrapper
+    → |nj.com##.sharebarBetaWrapper
+    → |oregonlive.com##.sharebarBetaWrapper
+    → |pennlive.com##.sharebarBetaWrapper
+    → |silive.com##.sharebarBetaWrapper
+    → |syracuse.com##.sharebarBetaWrapper
 ✅ 多域名拆分: aftvnews.com,baptistnews.com,calmatters.org,cardinalnews.org,cartoonbrew.com,jta.org,thefrisc.com,usmagazine.com,washingtoncitypaper.com,washingtoninformer.com##.sharedaddy
     → |aftvnews.com##.sharedaddy
     → |baptistnews.com##.sharedaddy
@@ -64401,7 +64454,7 @@
     → |upcomingvinyl.com##.share-links
     → |vivercomsaude.site##.share-links
 🚫 去掉注释行: ! ! .share-buttons
-✅ 多域名拆分: accessonline.com,adressa.no,airandspaceforces.com,ambito.com,animecenterbr.com,arenaev.com,assafirarabi.com,auto-moto.com,autoplus.fr,bank.gov.ua,basic-tutorials.de,canadaradiostations.com,canli-radyo-dinle.com,criminaljusticedegreehub.com,datingscammer.info,deseret.com,design-milk.com,diariolasamericas.com,diariouno.com.ar,elancasti.com.ar,emisoras-puertorico.com,emisorascolombianas.co,exputer.com,ff-bz.com,fiets.nl,fmradiofree.com,formule1.nl,gamosaurus.com,gizmodo.com,globalconstructionreview.com,hardwaretimes.com,houstoniamag.com,infoplease.com,informe360.com,internetradio-horen.de,internetradio-schweiz.ch,investigativepost.org,letrap.com.ar,mediaplaynews.com,metro.co.uk,nachrichten.at,nbcbayarea.com,nbcboston.com,nbcchicago.com,nbcconnecticut.com,nbcdfw.com,nbclosangeles.com,nbcmiami.com,nbcnewyork.com,nbcphiladelphia.com,nbcsandiego.com,nbcwashington.com,ndmais.com.br,olhardigital.com.br,pastebin.pl,psychologies.com,psychologytoday.com,radio-ao-vivo.com,radio-australia.org,radio-belgie.be,radio-danmark.dk,radio-dominicana.com,radio-ecuador.org,radio-en-ligne.fr,radio-en-vivo.mx,radio-espana.es,radio-hk.com,radio-hrvatska.com,radio-italiane.it,radio-korea.com,radio-maroc.org,radio-nederland.nl,radio-norge.org,radio-osterreich.at,radio-philippines.com,radio-polska.pl,radio-singapore.com,radio-south-africa.co.za,radio-stations.co.nz,radio-suomi.com,radio-sveriges.se,radio-thai.com,radio-ua.com,radio-uk.co.uk,radioindia.in,radioindonesia.org,radiojapan.org,radiomalaysia.org,radios-argentinas.org,radios-bolivia.com,radios-chilenas.com,radios-guatemala.com,radios-online.pt,radios-uruguay.com,radios-venezuela.com,radiotaiwan.tw,robbreport.com,sanjuan8.com,sipiapa.org,spy.com,techzine.eu,techzine.nl,telemundo20.com,telemundo31.com,telemundo33.com,telemundo40.com,telemundo47.com,telemundo48elpaso.com,telemundo49.com,telemundo51.com,telemundo52.com,telemundo62.com,telemundoareadelabahia.com,telemundoarizona.com,telemundochicago.com,telemundodallas.com,telemundodenver.com,telemundofresno.com,telemundohouston.com,telemundolasvegas.com,telemundonuevainglaterra.com,telemundonuevomexico.com,telemundopr.com,telemundosanantonio.com,telemundoutah.com,telemundowashingtondc.com,tenor.com,thecradle.co,tiempodesanjuan.com,vlaamskijken.nl,wn.com,wordsworth.co.za##.share-buttons
+✅ 多域名拆分: accessonline.com,adressa.no,airandspaceforces.com,ambito.com,animecenterbr.com,arenaev.com,assafirarabi.com,auto-moto.com,autoplus.fr,bank.gov.ua,basic-tutorials.de,canadaradiostations.com,canli-radyo-dinle.com,criminaljusticedegreehub.com,datingscammer.info,deseret.com,design-milk.com,diariolasamericas.com,diariouno.com.ar,elancasti.com.ar,emisoras-puertorico.com,emisorascolombianas.co,exputer.com,ff-bz.com,fiets.nl,fmradiofree.com,formule1.nl,gamosaurus.com,gizmodo.com,globalconstructionreview.com,hardwaretimes.com,houstoniamag.com,infoplease.com,informe360.com,internetradio-horen.de,internetradio-schweiz.ch,investigativepost.org,letrap.com.ar,mediaplaynews.com,metro.co.uk,nachrichten.at,nbcbayarea.com,nbcboston.com,nbcchicago.com,nbcconnecticut.com,nbcdfw.com,nbclosangeles.com,nbcmiami.com,nbcnewyork.com,nbcphiladelphia.com,nbcsandiego.com,nbcwashington.com,ndmais.com.br,olhardigital.com.br,pastebin.pl,psychologies.com,psychologytoday.com,radio-ao-vivo.com,radio-australia.org,radio-belgie.be,radio-danmark.dk,radio-dominicana.com,radio-ecuador.org,radio-en-ligne.fr,radio-en-vivo.mx,radio-espana.es,radio-hk.com,radio-hrvatska.com,radio-italiane.it,radio-korea.com,radio-maroc.org,radio-nederland.nl,radio-norge.org,radio-osterreich.at,radio-philippines.com,radio-polska.pl,radio-singapore.com,radio-south-africa.co.za,radio-stations.co.nz,radio-suomi.com,radio-sveriges.se,radio-thai.com,radio-ua.com,radio-uk.co.uk,radioindia.in,radioindonesia.org,radiojapan.org,radiomalaysia.org,radios-argentinas.org,radios-bolivia.com,radios-chilenas.com,radios-guatemala.com,radios-online.pt,radios-uruguay.com,radios-venezuela.com,radiotaiwan.tw,robbreport.com,sanjuan8.com,sipiapa.org,spy.com,techzine.eu,techzine.nl,telemundo20.com,telemundo31.com,telemundo33.com,telemundo40.com,telemundo47.com,telemundo48elpaso.com,telemundo49.com,telemundo51.com,telemundo52.com,telemundo62.com,telemundoareadelabahia.com,telemundoarizona.com,telemundochicago.com,telemundodallas.com,telemundodenver.com,telemundofresno.com,telemundohouston.com,telemundolasvegas.com,telemundonuevainglaterra.com,telemundonuevomexico.com,telemundopr.com,telemundosanantonio.com,telemundoutah.com,telemundowashingtondc.com,tenor.com,the-scientist.com,thecradle.co,tiempodesanjuan.com,vlaamskijken.nl,wn.com,wordsworth.co.za##.share-buttons
     → |accessonline.com##.share-buttons
     → |adressa.no##.share-buttons
     → |airandspaceforces.com##.share-buttons
@@ -64529,6 +64582,7 @@
     → |telemundoutah.com##.share-buttons
     → |telemundowashingtondc.com##.share-buttons
     → |tenor.com##.share-buttons
+    → |the-scientist.com##.share-buttons
     → |thecradle.co##.share-buttons
     → |tiempodesanjuan.com##.share-buttons
     → |vlaamskijken.nl##.share-buttons
@@ -69335,7 +69389,7 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !生成时间: 2026-03-15 07:34:59
+🚫 去掉注释行: !生成时间: 2026-03-15 07:56:28
 🚫 去掉注释行: !有效规则数目: 1600176
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
@@ -154729,15 +154783,15 @@
 🚫 去掉注释行: ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 🚫 去掉注释行: ! Homepage: https://github.com/217heidai/adblockfilters
 🚫 去掉注释行: ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-🚫 去掉注释行: ! Version: 20260315001144
-🚫 去掉注释行: ! Last modified: 2026/03/15 00:11:44
-🚫 去掉注释行: ! Blocked domains: 5087
+🚫 去掉注释行: ! Version: 20260315084826
+🚫 去掉注释行: ! Last modified: 2026/03/15 08:48:26
+🚫 去掉注释行: ! Blocked domains: 5083
 🚫 去掉注释行: ! unBlocked domains: 16
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: wtPw7T/bAdXnreBUByKKrA
-🚫 去掉注释行: ! Version: 202603142300
+🚫 去掉注释行: ! Checksum: nJa+wa05wDi64CKExh9roQ
+🚫 去掉注释行: ! Version: 202603150100
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-03-14 23:00 UTC
+🚫 去掉注释行: ! Last modified: 2026-03-15 01:00 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -168225,6 +168279,18 @@
 ✅ 多域名拆分: mirror.co.uk,themirror.com##.sharebar-icon
     → |mirror.co.uk##.sharebar-icon
     → |themirror.com##.sharebar-icon
+✅ 多域名拆分: al.com,cleveland.com,lehighvalleylive.com,masslive.com,mlive.com,newyorkupstate.com,nj.com,oregonlive.com,pennlive.com,silive.com,syracuse.com##.sharebarBetaWrapper
+    → |al.com##.sharebarBetaWrapper
+    → |cleveland.com##.sharebarBetaWrapper
+    → |lehighvalleylive.com##.sharebarBetaWrapper
+    → |masslive.com##.sharebarBetaWrapper
+    → |mlive.com##.sharebarBetaWrapper
+    → |newyorkupstate.com##.sharebarBetaWrapper
+    → |nj.com##.sharebarBetaWrapper
+    → |oregonlive.com##.sharebarBetaWrapper
+    → |pennlive.com##.sharebarBetaWrapper
+    → |silive.com##.sharebarBetaWrapper
+    → |syracuse.com##.sharebarBetaWrapper
 ✅ 多域名拆分: aftvnews.com,baptistnews.com,calmatters.org,cardinalnews.org,cartoonbrew.com,jta.org,thefrisc.com,usmagazine.com,washingtoncitypaper.com,washingtoninformer.com##.sharedaddy
     → |aftvnews.com##.sharedaddy
     → |baptistnews.com##.sharedaddy
@@ -168726,7 +168792,7 @@
     → |upcomingvinyl.com##.share-links
     → |vivercomsaude.site##.share-links
 🚫 去掉注释行: !! .share-buttons
-✅ 多域名拆分: accessonline.com,adressa.no,airandspaceforces.com,ambito.com,animecenterbr.com,arenaev.com,assafirarabi.com,auto-moto.com,autoplus.fr,bank.gov.ua,basic-tutorials.de,canadaradiostations.com,canli-radyo-dinle.com,criminaljusticedegreehub.com,datingscammer.info,deseret.com,design-milk.com,diariolasamericas.com,diariouno.com.ar,elancasti.com.ar,emisoras-puertorico.com,emisorascolombianas.co,exputer.com,ff-bz.com,fiets.nl,fmradiofree.com,formule1.nl,gamosaurus.com,gizmodo.com,globalconstructionreview.com,hardwaretimes.com,houstoniamag.com,infoplease.com,informe360.com,internetradio-horen.de,internetradio-schweiz.ch,investigativepost.org,letrap.com.ar,mediaplaynews.com,metro.co.uk,nachrichten.at,nbcbayarea.com,nbcboston.com,nbcchicago.com,nbcconnecticut.com,nbcdfw.com,nbclosangeles.com,nbcmiami.com,nbcnewyork.com,nbcphiladelphia.com,nbcsandiego.com,nbcwashington.com,ndmais.com.br,olhardigital.com.br,pastebin.pl,psychologies.com,psychologytoday.com,radio-ao-vivo.com,radio-australia.org,radio-belgie.be,radio-danmark.dk,radio-dominicana.com,radio-ecuador.org,radio-en-ligne.fr,radio-en-vivo.mx,radio-espana.es,radio-hk.com,radio-hrvatska.com,radio-italiane.it,radio-korea.com,radio-maroc.org,radio-nederland.nl,radio-norge.org,radio-osterreich.at,radio-philippines.com,radio-polska.pl,radio-singapore.com,radio-south-africa.co.za,radio-stations.co.nz,radio-suomi.com,radio-sveriges.se,radio-thai.com,radio-ua.com,radio-uk.co.uk,radioindia.in,radioindonesia.org,radiojapan.org,radiomalaysia.org,radios-argentinas.org,radios-bolivia.com,radios-chilenas.com,radios-guatemala.com,radios-online.pt,radios-uruguay.com,radios-venezuela.com,radiotaiwan.tw,robbreport.com,sanjuan8.com,sipiapa.org,spy.com,techzine.eu,techzine.nl,telemundo20.com,telemundo31.com,telemundo33.com,telemundo40.com,telemundo47.com,telemundo48elpaso.com,telemundo49.com,telemundo51.com,telemundo52.com,telemundo62.com,telemundoareadelabahia.com,telemundoarizona.com,telemundochicago.com,telemundodallas.com,telemundodenver.com,telemundofresno.com,telemundohouston.com,telemundolasvegas.com,telemundonuevainglaterra.com,telemundonuevomexico.com,telemundopr.com,telemundosanantonio.com,telemundoutah.com,telemundowashingtondc.com,tenor.com,thecradle.co,tiempodesanjuan.com,vlaamskijken.nl,wn.com,wordsworth.co.za##.share-buttons
+✅ 多域名拆分: accessonline.com,adressa.no,airandspaceforces.com,ambito.com,animecenterbr.com,arenaev.com,assafirarabi.com,auto-moto.com,autoplus.fr,bank.gov.ua,basic-tutorials.de,canadaradiostations.com,canli-radyo-dinle.com,criminaljusticedegreehub.com,datingscammer.info,deseret.com,design-milk.com,diariolasamericas.com,diariouno.com.ar,elancasti.com.ar,emisoras-puertorico.com,emisorascolombianas.co,exputer.com,ff-bz.com,fiets.nl,fmradiofree.com,formule1.nl,gamosaurus.com,gizmodo.com,globalconstructionreview.com,hardwaretimes.com,houstoniamag.com,infoplease.com,informe360.com,internetradio-horen.de,internetradio-schweiz.ch,investigativepost.org,letrap.com.ar,mediaplaynews.com,metro.co.uk,nachrichten.at,nbcbayarea.com,nbcboston.com,nbcchicago.com,nbcconnecticut.com,nbcdfw.com,nbclosangeles.com,nbcmiami.com,nbcnewyork.com,nbcphiladelphia.com,nbcsandiego.com,nbcwashington.com,ndmais.com.br,olhardigital.com.br,pastebin.pl,psychologies.com,psychologytoday.com,radio-ao-vivo.com,radio-australia.org,radio-belgie.be,radio-danmark.dk,radio-dominicana.com,radio-ecuador.org,radio-en-ligne.fr,radio-en-vivo.mx,radio-espana.es,radio-hk.com,radio-hrvatska.com,radio-italiane.it,radio-korea.com,radio-maroc.org,radio-nederland.nl,radio-norge.org,radio-osterreich.at,radio-philippines.com,radio-polska.pl,radio-singapore.com,radio-south-africa.co.za,radio-stations.co.nz,radio-suomi.com,radio-sveriges.se,radio-thai.com,radio-ua.com,radio-uk.co.uk,radioindia.in,radioindonesia.org,radiojapan.org,radiomalaysia.org,radios-argentinas.org,radios-bolivia.com,radios-chilenas.com,radios-guatemala.com,radios-online.pt,radios-uruguay.com,radios-venezuela.com,radiotaiwan.tw,robbreport.com,sanjuan8.com,sipiapa.org,spy.com,techzine.eu,techzine.nl,telemundo20.com,telemundo31.com,telemundo33.com,telemundo40.com,telemundo47.com,telemundo48elpaso.com,telemundo49.com,telemundo51.com,telemundo52.com,telemundo62.com,telemundoareadelabahia.com,telemundoarizona.com,telemundochicago.com,telemundodallas.com,telemundodenver.com,telemundofresno.com,telemundohouston.com,telemundolasvegas.com,telemundonuevainglaterra.com,telemundonuevomexico.com,telemundopr.com,telemundosanantonio.com,telemundoutah.com,telemundowashingtondc.com,tenor.com,the-scientist.com,thecradle.co,tiempodesanjuan.com,vlaamskijken.nl,wn.com,wordsworth.co.za##.share-buttons
     → |accessonline.com##.share-buttons
     → |adressa.no##.share-buttons
     → |airandspaceforces.com##.share-buttons
@@ -168854,6 +168920,7 @@
     → |telemundoutah.com##.share-buttons
     → |telemundowashingtondc.com##.share-buttons
     → |tenor.com##.share-buttons
+    → |the-scientist.com##.share-buttons
     → |thecradle.co##.share-buttons
     → |tiempodesanjuan.com##.share-buttons
     → |vlaamskijken.nl##.share-buttons
@@ -190308,7 +190375,7 @@
     → |photofiltres.fr##.consent-box
     → |ric.com.br##.consent-box
 🚫 去掉注释行: !! #cookie-bar
-✅ 多域名拆分: addnoise.nl,alpha-buch.de,andelprerov.cz,annualreviews.org,armesbastille.com,casino.org,cdobrianza.it,cdobrianza.org,cesnet.cz,chimeratool.com,crossref.org,einforma.co,eshop.efko.cz,goodtravel.de,granta.com,gruppovideomedia.it,gsi-one.org,hofer.it,ilbracere.com,ilgiardinodeilibri.it,knowablemagazine.org,lockheedmartin.com,macrosad.com,marketingtribune.nl,milescorts.es,ods.cz,paracadutistirimini.com,pc-facile.com,poruba.ostrava.cz,promptamcs.com,querstarter.de,quesoslomogallego.com,rareseeds.com,ryxy.online,svpressa.ru,szegedsport.hu,trwalamotywacja.pl,werkenbijwestcord.nl###cookie-bar
+✅ 多域名拆分: addnoise.nl,alpha-buch.de,andelprerov.cz,annualreviews.org,armesbastille.com,casino.org,cdobrianza.it,cdobrianza.org,cesnet.cz,chimeratool.com,correiodoestado.com.br,crossref.org,einforma.co,eshop.efko.cz,goodtravel.de,granta.com,gruppovideomedia.it,gsi-one.org,hofer.it,ilbracere.com,ilgiardinodeilibri.it,knowablemagazine.org,lockheedmartin.com,macrosad.com,marketingtribune.nl,milescorts.es,ods.cz,paracadutistirimini.com,pc-facile.com,poruba.ostrava.cz,promptamcs.com,querstarter.de,quesoslomogallego.com,rareseeds.com,ryxy.online,svpressa.ru,szegedsport.hu,trwalamotywacja.pl,werkenbijwestcord.nl###cookie-bar
     → |addnoise.nl###cookie-bar
     → |alpha-buch.de###cookie-bar
     → |andelprerov.cz###cookie-bar
@@ -190319,6 +190386,7 @@
     → |cdobrianza.org###cookie-bar
     → |cesnet.cz###cookie-bar
     → |chimeratool.com###cookie-bar
+    → |correiodoestado.com.br###cookie-bar
     → |crossref.org###cookie-bar
     → |einforma.co###cookie-bar
     → |eshop.efko.cz###cookie-bar
@@ -191499,7 +191567,7 @@
     → |mall.sk##.legal-consent
     → |mimovrste.com##.legal-consent
 🚫 去掉注释行: !! #cookie-consent
-✅ 多域名拆分: 9minecraft.net,altman.co.il,anixe.pl,avantlink.com,avtovzglyad.ru,b-kassa.ru,biblesforamerica.org,bilaborg.is,bilas.is,bilasolur.is,boernestar.com,craig-russell.co.uk,druni.es,ecobee.com,erau.edu,flyscoot.com,fontawesome.com,garberhof.com,guffi.is,heictojpg.com,hofdahollin.is,hotel-avidea.com,ispot.tv,joomshaper.com,kranj.si,lottostar.co.za,ma-hsh.de,mk-amur.ru,mk-belgorod.ru,mk-chukotka.ru,mk-donbass.ru,mk-hakasia.ru,mk-kaliningrad.ru,mk-kamchatka.ru,mk-kirov.ru,mk-kolyma.ru,mk-kuzbass.ru,mk-kz.kz,mk-lenobl.ru,mk-lipetsk.ru,mk-mari.ru,mk-mosobl.ru,mk-nao.ru,mk-novgorod.ru,mk-orel.ru,mk-pskov.ru,mk-saransk.ru,mk-smolensk.ru,mk-tuva.ru,mk-yamal.ru,mk-zap.ru,mk.kg,mk.ru,mkbryansk.ru,mkisrael.co.il,mkivanovo.ru,mkkaluga.ru,mknews.de,mkpenza.ru,moe.video,moebel-berning.de,monitorus.ru,notadir.toyotakauptuni.is,nurseryrhymestv.com,ohotniki.ru,openeu.eu,pereirinha.com,perplexity.ai,portalderwirtschaft.de,seehotel.it,soundcore.com,stormware.cz,taseralm.com,touring-artists.info,toyotaselfossi.is,uhrzeit123.de,woman.ru,womanhit.ru,zonneplan.nl###cookie-consent
+✅ 多域名拆分: 9minecraft.net,altman.co.il,anixe.pl,avantlink.com,avtovzglyad.ru,b-kassa.ru,biblesforamerica.org,bilaborg.is,bilas.is,bilasolur.is,boernestar.com,craig-russell.co.uk,druni.es,ecobee.com,erau.edu,flyscoot.com,fontawesome.com,foodsdictionary.co.il,garberhof.com,guffi.is,heictojpg.com,hofdahollin.is,hotel-avidea.com,ispot.tv,joomshaper.com,kranj.si,littleworldtv.com,lottostar.co.za,ma-hsh.de,mk-amur.ru,mk-belgorod.ru,mk-chukotka.ru,mk-donbass.ru,mk-hakasia.ru,mk-kaliningrad.ru,mk-kamchatka.ru,mk-kirov.ru,mk-kolyma.ru,mk-kuzbass.ru,mk-kz.kz,mk-lenobl.ru,mk-lipetsk.ru,mk-mari.ru,mk-mosobl.ru,mk-nao.ru,mk-novgorod.ru,mk-orel.ru,mk-pskov.ru,mk-saransk.ru,mk-smolensk.ru,mk-tuva.ru,mk-yamal.ru,mk-zap.ru,mk.kg,mk.ru,mkbryansk.ru,mkisrael.co.il,mkivanovo.ru,mkkaluga.ru,mknews.de,mkpenza.ru,moe.video,moebel-berning.de,monitorus.ru,notadir.toyotakauptuni.is,nurseryrhymestv.com,ohotniki.ru,openeu.eu,pereirinha.com,perplexity.ai,portalderwirtschaft.de,seehotel.it,soundcore.com,stormware.cz,taseralm.com,touring-artists.info,toyotaselfossi.is,uhrzeit123.de,woman.ru,womanhit.ru,zonneplan.nl###cookie-consent
     → |9minecraft.net###cookie-consent
     → |altman.co.il###cookie-consent
     → |anixe.pl###cookie-consent
@@ -191517,6 +191585,7 @@
     → |erau.edu###cookie-consent
     → |flyscoot.com###cookie-consent
     → |fontawesome.com###cookie-consent
+    → |foodsdictionary.co.il###cookie-consent
     → |garberhof.com###cookie-consent
     → |guffi.is###cookie-consent
     → |heictojpg.com###cookie-consent
@@ -191525,6 +191594,7 @@
     → |ispot.tv###cookie-consent
     → |joomshaper.com###cookie-consent
     → |kranj.si###cookie-consent
+    → |littleworldtv.com###cookie-consent
     → |lottostar.co.za###cookie-consent
     → |ma-hsh.de###cookie-consent
     → |mk-amur.ru###cookie-consent
@@ -194945,7 +195015,7 @@
 🚫 去掉注释行: !! pp_b.pp-p (dhealingforum.com,flowerhornrusforum.com,sinfuldestinyericole.com,celebritystorylibrary.com)
 🚫 去掉注释行: ###pp_b.pp-p
 🚫 去掉注释行: !! .cookie-banner
-✅ 多域名拆分: adventuregamestudio.co.uk,albertonrecord.co.za,artfund.org,asia.nikkei.com,banco.bradesco,barkeepersfriend.com,bedfordviewedenvalenews.co.za,bemyeyes.com,bookwhen.com,brasscom.org.br,buildpaste.net,bullionbypost.co.uk,businesscomparison.com,capitoltrades.com,citybuzz.co.za,clarksolutions.com.br,codashop.com,coinpaprika.com,comfrt.com,cumlaudeimmobilia.com,cursos.io,cwi.nl,dagmersellen.ch,davistate.com,deezer.com,deltaco.com,developer.chrome.com,dictum.com,droptime.de,echr.coe.int,edera.dev,erieinsurance.com,etix.com,eyethunews.co.za,fansly.com,fex.plus,forja.ma,gatlinburg.com,gaultmillau.at,germistoncitynews.co.za,gosquared.com,guinyc.com,hck.hr,herning.dk,holidayworld.com,hsbc.com.sg,isciii.es,jolyn.com,kathorusmail.co.za,kemptonexpress.co.za,kenmei.co,kormorant.co.za,lensculture.com,letabaherald.co.za,liemobil.li,lifehacker.ru,lokmat.com,massey.ac.nz,mcc-9.jp,medipolis.de,mega.io,mercadona.es,metroag.de,middelfart.dk,midrandreporter.co.za,mishloha.co.il,modworkshop.net,northeasterntribune.co.za,oaic.gov.au,osthammar.se,overclock3d.net,overleaf.com,payroll.ca,peakstore.ru,printful.com,prodoctorov.ru,publicdomainreview.org,raceroster.com,randburgsun.co.za,randfonteinherald.co.za,reseau-sante-haut-leman.ch,reseau-sante-nord-broye.ch,reseau-sante-region-lausanne.ch,rivistacontrasti.it,roodepoortnorthsider.co.za,roodepoortrecord.co.za,sedibengster.com,semanticscholar.org,signalbloom.ai,silpo.ua,smashingmagazine.com,sowetourban.co.za,sp-ps.ch,spar.co.za,stake.com,stjohneyehospital.org,struer.dk,student.com,superbio.es,thefly.com,tiktok.com,tudogostoso.com.br,tus.ac.jp,vangemert.dev,vangoghmuseum.nl,weather2day.co.il,welcome.brixen.it,witbanknews.co.za,zabars.com,zenodo.org##.cookie-banner
+✅ 多域名拆分: adventuregamestudio.co.uk,albertonrecord.co.za,artfund.org,asia.nikkei.com,banco.bradesco,barkeepersfriend.com,bedfordviewedenvalenews.co.za,bemyeyes.com,bookwhen.com,brasscom.org.br,buildpaste.net,bullionbypost.co.uk,businesscomparison.com,capitoltrades.com,citybuzz.co.za,clarksolutions.com.br,codashop.com,coinpaprika.com,comfrt.com,cumlaudeimmobilia.com,cursos.io,cwi.nl,dagmersellen.ch,davistate.com,deezer.com,deltaco.com,developer.chrome.com,dictum.com,droptime.de,echr.coe.int,edera.dev,erieinsurance.com,etix.com,eyethunews.co.za,fansly.com,fex.plus,forja.ma,gatlinburg.com,gaultmillau.at,germistoncitynews.co.za,gosquared.com,guinyc.com,hck.hr,herning.dk,holidayworld.com,hsbc.com.sg,isciii.es,jolyn.com,kathorusmail.co.za,kemptonexpress.co.za,kenmei.co,kormorant.co.za,lensculture.com,letabaherald.co.za,liemobil.li,lifehacker.ru,lokmat.com,massey.ac.nz,mcc-9.jp,medipolis.de,mega.io,mercadona.es,metroag.de,middelfart.dk,midrandreporter.co.za,mishloha.co.il,modworkshop.net,northeasterntribune.co.za,oaic.gov.au,osthammar.se,overclock3d.net,overleaf.com,payroll.ca,peakstore.ru,printful.com,prodoctorov.ru,publicdomainreview.org,raceroster.com,randburgsun.co.za,randfonteinherald.co.za,reseau-sante-haut-leman.ch,reseau-sante-nord-broye.ch,reseau-sante-region-lausanne.ch,rivistacontrasti.it,roodepoortnorthsider.co.za,roodepoortrecord.co.za,sedibengster.com,semanticscholar.org,signalbloom.ai,silpo.ua,smashingmagazine.com,sowetourban.co.za,sp-ps.ch,spar.co.za,stake.com,stjohneyehospital.org,struer.dk,student.com,superbio.es,taplink.cc,thefly.com,tiktok.com,tudogostoso.com.br,tus.ac.jp,vangemert.dev,vangoghmuseum.nl,weather2day.co.il,welcome.brixen.it,witbanknews.co.za,zabars.com,zenodo.org##.cookie-banner
     → |adventuregamestudio.co.uk##.cookie-banner
     → |albertonrecord.co.za##.cookie-banner
     → |artfund.org##.cookie-banner
@@ -195045,6 +195115,7 @@
     → |struer.dk##.cookie-banner
     → |student.com##.cookie-banner
     → |superbio.es##.cookie-banner
+    → |taplink.cc##.cookie-banner
     → |thefly.com##.cookie-banner
     → |tiktok.com##.cookie-banner
     → |tudogostoso.com.br##.cookie-banner
@@ -196157,11 +196228,12 @@
     → |sophianum.nl###cookie-container
     → |tatasteelonbrand.com###cookie-container
 🚫 去掉注释行: !! .cookie-container
-✅ 多域名拆分: 24baby.nl,biriukov.dev,cameronhouse.co.uk,du.lv,imou.com,licon.com,mbelik.com,mpt.mp.br,oeh-wu.at,pcm.ru,postimees.ee,privacy.com.br,punchline-gloucester.com,quickconnect.to,regionorebrolan.se,sabesp.com.br,skatteetaten.no,tadeclinicagem.com.br##.cookie-container
+✅ 多域名拆分: 24baby.nl,biriukov.dev,cameronhouse.co.uk,du.lv,halalanresults.abs-cbn.com,imou.com,licon.com,mbelik.com,mpt.mp.br,oeh-wu.at,pcm.ru,postimees.ee,privacy.com.br,punchline-gloucester.com,quickconnect.to,regionorebrolan.se,sabesp.com.br,skatteetaten.no,tadeclinicagem.com.br##.cookie-container
     → |24baby.nl##.cookie-container
     → |biriukov.dev##.cookie-container
     → |cameronhouse.co.uk##.cookie-container
     → |du.lv##.cookie-container
+    → |halalanresults.abs-cbn.com##.cookie-container
     → |imou.com##.cookie-container
     → |licon.com##.cookie-container
     → |mbelik.com##.cookie-container
@@ -208935,10 +209007,14 @@
 ✅ 多域名拆分: cinema-city.co.il,peamitstore.co.il##.gdpr-module
     → |cinema-city.co.il##.gdpr-module
     → |peamitstore.co.il##.gdpr-module
-✅ 多域名拆分: delta.co.il,fixfixfixfix.co.il,panta-rei.com##.idus_popup_widget_cookie_popup
+✅ 多域名拆分: bathandbodyworks.co.il,castro.com,delta.co.il,fixfixfixfix.co.il,lilit.co.il,panta-rei.com,urbanica-wh.com##.idus_popup_widget_cookie_popup
+    → |bathandbodyworks.co.il##.idus_popup_widget_cookie_popup
+    → |castro.com##.idus_popup_widget_cookie_popup
     → |delta.co.il##.idus_popup_widget_cookie_popup
     → |fixfixfixfix.co.il##.idus_popup_widget_cookie_popup
+    → |lilit.co.il##.idus_popup_widget_cookie_popup
     → |panta-rei.com##.idus_popup_widget_cookie_popup
+    → |urbanica-wh.com##.idus_popup_widget_cookie_popup
 ✅ 多域名拆分: electra-danko.co.il,electra-elco-cs.co.il,electra-elevators.co.il,electra-infrastructures.co.il,electra-me.co.il,electra.co.il,electrainfrastructure-environment.co.il,electraparking.co.il,electrausa.com,etco-nigeria.com##.pupup_cookies
     → |electra-danko.co.il##.pupup_cookies
     → |electra-elco-cs.co.il##.pupup_cookies
@@ -209541,9 +209617,10 @@
 ✅ 多域名拆分: 33-news.ru,news-komi.ru##.notifycation__wrap
     → |33-news.ru##.notifycation__wrap
     → |news-komi.ru##.notifycation__wrap
-✅ 多域名拆分: pg11.ru,pg12.ru,progorod58.ru,progorod62.ru,progoroduhta.ru,usolie.info##.notifycation_notifycation__BeRRP
+✅ 多域名拆分: pg11.ru,pg12.ru,prochepetsk.ru,progorod58.ru,progorod62.ru,progoroduhta.ru,usolie.info##.notifycation_notifycation__BeRRP
     → |pg11.ru##.notifycation_notifycation__BeRRP
     → |pg12.ru##.notifycation_notifycation__BeRRP
+    → |prochepetsk.ru##.notifycation_notifycation__BeRRP
     → |progorod58.ru##.notifycation_notifycation__BeRRP
     → |progorod62.ru##.notifycation_notifycation__BeRRP
     → |progoroduhta.ru##.notifycation_notifycation__BeRRP
@@ -213304,6 +213381,16 @@
 ✅ 多域名拆分: fox4news.com,fox7austin.com##.promo-image
     → |fox4news.com##.promo-image
     → |fox7austin.com##.promo-image
+✅ 多域名拆分: cricket365.com,football365.com,golf365.com,loverugbyleague.com,planetf1.com,planetfootball.com,planetrugby.com,teamtalk.com,tennis365.com##.ps-email-subscription
+    → |cricket365.com##.ps-email-subscription
+    → |football365.com##.ps-email-subscription
+    → |golf365.com##.ps-email-subscription
+    → |loverugbyleague.com##.ps-email-subscription
+    → |planetf1.com##.ps-email-subscription
+    → |planetfootball.com##.ps-email-subscription
+    → |planetrugby.com##.ps-email-subscription
+    → |teamtalk.com##.ps-email-subscription
+    → |tennis365.com##.ps-email-subscription
 ✅ 多域名拆分: campblessing.org,canaleenergia.com,celebrityaccess.com,eastasiaforum.org,esplanade.hr,flowmountainbike.com,mag.toyota.co.uk##.pum-overlay
     → |campblessing.org##.pum-overlay
     → |canaleenergia.com##.pum-overlay
@@ -218891,9 +218978,9 @@
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: !---------------------------------Allowlists----------------------------------!
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: QJc/sQRHbcjchl/7ADMLaA
+🚫 去掉注释行: ! Checksum: ann3YWR/c5tsBNnTHeFJZQ
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Last modified: 2026-03-14 23:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-03-15 01:00 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
@@ -236922,7 +237009,7 @@
     → |photofiltres.fr##.consent-box
     → |ric.com.br##.consent-box
 🚫 去掉注释行: !! #cookie-bar
-✅ 多域名拆分: addnoise.nl,alpha-buch.de,andelprerov.cz,annualreviews.org,armesbastille.com,casino.org,cdobrianza.it,cdobrianza.org,cesnet.cz,chimeratool.com,crossref.org,einforma.co,eshop.efko.cz,goodtravel.de,granta.com,gruppovideomedia.it,gsi-one.org,hofer.it,ilbracere.com,ilgiardinodeilibri.it,knowablemagazine.org,lockheedmartin.com,macrosad.com,marketingtribune.nl,milescorts.es,ods.cz,paracadutistirimini.com,pc-facile.com,poruba.ostrava.cz,promptamcs.com,querstarter.de,quesoslomogallego.com,rareseeds.com,ryxy.online,svpressa.ru,szegedsport.hu,trwalamotywacja.pl,werkenbijwestcord.nl###cookie-bar
+✅ 多域名拆分: addnoise.nl,alpha-buch.de,andelprerov.cz,annualreviews.org,armesbastille.com,casino.org,cdobrianza.it,cdobrianza.org,cesnet.cz,chimeratool.com,correiodoestado.com.br,crossref.org,einforma.co,eshop.efko.cz,goodtravel.de,granta.com,gruppovideomedia.it,gsi-one.org,hofer.it,ilbracere.com,ilgiardinodeilibri.it,knowablemagazine.org,lockheedmartin.com,macrosad.com,marketingtribune.nl,milescorts.es,ods.cz,paracadutistirimini.com,pc-facile.com,poruba.ostrava.cz,promptamcs.com,querstarter.de,quesoslomogallego.com,rareseeds.com,ryxy.online,svpressa.ru,szegedsport.hu,trwalamotywacja.pl,werkenbijwestcord.nl###cookie-bar
     → |addnoise.nl###cookie-bar
     → |alpha-buch.de###cookie-bar
     → |andelprerov.cz###cookie-bar
@@ -236933,6 +237020,7 @@
     → |cdobrianza.org###cookie-bar
     → |cesnet.cz###cookie-bar
     → |chimeratool.com###cookie-bar
+    → |correiodoestado.com.br###cookie-bar
     → |crossref.org###cookie-bar
     → |einforma.co###cookie-bar
     → |eshop.efko.cz###cookie-bar
@@ -242774,11 +242862,12 @@
     → |sophianum.nl###cookie-container
     → |tatasteelonbrand.com###cookie-container
 🚫 去掉注释行: !! .cookie-container
-✅ 多域名拆分: 24baby.nl,biriukov.dev,cameronhouse.co.uk,du.lv,imou.com,licon.com,mbelik.com,mpt.mp.br,oeh-wu.at,pcm.ru,postimees.ee,privacy.com.br,punchline-gloucester.com,quickconnect.to,regionorebrolan.se,sabesp.com.br,skatteetaten.no,tadeclinicagem.com.br##.cookie-container
+✅ 多域名拆分: 24baby.nl,biriukov.dev,cameronhouse.co.uk,du.lv,halalanresults.abs-cbn.com,imou.com,licon.com,mbelik.com,mpt.mp.br,oeh-wu.at,pcm.ru,postimees.ee,privacy.com.br,punchline-gloucester.com,quickconnect.to,regionorebrolan.se,sabesp.com.br,skatteetaten.no,tadeclinicagem.com.br##.cookie-container
     → |24baby.nl##.cookie-container
     → |biriukov.dev##.cookie-container
     → |cameronhouse.co.uk##.cookie-container
     → |du.lv##.cookie-container
+    → |halalanresults.abs-cbn.com##.cookie-container
     → |imou.com##.cookie-container
     → |licon.com##.cookie-container
     → |mbelik.com##.cookie-container
@@ -245880,10 +245969,14 @@
 ✅ 多域名拆分: cinema-city.co.il,peamitstore.co.il##.gdpr-module
     → |cinema-city.co.il##.gdpr-module
     → |peamitstore.co.il##.gdpr-module
-✅ 多域名拆分: delta.co.il,fixfixfixfix.co.il,panta-rei.com##.idus_popup_widget_cookie_popup
+✅ 多域名拆分: bathandbodyworks.co.il,castro.com,delta.co.il,fixfixfixfix.co.il,lilit.co.il,panta-rei.com,urbanica-wh.com##.idus_popup_widget_cookie_popup
+    → |bathandbodyworks.co.il##.idus_popup_widget_cookie_popup
+    → |castro.com##.idus_popup_widget_cookie_popup
     → |delta.co.il##.idus_popup_widget_cookie_popup
     → |fixfixfixfix.co.il##.idus_popup_widget_cookie_popup
+    → |lilit.co.il##.idus_popup_widget_cookie_popup
     → |panta-rei.com##.idus_popup_widget_cookie_popup
+    → |urbanica-wh.com##.idus_popup_widget_cookie_popup
 ✅ 多域名拆分: electra-danko.co.il,electra-elco-cs.co.il,electra-elevators.co.il,electra-infrastructures.co.il,electra-me.co.il,electra.co.il,electrainfrastructure-environment.co.il,electraparking.co.il,electrausa.com,etco-nigeria.com##.pupup_cookies
     → |electra-danko.co.il##.pupup_cookies
     → |electra-elco-cs.co.il##.pupup_cookies
@@ -246486,9 +246579,10 @@
 ✅ 多域名拆分: 33-news.ru,news-komi.ru##.notifycation__wrap
     → |33-news.ru##.notifycation__wrap
     → |news-komi.ru##.notifycation__wrap
-✅ 多域名拆分: pg11.ru,pg12.ru,progorod58.ru,progorod62.ru,progoroduhta.ru,usolie.info##.notifycation_notifycation__BeRRP
+✅ 多域名拆分: pg11.ru,pg12.ru,prochepetsk.ru,progorod58.ru,progorod62.ru,progoroduhta.ru,usolie.info##.notifycation_notifycation__BeRRP
     → |pg11.ru##.notifycation_notifycation__BeRRP
     → |pg12.ru##.notifycation_notifycation__BeRRP
+    → |prochepetsk.ru##.notifycation_notifycation__BeRRP
     → |progorod58.ru##.notifycation_notifycation__BeRRP
     → |progorod62.ru##.notifycation_notifycation__BeRRP
     → |progoroduhta.ru##.notifycation_notifycation__BeRRP
