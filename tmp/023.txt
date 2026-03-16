@@ -15182,6 +15182,7 @@ rdu.com##.cookie-panel-wrapper
 evocsports.com##.cookie-permission-overlay
 vetstoria.com##.cookie-policy-acceptance-banner
 cloud-as.ruijienetworks.com##.cookie-policy-content
+vmock.com##.cookie-policy-modal
 oddsscanner.com##.cookie-policy-pop-up
 chicco.co.uk##.cookie-pop-up-wrapper
 slidelizard.com##.cookie-popup-dialog
@@ -16910,6 +16911,7 @@ utrechtart.com##div[aria-label="cookie consent banner"]
 |countryliving.com##div[aria-label^="Privacy Disclosure"]
 |delish.com##div[aria-label^="Privacy Disclosure"]
 |harpersbazaar.com##div[aria-label^="Privacy Disclosure"]
+|pitchfork.com##div[aria-label^="Privacy Disclosure"]
 |prevention.com##div[aria-label^="Privacy Disclosure"]
 |townandcountrymag.com##div[aria-label^="Privacy Disclosure"]
 audiomack.com##div[class*="ConfirmMessage-module__cookie-"]
@@ -17550,6 +17552,7 @@ sogeti.*###popup-cookieConsent
 |e-recharge.net##.cookie-notification
 |energypolicy.columbia.edu##.cookie-notification
 |eurotradefair.nl##.cookie-notification
+|gardensbythebay.com.sg##.cookie-notification
 |iahsap.com##.cookie-notification
 |informationmagazine.com##.cookie-notification
 |jobs.tuwien.ac.at##.cookie-notification
@@ -17750,6 +17753,7 @@ sogeti.*###popup-cookieConsent
 |rs-online.com###ensNotifyBanner
 |scotsman.com###ensNotifyBanner
 |surfeasy.com###ensNotifyBanner
+|theworks.co.uk###ensNotifyBanner
 |volkswagen.ch###ensNotifyBanner
 |vueling.com###ensNotifyBanner
 |vw.com###ensNotifyBanner
@@ -19672,6 +19676,7 @@ dryg.pl##div[class^="CookiesNoti"]
 |fft.mt##.dialog-lightbox-message
 |getspace.us##.dialog-lightbox-message
 |gilmoreglobal.com##.dialog-lightbox-message
+|hatarbut.co.il##.dialog-lightbox-message
 |ingeniamc.com##.dialog-lightbox-message
 |janninebarron.com##.dialog-lightbox-message
 |loro.co.il##.dialog-lightbox-message
@@ -22377,6 +22382,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |roodepoortrecord.co.za##.cookie-banner
 |sedibengster.com##.cookie-banner
 |semanticscholar.org##.cookie-banner
+|sentosa.com.sg##.cookie-banner
 |signalbloom.ai##.cookie-banner
 |silpo.ua##.cookie-banner
 |smashingmagazine.com##.cookie-banner
@@ -22388,6 +22394,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |struer.dk##.cookie-banner
 |student.com##.cookie-banner
 |superbio.es##.cookie-banner
+|t.co.il##.cookie-banner
 |taplink.cc##.cookie-banner
 |thefly.com##.cookie-banner
 |tiktok.com##.cookie-banner
@@ -30151,6 +30158,7 @@ e-comas.com###ask-consent:remove()
 |restaurantelasarten.com##.modal
 |restauranteseiruga.com##.modal
 |restaurants.st##.modal
+|review-displays.co.uk##.modal
 |risikolebensversicherung.com##.modal
 |rosen-apotheke-wiernsheim.de##.modal
 |rosenberg-apo.de##.modal
@@ -30648,6 +30656,7 @@ e-comas.com###ask-consent:remove()
 |restaurantelasarten.com##.modal-backdrop
 |restauranteseiruga.com##.modal-backdrop
 |restaurants.st##.modal-backdrop
+|review-displays.co.uk##.modal-backdrop
 |risikolebensversicherung.com##.modal-backdrop
 |rosen-apotheke-wiernsheim.de##.modal-backdrop
 |rosenberg-apo.de##.modal-backdrop
@@ -31145,6 +31154,7 @@ e-comas.com###ask-consent:remove()
 |restaurantelasarten.com##body,html:style(overflow: auto !important; position: initial !important;)
 |restauranteseiruga.com##body,html:style(overflow: auto !important; position: initial !important;)
 |restaurants.st##body,html:style(overflow: auto !important; position: initial !important;)
+|review-displays.co.uk##body,html:style(overflow: auto !important; position: initial !important;)
 |risikolebensversicherung.com##body,html:style(overflow: auto !important; position: initial !important;)
 |rosen-apotheke-wiernsheim.de##body,html:style(overflow: auto !important; position: initial !important;)
 |rosenberg-apo.de##body,html:style(overflow: auto !important; position: initial !important;)
@@ -50279,6 +50289,7 @@ doctorofcredit.com#@#.wpdiscuz-subscribe-bar
 /amp-user-notification-
 /amp-web-push-0.1.js
 /assets/www/notification.
+/bildirimtr-sw.js
 /build/push.js
 /checkPush.js
 /content/js/push.js
@@ -51798,6 +51809,7 @@ news.bitcoin.com#?#.cwDafx:-abp-contains(Continue in the Bitcoin.com App)
 thepointsguy.com#?#.noVerticalPad:-abp-contains(Download the TPG App)
 ||api-push.com^$third-party
 ||azureedge.net/js/cookie_notificacao.min.js
+||bildirim.com.tr^$third-party
 ||bildirimat.com^$third-party
 ||bildirnet.com^$third-party
 ||braze.com^$third-party
