@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-03-15T22:08:39.824Z
+🚫 去掉注释行: ! Last modified: 2026-03-16T00:41:10.836Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v1.0.38
 🚫 去掉注释行: !
@@ -1576,10 +1576,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 100235
-🚫 去掉注释行: ! Checksum: NAnIT6nffglUV57S0j2h7A
-🚫 去掉注释行: ! Version: 202603152341
+🚫 去掉注释行: ! Checksum: 8yXS/pMjnIrEfXZtSAJMwA
+🚫 去掉注释行: ! Version: 202603160151
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 15 Mar 2026 23:41 UTC
+🚫 去掉注释行: ! Last modified: 16 Mar 2026 01:51 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -12582,6 +12582,7 @@
 🚫 去掉注释行: ##.mobile-instream-ad-holder-single
 🚫 去掉注释行: ##.mobileAd
 🚫 去掉注释行: ##.mobileAdWrap
+🚫 去掉注释行: ##.mobileAds
 🚫 去掉注释行: ##.mobileAppAd
 🚫 去掉注释行: ##.mobile_ad_banner
 🚫 去掉注释行: ##.mobile_ad_container
@@ -14051,6 +14052,7 @@
 🚫 去掉注释行: ##.topAdWrapper
 🚫 去掉注释行: ##.topAdd
 🚫 去掉注释行: ##.topAds
+🚫 去掉注释行: ##.topAdsArticle
 🚫 去掉注释行: ##.topAdsWrappper
 🚫 去掉注释行: ##.topAdvBox
 🚫 去掉注释行: ##.topAdvert
@@ -15304,6 +15306,7 @@
 🚫 去掉注释行: ##.taboola_container
 🚫 去掉注释行: ##.taboola_lhs
 🚫 去掉注释行: ##.taboola_module
+🚫 去掉注释行: ##.taboolaads
 🚫 去掉注释行: ##.taboolaloader
 🚫 去掉注释行: ##.trb_taboola
 🚫 去掉注释行: ##.trc-first-recommendation
@@ -17453,7 +17456,8 @@
     → |famously-dead.com##.ad2
     → |famouslyarrested.com##.ad2
     → |famouslyscandalous.com##.ad2
-✅ 多域名拆分: forums.sufficientvelocity.com,isp.netscape.com,m.economictimes.com,someecards.com,trailspace.com,wabetainfo.com##.adContainer
+✅ 多域名拆分: economictimes.indiatimes.com,forums.sufficientvelocity.com,isp.netscape.com,m.economictimes.com,someecards.com,trailspace.com,wabetainfo.com##.adContainer
+    → |economictimes.indiatimes.com##.adContainer
     → |forums.sufficientvelocity.com##.adContainer
     → |isp.netscape.com##.adContainer
     → |m.economictimes.com##.adContainer
@@ -24783,10 +24787,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: 1+QB9y6CNVwJDg2RzdsJ0w
-🚫 去掉注释行: ! Version: 202603152341
+🚫 去掉注释行: ! Checksum: VFzkLK1azDh1E55jAKnFsw
+🚫 去掉注释行: ! Version: 202603160151
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 15 Mar 2026 23:41 UTC
+🚫 去掉注释行: ! Last modified: 16 Mar 2026 01:51 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29361,10 +29365,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: ReKjOY6HDkiRSCVse5ynpg
-🚫 去掉注释行: ! Version: 202603152341
+🚫 去掉注释行: ! Checksum: 6CctWa/v7p4n415byk9tlA
+🚫 去掉注释行: ! Version: 202603160151
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 15 Mar 2026 23:41 UTC
+🚫 去掉注释行: ! Last modified: 16 Mar 2026 01:51 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -30072,11 +30076,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202603152339
+🚫 去掉注释行: ! Version: 202603160157
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 15 Mar 2026 23:39 UTC
+🚫 去掉注释行: ! Last modified: 16 Mar 2026 01:57 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 2f54d4f4d69debb11479c6aa69dda505d8b89233
+🚫 去掉注释行: ! Commit: 102e9ea97db9bc3c216ea4518be906fd0a436bd1
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -41082,6 +41086,7 @@
 🚫 去掉注释行: ##.mobile-instream-ad-holder-single
 🚫 去掉注释行: ##.mobileAd
 🚫 去掉注释行: ##.mobileAdWrap
+🚫 去掉注释行: ##.mobileAds
 🚫 去掉注释行: ##.mobileAppAd
 🚫 去掉注释行: ##.mobile_ad_banner
 🚫 去掉注释行: ##.mobile_ad_container
@@ -42551,6 +42556,7 @@
 🚫 去掉注释行: ##.topAdWrapper
 🚫 去掉注释行: ##.topAdd
 🚫 去掉注释行: ##.topAds
+🚫 去掉注释行: ##.topAdsArticle
 🚫 去掉注释行: ##.topAdsWrappper
 🚫 去掉注释行: ##.topAdvBox
 🚫 去掉注释行: ##.topAdvert
@@ -43804,6 +43810,7 @@
 🚫 去掉注释行: ##.taboola_container
 🚫 去掉注释行: ##.taboola_lhs
 🚫 去掉注释行: ##.taboola_module
+🚫 去掉注释行: ##.taboolaads
 🚫 去掉注释行: ##.taboolaloader
 🚫 去掉注释行: ##.trb_taboola
 🚫 去掉注释行: ##.trc-first-recommendation
@@ -45953,7 +45960,8 @@
     → |famously-dead.com##.ad2
     → |famouslyarrested.com##.ad2
     → |famouslyscandalous.com##.ad2
-✅ 多域名拆分: forums.sufficientvelocity.com,isp.netscape.com,m.economictimes.com,someecards.com,trailspace.com,wabetainfo.com##.adContainer
+✅ 多域名拆分: economictimes.indiatimes.com,forums.sufficientvelocity.com,isp.netscape.com,m.economictimes.com,someecards.com,trailspace.com,wabetainfo.com##.adContainer
+    → |economictimes.indiatimes.com##.adContainer
     → |forums.sufficientvelocity.com##.adContainer
     → |isp.netscape.com##.adContainer
     → |m.economictimes.com##.adContainer
@@ -53283,11 +53291,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202603152349
+🚫 去掉注释行: ! Version: 202603160158
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 15 Mar 2026 23:49 UTC
+🚫 去掉注释行: ! Last modified: 16 Mar 2026 01:58 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: fb6386453b7a0e1709ff2d9174a40e4dfca257cb
+🚫 去掉注释行: ! Commit: 5aa2132e578c43335ee751f590a30995118aef66
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -69387,8 +69395,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !生成时间: 2026-03-16 07:38:21
-🚫 去掉注释行: !有效规则数目: 1600392
+🚫 去掉注释行: !生成时间: 2026-03-16 07:58:53
+🚫 去掉注释行: !有效规则数目: 1600571
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
@@ -154781,15 +154789,15 @@
 🚫 去掉注释行: ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 🚫 去掉注释行: ! Homepage: https://github.com/217heidai/adblockfilters
 🚫 去掉注释行: ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-🚫 去掉注释行: ! Version: 20260316001253
-🚫 去掉注释行: ! Last modified: 2026/03/16 00:12:53
+🚫 去掉注释行: ! Version: 20260316084816
+🚫 去掉注释行: ! Last modified: 2026/03/16 08:48:16
 🚫 去掉注释行: ! Blocked domains: 5145
 🚫 去掉注释行: ! unBlocked domains: 16
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: 8znHPB1N/sVzVuZicC2ROg
-🚫 去掉注释行: ! Version: 202603152225
+🚫 去掉注释行: ! Checksum: O854DX8cHJHP9g6DUrKjLw
+🚫 去掉注释行: ! Version: 202603160125
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-03-15 22:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-03-16 01:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
