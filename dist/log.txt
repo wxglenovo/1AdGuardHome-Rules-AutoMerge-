@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-03-17T13:42:57.705Z
+🚫 去掉注释行: ! Last modified: 2026-03-17T14:30:56.152Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v1.0.38
 🚫 去掉注释行: !
@@ -58,10 +58,10 @@
 🚫 去掉注释行: ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/142
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Ads reinjection (For apps only)
-🚫 去掉注释行: !+ NOT_PLATFORM(windows, mac, android)
-🚫 去掉注释行: !+ NOT_OPTIMIZED PLATFORM(windows, mac, android)
-🚫 去掉注释行: !+ NOT_PLATFORM(windows, mac, android)
-🚫 去掉注释行: !+ NOT_OPTIMIZED PLATFORM(windows, mac, android)
+🚫 去掉注释行: !+ NOT_PLATFORM(windows, mac, android, cli)
+🚫 去掉注释行: !+ NOT_OPTIMIZED PLATFORM(windows, mac, android, cli)
+🚫 去掉注释行: !+ NOT_PLATFORM(windows, mac, android, cli)
+🚫 去掉注释行: !+ NOT_OPTIMIZED PLATFORM(windows, mac, android, cli)
 🚫 去掉注释行: !
 🚫 去掉注释行: ! https://github.com/AdguardTeam/AdguardFilters/issues/31688
 🚫 去掉注释行: !
@@ -228,7 +228,7 @@
 🚫 去掉注释行: ! https://github.com/AdguardTeam/AdguardFilters/issues/162256
 🚫 去掉注释行: ! https://github.com/AdguardTeam/AdguardFilters/issues/38159
 🚫 去掉注释行: ! https://github.com/AdguardTeam/AdguardFilters/issues/8077
-🚫 去掉注释行: !+ NOT_PLATFORM(windows, mac, android)
+🚫 去掉注释行: !+ NOT_PLATFORM(windows, mac, android, cli)
 🚫 去掉注释行: !---------------------------------------------------------------------
 🚫 去掉注释行: !------------------------------ Fixing other filters -----------------
 🚫 去掉注释行: !---------------------------------------------------------------------
@@ -684,7 +684,7 @@
 🚫 去掉注释行: ! countly.com
 🚫 去掉注释行: ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 🚫 去掉注释行: ! Disabled in DNS filter
-🚫 去掉注释行: !+ PLATFORM(windows, mac, android)
+🚫 去掉注释行: !+ PLATFORM(windows, mac, android, cli)
 🚫 去掉注释行: ! Blocking piwik analytics subdomain(for DNS filtering)
 🚫 去掉注释行: !
 🚫 去掉注释行: !
@@ -1576,10 +1576,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 100659
-🚫 去掉注释行: ! Checksum: Le6p8PKaP/7P8QAd3PJ4DQ
-🚫 去掉注释行: ! Version: 202603171352
+🚫 去掉注释行: ! Checksum: kH0MyC8EU5GDDnd+rxn1mw
+🚫 去掉注释行: ! Version: 202603171511
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 17 Mar 2026 13:52 UTC
+🚫 去掉注释行: ! Last modified: 17 Mar 2026 15:11 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -15647,9 +15647,8 @@
 ✅ 多域名拆分: gumtree.com.au,s.tabelog.com#@#[data-ad-name]
     → |gumtree.com.au#@#[data-ad-name]
     → |s.tabelog.com#@#[data-ad-name]
-✅ 多域名拆分: amazon.com,cancam.jp,faceyourmanga.com,isc2.org,liverc.com,mit.edu,muscatdaily.com,olx.pl,saitama-np.co.jp,timesofoman.com,virginaustralia.com#@#[id^="div-gpt-ad"]
+✅ 多域名拆分: amazon.com,faceyourmanga.com,isc2.org,liverc.com,mit.edu,muscatdaily.com,olx.pl,saitama-np.co.jp,timesofoman.com,virginaustralia.com#@#[id^="div-gpt-ad"]
     → |amazon.com#@#[id^="div-gpt-ad"]
-    → |cancam.jp#@#[id^="div-gpt-ad"]
     → |faceyourmanga.com#@#[id^="div-gpt-ad"]
     → |isc2.org#@#[id^="div-gpt-ad"]
     → |liverc.com#@#[id^="div-gpt-ad"]
@@ -15673,9 +15672,6 @@
 ✅ 多域名拆分: googleads.g.doubleclick.net,safeframe.googlesyndication.com#@#div[id^="ad_position_"]
     → |googleads.g.doubleclick.net#@#div[id^="ad_position_"]
     → |safeframe.googlesyndication.com#@#div[id^="ad_position_"]
-✅ 多域名拆分: cancam.jp,saitama-np.co.jp#@#div[id^="div-gpt-"]
-    → |cancam.jp#@#div[id^="div-gpt-"]
-    → |saitama-np.co.jp#@#div[id^="div-gpt-"]
 🚫 去掉注释行: !! invideo ad
 ✅ 多域名拆分: click2houston.com,clickondetroit.com,clickorlando.com,ksat.com,news4jax.com,wsls.com#@#.ac-widget-placeholder
     → |click2houston.com#@#.ac-widget-placeholder
@@ -24792,10 +24788,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: Ls1BhELL8tACXNliSXWovg
-🚫 去掉注释行: ! Version: 202603171352
+🚫 去掉注释行: ! Checksum: g6ALV+GN18vwoVN+Wq/T2Q
+🚫 去掉注释行: ! Version: 202603171511
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 17 Mar 2026 13:52 UTC
+🚫 去掉注释行: ! Last modified: 17 Mar 2026 15:11 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29387,10 +29383,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: 3Jac464u7B6XS+wXr3cy0A
-🚫 去掉注释行: ! Version: 202603171352
+🚫 去掉注释行: ! Checksum: 2YaI7cK3wyj0hJj8l9DPNA
+🚫 去掉注释行: ! Version: 202603171511
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 17 Mar 2026 13:52 UTC
+🚫 去掉注释行: ! Last modified: 17 Mar 2026 15:11 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -30098,11 +30094,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202603171356
+🚫 去掉注释行: ! Version: 202603171510
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 17 Mar 2026 13:56 UTC
+🚫 去掉注释行: ! Last modified: 17 Mar 2026 15:10 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 8cfe6487ee5647f928a764ee11a7694bf8e2c8ee
+🚫 去掉注释行: ! Commit: 15bf08245c69d6fe3d46f51ed3ea854ed28c6578
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -44173,9 +44169,8 @@
 ✅ 多域名拆分: gumtree.com.au,s.tabelog.com#@#[data-ad-name]
     → |gumtree.com.au#@#[data-ad-name]
     → |s.tabelog.com#@#[data-ad-name]
-✅ 多域名拆分: amazon.com,cancam.jp,faceyourmanga.com,isc2.org,liverc.com,mit.edu,muscatdaily.com,olx.pl,saitama-np.co.jp,timesofoman.com,virginaustralia.com#@#[id^="div-gpt-ad"]
+✅ 多域名拆分: amazon.com,faceyourmanga.com,isc2.org,liverc.com,mit.edu,muscatdaily.com,olx.pl,saitama-np.co.jp,timesofoman.com,virginaustralia.com#@#[id^="div-gpt-ad"]
     → |amazon.com#@#[id^="div-gpt-ad"]
-    → |cancam.jp#@#[id^="div-gpt-ad"]
     → |faceyourmanga.com#@#[id^="div-gpt-ad"]
     → |isc2.org#@#[id^="div-gpt-ad"]
     → |liverc.com#@#[id^="div-gpt-ad"]
@@ -44199,9 +44194,6 @@
 ✅ 多域名拆分: googleads.g.doubleclick.net,safeframe.googlesyndication.com#@#div[id^="ad_position_"]
     → |googleads.g.doubleclick.net#@#div[id^="ad_position_"]
     → |safeframe.googlesyndication.com#@#div[id^="ad_position_"]
-✅ 多域名拆分: cancam.jp,saitama-np.co.jp#@#div[id^="div-gpt-"]
-    → |cancam.jp#@#div[id^="div-gpt-"]
-    → |saitama-np.co.jp#@#div[id^="div-gpt-"]
 🚫 去掉注释行: ! ! invideo ad
 ✅ 多域名拆分: click2houston.com,clickondetroit.com,clickorlando.com,ksat.com,news4jax.com,wsls.com#@#.ac-widget-placeholder
     → |click2houston.com#@#.ac-widget-placeholder
@@ -53318,11 +53310,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202603171356
+🚫 去掉注释行: ! Version: 202603171510
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 17 Mar 2026 13:56 UTC
+🚫 去掉注释行: ! Last modified: 17 Mar 2026 15:10 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 8cfe6487ee5647f928a764ee11a7694bf8e2c8ee
+🚫 去掉注释行: ! Commit: 15bf08245c69d6fe3d46f51ed3ea854ed28c6578
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
