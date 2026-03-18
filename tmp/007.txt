@@ -5768,9 +5768,9 @@ twitch.tv##.social-media-link
 tomshardware.com##.socialite-widget-ul
 megaup.net##.socialsider
 jewishpress.com##.twitter-follow-button
-arbys.com#?#[class^="linkBlocks_linkBlock__"]:-abp-has(> [class^="linkBlocks_socialLinkBlockList__"])
-relationshiphero.com#?#div:-abp-has(+ .socialIcons)
-viranomaisuutiset.fi#?#.wpb_wrapper.td_block_wrap:-abp-has(a[href^="https://whatsapp.com"])
+viranomaisuutiset.fi##.wpb_wrapper.td_block_wrap:has(a[href^="https://whatsapp.com"])
+arbys.com##[class^="linkBlocks_linkBlock__"]:has(> [class^="linkBlocks_socialLinkBlockList__"])
+relationshiphero.com##div:has(+ .socialIcons)
 maroelamedia.co.za###social-followers
 akkogear.com.vn##.box_fixRight
 baoquocte.vn##.bqt-share-social
@@ -6168,15 +6168,15 @@ tivi.fi##.cArfwR.sc-1fbt3do-0
 mikrobitti.fi##.cyhxvA.sc-tq30ek-31
 seura.fi##.entry-socialmedia-title
 tekniikkatalous.fi##.fmUFKd.sc-zxh5v-0
+forssanlehti.fi##.herald-single-sticky:has(.herald-share)
 mobiili.fi##.mobsome_icons
+apotti.fi##.post-footer:has(> .share)
 ampparit.com##.social-media-links > .sidebox-content
 ampparit.com##.social-media-links > h3[class="sidebox-header"]
 voice.fi##.social-navigation > .nav-item
 etusuora.com##.some > *
 ku.fi##.somejaot
-apotti.fi#?#.post-footer:-abp-has(> .share)
 demokraatti.fi##div[class^="Styles__InnerContainer-"] > .animated
-forssanlehti.fi#?#.herald-single-sticky:-abp-has(.herald-share)
 lelo.ge##.article_social_bottom
 interpressnews.ge##.articlesocial
 kvirispalitra.ge##.d-flex.mt-3

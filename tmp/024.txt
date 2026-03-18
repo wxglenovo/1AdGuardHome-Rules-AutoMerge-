@@ -13567,7 +13567,7 @@ moebelix.at##body > div > div:has(#jentis_consent)
 boomlify.com##div > div:has-text(We use cookies to improve your experience.)
 yogainternational.com##div[class^="elements__Banner-"]:has(> div > a[href$="-privacy-policy"])
 help.semmelweis.hu#?#.modal:has(h3:has-text(SÃ¼tik hasznÃ¡lata)):has(button:has-text(ElfogadÃ¡s))
-kick.com#?#.z-modal:-abp-contains(You are in control of cookies used)
+kick.com#?#.z-modal:has-text(You are in control of cookies used)
 ura.news#?#.gR.t:has-text(Ð¡Ð°Ð¹Ñ Ð¸ÑÐ¿Ð¾Ð»ÑÐ·ÑÐµÑ cookie.)
 flyfi.com##.HASH_COOKIE_ALERT_GRID_ITEM_FIXED
 aainflight.com##div[class*="_toastContainer_"]:has-text(We care about your privacy)
@@ -13654,7 +13654,7 @@ tiktok.com##tiktok-cookie-banner
 globalblue.com##.gbnew-cookie-bar
 wildberries.ru###Portal-warning-cookies-modal
 revolut.com##div[role="dialog"]:has-text(/Cookies|cookies/)
-minhaconexao.com.br#?#section[id][class]:-abp-has(:scope > div[class] > button[class][onclick^="onClickCookiesBannerWeb"])
+minhaconexao.com.br##section[id][class]:has(:scope > div[class] > button[class][onclick^="onClickCookiesBannerWeb"])
 |eduface.ru#@#.cookies_popup
 |edumsko.ru#@#.cookies_popup
 podleze-piekielko.pl#$#abort-on-property-read cookieman
@@ -17202,18 +17202,30 @@ culture.ru##.notify-bar
 ngzt.ru##.notifycation
 |33-news.ru##.notifycation__wrap
 |news-komi.ru##.notifycation__wrap
+|ngnovoros.ru##.notifycation_notifycation__BeRRP
+|pg02.ru##.notifycation_notifycation__BeRRP
 |pg11.ru##.notifycation_notifycation__BeRRP
 |pg12.ru##.notifycation_notifycation__BeRRP
+|pg21.ru##.notifycation_notifycation__BeRRP
+|pg37.ru##.notifycation_notifycation__BeRRP
+|pg46.ru##.notifycation_notifycation__BeRRP
+|pgn21.ru##.notifycation_notifycation__BeRRP
+|pgr76.ru##.notifycation_notifycation__BeRRP
 |prochepetsk.ru##.notifycation_notifycation__BeRRP
+|prodzer.ru##.notifycation_notifycation__BeRRP
+|progorod33.ru##.notifycation_notifycation__BeRRP
 |progorod43.ru##.notifycation_notifycation__BeRRP
 |progorod58.ru##.notifycation_notifycation__BeRRP
 |progorod62.ru##.notifycation_notifycation__BeRRP
+|progorodnn.ru##.notifycation_notifycation__BeRRP
 |progoroduhta.ru##.notifycation_notifycation__BeRRP
+|prosaratov.ru##.notifycation_notifycation__BeRRP
 |usolie.info##.notifycation_notifycation__BeRRP
-|newskrasnodar.ru##.notifycation_notifycation__X6Fsx, ngnovoros.ru,pg02.ru,pg12.ru,pg21.ru,pg37.ru,pg46.ru,pgn21.ru,pgr76.ru,prochepetsk.ru,prodzer.ru,progorod33.ru,progorod43.ru,progorod58.ru,progorodnn.ru,progoroduhta.ru,prosaratov.ru,usolie.info,youtvnews.com##.notifycation_notifycation__BeRRP
-|pg11.ru##.notifycation_notifycation__X6Fsx, ngnovoros.ru,pg02.ru,pg12.ru,pg21.ru,pg37.ru,pg46.ru,pgn21.ru,pgr76.ru,prochepetsk.ru,prodzer.ru,progorod33.ru,progorod43.ru,progorod58.ru,progorodnn.ru,progoroduhta.ru,prosaratov.ru,usolie.info,youtvnews.com##.notifycation_notifycation__BeRRP
-|pg13.ru##.notifycation_notifycation__X6Fsx, ngnovoros.ru,pg02.ru,pg12.ru,pg21.ru,pg37.ru,pg46.ru,pgn21.ru,pgr76.ru,prochepetsk.ru,prodzer.ru,progorod33.ru,progorod43.ru,progorod58.ru,progorodnn.ru,progoroduhta.ru,prosaratov.ru,usolie.info,youtvnews.com##.notifycation_notifycation__BeRRP
-|vladivostoktimes.ru##.notifycation_notifycation__X6Fsx, ngnovoros.ru,pg02.ru,pg12.ru,pg21.ru,pg37.ru,pg46.ru,pgn21.ru,pgr76.ru,prochepetsk.ru,prodzer.ru,progorod33.ru,progorod43.ru,progorod58.ru,progorodnn.ru,progoroduhta.ru,prosaratov.ru,usolie.info,youtvnews.com##.notifycation_notifycation__BeRRP
+|youtvnews.com##.notifycation_notifycation__BeRRP
+|newskrasnodar.ru##.notifycation_notifycation__X6Fsx
+|pg11.ru##.notifycation_notifycation__X6Fsx
+|pg13.ru##.notifycation_notifycation__X6Fsx
+|vladivostoktimes.ru##.notifycation_notifycation__X6Fsx
 onlinepbx.ru##.onlinepbx__cookie__modal
 otpbank.ru##.p-cookies-notification
 |lamoda.ru##.page > [class*="widget"]
