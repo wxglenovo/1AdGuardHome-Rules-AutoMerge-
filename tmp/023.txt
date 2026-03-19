@@ -17269,6 +17269,7 @@ wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotifi
 |reklama5.com###cookiePopup
 |visitseoul.net###cookiePopup
 |athenaeumscheltema.nl##.cookie-popup
+|biz.chosun.com##.cookie-popup
 |campfimfo.com##.cookie-popup
 |championat.ru##.cookie-popup
 |cigars-shops.ru##.cookie-popup
@@ -45900,7 +45901,6 @@ revolvermag.com##.w-newsletter-form
 |pocket-lint.com##.w-newsletter-in_article
 |thethings.com##.w-newsletter-in_article
 revolvermag.com##.w-newsletter-right-rail
-thegamer.com##.w-promotion-offer
 bodybuilding.com##.w21_middle-bar__newsletter
 elpais.com##.w_tx
 kyivindependent.com##.war-notes-banner
@@ -46205,6 +46205,30 @@ pedestrian.tv##ticker-subscription
 |theverge.com##.duet--cta--newsletter
 spin.com##.border-backgrounds.flex.flex-wrap.border-t:has(form-container)
 emobilityplus.com##.sharedaddy
+|androidpolice.com##.w-promotion-offer:has(.newsletter-promotion-large)
+|backyardboss.net##.w-promotion-offer:has(.newsletter-promotion-large)
+|carbuzz.com##.w-promotion-offer:has(.newsletter-promotion-large)
+|cbr.com##.w-promotion-offer:has(.newsletter-promotion-large)
+|collider.com##.w-promotion-offer:has(.newsletter-promotion-large)
+|dualshockers.com##.w-promotion-offer:has(.newsletter-promotion-large)
+|fextralife.com##.w-promotion-offer:has(.newsletter-promotion-large)
+|footballfancast.com##.w-promotion-offer:has(.newsletter-promotion-large)
+|footballleagueworld.co.uk##.w-promotion-offer:has(.newsletter-promotion-large)
+|gamerant.com##.w-promotion-offer:has(.newsletter-promotion-large)
+|givemesport.com##.w-promotion-offer:has(.newsletter-promotion-large)
+|hotcars.com##.w-promotion-offer:has(.newsletter-promotion-large)
+|makeuseof.com##.w-promotion-offer:has(.newsletter-promotion-large)
+|movieweb.com##.w-promotion-offer:has(.newsletter-promotion-large)
+|pocket-lint.com##.w-promotion-offer:has(.newsletter-promotion-large)
+|screenrant.com##.w-promotion-offer:has(.newsletter-promotion-large)
+|simpleflying.com##.w-promotion-offer:has(.newsletter-promotion-large)
+|thegamer.com##.w-promotion-offer:has(.newsletter-promotion-large)
+|therichest.com##.w-promotion-offer:has(.newsletter-promotion-large)
+|thesportster.com##.w-promotion-offer:has(.newsletter-promotion-large)
+|thethings.com##.w-promotion-offer:has(.newsletter-promotion-large)
+|thetravel.com##.w-promotion-offer:has(.newsletter-promotion-large)
+|topspeed.com##.w-promotion-offer:has(.newsletter-promotion-large)
+|xda-developers.com##.w-promotion-offer:has(.newsletter-promotion-large)
 polygon.com##[class]:has(> .duet--cta--newsletter)
 aarp.org#?#.recommendationSection:has-text(Newsletter)
 advancedsciencenews.com#?#.et_pb_row_1_tb_body:has-text(Sign up for our weekly newsletter)
