@@ -4836,6 +4836,7 @@ _social_footer_
 ||youtube.com/subscribe_embed?$third-party
 ||youtube.com/subscribe_widget$third-party
 ||zextit.com/partners/$third-party
+||gasgoo.com/api/wxshare/
 ||hotpot.ai/components/shareOverlay
 ||ipaddress.com/shariff/
 ||naturalnews.com/getviews2.
@@ -13152,7 +13153,7 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 ||bysarahkhan.com/wp-content/plugins/surbma-yes-no-popup/
 ||cb-mms.carbuyer.co.uk^
 ||cc.werk3.de/public/app.js
-||cdn-cookieyes.com^$domain=lykke.com|meiro.io|miniso-us.com|planhub.ca|tarisio.com
+||cdn-cookieyes.com^$domain=hamat.co.il|lykke.com|meiro.io|miniso-us.com|planhub.ca|tarisio.com
 ||cdn.myanimelist.net/js/quantcast_choice.js
 ||channel4.com/consent/
 ||chrono24.com/lib/generated/js/responsive-size-cookie.$script
@@ -14188,6 +14189,7 @@ philstarlife.com###privacy-policy-container
 foundryvtt.com###privacy-policy-prompt
 fa-mag.com###privacy-policy-sticky
 |advmusic.com###privacy-popup
+|kidmah.co.il###privacy-popup
 |utas.edu.au###privacy-popup
 supermicro.com###privacy-popup-agree
 toomics.com###privacy-popup-msg
@@ -15850,6 +15852,7 @@ gaijin.net##.js-cb-policy
 nordarun.com##.js-consent-management
 |cdek.shopping##.js-cookie-consent
 |mangaplanet.com##.js-cookie-consent
+|sourcesecurity.com##.js-cookie-consent
 osprey.com##.js-cookie-consent-popup__bg
 pharming.com##.js-cookiebar-container
 ibinder.com##.js-cookiebot
@@ -16165,7 +16168,8 @@ girlfriend.com##.opacity-100.translate-y-0
 |waltons.co.za##.optin-sdk-root
 eventix.io##.ot-cookies
 cbsnews.com##.ot-fade-in
-stevemadden.com##.ot-sdk-container
+|maalot.co.il##.ot-sdk-container
+|stevemadden.com##.ot-sdk-container
 sinparty.com##.ot-sdk-row
 |amazfit.com##.otCookiesNotification
 |cabletimetech.com##.otCookiesNotification
@@ -17196,12 +17200,18 @@ just-eat.ie##div[data-qa="jet-privacy-settings"]
 |wplt20.com###cookieConsent
 |yenibeygir.com###cookieConsent
 |actie.degoedezaak.org##.cookies-consent
+|ashush-projects.co.il##.cookies-consent
 |campax.org##.cookies-consent
 |controller.com##.cookies-consent
+|hamat-group.co.il##.cookies-consent
 |hamat.co.il##.cookies-consent
+|mashumashu.co.il##.cookies-consent
+|medor.co.il##.cookies-consent
 |mrfdev.com##.cookies-consent
+|ofek-mitam.com##.cookies-consent
 |pandoor.co.il##.cookies-consent
 |pelephone.co.il##.cookies-consent
+|vgardenfoods.com##.cookies-consent
 |voicemod.net##.cookies-consent
 |arukereso.hu###cookie-disclaimer
 |biblio.com.au###cookie-disclaimer
@@ -17378,6 +17388,7 @@ sogeti.*###popup-cookieConsent
 |netshort.com##.cookies-container
 |seedtag.com##.cookies-container
 |snoopza.com##.cookies-container
+|sonol.co.il##.cookies-container
 |trensurb.gov.br##.cookies-container
 |trf1.jus.br##.cookies-container
 |2lprodutora.com##.consent-banner-root
@@ -17620,6 +17631,8 @@ sogeti.*###popup-cookieConsent
 |emerald.com###cookies-consent
 |fadc.org.br###cookies-consent
 |forit.ro###cookies-consent
+|my-twist.tempurl.co.il###cookies-consent
+|tece.co.il###cookies-consent
 |libre-media.com###cookies-policy
 |pharmacyclub.net###cookies-policy
 |zonaprop.com.ar###cookies-policy
@@ -17798,6 +17811,7 @@ experianidentityservice.co.uk###ensBannerBG
 |macpac.co.nz##.cookie-message
 |mercantile.co.il##.cookie-message
 |meups.com.br##.cookie-message
+|motosport.co.il##.cookie-message
 |nomos-glashuette.com##.cookie-message
 |ostwest.tv##.cookie-message
 |pdpc.gov.sg##.cookie-message
@@ -21702,6 +21716,8 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |marias-alm.at##.CookieConsent
 |meld.io##.CookieConsent
 |nebula.tv##.CookieConsent
+|next.*##.CookieConsent
+|nextdirect.com##.CookieConsent
 |nifty.com##.CookieConsent
 |nordlayer.com##.CookieConsent
 |nordlocker.com##.CookieConsent
@@ -22497,6 +22513,7 @@ prsformusic.com###cookie__modal
 |albar.co.il###cookie-consent-banner
 |bigassfans.com###cookie-consent-banner
 |chicagobooth.edu###cookie-consent-banner
+|city-garden.co.il###cookie-consent-banner
 |etzmaleh.co.il###cookie-consent-banner
 |eurocommercialproperties.com###cookie-consent-banner
 |frisbi24.ru###cookie-consent-banner
@@ -38321,19 +38338,30 @@ box.gr##box-cookies
 cosmoteinsurance.gr##cookies-concent
 myrewardscoupons.dei.gr##div[class^="cookies_"]
 ertflix.gr##div[data-test="cookie-policy"]
+|alfaromeo.co.il###C_popup
+|hongqi.co.il###C_popup
 malamteam.com###MavilixCookiesBox
 calendar.2net.co.il###UseCookies
-maccabi4u.co.il###ZA_CAMP_BANNER_CONTAINER
+|citroen.co.il###ZA_CAMP_BANNER_CONTAINER
+|dsautomobiles.co.il###ZA_CAMP_BANNER_CONTAINER
+|maccabi4u.co.il###ZA_CAMP_BANNER_CONTAINER
+|mg-israel.co.il###ZA_CAMP_BANNER_CONTAINER
+|opel.co.il###ZA_CAMP_BANNER_CONTAINER
+|peugeot.co.il###ZA_CAMP_BANNER_CONTAINER
 maccabi4u.co.il###ZA_CAMP_MOBILE_CONTAINER
 meitav.co.il###ZA_CAMP_SLIDEIN_CONTAINER
 myofer.co.il###bottom-toasts-layer
+lubinskitrade.co.il###ccm-cookie-banner
+cmotors.co.il###cm-consent-banner
 tambour.co.il###cookie-consent-acf-backdrop
 |impress-stores.co.il###cookie-consent-acf-modal
 |tambour.co.il###cookie-consent-acf-modal
+ngsoft.com###cookie-consent-strip
 zinger-organic.com###cookie-consent-wrapper
 019mobile.co.il###cookie-except-banner
 madlan.co.il###cookie-root
 globes.co.il###cookiesConfirmDiv
+nathan-yochel.co.il###cui-banner
 soltam.co.il###dfwt-gdpr-overlay
 bigelectric.co.il###gdprCookieBar
 davidson.org.il###gnb
@@ -38344,6 +38372,8 @@ ivory.co.il###removeBannerCookie
 ipo.co.il###rg-privacy-wrap
 gadgety.co.il###upnext-cookie-notice
 cal-online.co.il###wc-using-cookies
+|lubit.co.il###www-cookies-consent-banner
+|talronbatt.co.il###www-cookies-consent-banner
 iroads.co.il##.CookiePolicyDisclaimer
 amot.co.il##.Cookies__StyledSnackbar-sc-1o4gw82-1
 lastprice.co.il##.PCConsent
@@ -38360,6 +38390,7 @@ bug.co.il##.cookies-policy-modal-container
 pazgas.co.il##.cookies-popup-overlay
 |ackerstein.co.il##.cookies13wrap
 |eliasi.co.il##.cookies13wrap
+|frid.co.il##.cookies13wrap
 landwercafe.co.il##.cookies_modal_container
 pais.co.il##.cookies_sec
 tel-aviv.gov.il##.customerAgreement
@@ -38397,6 +38428,7 @@ diners.co.il##.message-container
 ksp.co.il##.mui-b13abt.MuiBox-root
 bankhapoalim.co.il##.muirtl-1cwm7gt
 ksp.co.il##.muirtl-b13abt.MuiBox-root
+lightin.co.il##.pcs-short-strip
 super-pharm.co.il##.phcBlockCookiesWrap
 gomobile.co.il##.popup-contents
 colmobil.co.il##.popup-privacy
@@ -40898,6 +40930,7 @@ ants.vn##.sg-popup-content
 ||vpd.fi/datalayer/index/cookieContent/$xmlhttprequest,domain=vpd.fi
 ||aia.gr/cookie/
 ||cmp.soundis.gr^
+||img.zapgroup.co.il/policy/
 ||tp.triple.co.il^
 ||atmedia.hu/hirtv.hu_consent.js
 ||kronikaonline.ro/template/kronika/js/js_cookie.js
@@ -43357,6 +43390,7 @@ cltampa.com##.NewsletterSignup
 |iotworldtoday.com##.NewsletterSignupButton
 themirror.com##.NewsletterSignup_container__UINqe
 |aftermath.site##.NewsletterSignup_wrapper__rmf2c
+|nautil.us##.NewsletterSignup_wrapper__rmf2c
 |sf.gazetteer.co##.NewsletterSignup_wrapper__rmf2c
 wgbh.org##.NewsletterSubscribe
 ranker.com##.NewsletterSubscription_mainWrapper__GxgFi
