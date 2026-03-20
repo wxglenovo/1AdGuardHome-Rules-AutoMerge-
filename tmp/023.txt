@@ -13286,7 +13286,7 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 ||teamsimmer.com/wp-content/uploads/klaro/klaro.js
 ||technomedia.com/*/cookies.js$script,~third-party
 ||terencehill.com/modules/hicookielaw/
-||transcend-cdn.com^$domain=1password.com|aibusiness.com|anaconda.com|apollo.io|aviationweek.com|chubbiesshorts.com|classy.org|conan.io|costco.ca|costco.com|costcobusinessdelivery.com|darkreading.com|digicert.com|etsy.com|eyeconic.com|fanexpohq.com|fashionnova.com|fightingillini.com|forhers.com|gamechoiceawards.com|gamedeveloper.com|gdconf.com|gdcvault.com|gofundme.com|habitburger.com|igf.com|igt.com|indiegogo.com|informa.com|informaconnect.com|jfrog.com|kfc.com|kickstarter.com|lifetouch.com|mountaineast.org|ncaa.org|netapp.com|notion.com|patreon.com|shutterfly.com|tandfonline.com|taylorfrancis.com|theaisummit.com|theordinary.com|vimeo.com|visible.com|vsp.com|vspdirect.com
+||transcend-cdn.com^$domain=1password.com|aibusiness.com|anaconda.com|apollo.io|aviationweek.com|chubbiesshorts.com|classy.org|conan.io|costco.ca|costco.com|costcobusinessdelivery.com|darkreading.com|digicert.com|etsy.com|eyeconic.com|fanexpohq.com|fashionnova.com|fightingillini.com|forhers.com|gamechoiceawards.com|gamedeveloper.com|gdconf.com|gdcvault.com|gofundme.com|habitburger.com|igf.com|igt.com|indiegogo.com|informa.com|informaconnect.com|jfrog.com|kfc.com|kickstarter.com|lifetouch.com|mountaineast.org|ncaa.org|netapp.com|notion.com|patreon.com|shutterfly.com|tacobell.co.uk|tandfonline.com|taylorfrancis.com|theaisummit.com|theordinary.com|vimeo.com|visible.com|vsp.com|vspdirect.com
 ||transcendcdn.eventbrite.com^
 ||tvpworld.com/files/portale-v4/polityka-prywatnosci/js/tvp-tcfapi.js
 ||umich.edu/apis/umcookieconsent/
@@ -16787,19 +16787,6 @@ kstp.com##[aria-label="Cookie Consent Banner"]
 dictionary.cambridge.org##[aria-label="Cookie banner"]
 docs.nats.io##[aria-label="Cookies"]
 khanacademy.org##[aria-label="Notification Banner"]
-|bicycling.com##[aria-label="Privacy Disclosure"]
-|caranddriver.com##[aria-label="Privacy Disclosure"]
-|cosmopolitan.com##[aria-label="Privacy Disclosure"]
-|countryliving.com##[aria-label="Privacy Disclosure"]
-|delish.com##[aria-label="Privacy Disclosure"]
-|elle.com##[aria-label="Privacy Disclosure"]
-|esquire.com##[aria-label="Privacy Disclosure"]
-|goodhousekeeping.com##[aria-label="Privacy Disclosure"]
-|harpersbazaar.com##[aria-label="Privacy Disclosure"]
-|roadandtrack.com##[aria-label="Privacy Disclosure"]
-|runnersworld.com##[aria-label="Privacy Disclosure"]
-|thepioneerwoman.com##[aria-label="Privacy Disclosure"]
-|womenshealthmag.com##[aria-label="Privacy Disclosure"]
 |itesco.sk##[aria-label="consent-banner"]
 |tesco.*##[aria-label="consent-banner"]
 perlego.com##[aria-label="cookie banner"]
@@ -16915,6 +16902,7 @@ c.realme.com##div > .cookie-privacy
 |support.saleae.com##div.r-1xcajam.css-175oi2r
 |wiki.valhelsia.net##div.r-1xcajam.css-175oi2r
 utrechtart.com##div[aria-label="cookie consent banner"]
+|bicycling.com##div[aria-label^="Privacy Disclosure"]
 |biography.com##div[aria-label^="Privacy Disclosure"]
 |caranddriver.com##div[aria-label^="Privacy Disclosure"]
 |cosmopolitan.com##div[aria-label^="Privacy Disclosure"]
@@ -17044,6 +17032,7 @@ capeunionmart.co.za##div[data-selenium-id="cookies-banner"]
 replain.cc##div[data-storage-item^="t887cookiename_"]
 patreon.com##div[data-tag="cookie-disclosure"]
 pinnacle.com##div[data-test-id="Cookie-PolicyBanner"]
+lego.com##div[data-test="age-gate-disclaimer"]
 |athenegpt.ai##div[data-testid="cookie-banner"]
 |betterhelp.com##div[data-testid="cookie-banner"]
 |brilliant.org##div[data-testid="cookie-banner"]
