@@ -12827,6 +12827,7 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 /toucanCookie.js
 /tronic_gdpr-wordpress/js/scripts.js
 /trustArcHelper.js
+/tvp-tcfapi.js
 /TWCCookies.js
 /twcdisclaimer.js
 /uc-cmp/loader.js
@@ -20070,6 +20071,7 @@ clarochile.cl##.cookieModal
 |intergameonline.com##.cookies
 |itkkit.com##.cookies
 |iwp.be##.cookies
+|izhlife.ru##.cookies
 |jefferson-hifi-video.fr##.cookies
 |justicaeleitoral.jus.br##.cookies
 |kabola.hr##.cookies
@@ -34811,6 +34813,10 @@ mainlinemenswear.co.uk##html:style(overflow: auto !important; position: initial 
 |werkenindetechniek.nl##body,html:style(overflow: auto !important; position: initial !important;)
 pubg.com##.has-dimmed-bg
 pubg.com##body,html:style(overflow: auto !important; position: initial !important;)
+|postnl.be##body:style(position: static !important; overflow: auto !important; width: auto !important;)
+|postnl.nl##body:style(position: static !important; overflow: auto !important; width: auto !important;)
+|postnl.be##pnl-cookie-wall-widget:remove()
+|postnl.nl##pnl-cookie-wall-widget:remove()
 simyo.es##.simyo-cookies
 simyo.es##body,html:style(overflow: auto !important; position: initial !important;)
 shangri-la.com###js-cookie-modal
