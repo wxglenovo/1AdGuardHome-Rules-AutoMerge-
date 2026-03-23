@@ -5993,6 +5993,7 @@ touristspy.com##.heateor_sss_follow_icons_container
 |lifenews.com##.heateor_sss_sharing_container
 |spectator.org##.heateor_sss_sharing_container
 |worldsensorium.com##.heateor_sss_sharing_container
+bringmethenews.com##.hero-media-tools
 |dailyboulder.com##.highlight-shares
 |echonewshub.com##.highlight-shares
 |jugomobile.com##.highlight-shares
@@ -13571,7 +13572,8 @@ nflp.com###compliance-notice
 msn.com###conditionalbanner
 imei24.com###cons
 yopmail.com###cons-pop
-mobisystems.com###consent-banner
+|mobisystems.com###consent-banner
+|parcelsapp.com###consent-banner
 agoda.com###consent-banner-container
 |aspose.com###consent-banner-main
 |chessshop.eu###consent-banner-main
@@ -14040,11 +14042,12 @@ mobilelegends.com###mt-cb-main
 |extreme.com###my-welcome-message
 |mtn.co.za###my-welcome-message
 rockstarcoders.com###myAlert
+|aueb.gr###myModal
 |bott-workplace.co.uk###myModal
 |interface.com###myModal
 |kon-boot.com###myModal
 |southerntravelsindia.com###myModal
-|tcf.org###myModal
+|telegram.im###myModal
 blog.n8n.io###n8n-consent-modal
 spandidos-publications.com###navbar
 anthonytravel.com###nb
@@ -15019,12 +15022,14 @@ img.ly##.cke-overlay
 ruijie.com##.cke2022fr
 stayinwales.co.uk##.ckinfo-panel
 ignitedfitness.com##.cky-consent-bar
+|betplay.com.co##.cky-consent-container
 |click2pharmacy.co.uk##.cky-consent-container
 |delfi.ee##.cky-consent-container
 |johnryanbydesign.co.uk##.cky-consent-container
 |oiq.qc.ca##.cky-consent-container
 |qcs.co.uk##.cky-consent-container
 |scuffers.com##.cky-consent-container
+|betplay.com.co##.cky-overlay
 |click2pharmacy.co.uk##.cky-overlay
 |delfi.ee##.cky-overlay
 |johnryanbydesign.co.uk##.cky-overlay
@@ -17123,7 +17128,6 @@ wirexapp.com##wx-cookie-policy-notification
 |history.com##.p11s5o4
 |yunexpress.com##.p11s5o4
 history.com#?#[data-sentry-component="Box"]:has-text(Legal Terms and Privacy)
-wildberries.*##.fixed-block__cookies
 |amazon.ca###sp-cc-wrapper
 |amazon.co.uk###sp-cc-wrapper
 |amazon.com###sp-cc-wrapper
@@ -17296,8 +17300,12 @@ just-eat.ie##div[data-qa="jet-privacy-settings"]
 cam4.*##.EEoPD
 evertiq.*##.cc-container
 alza.*##.cookies-info
+wildberries.*##.fixed-block__cookies
 track.amazon.*##.wfbHK2
+ripley.*##div[class^="cookiesMessage_"]
 wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotification"]
+|fonedog.jp##.cookiesBanner
+|litmarket.ru##.cookiesBanner
 |betway.*###cookiePopup
 |easyinsights.ai###cookiePopup
 |hito.xyz###cookiePopup
@@ -19681,6 +19689,7 @@ dryg.pl##div[class^="CookiesNoti"]
 |cam4.com##div[class^="CookiesConsent"]
 |ddctoolbox.com##div[class^="CookiesConsent"]
 |pusher.com##div[class^="CookiesConsent"]
+|askfilo.com##div[class*="CookieConsent"]
 |bungie.net##div[class*="CookieConsent"]
 |certik.com##div[class*="CookieConsent"]
 |channele2e.com##div[class*="CookieConsent"]
@@ -22435,6 +22444,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |midrandreporter.co.za##.cookie-banner
 |mishloha.co.il##.cookie-banner
 |modworkshop.net##.cookie-banner
+|news.ru##.cookie-banner
 |northeasterntribune.co.za##.cookie-banner
 |oaic.gov.au##.cookie-banner
 |osthammar.se##.cookie-banner
@@ -38359,7 +38369,6 @@ huli.gr###cp
 isyriza.gr###disclaimer
 insomnia.gr###elInsomniaCookieBar
 opto-center.gr###euc
-aueb.gr###myModal
 beautymark.gr###myPopup
 jamjar.gr###policy-notice
 global.bible###root > .eYGQDi
@@ -38916,7 +38925,6 @@ beforward.jp##.cookie-permission
 camp-fire.jp##.cookie-policy-agreement-notification
 his-mobile.com##.cookieagree
 kani-honke.co.jp##.cookiediag
-fonedog.jp##.cookiesBanner
 octoparse.jp##.cookies_cookies__dWLfO
 tjapan.jp##.fixed_banner
 imobie.jp##.fixedbot
@@ -40084,6 +40092,7 @@ psychologies.ru##.notify-messages-popups
 |pg11.ru##.notifycation_notifycation__X6Fsx
 |pg13.ru##.notifycation_notifycation__X6Fsx
 |vladivostoktimes.ru##.notifycation_notifycation__X6Fsx
+kubnews.ru##.onetrust-banner
 onlinepbx.ru##.onlinepbx__cookie__modal
 otpbank.ru##.p-cookies-notification
 |lamoda.ru##.page > [class*="widget"]
@@ -45734,6 +45743,7 @@ barrons.com##.style--newsletter-signup-bottom--1Spc175x
 emergingtechbrew.com##.style__NewsletterCTAWrapper-sc-e26ea068-2
 inyourarea.co.uk##.styles_DesktopBottomBarSubscriptionForm_21C_s
 emergingtechbrew.com##.styles__NewsletterButtonWrapper-sc-1d1d7156-13
+bringmethenews.com##.styles_announcementBanner__cgbJf
 economictimes.indiatimes.com##.styles_homeLeftSectionBanner__8_ohA
 lareviewofbooks.org##.styles_newsletterContainer__8v_OS
 semafor.com##.styles_newsletterSection__6CWXE
