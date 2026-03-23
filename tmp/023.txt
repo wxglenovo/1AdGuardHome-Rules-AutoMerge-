@@ -15032,7 +15032,6 @@ oipc.bc.ca##.clsPopupContainer
 |macysinc.com##.cm
 |ppg.com##.cm
 singular.com.cy##.cm-notification-container
-blik.com##.cm-overlay
 moddrop.com##.cm-z-4
 radioplayer.org##.cm__blocked
 noblecorp.com##.cm_disclaimer
@@ -19231,6 +19230,7 @@ morningstar.com###additionalInfoe
 |creativehut.com.br##.cc-window
 |discussion.fedoraproject.org##.cc-window
 |e-infra.com##.cc-window
+|econodata.com.br##.cc-window
 |ecpe.org##.cc-window
 |eingutertag.org##.cc-window
 |eliebleu.com##.cc-window
@@ -24556,6 +24556,10 @@ caldigit.com##.elementor-element-31e18001
 |sellpy.fi##.gUbXEK
 |sellpy.nl##.gUbXEK
 |sellpy.se##.gUbXEK
+|agora.pl##.cm-overlay
+|blik.com##.cm-overlay
+|landkreis-mittelsachsen.de##.cm-overlay
+|viennapte.pl##.cm-overlay
 |bairesdev.com##.z-50
 |bootstrap.academy##.z-50
 |doppelherz.com##.z-50
@@ -36964,7 +36968,6 @@ sberbankdirect.de##.cm
 |alex-fm.de##.cm-cookie-container
 |nahkampfkunst.de##.cm-cookie-container
 |naturheilpraxis-schweig.de##.cm-cookie-container
-landkreis-mittelsachsen.de##.cm-overlay
 hifi-janssen.de##.cm-wp-container
 immoscout24.ch##.cmOzGN
 ihk-weiterbildung.de##.cmnstr
@@ -39256,7 +39259,6 @@ discovereurope.esn.pl##.c__cake
 prohibita.pl##.ciachbtm-wrap-container
 vod.warszawa.pl##.cjcVDw
 forumrowerowe.org##.ckg
-agora.pl##.cm-overlay
 aterima-work.pl##.cm-popup-wrapper
 pracuj.pl##.cmulq7z
 sklep.szprychy.com##.config-messages
@@ -42315,6 +42317,7 @@ yoigo.com#@#thor-cookies
 @@||launchpad-wrapper.privacymanager.io/*/launchpad-liveramp.js$script,domain=atresplayer.com
 @@||leanlibrary.com/wp-content/plugins/complianz-gdpr/assets/js/cookieconsent.min.js$~third-party
 @@||learn.inesdi.com/webapps/privacy-disclosure/js/cookieconsent.js$~third-party
+@@||learner.mycreds.ca/assets/*/cookiesConsent.json$xmlhttprequest
 @@||lecourrier-du-soir.com^*/uk-cookie-consent-js
 @@||lightningmaps.org^*/cookieconsent.$script,stylesheet
 @@||linuxcareers.com/_cachebusted/_resx/common/js/cookie-notice-$~third-party
