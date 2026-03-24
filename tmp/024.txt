@@ -2524,6 +2524,7 @@ guilded.gg##.BottomFixedBanner-container
 revolut.com##.Box-rui__sc-1g1k12l-0.Position-rui__sc-nh2ik7-0.OverlayBase__InternalOverlayBase-rui__sc-1722mr-0.hENskt.esoueV.hszaeV
 bgextras.co.uk##.CB393_opts
 napaonline.com##.CCPA
+christianbook.com##.CCPA-Drawer
 classicalarchives.com##.Cdiv
 |2nt.com##.CoZ9Nu8Z
 |say-move.org##.CoZ9Nu8Z
@@ -4919,6 +4920,7 @@ plente.com##[class*="SnackbarMessages__snackbar_"]
 noovo.ca##[class*="modalstyles__StyledModalContainer-"]
 weedmaps.com##[class*="styles__BannerContainer-"]
 anthropic.com##[class^="ConsentBanner_"]
+sunmi.com##[class^="CookieCard_cookie-card"]
 getunleash.io##[class^="CookieControl"]
 marineserre.com##[class^="CookiePopin_"]
 bitbrain.com##[class^="CookiesManager"]
@@ -4941,6 +4943,7 @@ film-news.co.uk##[data-bind="visible: showCookieWarning"]
 www.nature.com##[data-cc-banner]
 wix.com##[data-comp-type="cookie-banner-root-wix"]
 abc.net.au##[data-component="CookieBanner"]
+uidaho.edu##[data-component="CookieConsent"]
 jdslabs.com##[data-component="cookieBanner"]
 koenigsegg.com##[data-component="n3-cookie-notice"]
 pixilart.com##[data-cookie-number]
@@ -5408,6 +5411,7 @@ wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotifi
 |kinoflex.ru##.cookie-popup
 |lovereading4kids.co.uk##.cookie-popup
 |mediathek.lfv-bayern.de##.cookie-popup
+|mindbox.ru##.cookie-popup
 |mts.ru##.cookie-popup
 |mysky.com.ph##.cookie-popup
 |nobliecustomknives.com##.cookie-popup
@@ -5914,6 +5918,7 @@ experianidentityservice.co.uk###ensBannerBG
 |appartementamsterdam.nl##.cookie-message
 |bestbuycyprus.com##.cookie-message
 |cambridge.org##.cookie-message
+|deakin.edu.au##.cookie-message
 |dgpci.mai.gov.ro##.cookie-message
 |discountbank.co.il##.cookie-message
 |dividendmax.com##.cookie-message
@@ -7644,6 +7649,7 @@ dryg.pl##div[class^="CookiesNoti"]
 |onlinedrugtraining.com##.cookie-notice
 |outfit7.com##.cookie-notice
 |pagetiger.com##.cookie-notice
+|podomatic.com##.cookie-notice
 |portfoliobox.com##.cookie-notice
 |pryor.com##.cookie-notice
 |psychiatryonline.org##.cookie-notice
@@ -9228,6 +9234,7 @@ decovarrubias.es###sliding-popup-cookies
 |israelnationalnews.com##.cookie-consent
 |it-world.ru##.cookie-consent
 |jamaicaradio.net##.cookie-consent
+|jivosite.com##.cookie-consent
 |jpradio.jp##.cookie-consent
 |kidtoys.site##.cookie-consent
 |lagacetadegrancanaria.com##.cookie-consent
@@ -15520,6 +15527,7 @@ fyn.nl##cookie
 debijenkorf.nl##div[class^="CookieBar_"]
 topradio.be##div[class^="CookieWall_"]
 waarmaarraar.nl##div[style="margin: 20px; padding-left:20px; padding-right:20px;border: 1px dotted #999999"]
+rabobank.nl##feature-ssr-modular-cookiebanner
 kromsnavelgedrag.nl##main ~ div
 rde.ee###freez_panel
 delfi.ee##.C-cookie-consent
@@ -16108,6 +16116,7 @@ stihl.it##.optin
 figuredart.it##.otCookiesNotification
 oggi-in-tv.it##.privacy-msg
 italradio.org##.privacyStatement
+metooo.io##.privacybottombar
 peer.tv##.rain1-cp-container
 rds.it##.rds-modal-popup
 casevacanza.it##.react-onclickoutside
