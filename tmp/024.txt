@@ -3250,8 +3250,6 @@ moneycontrol.com##.cookie-concern-wrapper
 |perthnow.com.au##.cookie-consent--GDPR
 |thewest.com.au##.cookie-consent--GDPR
 friends.figma.com##.cookie-consent-acknowledgement-conatiner
-|allmyfaves.com##.cookie-consent-banner
-|charlesandcolvard.com##.cookie-consent-banner
 meest-shop.com##.cookie-consent-banner_root__M9V7x
 aerolopa.com##.cookie-consent-modern
 developers.turing.com##.cookie-consent-overlay
@@ -5781,6 +5779,8 @@ sogeti.*###popup-cookieConsent
 |gsk.com###__tealiumGDPRcpPrefs
 |pepperl-fuchs.com###__tealiumGDPRcpPrefs
 |agados.cz##.cookie-consent-banner
+|allmyfaves.com##.cookie-consent-banner
+|charlesandcolvard.com##.cookie-consent-banner
 |concert.ua##.cookie-consent-banner
 |delfortgroup.com##.cookie-consent-banner
 |githubstatus.com##.cookie-consent-banner
@@ -10685,6 +10685,7 @@ prsformusic.com###cookie__modal
 |frisbi24.ru###cookie-consent-banner
 |fundrazr.com###cookie-consent-banner
 |gilsport.co.il###cookie-consent-banner
+|gocase.com.br###cookie-consent-banner
 |interdiscount.ch###cookie-consent-banner
 |joinstellar.ai###cookie-consent-banner
 |kley-zemer.co.il###cookie-consent-banner
@@ -11831,6 +11832,7 @@ foxandbriar.com##.cp-popup-container
 |mbhszepkartya.hu##.cookie-modal
 |mcveiculos.com.br##.cookie-modal
 |metro.style##.cookie-modal
+|my.xm.com##.cookie-modal
 |netkoncept.com##.cookie-modal
 |nslookup.io##.cookie-modal
 |osio.ru##.cookie-modal
@@ -16227,6 +16229,7 @@ tokyotokyo.jp##.annotation-area
 knb.ne.jp##.atention_cookie
 nhk.or.jp##.bottom_optout_announce
 moresco.co.jp##.box_cookie_allow
+xtech.nikkei.com##.bpPrivacy
 animatebookstore.com##.ccst_area
 ebarafoods.com##.consent_c
 get-cp.jp##.cookie-agreement
@@ -16678,6 +16681,7 @@ mojbrzuch.pl##.monit
 urbancity.pl##.notification-alert-wrapper
 ucando.pl##.notifications
 eltrox.pl##.overlay-gdpr
+wtp.waw.pl##.page-consent
 bilkom.pl##.policy
 mein-schauinsland.de##.popup-top-header
 masz.eu##.popupContent
@@ -17114,6 +17118,7 @@ gazprombank.ru###cookie-accept
 cardiovascular.elpub.ru###cookie-banner-wrapper
 ria-m.tv###cookie-msg
 companies.rbc.ru###cookie-popup
+violity.com###cookieConsentPopup
 aeroflot.ru###cookieInfo
 abok.ru###cookieNotice
 itweek.ru###cookie_notification
@@ -17754,6 +17759,7 @@ risketosnomaschetos.es##.barraCookies
 ciudadanos-cs.org##.basic--draw-cookie-message-bar-notice
 ciudadanos-cs.org##.basic--draw-cookie-message-bar-notice--page-content-layer
 queway.es##.basicLightbox
+viabcp.com##.bcp_politica_uso_cookieAdobe
 sinfonicadegalicia.com##.bg-overlay
 |franquiciasmalvon.com##.bg_popup
 |malvon.es##.bg_popup
@@ -18150,6 +18156,7 @@ today.ua##.politic_confidel
 inter.ua##.warning
 |kernel.ua##[role="dialog"]
 |root-nation.com##[role="dialog"]
+mriia.gov.ua##app-cookie-dialog
 olx.ua##div[data-testid="cookies-overlay__container"]
 horiguchi.id###bgLayers_comp-jhq7mc72
 euromika.com###boxprivacy
