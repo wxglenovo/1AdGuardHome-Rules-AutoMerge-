@@ -2180,6 +2180,7 @@ pollylingu.al###opt-form
 atlantic.money###opt-in
 accenture.com###optanon-minimize-wrapper
 harvester.co.uk###optin-optout
+|etat.public.lu###orejime
 |gouvernement.lu###orejime
 |merics.org###orejime
 |service-public.gouv.fr###orejime
@@ -3304,6 +3305,7 @@ chicco.co.uk##.cookie-pop-up-wrapper
 slidelizard.com##.cookie-popup-dialog
 |acquire.io##.cookie-popup_component
 |adelphi.ai##.cookie-popup_component
+|bibliocommons.com##.cookie-popup_component
 |brkfree.com##.cookie-popup_component
 |casey-tanner.com##.cookie-popup_component
 |dfine.at##.cookie-popup_component
@@ -3430,6 +3432,7 @@ herbiesheadshop.com##.cookies-politic__section
 |bollywoodlife.com##.cookies-popup
 |cashconverters.co.za##.cookies-popup
 |chronohunter.com##.cookies-popup
+|cityu.edu.hk##.cookies-popup
 |gskill.com##.cookies-popup
 |india.com##.cookies-popup
 |proactiveinvestors.co.uk##.cookies-popup
@@ -3641,7 +3644,8 @@ componentsearchengine.com##.eu-message
 |niedersteinhof.it##.eu-popup
 |skinmc.net##.eu-popup
 prospan.com.au##.eu-privacy
-cognizantee.tekstac.com##.eupopup-container
+|cognizantee.tekstac.com##.eupopup-container
+|xbox-store-checker.com##.eupopup-container
 kromgaming.com##.eupouY
 bojoko.com##.evt-notification-bottom
 ezil.me##.ew776696
@@ -5139,6 +5143,7 @@ gitpod.io##div[data-analytics*="cookie"]
 bcs-express.ru##div[data-component="cookie-agreement"]
 cookpad.com##div[data-controller*="cookies-consent"]
 betjets.co.za##div[data-cy^="cookiespolicybar-"]
+miricanvas.com##div[data-f^="CookiePopupContainer"]
 |cammodels.com##div[data-fedmod="userpolicy"]
 |jerkmatelive.org##div[data-fedmod="userpolicy"]
 stripe.com##div[data-js-id="CookieSettingsNotification"]
@@ -5637,6 +5642,7 @@ sogeti.*###popup-cookieConsent
 |kameleoon.com###tarteaucitronRoot
 |klepierre.it###tarteaucitronRoot
 |klimabuendnis.lu###tarteaucitronRoot
+|lassuranceretraite.fr###tarteaucitronRoot
 |lechegaza.com###tarteaucitronRoot
 |openedition.org###tarteaucitronRoot
 |palais.mc###tarteaucitronRoot
@@ -5644,6 +5650,7 @@ sogeti.*###popup-cookieConsent
 |portrevel.com###tarteaucitronRoot
 |rosenbauer.com###tarteaucitronRoot
 |rsf.org###tarteaucitronRoot
+|sante.fr###tarteaucitronRoot
 |scoop.it###tarteaucitronRoot
 |smeg.mc###tarteaucitronRoot
 |space-eye.ch###tarteaucitronRoot
@@ -5783,6 +5790,7 @@ sogeti.*###popup-cookieConsent
 |pccenter.co.il###cookie-consent-popup
 |rsm.co.il###cookie-consent-popup
 |shop-now14.co.il###cookie-consent-popup
+|zulacasino.com###cookie-consent-popup
 |ammeraalbeltech.com##.cookiebar
 |asst-lecco.it##.cookiebar
 |community.dyson.com##.cookiebar
@@ -5969,6 +5977,7 @@ privateproperty.co.za###consentManager
 |cv.ee##.cookie-consent-container
 |cv.lv##.cookie-consent-container
 |cvonline.lt##.cookie-consent-container
+|proz.com##.cookie-consent-container
 |underthehammer.com##.cookie-consent-container
 |designbycreative.co.uk###cookie-overlay
 |gateshead.gov.uk###cookie-overlay
@@ -6799,6 +6808,7 @@ stokrotka.pl###cboxWrapper
 |harmtodt.com###BorlabsCookieBox
 |reinhold-keller.com###BorlabsCookieBox
 |14000.cz###cc-main
+|3daistudio.com###cc-main
 |aitum.tv###cc-main
 |aktivia.it###cc-main
 |andromede-cms.com###cc-main
@@ -6865,6 +6875,7 @@ stokrotka.pl###cboxWrapper
 |ndsas.sk###cc-main
 |new-dashboard.phishfort.com###cc-main
 |nixcademy.com###cc-main
+|olimpo.bet###cc-main
 |openresearchlab.org###cc-main
 |polytoria.com###cc-main
 |poptavka.net###cc-main
@@ -6994,8 +7005,6 @@ stokrotka.pl###cboxWrapper
 |worldoftrucks.com###cc--main
 |zlinskykraj.cz###cc--main
 |zubr.cz###cc--main
-|3daistudio.com###cc-main
-|lustery.com###cc-main
 |a24films.com##.c--anim
 |accademia-agricoltura.it##.c--anim
 |actualidadempleo.es##.c--anim
@@ -7120,6 +7129,7 @@ stokrotka.pl###cboxWrapper
 |srilankan.com##.gdpr
 |sydsvenskan.se##.gdpr
 |tomba.io##.gdpr
+|umkc.edu##.gdpr
 |ezviz.com##.gdpr-wrapper
 |hikvision.com##.gdpr-wrapper
 |ria.com##.gdpr-wrapper
@@ -7133,6 +7143,9 @@ flexiti.com##.z-999
 |ennismore.com##.z-100
 |gemini.pl##.z-100
 |sallys-shop.de##.z-100
+|1cbit.ru##.cookie-panel
+|talon.by##.cookie-panel
+|timeweb.com##.cookie-panel
 |ansell.com.cn##.cookie-bar
 |bakkersonline.be##.cookie-bar
 |bootstrapmade.com##.cookie-bar
@@ -7158,6 +7171,7 @@ flexiti.com##.z-999
 |proex2000.cz##.cookie-bar
 |schuhparadiso.de##.cookie-bar
 |shoplyfter.com##.cookie-bar
+|siamsport.co.th##.cookie-bar
 |smartocto.com##.cookie-bar
 |swappz.com##.cookie-bar
 |teamskeet.com##.cookie-bar
@@ -7605,6 +7619,7 @@ dryg.pl##div[class^="CookiesNoti"]
 |21group.at##.cookie-notice
 |acidcow.com##.cookie-notice
 |allangray.co.za##.cookie-notice
+|almayadeen.net##.cookie-notice
 |amaze.org##.cookie-notice
 |artdentis.com##.cookie-notice
 |autosolar.co##.cookie-notice
@@ -7920,12 +7935,6 @@ dryg.pl##div[class^="CookiesNoti"]
 |thebfa.org##.dialog-lightbox-widget
 |towersemi.com##.dialog-lightbox-widget
 |victorvision.com.br##.dialog-lightbox-widget
-|dvdmax.pl##.modal-cookies
-|me-qr.com##.modal-cookies
-|pasch-net.de##.modal-cookies
-|spirou.com##.modal-cookies
-|superlegalbrinquedos.com.br##.modal-cookies
-|universalmusic.pl##.modal-cookies
 |facebookblueprint.com###gdpr-consent
 |kalenderwoche.at###gdpr-consent
 |kalenderwoche.de###gdpr-consent
@@ -10576,6 +10585,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |spar.co.za##.cookie-banner
 |stake.com##.cookie-banner
 |stjohneyehospital.org##.cookie-banner
+|store.fcm.ea.com##.cookie-banner
 |struer.dk##.cookie-banner
 |student.com##.cookie-banner
 |superbio.es##.cookie-banner
@@ -10680,6 +10690,7 @@ prsformusic.com###cookie__modal
 |thecowboychannelcanada.ca###cookie-consent-banner
 |thewaterchannel.ca###cookie-consent-banner
 |travel-europe.europa.eu###cookie-consent-banner
+|webdunia.com###cookie-consent-banner
 |wildtv.ca###cookie-consent-banner
 |zer4u.co.il###cookie-consent-banner
 |adp-enseignes.com###gdpr
@@ -11557,21 +11568,27 @@ newsbreak.com##.py-2.px-2
 |awwwards.com##.modal-cookies
 |blowtex.com.br##.modal-cookies
 |bmalaw.com.br##.modal-cookies
+|depined.org##.modal-cookies
 |detoxy.cz##.modal-cookies
 |dicampus.es##.modal-cookies
+|dvdmax.pl##.modal-cookies
 |femeval.es##.modal-cookies
 |flawless.pl##.modal-cookies
 |geografica.com.br##.modal-cookies
 |knott-anhaenger-shop.de##.modal-cookies
 |knott-remolque-tienda.es##.modal-cookies
 |knott-trailer-shop.com##.modal-cookies
+|me-qr.com##.modal-cookies
 |normadet.com##.modal-cookies
 |normagrup.com##.modal-cookies
 |normalit.com##.modal-cookies
 |normalux.com##.modal-cookies
+|pasch-net.de##.modal-cookies
 |sa-luz.com##.modal-cookies
 |sourcefurniture.com##.modal-cookies
 |spirou.com##.modal-cookies
+|superlegalbrinquedos.com.br##.modal-cookies
+|universalmusic.pl##.modal-cookies
 |vanhumbeeckfreres.be##.modal-cookies
 |vivara.com.br##.modal-cookies
 |xn--90asehmeeq.xn--p1ai##.modal-cookies
@@ -13678,6 +13695,7 @@ planeteclipse.com#?#.notification:has-text(We use only essential cookies)
 play.google.com#?#.gb_g:has-text(cookie)
 privatekeys.pw#?#.toast:has-text(We use cookies)
 repocket.com#?#.max-w-sm.z-10:has-text(We use third-party cookies)
+sams.com.mx#?#section[role="banner"]:has-text(Aviso de Cookies)
 sniffies.com#?#.footer:has-text(By using our platform)
 t3.chat#?#.justify-center.flex:has-text(Make sure you agree)
 tinder.com#?#.C\(\$c-ds-text-secondary\):has-text(We value your privacy.)
@@ -16753,6 +16771,7 @@ bairroarte.com###dvcookie
 |conhecimento.fgv.br###fgv-lgpd
 |portal.fgv.br###fgv-lgpd
 goldpet.pt###goldpopup
+simplic.com.br###home-page--how-it-works
 ibp.org.br###ibp-container-footer
 abitam.com.br###jsContentLGPD
 infopedia.pt###klaro-pe-overlay
@@ -16999,6 +17018,7 @@ shopee.com.br##.zsav9a
 plurall.net##[class^="PrivacyFooter_"]
 toyota.com.br##[class^="styles_molecule__cookies-"]
 ferreiracosta.com##[data-cy="container-modal-cookie"]
+havan.com.br##[data-role="gdpr-cookie-container"]
 autocompara.com.br##ac-cookie-consent
 privacy.com.br##alert
 band.com.br##app-opt-in
@@ -17215,7 +17235,6 @@ invitro.ru##.cookie--popup
 supersamsev.ru##.cookie-consent-container-wrap
 lk-new.vtbnpf.ru##.cookie-layout
 rutube.ru##.cookie-message-module__cookie-consent
-1cbit.ru##.cookie-panel
 sponsr.ru##.cookie-site-alert
 fc-baltika.ru##.cookie-wrap
 korusconsulting.ru##.cookieConfirm
@@ -18036,7 +18055,6 @@ hosting.com.tr##.contract-popup
 soneksbilgisayar.com##.cookie-agreement-module
 hepsijet.com##.cookie-policy_cookiePolicy__9xbaz
 pinarsu.com.tr##.cookieContent
-beinsports.com.tr##.cookie_cookieConsentWrapper__jDLdN
 ensonhaber.com##.cookiepolicy-banner
 |e-bargello.com##.cp
 |pt.com.tr##.cp
@@ -18076,6 +18094,7 @@ sozcu.com.tr##.using-cookie
 |sabah.com.tr##.veriAltBar
 |yeniasir.com.tr##.veriAltBar
 yenisafak.com##.ys-cookie-modal
+beinsports.com.tr##div[class*="cookie_cookieConsentWrapper"]
 sekerbank.com.tr##div[class^="cookiebox_cookieBox"]
 trtspor.com.tr##div[class^="cookies-info_"]
 |macrocenter.com.tr##fe-product-cookie-indicator
