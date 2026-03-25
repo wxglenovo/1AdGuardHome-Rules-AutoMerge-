@@ -1654,6 +1654,7 @@ fitnesssf.com###consent-click-shield
 |minorhotels.com###consent-dialog
 |oakshotels.com###consent-dialog
 |rag-bone.com###consent-dialog
+|zeffy.com###consent-dialog
 netcraft.com###consent-form
 pkgs.org###consent-notice
 nasdaq.com###consent-placeholder-onetrust
@@ -1901,7 +1902,8 @@ dobbies.com###dobbies_cookie_widget
 uga.edu###dp-cookie-notification
 drupal.org###drupalorg-crosssite-gdpr
 duke.edu###duke-cookie-consent
-shopify.com###dux-privacy
+|oberlo.com###dux-privacy
+|shopify.com###dux-privacy
 dyclassroom.com###dy-cookieInfo-container
 starwest-botanicals.com###eapps-cookie
 swann-morton.com###easyNotification
@@ -1931,6 +1933,8 @@ cricbuzz.com###feedback-bar
 aitopics.org###fixed-footer
 toffeeweb.com###fixedFooter
 metatrader4.com###float-vertical-panel
+deriv.com###flowappz-cookie-consent
+financesonline.com###fodp-cookies-consent
 yodiz.com###footMsgYodiz
 |alternative.me###footer
 |motorsport.com###footer
@@ -2629,6 +2633,7 @@ cs.money##.Popover_wrapper__feCxt
 |cjbayliss.co.uk##.PopupOverall
 |hcdltd.com##.PopupOverall
 powercolor.com##.Privacy
+cvte.com##.Privacy-popup
 dickblick.com##.PrivacyBanner_wrapper__yWJkZ
 weather.com##.PrivacyFeedCard--PrivacyFeedCard--3_Fk5
 |brighteon.com##.PrivacyNotice
@@ -3315,6 +3320,7 @@ up.ac.za##.cookie-preferences-container
 lavueltaholanda.com##.cookie-prefs-wrapper
 ixl.com##.cookie-privacy-banner-container
 astonmartinf1.com##.cookie-prompt
+lightinthebox.com##.cookie-prompt-bg
 eagle.cool##.cookie-promt
 lenovo.com##.cookie-remind-warpper
 mymetpolicepension.equiniti.com##.cookie-section-fixed-top
@@ -3543,6 +3549,7 @@ fotka.com##.dSDHpy
 uphold.com##.dXDXdB
 aeon-fitness.com##.darkScreen
 systematica.com##.darken
+pcloud.com##.data-consent-container
 roundshot.com##.data-consent-edge
 bssmvalues.com##.data-consent-popup
 dashboard.stripe.com##.db-CookieBanner
@@ -5100,6 +5107,7 @@ editorji.com##div[class^="cookie-banner_"]
 perfectcorp.com##div[class^="cookie-statement"]
 |hype4.academy##div[class^="cookieBanner_"]
 |opensource.fb.com##div[class^="cookieBanner_"]
+qwen.ai##div[class^="cookieConfirm"]
 promotions.betfred.com##div[class^="cookie_"]
 |valuexh.life##div[class^="cookiesAnnounce-"]
 |xhaccess.com##div[class^="cookiesAnnounce-"]
@@ -5139,6 +5147,7 @@ start.gg##div[class^="styles_banner_"]
 iafcertsearch.org##div[class^="styles_cookie-consent-"]
 coin360.com##div[class^="styles_cookiesBanner_"]
 youtube.com##div[class^="ytd-consent"]
+mhthemes.com##div[consent-skip-blocker="1"]
 gitpod.io##div[data-analytics*="cookie"]
 bcs-express.ru##div[data-component="cookie-agreement"]
 cookpad.com##div[data-controller*="cookies-consent"]
@@ -5300,6 +5309,7 @@ just-eat.ie##div[data-qa="jet-privacy-settings"]
 |kurz-mal-weg.de###cookieConsent
 |lowellgroup.co.uk###cookieConsent
 |lursoft.lv###cookieConsent
+|mondaq.com###cookieConsent
 |monsterenergy.com###cookieConsent
 |my.eekgames.com###cookieConsent
 |myperfectweather.com###cookieConsent
@@ -7130,6 +7140,7 @@ stokrotka.pl###cboxWrapper
 |sydsvenskan.se##.gdpr
 |tomba.io##.gdpr
 |umkc.edu##.gdpr
+|venngage.com##.gdpr
 |ezviz.com##.gdpr-wrapper
 |hikvision.com##.gdpr-wrapper
 |ria.com##.gdpr-wrapper
@@ -11493,6 +11504,7 @@ onassis.org##.bottom-0.relative
 |airlineratings.com##.bottom-4
 |blog.smithsecurity.biz##.bottom-4
 |boo.world##.bottom-4
+|canyouhack.org##.bottom-4
 |convex.dev##.bottom-4
 |desenio.se##.bottom-4
 |docs.earthly.dev##.bottom-4
