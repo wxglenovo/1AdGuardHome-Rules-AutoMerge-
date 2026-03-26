@@ -13145,6 +13145,7 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 ||smartcookies.it^$third-party
 ||smarteucookiebanner.upsell-apps.com^
 ||snack-projects.co.uk/gdpr/
+||support.xxx/cookie_consent.js
 ||sync-transcend-cdn.com^
 ||t.atmng.io^$third-party
 ||tarteaucitron.io/load.js
@@ -13979,6 +13980,7 @@ heroesprofile.com###heroesprofile-alert
 abacus.ai###homeVisitPopup
 thehustle.co###hs-banner-parent
 rewardgateway.com###hs-eu-cookie-confirmation
+octobrowser.net###hs_cos_wrapper_cookies
 exweb.exchange.uk.com###ibox
 |bbycompanystore.com###important-notice
 |medtronicshop.com###important-notice
@@ -14761,6 +14763,7 @@ civilsociety.co.uk##.announcement-banner
 |commsec.com.au##.announcements
 |soundcloud.com##.announcements
 cursr.app##.ant-bottom-left
+user1st.com##.ant-drawer
 globalhome.solarmanpv.com##.ant-modal-root
 |billhop.com##.ant-notification
 |findmcserver.com##.ant-notification
@@ -15061,6 +15064,7 @@ ignitedfitness.com##.cky-consent-bar
 |adresowo.pl##.cky-consent-container
 |betplay.com.co##.cky-consent-container
 |click2pharmacy.co.uk##.cky-consent-container
+|controlup.com##.cky-consent-container
 |delfi.ee##.cky-consent-container
 |johnryanbydesign.co.uk##.cky-consent-container
 |oiq.qc.ca##.cky-consent-container
@@ -15071,6 +15075,7 @@ ignitedfitness.com##.cky-consent-bar
 |adresowo.pl##.cky-overlay
 |betplay.com.co##.cky-overlay
 |click2pharmacy.co.uk##.cky-overlay
+|controlup.com##.cky-overlay
 |delfi.ee##.cky-overlay
 |johnryanbydesign.co.uk##.cky-overlay
 |oiq.qc.ca##.cky-overlay
@@ -17131,6 +17136,7 @@ link.com##div[data-testid="cookie-consent-cookie-consent-notification"]
 developers.eyeo.com##div[data-testid="cookies-dialog"]
 deepl.com##div[data-testid="dl-cookieBanner"]
 ici.radio-canada.ca##div[data-testid="legalDisclaimer"]
+xero.com##div[data-xero-component="nav/cookie-notification"]
 |companyweb.be##div[role="dialog"]
 |smythstoys.com##div[role="dialog"]
 reddit.com##div[style*="--Toaster-indicatorColor"]
@@ -18966,6 +18972,7 @@ stokrotka.pl###cboxWrapper
 |spain.info###cc--main
 |spielregeln-spielanleitungen.de###cc--main
 |sprintesport.it###cc--main
+|stereogum.com###cc--main
 |stocksy.com###cc--main
 |streetsblog.org###cc--main
 |suncalc.org###cc--main
@@ -19113,6 +19120,7 @@ stokrotka.pl###cboxWrapper
 |tomba.io##.gdpr
 |umkc.edu##.gdpr
 |venngage.com##.gdpr
+|adressa.no##.gdpr-wrapper
 |ezviz.com##.gdpr-wrapper
 |hikvision.com##.gdpr-wrapper
 |ria.com##.gdpr-wrapper
@@ -50979,6 +50987,7 @@ cmmedia.es##.notification-modal
 almanar.com.lb##.notification-wrap
 relax-job.com##.p-top-app-appeal
 mail.ru##.ph-balloo
+business-gazeta.ru##.popupAcceptNotify
 actionnetwork.com##.promotion-card__container
 flvto.biz##.push-offer
 ampparit.com##.sidebox-header:has(> [title="Ampparit sovellus"])
