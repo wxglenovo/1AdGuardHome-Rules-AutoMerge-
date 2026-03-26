@@ -1795,6 +1795,7 @@ bulgarianproperties.com###cookie_bar_new
 1fichier.com###cookie_box
 semiconductor.samsung.com###cookie_component
 semiconductor.samsung.com###cookie_component_emea
+|betsapi.com###cookie_consent
 |comscore.com###cookie_consent
 |domainname.shop###cookie_consent
 |givengain.com###cookie_consent
@@ -5983,6 +5984,7 @@ autocango.com##.cookie-accept
 |mrluckyraw.com###cookie-popup
 |rospotrebnadzor.ru###cookie-popup
 |spizoo.com###cookie-popup
+|supersport.hr###cookie-popup
 privateproperty.co.za###consentManager
 |norwegianholidays.com##[aria-label="cookieconsent"]
 |sedecatastro.gob.es##[aria-label="cookieconsent"]
@@ -6223,6 +6225,7 @@ brothers-graphics.com##.cc-window-wrapper
 |hofer.it###cookie-bar
 |ilbracere.com###cookie-bar
 |ilgiardinodeilibri.it###cookie-bar
+|islambook.com###cookie-bar
 |knowablemagazine.org###cookie-bar
 |lockheedmartin.com###cookie-bar
 |macrosad.com###cookie-bar
@@ -6284,6 +6287,8 @@ bossautoukraine.com.ua##[class^="style_container__"]
 |jcbeurope.eu###modal
 |lueur.org###modal
 |picnic.app###modal
+|m.hak.hr###myCookie
+|roehnfried.de###myCookie
 iospress.com###cookie_dialog
 |at5.nl##[class^="consent-manager"]
 |nhnieuws.nl##[class^="consent-manager"]
@@ -7113,6 +7118,7 @@ stokrotka.pl###cboxWrapper
 |forms.app##.cc--anim
 |gagosian.com##.cc--anim
 |jurga.lt##.cc--anim
+|whitebit.com##.cc--anim
 |mercuredubaihotel.com###macaron_cookie_box
 |movenpickresortwaverlyphuquoc.com###macaron_cookie_box
 |premierresidencesphuquoc.com###macaron_cookie_box
@@ -9867,6 +9873,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |cuevana3.eu##.CookieConsent
 |curaspecialists.com.au##.CookieConsent
 |digitalcaramel.com##.CookieConsent
+|dord.gov.in##.CookieConsent
 |e-ville.com##.CookieConsent
 |fanatical.com##.CookieConsent
 |finalroundai.com##.CookieConsent
@@ -11253,6 +11260,7 @@ icko-apiculture.com##.amgdprcookie-modal-template
 onassis.org##.bottom-0.relative
 |1password.com##.bottom-0.fixed
 |70mai.com##.bottom-0.fixed
+|99app.com##.bottom-0.fixed
 |aberrant.io##.bottom-0.fixed
 |aci.dev##.bottom-0.fixed
 |actievandedag.nl##.bottom-0.fixed
@@ -12402,6 +12410,7 @@ royalpanda.com##.MuiContainer-maxWidthMd
 |newcare.agency###cookie-law-info-bar
 |nokioteca.net###cookie-law-info-bar
 |oley.com###cookie-law-info-bar
+|onemillionpredictions.com###cookie-law-info-bar
 |pcs.com.mt###cookie-law-info-bar
 |pierregignoux.fr###cookie-law-info-bar
 |popcorncinemashow.com###cookie-law-info-bar
@@ -14155,7 +14164,6 @@ blauarbeit.de###messages-container
 |meinegirokarte.de###modalCookieAcceptance
 |vimpay.eu###modalCookieAcceptance
 starmix.de###muffin
-roehnfried.de###myCookie
 hartz.info###my_privacy_policy
 newsaktuell.de###nacc-container
 newsaktuell.de###nacc-overlay
@@ -14838,6 +14846,7 @@ immo-leclercq.com##.consent_info
 nomadays.fr##.container-fixed-cookie
 parcoursintegration.be##.container_priv_state
 glamuse.com##.cookbar-overlay
+engie.fr##.cookie-modal-inner
 terrasana.fr##.cookie-policy-component_cookieContainer__2Zc7b
 solidaris-wallonie.be##.cookie-reminder-banner
 ruedesvignerons.com##.cookie-toolbar-container
@@ -16286,7 +16295,7 @@ fincity.tokyo##.policy
 ferrotec.co.jp##.policyFix
 eclat.hpplus.jp##.popup_banner
 ocnk.net##.popup_confirmation_bar
-dl.ndl.go.jp##.privacy-confirmation
+ndl.go.jp##.privacy-confirmation
 layers.co.jp##.r-footer-cookie
 osaki.co.jp##.reuse-component
 picrew.me##.st-Terms_Wrapper
@@ -16294,6 +16303,8 @@ sponichi.co.jp##.toast-bottom-right
 kankocho.jp##.v-snack--bottom
 vroid.com##div[class^="GDPR__Container-"]
 kayak.co.kr###Ag6p
+aion2.plaync.com###gCookieConfirmDimmed
+aion2.plaync.com###gCookieConfirmToast
 kotra.or.kr##.cookiePopArea
 muzikasinstrumenti.lv###PrivacyPolicy
 salidzini.lv###consent-box
@@ -18137,6 +18148,7 @@ sozcu.com.tr##.using-cookie
 |sabah.com.tr##.veriAltBar
 |yeniasir.com.tr##.veriAltBar
 yenisafak.com##.ys-cookie-modal
+trt1.com.tr##[class^="cookies-info_cookies-info-wrapper"]
 beinsports.com.tr##div[class*="cookie_cookieConsentWrapper"]
 sekerbank.com.tr##div[class^="cookiebox_cookieBox"]
 trtspor.com.tr##div[class^="cookies-info_"]
