@@ -2016,6 +2016,7 @@ lloyd.com###globalerror
 draeger.com###globalnotification
 freebcc.com###google_cookie_box_bottom
 kindlemodding.org###google_tag_consent
+proteantech.in###gotrust-cookie-banner
 att.com###gpc-banner-container
 wdl.warburg.sas.ac.uk###greyout
 nca.org.gh###growls-br
@@ -2270,7 +2271,8 @@ worldjournal.com###privacy-agreement
 business-humanrights.org###privacy-choices
 monitor.civicus.org###privacy-choices-banner
 gonift.com###privacy-compliance-banner
-ubereats.com###privacy-cookie-banners-root
+|postmates.com###privacy-cookie-banners-root
+|ubereats.com###privacy-cookie-banners-root
 weather.com###privacy-data-notice
 dnddiceroller.com###privacy-div
 playstation.com###privacy-header
@@ -3374,6 +3376,7 @@ bigfishgames.com##.cookieConsentBanner-root-1Ic
 allcleartravel.co.uk##.cookieConsentContainer
 bikesales.com.au##.cookieConsentRoot
 dpdiva.com##.cookieConsentWindow
+premid.app##.cookieControl
 hockeycanada.ca##.cookieInfo
 lunajets.com##.cookieLayer_root__2RmDg
 bott-workplace.co.uk##.cookieMain
@@ -5047,6 +5050,7 @@ c.realme.com##div > .cookie-privacy
 |meshnet.nordvpn.com##div.r-1xcajam.css-175oi2r
 |support.saleae.com##div.r-1xcajam.css-175oi2r
 |wiki.valhelsia.net##div.r-1xcajam.css-175oi2r
+betmgm.co.uk##div:has(> div > div[bol-component="cookie-consent"])
 streamelements.com##div[aria-label="Cookie consent"]
 utrechtart.com##div[aria-label="cookie consent banner"]
 |bicycling.com##div[aria-label^="Privacy Disclosure"]
@@ -5188,6 +5192,7 @@ lego.com##div[data-test="age-gate-disclaimer"]
 |brilliant.org##div[data-testid="cookie-banner"]
 |elsevier.com##div[data-testid="cookie-banner"]
 |regain.us##div[data-testid="cookie-banner"]
+expo.dev##div[data-testid="cookie-banner-root"]
 link.com##div[data-testid="cookie-consent-cookie-consent-notification"]
 developers.eyeo.com##div[data-testid="cookies-dialog"]
 deepl.com##div[data-testid="dl-cookieBanner"]
