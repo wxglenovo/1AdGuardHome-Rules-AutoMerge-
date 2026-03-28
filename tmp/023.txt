@@ -1721,6 +1721,7 @@ notesfrompoland.com##.heading-more
 |xhamster.com##.heading-promo
 |xhamster.desi##.heading-promo
 whyy.org##.hearken-embed
+euromaidanpress.com##.hide-ads-banner
 sfpublicpress.org##.hide-on-landing
 tipranks.com##.hideOnpremium
 48hills.org##.hills-inline-full-width
@@ -1840,6 +1841,7 @@ backpacker.com##.o-promo-module
 omgubuntu.co.uk##.omg-hero-button
 energypolicy.columbia.edu##.overall-notification
 edutopia.org##.overlay
+euromaidanpress.com##.overlay-bg
 opb.org##.overlay-cta
 app.slack.com##.p-upgrades_button
 civilbeat.org##.page-donate-footnote
@@ -5140,6 +5142,7 @@ hexus.net###topicons
 |thetvaddict.com###twitter
 |pcgamer.com###utility-bar
 |tomshardware.com###utility-bar
+techradar.com###utility-bar__google-button
 mansionglobal.com###webui-save-and-share
 videocardz.com###welcome-modal
 walesonline.co.uk###whatsapp-community
@@ -5603,6 +5606,7 @@ sonomamag.com##.cph-gallery-share-button
 handletheheat.com##.creator-recipe-footer
 overwolf.com##.creator-social
 retire.ly##.cs-footer-social-links
+euromaidanpress.com##.cs-meta-google-news
 bloomberg.com##.css--social-wrapper-outer
 economist.com##.css-11yt5xn
 chatelaine.com##.css-1uko8nb-ShareButtons
@@ -13234,6 +13238,7 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 ||cookies.lmt.lv^
 ||cookies.truecaller.com/consent/$script,~third-party
 ||corporate.modivo.com/layout/default/dist/js/cmp.js
+||cp.insideevs.com^
 ||credit-suisse.com/media/assets/aep/ot-cmp/
 ||cscript-cdn-irl.abb.com^
 ||dam.bbcchannels.com^*/outside-iframe.js
@@ -15822,7 +15827,9 @@ telenor.com##.global-overlay-background
 starhub.com##.globalimportantmessage
 |levy.co.uk##.glow-banner
 |wisehosting.com##.glow-banner
-cloud.google.com##.glue-cookie-notification-bar
+|cloud.google.com##.glue-cookie-notification-bar
+|kids.youtube.com##.glue-cookie-notification-bar
+|tv.youtube.com##.glue-cookie-notification-bar
 gw2mists.com##.gm-cookie-consent
 stealthex.io##.gmEwWa
 ecospaints.net##.gmt_block_screen
@@ -17652,6 +17659,11 @@ sogeti.*###popup-cookieConsent
 |ganassa.com##.wt-cli-cookie-bar-container
 |kd.fi##.wt-cli-cookie-bar-container
 |taskus.com##.wt-cli-cookie-bar-container
+|105.net###iubenda-cs-banner
+|all3dp.com###iubenda-cs-banner
+|meteo.it###iubenda-cs-banner
+|mowmag.com###iubenda-cs-banner
+|unitedmusic.com###iubenda-cs-banner
 |doviz.com##.cookie-disclaimer
 |emaar.com##.cookie-disclaimer
 |ford.co.uk##.cookie-disclaimer
@@ -17659,10 +17671,6 @@ sogeti.*###popup-cookieConsent
 |tous.com##.cookie-disclaimer
 |vunesp.com.br##.cookie-disclaimer
 |williamhill.com##.cookie-disclaimer
-|105.net###iubenda-cs-banner
-|all3dp.com###iubenda-cs-banner
-|meteo.it###iubenda-cs-banner
-|unitedmusic.com###iubenda-cs-banner
 |laportecontemporaine.shop###ism-consent-box
 |meesterslijpers.nl###ism-consent-box
 |baden-wuerttemberg.de##.cookie-alert
@@ -40210,6 +40218,7 @@ psychologies.ru##.notify-messages-popups
 |ngzt.ru##.notifycation
 |33-news.ru##.notifycation__wrap
 |news-komi.ru##.notifycation__wrap
+|lipetsknews.ru##.notifycation_notifycation__BeRRP
 |ngnovoros.ru##.notifycation_notifycation__BeRRP
 |pg02.ru##.notifycation_notifycation__BeRRP
 |pg11.ru##.notifycation_notifycation__BeRRP
@@ -43372,6 +43381,7 @@ browardpalmbeach.com###signup-modal
 |historytoday.com###signup-popup
 |amazingfoodmadeeasy.com###signup-wrapper
 |businesstimes.com.sg###signup-wrapper
+techradar.com###signupForm
 seatguru.com###signup_large
 domainnamewire.com###simple-banner
 nationalobserver.com###site-broadcast
@@ -43499,6 +43509,7 @@ bitcoinmagazine.com###tpbr_topbar
 masteringemacs.org###try-book
 autodesk.com###uf-cta-beside
 ultimate-guitar.com###ug-article-email-subscribe
+techradar.com###utilitybar__button--newsletter
 semafor.com###vertical-signup-form
 ozbargain.com.au###visitor-notice
 matomo.org###wbounce-modal
