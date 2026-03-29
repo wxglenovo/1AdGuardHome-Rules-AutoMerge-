@@ -20256,6 +20256,7 @@ clarochile.cl##.cookieModal
 |mailjet.com##.cookies
 |makandracards.com##.cookies
 |mannheimerswartling.se##.cookies
+|marchecentral.com##.cookies
 |markups.kdanmobile.com##.cookies
 |marsgaming.eu##.cookies
 |martinrandall.com##.cookies
@@ -29423,6 +29424,7 @@ akkushop-turkiye.com.tr##+js(set-local-storage-item, CerezUyariGosterildi, true)
 teamtailor.com##+js(set-local-storage-item, CookieConsent--hideCookieConsent, true)
 ascension.gg##+js(set-local-storage-item, CookieConsent_v2, false)
 pmi.org##+js(set-local-storage-item, CookieDisclosure-/, true)
+applecinemas.com##+js(set-local-storage-item, CookieWarning, true)
 |alfa.com.ec##+js(set-local-storage-item, CookiesConsent, 1)
 |rts.com.ec##+js(set-local-storage-item, CookiesConsent, 1)
 |tropicalida.com.ec##+js(set-local-storage-item, CookiesConsent, 1)
