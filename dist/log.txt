@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-03-30T08:38:25.600Z
+🚫 去掉注释行: ! Last modified: 2026-03-30T10:34:06.673Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v1.0.38
 🚫 去掉注释行: !
@@ -1565,10 +1565,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 101465
-🚫 去掉注释行: ! Checksum: nrhb2YsHiSO19aWnishjXA
-🚫 去掉注释行: ! Version: 202603300932
+🚫 去掉注释行: ! Checksum: YR7EMqy2qjaT1NTl8a+zvw
+🚫 去掉注释行: ! Version: 202603301041
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 30 Mar 2026 09:32 UTC
+🚫 去掉注释行: ! Last modified: 30 Mar 2026 10:41 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -16839,8 +16839,9 @@
 ✅ 多域名拆分: inverness-courier.co.uk,johnogroat-journal.co.uk##.DMPU
     → |inverness-courier.co.uk##.DMPU
     → |johnogroat-journal.co.uk##.DMPU
-✅ 多域名拆分: games.mashable.com,games.washingtonpost.com##.DisplayAd__container___lyvUfeBN
+✅ 多域名拆分: games.mashable.com,games.usatoday.com,games.washingtonpost.com##.DisplayAd__container___lyvUfeBN
     → |games.mashable.com##.DisplayAd__container___lyvUfeBN
+    → |games.usatoday.com##.DisplayAd__container___lyvUfeBN
     → |games.washingtonpost.com##.DisplayAd__container___lyvUfeBN
 ✅ 多域名拆分: additivemanufacturing.media,compositesworld.com,ptonline.com##.DisplayBar
     → |additivemanufacturing.media##.DisplayBar
@@ -18211,7 +18212,7 @@
     → |clavecd.es##.background-link-right
     → |goclecd.fr##.background-link-right
     → |keyforsteam.de##.background-link-right
-✅ 多域名拆分: 1001games.com,3addedminutes.com,4rfv.co.uk,alistapart.com,anguscountyworld.co.uk,arcadebomb.com,armageddonexpo.com,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,bikechatforums.com,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bsc.news,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,ca-flyers.com,caixinglobal.com,caribvision.tv,chad.co.uk,cinemadeck.com,coryarcangel.com,csstats.gg,daventryexpress.co.uk,deathbycaptcha.com,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,diffordsguide.com,dominicantoday.com,doncasterfreepress.co.uk,dump.li,elyricsworld.com,euobserver.com,eurochannel.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,filmmakermagazine.com,footballtradedirectory.com,forexpeacearmy.com,funpic.hu,gartic.io,garticphone.com,gizmodo.com,glasgowworld.com,gr8.cc,gsprating.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hiphopdx.com,hortidaily.com,hucknalldispatch.co.uk,hyipexplorer.com,ibtimes.co.in,ibtimes.co.uk,imgsli.com,insidefutbol.com,ipwatchdog.com,irishpost.com,israelnationalnews.com,japantimes.co.jp,jpost.com,kissasians.org,koreaherald.com,kotaku.com,lancasterguardian.co.uk,laserpointerforums.com,leightonbuzzardonline.co.uk,lep.co.uk,lincolnshireworld.com,liverpoolworld.uk,livescore.in,londonworld.com,lutontoday.co.uk,manchesterworld.uk,marinelink.com,meltontimes.co.uk,mercopress.com,miltonkeynes.co.uk,mmorpg.com,mob.org,myflr.org,nationalworld.com,newcastleworld.com,newryreporter.com,news.am,news.net,news12.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,oncyprus.com,onlineconvertfree.com,overclock3d.net,peterboroughtoday.co.uk,pharmatimes.com,photofilters.com,portsmouth.co.uk,powerboat.world,pulsesports.co.ke,pulsesports.ng,pulsesports.ug,roblox.com,rotherhamadvertiser.co.uk,rvtrader.com,sat24.com,scientificamerican.com,scotsman.com,shieldsgazette.com,slidescorner.com,speedcafe.com,starradionortheast.co.uk,stornowaygazette.co.uk,subscene.com,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,sweeting.org,swzz.xyz,tass.com,thefringepodcast.com,theoldreader.com,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,timeslive.co.za,totallysnookered.com,townhall.com,toyworldmag.co.uk,unblockstreaming.com,vibilagare.se,vloot.io,vnexpress.net,wakefieldexpress.co.uk,warwickshireworld.com,weatheronline.co.uk,weekly-ads.us,wigantoday.net,worksopguardian.co.uk,worldtimeserver.com,xbiz.com,ynetnews.com,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yuntrack.com##.banner
+✅ 多域名拆分: 1001games.com,3addedminutes.com,4rfv.co.uk,alistapart.com,anguscountyworld.co.uk,arcadebomb.com,armageddonexpo.com,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,bikechatforums.com,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bsc.news,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,ca-flyers.com,caixinglobal.com,caribvision.tv,chad.co.uk,cinemadeck.com,coryarcangel.com,csstats.gg,daventryexpress.co.uk,deathbycaptcha.com,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,diffordsguide.com,dominicantoday.com,doncasterfreepress.co.uk,dump.li,elyricsworld.com,euobserver.com,eurochannel.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,filmmakermagazine.com,foojay.io,footballtradedirectory.com,forexpeacearmy.com,funpic.hu,gartic.io,garticphone.com,gizmodo.com,glasgowworld.com,gr8.cc,gsprating.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hiphopdx.com,hortidaily.com,hucknalldispatch.co.uk,hyipexplorer.com,ibtimes.co.in,ibtimes.co.uk,imgsli.com,insidefutbol.com,ipwatchdog.com,irishpost.com,israelnationalnews.com,japantimes.co.jp,jpost.com,kissasians.org,koreaherald.com,kotaku.com,lancasterguardian.co.uk,laserpointerforums.com,leightonbuzzardonline.co.uk,lep.co.uk,lincolnshireworld.com,liverpoolworld.uk,livescore.in,londonworld.com,lutontoday.co.uk,manchesterworld.uk,marinelink.com,meltontimes.co.uk,mercopress.com,miltonkeynes.co.uk,mmorpg.com,mob.org,myflr.org,nationalworld.com,newcastleworld.com,newryreporter.com,news.am,news.net,news12.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,oncyprus.com,onlineconvertfree.com,overclock3d.net,peterboroughtoday.co.uk,pharmatimes.com,photofilters.com,portsmouth.co.uk,powerboat.world,pulsesports.co.ke,pulsesports.ng,pulsesports.ug,roblox.com,rotherhamadvertiser.co.uk,rvtrader.com,sat24.com,scientificamerican.com,scotsman.com,shieldsgazette.com,slidescorner.com,speedcafe.com,starradionortheast.co.uk,stornowaygazette.co.uk,subscene.com,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,sweeting.org,swzz.xyz,tass.com,thefringepodcast.com,theoldreader.com,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,timeslive.co.za,totallysnookered.com,townhall.com,toyworldmag.co.uk,unblockstreaming.com,vibilagare.se,vloot.io,vnexpress.net,wakefieldexpress.co.uk,warwickshireworld.com,weatheronline.co.uk,weekly-ads.us,wigantoday.net,worksopguardian.co.uk,worldtimeserver.com,xbiz.com,ynetnews.com,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yuntrack.com##.banner
     → |1001games.com##.banner
     → |3addedminutes.com##.banner
     → |4rfv.co.uk##.banner
@@ -18254,6 +18255,7 @@
     → |farminglife.com##.banner
     → |fifetoday.co.uk##.banner
     → |filmmakermagazine.com##.banner
+    → |foojay.io##.banner
     → |footballtradedirectory.com##.banner
     → |forexpeacearmy.com##.banner
     → |funpic.hu##.banner
@@ -24815,10 +24817,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: 0o5w8x5momrYkjzjNhXBuQ
-🚫 去掉注释行: ! Version: 202603300942
+🚫 去掉注释行: ! Checksum: wTLgPWrACNEfgbR//C/JnQ
+🚫 去掉注释行: ! Version: 202603301041
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 30 Mar 2026 09:42 UTC
+🚫 去掉注释行: ! Last modified: 30 Mar 2026 10:41 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29410,10 +29412,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: pGskPNt2iExxWdo6jDyzsw
-🚫 去掉注释行: ! Version: 202603300941
+🚫 去掉注释行: ! Checksum: ArFnotsHM/V6U1t9B9EU2w
+🚫 去掉注释行: ! Version: 202603301041
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 30 Mar 2026 09:41 UTC
+🚫 去掉注释行: ! Last modified: 30 Mar 2026 10:41 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -30121,11 +30123,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202603300942
+🚫 去掉注释行: ! Version: 202603301051
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 30 Mar 2026 09:42 UTC
+🚫 去掉注释行: ! Last modified: 30 Mar 2026 10:51 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 187008548ff6dbb9ed31deb24c6df009fbcd4eef
+🚫 去掉注释行: ! Commit: 8c928c255073839858f1abc0779a1e4a1b8c674c
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -45399,8 +45401,9 @@
 ✅ 多域名拆分: inverness-courier.co.uk,johnogroat-journal.co.uk##.DMPU
     → |inverness-courier.co.uk##.DMPU
     → |johnogroat-journal.co.uk##.DMPU
-✅ 多域名拆分: games.mashable.com,games.washingtonpost.com##.DisplayAd__container___lyvUfeBN
+✅ 多域名拆分: games.mashable.com,games.usatoday.com,games.washingtonpost.com##.DisplayAd__container___lyvUfeBN
     → |games.mashable.com##.DisplayAd__container___lyvUfeBN
+    → |games.usatoday.com##.DisplayAd__container___lyvUfeBN
     → |games.washingtonpost.com##.DisplayAd__container___lyvUfeBN
 ✅ 多域名拆分: additivemanufacturing.media,compositesworld.com,ptonline.com##.DisplayBar
     → |additivemanufacturing.media##.DisplayBar
@@ -53376,11 +53379,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202603300937
+🚫 去掉注释行: ! Version: 202603301048
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 30 Mar 2026 09:37 UTC
+🚫 去掉注释行: ! Last modified: 30 Mar 2026 10:48 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 15c912398e4f6bfa12b686f4a94fc5ce7f337e5a
+🚫 去掉注释行: ! Commit: 8c928c255073839858f1abc0779a1e4a1b8c674c
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -69461,10 +69464,10 @@
 🚫 去掉注释行: ! Issues: https://github.com/hagezi/dns-blocklists/issues
 🚫 去掉注释行: ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 🚫 去掉注释行: ! Expires: 1 day
-🚫 去掉注释行: ! Last modified: 29 Mar 2026 21:27 UTC
-🚫 去掉注释行: ! Version: 2026.0329.2127.20
+🚫 去掉注释行: ! Last modified: 30 Mar 2026 09:28 UTC
+🚫 去掉注释行: ! Version: 2026.0330.0928.01
 🚫 去掉注释行: ! Syntax: AdBlock
-🚫 去掉注释行: ! Number of entries: 62386
+🚫 去掉注释行: ! Number of entries: 61361
 🚫 去掉注释行: !
 🚫 去掉注释行: !Title: anti-AD for AdGuard
 🚫 去掉注释行: !Version: 20260328190500963792486
@@ -69485,8 +69488,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !生成时间: 2026-03-30 17:13:09
-🚫 去掉注释行: !有效规则数目: 2185495
+🚫 去掉注释行: !生成时间: 2026-03-30 18:41:10
+🚫 去掉注释行: !有效规则数目: 2167404
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
@@ -162520,10 +162523,10 @@
 🚫 去掉注释行: ! Blocked domains: 5908
 🚫 去掉注释行: ! unBlocked domains: 16
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: iJxIl/YSPYd3fxxL4+SO3A
-🚫 去掉注释行: ! Version: 202603300425
+🚫 去掉注释行: ! Checksum: jhxLQ2llNq1o68AIkwFEhA
+🚫 去掉注释行: ! Version: 202603301000
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-03-30 04:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-03-30 10:00 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -196278,11 +196281,6 @@
     → |eboblack.com##.coockie_warning
     → |leslez.com##.coockie_warning
     → |teenxy.com##.coockie_warning
-✅ 多域名拆分: crumb.pet,news.nntp4.net,niche.com,privacy.com##.cookie-banner
-    → |crumb.pet##.cookie-banner
-    → |news.nntp4.net##.cookie-banner
-    → |niche.com##.cookie-banner
-    → |privacy.com##.cookie-banner
 ✅ 多域名拆分: aerofilms.cz,uxcel.com##.cookie-banner-wrap
     → |aerofilms.cz##.cookie-banner-wrap
     → |uxcel.com##.cookie-banner-wrap
@@ -202936,7 +202934,7 @@
 🚫 去掉注释行: !! pp_b.pp-p (dhealingforum.com,flowerhornrusforum.com,sinfuldestinyericole.com,celebritystorylibrary.com)
 🚫 去掉注释行: ###pp_b.pp-p
 🚫 去掉注释行: !! .cookie-banner
-✅ 多域名拆分: adventuregamestudio.co.uk,albertonrecord.co.za,app.deriv.com,artfund.org,asia.nikkei.com,banco.bradesco,barkeepersfriend.com,bedfordviewedenvalenews.co.za,bemyeyes.com,bookwhen.com,brasscom.org.br,buildpaste.net,bullionbypost.co.uk,businesscomparison.com,capitoltrades.com,citybuzz.co.za,clarksolutions.com.br,codashop.com,coinpaprika.com,comfrt.com,commonwealthfund.org,cumlaudeimmobilia.com,cursos.io,cwi.nl,dagmersellen.ch,davistate.com,deezer.com,deltaco.com,depot.dev,developer.chrome.com,dictum.com,droptime.de,echr.coe.int,edera.dev,erieinsurance.com,etix.com,eyethunews.co.za,fansly.com,fex.plus,forja.ma,gatlinburg.com,gaultmillau.at,germistoncitynews.co.za,gosquared.com,guinyc.com,hck.hr,herning.dk,holidayworld.com,hsbc.com.sg,isciii.es,jolyn.com,kathorusmail.co.za,kemptonexpress.co.za,kenmei.co,kormorant.co.za,lensculture.com,letabaherald.co.za,liemobil.li,lifehacker.ru,lokmat.com,massey.ac.nz,mcc-9.jp,medipolis.de,mega.io,mercadona.es,metroag.de,middelfart.dk,midrandreporter.co.za,mishloha.co.il,modworkshop.net,news.nntp4.net,news.ru,northeasterntribune.co.za,oaic.gov.au,osthammar.se,overclock3d.net,overleaf.com,payroll.ca,peakstore.ru,poshmark.com,printful.com,prodoctorov.ru,publicdomainreview.org,raceroster.com,randburgsun.co.za,randfonteinherald.co.za,reseau-sante-haut-leman.ch,reseau-sante-nord-broye.ch,reseau-sante-region-lausanne.ch,rivistacontrasti.it,roodepoortnorthsider.co.za,roodepoortrecord.co.za,sedibengster.com,semanticscholar.org,sentosa.com.sg,signalbloom.ai,silpo.ua,smashingmagazine.com,sowetourban.co.za,sp-ps.ch,spar.co.za,stake.com,stjohneyehospital.org,store.fcm.ea.com,struer.dk,student.com,superbio.es,t.co.il,taplink.cc,thefly.com,tiktok.com,tudogostoso.com.br,tus.ac.jp,vangemert.dev,vangoghmuseum.nl,weather2day.co.il,welcome.brixen.it,witbanknews.co.za,zabars.com,zenodo.org##.cookie-banner
+✅ 多域名拆分: adventuregamestudio.co.uk,albertonrecord.co.za,app.deriv.com,artfund.org,asia.nikkei.com,banco.bradesco,barkeepersfriend.com,bedfordviewedenvalenews.co.za,bemyeyes.com,bookwhen.com,brasscom.org.br,buildpaste.net,bullionbypost.co.uk,businesscomparison.com,capitoltrades.com,citybuzz.co.za,clarksolutions.com.br,codashop.com,coinpaprika.com,comfrt.com,commonwealthfund.org,crumb.pet,cumlaudeimmobilia.com,cursos.io,cwi.nl,dagmersellen.ch,davistate.com,deezer.com,deltaco.com,depot.dev,developer.chrome.com,dictum.com,droptime.de,echr.coe.int,edera.dev,erieinsurance.com,etix.com,eyethunews.co.za,fansly.com,fex.plus,forja.ma,gatlinburg.com,gaultmillau.at,germistoncitynews.co.za,gosquared.com,guinyc.com,hck.hr,herning.dk,holidayworld.com,hsbc.com.sg,isciii.es,jolyn.com,kathorusmail.co.za,kemptonexpress.co.za,kenmei.co,kormorant.co.za,lensculture.com,letabaherald.co.za,liemobil.li,lifehacker.ru,lokmat.com,massey.ac.nz,mcc-9.jp,medipolis.de,mega.io,mercadona.es,metroag.de,middelfart.dk,midrandreporter.co.za,mishloha.co.il,modworkshop.net,news.nntp4.net,news.ru,niche.com,northeasterntribune.co.za,oaic.gov.au,osthammar.se,overclock3d.net,overleaf.com,payroll.ca,peakstore.ru,poshmark.com,printful.com,privacy.com,prodoctorov.ru,publicdomainreview.org,raceroster.com,randburgsun.co.za,randfonteinherald.co.za,reseau-sante-haut-leman.ch,reseau-sante-nord-broye.ch,reseau-sante-region-lausanne.ch,rivistacontrasti.it,roodepoortnorthsider.co.za,roodepoortrecord.co.za,sedibengster.com,semanticscholar.org,sentosa.com.sg,signalbloom.ai,silpo.ua,smashingmagazine.com,sowetourban.co.za,sp-ps.ch,spar.co.za,stake.com,stjohneyehospital.org,store.fcm.ea.com,struer.dk,student.com,superbio.es,t.co.il,taplink.cc,thefly.com,tiktok.com,tudogostoso.com.br,tus.ac.jp,vangemert.dev,vangoghmuseum.nl,weather2day.co.il,welcome.brixen.it,witbanknews.co.za,zabars.com,zenodo.org##.cookie-banner
     → |adventuregamestudio.co.uk##.cookie-banner
     → |albertonrecord.co.za##.cookie-banner
     → |app.deriv.com##.cookie-banner
@@ -202958,6 +202956,7 @@
     → |coinpaprika.com##.cookie-banner
     → |comfrt.com##.cookie-banner
     → |commonwealthfund.org##.cookie-banner
+    → |crumb.pet##.cookie-banner
     → |cumlaudeimmobilia.com##.cookie-banner
     → |cursos.io##.cookie-banner
     → |cwi.nl##.cookie-banner
@@ -203009,6 +203008,7 @@
     → |modworkshop.net##.cookie-banner
     → |news.nntp4.net##.cookie-banner
     → |news.ru##.cookie-banner
+    → |niche.com##.cookie-banner
     → |northeasterntribune.co.za##.cookie-banner
     → |oaic.gov.au##.cookie-banner
     → |osthammar.se##.cookie-banner
@@ -203018,6 +203018,7 @@
     → |peakstore.ru##.cookie-banner
     → |poshmark.com##.cookie-banner
     → |printful.com##.cookie-banner
+    → |privacy.com##.cookie-banner
     → |prodoctorov.ru##.cookie-banner
     → |publicdomainreview.org##.cookie-banner
     → |raceroster.com##.cookie-banner
@@ -227100,9 +227101,9 @@
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: !---------------------------------Allowlists----------------------------------!
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: vgHeI13ZSl+8VzxU2va3Bw
+🚫 去掉注释行: ! Checksum: QVFCVYoiDE4e/NN6t17INA
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Last modified: 2026-03-30 04:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-03-30 10:50 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
@@ -243287,11 +243288,6 @@
     → |eboblack.com##.coockie_warning
     → |leslez.com##.coockie_warning
     → |teenxy.com##.coockie_warning
-✅ 多域名拆分: crumb.pet,news.nntp4.net,niche.com,privacy.com##.cookie-banner
-    → |crumb.pet##.cookie-banner
-    → |news.nntp4.net##.cookie-banner
-    → |niche.com##.cookie-banner
-    → |privacy.com##.cookie-banner
 ✅ 多域名拆分: aerofilms.cz,uxcel.com##.cookie-banner-wrap
     → |aerofilms.cz##.cookie-banner-wrap
     → |uxcel.com##.cookie-banner-wrap
@@ -245212,7 +245208,8 @@
     → |maidenfrance.fr###headband
     → |plurielmedia.com###headband
 🚫 去掉注释行: !! .lawcookie
-✅ 多域名拆分: kaluga-poisk.ru,vologda-poisk.ru##.lawcookie
+✅ 多域名拆分: cher-poisk.ru,kaluga-poisk.ru,vologda-poisk.ru##.lawcookie
+    → |cher-poisk.ru##.lawcookie
     → |kaluga-poisk.ru##.lawcookie
     → |vologda-poisk.ru##.lawcookie
 🚫 去掉注释行: !! PrivacyBanner_
@@ -249945,7 +249942,7 @@
 🚫 去掉注释行: !! pp_b.pp-p (dhealingforum.com,flowerhornrusforum.com,sinfuldestinyericole.com,celebritystorylibrary.com)
 🚫 去掉注释行: ###pp_b.pp-p
 🚫 去掉注释行: !! .cookie-banner
-✅ 多域名拆分: adventuregamestudio.co.uk,albertonrecord.co.za,app.deriv.com,artfund.org,asia.nikkei.com,banco.bradesco,barkeepersfriend.com,bedfordviewedenvalenews.co.za,bemyeyes.com,bookwhen.com,brasscom.org.br,buildpaste.net,bullionbypost.co.uk,businesscomparison.com,capitoltrades.com,citybuzz.co.za,clarksolutions.com.br,codashop.com,coinpaprika.com,comfrt.com,commonwealthfund.org,cumlaudeimmobilia.com,cursos.io,cwi.nl,dagmersellen.ch,davistate.com,deezer.com,deltaco.com,depot.dev,developer.chrome.com,dictum.com,droptime.de,echr.coe.int,edera.dev,erieinsurance.com,etix.com,eyethunews.co.za,fansly.com,fex.plus,forja.ma,gatlinburg.com,gaultmillau.at,germistoncitynews.co.za,gosquared.com,guinyc.com,hck.hr,herning.dk,holidayworld.com,hsbc.com.sg,isciii.es,jolyn.com,kathorusmail.co.za,kemptonexpress.co.za,kenmei.co,kormorant.co.za,lensculture.com,letabaherald.co.za,liemobil.li,lifehacker.ru,lokmat.com,massey.ac.nz,mcc-9.jp,medipolis.de,mega.io,mercadona.es,metroag.de,middelfart.dk,midrandreporter.co.za,mishloha.co.il,modworkshop.net,news.nntp4.net,news.ru,northeasterntribune.co.za,oaic.gov.au,osthammar.se,overclock3d.net,overleaf.com,payroll.ca,peakstore.ru,poshmark.com,printful.com,prodoctorov.ru,publicdomainreview.org,raceroster.com,randburgsun.co.za,randfonteinherald.co.za,reseau-sante-haut-leman.ch,reseau-sante-nord-broye.ch,reseau-sante-region-lausanne.ch,rivistacontrasti.it,roodepoortnorthsider.co.za,roodepoortrecord.co.za,sedibengster.com,semanticscholar.org,sentosa.com.sg,signalbloom.ai,silpo.ua,smashingmagazine.com,sowetourban.co.za,sp-ps.ch,spar.co.za,stake.com,stjohneyehospital.org,store.fcm.ea.com,struer.dk,student.com,superbio.es,t.co.il,taplink.cc,thefly.com,tiktok.com,tudogostoso.com.br,tus.ac.jp,vangemert.dev,vangoghmuseum.nl,weather2day.co.il,welcome.brixen.it,witbanknews.co.za,zabars.com,zenodo.org##.cookie-banner
+✅ 多域名拆分: adventuregamestudio.co.uk,albertonrecord.co.za,app.deriv.com,artfund.org,asia.nikkei.com,banco.bradesco,barkeepersfriend.com,bedfordviewedenvalenews.co.za,bemyeyes.com,bookwhen.com,brasscom.org.br,buildpaste.net,bullionbypost.co.uk,businesscomparison.com,capitoltrades.com,citybuzz.co.za,clarksolutions.com.br,codashop.com,coinpaprika.com,comfrt.com,commonwealthfund.org,crumb.pet,cumlaudeimmobilia.com,cursos.io,cwi.nl,dagmersellen.ch,davistate.com,deezer.com,deltaco.com,depot.dev,developer.chrome.com,dictum.com,droptime.de,echr.coe.int,edera.dev,erieinsurance.com,etix.com,eyethunews.co.za,fansly.com,fex.plus,forja.ma,gatlinburg.com,gaultmillau.at,germistoncitynews.co.za,gosquared.com,guinyc.com,hck.hr,herning.dk,holidayworld.com,hsbc.com.sg,isciii.es,jolyn.com,kathorusmail.co.za,kemptonexpress.co.za,kenmei.co,kormorant.co.za,lensculture.com,letabaherald.co.za,liemobil.li,lifehacker.ru,lokmat.com,massey.ac.nz,mcc-9.jp,medipolis.de,mega.io,mercadona.es,metroag.de,middelfart.dk,midrandreporter.co.za,mishloha.co.il,modworkshop.net,news.nntp4.net,news.ru,niche.com,northeasterntribune.co.za,oaic.gov.au,osthammar.se,overclock3d.net,overleaf.com,payroll.ca,peakstore.ru,poshmark.com,printful.com,privacy.com,prodoctorov.ru,publicdomainreview.org,raceroster.com,randburgsun.co.za,randfonteinherald.co.za,reseau-sante-haut-leman.ch,reseau-sante-nord-broye.ch,reseau-sante-region-lausanne.ch,rivistacontrasti.it,roodepoortnorthsider.co.za,roodepoortrecord.co.za,sedibengster.com,semanticscholar.org,sentosa.com.sg,signalbloom.ai,silpo.ua,smashingmagazine.com,sowetourban.co.za,sp-ps.ch,spar.co.za,stake.com,stjohneyehospital.org,store.fcm.ea.com,struer.dk,student.com,superbio.es,t.co.il,taplink.cc,thefly.com,tiktok.com,tudogostoso.com.br,tus.ac.jp,vangemert.dev,vangoghmuseum.nl,weather2day.co.il,welcome.brixen.it,witbanknews.co.za,zabars.com,zenodo.org##.cookie-banner
     → |adventuregamestudio.co.uk##.cookie-banner
     → |albertonrecord.co.za##.cookie-banner
     → |app.deriv.com##.cookie-banner
@@ -249967,6 +249964,7 @@
     → |coinpaprika.com##.cookie-banner
     → |comfrt.com##.cookie-banner
     → |commonwealthfund.org##.cookie-banner
+    → |crumb.pet##.cookie-banner
     → |cumlaudeimmobilia.com##.cookie-banner
     → |cursos.io##.cookie-banner
     → |cwi.nl##.cookie-banner
@@ -250018,6 +250016,7 @@
     → |modworkshop.net##.cookie-banner
     → |news.nntp4.net##.cookie-banner
     → |news.ru##.cookie-banner
+    → |niche.com##.cookie-banner
     → |northeasterntribune.co.za##.cookie-banner
     → |oaic.gov.au##.cookie-banner
     → |osthammar.se##.cookie-banner
@@ -250027,6 +250026,7 @@
     → |peakstore.ru##.cookie-banner
     → |poshmark.com##.cookie-banner
     → |printful.com##.cookie-banner
+    → |privacy.com##.cookie-banner
     → |prodoctorov.ru##.cookie-banner
     → |publicdomainreview.org##.cookie-banner
     → |raceroster.com##.cookie-banner
