@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-03-30T14:37:18.776Z
+🚫 去掉注释行: ! Last modified: 2026-03-30T16:26:09.125Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v1.0.38
 🚫 去掉注释行: !
@@ -1570,10 +1570,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 101465
-🚫 去掉注释行: ! Checksum: YttFESoYAlQ0C92I42nTVQ
-🚫 去掉注释行: ! Version: 202603301552
+🚫 去掉注释行: ! Checksum: Q+YrDJh/TQQqCwf88ruOqw
+🚫 去掉注释行: ! Version: 202603301702
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 30 Mar 2026 15:52 UTC
+🚫 去掉注释行: ! Last modified: 30 Mar 2026 17:02 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -14972,7 +14972,6 @@
 🚫 去掉注释行: ##.mntl-block.article__broad-video
 🚫 去掉注释行: ##.mntl-jwplayer-broad.article__broad-video--jw
 🚫 去掉注释行: ##.mntl-jwplayer-broad.article__broad-video-jw
-🚫 去掉注释行: !! europe-agriculture.com/europa-landmaschinen.de/europa-agricola.es/etc.
 🚫 去掉注释行: ##.row-list.banniere
 🚫 去掉注释行: ##.row-list.native
 🚫 去掉注释行: ! (invideo advertising)
@@ -15667,7 +15666,6 @@
 ✅ 多域名拆分: googleads.g.doubleclick.net,safeframe.googlesyndication.com#@#div[id^="ad_position_"]
     → |googleads.g.doubleclick.net#@#div[id^="ad_position_"]
     → |safeframe.googlesyndication.com#@#div[id^="ad_position_"]
-🚫 去掉注释行: !! invideo ad
 ✅ 多域名拆分: click2houston.com,clickondetroit.com,clickorlando.com,ksat.com,news4jax.com,wsls.com#@#.ac-widget-placeholder
     → |click2houston.com#@#.ac-widget-placeholder
     → |clickondetroit.com#@#.ac-widget-placeholder
@@ -15718,7 +15716,6 @@
 ✅ 多域名拆分: carbuzz.com,screenrant.com#@#.w-adsninja-video-player
     → |carbuzz.com#@#.w-adsninja-video-player
     → |screenrant.com#@#.w-adsninja-video-player
-🚫 去掉注释行: !! ins.adsbygoogle
 ✅ 多域名拆分: advancedrenamer.com,androidrepublic.org,anonymousemail.me,apkmirror.com,cdromance.com,demos.krajee.com,epicbundle.com,korail.pe.kr,nextbigtrade.com,phcorner.net,pixiz.com,skmedix.pl,spoilertv.com,willyoupressthebutton.com#@#ins.adsbygoogle[data-ad-client]
     → |advancedrenamer.com#@#ins.adsbygoogle[data-ad-client]
     → |androidrepublic.org#@#ins.adsbygoogle[data-ad-client]
@@ -15749,11 +15746,9 @@
     → |skmedix.pl#@#ins.adsbygoogle[data-ad-slot]
     → |spoilertv.com#@#ins.adsbygoogle[data-ad-slot]
     → |willyoupressthebutton.com#@#ins.adsbygoogle[data-ad-slot]
-🚫 去掉注释行: !! .adslot
 ✅ 多域名拆分: apkmirror.com,tuxpi.com#@#.adslot
     → |apkmirror.com#@#.adslot
     → |tuxpi.com#@#.adslot
-🚫 去掉注释行: !! .adverts
 ✅ 多域名拆分: bavaria86.com,ransquawk.com,tf2r.com,trh.sk#@#.adverts
     → |bavaria86.com#@#.adverts
     → |ransquawk.com#@#.adverts
@@ -15860,7 +15855,6 @@
 🚫 去掉注释行: ! Non-flagged (Generic blocks)
 🚫 去掉注释行: ! Anti-drainer eth phishing
 🚫 去掉注释行: ! $document blocks
-🚫 去掉注释行: !! Third-party
 🚫 去掉注释行: ! ||succeedscene.com^$third-party
 🚫 去掉注释行: ! Chinese google (https://github.com/easylist/easylist/issues/15643)
 🚫 去掉注释行: ! PopCash CNAME adservers: don't report duplicates
@@ -22208,7 +22202,6 @@
 ✅ 多域名拆分: automobile-catalog.com,itnewsonline.com##table[width="300"]
     → |automobile-catalog.com##table[width="300"]
     → |itnewsonline.com##table[width="300"]
-🚫 去掉注释行: !!! top-level domain wildcard
 ✅ 多域名拆分: flashscore.*,livescore.*,soccer24.com###box-over-content-a
     → |flashscore.*###box-over-content-a
     → |livescore.*###box-over-content-a
@@ -24710,7 +24703,6 @@
     → |porndoe.com##video[autoplay][src*="data:" i]
     → |redtube.com##video[autoplay][src*="data:" i]
 🚫 去掉注释行: ! top-level domain wildcard
-🚫 去掉注释行: !! :has()
 ✅ 多域名拆分: 4kporn.xxx,crazyporn.xxx,hoes.tube,love4porn.com##.item:has(> [class*="ads"])
     → |4kporn.xxx##.item:has(> [class*="ads"])
     → |crazyporn.xxx##.item:has(> [class*="ads"])
@@ -24726,7 +24718,6 @@
     → |pisshamster.com##.no-gutters > .col-6:has(> #special-block)
     → |punishworld.com##.no-gutters > .col-6:has(> #special-block)
     → |xanimu.com##.no-gutters > .col-6:has(> #special-block)
-🚫 去掉注释行: !! Advanced element hiding rules
 ✅ 多域名拆分: redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com##:-abp-properties(*data:image*)
     → |redtube.com##:-abp-properties(*data:image*)
     → |tube8.com##:-abp-properties(*data:image*)
@@ -24788,29 +24779,6 @@
 🚫 去掉注释行: ! Anti-Adblock (Applicable to Adult, file hosting, streaming/torrent sites)
 🚫 去掉注释行: ! Gladly.io New Tab extension (https://tab.gladly.io/)
 🚫 去掉注释行: ! Don't install Gladly extension if you don't like ads.
-🚫 去掉注释行: !! adsninja fix
-🚫 去掉注释行: !! imasdk.googleapis.com/js/sdkloader/ima3.js
-🚫 去掉注释行: !! https://adssettings.google.com/anonymous?hl=en
-🚫 去掉注释行: !! imasdk.googleapis.com/js/sdkloader/ima3_dai.js
-🚫 去掉注释行: !! pubads.g.doubleclick.net/ondemand/hls/
-🚫 去掉注释行: !! ||imasdk.googleapis.com/js/core/bridge
-🚫 去掉注释行: !! ||imasdk.googleapis.com/pal/sdkloader/pal.js
-🚫 去掉注释行: !! imasdk.googleapis.com/js/sdkloader/ima3_debug.js
-🚫 去掉注释行: !! https://github.com/uBlockOrigin/uAssets/issues/18541
-🚫 去掉注释行: !! cbssports.com|newson.us|worldsurfleague.com
-🚫 去掉注释行: !!
-🚫 去掉注释行: !! g.doubleclick.net/tag/js/gpt.js
-🚫 去掉注释行: !! googletagservices.com/tag/js/gpt.js
-🚫 去掉注释行: !! g.doubleclick.net/gpt/pubads_impl_
-🚫 去掉注释行: !! g.doubleclick.net/pagead/managed/js/gpt/
-🚫 去掉注释行: !! g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js
-🚫 去掉注释行: !! googleads.g.doubleclick.net/pagead/html/*/zrt_lookup_
-🚫 去掉注释行: !! pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
-🚫 去掉注释行: !! pagead2.googlesyndication.com/pagead/managed/js/*/show_ads_impl
-🚫 去掉注释行: !! pagead2.googlesyndication.com/pagead/managed/js/adsense/*/slotcar_library_
-🚫 去掉注释行: !!
-🚫 去掉注释行: !! g.doubleclick.net/pagead/ppub_config
-🚫 去掉注释行: !! ads-twitter.com/uwt.js
 🚫 去掉注释行: ! Non-English
 🚫 去掉注释行: ! Allowlists to fix broken pages of advertisers
 🚫 去掉注释行: ! Google
@@ -24822,10 +24790,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: xkbUQGLoscO2MSPTunhkXA
-🚫 去掉注释行: ! Version: 202603301552
+🚫 去掉注释行: ! Checksum: hmkJ1A7ZGd7fT9oHbiJyJA
+🚫 去掉注释行: ! Version: 202603301702
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 30 Mar 2026 15:52 UTC
+🚫 去掉注释行: ! Last modified: 30 Mar 2026 17:02 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29417,10 +29385,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: +oduqqFxxS7Zq3zQJqx50g
-🚫 去掉注释行: ! Version: 202603301552
+🚫 去掉注释行: ! Checksum: MSA9XJMwmJLG/nc+fzXVoA
+🚫 去掉注释行: ! Version: 202603301702
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 30 Mar 2026 15:52 UTC
+🚫 去掉注释行: ! Last modified: 30 Mar 2026 17:02 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29543,7 +29511,6 @@
 🚫 去掉注释行: !||local.qinlili.bid^
 🚫 去掉注释行: !||local.sisteminha.com^
 🚫 去掉注释行: !||localho.st^
-🚫 去掉注释行: !!||localhost.direct^
 🚫 去掉注释行: !||localtest.me^
 🚫 去掉注释行: !||lvh.me^
 🚫 去掉注释行: !||netfinity.hostedrmm.com^
@@ -29975,47 +29942,7 @@
 🚫 去掉注释行: ! Vietnamese
 🚫 去掉注释行: !-----------------------Allowlists to fix broken sites------------------------!
 🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_allowlist.txt ***
-🚫 去掉注释行: !! monitor.azure.com
-🚫 去掉注释行: !! https://old.reddit.com/r/uBlockOrigin/comments/1czbcvg/foundit_is_blocking_searches_until_ublock_origin/
-🚫 去掉注释行: !! amplitude.com/libs
-🚫 去掉注释行: !! flag.lab.amplitude.com / api.lab.amplitude.com
-🚫 去掉注释行: !! googletagmanager.com/gtm.js
-🚫 去掉注释行: !! google-analytics.com/analytics.js
-🚫 去掉注释行: !! googletagmanager.com/gtag/js
-🚫 去掉注释行: !! googletagmanager.com/gtag/destination?
-🚫 去掉注释行: !! googleoptimize.com/optimize.js
-🚫 去掉注释行: !! google-analytics.com/mp/collect?
-🚫 去掉注释行: !! google-analytics.com/plugins/ua/ec.js
-🚫 去掉注释行: !! google-analytics.com/plugins/ua/linkid.js
-🚫 去掉注释行: !! google-analytics.com/ga.js
-🚫 去掉注释行: !! collect.igodigital.com/collect.js
-🚫 去掉注释行: !! browser.sentry-cdn.com
-🚫 去掉注释行: !! ||assets.adobedtm.com/extensions/*/AppMeasurement.min.js
-🚫 去掉注释行: !! ||assets.adobedtm.com/extensions/*/AppMeasurement* (general)
-🚫 去掉注释行: !! adobedtm.com^*/satelliteLib-
-🚫 去掉注释行: !! adobedtm.com^*-libraryCode_source.min.js
-🚫 去掉注释行: !! adobedtm.com^*_source.min.js
-🚫 去掉注释行: !! adobedtm.com^*-source.min.js
-🚫 去掉注释行: !! adobedtm.com^*/mbox-contents-
-🚫 去掉注释行: !! adobedtm.com/extensions/
-🚫 去掉注释行: !! OtAutoBlock.js
-🚫 去掉注释行: !! cxense.com/document/search?
-🚫 去掉注释行: !! cxense.com/persisted/execute
-🚫 去掉注释行: !! cxense.com/public/widget/
-🚫 去掉注释行: !! cxense.com/cx.cce.js
-🚫 去掉注释行: !! cxense.com/cx.js
-🚫 去掉注释行: !! collector.appconsent.io
-🚫 去掉注释行: !! imrworldwide.com/*ggc
-🚫 去掉注释行: !! imrworldwide.com/conf/
 🚫 去掉注释行: ! imrworldwide.com/v60.js
-🚫 去掉注释行: !! mpsnare.iesnare.com
-🚫 去掉注释行: !! ingest.sentry.io/api/
-🚫 去掉注释行: !! ci-mpsnare.iovation.com
-🚫 去掉注释行: !! lightning.cnn.com
-🚫 去掉注释行: !! tag.aticdn.net
-🚫 去掉注释行: !! cdn.optimizely.com/public
-🚫 去掉注释行: !! omtrdc.net
-🚫 去掉注释行: !! tags.tiqcdn.com
 🚫 去掉注释行: ! statcounter.com charts https://github.com/uBlockOrigin/uAssets/issues/11321
 🚫 去掉注释行: ! ping exceptions
 🚫 去掉注释行: ! https://github.com/easylist/easylist/issues/10565
@@ -30128,11 +30055,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202603301550
+🚫 去掉注释行: ! Version: 202603301700
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 30 Mar 2026 15:50 UTC
+🚫 去掉注释行: ! Last modified: 30 Mar 2026 17:00 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 24c26880f980989f35a2705664a48a8b66fc9951
+🚫 去掉注释行: ! Commit: cc50407bcdcab1172ddcc6bee4679ffd3b4ec9e9
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -53384,11 +53311,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202603301555
+🚫 去掉注释行: ! Version: 202603301707
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 30 Mar 2026 15:55 UTC
+🚫 去掉注释行: ! Last modified: 30 Mar 2026 17:07 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 5cc21555fff5eec1f5800ae84fa2551996b062bf
+🚫 去掉注释行: ! Commit: 8128a2bcb453c551524ab18a35aca71318d2e7ff
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -69493,8 +69420,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !生成时间: 2026-03-30 22:50:50
-🚫 去掉注释行: !有效规则数目: 2173301
+🚫 去掉注释行: !生成时间: 2026-03-31 00:05:36
+🚫 去掉注释行: !有效规则数目: 2173397
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
@@ -162523,9 +162450,9 @@
 🚫 去掉注释行: ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 🚫 去掉注释行: ! Homepage: https://github.com/217heidai/adblockfilters
 🚫 去掉注释行: ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-🚫 去掉注释行: ! Version: 20260330164133
-🚫 去掉注释行: ! Last modified: 2026/03/30 16:41:33
-🚫 去掉注释行: ! Blocked domains: 5908
+🚫 去掉注释行: ! Version: 20260331002837
+🚫 去掉注释行: ! Last modified: 2026/03/31 00:28:37
+🚫 去掉注释行: ! Blocked domains: 5771
 🚫 去掉注释行: ! unBlocked domains: 16
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Checksum: o58EQ0bUUWcADFrI+cMcIA
