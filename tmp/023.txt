@@ -48350,6 +48350,7 @@ auto.it##div[class^="ModalNewsletter_"]
 |quotidiano.net##div[class^="Newsletter_"]
 bluetti.jp###dynamic-react-root + div:has(> div.needsclick input[id^="email_"])
 hotokami.jp###half-fixed-modal-visibled
+lifehacker.jp###piano-esp-subscribe-form--article
 honichi.com###popup
 hotokami.jp##.bg-teal-500[href^="/subscription/landing_page/benefit"][onclick]
 product.minebeamitsumi.com##.bottom-popup
