@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-04-02T03:09:32.835Z
+🚫 去掉注释行: ! Last modified: 2026-04-02T04:48:57.686Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v1.0.38
 🚫 去掉注释行: !
@@ -1571,10 +1571,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 102298
-🚫 去掉注释行: ! Checksum: GMBUKZApEzE5+VNs7fEaew
-🚫 去掉注释行: ! Version: 202604020321
+🚫 去掉注释行: ! Checksum: CR6BA8ZHE5Jut66UjdXUmw
+🚫 去掉注释行: ! Version: 202604020511
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 02 Apr 2026 03:21 UTC
+🚫 去掉注释行: ! Last modified: 02 Apr 2026 05:11 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -13683,6 +13683,7 @@
 🚫 去掉注释行: ##.sponsored-article-widget
 🚫 去掉注释行: ##.sponsored-block
 🚫 去掉注释行: ##.sponsored-buttons
+🚫 去掉注释行: ##.sponsored-card.recirc-feed
 🚫 去掉注释行: ##.sponsored-container
 🚫 去掉注释行: ##.sponsored-container-bottom
 🚫 去掉注释行: ##.sponsored-default
@@ -24792,10 +24793,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: p3yv6uJxMnDtPpesqpRhlA
-🚫 去掉注释行: ! Version: 202604020321
+🚫 去掉注释行: ! Checksum: zBNzSGZd6Z4zIuz8AejnRA
+🚫 去掉注释行: ! Version: 202604020511
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 02 Apr 2026 03:21 UTC
+🚫 去掉注释行: ! Last modified: 02 Apr 2026 05:11 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29387,10 +29388,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: 9ktcGrwgR1WyNQzjl+fdaQ
-🚫 去掉注释行: ! Version: 202604020321
+🚫 去掉注释行: ! Checksum: e1aGXGZvtQCiMLwZfhSF/Q
+🚫 去掉注释行: ! Version: 202604020511
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 02 Apr 2026 03:21 UTC
+🚫 去掉注释行: ! Last modified: 02 Apr 2026 05:11 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -30057,11 +30058,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202604020324
+🚫 去掉注释行: ! Version: 202604020505
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 02 Apr 2026 03:24 UTC
+🚫 去掉注释行: ! Last modified: 02 Apr 2026 05:05 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 9fddc64608e922916ba633cb6b87e4b19dc67e13
+🚫 去掉注释行: ! Commit: 8b4a70a71e51425ec284a7aafc5fcc0e47a556a6
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -42173,6 +42174,7 @@
 🚫 去掉注释行: ##.sponsored-article-widget
 🚫 去掉注释行: ##.sponsored-block
 🚫 去掉注释行: ##.sponsored-buttons
+🚫 去掉注释行: ##.sponsored-card.recirc-feed
 🚫 去掉注释行: ##.sponsored-container
 🚫 去掉注释行: ##.sponsored-container-bottom
 🚫 去掉注释行: ##.sponsored-default
@@ -53314,11 +53316,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202604020326
+🚫 去掉注释行: ! Version: 202604020516
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 02 Apr 2026 03:26 UTC
+🚫 去掉注释行: ! Last modified: 02 Apr 2026 05:16 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 0cc684d49d1492e7cdc2c6a5843c928838329829
+🚫 去掉注释行: ! Commit: 2bdf61ad96ee8bb1c1d4af73f812eea1383f4d48
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -63118,6 +63120,8 @@
 🚫 去掉注释行: ##share-action
 🚫 去掉注释行: ##span[title="Condividi"]
 🚫 去掉注释行: ##span[title="Share this article"]
+🚫 去掉注释行: ! future plc
+🚫 去掉注释行: ###utility-bar__google-button
 🚫 去掉注释行: ! malayalam.indiatoday.in,aajtak.in,bangla.aajtak.in
 🚫 去掉注释行: ##.rhs-fixwhtsapp
 🚫 去掉注释行: ! https://www.sbnation.com/blogs
@@ -63308,9 +63312,6 @@
 ✅ 多域名拆分: pcgamer.com,tomshardware.com###utility-bar
     → |pcgamer.com###utility-bar
     → |tomshardware.com###utility-bar
-✅ 多域名拆分: gamesradar.com,techradar.com###utility-bar__google-button
-    → |gamesradar.com###utility-bar__google-button
-    → |techradar.com###utility-bar__google-button
 ✅ 多域名拆分: nhl.com,petri.com##.-social
     → |nhl.com##.-social
     → |petri.com##.-social
@@ -69433,8 +69434,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !生成时间: 2026-04-02 09:07:38
-🚫 去掉注释行: !有效规则数目: 336711
+🚫 去掉注释行: !生成时间: 2026-04-02 13:09:40
+🚫 去掉注释行: !有效规则数目: 336918
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
@@ -165683,10 +165684,10 @@
 🚫 去掉注释行: ! Blocked domains: 5571
 🚫 去掉注释行: ! unBlocked domains: 15
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: 9QVTDIrEhNRAZ4zSc9RdYg
-🚫 去掉注释行: ! Version: 202604020225
+🚫 去掉注释行: ! Checksum: ehN0EO+zjNgaOhNudQutRA
+🚫 去掉注释行: ! Version: 202604020350
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-04-02 02:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-04-02 03:50 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -178338,6 +178339,8 @@
 🚫 去掉注释行: ##share-action
 🚫 去掉注释行: ##span[title="Condividi"]
 🚫 去掉注释行: ##span[title="Share this article"]
+🚫 去掉注释行: ! future plc
+🚫 去掉注释行: ###utility-bar__google-button
 🚫 去掉注释行: ! malayalam.indiatoday.in,aajtak.in,bangla.aajtak.in
 🚫 去掉注释行: ##.rhs-fixwhtsapp
 🚫 去掉注释行: ! https://www.sbnation.com/blogs
@@ -178587,6 +178590,13 @@
 ✅ 多域名拆分: investmentexecutive.com,just-food.com##.article-footer
     → |investmentexecutive.com##.article-footer
     → |just-food.com##.article-footer
+✅ 多域名拆分: gamingbible.com,ladbible.com,sportbible.com,tyla.com,unilad.com,uniladtech.com##.article-header-meta_discoverButton__58lwg
+    → |gamingbible.com##.article-header-meta_discoverButton__58lwg
+    → |ladbible.com##.article-header-meta_discoverButton__58lwg
+    → |sportbible.com##.article-header-meta_discoverButton__58lwg
+    → |tyla.com##.article-header-meta_discoverButton__58lwg
+    → |unilad.com##.article-header-meta_discoverButton__58lwg
+    → |uniladtech.com##.article-header-meta_discoverButton__58lwg
 ✅ 多域名拆分: neowin.net,seattletimes.com,thecooldown.com##.article-share
     → |neowin.net##.article-share
     → |seattletimes.com##.article-share
@@ -223350,6 +223360,8 @@
 🚫 去掉注释行: ##div[data-newsletter-2]
 🚫 去掉注释行: ##gannett-atoms-component-newsletter-cta
 🚫 去掉注释行: ##journey-inline-newsletter
+🚫 去掉注释行: ! future plc
+🚫 去掉注释行: ###utilitybar__button--newsletter
 🚫 去掉注释行: ! floodlightnews.org
 🚫 去掉注释行: ##.gh-footer-signup
 🚫 去掉注释行: ##.gh-outer.gh-cta
@@ -223613,7 +223625,8 @@
 ✅ 多域名拆分: amazingfoodmadeeasy.com,businesstimes.com.sg###signup-wrapper
     → |amazingfoodmadeeasy.com###signup-wrapper
     → |businesstimes.com.sg###signup-wrapper
-✅ 多域名拆分: pcgamer.com,techradar.com###signupForm
+✅ 多域名拆分: gamesradar.com,pcgamer.com,techradar.com###signupForm
+    → |gamesradar.com###signupForm
     → |pcgamer.com###signupForm
     → |techradar.com###signupForm
 ✅ 多域名拆分: groupon.co.uk,groupon.ie,livingsocial.com###spotlight
