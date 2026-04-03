@@ -2001,6 +2001,7 @@ newhumanist.org.uk##.super-button
 golem.de##.supplementary
 codastory.com##.support
 artstation.com##.support-artstation
+|advocate.com##.support-banner
 |gbnews.com##.support-banner
 |ubn.news##.support-banner
 novaramedia.com##.support-bar
@@ -2159,6 +2160,7 @@ tripadvisor.*##a[href^="https://www.tripadvisor"][target="_blank"]:has(> section
 |x.com##aside[role="complementary"]:has(> a[href="/i/premium_sign_up"])
 blitz.gg##div[class]:has(> .placeholder > [href^="/pro?utm_"])
 deviantart.com##div[role="complementary"] > div[class]:has(> div > iframe[title="DealerAdIframe"])
+ign.com#?#.promo-card:has-text(/Become a member|IGN Plus|IGN Store/)
 aeon.co#?#.print\:hidden.mb-9:has-text(I would like to donate)
 aeon.co#?#.z-900:has-text(Join more than)
 asuracomic.net#?#.p-4.z-50:has-text(Upgrade to)
@@ -6461,7 +6463,6 @@ thehackernews.com##.share-open-modal
 bdnews24.com##.share-option
 |ig.com.br##.share-page
 |med.stanford.edu##.share-page
-|advocate.com##.share-panel
 |alternet.org##.share-panel
 |bestlifeonline.com##.share-panel
 |comicsands.com##.share-panel
@@ -7081,8 +7082,7 @@ roccosiffredixxx.it##.totwitter
 rottentomatoes.com##.trending-bar__social-link
 bloomberglinea.com##.ts-share-bar-custom
 fintech.tv##.ts-social-list-item
-|advocate.com##.tw
-|slashdot.org##.tw
+slashdot.org##.tw
 independent.co.uk##.tw-link
 |bearingarms.com##.tw-social
 |hotair.com##.tw-social
@@ -7317,6 +7317,7 @@ economictimes.indiatimes.com#?#.Pbanner:has-text(as a Reliable and Trusted News 
 freethoughtnow.org#?#.elementor-widget-container > h2:has-text(Please share)
 gizmodo.com#?#.border-t-grey-200:has-text(Share this story)
 heritagedaily.com#?#.tds-button:has-text(FOLLOW ON GOOGLE NEWS)
+ign.com#?#.promo-card:has-text(Follow us!)
 jacobin.com#?#.po-fr__heading:has-text(Share this article)
 lifenews.com#?#.post_style_zk > p:has-text(Please subscribe)
 nbcsports.com#?#p.cms-textAlign-center:has-text(follow NBC Sports)
@@ -9466,7 +9467,6 @@ hindustantimes.com##.ln
 |franceantilles.fr##.tw
 |hindustantimes.com##.tw
 |rtl.fr##.tw
-|advocate.com##.fb
 |avtoradio.ru##.fb
 |eurocash.pl##.fb
 |franceantilles.fr##.fb
@@ -9650,6 +9650,7 @@ hindustantimes.com##.ln
 |999thepoint.com##.social-links
 |99wfmk.com##.social-links
 |addapinch.com##.social-links
+|advocate.com##.social-links
 |allhitskzmk.com##.social-links
 |alpin.de##.social-links
 |alternativemissoula.com##.social-links
@@ -9867,6 +9868,7 @@ hindustantimes.com##.ln
 |northlandfan.com##.social-links
 |oann.com##.social-links
 |orizzontescuola.it##.social-links
+|out.com##.social-links
 |overwolf.com##.social-links
 |passioneturchia.it##.social-links
 |pocketgamer.biz##.social-links
@@ -45045,7 +45047,6 @@ worksinprogress.co##.magazine-cta-sticky
 |marinetechnologynews.com##.magazine-subscription
 |worldenergynews.com##.magazine-subscription
 newmexicomagazine.org##.magazine-subscription-popup
-advocate.com##.magazine__banner
 dailymail.co.uk##.mail-best-v2-wrapper_1jvCah-U
 israellycool.com##.mail-chimp
 expressvpn.com##.mail-popup
@@ -45244,6 +45245,7 @@ vancouversun.com##.newsletter--indent
 mobilesyrup.com##.newsletter-article-container
 |advocate.com##.newsletter-aside
 |comicsands.com##.newsletter-aside
+|out.com##.newsletter-aside
 |thefulcrum.us##.newsletter-aside
 cityam.com##.newsletter-auto-inject
 theintercept.com##.newsletter-block__content
@@ -46032,6 +46034,7 @@ bolavip.com##.subs-block
 unherd.com##.subs-modal
 holyrood.com##.subs-popup
 live-adexchanger.pantheonsite.io##.subsciption
+|advocate.com##.subscribe
 |businessairnews.com##.subscribe
 |thesuburbansoapbox.com##.subscribe
 3dprint.com##.subscribe--sidebar
@@ -46647,6 +46650,7 @@ polygon.com##[class]:has(> .duet--cta--newsletter)
 aarp.org#?#.recommendationSection:has-text(Newsletter)
 advancedsciencenews.com#?#.et_pb_row_1_tb_body:has-text(Sign up for our weekly newsletter)
 advancedsciencenews.com#?#.et_pb_section:has-text(Sign up for our weekly newsletter)
+advocate.com#?#blockquote:has-text(Sign up for)
 aerospaceglobalnews.com#?#.btn-ocean:has-text(Newsletter Sign Up)
 suppose.tv#?##alertTab:has-text(Enter your email address)
 amgreatness.com#?#.border-gray-200:has-text(Get the news)
@@ -47610,6 +47614,7 @@ idealista.pt##.newsletter-subscription-form
 |offresasaisir.fr##.newsletter
 |oilcity.news##.newsletter
 |omelete.com.br##.newsletter
+|out.com##.newsletter
 |ozbargain.com.au##.newsletter
 |padovasport.tv##.newsletter
 |participaties.nl##.newsletter
@@ -47903,6 +47908,7 @@ fashionrepublicmagazine.com##.featherlight
 |nextgov.com##.subscribe
 |noticiabrasil.net.br##.subscribe
 |notquitenigella.com##.subscribe
+|out.com##.subscribe
 |player.one##.subscribe
 |politicsweb.co.za##.subscribe
 |professionearchitetto.it##.subscribe
