@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-04-02T22:13:58.864Z
+🚫 去掉注释行: ! Last modified: 2026-04-03T00:40:56.211Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v1.0.38
 🚫 去掉注释行: !
@@ -1571,10 +1571,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 102298
-🚫 去掉注释行: ! Checksum: VnKz9eI40LISGvA6gZ6qKg
-🚫 去掉注释行: ! Version: 202604022341
+🚫 去掉注释行: ! Checksum: KceKlOzps/zCk3RdVmVvpQ
+🚫 去掉注释行: ! Version: 202604030142
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 02 Apr 2026 23:41 UTC
+🚫 去掉注释行: ! Last modified: 03 Apr 2026 01:42 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -17489,9 +17489,6 @@
     → |urldecoder.org##.ad_header_box
     → |urlencoder.org##.ad_header_box
     → |urlencoder.org.prettifycss.com##.ad_header_box
-✅ 多域名拆分: advocate.com,out.com##.ad_leaderboard_wrap
-    → |advocate.com##.ad_leaderboard_wrap
-    → |out.com##.ad_leaderboard_wrap
 ✅ 多域名拆分: base64decode.org,base64encode.org,beautifyjson.org,minifyjson.org,prettifycss.com,prettifyjs.net,uglifycss.com,uglifyjs.net,urldecoder.org,urlencoder.org,urlencoder.org.prettifycss.com##.ad_left_box
     → |base64decode.org##.ad_left_box
     → |base64encode.org##.ad_left_box
@@ -22975,9 +22972,10 @@
 ✅ 多域名拆分: communitychickens.com,keepingbackyardbees.com##.jumbo-ad
     → |communitychickens.com##.jumbo-ad
     → |keepingbackyardbees.com##.jumbo-ad
-✅ 多域名拆分: advocate.com,anandtech.com,sciencefocus.com##.jwplayer
+✅ 多域名拆分: advocate.com,anandtech.com,out.com,sciencefocus.com##.jwplayer
     → |advocate.com##.jwplayer
     → |anandtech.com##.jwplayer
+    → |out.com##.jwplayer
     → |sciencefocus.com##.jwplayer
 ✅ 多域名拆分: gamesradar.com,livescience.com,tomshardware.com,whathifi.com##.jwplayer__widthsetter
     → |gamesradar.com##.jwplayer__widthsetter
@@ -24793,10 +24791,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: 08YzgkNcNYfZwdENqGEzOw
-🚫 去掉注释行: ! Version: 202604022342
+🚫 去掉注释行: ! Checksum: b6swuf7LDmikLr3KqCzWKw
+🚫 去掉注释行: ! Version: 202604030142
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 02 Apr 2026 23:42 UTC
+🚫 去掉注释行: ! Last modified: 03 Apr 2026 01:42 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29388,10 +29386,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: AVjBm2PxcU7Z0hwO8eCEeQ
-🚫 去掉注释行: ! Version: 202604022341
+🚫 去掉注释行: ! Checksum: iBArH9i98fe2Q7ZS9tkRQg
+🚫 去掉注释行: ! Version: 202604030142
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 02 Apr 2026 23:41 UTC
+🚫 去掉注释行: ! Last modified: 03 Apr 2026 01:42 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -30058,11 +30056,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202604022325
+🚫 去掉注释行: ! Version: 202604030142
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 02 Apr 2026 23:25 UTC
+🚫 去掉注释行: ! Last modified: 03 Apr 2026 01:42 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: aac2e719598e485dc1f75f3247f9bd1dfe949bf2
+🚫 去掉注释行: ! Commit: 5b818896de3aab7da173cb1a441cb65c36d22668
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -45986,9 +45984,6 @@
     → |urldecoder.org##.ad_header_box
     → |urlencoder.org##.ad_header_box
     → |urlencoder.org.prettifycss.com##.ad_header_box
-✅ 多域名拆分: advocate.com,out.com##.ad_leaderboard_wrap
-    → |advocate.com##.ad_leaderboard_wrap
-    → |out.com##.ad_leaderboard_wrap
 ✅ 多域名拆分: base64decode.org,base64encode.org,beautifyjson.org,minifyjson.org,prettifycss.com,prettifyjs.net,uglifycss.com,uglifyjs.net,urldecoder.org,urlencoder.org,urlencoder.org.prettifycss.com##.ad_left_box
     → |base64decode.org##.ad_left_box
     → |base64encode.org##.ad_left_box
@@ -51473,9 +51468,10 @@
 ✅ 多域名拆分: communitychickens.com,keepingbackyardbees.com##.jumbo-ad
     → |communitychickens.com##.jumbo-ad
     → |keepingbackyardbees.com##.jumbo-ad
-✅ 多域名拆分: advocate.com,anandtech.com,sciencefocus.com##.jwplayer
+✅ 多域名拆分: advocate.com,anandtech.com,out.com,sciencefocus.com##.jwplayer
     → |advocate.com##.jwplayer
     → |anandtech.com##.jwplayer
+    → |out.com##.jwplayer
     → |sciencefocus.com##.jwplayer
 ✅ 多域名拆分: gamesradar.com,livescience.com,tomshardware.com,whathifi.com##.jwplayer__widthsetter
     → |gamesradar.com##.jwplayer__widthsetter
@@ -53316,11 +53312,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202604022325
+🚫 去掉注释行: ! Version: 202604030142
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 02 Apr 2026 23:25 UTC
+🚫 去掉注释行: ! Last modified: 03 Apr 2026 01:42 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: aac2e719598e485dc1f75f3247f9bd1dfe949bf2
+🚫 去掉注释行: ! Commit: 5b818896de3aab7da173cb1a441cb65c36d22668
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -63932,8 +63928,7 @@
 ✅ 多域名拆分: ig.com.br,med.stanford.edu##.share-page
     → |ig.com.br##.share-page
     → |med.stanford.edu##.share-page
-✅ 多域名拆分: advocate.com,alternet.org,bestlifeonline.com,comicsands.com,commondreams.org,gbnews.com,glennbeck.com,physicsworld.com,pride.com,rawstory.com,spectrum.ieee.org,theblaze.com,thefulcrum.us,upworthy.com##.share-panel
-    → |advocate.com##.share-panel
+✅ 多域名拆分: alternet.org,bestlifeonline.com,comicsands.com,commondreams.org,gbnews.com,glennbeck.com,physicsworld.com,pride.com,rawstory.com,spectrum.ieee.org,theblaze.com,thefulcrum.us,upworthy.com##.share-panel
     → |alternet.org##.share-panel
     → |bestlifeonline.com##.share-panel
     → |comicsands.com##.share-panel
@@ -64325,9 +64320,6 @@
 ✅ 多域名拆分: risk.net,waterstechnology.com##.tools-container
     → |risk.net##.tools-container
     → |waterstechnology.com##.tools-container
-✅ 多域名拆分: advocate.com,slashdot.org##.tw
-    → |advocate.com##.tw
-    → |slashdot.org##.tw
 ✅ 多域名拆分: bearingarms.com,hotair.com,redstate.com##.tw-social
     → |bearingarms.com##.tw-social
     → |hotair.com##.tw-social
@@ -66592,8 +66584,7 @@
     → |hindustantimes.com##.tw
     → |rtl.fr##.tw
 🚫 去掉注释行: ! ! .fb
-✅ 多域名拆分: advocate.com,avtoradio.ru,eurocash.pl,franceantilles.fr,hindustantimes.com,richersounds.com,rtl.fr##.fb
-    → |advocate.com##.fb
+✅ 多域名拆分: avtoradio.ru,eurocash.pl,franceantilles.fr,hindustantimes.com,richersounds.com,rtl.fr##.fb
     → |avtoradio.ru##.fb
     → |eurocash.pl##.fb
     → |franceantilles.fr##.fb
@@ -66720,7 +66711,7 @@
     → |focusjunior.it##.Share
     → |inn.co.il##.Share
 🚫 去掉注释行: ! ! .social-links
-✅ 多域名拆分: 1019therock.com,101theeagle.com,1023thebullfm.com,1025kiss.com,1027kord.com,1033thegoat.com,1035kissfmboise.com,1037theloon.com,1037theriver.com,103gbfrocks.com,103kkcn.com,103wjod.com,1043wowcountry.com,1045theteam.com,1051theblock.com,1057thehawk.com,1061evansville.com,1063nowfm.com,1063thebuzz.com,1073kissfmtexas.com,1073popcrush.com,1075thepeak.com,1079ishot.com,107jamz.com,1130thetiger.com,1340thehawk.com,1390granitecitysports.com,1420wbec.com,1440wrok.com,1470kyyw.com,1520theticket.com,560kmon.com,610kona.com,710keel.com,890kdxu.com,925kaar.com,925theranch.com,929nin.com,929thebull.com,929thelake.com,929theticket.com,92moose.fm,943litefm.com,943thepoint.com,945maxcountry.com,949whom.com,94kix.com,953thebear.com,955kmbr.com,95rockfm.com,961theeagle.com,963theblaze.com,965kvki.com,965therock.com,965thewalleye.com,967theeagle.net,969zoofm.com,973espn.com,973kkrc.com,973thedawg.com,975kgkl.com,975now.com,979kickfm.com,97rockonline.com,97x.com,97zokonline.com,981thehawk.com,983thesnake.com,987jack.com,987kissfmsanangelo.com,987thebomb.com,987thegrand.com,995theapple.com,999bigskysports.com,999ktdy.com,999thepoint.com,99wfmk.com,addapinch.com,allhitskzmk.com,alpin.de,alternativemissoula.com,anothermag.com,antena3.com,antennamag.com,armageddonexpo.com,averiecooks.com,awesome98.com,b100quadcities.com,b1027.com,b105country.com,b921hits.com,b93.net,b985.fm,banana1015.com,bigcat921.com,bigcat953.com,bigcountry969.com,bigfrog104.com,bigstack1039.com,billingsmix.com,bitcoinmagazine.nl,bnn.de,bolina.it,bozemanskissfm.com,btvradio.bg,caspercowboy.com,catcountry1029.com,catcountry1073.com,catcountryutah.com,catfishtuscaloosa.com,cgchannel.com,classicfm.bg,classicrock1051.com,classicrock961.com,club937.com,cnynews.com,cool987fm.com,culture.pl,dakotacountry961.com,danburycountry.com,dave1077.com,deghi.it,diariolasamericas.com,eagle1023fm.com,eagle933.com,ebu.io,elancasti.com.ar,espn960sanangelo.com,espnquadcities.com,espnsiouxfalls.com,espnwesterncolorado.com,finanzfluss.de,fortune.com,foxsports1510.com,foxsportsutahradio.com,fullfact.org,fun1043.com,fun107.com,fun947.com,gator995.com,gimmedelicious.com,global.espreso.tv,hannity.com,highway989.com,hot1047.com,hot975fm.com,hot991.com,hudsonvalleycountry.com,i24news.tv,i95rock.com,i95rocks.com,idsnews.com,imlive.com,insurancejournal.com,jackfmcasper.com,jobrapido.com,jstor.org,juan925fm.com,juanhudsonvalley.com,k2radio.com,k923.fm,k945.com,k96fm.com,k99.com,k99hits.com,katsfm.com,kbat.com,kbulnewstalk.com,kcrr.com,kdat.com,kdhlradio.com,keanradio.com,kekbfm.com,keyj.com,keyw.com,keyzradio.com,kezj.com,kffm.com,kfilradio.com,kfmx.com,kfox95.com,kfyo.com,kgab.com,kgrzmissoula.com,khak.com,khmoradio.com,kickam1530.com,kicks105.com,kidotalkradio.com,kikn.com,king-mag.com,kingfm.com,kisscasper.com,kisselpaso.com,kissfm1053.com,kissfm969.com,kissin977.com,kixs.com,kkam.com,kkyr.com,klaq.com,klaw.com,klubtejano.com,kmhk.com,kmmsam.com,knowledge.wharton.upenn.edu,knue.com,koel.com,kool1017.com,kool1079.com,kool929fm.com,kool965.com,koolfmabilene.com,kowb1290.com,kpel965.com,kpq.com,kqvt.com,krfofm.com,krforadio.com,krna.com,kroc.com,krocnews.com,krod.com,ksenam.com,ksfa860.com,ksisradio.com,ksub590.com,ktemnews.com,kubcthecanyon.com,kw3.com,kwcdcountry.com,kxkx.com,kxrb.com,kxtl.com,kygl.com,kyssfm.com,lifestyle.bg,lite987.com,litefm955.com,liteonline.com,live959.com,lmneuquen.com,lonestar923.com,lonestar995fm.com,loudwire.com,marketplace.org,may9.ru,med.stanford.edu,mega993online.com,meteosafe.com,metro.us,minnesotasnewcountry.com,mix1043fm.com,mix106radio.com,mix108.com,mix931fm.com,mix941kmxj.com,mix949.com,mix951.com,mix957gr.com,mix979fm.com,mobilesyrup.com,money.bg,montanastatenews.com,mooseradio.com,moviemaker.com,my1053wjlt.com,myb106.com,mybeachradio.com,mycountry955.com,myjuan1017.com,mykiss1031.com,mykisscountry937.com,mymagicgr.com,mymajic933.com,mymix923.com,mymodernmet.com,myq1075.com,nationalactionnetwork.net,nau.ch,netwerk24.com,news.bg,news24.com,newsradio1310.com,newstalk1280.com,newstalk1290.com,newstalk870.am,newstalk940.com,newstalkkgvo.com,newstalkkit.com,nj1015.com,noisecreep.com,northlandfan.com,oann.com,orizzontescuola.it,overwolf.com,passioneturchia.it,pocketgamer.biz,popcrush.com,power1029noco.com,power959.com,power96radio.com,powerboise.com,praise933.com,q1057.com,q1065.fm,q1077.com,q961.com,q985.fm,q985online.com,quantamagazine.org,quickcountry.com,retro1025.com,river967.com,rivergrandrapids.com,rock1041.com,rock967online.com,rocketbeans.tv,san.com,saturdayeveningpost.com,screencrush.com,searchnowweb.com,serieturche.eu,sfist.com,shark1053.com,skinnyms.com,soaps.sheknows.com,sojo1049.com,son.co.za,sportsradio977.com,squatchrocks.com,star939.com,star981.com,supertalk1270.com,talk1067.com,talk1470.com,talkradio960.com,tasteofcountry.com,theboot.com,thebullamarillo.com,thedailystar.net,theeagleonline.com,thegame730am.com,thequake1021.com,theriver979.com,therockofrochester.com,thunder981.com,tide1009.com,topsport.bg,trustradio.com.ng,tuasaude.com,ultimateclassicrock.com,upworthy.com,us103.com,us1033.com,us1049quadcities.com,us105fm.com,wakingtimes.com,wantedonline.co.za,wbckfm.com,wbkr.com,wblk.com,wblm.com,wbsm.com,wbxxfm.com,wchram.com,wcrz.com,wcyy.com,wdbqam.com,wdea.am,wfnt.com,wfpg.com,wgna.com,wgrd.com,wibx950.com,wijwedden.net,witl.com,wjbq.com,wjimam.com,wjon.com,wkdq.com,wkfr.com,wkmi.com,wmmq.com,wnaw.com,wnbf.com,wobm.comm,wokq.com,womiowensboro.com,wour.com,wpdh.com,wpst.com,wrkr.com,wrrv.com,wsbs.com,wsrkfm.com,wtug.com,wupe.com,wyrk.com,wzozfm.com,xlcountry.com,xxlmag.com,y105fm.com,y105music.com,y95country.com,z100missoula.com,z1073.com,z94.com,zoey1039.com##.social-links
+✅ 多域名拆分: 1019therock.com,101theeagle.com,1023thebullfm.com,1025kiss.com,1027kord.com,1033thegoat.com,1035kissfmboise.com,1037theloon.com,1037theriver.com,103gbfrocks.com,103kkcn.com,103wjod.com,1043wowcountry.com,1045theteam.com,1051theblock.com,1057thehawk.com,1061evansville.com,1063nowfm.com,1063thebuzz.com,1073kissfmtexas.com,1073popcrush.com,1075thepeak.com,1079ishot.com,107jamz.com,1130thetiger.com,1340thehawk.com,1390granitecitysports.com,1420wbec.com,1440wrok.com,1470kyyw.com,1520theticket.com,560kmon.com,610kona.com,710keel.com,890kdxu.com,925kaar.com,925theranch.com,929nin.com,929thebull.com,929thelake.com,929theticket.com,92moose.fm,943litefm.com,943thepoint.com,945maxcountry.com,949whom.com,94kix.com,953thebear.com,955kmbr.com,95rockfm.com,961theeagle.com,963theblaze.com,965kvki.com,965therock.com,965thewalleye.com,967theeagle.net,969zoofm.com,973espn.com,973kkrc.com,973thedawg.com,975kgkl.com,975now.com,979kickfm.com,97rockonline.com,97x.com,97zokonline.com,981thehawk.com,983thesnake.com,987jack.com,987kissfmsanangelo.com,987thebomb.com,987thegrand.com,995theapple.com,999bigskysports.com,999ktdy.com,999thepoint.com,99wfmk.com,addapinch.com,advocate.com,allhitskzmk.com,alpin.de,alternativemissoula.com,anothermag.com,antena3.com,antennamag.com,armageddonexpo.com,averiecooks.com,awesome98.com,b100quadcities.com,b1027.com,b105country.com,b921hits.com,b93.net,b985.fm,banana1015.com,bigcat921.com,bigcat953.com,bigcountry969.com,bigfrog104.com,bigstack1039.com,billingsmix.com,bitcoinmagazine.nl,bnn.de,bolina.it,bozemanskissfm.com,btvradio.bg,caspercowboy.com,catcountry1029.com,catcountry1073.com,catcountryutah.com,catfishtuscaloosa.com,cgchannel.com,classicfm.bg,classicrock1051.com,classicrock961.com,club937.com,cnynews.com,cool987fm.com,culture.pl,dakotacountry961.com,danburycountry.com,dave1077.com,deghi.it,diariolasamericas.com,eagle1023fm.com,eagle933.com,ebu.io,elancasti.com.ar,espn960sanangelo.com,espnquadcities.com,espnsiouxfalls.com,espnwesterncolorado.com,finanzfluss.de,fortune.com,foxsports1510.com,foxsportsutahradio.com,fullfact.org,fun1043.com,fun107.com,fun947.com,gator995.com,gimmedelicious.com,global.espreso.tv,hannity.com,highway989.com,hot1047.com,hot975fm.com,hot991.com,hudsonvalleycountry.com,i24news.tv,i95rock.com,i95rocks.com,idsnews.com,imlive.com,insurancejournal.com,jackfmcasper.com,jobrapido.com,jstor.org,juan925fm.com,juanhudsonvalley.com,k2radio.com,k923.fm,k945.com,k96fm.com,k99.com,k99hits.com,katsfm.com,kbat.com,kbulnewstalk.com,kcrr.com,kdat.com,kdhlradio.com,keanradio.com,kekbfm.com,keyj.com,keyw.com,keyzradio.com,kezj.com,kffm.com,kfilradio.com,kfmx.com,kfox95.com,kfyo.com,kgab.com,kgrzmissoula.com,khak.com,khmoradio.com,kickam1530.com,kicks105.com,kidotalkradio.com,kikn.com,king-mag.com,kingfm.com,kisscasper.com,kisselpaso.com,kissfm1053.com,kissfm969.com,kissin977.com,kixs.com,kkam.com,kkyr.com,klaq.com,klaw.com,klubtejano.com,kmhk.com,kmmsam.com,knowledge.wharton.upenn.edu,knue.com,koel.com,kool1017.com,kool1079.com,kool929fm.com,kool965.com,koolfmabilene.com,kowb1290.com,kpel965.com,kpq.com,kqvt.com,krfofm.com,krforadio.com,krna.com,kroc.com,krocnews.com,krod.com,ksenam.com,ksfa860.com,ksisradio.com,ksub590.com,ktemnews.com,kubcthecanyon.com,kw3.com,kwcdcountry.com,kxkx.com,kxrb.com,kxtl.com,kygl.com,kyssfm.com,lifestyle.bg,lite987.com,litefm955.com,liteonline.com,live959.com,lmneuquen.com,lonestar923.com,lonestar995fm.com,loudwire.com,marketplace.org,may9.ru,med.stanford.edu,mega993online.com,meteosafe.com,metro.us,minnesotasnewcountry.com,mix1043fm.com,mix106radio.com,mix108.com,mix931fm.com,mix941kmxj.com,mix949.com,mix951.com,mix957gr.com,mix979fm.com,mobilesyrup.com,money.bg,montanastatenews.com,mooseradio.com,moviemaker.com,my1053wjlt.com,myb106.com,mybeachradio.com,mycountry955.com,myjuan1017.com,mykiss1031.com,mykisscountry937.com,mymagicgr.com,mymajic933.com,mymix923.com,mymodernmet.com,myq1075.com,nationalactionnetwork.net,nau.ch,netwerk24.com,news.bg,news24.com,newsradio1310.com,newstalk1280.com,newstalk1290.com,newstalk870.am,newstalk940.com,newstalkkgvo.com,newstalkkit.com,nj1015.com,noisecreep.com,northlandfan.com,oann.com,orizzontescuola.it,out.com,overwolf.com,passioneturchia.it,pocketgamer.biz,popcrush.com,power1029noco.com,power959.com,power96radio.com,powerboise.com,praise933.com,q1057.com,q1065.fm,q1077.com,q961.com,q985.fm,q985online.com,quantamagazine.org,quickcountry.com,retro1025.com,river967.com,rivergrandrapids.com,rock1041.com,rock967online.com,rocketbeans.tv,san.com,saturdayeveningpost.com,screencrush.com,searchnowweb.com,serieturche.eu,sfist.com,shark1053.com,skinnyms.com,soaps.sheknows.com,sojo1049.com,son.co.za,sportsradio977.com,squatchrocks.com,star939.com,star981.com,supertalk1270.com,talk1067.com,talk1470.com,talkradio960.com,tasteofcountry.com,theboot.com,thebullamarillo.com,thedailystar.net,theeagleonline.com,thegame730am.com,thequake1021.com,theriver979.com,therockofrochester.com,thunder981.com,tide1009.com,topsport.bg,trustradio.com.ng,tuasaude.com,ultimateclassicrock.com,upworthy.com,us103.com,us1033.com,us1049quadcities.com,us105fm.com,wakingtimes.com,wantedonline.co.za,wbckfm.com,wbkr.com,wblk.com,wblm.com,wbsm.com,wbxxfm.com,wchram.com,wcrz.com,wcyy.com,wdbqam.com,wdea.am,wfnt.com,wfpg.com,wgna.com,wgrd.com,wibx950.com,wijwedden.net,witl.com,wjbq.com,wjimam.com,wjon.com,wkdq.com,wkfr.com,wkmi.com,wmmq.com,wnaw.com,wnbf.com,wobm.comm,wokq.com,womiowensboro.com,wour.com,wpdh.com,wpst.com,wrkr.com,wrrv.com,wsbs.com,wsrkfm.com,wtug.com,wupe.com,wyrk.com,wzozfm.com,xlcountry.com,xxlmag.com,y105fm.com,y105music.com,y95country.com,z100missoula.com,z1073.com,z94.com,zoey1039.com##.social-links
     → |1019therock.com##.social-links
     → |101theeagle.com##.social-links
     → |1023thebullfm.com##.social-links
@@ -66799,6 +66790,7 @@
     → |999thepoint.com##.social-links
     → |99wfmk.com##.social-links
     → |addapinch.com##.social-links
+    → |advocate.com##.social-links
     → |allhitskzmk.com##.social-links
     → |alpin.de##.social-links
     → |alternativemissoula.com##.social-links
@@ -67016,6 +67008,7 @@
     → |northlandfan.com##.social-links
     → |oann.com##.social-links
     → |orizzontescuola.it##.social-links
+    → |out.com##.social-links
     → |overwolf.com##.social-links
     → |passioneturchia.it##.social-links
     → |pocketgamer.biz##.social-links
@@ -69434,8 +69427,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !生成时间: 2026-04-03 07:33:20
-🚫 去掉注释行: !有效规则数目: 345695
+🚫 去掉注释行: !生成时间: 2026-04-03 09:34:23
+🚫 去掉注释行: !有效规则数目: 345732
 ✅ HOSTS 转换: 127.0.0.1 0ce3c-1fd43.api.pushwoosh.com → |0ce3c-1fd43.api.pushwoosh.com^
 ✅ HOSTS 转换: 127.0.0.1 100016075.collect.igodigital.com → |100016075.collect.igodigital.com^
 ✅ HOSTS 转换: 127.0.0.1 10870841.collect.igodigital.com → |10870841.collect.igodigital.com^
@@ -172219,15 +172212,15 @@
 🚫 去掉注释行: ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 🚫 去掉注释行: ! Homepage: https://github.com/217heidai/adblockfilters
 🚫 去掉注释行: ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-🚫 去掉注释行: ! Version: 20260403002727
-🚫 去掉注释行: ! Last modified: 2026/04/03 00:27:27
+🚫 去掉注释行: ! Version: 20260403084716
+🚫 去掉注释行: ! Last modified: 2026/04/03 08:47:16
 🚫 去掉注释行: ! Blocked domains: 5567
 🚫 去掉注释行: ! unBlocked domains: 15
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: Xm8m/86UY2CLb0tsqt3VeA
-🚫 去掉注释行: ! Version: 202604021925
+🚫 去掉注释行: ! Checksum: oxBQh4eXzVLgvN2+AKpcEQ
+🚫 去掉注释行: ! Version: 202604030025
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-04-02 19:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-04-03 00:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -207956,7 +207949,7 @@
     → |photofiltres.fr##.consent-box
     → |ric.com.br##.consent-box
 🚫 去掉注释行: !! #cookie-bar
-✅ 多域名拆分: addnoise.nl,alpha-buch.de,andelprerov.cz,annualreviews.org,armesbastille.com,casino.org,cdobrianza.it,cdobrianza.org,cesnet.cz,chimeratool.com,comune.roma.it,correiodoestado.com.br,crossref.org,einforma.co,eshop.efko.cz,goodtravel.de,granta.com,gruppovideomedia.it,gsi-one.org,hofer.it,ilbracere.com,ilgiardinodeilibri.it,islambook.com,knowablemagazine.org,lockheedmartin.com,macrosad.com,marketingtribune.nl,megasport.co.il,milescorts.es,ods.cz,paracadutistirimini.com,pc-facile.com,poruba.ostrava.cz,promptamcs.com,querstarter.de,quesoslomogallego.com,rareseeds.com,ryxy.online,searchenginewatch.com,svpressa.ru,szegedsport.hu,trwalamotywacja.pl,werkenbijwestcord.nl###cookie-bar
+✅ 多域名拆分: addnoise.nl,alpha-buch.de,andelprerov.cz,annualreviews.org,armesbastille.com,casino.org,cdobrianza.it,cdobrianza.org,cesnet.cz,chimeratool.com,comune.roma.it,correiodoestado.com.br,crossref.org,einforma.co,eshop.efko.cz,goodtravel.de,granta.com,gruppovideomedia.it,gsi-one.org,hofer.it,ilbracere.com,ilgiardinodeilibri.it,industrycalendar.com,islambook.com,knowablemagazine.org,lockheedmartin.com,macrosad.com,marketingtribune.nl,megasport.co.il,milescorts.es,ods.cz,paracadutistirimini.com,pc-facile.com,poruba.ostrava.cz,promptamcs.com,querstarter.de,quesoslomogallego.com,rareseeds.com,ryxy.online,searchenginewatch.com,svpressa.ru,szegedsport.hu,trwalamotywacja.pl,werkenbijwestcord.nl###cookie-bar
     → |addnoise.nl###cookie-bar
     → |alpha-buch.de###cookie-bar
     → |andelprerov.cz###cookie-bar
@@ -207979,6 +207972,7 @@
     → |hofer.it###cookie-bar
     → |ilbracere.com###cookie-bar
     → |ilgiardinodeilibri.it###cookie-bar
+    → |industrycalendar.com###cookie-bar
     → |islambook.com###cookie-bar
     → |knowablemagazine.org###cookie-bar
     → |lockheedmartin.com###cookie-bar
@@ -236852,9 +236846,9 @@
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: !---------------------------------Allowlists----------------------------------!
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: GLdU0ieiA9G2jbg3uIxaNA
+🚫 去掉注释行: ! Checksum: 5FihmHL0y4lCXzYvsixB+Q
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Last modified: 2026-04-02 19:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-04-03 00:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
@@ -255004,7 +254998,7 @@
     → |photofiltres.fr##.consent-box
     → |ric.com.br##.consent-box
 🚫 去掉注释行: !! #cookie-bar
-✅ 多域名拆分: addnoise.nl,alpha-buch.de,andelprerov.cz,annualreviews.org,armesbastille.com,casino.org,cdobrianza.it,cdobrianza.org,cesnet.cz,chimeratool.com,comune.roma.it,correiodoestado.com.br,crossref.org,einforma.co,eshop.efko.cz,goodtravel.de,granta.com,gruppovideomedia.it,gsi-one.org,hofer.it,ilbracere.com,ilgiardinodeilibri.it,islambook.com,knowablemagazine.org,lockheedmartin.com,macrosad.com,marketingtribune.nl,megasport.co.il,milescorts.es,ods.cz,paracadutistirimini.com,pc-facile.com,poruba.ostrava.cz,promptamcs.com,querstarter.de,quesoslomogallego.com,rareseeds.com,ryxy.online,searchenginewatch.com,svpressa.ru,szegedsport.hu,trwalamotywacja.pl,werkenbijwestcord.nl###cookie-bar
+✅ 多域名拆分: addnoise.nl,alpha-buch.de,andelprerov.cz,annualreviews.org,armesbastille.com,casino.org,cdobrianza.it,cdobrianza.org,cesnet.cz,chimeratool.com,comune.roma.it,correiodoestado.com.br,crossref.org,einforma.co,eshop.efko.cz,goodtravel.de,granta.com,gruppovideomedia.it,gsi-one.org,hofer.it,ilbracere.com,ilgiardinodeilibri.it,industrycalendar.com,islambook.com,knowablemagazine.org,lockheedmartin.com,macrosad.com,marketingtribune.nl,megasport.co.il,milescorts.es,ods.cz,paracadutistirimini.com,pc-facile.com,poruba.ostrava.cz,promptamcs.com,querstarter.de,quesoslomogallego.com,rareseeds.com,ryxy.online,searchenginewatch.com,svpressa.ru,szegedsport.hu,trwalamotywacja.pl,werkenbijwestcord.nl###cookie-bar
     → |addnoise.nl###cookie-bar
     → |alpha-buch.de###cookie-bar
     → |andelprerov.cz###cookie-bar
@@ -255027,6 +255021,7 @@
     → |hofer.it###cookie-bar
     → |ilbracere.com###cookie-bar
     → |ilgiardinodeilibri.it###cookie-bar
+    → |industrycalendar.com###cookie-bar
     → |islambook.com###cookie-bar
     → |knowablemagazine.org###cookie-bar
     → |lockheedmartin.com###cookie-bar
