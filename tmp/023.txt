@@ -5961,6 +5961,7 @@ bleedingcool.com##.google-news-source
 |ringsidenews.com##.google-preferred-btn
 |tmz.com##.google-preferred-btn
 sammobile.com##.google-preferred-news-source-cta
+cultofmac.com##.google-preferred-source
 |9to5google.com##.google-preferred-source-badge
 |9to5mac.com##.google-preferred-source-badge
 |9to5toys.com##.google-preferred-source-badge
@@ -42431,7 +42432,7 @@ yoigo.com#@#thor-cookies
 @@||alicdn.com/js/*/ws-cookie.js$script
 @@||aliunicorn.com^*/cookie-info.js
 @@||alphavps.com/assets/js/services/CookiesConsent.min.js
-@@||ampproject.org^*/amp-consent-$domain=9to5google.com|9to5mac.com|amp-lasexta-com.cdn.ampproject.org|connectthewatts.com|dronedj.com|electrek.co|lelum.pl|martdroid.de|spaceexplored.com|www-history-com.cdn.ampproject.org
+@@||ampproject.org^*/amp-consent-$domain=9to5google.com|9to5mac.com|amp-lasexta-com.cdn.ampproject.org|connectthewatts.com|dronedj.com|electrek.co|lelum.pl|martdroid.de|ringsidenews.com|spaceexplored.com|www-history-com.cdn.ampproject.org
 @@||api.consentframework.com/api/$xmlhttprequest,domain=01net.com|gizmodo.com
 @@||api.mercari.jp/experiments/get_running_experiments_by_name$xmlhttprequest,domain=jp.mercari.com
 @@||api.transcend.io/privacy/graphql$xmlhttprequest
@@ -43077,6 +43078,7 @@ tmz.com###browser-notifications-prompt
 |sinya.com.tw###cboxOverlay
 |westhawaiitoday.com###cboxOverlay
 gatestoneinstitute.org###cboxWrapper
+cultofmac.com###center-modal-popup
 neon.com###changelog-form
 holdthecarbs.ca###chated-iframe
 holdthecarbs.ca###chated-overlay
@@ -47958,8 +47960,6 @@ fashionrepublicmagazine.com##.featherlight
 |notiperu.com.pe##.widget-newsletter
 |notiuruguay.uy##.widget-newsletter
 |order-order.com##.widget-newsletter
-androidauthority.com#?#div[class^="-_"] > form:has-text(newsletters)
-cultofmac.com#?#.section > .wrapper:has-text(Newsletters)
 |calgaryherald.com###pn-newsletter-signup
 |edmontonjournal.com###pn-newsletter-signup
 |montrealgazette.com###pn-newsletter-signup
