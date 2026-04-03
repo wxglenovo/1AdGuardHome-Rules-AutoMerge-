@@ -546,7 +546,6 @@ _social_footer_
 ||weibo.com/staticjs/weiboshare.html$third-party
 ||widget.weibo.com^$third-party
 ||widget.whatshelp.io^$third-party
-||widgets.getpocket.com^$third-party
 ||widgets.wp.com/likes/$third-party
 ||wykop.pl/dataprovider/diggerwidget/$third-party
 ||xing-share.com^$third-party
@@ -1035,6 +1034,7 @@ kyodonews.net##.article-sns
 |phoenixnewtimes.com##.article-social-share-buttons
 |westword.com##.article-social-share-buttons
 yalereview.org##.article-social-share-icon
+coloradopolitics.com##.article-social-share-icons
 nbcnews.com##.article-social-share-top
 heraldscotland.com##.article-sticky-social
 jpost.com##.article-subline-inner-share-buttons
@@ -1319,7 +1319,7 @@ overwolf.com##.creator-social
 retire.ly##.cs-footer-social-links
 euromaidanpress.com##.cs-meta-google-news
 bloomberg.com##.css--social-wrapper-outer
-economist.com##.css-11yt5xn
+chatelaine.com##.css-1nfrk0o-ShareButtons
 chatelaine.com##.css-1uko8nb-ShareButtons
 onedayonly.co.za##.css-p1ns9f
 fashionmagazine.com##.css-zh7gar-ShareButtons
@@ -1351,7 +1351,6 @@ dailymail.co.uk##.dms-puff
 |thefitcareerist.com##.dpsp-network-list-item
 |thewalrus.ca##.dpsp-network-list-item
 dropbox.tech##.dr-article-content__social-links
-economist.com##.ds-actioned-link--share
 |theverge.com##.duet--article--share-buttons
 |vox.com##.duet--article--share-buttons
 conservativewoman.co.uk##.dvk-social-sharing
@@ -1532,7 +1531,6 @@ freesvg.org##.footer-social-big
 |tribune.com.pk##.footer-social-icons
 |voetbalkrant.com##.footer-social-icons
 |wielerkrant.be##.footer-social-icons
-dailyboulder.com##.footer-social-list
 |gastrojournal.ch##.footer-social-media
 |myanimelist.net##.footer-social-media
 popsci.com##.footer-socials-wrapper
@@ -1718,7 +1716,6 @@ touristspy.com##.heateor_sss_follow_icons_container
 |spectator.org##.heateor_sss_sharing_container
 |worldsensorium.com##.heateor_sss_sharing_container
 bringmethenews.com##.hero-media-tools
-|dailyboulder.com##.highlight-shares
 |echonewshub.com##.highlight-shares
 |jugomobile.com##.highlight-shares
 |thartribune.com##.highlight-shares
@@ -2332,7 +2329,6 @@ moroccoworldnews.com##.socail-share1
 yourdailypornmovies.ws##.soci
 macrumors.com##.social--159R8SRB
 freepressjournal.in##.social-account
-|getpocket.com##.social-actions
 |mirror.co.uk##.social-actions
 |themirror.com##.social-actions
 penntoday.upenn.edu##.social-anchor-group
@@ -2346,7 +2342,6 @@ thereader.mitpress.mit.edu##.social-cont
 livecoinwatch.com##.social-feed-container
 |gfinityesports.com##.social-follow-unit
 |stealthoptional.com##.social-follow-unit
-dailyboulder.com##.social-follower
 |readbetting.com##.social-follows
 |readcars.co##.social-follows
 |readceltic.com##.social-follows
@@ -2762,8 +2757,7 @@ techlila.com##.tl-social
 techlila.com##.tl-social-share
 methodshop.com##.tm-click-to-tweet
 velo.outsideonline.com##.tm-o-toast
-|coloradopolitics.com##.tnt-share-link
-|denvergazette.com##.tnt-share-link
+denvergazette.com##.tnt-share-link
 xbiz.com##.tool-list
 |risk.net##.tools-container
 |waterstechnology.com##.tools-container
@@ -4343,7 +4337,6 @@ royalqueenseeds.*##.social-media-icons-footer
 |airlive.net##.l-shared-sec
 |colunadofla.com##.l-shared-sec
 |cryptotimes.io##.l-shared-sec
-|dailyboulder.com##.l-shared-sec
 |echonewshub.com##.l-shared-sec
 |jugomobile.com##.l-shared-sec
 |statestories.com##.l-shared-sec
