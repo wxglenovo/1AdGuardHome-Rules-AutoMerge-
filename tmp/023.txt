@@ -1195,7 +1195,6 @@ democracynow.org###appeal
 wikihow.com###article_courses_banner
 octoprint.org###banner
 learn.microsoft.com###banner-holder
-jacobin.com###banner-popup
 netzpolitik.org###banner-small
 leawo.org###banner-top-prom
 openculture.com###big-bottom-ad-single-posts
@@ -1214,7 +1213,6 @@ austinchronicle.com###block-90
 themarginalian.org###bottom_donation
 wikipedia.org###centralNotice
 dailymail.co.uk###chromelessPlayer
-calmatters.org###cm-event-ad-2024-d
 coconuts.co###coco-plus-membership-section
 theguardian.com###contact-the-guardian
 euractiv.com###contribs_banner
@@ -1298,15 +1296,11 @@ pocketgamer.com###site-background
 humblebundle.com###site-xpromo-banner
 en.wikipedia.org###siteNotice
 orbispatches.com###sitetop
-marinetraffic.com###skyscraper_container_front
-spiked-online.com###sliding-nudge-sell
 netflixjunkie.com###smartactions-container
-undark.org###special-message
 rawstory.com###spink_appeal_box_0_0_14_0_0_0
 finbold.com###sub-intent
 demonicscans.org###subpanel
 slideserve.com###suggestion
-spiked-online.com###support-banner
 austinchronicle.com###support-bar
 huffpost.com###support-huffpost-entry
 yalereview.org###support-pop-up
@@ -1330,7 +1324,6 @@ coingecko.com###top-announcement-header
 |fflogs.com###top-banner-fallback
 |warcraftlogs.com###top-banner-fallback
 insidethegames.biz###top-story-alert
-marinetraffic.com###topBanner
 tipranks.com###top_ribbon
 twitch.tv###twilight-sticky-footer-root
 theepochtimes.com###uacta-target
@@ -1995,6 +1988,7 @@ nautil.us##.subscribe-cta
 thesaturdaypaper.com.au##.subscriber-push-end
 indianexpress.com##.subscriber_hide
 spectator.co.uk##.subscription-banner
+scientificamerican.com##.subscriptionPleaContainer-D09dM
 artscanvas.org##.suggestion-box
 newhumanist.org.uk##.super-button
 golem.de##.supplementary
@@ -2182,12 +2176,14 @@ stuff.co.nz#?#.html-content:has-text(Got a tip)
 theintercept.com#?#.text-\[18px\]:has-text(Support Us)
 theworld.org#?#.mui-style-9ulf7o-root:has-text(Donate today!)
 twitch.tv#?#.player-overlay-background:has-text(Consider Turbo)
+undark.org#?#.trigger-in-view:has-text(Support Undark Magazine)
 united24media.com#?#.c-prose__ignore:has-text(Every article pushes)
 united24media.com#?#.z-modal.border-white:has-text(Support)
 washingtonmonthly.com#?#.wp-block-group__inner-container:has-text(Support the Washington Monthly)
 weather.com#?#.min-h-12:has-text(Sign in to see fewer ads)
 wired.com#?#.table-container:has-text(Got a Tip?)
 woolworths.co.nz#?#cdx-cta:has-text(Learn more)
+yalereview.org#?#.lg\:border-b-2:has-text(Support Our Commitment to Print)
 chromewebstore.google.com##[role="dialog"][aria-labelledby="promo-header"]
 chromewebstore.google.com#?#[aria-label="Info"]:has-text(Switch to Chrome)
 developer.android.com#?#.devsite-snackbar-snack:has-text(Please help us)
@@ -2258,7 +2254,6 @@ thespinoff.co.nz##.article-peep
 |chronicle-tribune.com##.asset-paging-container
 |citizentribune.com##.asset-paging-container
 |clintonherald.com##.asset-paging-container
-|coloradopolitics.com##.asset-paging-container
 |couriernews.com##.asset-paging-container
 |crossroadstoday.com##.asset-paging-container
 |csindy.com##.asset-paging-container
@@ -2354,6 +2349,7 @@ malaymail.com##.latest-news
 |businesstoday.in##.mainBorromSliderSec
 |gnttv.com##.mainBorromSliderSec
 metro.co.uk##.metro-swipe-prompt
+coloradopolitics.com##.midtc-article-navigation
 fandom.com##.mobileDrawer
 carsales.com.au##.more-articles-placeholder
 acs.org##.motw-controls
@@ -3973,6 +3969,9 @@ theguardian.com##+js(set-local-storage-item, gu.history.weeklyArticleCount, $rem
 flightconnections.com##+js(prevent-setTimeout, premiumShown)
 thebump.com##+js(set-cookie, registration_modal_dismissed, true)
 tradingview.com##+js(nostif, window.loginStateChange.subscribe)
+spiked-online.com##+js(set-local-storage-item, nudges, $remove$)
+spiked-online.com##.fxd-box.type-simple.nudge-sell
+spiked-online.com##body:style(height: auto !important; overflow: auto !important)
 nerdwallet.com##._1y2JXo
 nerdwallet.com##body,html:style(overflow: auto !important; position: initial !important;)
 r34.app##+js(set-local-storage-item, statistics-appOpenedCount, 1)
@@ -5331,6 +5330,7 @@ kyodonews.net##.article-sns
 |phoenixnewtimes.com##.article-social-share-buttons
 |westword.com##.article-social-share-buttons
 yalereview.org##.article-social-share-icon
+coloradopolitics.com##.article-social-share-icons
 nbcnews.com##.article-social-share-top
 heraldscotland.com##.article-sticky-social
 jpost.com##.article-subline-inner-share-buttons
@@ -5615,7 +5615,7 @@ overwolf.com##.creator-social
 retire.ly##.cs-footer-social-links
 euromaidanpress.com##.cs-meta-google-news
 bloomberg.com##.css--social-wrapper-outer
-economist.com##.css-11yt5xn
+chatelaine.com##.css-1nfrk0o-ShareButtons
 chatelaine.com##.css-1uko8nb-ShareButtons
 onedayonly.co.za##.css-p1ns9f
 fashionmagazine.com##.css-zh7gar-ShareButtons
@@ -5647,7 +5647,6 @@ dailymail.co.uk##.dms-puff
 |thefitcareerist.com##.dpsp-network-list-item
 |thewalrus.ca##.dpsp-network-list-item
 dropbox.tech##.dr-article-content__social-links
-economist.com##.ds-actioned-link--share
 |theverge.com##.duet--article--share-buttons
 |vox.com##.duet--article--share-buttons
 conservativewoman.co.uk##.dvk-social-sharing
@@ -5828,7 +5827,6 @@ freesvg.org##.footer-social-big
 |tribune.com.pk##.footer-social-icons
 |voetbalkrant.com##.footer-social-icons
 |wielerkrant.be##.footer-social-icons
-dailyboulder.com##.footer-social-list
 |gastrojournal.ch##.footer-social-media
 |myanimelist.net##.footer-social-media
 popsci.com##.footer-socials-wrapper
@@ -6014,7 +6012,6 @@ touristspy.com##.heateor_sss_follow_icons_container
 |spectator.org##.heateor_sss_sharing_container
 |worldsensorium.com##.heateor_sss_sharing_container
 bringmethenews.com##.hero-media-tools
-|dailyboulder.com##.highlight-shares
 |echonewshub.com##.highlight-shares
 |jugomobile.com##.highlight-shares
 |thartribune.com##.highlight-shares
@@ -6641,7 +6638,6 @@ thereader.mitpress.mit.edu##.social-cont
 livecoinwatch.com##.social-feed-container
 |gfinityesports.com##.social-follow-unit
 |stealthoptional.com##.social-follow-unit
-dailyboulder.com##.social-follower
 |readbetting.com##.social-follows
 |readcars.co##.social-follows
 |readceltic.com##.social-follows
@@ -7057,8 +7053,7 @@ techlila.com##.tl-social
 techlila.com##.tl-social-share
 methodshop.com##.tm-click-to-tweet
 velo.outsideonline.com##.tm-o-toast
-|coloradopolitics.com##.tnt-share-link
-|denvergazette.com##.tnt-share-link
+denvergazette.com##.tnt-share-link
 xbiz.com##.tool-list
 |risk.net##.tools-container
 |waterstechnology.com##.tools-container
@@ -8638,7 +8633,6 @@ royalqueenseeds.*##.social-media-icons-footer
 |airlive.net##.l-shared-sec
 |colunadofla.com##.l-shared-sec
 |cryptotimes.io##.l-shared-sec
-|dailyboulder.com##.l-shared-sec
 |echonewshub.com##.l-shared-sec
 |jugomobile.com##.l-shared-sec
 |statestories.com##.l-shared-sec
@@ -27833,6 +27827,7 @@ deps.dev##+js(set-cookie, cookie_policy_acknowledgement, true)
 |spb.hh.ru##+js(set-cookie, cookie_policy_agreement, true)
 dailymotion.com##+js(set-cookie, cookie_policy_closed, 1, , reload, 1)
 samsungsds.com##+js(set-cookie, cookie_policy_level, '"1"')
+meteovesti.ru##+js(set-cookie, cookie_policy_notice_closed, 1)
 qinetiq.com##+js(set-cookie, cookie_pref_accept, 1, , reload, 1)
 qinetiq.com##+js(set-cookie, cookie_pref_analytics, 0)
 hashop.nl##+js(set-cookie, cookie_preference, 1)
@@ -40116,6 +40111,7 @@ vsemayki.ru##._gTi8L8k
 |2gis.uz##._nlniiu
 bankprav.ru##.a-warning
 oreluniver.ru##.accept
+uteka.ru##.accept-cookie-popover
 gastronom.ru##.accept-cookies-popup
 web-c.ru##.access-cookie
 culture.ru##.afWIX
@@ -40469,6 +40465,7 @@ delimobil.ru##footer
 lenta.com##lu-cookie-agree
 mvideo.ru##mvid-cookie-notification
 postnauka.ru##notifications
+media.mts.ru##ookie-policy-widget
 remontnik.ru##rtk-cookies-notice
 sberdevices.ru#?#div[data-testid="snackbar"]:has-text(cookie)
 kion.ru##ui-web-alert
@@ -43584,7 +43581,6 @@ theanalyst.com###the_analyst_subscribe_widget-2
 techinformed.com###ti-subscribe-form
 usatrendnow.com###tie-newsletter-2
 armradio.am###tie-newsletter-3
-coloradopolitics.com###tncms-block-1390809
 dnronline.com###tncms-block-529772
 nashvillescene.com###tncms-region-article_bottom
 |postandcourier.com###tncms-region-article_instory_bottom
@@ -44309,13 +44305,13 @@ euromaidanpress.com##.cs-row-top
 |foreigndesknews.com##.cs-site-subscribe
 |hackread.com##.cs-site-subscribe
 evmagz.com##.cs-subscribe
+chatelaine.com##.css-167r3rs-NewsletterSignup-FeedSection
 patch.com##.css-1at62qq
 fashionmagazine.com##.css-1l5w1v0-NewsletterSignup
-scientificcoder.com##.css-e2xo3p
+chatelaine.com##.css-1ya99ji-NewsletterSignup
 zecar.com##.css-er318f
 bet.com##.css-mha66v-Box-Flex-StyledNewsletterLayout
 gwr.com##.css-pfotuc
-chatelaine.com##.css-zk005z-NewsletterSignup
 goodinternetmagazine.com##.ct-footer-cta
 businessplus.ie##.ct-link-text
 |coincodecap.com##.ct-newsletter-subscribe-container
@@ -44815,8 +44811,7 @@ news.crunchbase.com##.herald-txt-module
 |hnn.us##.hero
 |itsfoss.com##.hero
 |therighthairstyles.com##.hero
-|chatelaine.com##.hero-sidebar
-|macleans.ca##.hero-sidebar
+macleans.ca##.hero-sidebar
 press.asimov.com##.hero-signup-wrap
 responsiblestatecraft.org##.highlight-wrapper--newsletter
 vinepair.com##.home-email-cta
@@ -46285,8 +46280,7 @@ pbssocal.org##.ui-EmailAcquisition
 |ptitchef.com##.ui-widget-overlay
 forums.macrumors.com##.uix_sidebarInner
 kyivindependent.com##.ukraine-daily-side-banner
-|chatelaine.com##.under-article-widget-nl
-|macleans.ca##.under-article-widget-nl
+macleans.ca##.under-article-widget-nl
 blog.google##.uni-newsletter-toast
 highsnobiety.com##.unitContainer___ykMrM
 craftybaking.com##.upper
