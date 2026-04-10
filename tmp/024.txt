@@ -1579,6 +1579,7 @@ caseys.ie###caseys-cookie-modal
 |infomir.eu###cb
 |visitvictoria.com###cb
 |blankcaps.com###cb-cookie-banner
+|t-shirtwholesaler.com###cb-cookie-banner
 |whois.is###cb-cookie-banner
 |accounts.meister.co###cb-wrapper
 |meistertask.com###cb-wrapper
@@ -1909,6 +1910,7 @@ tenerife-guided-walks.com###dmPopupMask
 dobbies.com###dobbies_cookie_widget
 uga.edu###dp-cookie-notification
 drupal.org###drupalorg-crosssite-gdpr
+demandsphere.com###ds-consent-banner
 duke.edu###duke-cookie-consent
 |oberlo.com###dux-privacy
 |shopify.com###dux-privacy
@@ -3278,6 +3280,7 @@ moneycontrol.com##.cookie-concern-wrapper
 |perthnow.com.au##.cookie-consent--GDPR
 |thewest.com.au##.cookie-consent--GDPR
 friends.figma.com##.cookie-consent-acknowledgement-conatiner
+crowdwork.com##.cookie-consent-banner
 meest-shop.com##.cookie-consent-banner_root__M9V7x
 aerolopa.com##.cookie-consent-modern
 developers.turing.com##.cookie-consent-overlay
@@ -3362,6 +3365,7 @@ cloud.vmware.com##.cookie-usage-banner
 |chatspin.com##.cookie-use-notice
 |flingster.com##.cookie-use-notice
 rebeltech.co.za##.cookie-wall
+theopen.com##.cookie-warning
 |fishermap.org##.cookie-window
 |ittelo.ru##.cookie-window
 btimesonline.com##.cookieAcceptBar
@@ -4950,7 +4954,8 @@ lemonade.com##[aria-describedby="cookie-consent-description"]
 ticketmaster.com##[aria-describedby="mobileMobileTOUMessage"]
 |kstp.com##[aria-label="Cookie Consent Banner"]
 |scribd.com##[aria-label="Cookie Consent Banner"]
-1password.com##[aria-label="Cookie Consent"]
+|1password.com##[aria-label="Cookie Consent"]
+|shirtspace.com##[aria-label="Cookie Consent"]
 dictionary.cambridge.org##[aria-label="Cookie banner"]
 docs.nats.io##[aria-label="Cookies"]
 khanacademy.org##[aria-label="Notification Banner"]
@@ -5070,6 +5075,7 @@ c.realme.com##div > .cookie-privacy
 |support.saleae.com##div.r-1xcajam.css-175oi2r
 |wiki.valhelsia.net##div.r-1xcajam.css-175oi2r
 betmgm.co.uk##div:has(> div > div[bol-component="cookie-consent"])
+jingdaily.com##div[aria-label="Cookie consent banner"]
 streamelements.com##div[aria-label="Cookie consent"]
 utrechtart.com##div[aria-label="cookie consent banner"]
 |bicycling.com##div[aria-label^="Privacy Disclosure"]
@@ -5255,7 +5261,7 @@ beatstars.com##mp-snackbar-info-messages
 moovitapp.com##mv-cookie-banner
 nakedwines.co.uk##nkd-cookie-banner
 weatherbug.com##notification-footer
-huntington.northwell.edu##nwhlit-gdpr-banner
+northwell.edu##nwhlit-gdpr-banner
 1inch.com##oi-cookies-popup
 playpaxdei.com##paxdei-cookie-consent
 proactua.com##proactua-cookie-consent
@@ -10672,6 +10678,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |raceroster.com##.cookie-banner
 |randburgsun.co.za##.cookie-banner
 |randfonteinherald.co.za##.cookie-banner
+|rawg.io##.cookie-banner
 |reseau-sante-haut-leman.ch##.cookie-banner
 |reseau-sante-nord-broye.ch##.cookie-banner
 |reseau-sante-region-lausanne.ch##.cookie-banner
@@ -16362,6 +16369,7 @@ xtech.nikkei.com##.bpPrivacy
 animatebookstore.com##.ccst_area
 ebarafoods.com##.consent_c
 get-cp.jp##.cookie-agreement
+|kaldi.co.jp##.cookie-consent
 |kanazawalabo.net##.cookie-consent
 |liver.main.jp##.cookie-consent
 |xfolio.jp##.cookie-consent
