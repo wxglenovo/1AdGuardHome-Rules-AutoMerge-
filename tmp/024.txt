@@ -5564,6 +5564,7 @@ sogeti.*###popup-cookieConsent
 |stheadline.com##.cookie-box
 |upv.es##.cookie-box
 |wodify.com##.cookie-box
+|bratsk.ru###cookie-notification
 |furaffinity.net###cookie-notification
 |globalair.com###cookie-notification
 |kennesaw.edu###cookie-notification
@@ -10685,6 +10686,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |privacy.com##.cookie-banner
 |prodoctorov.ru##.cookie-banner
 |promentesana.ch##.cookie-banner
+|protabletky.ru##.cookie-banner
 |publicdomainreview.org##.cookie-banner
 |raceroster.com##.cookie-banner
 |randburgsun.co.za##.cookie-banner
@@ -11752,6 +11754,11 @@ newsbreak.com##.py-2.px-2
 |licon.com##.cookie-container
 |mbelik.com##.cookie-container
 |mbrus-bank.ru##.cookie-container
+|moe-belgorod.ru##.cookie-container
+|moe-kursk.ru##.cookie-container
+|moe-lipetsk.ru##.cookie-container
+|moe-online.ru##.cookie-container
+|moe-tambov.ru##.cookie-container
 |mpt.mp.br##.cookie-container
 |oeh-wu.at##.cookie-container
 |pcm.ru##.cookie-container
@@ -17356,6 +17363,7 @@ afisha.ru##._2r-6f
 okko.tv##._313Cf
 voka.tv##._3u9jqhQV
 uchi.ru##._UCHI_COOKIE__widget
+mgazeta.com##._cookieBanner_1gh8s_2
 vsemayki.ru##._gTi8L8k
 2gis.ru##._n1367pl
 |2gis.ru##._nlniiu
@@ -17440,13 +17448,14 @@ bml.ru##.cookiesModal
 |doctorpiter.ru##.cookiesPopup
 |marieclaire.ru##.cookiesPopup
 |maximonline.ru##.cookiesPopup
-|mydecor.ru##.cookiesPopup
+|mcmaison.ru##.cookiesPopup
 |parents.ru##.cookiesPopup
 |starhit.ru##.cookiesPopup
 |the-day.ru##.cookiesPopup
 |thegirl.ru##.cookiesPopup
 |vokrugsveta.ru##.cookiesPopup
 |woman.ru##.cookiesPopup
+sportsdaily.ru##.cookies_cookies__I5IfP
 uxfeedback.ru##.cookies_notification_cookiesContainer__YcD5G
 atol.ru##.cooks_k
 myapples.ru##.copyright_fixed
@@ -17479,6 +17488,7 @@ rutube.ru##.eu-cookie-popup-module__eu_cookie_popup
 |znakomstvagood.ru##.fTqTJk
 |znakomstve.ru##.fTqTJk
 ru.4game.ru##.fcw-wrap-ru
+finuslugi.ru##.finkit-widgets-sc-cookies-plate__wrapper
 wildberries.ru##.fixed-block__cookies
 xn--80aaaajaqedvetnzbddl5dfpg6ilw8c.xn--p1ai##.flex.flex-row.items-center.z-50.p-1.pl-3.rounded-full.bg-white.drop-shadow-lg.text-10px.fixed.bottom-\[20px\].left-\[90px\]
 servermall.ru##.float-cookie-wrapper
@@ -17574,7 +17584,9 @@ psychologies.ru##.notify-messages-popups
 |prosaratov.ru##.notifycation_notifycation__BeRRP
 |usolie.info##.notifycation_notifycation__BeRRP
 |youtvnews.com##.notifycation_notifycation__BeRRP
+|myliski.ru##.notifycation_notifycation__X6Fsx
 |newskrasnodar.ru##.notifycation_notifycation__X6Fsx
+|newtambov.ru##.notifycation_notifycation__X6Fsx
 |pg11.ru##.notifycation_notifycation__X6Fsx
 |pg13.ru##.notifycation_notifycation__X6Fsx
 |vladivostoktimes.ru##.notifycation_notifycation__X6Fsx
@@ -17667,6 +17679,18 @@ ktostroit.ru##.widget_cookie
 warthunder.ru##.wt-cb
 yasno.live##.y-gdpr
 uralkarcher.ru##.zalupa
+|360.ru##[aria-label="cookie-agreement"]
+|domodedovoriamo.ru##[aria-label="cookie-agreement"]
+|korolevriamo.ru##[aria-label="cookie-agreement"]
+|krasnogorskriamo.ru##[aria-label="cookie-agreement"]
+|lubertsyriamo.ru##[aria-label="cookie-agreement"]
+|mytischiriamo.ru##[aria-label="cookie-agreement"]
+|podolskriamo.ru##[aria-label="cookie-agreement"]
+|reutovriamo.ru##[aria-label="cookie-agreement"]
+|riamo.ru##[aria-label="cookie-agreement"]
+|riamobalashiha.ru##[aria-label="cookie-agreement"]
+|schelkovoriamo.ru##[aria-label="cookie-agreement"]
+|sergposadriamo.ru##[aria-label="cookie-agreement"]
 |crowd.mos.ru##[class^="AcceptCookie_"]
 |ctc.ru##[class^="AcceptCookie_"]
 jivo.ru##[class^="cookie-consent_container"]
@@ -18575,6 +18599,7 @@ fptshop.com.vn##[data-cookie-consent-modal="true"]
 ||elisa.ee/modules/custom/elisa_cookie/js/cookienoticecontroller.js
 ||bricodepot.ro^*/cookie-wrapper.js
 ||hmn.ru/cookie_funcs.js
+||lmcdn.ru/static/*/assets/x-cookie-notify$domain=lamoda.by|lamoda.kz|lamoda.ru
 ||pikadil.ru/build/assets/ModalCookies-
 ||remixshop.com/bg/site/ajaxCheckCookiePolicy
 ||cookies.teraz.sk^
