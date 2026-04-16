@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-04-16T08:40:48.135Z
+🚫 去掉注释行: ! Last modified: 2026-04-16T10:34:05.617Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v1.0.38
 🚫 去掉注释行: !
@@ -426,11 +426,6 @@
 🚫 去掉注释行: ! ||ensighten.com^$third-party - not a tracker
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Be careful when blocking snssdk.com. It is used also for legal purposes
-🚫 去掉注释行: !||i.snssdk.com/log/*
-🚫 去掉注释行: !||i.snssdk.com/slardar/sdk.js
-🚫 去掉注释行: !
-🚫 去掉注释行: !
-🚫 去掉注释行: !
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Bright Data
 🚫 去掉注释行: !
@@ -1576,10 +1571,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 101685
-🚫 去掉注释行: ! Checksum: pDWkYCOcu0Tr5uaxyYQKsA
-🚫 去掉注释行: ! Version: 202604160941
+🚫 去掉注释行: ! Checksum: KhZ400qUo8wmtORDf3Wgwg
+🚫 去掉注释行: ! Version: 202604161042
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 16 Apr 2026 09:41 UTC
+🚫 去掉注释行: ! Last modified: 16 Apr 2026 10:42 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -24809,10 +24804,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: OogcVvfeMuxC14IrpooDRA
-🚫 去掉注释行: ! Version: 202604160941
+🚫 去掉注释行: ! Checksum: n5xXGGl7QiervR/9D/29xg
+🚫 去掉注释行: ! Version: 202604161042
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 16 Apr 2026 09:41 UTC
+🚫 去掉注释行: ! Last modified: 16 Apr 2026 10:42 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29405,10 +29400,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: wMQZ8A8gTuXlHbUKXkn2/g
-🚫 去掉注释行: ! Version: 202604160941
+🚫 去掉注释行: ! Checksum: 7tDi4oTEIr9hgJke7L0ZZw
+🚫 去掉注释行: ! Version: 202604161042
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 16 Apr 2026 09:41 UTC
+🚫 去掉注释行: ! Last modified: 16 Apr 2026 10:42 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -30075,11 +30070,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202604160943
+🚫 去掉注释行: ! Version: 202604161037
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 16 Apr 2026 09:43 UTC
+🚫 去掉注释行: ! Last modified: 16 Apr 2026 10:37 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: b4b7ce54b7a4cdc475eae089a7c35b2a9f56e5a9
+🚫 去掉注释行: ! Commit: 65bb09d6d4821f821ecc4c6683ba6d6b7e87a906
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -53344,11 +53339,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202604160943
+🚫 去掉注释行: ! Version: 202604161054
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 16 Apr 2026 09:43 UTC
+🚫 去掉注释行: ! Last modified: 16 Apr 2026 10:54 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: b4b7ce54b7a4cdc475eae089a7c35b2a9f56e5a9
+🚫 去掉注释行: ! Commit: ecdc643adf8a485e249d63bae3a7b2f926c9696b
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
