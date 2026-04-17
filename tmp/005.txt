@@ -52614,6 +52614,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||src.fedoraproject.org/static/issues_stats.js?$~third-party
 @@||src.litix.io/shakaplayer/*/shakaplayer-mux.js
 @@||src.litix.io/videojs/*/videojs-mux.js
+@@||srv024.service.canada.ca/assets/adobe-analytics-route-helpers-$script,~third-party
 @@||ssl-images-amazon.com^*/satelliteLib-$script,domain=audible.com
 @@||starlink.com/sst/gtag/js$script,~third-party
 @@||startribune.com/analytics-assets/sitecatalyst/appmeasurement.js$~third-party
