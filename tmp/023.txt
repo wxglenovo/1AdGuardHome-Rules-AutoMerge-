@@ -26295,6 +26295,7 @@ traqq.com##+js(set-cookie, CookieAccept, true)
 |tester.userbrain.com##+js(set-cookie, CookieConsent, false)
 |vegvesen.no##+js(set-cookie, CookieConsent, false)
 |blaguss.com##+js(set-cookie, CookieConsent, mandatory)
+|hikoki-powertools.eu##+js(set-cookie, CookieConsent, mandatory)
 |huebschundgut.de##+js(set-cookie, CookieConsent, mandatory)
 |kontextwochenzeitung.de##+js(set-cookie, CookieConsent, mandatory)
 |oekolandbau.de##+js(set-cookie, CookieConsent, mandatory)
@@ -41990,6 +41991,7 @@ kna-bild.de#@##uiCookieConsent
 |skandia.se#@#.CookieBanner
 |bajuwarenhof.de#@#.CookieBar
 |isarradweg.de#@#.CookieBar
+hikoki-powertools.eu#@#.CookiePopUp
 aruba.com#@#.CookiePopup
 |rai.it#@#.PositionBottom.as-oil
 |rainews.it#@#.PositionBottom.as-oil
