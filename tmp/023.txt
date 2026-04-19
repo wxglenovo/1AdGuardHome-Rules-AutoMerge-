@@ -5956,6 +5956,7 @@ militarywatchmagazine.com##.google--text
 responsiblestatecraft.org##.google-cta
 responsiblestatecraft.org##.google-cta-infy
 dailyartmagazine.com##.google-feed-row
+faroutmagazine.co.uk##.google-follow
 pcguide.com##.google-news
 crypto.news##.google-news-banner
 coinedition.com##.google-news-block
@@ -6584,6 +6585,7 @@ newsroom.co.nz##.sharing-anchor
 cjr.org##.sharing-buttons
 thekitchenmagpie.com##.sharing-cta
 dagens.com##.sharing-element
+faroutmagazine.co.uk##.sharing-sidebar
 |al-watan.com##.sharingColumn
 |qatar-tribune.com##.sharingColumn
 glassalmanac.com##.shhr-btn
@@ -7262,6 +7264,7 @@ windowslatest.com##[href^="https://google.com/preferences/source"]
 goodyfeed.com##[href^="https://t.me/"]
 irishnews.com##[href^="https://whatsapp.com/channel/"]
 militarywatchmagazine.com##[href^="https://x.com/MilitaryWatchM"]
+ynetnews.com##[style="display: flex; justify-content: center; width:100%;height:65px;border: 1px solid #e6e6e6;border-radius: 5px;background-color: #fff;box-sizing: border-box; margin: 20px auto;"]
 colourlovers.com##a.mr-10.left > [src]
 hackster.io##a.social_icons__icon__BxTgB
 telekom.com##a[title="Share"]
@@ -18017,6 +18020,7 @@ experianidentityservice.co.uk###ensBannerBG
 |imda.gov.sg##.cookie-message
 |jobg8.com##.cookie-message
 |kameramsterdam.nl##.cookie-message
+|lancsmokehouse.com##.cookie-message
 |macpac.co.nz##.cookie-message
 |mercantile.co.il##.cookie-message
 |meups.com.br##.cookie-message
@@ -23279,6 +23283,7 @@ barcode.tec-it.com##.cookieConsent
 |onceupon.photo##div[class*="CookieBanner"]
 |paz.co.il##div[class*="CookieBanner"]
 |qured.us##div[class*="CookieBanner"]
+|samokat.ru##div[class*="CookieBanner"]
 |skyvegas.com##div[class*="CookieBanner"]
 |socratesdergi.com##div[class*="CookieBanner"]
 |start.ru##div[class*="CookieBanner"]
@@ -29582,6 +29587,8 @@ region-bayreuth.de##+js(set-local-storage-item, GDPR:RBI:accepted, false)
 ccaf.io##+js(set-local-storage-item, GDPR:accepted, true)
 bhaskar.com##+js(set-local-storage-item, HAS_ACCEPTED_PRIVACY_POLICY, true)
 popmart.com##+js(set-local-storage-item, HAS_AGREE_POLICY, true)
+|isolarcloud.com##+js(set-local-storage-item, ISOLAR_COOKIE_VISIT, 1)
+|isolarcloud.eu##+js(set-local-storage-item, ISOLAR_COOKIE_VISIT, 1)
 chavesnamao.com.br##+js(set-local-storage-item, LGPDconsent, 1)
 twgtea.com##+js(set-local-storage-item, LOCALSTORAGE_COOKIE_ALLOW, false)
 beta.character.ai##+js(set-local-storage-item, OPTIONAL_COOKIES_ACCEPTED_0, true)
@@ -46881,6 +46888,7 @@ erlang-solutions.com#?#.sidebar-sticky:has-text(newsletter)
 esports.gg#?#.inset-0.fixed:has-text(Sign up)
 ew.com#?#.comp > strong:has-text(newsletter)
 faithwire.com#?#em > strong:has-text(daily newsletter)
+faroutmagazine.co.uk#?#.header-submenu:has-text(Sign up to)
 fastcompany.com#?#.pb-1.gap-4:has-text(Sign up for)
 fastcompany.com#?#.pb-6:has-text(Newsletter)
 federalnewsnetwork.com#?#.sidebar-box:has-text(GET OUR NEWSLETTER NOW)
