@@ -17270,7 +17270,6 @@ angular.dev##docs-cookie-popup
 fedex.com##fedex-gdpr
 fi.google.com##fi-cookie-consent
 welcome.sparxmaths.uk##footer
-fresha.com#?#body > div:has-text(cookies)
 getgreatcareers.com##gc-accept-cookie
 globalsolaratlas.info##gsa-cookie-banner
 hathitrust.org##hathi-cookie-consent-banner
@@ -42656,7 +42655,7 @@ yoigo.com#@#thor-cookies
 @@||cmp.inmobi.com/tcfv2/$domain=adnkronos.com|cornwalllive.com|cyprus-mail.com|dailystar.co.uk|flash.gr|ilgiornale.it|informazione.it|mirror.co.uk|mymovies.it|open.online|protothema.gr|tuttoeuropei.com|video.lacnews24.it|video.milanofinanza.it
 @@||cmp.inmobi.com^*/choice.js$domain=adnkronos.com|cornwalllive.com|cyprus-mail.com|dailystar.co.uk|flash.gr|ilgiornale.it|informazione.it|mirror.co.uk|mymovies.it|open.online|protothema.gr|tuttoeuropei.com|video.lacnews24.it|video.milanofinanza.it
 @@||cmp.osano.com^$script,domain=account.bhvr.com|everand.com|guidepoint.com|lucidchart.com|midnight.gd|scribd.com|sonesta.com
-@@||cmp.osano.com^*/osano.js$domain=stltoday.com
+@@||cmp.osano.com^*/osano.js$domain=alltrails.com|stltoday.com
 @@||cmp.sibbo.net^$domain=tivify.tv
 @@||collector.appconsent.io/hello^$xmlhttprequest,domain=linternaute.com
 @@||computerbase.de^*/consent/$script,xmlhttprequest
