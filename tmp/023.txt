@@ -2227,7 +2227,8 @@ euractiv.com###bsf_rt_progress_bar_container
 |xboxera.com###check-also-box
 cyberark.com###default-next-button-wrapper
 sabcnews.com###floating-nextprev
-dailymail.co.uk###next-story
+|dailymail.co.uk###next-story
+|dailymail.com###next-story
 thecourier.com###nextStoryTitle
 news18.com###nextbtnwrap
 99percentinvisible.org###post-navigation
@@ -2400,6 +2401,7 @@ newsbytesapp.com##.prev-article-button
 |nymag.com##.prev-next
 |vulture.com##.prev-next
 tribune.com.pk##.prev-next-sec
+dailymail.com##.prevNextButton-VWXta
 thisismoney.co.uk##.prevNextWrapper-1Vg7e
 statnews.com##.recirculation-bar
 phonearena.com##.recom-upnext-section
@@ -5298,6 +5300,7 @@ ttgmedia.com##.ao-sbcontent
 asiaone.com##.ao-share-buttons
 thebookseller.com##.aos-Article-ShareLinks
 apnews.com##.ap-embed-wrap-whatsapp
+courthousenews.com##.apps-links
 chargedevs.com##.apss-social-share
 storyboard18.com##.ar_share
 businessday.co.za##.arena-share-bar
@@ -7363,6 +7366,7 @@ lifenews.com#?#.post_style_zk > p:has-text(Please subscribe)
 nbcsports.com#?#p.cms-textAlign-center:has-text(follow NBC Sports)
 newskarnataka.com#?#.elementor-button-wrapper:has-text(Social Media)
 newsroom.ucla.edu#?#.promo-card-muted:has-text(RSS feed)
+nytimes.com#?#.gps-module:has-text(on Google)
 openculture.com#?#.execphpwidget:has-text(FREE UPDATES!)
 psypost.org#?#strong:has-text(/Stay informed|Stay on top/)
 qodo.ai#?#.block-single-post__aside-heading:has-text(Share)
@@ -13655,6 +13659,7 @@ nflp.com###compliance-notice
 msn.com###conditionalbanner
 imei24.com###cons
 yopmail.com###cons-pop
+|gwmanz.com###consent-banner
 |mobisystems.com###consent-banner
 |parcelsapp.com###consent-banner
 agoda.com###consent-banner-container
@@ -15298,7 +15303,6 @@ moneycontrol.com##.cookie-concern-wrapper
 |perthnow.com.au##.cookie-consent--GDPR
 |thewest.com.au##.cookie-consent--GDPR
 friends.figma.com##.cookie-consent-acknowledgement-conatiner
-crowdwork.com##.cookie-consent-banner
 meest-shop.com##.cookie-consent-banner_root__M9V7x
 aerolopa.com##.cookie-consent-modern
 developers.turing.com##.cookie-consent-overlay
@@ -17867,6 +17871,7 @@ sogeti.*###popup-cookieConsent
 |allmyfaves.com##.cookie-consent-banner
 |charlesandcolvard.com##.cookie-consent-banner
 |concert.ua##.cookie-consent-banner
+|crowdwork.com##.cookie-consent-banner
 |delfortgroup.com##.cookie-consent-banner
 |githubstatus.com##.cookie-consent-banner
 |goldaglida.co.il##.cookie-consent-banner
@@ -17874,6 +17879,7 @@ sogeti.*###popup-cookieConsent
 |puffy.com##.cookie-consent-banner
 |splice-cad.com##.cookie-consent-banner
 |tnawrestling.com##.cookie-consent-banner
+|vidstudio.app##.cookie-consent-banner
 |wincatalog.com##.cookie-consent-banner
 |015.co.il##.cookie-consent-popup
 |almaviva.it##.cookie-consent-popup
@@ -45561,7 +45567,8 @@ broadwayworld.com##.newsletter-row
 |radiotimes.com##.newsletter-sign-up
 audacy.com##.newsletter-sign-up--station
 capitaltransport.com##.newsletter-sign-up-wrapper
-dailymail.co.uk##.newsletter-sign-up_2K2O1Qev
+|dailymail.co.uk##.newsletter-sign-up_2K2O1Qev
+|dailymail.com##.newsletter-sign-up_2K2O1Qev
 news24.com##.newsletter-signup--group
 foreignpolicy.com##.newsletter-signup-and-ads
 tweaktown.com##.newsletter-signup-bottom
@@ -46212,6 +46219,7 @@ interacnetwork.com##.stripe--newsletter
 barrons.com##.style--newsletter-signup-bottom--1Spc175x
 emergingtechbrew.com##.style__NewsletterCTAWrapper-sc-e26ea068-2
 inyourarea.co.uk##.styles_DesktopBottomBarSubscriptionForm_21C_s
+thinkygames.com##.styles_NewsletterSection__IY0HO
 emergingtechbrew.com##.styles__NewsletterButtonWrapper-sc-1d1d7156-13
 bringmethenews.com##.styles_announcementBanner__cgbJf
 economictimes.indiatimes.com##.styles_homeLeftSectionBanner__8_ohA
