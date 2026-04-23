@@ -16263,7 +16263,8 @@ ft.com##.n-messaging-slot
 businessoffashion.com##.navbar-notification
 freeimages.com##.navbar-qards
 bloomberg.com##.navi-terms-of-service
-orkney.com##.nb-cookie-consent-modal
+|orkney.com##.nb-cookie-consent-modal
+|shetland.org##.nb-cookie-consent-modal
 nextbase.com##.nb-cookies-container
 userbenchmark.com##.nb-parent
 wik-walsoe.com##.ncm-ready
@@ -16996,6 +16997,7 @@ ticketmaster.com##[aria-describedby="mobileMobileTOUMessage"]
 |1password.com##[aria-label="Cookie Consent"]
 |shirtspace.com##[aria-label="Cookie Consent"]
 dictionary.cambridge.org##[aria-label="Cookie banner"]
+swig.com##[aria-label="Cookie policy banner"]
 docs.nats.io##[aria-label="Cookies"]
 khanacademy.org##[aria-label="Notification Banner"]
 |itesco.sk##[aria-label="consent-banner"]
@@ -17015,6 +17017,7 @@ weedmaps.com##[class*="styles__BannerContainer-"]
 anthropic.com##[class^="ConsentBanner_"]
 sunmi.com##[class^="CookieCard_cookie-card"]
 getunleash.io##[class^="CookieControl"]
+artist.mnetplus.world##[class^="CookieCustomBottomSheet"]
 marineserre.com##[class^="CookiePopin_"]
 bitbrain.com##[class^="CookiesManager"]
 btc-alpha.com##[class^="Cookies_container"]
@@ -17869,9 +17872,11 @@ sogeti.*###popup-cookieConsent
 |emerald.com###cookies-consent
 |fadc.org.br###cookies-consent
 |forit.ro###cookies-consent
+|hadron.tether.to###cookies-consent
 |my-twist.tempurl.co.il###cookies-consent
 |tece.co.il###cookies-consent
 |libre-media.com###cookies-policy
+|nationalsewingcircle.com###cookies-policy
 |pharmacyclub.net###cookies-policy
 |zonaprop.com.ar###cookies-policy
 |calvinklein.ca###__tealiumModalParent
@@ -23673,6 +23678,7 @@ onassis.org##.bottom-0.relative
 |vecer.com##.bottom-8
 |airlineratings.com##.bottom-4
 |blog.smithsecurity.biz##.bottom-4
+|bodegacatsofnewyork.com##.bottom-4
 |boo.world##.bottom-4
 |canyouhack.org##.bottom-4
 |convex.dev##.bottom-4
@@ -38368,6 +38374,7 @@ booking.autopartner.dk##app-cookie-consent
 1508.dk##div[class^="Cookies-module-"]
 kantoorartikelen-arnhem.com###BlurryBackground
 menziszorgkantoor.nl###Cookiewall
+gls-info.nl###CybotCookiebotDialogWrapper
 maan.nl###IDFcookieV3
 voetbalnederland.nl###T1
 anwb.nl###TRCO-application
@@ -38949,6 +38956,7 @@ mnb.hu##.cb01-cookie-bar
 royalora.hu##.cc-holder
 milanoajto.hu##.cdisclaimer
 maxigumi.hu##.content-bottom-fullwidth
+nemzetiutdij.hu##.cookie-alert
 fressnapf.hu##.cookie-base
 |foramax.hu##.ct
 |mp4bolt.hu##.ct
