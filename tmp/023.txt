@@ -4990,6 +4990,7 @@ tasteofhome.com###gch-social-icons
 |rd.com###gch-social-share-container
 |thehealthy.com###gch-social-share-container
 geekdashboard.com###gd-social-widget
+seattletimes.com###google-preferred-btn
 bleedingcool.com###google_follow
 wccftech.com###google_preferred_source_box
 gamereactor.eu###grnation
@@ -5164,6 +5165,7 @@ hexus.net###topicons
 |thetvaddict.com###twitter
 |pcgamer.com###utility-bar
 |tomshardware.com###utility-bar
+windowscentral.com###utilitybar__button--share
 mansionglobal.com###webui-save-and-share
 videocardz.com###welcome-modal
 walesonline.co.uk###whatsapp-community
@@ -5790,6 +5792,7 @@ carscoops.com##.follow-carscoops-container
 |ctrl.blog##.follow-container
 |ein-herz-fuer-kinder.de##.follow-container
 arabnews.com##.follow-field
+theprint.in##.follow-g
 indiatvnews.com##.follow-google
 autocarindia.com##.follow-google-news-p
 metoffice.gov.uk##.follow-icons
@@ -5956,6 +5959,7 @@ goodreturns.in##.gd-newsletter-subscribe-sharelinks
 |verdict.co.uk##.gdm-article-share
 otakuusamagazine.com##.geekmag-share-buttons
 news18.com##.gglebtn
+felixbarbalet.com##.gh-button-share
 |techloy.com##.gh-post-page__share
 |thepickool.com##.gh-post-page__share
 |therage.co##.gh-post-page__share
@@ -6014,6 +6018,7 @@ gadgets360.com##.gsocialbar
 atlanticcouncil.org##.gta-hover-share-container
 |publicradiotulsa.org##.gtm_share
 |stlpr.org##.gtm_share
+theprint.in##.gw-follow-button
 verdictum.in##.h-anchor
 |egotastic.com##.h-fixed-footer
 |egotasticsports.com##.h-fixed-footer
@@ -6515,6 +6520,7 @@ bdnews24.com##.share-option
 |upworthy.com##.share-panel
 forward.com##.share-post
 thenationalpulse.com##.share-post-button
+dailymail.com##.share-snapchat
 |aajtak.in##.share-social-icons
 |gnttv.com##.share-social-icons
 |indiatoday.in##.share-social-icons
@@ -7453,6 +7459,7 @@ miruro.*##section[class^="_noticeSection_"]
 |binnews.com##.share-icons
 |blog.phylum.io##.share-icons
 |dailymail.co.uk##.share-icons
+|dailymail.com##.share-icons
 |fightcancer.org##.share-icons
 |finurah.com##.share-icons
 |gulf-times.com##.share-icons
@@ -29637,7 +29644,7 @@ titantvguide.com##+js(set-local-storage-item, COOKIE_CHECK, false)
 settings.gg##+js(set-local-storage-item, COOKIE_CONSENT, 1)
 ultrahuman.com##+js(set-local-storage-item, COOKIE_CONSENT, false)
 manuals.annafreud.org##+js(set-local-storage-item, COOKIE_CONSENT, no)
-mvideo.ru##+js(set-local-storage-item, COOKIE_NOTIFICATION_SUBMITED, true)
+mvideo.ru##+js(set-local-storage-item, COOKIE_NOTIFICATION_SUBMITED_v2, true)
 cpc2r.ch##+js(set-local-storage-item, CPCCookies, true)
 akkushop-turkiye.com.tr##+js(set-local-storage-item, CerezUyariGosterildi, true)
 teamtailor.com##+js(set-local-storage-item, CookieConsent--hideCookieConsent, true)
@@ -40497,7 +40504,6 @@ npfb.ru##.messenger-popup
 mosreg.ru##.metrica-warning
 |strana.one##.modal
 |strana.today##.modal
-mvideo.ru##.modal-wrapper
 asna.ru##.modalCookies_root__356Q-
 shophair.ru##.modal_popup_sessid_box
 nspk.ru##.modals-cookies
@@ -43238,6 +43244,7 @@ punchline-gloucester.com###bepageoverlay
 caribjournal.com###black_mask
 thebluebonnetfarmhouse.com###block-10
 unchainedcrypto.com###block-10 > .container > .background-gradient
+wyofile.com###block-11
 |catfox.life###block-12
 |esquireme.com###block-12
 |fedsmith.com###block-12
@@ -43726,6 +43733,7 @@ duffelblog.com###signup-popup-overlay
 |gamesradar.com###signupForm
 |pcgamer.com###signupForm
 |techradar.com###signupForm
+|windowscentral.com###signupForm
 seatguru.com###signup_large
 domainnamewire.com###simple-banner
 nationalobserver.com###site-broadcast
