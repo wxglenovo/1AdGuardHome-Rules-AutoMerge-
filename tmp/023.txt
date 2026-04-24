@@ -6003,6 +6003,7 @@ cultofmac.com##.google-preferred-source
 restofworld.org##.google-preferred-v1
 bolde.com##.google-source-button
 goal.com##.google-trusted-source
+scientificamerican.com##.google_cta-CuF5m
 coinpedia.org##.google_news-space
 techadvisor.com##.google_news_button
 oilprice.com##.google_preferred_source_banner_sidebar
@@ -16032,6 +16033,7 @@ justfix.org##.jf-cookies-banner
 cbtnuggets.com##.jiIEgt
 |controllerstech.com##.jl-gdpr
 |parametric-architecture.com##.jl-gdpr
+jlc3dp.com##.jlc-wm-cookie-policy
 judge.me##.jm-cookie-bar
 newsbtc.com##.jnews-cookie-law-policy
 forumcommunity.net##.jnote
@@ -18967,6 +18969,7 @@ stokrotka.pl###cboxWrapper
 |billing.coned.com###cc-main
 |bistrono.cz###cc-main
 |boldem.cz###cc-main
+|bookbot.de###cc-main
 |bytesauna.com###cc-main
 |caesium.app###cc-main
 |capriz.it###cc-main
@@ -23556,6 +23559,7 @@ onassis.org##.bottom-0.relative
 |mintegral.com##.bottom-0.fixed
 |mitec.net##.bottom-0.fixed
 |moises.ai##.bottom-0.fixed
+|mynrma.com.au##.bottom-0.fixed
 |nanobananas.ai##.bottom-0.fixed
 |nationalprivacytest.org##.bottom-0.fixed
 |nbg.gov.ge##.bottom-0.fixed
@@ -27516,6 +27520,7 @@ bargaintown.ie##+js(set-cookie, cookie-bar, no)
 skaling.de##+js(set-cookie, cookie-byte-consent-essentials, true)
 skaling.de##+js(set-cookie, cookie-byte-consent-showed, true)
 skaling.de##+js(set-cookie, cookie-byte-consent-statistics, false)
+graffitiburger.nemtakeaway.dk##+js(set-cookie, cookie-censent-musthave, true)
 okko.tv##+js(set-cookie, cookie-confirm, 1)
 cineplanet.com.pe##+js(set-cookie, cookie-consent, 0)
 |esimplus.me##+js(set-cookie, cookie-consent, 1, , reload, 1)
@@ -42717,6 +42722,7 @@ yoigo.com#@#thor-cookies
 @@||cmp.osano.com^$script,domain=account.bhvr.com|everand.com|guidepoint.com|lucidchart.com|midnight.gd|scribd.com|sonesta.com
 @@||cmp.osano.com^*/osano.js$domain=alltrails.com|stltoday.com
 @@||cmp.sibbo.net^$domain=tivify.tv
+@@||cmp.springernature.com/production_live/$script,domain=scientificamerican.com
 @@||collector.appconsent.io/hello^$xmlhttprequest,domain=linternaute.com
 @@||computerbase.de^*/consent/$script,xmlhttprequest
 @@||computerbase.de^*/scripttemplates/$script,xmlhttprequest
