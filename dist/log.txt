@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-04-24T08:47:18.949Z
+🚫 去掉注释行: ! Last modified: 2026-04-24T10:36:19.581Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -1574,10 +1574,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 99371
-🚫 去掉注释行: ! Checksum: 1Uw4DqOARn3kdgqw2n2SFg
-🚫 去掉注释行: ! Version: 202604240952
+🚫 去掉注释行: ! Checksum: dTZ/kk7MuEnRt9Rm+zyUiA
+🚫 去掉注释行: ! Version: 202604241122
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 24 Apr 2026 09:52 UTC
+🚫 去掉注释行: ! Last modified: 24 Apr 2026 11:22 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -24814,10 +24814,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: 1soRkmfu0CEN7bUWO3+BRg
-🚫 去掉注释行: ! Version: 202604240952
+🚫 去掉注释行: ! Checksum: IKdPirXv3dAonLa+L0+nzQ
+🚫 去掉注释行: ! Version: 202604241122
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 24 Apr 2026 09:52 UTC
+🚫 去掉注释行: ! Last modified: 24 Apr 2026 11:22 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29413,10 +29413,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: 0/FXqWRTcqpd1L1VB5EowA
-🚫 去掉注释行: ! Version: 202604240952
+🚫 去掉注释行: ! Checksum: x+uw8fKupYeLxgkRrGZybA
+🚫 去掉注释行: ! Version: 202604241122
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 24 Apr 2026 09:52 UTC
+🚫 去掉注释行: ! Last modified: 24 Apr 2026 11:22 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -30083,11 +30083,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202604240959
+🚫 去掉注释行: ! Version: 202604241129
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 24 Apr 2026 09:59 UTC
+🚫 去掉注释行: ! Last modified: 24 Apr 2026 11:29 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: f83650bb2e41829b99636f21b05dfeb1e8cf68ca
+🚫 去掉注释行: ! Commit: bcd95054cac57e54eef8bfe512af35a4a72973bc
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -46981,9 +46981,10 @@
     → |svg.com##.before-ad
     → |thelist.com##.before-ad
     → |wrestlinginc.com##.before-ad
-✅ 多域名拆分: haitiantimes.com,renonr.com##.below-header-widgets
+✅ 多域名拆分: haitiantimes.com,renonr.com,wyofile.com##.below-header-widgets
     → |haitiantimes.com##.below-header-widgets
     → |renonr.com##.below-header-widgets
+    → |wyofile.com##.below-header-widgets
 ✅ 多域名拆分: charlieintel.com,dexerto.com##.bg-neutral-grey-4.items-center
     → |charlieintel.com##.bg-neutral-grey-4.items-center
     → |dexerto.com##.bg-neutral-grey-4.items-center
@@ -53359,11 +53360,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202604241004
+🚫 去掉注释行: ! Version: 202604241126
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 24 Apr 2026 10:04 UTC
+🚫 去掉注释行: ! Last modified: 24 Apr 2026 11:26 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: ce3668c8d9beed8bebb8aec87d26d3b6c71575fb
+🚫 去掉注释行: ! Commit: 064a42b80454dae7bc40a3c8a94dec1d34f91351
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -64501,12 +64502,13 @@
     → |silicon.pt##.share-container
     → |stadiumtalk.com##.share-container
 🚫 去掉注释行: ! ! .share-icons
-✅ 多域名拆分: alwatanvoice.com,atlantablackstar.com,binnews.com,blog.phylum.io,dailymail.co.uk,fightcancer.org,finurah.com,gulf-times.com,iheart.com,jessekellyshow.com,jfrog.com,merriam-webster.com,noticiasaominuto.com,noticiasaominuto.com.br,sciencefocus.com,snipercentral.com,steveharveyfm.com,thehighwire.com,theshadowleague.com,thisismoney.co.uk##.share-icons
+✅ 多域名拆分: alwatanvoice.com,atlantablackstar.com,binnews.com,blog.phylum.io,dailymail.co.uk,dailymail.com,fightcancer.org,finurah.com,gulf-times.com,iheart.com,jessekellyshow.com,jfrog.com,merriam-webster.com,noticiasaominuto.com,noticiasaominuto.com.br,sciencefocus.com,snipercentral.com,steveharveyfm.com,thehighwire.com,theshadowleague.com,thisismoney.co.uk##.share-icons
     → |alwatanvoice.com##.share-icons
     → |atlantablackstar.com##.share-icons
     → |binnews.com##.share-icons
     → |blog.phylum.io##.share-icons
     → |dailymail.co.uk##.share-icons
+    → |dailymail.com##.share-icons
     → |fightcancer.org##.share-icons
     → |finurah.com##.share-icons
     → |gulf-times.com##.share-icons
@@ -69494,8 +69496,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !Generated: 2026-04-24 16:25:38
-🚫 去掉注释行: !RuleCount: 1770956
+🚫 去掉注释行: !Generated: 2026-04-24 18:10:50
+🚫 去掉注释行: !RuleCount: 1770975
 ✅ HOSTS 转换: 127.0.0.1 0022a601.pphost.net → |0022a601.pphost.net^
 ✅ HOSTS 转换: 127.0.0.1 111101111.ru → |111101111.ru^
 ✅ HOSTS 转换: 127.0.0.1 123.ywxww.net → |123.ywxww.net^
@@ -69664,6 +69666,7 @@
 ✅ HOSTS 转换: 127.0.0.1 homecaremovers.com → |homecaremovers.com^
 ✅ HOSTS 转换: 127.0.0.1 hotellacastellana.com.uy → |hotellacastellana.com.uy^
 ✅ HOSTS 转换: 127.0.0.1 hqweb.id.vn → |hqweb.id.vn^
+✅ HOSTS 转换: 127.0.0.1 hseda.com → |hseda.com^
 ✅ HOSTS 转换: 127.0.0.1 i.404.pm → |i.404.pm^
 ✅ HOSTS 转换: 127.0.0.1 icoffeecloud.com → |icoffeecloud.com^
 ✅ HOSTS 转换: 127.0.0.1 igra123.com → |igra123.com^
@@ -165468,10 +165471,10 @@
 🚫 去掉注释行: ! Blocked domains: 5871
 🚫 去掉注释行: ! unBlocked domains: 16
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: RX5sCbbKd1upcS3SUAxgow
-🚫 去掉注释行: ! Version: 202604240425
+🚫 去掉注释行: ! Checksum: xTLvXgv111tonQgOxDoaDw
+🚫 去掉注释行: ! Version: 202604240950
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-04-24 04:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-04-24 09:50 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -209520,7 +209523,6 @@
 🚫 去掉注释行: ! Multi-national sites
 🚫 去掉注释行: ! Include ubO specific
 🚫 去掉注释行: !#include easylist_cookie_specific_uBO.txt
-🚫 去掉注释行: ! easylist_cookie_specific_uBO.txt
 🚫 去掉注释行: !
 🚫 去掉注释行: ! :style fixes
 🚫 去掉注释行: ! ##body:style(overflow: auto !important;)
@@ -210924,8 +210926,9 @@
 ✅ 多域名拆分: m.kaskus.co.id,photobooth.online##+js(set-cookie, cookie_accepted, true)
     → |m.kaskus.co.id##+js(set-cookie, cookie_accepted, true)
     → |photobooth.online##+js(set-cookie, cookie_accepted, true)
-✅ 多域名拆分: ayudatpymes.com,shoutcast.com,thefly.com,zipjob.com##+js(set-cookie, cookie_consent, 1)
+✅ 多域名拆分: ayudatpymes.com,rg.ru,shoutcast.com,thefly.com,zipjob.com##+js(set-cookie, cookie_consent, 1)
     → |ayudatpymes.com##+js(set-cookie, cookie_consent, 1)
+    → |rg.ru##+js(set-cookie, cookie_consent, 1)
     → |shoutcast.com##+js(set-cookie, cookie_consent, 1)
     → |thefly.com##+js(set-cookie, cookie_consent, 1)
     → |zipjob.com##+js(set-cookie, cookie_consent, 1)
@@ -259656,7 +259659,7 @@
 🚫 去掉注释行: # For more information about this list, see: https://pgl.yoyo.org/adservers/
 🚫 去掉注释行: # ----
 🚫 去掉注释行: # last updated:   Thu, 23 Apr 2026 15:35:38 GMT
-🚫 去掉注释行: # entries:        3520
+🚫 去掉注释行: # entries:        3517
 🚫 去掉注释行: # format:         hosts (hosts -- in hosts file format)
 🚫 去掉注释行: # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 🚫 去掉注释行: # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
@@ -259697,7 +259700,6 @@
 ✅ HOSTS 转换: 127.0.0.1 82o9v830.com → |82o9v830.com^
 ✅ HOSTS 转换: 127.0.0.1 a-ads.com → |a-ads.com^
 ✅ HOSTS 转换: 127.0.0.1 a.mktw.net → |a.mktw.net^
-✅ HOSTS 转换: 127.0.0.1 a.muloqot.uz → |a.muloqot.uz^
 ✅ HOSTS 转换: 127.0.0.1 a.sakh.com → |a.sakh.com^
 ✅ HOSTS 转换: 127.0.0.1 a.ucoz.net → |a.ucoz.net^
 ✅ HOSTS 转换: 127.0.0.1 a.ucoz.ru → |a.ucoz.ru^
@@ -259749,7 +259751,6 @@
 ✅ HOSTS 转换: 127.0.0.1 ad-score.com → |ad-score.com^
 ✅ HOSTS 转换: 127.0.0.1 ad-server.gulasidorna.se → |ad-server.gulasidorna.se^
 ✅ HOSTS 转换: 127.0.0.1 ad-space.net → |ad-space.net^
-✅ HOSTS 转换: 127.0.0.1 ad-up.com → |ad-up.com^
 ✅ HOSTS 转换: 127.0.0.1 ad.71i.de → |ad.71i.de^
 ✅ HOSTS 转换: 127.0.0.1 ad.a8.net → |ad.a8.net^
 ✅ HOSTS 转换: 127.0.0.1 ad.abcnews.com → |ad.abcnews.com^
@@ -260170,7 +260171,6 @@
 ✅ HOSTS 转换: 127.0.0.1 ads.passion.com → |ads.passion.com^
 ✅ HOSTS 转换: 127.0.0.1 ads.paymonex.net → |ads.paymonex.net^
 ✅ HOSTS 转换: 127.0.0.1 ads.pexi.nl → |ads.pexi.nl^
-✅ HOSTS 转换: 127.0.0.1 ads.pfl.ua → |ads.pfl.ua^
 ✅ HOSTS 转换: 127.0.0.1 ads.phpclasses.org → |ads.phpclasses.org^
 ✅ HOSTS 转换: 127.0.0.1 ads.pinterest.com → |ads.pinterest.com^
 ✅ HOSTS 转换: 127.0.0.1 ads.planet.nl → |ads.planet.nl^
