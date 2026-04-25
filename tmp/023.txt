@@ -4141,6 +4141,44 @@ chatgpt.com##+js(set-session-storage-item, oai/apps/noAuthHasDismissedSoftRateLi
 hartfordbusiness.com##+js(remove-cookie, meter_haystack)
 hartfordbusiness.com##.payWallOverlay
 hartfordbusiness.com##.paywallMsgTypeTwo
+|cancertherapyadvisor.com##+js(cookie-remover, hmmet)
+|clinicaladvisor.com##+js(cookie-remover, hmmet)
+|clinicalpainadvisor.com##+js(cookie-remover, hmmet)
+|dermatologyadvisor.com##+js(cookie-remover, hmmet)
+|endocrinologyadvisor.com##+js(cookie-remover, hmmet)
+|gastroenterologyadvisor.com##+js(cookie-remover, hmmet)
+|infectiousdiseaseadvisor.com##+js(cookie-remover, hmmet)
+|neurologyadvisor.com##+js(cookie-remover, hmmet)
+|oncologynurseadvisor.com##+js(cookie-remover, hmmet)
+|ophthalmologyadvisor.com##+js(cookie-remover, hmmet)
+|optometryadvisor.com##+js(cookie-remover, hmmet)
+|psychiatryadvisor.com##+js(cookie-remover, hmmet)
+|pulmonologyadvisor.com##+js(cookie-remover, hmmet)
+|rarediseaseadvisor.com##+js(cookie-remover, hmmet)
+|renalandurologynews.com##+js(cookie-remover, hmmet)
+|rheumatologyadvisor.com##+js(cookie-remover, hmmet)
+|sleepwakeadvisor.com##+js(cookie-remover, hmmet)
+|thecardiologyadvisor.com##+js(cookie-remover, hmmet)
+|vaccineadvisor.com##+js(cookie-remover, hmmet)
+|cancertherapyadvisor.com##modal-register-popup:has-text(We want you to take advantage)
+|clinicaladvisor.com##modal-register-popup:has-text(We want you to take advantage)
+|clinicalpainadvisor.com##modal-register-popup:has-text(We want you to take advantage)
+|dermatologyadvisor.com##modal-register-popup:has-text(We want you to take advantage)
+|endocrinologyadvisor.com##modal-register-popup:has-text(We want you to take advantage)
+|gastroenterologyadvisor.com##modal-register-popup:has-text(We want you to take advantage)
+|infectiousdiseaseadvisor.com##modal-register-popup:has-text(We want you to take advantage)
+|neurologyadvisor.com##modal-register-popup:has-text(We want you to take advantage)
+|oncologynurseadvisor.com##modal-register-popup:has-text(We want you to take advantage)
+|ophthalmologyadvisor.com##modal-register-popup:has-text(We want you to take advantage)
+|optometryadvisor.com##modal-register-popup:has-text(We want you to take advantage)
+|psychiatryadvisor.com##modal-register-popup:has-text(We want you to take advantage)
+|pulmonologyadvisor.com##modal-register-popup:has-text(We want you to take advantage)
+|rarediseaseadvisor.com##modal-register-popup:has-text(We want you to take advantage)
+|renalandurologynews.com##modal-register-popup:has-text(We want you to take advantage)
+|rheumatologyadvisor.com##modal-register-popup:has-text(We want you to take advantage)
+|sleepwakeadvisor.com##modal-register-popup:has-text(We want you to take advantage)
+|thecardiologyadvisor.com##modal-register-popup:has-text(We want you to take advantage)
+|vaccineadvisor.com#?##modal-register-popup:has-text(We want you to take advantage)
 investing.com##+js(remove-cookie, lifetime_page_view_count)
 investing.com##+js(remove-cookie, page_view_count)
 page_view_count
@@ -4992,6 +5030,7 @@ tasteofhome.com###gch-social-icons
 |rd.com###gch-social-share-container
 |thehealthy.com###gch-social-share-container
 geekdashboard.com###gd-social-widget
+ndtv.com###googelPref
 seattletimes.com###google-preferred-btn
 bleedingcool.com###google_follow
 wccftech.com###google_preferred_source_box
@@ -7162,6 +7201,7 @@ videogameschronicle.com##.vgc-socialshare
 ms.now##.video-details__social-share-menu
 healthday.com##.video-story-m_share__d27z7
 natlawreview.com##.view-footer
+ndtv.com##.vj_copy-i
 motorsport.tv##.vjs-icons-bar
 dailymail.co.uk##.vjs-social-controls
 amgreatness.com##.w-full.mb-10
@@ -9593,6 +9633,7 @@ hindustantimes.com##.ln
 |criticalthreats.org##.social-box
 |lasexta.com##.social-box
 |varesenews.it##.social-box
+|vat19.com##.social-box
 |wolverine.com##.social-box
 |alarabiya.net##.follow
 |ansa.it##.follow
@@ -19031,6 +19072,7 @@ stokrotka.pl###cboxWrapper
 |loetje.nl###cc-main
 |lottiefiles.com###cc-main
 |lustery.com###cc-main
+|malacards.org###cc-main
 |mealsyoulove.com###cc-main
 |modeliukai.lt###cc-main
 |mostostal.waw.pl###cc-main
@@ -20844,6 +20886,7 @@ clarochile.cl##.cookieModal
 |jeffery-west.co.uk##.cookie
 |joautok.hu##.cookie
 |jv.ru##.cookie
+|k31.ru##.cookie
 |kaktus.ua##.cookie
 |kanal-o.ru##.cookie
 |karatekyokushin.hu##.cookie
@@ -45882,6 +45925,7 @@ gwaramedia.com##.poster-wrap--subscribe-news
 |fraservalleytoday.ca##.pp-btn-container
 bittmanproject.com##.pp-modal-wrap
 womensagenda.com.au##.pp-popup
+news.osu.edu##.ppmodule_buttonset
 peanutbutterrunner.com##.pps-popup
 ip2location.com##.pre-footer-subscribe-box
 cheknews.ca##.pre-header-newsletter
@@ -45943,6 +45987,7 @@ independent.ie##.quick_subscribe
 allthatsinteresting.com##.r-klde5a.r-1awozwy.css-175oi2r
 prdaily.com##.ragansdaily
 theparisreview.org##.rail-enews
+news.osu.edu##.raw-html-embed
 oregonlive.com##.rawhtml
 holyrood.com##.rc-subs
 rcrwireless.com##.rcrwi-hubspot-article-form
@@ -47458,6 +47503,7 @@ marieclaire.fr##.NewsletterBox
 |qhubomedellin.com##.newsletter-container
 |san.com##.newsletter-container
 |spendless.com.au##.newsletter-container
+|tctmd.com##.newsletter-container
 |weeklyrecess.com##.newsletter-container
 |louderwithcrowder.com##.newsletter-modal
 |lung.org##.newsletter-modal
@@ -50034,6 +50080,7 @@ gourmetfoodstore.com###divInterstitialContainer
 overstock.com###dynamic_banners
 niteize.com###easybanner-overlay-el
 costco.com###email-popup-title
+vat19.com###email-signup-footer-container
 cb2.ca###emailCheckFooter
 cruise.com###emailFooter
 zumiez.com###emailInfobar
