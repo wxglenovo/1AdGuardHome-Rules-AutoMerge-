@@ -4187,6 +4187,7 @@ page_view_count
 ||monetization.prod.invmed.co^
 commonwealmagazine.org###paywall-message
 commonwealmagazine.org##+js(remove-cookie, Drupal_visitor_paywall)
+instagram.com##._aagv[style^="padding-bottom:"] + [class]
 medscape.com##.fpf-footer-container
 medscape.com##body:style(overflow: auto !important;)
 startribune.com##+js(remove-cookie, client_id)
@@ -7069,7 +7070,8 @@ futurity.org##.sticy-share-block
 wccftech.com##.story-share-bottom
 tribune.com.pk##.story-social-icons
 gadgets360.com##.story_social_share
-thenewsmarket.com##.storyshare-div
+|news.adidas.com##.storyshare-div
+|thenewsmarket.com##.storyshare-div
 stuff.co.nz##.stuff-article-sharebar
 barrons.com##.style--save-and-share-container--KMiFF4od
 userstyles.org##.style-image_shareStyleButtonWrapper__PwC0C
@@ -17473,6 +17475,7 @@ just-eat.ie##div[data-qa="jet-privacy-settings"]
 |monsterenergy.com###cookieConsent
 |my.eekgames.com###cookieConsent
 |myperfectweather.com###cookieConsent
+|news.adidas.com###cookieConsent
 |nova.es###cookieConsent
 |psiphon.ca###cookieConsent
 |seguno.com###cookieConsent
@@ -30237,6 +30240,7 @@ granado.com.br##+js(set-local-storage-item, store-cookie-consent, accepted)
 supreme.com##+js(set-local-storage-item, sup_gdpr_cookie, accepted)
 supabase.com##+js(set-local-storage-item, supabase-consent-ph, false)
 superset.sh##+js(set-local-storage-item, superset-analytics-consent, denied)
+salex.md##+js(set-local-storage-item, sxCookie, true)
 taketaketake.com##+js(set-local-storage-item, takex3.cookie-consent, declined)
 technikmuseum.berlin##+js(set-local-storage-item, technikmuseum-required-enabled, true)
 venom.foundation##+js(set-local-storage-item, terms, accepted)
@@ -46350,7 +46354,8 @@ oceana.mi.us##.stay_connected
 ubn.news##.sticky-wrap-bottom
 aulart.com##.sticky_banner_blog
 tn.com.ar##.sticky_top
-thenewsmarket.com##.story-aside-subscribe
+|news.adidas.com##.story-aside-subscribe
+|thenewsmarket.com##.story-aside-subscribe
 interacnetwork.com##.stripe--newsletter
 barrons.com##.style--newsletter-signup-bottom--1Spc175x
 emergingtechbrew.com##.style__NewsletterCTAWrapper-sc-e26ea068-2
@@ -48265,6 +48270,7 @@ fashionrepublicmagazine.com##.featherlight
 |mygaming.co.za##.subscribe
 |nationalpost.com##.subscribe
 |ndtv.com##.subscribe
+|news.adidas.com##.subscribe
 |newsmaxtv.com##.subscribe
 |newsthump.com##.subscribe
 |nextgov.com##.subscribe
