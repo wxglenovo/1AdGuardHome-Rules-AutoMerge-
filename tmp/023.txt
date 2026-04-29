@@ -52946,7 +52946,7 @@ reddit.com##body:style(pointer-events:auto !important;)
 reddit.com##shreddit-async-loader[bundlename="app_selector"]
 reddit.com##shreddit-async-loader[bundlename="app_selector"]:remove()
 reddit.com##shreddit-experience-tree
-reddit.com##body:style(overflow: auto !important;)
+reddit.com##body,html:style(overflow: auto !important;)
 tiktok.com##+js(set-session-storage-item, webapp_first_open_cta, 1)
 tiktok.com##.e1pecv674.css-99ed1t-DivFooterGuide
 tiktok.com##.e1x4pa920.css-18fyv6p-DivFloatButtonWrapper
