@@ -15352,6 +15352,7 @@ lantower.com##.containerv2--tracking-consent
 |teenxy.com##.coockie_warning
 skigailuron.ca##.coockies_notice
 photonengine.com##.cookSetts
+oaepublish.com##.cook_box
 wisecleaner.com##.cooke-privacy-wrap
 tal.gouv.qc.ca##.cookie-Panel
 chucklingcheese.co.uk##.cookie-accept-bar-v2
@@ -20275,6 +20276,7 @@ clarochile.cl##.cookieModal
 |bahianoticias.com.br##.cookies
 |bandainamcostudios.my##.cookies
 |bandainamcostudios.sg##.cookies
+|base.garant.ru##.cookies
 |baza.io##.cookies
 |bbva.mx##.cookies
 |bcm.marketing##.cookies
@@ -29863,7 +29865,6 @@ klimwinkel.nl##+js(set-local-storage-item, app_gdpr_consent, 1)
 |hospihousing.com##+js(set-local-storage-item, areCookiesAccepted, true)
 |opentip.kaspersky.com##+js(set-local-storage-item, areCookiesAccepted, true)
 artisan.co##+js(set-local-storage-item, artisan_acceptCookie, true)
-andsafe.de##+js(set-local-storage-item, ascookie--decision, true)
 astondevs.ru##+js(set-local-storage-item, banner, true)
 businessclass.com##+js(set-local-storage-item, bcCookieAccepted, true)
 web.bunq.com##+js(set-local-storage-item, bunq:CookieConsentStore:isBannerVisible, false)
@@ -30258,6 +30259,7 @@ veed.io##+js(set-local-storage-item, trainingDataConsent, true)
 |abs-cbn.com##+js(set-local-storage-item, uninavIsAgreeCookie, true)
 |news.abs-cbn.com##+js(set-local-storage-item, uninavIsAgreeCookie, true)
 solscan.io##+js(set-local-storage-item, user-cookies-setting, 1)
+andsafe.de##+js(set-local-storage-item, user-has-consent-decision, true)
 arweave.org##+js(set-local-storage-item, user-preference, false)
 worldlibertyfinancial.com##+js(set-local-storage-item, userAcceptedAnalytics, false)
 inselberlin.de##+js(set-local-storage-item, userAcceptsCookies, 1)
