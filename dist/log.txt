@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-04-30T05:12:40.324Z
+🚫 去掉注释行: ! Last modified: 2026-04-30T06:59:47.850Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -1575,10 +1575,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 100534
-🚫 去掉注释行: ! Checksum: V7JjgdGKoQzXKiN5M9ATzg
-🚫 去掉注释行: ! Version: 202604300531
+🚫 去掉注释行: ! Checksum: ywE9RHvMpfUsAVq0L4K+JA
+🚫 去掉注释行: ! Version: 202604300752
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 30 Apr 2026 05:31 UTC
+🚫 去掉注释行: ! Last modified: 30 Apr 2026 07:52 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -20152,6 +20152,9 @@
     → |pennlive.com##.revenue-display
     → |silive.com##.revenue-display
     → |syracuse.com##.revenue-display
+✅ 多域名拆分: countrylife.co.uk,cyclingweekly.com##.right-hand-adunit
+    → |countrylife.co.uk##.right-hand-adunit
+    → |cyclingweekly.com##.right-hand-adunit
 ✅ 多域名拆分: box-core.net,mma-core.com##.rsky
     → |box-core.net##.rsky
     → |mma-core.com##.rsky
@@ -20365,6 +20368,13 @@
     → |tomsguide.com##.sponsored-card
     → |tomshardware.com##.sponsored-card
     → |windowscentral.com##.sponsored-card
+✅ 多域名拆分: countrylife.co.uk,cyclingweekly.com,livescience.com,livingetc.com,t3.com,womanandhome.com##.sponsored-card-centred
+    → |countrylife.co.uk##.sponsored-card-centred
+    → |cyclingweekly.com##.sponsored-card-centred
+    → |livescience.com##.sponsored-card-centred
+    → |livingetc.com##.sponsored-card-centred
+    → |t3.com##.sponsored-card-centred
+    → |womanandhome.com##.sponsored-card-centred
 ✅ 多域名拆分: fitandwell.com,homesandgardens.com,idealhome.co.uk,marieclaire.com##.sponsored-post--placeholder
     → |fitandwell.com##.sponsored-post--placeholder
     → |homesandgardens.com##.sponsored-post--placeholder
@@ -22997,8 +23007,9 @@
     → |anandtech.com##.jwplayer
     → |out.com##.jwplayer
     → |sciencefocus.com##.jwplayer
-✅ 多域名拆分: gamesradar.com,livescience.com,tomshardware.com,whathifi.com##.jwplayer__widthsetter
+✅ 多域名拆分: gamesradar.com,kiplinger.com,livescience.com,tomshardware.com,whathifi.com##.jwplayer__widthsetter
     → |gamesradar.com##.jwplayer__widthsetter
+    → |kiplinger.com##.jwplayer__widthsetter
     → |livescience.com##.jwplayer__widthsetter
     → |tomshardware.com##.jwplayer__widthsetter
     → |whathifi.com##.jwplayer__widthsetter
@@ -24819,10 +24830,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: YtEPuGFkGEFYJ2w+fZN97Q
-🚫 去掉注释行: ! Version: 202604300531
+🚫 去掉注释行: ! Checksum: r+/YpD/C/jM7ql1hP1gIVw
+🚫 去掉注释行: ! Version: 202604300752
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 30 Apr 2026 05:31 UTC
+🚫 去掉注释行: ! Last modified: 30 Apr 2026 07:52 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29418,10 +29429,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: R2fLsdSuJk5J/LZCfDvemQ
-🚫 去掉注释行: ! Version: 202604300531
+🚫 去掉注释行: ! Checksum: 6B5/xXo4pbrArk1yzb9PiQ
+🚫 去掉注释行: ! Version: 202604300752
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 30 Apr 2026 05:31 UTC
+🚫 去掉注释行: ! Last modified: 30 Apr 2026 07:52 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -30088,11 +30099,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202604300524
+🚫 去掉注释行: ! Version: 202604300803
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 30 Apr 2026 05:24 UTC
+🚫 去掉注释行: ! Last modified: 30 Apr 2026 08:03 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 42f57288b64cd7ba5ddea9784b3e4f109af61fa7
+🚫 去掉注释行: ! Commit: 4d3fd073b6bd3fb5d38ee51fbe82f14f29c82426
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -48675,6 +48686,9 @@
     → |pennlive.com##.revenue-display
     → |silive.com##.revenue-display
     → |syracuse.com##.revenue-display
+✅ 多域名拆分: countrylife.co.uk,cyclingweekly.com##.right-hand-adunit
+    → |countrylife.co.uk##.right-hand-adunit
+    → |cyclingweekly.com##.right-hand-adunit
 ✅ 多域名拆分: box-core.net,mma-core.com##.rsky
     → |box-core.net##.rsky
     → |mma-core.com##.rsky
@@ -48888,6 +48902,13 @@
     → |tomsguide.com##.sponsored-card
     → |tomshardware.com##.sponsored-card
     → |windowscentral.com##.sponsored-card
+✅ 多域名拆分: countrylife.co.uk,cyclingweekly.com,livescience.com,livingetc.com,t3.com,womanandhome.com##.sponsored-card-centred
+    → |countrylife.co.uk##.sponsored-card-centred
+    → |cyclingweekly.com##.sponsored-card-centred
+    → |livescience.com##.sponsored-card-centred
+    → |livingetc.com##.sponsored-card-centred
+    → |t3.com##.sponsored-card-centred
+    → |womanandhome.com##.sponsored-card-centred
 ✅ 多域名拆分: fitandwell.com,homesandgardens.com,idealhome.co.uk,marieclaire.com##.sponsored-post--placeholder
     → |fitandwell.com##.sponsored-post--placeholder
     → |homesandgardens.com##.sponsored-post--placeholder
@@ -51521,8 +51542,9 @@
     → |anandtech.com##.jwplayer
     → |out.com##.jwplayer
     → |sciencefocus.com##.jwplayer
-✅ 多域名拆分: gamesradar.com,livescience.com,tomshardware.com,whathifi.com##.jwplayer__widthsetter
+✅ 多域名拆分: gamesradar.com,kiplinger.com,livescience.com,tomshardware.com,whathifi.com##.jwplayer__widthsetter
     → |gamesradar.com##.jwplayer__widthsetter
+    → |kiplinger.com##.jwplayer__widthsetter
     → |livescience.com##.jwplayer__widthsetter
     → |tomshardware.com##.jwplayer__widthsetter
     → |whathifi.com##.jwplayer__widthsetter
@@ -53368,11 +53390,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202604300524
+🚫 去掉注释行: ! Version: 202604300739
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 30 Apr 2026 05:24 UTC
+🚫 去掉注释行: ! Last modified: 30 Apr 2026 07:39 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 42f57288b64cd7ba5ddea9784b3e4f109af61fa7
+🚫 去掉注释行: ! Commit: 0ea7fa5e20fdc51229517460e6e32f169f8140cb
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -69510,8 +69532,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !Generated: 2026-04-30 12:07:32
-🚫 去掉注释行: !RuleCount: 1782999
+🚫 去掉注释行: !Generated: 2026-04-30 14:44:31
+🚫 去掉注释行: !RuleCount: 1783058
 ✅ HOSTS 转换: 127.0.0.1 0022a601.pphost.net → |0022a601.pphost.net^
 ✅ HOSTS 转换: 127.0.0.1 0njmhe52.mist3briar.garden → |0njmhe52.mist3briar.garden^
 ✅ HOSTS 转换: 127.0.0.1 111101111.ru → |111101111.ru^
@@ -69533,9 +69555,10 @@
 ✅ HOSTS 转换: 127.0.0.1 acaviationsupplies.com → |acaviationsupplies.com^
 ✅ HOSTS 转换: 127.0.0.1 acc.jiangsujiaxue.com → |acc.jiangsujiaxue.com^
 ✅ HOSTS 转换: 127.0.0.1 access.skaparade.com → |access.skaparade.com^
-✅ HOSTS 转换: 127.0.0.1 acehostunit.so8laven.bet → |acehostunit.so8laven.bet^
+✅ HOSTS 转换: 127.0.0.1 accesstelematics.com → |accesstelematics.com^
 ✅ HOSTS 转换: 127.0.0.1 acms.saleseos.com → |acms.saleseos.com^
 ✅ HOSTS 转换: 127.0.0.1 admin.byte.in.ua → |admin.byte.in.ua^
+✅ HOSTS 转换: 127.0.0.1 admin.gestroom.it → |admin.gestroom.it^
 ✅ HOSTS 转换: 127.0.0.1 alarmline.com.br → |alarmline.com.br^
 ✅ HOSTS 转换: 127.0.0.1 alkon.rs → |alkon.rs^
 ✅ HOSTS 转换: 127.0.0.1 allendostmen.com → |allendostmen.com^
@@ -69570,13 +69593,16 @@
 ✅ HOSTS 转换: 127.0.0.1 augsburg-auto.com → |augsburg-auto.com^
 ✅ HOSTS 转换: 127.0.0.1 autobaenasl.com → |autobaenasl.com^
 ✅ HOSTS 转换: 127.0.0.1 avbackup.acionline.de → |avbackup.acionline.de^
+✅ HOSTS 转换: 127.0.0.1 axis4logicnet.torquegridunit.bet → |axis4logicnet.torquegridunit.bet^
 ✅ HOSTS 转换: 127.0.0.1 azur3-branch.sunmeadow.garden → |azur3-branch.sunmeadow.garden^
 ✅ HOSTS 转换: 127.0.0.1 b74fa.mossgrove.garden → |b74fa.mossgrove.garden^
 ✅ HOSTS 转换: 127.0.0.1 backupso.com → |backupso.com^
 ✅ HOSTS 转换: 127.0.0.1 bankhostunit.lo4miren.bet → |bankhostunit.lo4miren.bet^
+✅ HOSTS 转换: 127.0.0.1 bankhostunit.verd7loka.bet → |bankhostunit.verd7loka.bet^
 ✅ HOSTS 转换: 127.0.0.1 banner-stack.so6lavern.garden → |banner-stack.so6lavern.garden^
 ✅ HOSTS 转换: 127.0.0.1 barkhidden.th0rniva.garden → |barkhidden.th0rniva.garden^
 ✅ HOSTS 转换: 127.0.0.1 base7wavenet.basaltlogicnode.garden → |base7wavenet.basaltlogicnode.garden^
+✅ HOSTS 转换: 127.0.0.1 basehostunit.staticmeshview.bet → |basehostunit.staticmeshview.bet^
 ✅ HOSTS 转换: 127.0.0.1 baseopenwald.mivorpulsegate.garden → |baseopenwald.mivorpulsegate.garden^
 ✅ HOSTS 转换: 127.0.0.1 bbos.minet.vn → |bbos.minet.vn^
 ✅ HOSTS 转换: 127.0.0.1 beammeshnode.pylonstaticnet.garden → |beammeshnode.pylonstaticnet.garden^
@@ -69592,6 +69618,7 @@
 ✅ HOSTS 转换: 127.0.0.1 bnet.playm8ru.win → |bnet.playm8ru.win^
 ✅ HOSTS 转换: 127.0.0.1 bold7logicgate.zenithflowgrid.garden → |bold7logicgate.zenithflowgrid.garden^
 ✅ HOSTS 转换: 127.0.0.1 boldfluxsync.nebulafluxbase.garden → |boldfluxsync.nebulafluxbase.garden^
+✅ HOSTS 转换: 127.0.0.1 bolt9taskhub.torquegridunit.bet → |bolt9taskhub.torquegridunit.bet^
 ✅ HOSTS 转换: 127.0.0.1 bombayonline.in → |bombayonline.in^
 ✅ HOSTS 转换: 127.0.0.1 bone7taskhub.fossilcryptoweb.garden → |bone7taskhub.fossilcryptoweb.garden^
 ✅ HOSTS 转换: 127.0.0.1 book.rollingvideogames.com → |book.rollingvideogames.com^
@@ -69642,8 +69669,10 @@
 ✅ HOSTS 转换: 127.0.0.1 cloudstay168.com → |cloudstay168.com^
 ✅ HOSTS 转换: 127.0.0.1 clubdetiroelpicarcho.com → |clubdetiroelpicarcho.com^
 ✅ HOSTS 转换: 127.0.0.1 co-emas.com → |co-emas.com^
-✅ HOSTS 转换: 127.0.0.1 codeassociates.co.ke → |codeassociates.co.ke^
+✅ HOSTS 转换: 127.0.0.1 codemeshsite.cryptosyncflow.bet → |codemeshsite.cryptosyncflow.bet^
+✅ HOSTS 转换: 127.0.0.1 coin4taskhub.verd7loka.bet → |coin4taskhub.verd7loka.bet^
 ✅ HOSTS 转换: 127.0.0.1 cold4pathgate.marblewavebase.garden → |cold4pathgate.marblewavebase.garden^
+✅ HOSTS 转换: 127.0.0.1 cold6siteview.staticmeshview.bet → |cold6siteview.staticmeshview.bet^
 ✅ HOSTS 转换: 127.0.0.1 coldmeshsite.grov6mira.bet → |coldmeshsite.grov6mira.bet^
 ✅ HOSTS 转换: 127.0.0.1 coloursofthesky.online → |coloursofthesky.online^
 ✅ HOSTS 转换: 127.0.0.1 comp-vine.greenbloom.garden → |comp-vine.greenbloom.garden^
@@ -69654,9 +69683,9 @@
 ✅ HOSTS 转换: 127.0.0.1 controliumbt.com → |controliumbt.com^
 ✅ HOSTS 转换: 127.0.0.1 cool2meshbit.cyberpeaklink.garden → |cool2meshbit.cyberpeaklink.garden^
 ✅ HOSTS 转换: 127.0.0.1 coolmeshbit5.vectorstarcity.garden → |coolmeshbit5.vectorstarcity.garden^
-✅ HOSTS 转换: 127.0.0.1 coralpac.com → |coralpac.com^
 ✅ HOSTS 转换: 127.0.0.1 core3darkstar.novismetaweb.garden → |core3darkstar.novismetaweb.garden^
 ✅ HOSTS 转换: 127.0.0.1 core3gatehost.basaltlogicnode.garden → |core3gatehost.basaltlogicnode.garden^
+✅ HOSTS 转换: 127.0.0.1 corehostunit.quantumbitlink.bet → |corehostunit.quantumbitlink.bet^
 ✅ HOSTS 转换: 127.0.0.1 corehostunit5.ferrumgateweb.garden → |corehostunit5.ferrumgateweb.garden^
 ✅ HOSTS 转换: 127.0.0.1 corehostunit5.quantumpathnet.garden → |corehostunit5.quantumpathnet.garden^
 ✅ HOSTS 转换: 127.0.0.1 cpofficial.com → |cpofficial.com^
@@ -69668,6 +69697,7 @@
 ✅ HOSTS 转换: 127.0.0.1 d.14yaa.com → |d.14yaa.com^
 ✅ HOSTS 转换: 127.0.0.1 d.wanyouxi7.com → |d.wanyouxi7.com^
 ✅ HOSTS 转换: 127.0.0.1 damiancollier.com → |damiancollier.com^
+✅ HOSTS 转换: 127.0.0.1 dash7taskhub.kineticgatehub.bet → |dash7taskhub.kineticgatehub.bet^
 ✅ HOSTS 转换: 127.0.0.1 data.yhydl.com → |data.yhydl.com^
 ✅ HOSTS 转换: 127.0.0.1 datanoirgold5.sylosyncbase.garden → |datanoirgold5.sylosyncbase.garden^
 ✅ HOSTS 转换: 127.0.0.1 dcrun.co.uk → |dcrun.co.uk^
@@ -69686,7 +69716,6 @@
 ✅ HOSTS 转换: 127.0.0.1 dexios.co.za → |dexios.co.za^
 ✅ HOSTS 转换: 127.0.0.1 dezcom.com → |dezcom.com^
 ✅ HOSTS 转换: 127.0.0.1 dhnconstrucciones.com.ar → |dhnconstrucciones.com.ar^
-✅ HOSTS 转换: 127.0.0.1 dialkwik.in → |dialkwik.in^
 ✅ HOSTS 转换: 127.0.0.1 dice6logicnet.thora9xel.bet → |dice6logicnet.thora9xel.bet^
 ✅ HOSTS 转换: 127.0.0.1 disk.accord1key.cn → |disk.accord1key.cn^
 ✅ HOSTS 转换: 127.0.0.1 dl.1003b.56a.com → |dl.1003b.56a.com^
@@ -69761,12 +69790,14 @@
 ✅ HOSTS 转换: 127.0.0.1 filt3-scope.lightforge.garden → |filt3-scope.lightforge.garden^
 ✅ HOSTS 转换: 127.0.0.1 fine2logicnet.silicapathsys.garden → |fine2logicnet.silicapathsys.garden^
 ✅ HOSTS 转换: 127.0.0.1 firehostunit.grov6mira.bet → |firehostunit.grov6mira.bet^
+✅ HOSTS 转换: 127.0.0.1 firm3taskhub.staticmeshview.bet → |firm3taskhub.staticmeshview.bet^
 ✅ HOSTS 转换: 127.0.0.1 first-security-verden.de → |first-security-verden.de^
 ✅ HOSTS 转换: 127.0.0.1 fiveradio.xyz → |fiveradio.xyz^
 ✅ HOSTS 转换: 127.0.0.1 fj0r8-chain.so6lavern.garden → |fj0r8-chain.so6lavern.garden^
 ✅ HOSTS 转换: 127.0.0.1 flintpathgate.quartzprismcloud.garden → |flintpathgate.quartzprismcloud.garden^
 ✅ HOSTS 转换: 127.0.0.1 flow9pathgate.silicapathsys.garden → |flow9pathgate.silicapathsys.garden^
 ✅ HOSTS 转换: 127.0.0.1 flowironhaus.novismetaweb.garden → |flowironhaus.novismetaweb.garden^
+✅ HOSTS 转换: 127.0.0.1 flowmeshnode.kineticgatehub.bet → |flowmeshnode.kineticgatehub.bet^
 ✅ HOSTS 转换: 127.0.0.1 flyingmutts.com → |flyingmutts.com^
 ✅ HOSTS 转换: 127.0.0.1 fold7taskhub.lo4miren.bet → |fold7taskhub.lo4miren.bet^
 ✅ HOSTS 转换: 127.0.0.1 formpea.lightforge.garden → |formpea.lightforge.garden^
@@ -69814,10 +69845,13 @@
 ✅ HOSTS 转换: 127.0.0.1 gtps4change.org → |gtps4change.org^
 ✅ HOSTS 转换: 127.0.0.1 gutando.com → |gutando.com^
 ✅ HOSTS 转换: 127.0.0.1 h6gmmo5g.seering5outh.digital → |h6gmmo5g.seering5outh.digital^
+✅ HOSTS 转换: 127.0.0.1 halfmillion-iq.com → |halfmillion-iq.com^
 ✅ HOSTS 转换: 127.0.0.1 handlerfalc.voidstream.garden → |handlerfalc.voidstream.garden^
+✅ HOSTS 转换: 127.0.0.1 happytugsbakery.com → |happytugsbakery.com^
 ✅ HOSTS 转换: 127.0.0.1 hard5logicbox.basaltlogicnode.garden → |hard5logicbox.basaltlogicnode.garden^
 ✅ HOSTS 转换: 127.0.0.1 hardhostunit.fossilcryptoweb.garden → |hardhostunit.fossilcryptoweb.garden^
 ✅ HOSTS 转换: 127.0.0.1 hasalltalent.com → |hasalltalent.com^
+✅ HOSTS 转换: 127.0.0.1 hash3logicway.cryptosyncflow.bet → |hash3logicway.cryptosyncflow.bet^
 ✅ HOSTS 转换: 127.0.0.1 heat4logicway.grov6mira.bet → |heat4logicway.grov6mira.bet^
 ✅ HOSTS 转换: 127.0.0.1 heat5siteview.silicapathsys.garden → |heat5siteview.silicapathsys.garden^
 ✅ HOSTS 转换: 127.0.0.1 highmeshsite.so8laven.bet → |highmeshsite.so8laven.bet^
@@ -69826,6 +69860,7 @@
 ✅ HOSTS 转换: 127.0.0.1 hitman-pro.ru → |hitman-pro.ru^
 ✅ HOSTS 转换: 127.0.0.1 hitstation.nl → |hitstation.nl^
 ✅ HOSTS 转换: 127.0.0.1 hobobot.net → |hobobot.net^
+✅ HOSTS 转换: 127.0.0.1 hold8pathgate.staticmeshview.bet → |hold8pathgate.staticmeshview.bet^
 ✅ HOSTS 转换: 127.0.0.1 holzunit3link.mivontechzone.garden → |holzunit3link.mivontechzone.garden^
 ✅ HOSTS 转换: 127.0.0.1 homecaremovers.com → |homecaremovers.com^
 ✅ HOSTS 转换: 127.0.0.1 honestlab.voidstream.garden → |honestlab.voidstream.garden^
@@ -69866,6 +69901,7 @@
 ✅ HOSTS 转换: 127.0.0.1 jack4pathgate.so8laven.bet → |jack4pathgate.so8laven.bet^
 ✅ HOSTS 转换: 127.0.0.1 jin.com.my → |jin.com.my^
 ✅ HOSTS 转换: 127.0.0.1 joyeriatauro.com → |joyeriatauro.com^
+✅ HOSTS 转换: 127.0.0.1 jump2siteview.quantumbitlink.bet → |jump2siteview.quantumbitlink.bet^
 ✅ HOSTS 转换: 127.0.0.1 juvobd.g1enmor.garden → |juvobd.g1enmor.garden^
 ✅ HOSTS 转换: 127.0.0.1 jyothishmathi.in → |jyothishmathi.in^
 ✅ HOSTS 转换: 127.0.0.1 kamin-premium.ru → |kamin-premium.ru^
@@ -69873,6 +69909,7 @@
 ✅ HOSTS 转换: 127.0.0.1 kelcrest9ar.sunmeadow.garden → |kelcrest9ar.sunmeadow.garden^
 ✅ HOSTS 转换: 127.0.0.1 kelcrestet.frosthaven.garden → |kelcrestet.frosthaven.garden^
 ✅ HOSTS 转换: 127.0.0.1 kellinear1.rosevale.garden → |kellinear1.rosevale.garden^
+✅ HOSTS 转换: 127.0.0.1 key6taskhub.cryptosyncflow.bet → |key6taskhub.cryptosyncflow.bet^
 ✅ HOSTS 转换: 127.0.0.1 khoancatbetong89.vn → |khoancatbetong89.vn^
 ✅ HOSTS 转换: 127.0.0.1 kimyen.net → |kimyen.net^
 ✅ HOSTS 转换: 127.0.0.1 king6taskhub.so8laven.bet → |king6taskhub.so8laven.bet^
@@ -69887,6 +69924,7 @@
 ✅ HOSTS 转换: 127.0.0.1 lawfirm.paperbirdtech.com → |lawfirm.paperbirdtech.com^
 ✅ HOSTS 转换: 127.0.0.1 lead4tasksys.silicongateway.garden → |lead4tasksys.silicongateway.garden^
 ✅ HOSTS 转换: 127.0.0.1 lead4tasksys.zenithdockunit.garden → |lead4tasksys.zenithdockunit.garden^
+✅ HOSTS 转换: 127.0.0.1 leap7pathgate.quantumbitlink.bet → |leap7pathgate.quantumbitlink.bet^
 ✅ HOSTS 转换: 127.0.0.1 libss.0x504.com → |libss.0x504.com^
 ✅ HOSTS 转换: 127.0.0.1 light8siteview.zenithflowgrid.garden → |light8siteview.zenithflowgrid.garden^
 ✅ HOSTS 转换: 127.0.0.1 lindnerelektroanlagen.de → |lindnerelektroanlagen.de^
@@ -69897,11 +69935,13 @@
 ✅ HOSTS 转换: 127.0.0.1 load8siteview.pylonstaticnet.garden → |load8siteview.pylonstaticnet.garden^
 ✅ HOSTS 转换: 127.0.0.1 loadpetitstar3.dexishostpath.garden → |loadpetitstar3.dexishostpath.garden^
 ✅ HOSTS 转换: 127.0.0.1 local-update.com → |local-update.com^
+✅ HOSTS 转换: 127.0.0.1 lock5pathgate.cryptosyncflow.bet → |lock5pathgate.cryptosyncflow.bet^
 ✅ HOSTS 转换: 127.0.0.1 lomejordesalamanca.es → |lomejordesalamanca.es^
 ✅ HOSTS 转换: 127.0.0.1 lon-01.dlo4d.com → |lon-01.dlo4d.com^
 ✅ HOSTS 转换: 127.0.0.1 londonairportstransfer.co.uk → |londonairportstransfer.co.uk^
 ✅ HOSTS 转换: 127.0.0.1 loose-mesh.grove5s.garden → |loose-mesh.grove5s.garden^
 ✅ HOSTS 转换: 127.0.0.1 luck9siteview.dra7vexa.bet → |luck9siteview.dra7vexa.bet^
+✅ HOSTS 转换: 127.0.0.1 luizmatoso.com.br → |luizmatoso.com.br^
 ✅ HOSTS 转换: 127.0.0.1 lum-forgeal.peta1un.garden → |lum-forgeal.peta1un.garden^
 ✅ HOSTS 转换: 127.0.0.1 lumfluxor.verd1ya.garden → |lumfluxor.verd1ya.garden^
 ✅ HOSTS 转换: 127.0.0.1 lummeshet3.lunave5.garden → |lummeshet3.lunave5.garden^
@@ -69917,7 +69957,6 @@
 ✅ HOSTS 转换: 127.0.0.1 maidforyou1985.com → |maidforyou1985.com^
 ✅ HOSTS 转换: 127.0.0.1 mail.ssadownload.top → |mail.ssadownload.top^
 ✅ HOSTS 转换: 127.0.0.1 marsalek.cy → |marsalek.cy^
-✅ HOSTS 转换: 127.0.0.1 math3logicnet.flo3xaren.bet → |math3logicnet.flo3xaren.bet^
 ✅ HOSTS 转换: 127.0.0.1 matrix6pathway.cobaltpathsys.garden → |matrix6pathway.cobaltpathsys.garden^
 ✅ HOSTS 转换: 127.0.0.1 matrix6pathway.vectorpointsite.garden → |matrix6pathway.vectorpointsite.garden^
 ✅ HOSTS 转换: 127.0.0.1 meadow-cast.g1enmor.garden → |meadow-cast.g1enmor.garden^
@@ -69929,11 +69968,14 @@
 ✅ HOSTS 转换: 127.0.0.1 metrics.gocloudmaps.com → |metrics.gocloudmaps.com^
 ✅ HOSTS 转换: 127.0.0.1 mgtms.cc → |mgtms.cc^
 ✅ HOSTS 转换: 127.0.0.1 microbeforest.petalu1ne.garden → |microbeforest.petalu1ne.garden^
+✅ HOSTS 转换: 127.0.0.1 mint2pathgate.verd7loka.bet → |mint2pathgate.verd7loka.bet^
 ✅ HOSTS 转换: 127.0.0.1 mist4wavepath.tundraflowunit.garden → |mist4wavepath.tundraflowunit.garden^
+✅ HOSTS 转换: 127.0.0.1 mitreart.com → |mitreart.com^
 ✅ HOSTS 转换: 127.0.0.1 mobshah.com → |mobshah.com^
 ✅ HOSTS 转换: 127.0.0.1 mockupcorporation.com → |mockupcorporation.com^
 ✅ HOSTS 转换: 127.0.0.1 mogimall.com → |mogimall.com^
 ✅ HOSTS 转换: 127.0.0.1 mosselnet.co.za → |mosselnet.co.za^
+✅ HOSTS 转换: 127.0.0.1 move2logicnet.kineticgatehub.bet → |move2logicnet.kineticgatehub.bet^
 ✅ HOSTS 转换: 127.0.0.1 msedge.vg → |msedge.vg^
 ✅ HOSTS 转换: 127.0.0.1 msgrouppolicy.vg → |msgrouppolicy.vg^
 ✅ HOSTS 转换: 127.0.0.1 mujqm85.glen4mora.garden → |mujqm85.glen4mora.garden^
@@ -69942,6 +69984,7 @@
 ✅ HOSTS 转换: 127.0.0.1 mygrocerbox.com → |mygrocerbox.com^
 ✅ HOSTS 转换: 127.0.0.1 n.vs108.com → |n.vs108.com^
 ✅ HOSTS 转换: 127.0.0.1 ncxps.com → |ncxps.com^
+✅ HOSTS 转换: 127.0.0.1 neilshairdressers.co.uk → |neilshairdressers.co.uk^
 ✅ HOSTS 转换: 127.0.0.1 nelees.com → |nelees.com^
 ✅ HOSTS 转换: 127.0.0.1 neo-payl0.mossgrove.garden → |neo-payl0.mossgrove.garden^
 ✅ HOSTS 转换: 127.0.0.1 neo-tr3nd.lunav8era.garden → |neo-tr3nd.lunav8era.garden^
@@ -69974,7 +70017,6 @@
 ✅ HOSTS 转换: 127.0.0.1 ogicway.lo4miren.bet → |ogicway.lo4miren.bet^
 ✅ HOSTS 转换: 127.0.0.1 ojang.pe.kr → |ojang.pe.kr^
 ✅ HOSTS 转换: 127.0.0.1 okhan.net → |okhan.net^
-✅ HOSTS 转换: 127.0.0.1 oknoplastik.sk → |oknoplastik.sk^
 ✅ HOSTS 转换: 127.0.0.1 old3logicgate.fossilcryptoweb.garden → |old3logicgate.fossilcryptoweb.garden^
 ✅ HOSTS 转换: 127.0.0.1 onfiltre.com.tr → |onfiltre.com.tr^
 ✅ HOSTS 转换: 127.0.0.1 onyxguardify.de → |onyxguardify.de^
@@ -69991,7 +70033,6 @@
 ✅ HOSTS 转换: 127.0.0.1 pale9taskhub.marblewavebase.garden → |pale9taskhub.marblewavebase.garden^
 ✅ HOSTS 转换: 127.0.0.1 palharesinformatica.com.br → |palharesinformatica.com.br^
 ✅ HOSTS 转换: 127.0.0.1 panychurasc0.com → |panychurasc0.com^
-✅ HOSTS 转换: 127.0.0.1 parihostunit.flo3xaren.bet → |parihostunit.flo3xaren.bet^
 ✅ HOSTS 转换: 127.0.0.1 past4pathgate.fossilcryptoweb.garden → |past4pathgate.fossilcryptoweb.garden^
 ✅ HOSTS 转换: 127.0.0.1 pastureclien.stoneflare.garden → |pastureclien.stoneflare.garden^
 ✅ HOSTS 转换: 127.0.0.1 pathnoirbaum.dexishostpath.garden → |pathnoirbaum.dexishostpath.garden^
@@ -70046,7 +70087,6 @@
 ✅ HOSTS 转换: 127.0.0.1 rank3logicway.so8laven.bet → |rank3logicway.so8laven.bet^
 ✅ HOSTS 转换: 127.0.0.1 rapid8wavenet.pixelstormbase.garden → |rapid8wavenet.pixelstormbase.garden^
 ✅ HOSTS 转换: 127.0.0.1 rapid8wavenet.pulsarlogicnet.garden → |rapid8wavenet.pulsarlogicnet.garden^
-✅ HOSTS 转换: 127.0.0.1 rate5pathgate.flo3xaren.bet → |rate5pathgate.flo3xaren.bet^
 ✅ HOSTS 转换: 127.0.0.1 raw.flameblox.com → |raw.flameblox.com^
 ✅ HOSTS 转换: 127.0.0.1 rdm.91yunma.cn → |rdm.91yunma.cn^
 ✅ HOSTS 转换: 127.0.0.1 reauthenticator.com → |reauthenticator.com^
@@ -70060,6 +70100,7 @@
 ✅ HOSTS 转换: 127.0.0.1 relay-craft.grov9essa.garden → |relay-craft.grov9essa.garden^
 ✅ HOSTS 转换: 127.0.0.1 reutilizemais.co.mz → |reutilizemais.co.mz^
 ✅ HOSTS 转换: 127.0.0.1 rheddh.com → |rheddh.com^
+✅ HOSTS 转换: 127.0.0.1 richmeshsite.verd7loka.bet → |richmeshsite.verd7loka.bet^
 ✅ HOSTS 转换: 127.0.0.1 riderspin.com → |riderspin.com^
 ✅ HOSTS 转换: 127.0.0.1 riskmeshnode.dra7vexa.bet → |riskmeshnode.dra7vexa.bet^
 ✅ HOSTS 转换: 127.0.0.1 rivspectr.peta1un.garden → |rivspectr.peta1un.garden^
@@ -70134,24 +70175,25 @@
 ✅ HOSTS 转换: 127.0.0.1 sparklogicway.quartzprismcloud.garden → |sparklogicway.quartzprismcloud.garden^
 ✅ HOSTS 转换: 127.0.0.1 spgint.com → |spgint.com^
 ✅ HOSTS 转换: 127.0.0.1 spin3taskhub.dra7vexa.bet → |spin3taskhub.dra7vexa.bet^
-✅ HOSTS 转换: 127.0.0.1 spoar.org.in → |spoar.org.in^
 ✅ HOSTS 转换: 127.0.0.1 srvvertland.sylosyncbase.garden → |srvvertland.sylosyncbase.garden^
+✅ HOSTS 转换: 127.0.0.1 starthostunit.kineticgatehub.bet → |starthostunit.kineticgatehub.bet^
 ✅ HOSTS 转换: 127.0.0.1 static.topxgun.com → |static.topxgun.com^
 ✅ HOSTS 转换: 127.0.0.1 static.youdm.cn → |static.youdm.cn^
 ✅ HOSTS 转换: 127.0.0.1 staticflowsys.ferrumgateweb.garden → |staticflowsys.ferrumgateweb.garden^
 ✅ HOSTS 转换: 127.0.0.1 staticflowsys.quantumpathnet.garden → |staticflowsys.quantumpathnet.garden^
-✅ HOSTS 转换: 127.0.0.1 statmeshnode.flo3xaren.bet → |statmeshnode.flo3xaren.bet^
 ✅ HOSTS 转换: 127.0.0.1 stdown.dinju.com → |stdown.dinju.com^
 ✅ HOSTS 转换: 127.0.0.1 steam66.cn → |steam66.cn^
 ✅ HOSTS 转换: 127.0.0.1 stellar5bitnode.orbitmeshunit.garden → |stellar5bitnode.orbitmeshunit.garden^
 ✅ HOSTS 转换: 127.0.0.1 stellarbit4sys.marinergridhub.garden → |stellarbit4sys.marinergridhub.garden^
 ✅ HOSTS 转换: 127.0.0.1 stonecradle.com → |stonecradle.com^
 ✅ HOSTS 转换: 127.0.0.1 stonemeshway.fossilcryptoweb.garden → |stonemeshway.fossilcryptoweb.garden^
+✅ HOSTS 转换: 127.0.0.1 stop5logicway.staticmeshview.bet → |stop5logicway.staticmeshview.bet^
 ✅ HOSTS 转换: 127.0.0.1 storm8taskhub.tundraflowunit.garden → |storm8taskhub.tundraflowunit.garden^
 ✅ HOSTS 转换: 127.0.0.1 stormloader.shadowpeak.garden → |stormloader.shadowpeak.garden^
 ✅ HOSTS 转换: 127.0.0.1 studiogioeli.it → |studiogioeli.it^
 ✅ HOSTS 转换: 127.0.0.1 sub-5ound.leafspring.garden → |sub-5ound.leafspring.garden^
 ✅ HOSTS 转换: 127.0.0.1 sub-l1ght.lunav8era.garden → |sub-l1ght.lunav8era.garden^
+✅ HOSTS 转换: 127.0.0.1 sudan-daily.net → |sudan-daily.net^
 ✅ HOSTS 转换: 127.0.0.1 suit8siteview.lo4miren.bet → |suit8siteview.lo4miren.bet^
 ✅ HOSTS 转换: 127.0.0.1 support.clz.kr → |support.clz.kr^
 ✅ HOSTS 转换: 127.0.0.1 surf3logicgate.oceanicmeshbit.garden → |surf3logicgate.oceanicmeshbit.garden^
@@ -70175,6 +70217,7 @@
 ✅ HOSTS 转换: 127.0.0.1 tempohost8link.titanmeshflow.garden → |tempohost8link.titanmeshflow.garden^
 ✅ HOSTS 转换: 127.0.0.1 tempohostlink.alphafluxnode.garden → |tempohostlink.alphafluxnode.garden^
 ✅ HOSTS 转换: 127.0.0.1 tengfeidn.cn → |tengfeidn.cn^
+✅ HOSTS 转换: 127.0.0.1 test.peperoncinochepassione.it → |test.peperoncinochepassione.it^
 ✅ HOSTS 转换: 127.0.0.1 thebrandmantra.in → |thebrandmantra.in^
 ✅ HOSTS 转换: 127.0.0.1 theholidayroads.com → |theholidayroads.com^
 ✅ HOSTS 转换: 127.0.0.1 themaintechnician.us → |themaintechnician.us^
@@ -70197,6 +70240,7 @@
 ✅ HOSTS 转换: 127.0.0.1 trendscan8meta.kinetichostbit.garden → |trendscan8meta.kinetichostbit.garden^
 ✅ HOSTS 转换: 127.0.0.1 triggeveri.voidstream.garden → |triggeveri.voidstream.garden^
 ✅ HOSTS 转换: 127.0.0.1 trtmyanmar.com → |trtmyanmar.com^
+✅ HOSTS 转换: 127.0.0.1 turnmeshnode.torquegridunit.bet → |turnmeshnode.torquegridunit.bet^
 ✅ HOSTS 转换: 127.0.0.1 tyvvpe4.th0rniva.garden → |tyvvpe4.th0rniva.garden^
 ✅ HOSTS 转换: 127.0.0.1 ukguk71.ru → |ukguk71.ru^
 ✅ HOSTS 转换: 127.0.0.1 ultra-rnetr1.petalu1ne.garden → |ultra-rnetr1.petalu1ne.garden^
@@ -70243,6 +70287,7 @@
 ✅ HOSTS 转换: 127.0.0.1 vrajras.com → |vrajras.com^
 ✅ HOSTS 转换: 127.0.0.1 vtc3eae.verda7lya.garden → |vtc3eae.verda7lya.garden^
 ✅ HOSTS 转换: 127.0.0.1 vupvuar8.grov9essa.garden → |vupvuar8.grov9essa.garden^
+✅ HOSTS 转换: 127.0.0.1 wave4taskhub.quantumbitlink.bet → |wave4taskhub.quantumbitlink.bet^
 ✅ HOSTS 转换: 127.0.0.1 wave4zoneyview.oceanicmeshbit.garden → |wave4zoneyview.oceanicmeshbit.garden^
 ✅ HOSTS 转换: 127.0.0.1 webcstore.pw → |webcstore.pw^
 ✅ HOSTS 转换: 127.0.0.1 webopenmond.sylosyncbase.garden → |webopenmond.sylosyncbase.garden^
@@ -70258,6 +70303,7 @@
 ✅ HOSTS 转换: 127.0.0.1 winopenhaus.raxonviewunit.garden → |winopenhaus.raxonviewunit.garden^
 ✅ HOSTS 转换: 127.0.0.1 winopenhaus.vortextaskbit.garden → |winopenhaus.vortextaskbit.garden^
 ✅ HOSTS 转换: 127.0.0.1 wire2pathgate.pylonstaticnet.garden → |wire2pathgate.pylonstaticnet.garden^
+✅ HOSTS 转换: 127.0.0.1 wittenhorst.eu → |wittenhorst.eu^
 ✅ HOSTS 转换: 127.0.0.1 wu97b.lunave5.garden → |wu97b.lunave5.garden^
 ✅ HOSTS 转换: 127.0.0.1 www.ardguisser.com → |www.ardguisser.com^
 ✅ HOSTS 转换: 127.0.0.1 www.astenterprises.com.pk → |www.astenterprises.com.pk^
@@ -70272,12 +70318,14 @@
 ✅ HOSTS 转换: 127.0.0.1 www.first-security-verden.de → |www.first-security-verden.de^
 ✅ HOSTS 转换: 127.0.0.1 www.flybirdexpbd.com → |www.flybirdexpbd.com^
 ✅ HOSTS 转换: 127.0.0.1 www.hostingcloud.science → |www.hostingcloud.science^
+✅ HOSTS 转换: 127.0.0.1 www.hseda.com → |www.hseda.com^
 ✅ HOSTS 转换: 127.0.0.1 www.intelligradeeducation.vicentecisnerospub.com → |www.intelligradeeducation.vicentecisnerospub.com^
 ✅ HOSTS 转换: 127.0.0.1 www.jozefinskiatelje.si → |www.jozefinskiatelje.si^
 ✅ HOSTS 转换: 127.0.0.1 www.konsor.ru → |www.konsor.ru^
 ✅ HOSTS 转换: 127.0.0.1 www.kotojuki.com → |www.kotojuki.com^
 ✅ HOSTS 转换: 127.0.0.1 www.longfeng188.com → |www.longfeng188.com^
 ✅ HOSTS 转换: 127.0.0.1 www.medises.co.kr → |www.medises.co.kr^
+✅ HOSTS 转换: 127.0.0.1 www.mevetlab.cl → |www.mevetlab.cl^
 ✅ HOSTS 转换: 127.0.0.1 www.mobimpex.ro → |www.mobimpex.ro^
 ✅ HOSTS 转换: 127.0.0.1 www.myvcart.com → |www.myvcart.com^
 ✅ HOSTS 转换: 127.0.0.1 www.namuvpn.com → |www.namuvpn.com^
@@ -164255,10 +164303,10 @@
 🚫 去掉注释行: ! Blocked domains: 5342
 🚫 去掉注释行: ! unBlocked domains: 15
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: hh2oOuniWYDFiqJc3gMn5A
-🚫 去掉注释行: ! Version: 202604300225
+🚫 去掉注释行: ! Checksum: ZQS6TYmfC9yWqC819SratA
+🚫 去掉注释行: ! Version: 202604300725
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-04-30 02:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-04-30 07:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
