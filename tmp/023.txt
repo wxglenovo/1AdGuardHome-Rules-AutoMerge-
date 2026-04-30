@@ -21103,6 +21103,7 @@ clarochile.cl##.cookieModal
 |spaceinspace.ru##.cookie
 |spartanien.de##.cookie
 |specialdeal.at##.cookie
+|speedtest.rt.ru##.cookie
 |spexi.com##.cookie
 |sports-esta.com##.cookie
 |squirt.org##.cookie
@@ -30183,6 +30184,7 @@ leeway.tech##+js(set-local-storage-item, lw-accepts-cookies, true)
 makerz.me##+js(set-local-storage-item, makerz_allow_consentmgr, 0)
 webhallen.com##+js(set-local-storage-item, marketingConsent, false)
 happyplates.com##+js(set-local-storage-item, marketingConsentAccepted, false)
+momentbymoment.app##+js(set-local-storage-item, mbm-analytics-consent, denied)
 zeta-ai.io##+js(set-local-storage-item, mmkv.default\ANONYMOUS_ACCEPT_COOKIE, true)
 springmerchant.com##+js(set-local-storage-item, modal_cookies, 1)
 kroger.com##+js(set-local-storage-item, modal_terms_policy_update_notification, true)
