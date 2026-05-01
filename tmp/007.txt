@@ -1099,6 +1099,7 @@ news18.com##.article_follow_1
 financialexpress.com##.article_follow_us
 techonthenet.com##.article_footer
 webdunia.com##.article_in_content > .row
+sciencex.com##.article_info-goog
 goodnet.org##.article_like
 thespectator.com##.article_set_wrap
 news9live.com##.article_socialShare
@@ -3817,6 +3818,7 @@ miruro.*##section[class^="_noticeSection_"]
 |schuttevaer.nl##.social
 |sci.news##.social
 |sciencenorway.no##.social
+|sciencex.com##.social
 |scorpionbay.com##.social
 |scottishconservatives.com##.social
 |scottishlabour.org.uk##.social
