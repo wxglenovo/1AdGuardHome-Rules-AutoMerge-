@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-05-03T08:39:54.927Z
+🚫 去掉注释行: ! Last modified: 2026-05-03T10:24:53.223Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -1575,10 +1575,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 100935
-🚫 去掉注释行: ! Checksum: ZgOJSohBecZAIV1cAZJt3A
-🚫 去掉注释行: ! Version: 202605030952
+🚫 去掉注释行: ! Checksum: BBePq4b2/nydMoMh7LBvXA
+🚫 去掉注释行: ! Version: 202605031051
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 03 May 2026 09:52 UTC
+🚫 去掉注释行: ! Last modified: 03 May 2026 10:51 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -19483,6 +19483,9 @@
 ✅ 多域名拆分: mynbc5.com,wyff4.com##.listing-page-ad
     → |mynbc5.com##.listing-page-ad
     → |wyff4.com##.listing-page-ad
+✅ 多域名拆分: comicbook.com,popculture.com##.lngtd-dynamic-inarticle
+    → |comicbook.com##.lngtd-dynamic-inarticle
+    → |popculture.com##.lngtd-dynamic-inarticle
 ✅ 多域名拆分: androidmagazine.eu,samsungmagazine.eu##.lsads-banner
     → |androidmagazine.eu##.lsads-banner
     → |samsungmagazine.eu##.lsads-banner
@@ -24831,10 +24834,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: +f+ZZ9Zg0HO3f7qWBgKdAw
-🚫 去掉注释行: ! Version: 202605030952
+🚫 去掉注释行: ! Checksum: Erfjcq9o3YLw3WWxevWe/A
+🚫 去掉注释行: ! Version: 202605031051
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 03 May 2026 09:52 UTC
+🚫 去掉注释行: ! Last modified: 03 May 2026 10:51 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29430,10 +29433,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: jsLn91fUfjdyOupj8wHqeg
-🚫 去掉注释行: ! Version: 202605030952
+🚫 去掉注释行: ! Checksum: IOnPoLGtZVI487OJS+YSXQ
+🚫 去掉注释行: ! Version: 202605031051
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 03 May 2026 09:52 UTC
+🚫 去掉注释行: ! Last modified: 03 May 2026 10:51 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -30100,11 +30103,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202605030953
+🚫 去掉注释行: ! Version: 202605031104
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 03 May 2026 09:53 UTC
+🚫 去掉注释行: ! Last modified: 03 May 2026 11:04 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 921aee6510a95f41bea67f51ce62da3622c90da6
+🚫 去掉注释行: ! Commit: c39d386d0f985e398093316ed10923cf57b3f4b3
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -48018,6 +48021,9 @@
 ✅ 多域名拆分: mynbc5.com,wyff4.com##.listing-page-ad
     → |mynbc5.com##.listing-page-ad
     → |wyff4.com##.listing-page-ad
+✅ 多域名拆分: comicbook.com,popculture.com##.lngtd-dynamic-inarticle
+    → |comicbook.com##.lngtd-dynamic-inarticle
+    → |popculture.com##.lngtd-dynamic-inarticle
 ✅ 多域名拆分: androidmagazine.eu,samsungmagazine.eu##.lsads-banner
     → |androidmagazine.eu##.lsads-banner
     → |samsungmagazine.eu##.lsads-banner
@@ -53392,11 +53398,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202605030953
+🚫 去掉注释行: ! Version: 202605031057
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 03 May 2026 09:53 UTC
+🚫 去掉注释行: ! Last modified: 03 May 2026 10:57 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 921aee6510a95f41bea67f51ce62da3622c90da6
+🚫 去掉注释行: ! Commit: 5fa9d5a0a02a8e9a2b898d5b906dbb85d6715260
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -69513,10 +69519,10 @@
 🚫 去掉注释行: ! Issues: https://github.com/hagezi/dns-blocklists/issues
 🚫 去掉注释行: ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 🚫 去掉注释行: ! Expires: 1 day
-🚫 去掉注释行: ! Last modified: 03 May 2026 02:43 UTC
-🚫 去掉注释行: ! Version: 2026.0503.0243.44
+🚫 去掉注释行: ! Last modified: 03 May 2026 09:25 UTC
+🚫 去掉注释行: ! Version: 2026.0503.0925.03
 🚫 去掉注释行: ! Syntax: AdBlock
-🚫 去掉注释行: ! Number of entries: 66984
+🚫 去掉注释行: ! Number of entries: 68268
 🚫 去掉注释行: !
 🚫 去掉注释行: !Title: anti-AD for AdGuard
 🚫 去掉注释行: !Version: 20260501194552733417399
@@ -69537,8 +69543,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !Generated: 2026-05-03 16:58:59
-🚫 去掉注释行: !RuleCount: 1786519
+🚫 去掉注释行: !Generated: 2026-05-03 18:11:29
+🚫 去掉注释行: !RuleCount: 1786568
 ✅ HOSTS 转换: 127.0.0.1 04aht.faint-gather.surf → |04aht.faint-gather.surf^
 ✅ HOSTS 转换: 127.0.0.1 0gf8.breadpotho1e.surf → |0gf8.breadpotho1e.surf^
 ✅ HOSTS 转换: 127.0.0.1 0rgan3-port.gabard-viewed.surf → |0rgan3-port.gabard-viewed.surf^
@@ -69575,6 +69581,7 @@
 ✅ HOSTS 转换: 127.0.0.1 alt-out1et.nexo5mir.surf → |alt-out1et.nexo5mir.surf^
 ✅ HOSTS 转换: 127.0.0.1 alternativas.ru → |alternativas.ru^
 ✅ HOSTS 转换: 127.0.0.1 apex.urbanflowbase.lat → |apex.urbanflowbase.lat^
+✅ HOSTS 转换: 127.0.0.1 apex.wintercoldlab.lat → |apex.wintercoldlab.lat^
 ✅ HOSTS 转换: 127.0.0.1 api-secured.tari8lax.surf → |api-secured.tari8lax.surf^
 ✅ HOSTS 转换: 127.0.0.1 api-v12.foersteron.work → |api-v12.foersteron.work^
 ✅ HOSTS 转换: 127.0.0.1 api.baimless.com → |api.baimless.com^
@@ -69601,11 +69608,13 @@
 ✅ HOSTS 转换: 127.0.0.1 auth.smartlogicgate.lat → |auth.smartlogicgate.lat^
 ✅ HOSTS 转换: 127.0.0.1 autobaenasl.com → |autobaenasl.com^
 ✅ HOSTS 转换: 127.0.0.1 avbackup.acionline.de → |avbackup.acionline.de^
+✅ HOSTS 转换: 127.0.0.1 axis.darkstonebase.lat → |axis.darkstonebase.lat^
 ✅ HOSTS 转换: 127.0.0.1 axis.silvermoonlight.lat → |axis.silvermoonlight.lat^
 ✅ HOSTS 转换: 127.0.0.1 backupso.com → |backupso.com^
 ✅ HOSTS 转换: 127.0.0.1 bal-f7.bnaumann87.work → |bal-f7.bnaumann87.work^
 ✅ HOSTS 转换: 127.0.0.1 bala6-forge.notice-ohlamon.surf → |bala6-forge.notice-ohlamon.surf^
 ✅ HOSTS 转换: 127.0.0.1 base.anythin8weaned.surf → |base.anythin8weaned.surf^
+✅ HOSTS 转换: 127.0.0.1 base.wintercoldlab.lat → |base.wintercoldlab.lat^
 ✅ HOSTS 转换: 127.0.0.1 basehostunit.kali9drift.surf → |basehostunit.kali9drift.surf^
 ✅ HOSTS 转换: 127.0.0.1 basemeshsite.tula8data.surf → |basemeshsite.tula8data.surf^
 ✅ HOSTS 转换: 127.0.0.1 bbos.minet.vn → |bbos.minet.vn^
@@ -69618,9 +69627,11 @@
 ✅ HOSTS 转换: 127.0.0.1 blobir.vori7nex.surf → |blobir.vori7nex.surf^
 ✅ HOSTS 转换: 127.0.0.1 blogs.sokun.jp → |blogs.sokun.jp^
 ✅ HOSTS 转换: 127.0.0.1 blue.clogg-opposition.surf → |blue.clogg-opposition.surf^
+✅ HOSTS 转换: 127.0.0.1 blue.magicflowpoint.lat → |blue.magicflowpoint.lat^
 ✅ HOSTS 转换: 127.0.0.1 bmdcompany.com → |bmdcompany.com^
 ✅ HOSTS 转换: 127.0.0.1 bnet-api.playm8ru.win → |bnet-api.playm8ru.win^
 ✅ HOSTS 转换: 127.0.0.1 bnet.playm8ru.win → |bnet.playm8ru.win^
+✅ HOSTS 转换: 127.0.0.1 bolt.brightskycore.lat → |bolt.brightskycore.lat^
 ✅ HOSTS 转换: 127.0.0.1 bolt.darkstonebase.lat → |bolt.darkstonebase.lat^
 ✅ HOSTS 转换: 127.0.0.1 bolt.installer-catip.surf → |bolt.installer-catip.surf^
 ✅ HOSTS 转换: 127.0.0.1 bolt.silvermoonlight.lat → |bolt.silvermoonlight.lat^
@@ -69685,6 +69696,7 @@
 ✅ HOSTS 转换: 127.0.0.1 coralasargetia.ro → |coralasargetia.ro^
 ✅ HOSTS 转换: 127.0.0.1 core-logic.herbertrutt.work → |core-logic.herbertrutt.work^
 ✅ HOSTS 转换: 127.0.0.1 core.anythin8weaned.surf → |core.anythin8weaned.surf^
+✅ HOSTS 转换: 127.0.0.1 core.darkstonebase.lat → |core.darkstonebase.lat^
 ✅ HOSTS 转换: 127.0.0.1 core.greenforestsky.lat → |core.greenforestsky.lat^
 ✅ HOSTS 转换: 127.0.0.1 core3taskhub.tula8data.surf → |core3taskhub.tula8data.surf^
 ✅ HOSTS 转换: 127.0.0.1 corporacioncrf.com → |corporacioncrf.com^
@@ -69701,6 +69713,7 @@
 ✅ HOSTS 转换: 127.0.0.1 damiancollier.com → |damiancollier.com^
 ✅ HOSTS 转换: 127.0.0.1 dark.darknightstar.lat → |dark.darknightstar.lat^
 ✅ HOSTS 转换: 127.0.0.1 dash.boldfirestep.lat → |dash.boldfirestep.lat^
+✅ HOSTS 转换: 127.0.0.1 dash.brightskycore.lat → |dash.brightskycore.lat^
 ✅ HOSTS 转换: 127.0.0.1 dash.installer-catip.surf → |dash.installer-catip.surf^
 ✅ HOSTS 转换: 127.0.0.1 dash3taskhub.colorist-resignat.bet → |dash3taskhub.colorist-resignat.bet^
 ✅ HOSTS 转换: 127.0.0.1 data-sync.rolfgrassinger.work → |data-sync.rolfgrassinger.work^
@@ -69765,6 +69778,7 @@
 ✅ HOSTS 转换: 127.0.0.1 echo.urbanflowbase.lat → |echo.urbanflowbase.lat^
 ✅ HOSTS 转换: 127.0.0.1 edge-v6.rolfgrassinger.work → |edge-v6.rolfgrassinger.work^
 ✅ HOSTS 转换: 127.0.0.1 edge.anythin8weaned.surf → |edge.anythin8weaned.surf^
+✅ HOSTS 转换: 127.0.0.1 edge.wintercoldlab.lat → |edge.wintercoldlab.lat^
 ✅ HOSTS 转换: 127.0.0.1 eggsalt.clogg-opposition.surf → |eggsalt.clogg-opposition.surf^
 ✅ HOSTS 转换: 127.0.0.1 electri.billregulator.com → |electri.billregulator.com^
 ✅ HOSTS 转换: 127.0.0.1 elisans.novayonetim.com → |elisans.novayonetim.com^
@@ -69784,6 +69798,7 @@
 ✅ HOSTS 转换: 127.0.0.1 fast.boldfirestep.lat → |fast.boldfirestep.lat^
 ✅ HOSTS 转换: 127.0.0.1 fast.brightsunray.lat → |fast.brightsunray.lat^
 ✅ HOSTS 转换: 127.0.0.1 fast.clogg-opposition.surf → |fast.clogg-opposition.surf^
+✅ HOSTS 转换: 127.0.0.1 fast.magicflowpoint.lat → |fast.magicflowpoint.lat^
 ✅ HOSTS 转换: 127.0.0.1 fast1siteview.vaxi4sync.surf → |fast1siteview.vaxi4sync.surf^
 ✅ HOSTS 转换: 127.0.0.1 fast7siteview.chaevodh0t.bet → |fast7siteview.chaevodh0t.bet^
 ✅ HOSTS 转换: 127.0.0.1 fast9siteview.kren3sync.surf → |fast9siteview.kren3sync.surf^
@@ -69827,7 +69842,9 @@
 ✅ HOSTS 转换: 127.0.0.1 gate.clearviewcloud.lat → |gate.clearviewcloud.lat^
 ✅ HOSTS 转换: 127.0.0.1 gate.physiolpo1icy.lat → |gate.physiolpo1icy.lat^
 ✅ HOSTS 转换: 127.0.0.1 gate.urbanflowbase.lat → |gate.urbanflowbase.lat^
+✅ HOSTS 转换: 127.0.0.1 gate.wintercoldlab.lat → |gate.wintercoldlab.lat^
 ✅ HOSTS 转换: 127.0.0.1 gate5pathgate.mori9port.surf → |gate5pathgate.mori9port.surf^
+✅ HOSTS 转换: 127.0.0.1 gear.brightskycore.lat → |gear.brightskycore.lat^
 ✅ HOSTS 转换: 127.0.0.1 gear.installer-catip.surf → |gear.installer-catip.surf^
 ✅ HOSTS 转换: 127.0.0.1 geo-0ffer.chi8nondanyl.surf → |geo-0ffer.chi8nondanyl.surf^
 ✅ HOSTS 转换: 127.0.0.1 geo-foundation.vg → |geo-foundation.vg^
@@ -69864,6 +69881,7 @@
 ✅ HOSTS 转换: 127.0.0.1 hold8taskhub.piva1save.surf → |hold8taskhub.piva1save.surf^
 ✅ HOSTS 转换: 127.0.0.1 homecaremovers.com → |homecaremovers.com^
 ✅ HOSTS 转换: 127.0.0.1 host.anythin8weaned.surf → |host.anythin8weaned.surf^
+✅ HOSTS 转换: 127.0.0.1 host.darkstonebase.lat → |host.darkstonebase.lat^
 ✅ HOSTS 转换: 127.0.0.1 host.urbanflowbase.lat → |host.urbanflowbase.lat^
 ✅ HOSTS 转换: 127.0.0.1 hostunitgate.neto7cloud.surf → |hostunitgate.neto7cloud.surf^
 ✅ HOSTS 转换: 127.0.0.1 hotellacastellana.com.uy → |hotellacastellana.com.uy^
@@ -69889,7 +69907,6 @@
 ✅ HOSTS 转换: 127.0.0.1 itssprout.com → |itssprout.com^
 ✅ HOSTS 转换: 127.0.0.1 izocab.com → |izocab.com^
 ✅ HOSTS 转换: 127.0.0.1 izogard.com → |izogard.com^
-✅ HOSTS 转换: 127.0.0.1 jawaratekno.com → |jawaratekno.com^
 ✅ HOSTS 转换: 127.0.0.1 jazz.oceanwavepoint.lat → |jazz.oceanwavepoint.lat^
 ✅ HOSTS 转换: 127.0.0.1 jin.com.my → |jin.com.my^
 ✅ HOSTS 转换: 127.0.0.1 jlwz.cn → |jlwz.cn^
@@ -69907,6 +69924,7 @@
 ✅ HOSTS 转换: 127.0.0.1 key.puregoldkey.lat → |key.puregoldkey.lat^
 ✅ HOSTS 转换: 127.0.0.1 khoancatbetong89.vn → |khoancatbetong89.vn^
 ✅ HOSTS 转换: 127.0.0.1 kick.boldfirestep.lat → |kick.boldfirestep.lat^
+✅ HOSTS 转换: 127.0.0.1 kick.brightskycore.lat → |kick.brightskycore.lat^
 ✅ HOSTS 转换: 127.0.0.1 kick.installer-catip.surf → |kick.installer-catip.surf^
 ✅ HOSTS 转换: 127.0.0.1 kilo.casino-fascin.surf → |kilo.casino-fascin.surf^
 ✅ HOSTS 转换: 127.0.0.1 kimyen.net → |kimyen.net^
@@ -69935,6 +69953,7 @@
 ✅ HOSTS 转换: 127.0.0.1 lindnerelektroanlagen.de → |lindnerelektroanlagen.de^
 ✅ HOSTS 转换: 127.0.0.1 link.anythin8weaned.surf → |link.anythin8weaned.surf^
 ✅ HOSTS 转换: 127.0.0.1 link.darknightstar.lat → |link.darknightstar.lat^
+✅ HOSTS 转换: 127.0.0.1 link.darkstonebase.lat → |link.darkstonebase.lat^
 ✅ HOSTS 转换: 127.0.0.1 link1taskhub.sora5link.surf → |link1taskhub.sora5link.surf^
 ✅ HOSTS 转换: 127.0.0.1 link2logicway.deno2link.surf → |link2logicway.deno2link.surf^
 ✅ HOSTS 转换: 127.0.0.1 linkmeshnode.mori9port.surf → |linkmeshnode.mori9port.surf^
@@ -69976,7 +69995,6 @@
 ✅ HOSTS 转换: 127.0.0.1 merfluxar4.notice-ohlamon.surf → |merfluxar4.notice-ohlamon.surf^
 ✅ HOSTS 转换: 127.0.0.1 mernexex.vori7nex.surf → |mernexex.vori7nex.surf^
 ✅ HOSTS 转换: 127.0.0.1 meta.monop-oriental.surf → |meta.monop-oriental.surf^
-✅ HOSTS 转换: 127.0.0.1 metrics.gocloudmaps.com → |metrics.gocloudmaps.com^
 ✅ HOSTS 转换: 127.0.0.1 mgtms.cc → |mgtms.cc^
 ✅ HOSTS 转换: 127.0.0.1 mist.sculpture5traight.surf → |mist.sculpture5traight.surf^
 ✅ HOSTS 转换: 127.0.0.1 mistralkorea.ru → |mistralkorea.ru^
@@ -70060,6 +70078,7 @@
 ✅ HOSTS 转换: 127.0.0.1 point.archiv-checkered.surf → |point.archiv-checkered.surf^
 ✅ HOSTS 转换: 127.0.0.1 pointhostunit.nexo7peak.surf → |pointhostunit.nexo7peak.surf^
 ✅ HOSTS 转换: 127.0.0.1 polonyauniversiteleri.com.tr → |polonyauniversiteleri.com.tr^
+✅ HOSTS 转换: 127.0.0.1 poon.solidstonecore.lat → |poon.solidstonecore.lat^
 ✅ HOSTS 转换: 127.0.0.1 port.coldwindy.lat → |port.coldwindy.lat^
 ✅ HOSTS 转换: 127.0.0.1 portmeshnode.sora5link.surf → |portmeshnode.sora5link.surf^
 ✅ HOSTS 转换: 127.0.0.1 postelnini.mk → |postelnini.mk^
@@ -70073,11 +70092,13 @@
 ✅ HOSTS 转换: 127.0.0.1 public.demo.securecloudsandbox.com → |public.demo.securecloudsandbox.com^
 ✅ HOSTS 转换: 127.0.0.1 pulse.fiverfle8ma.surf → |pulse.fiverfle8ma.surf^
 ✅ HOSTS 转换: 127.0.0.1 pulse.silverwoodhub.lat → |pulse.silverwoodhub.lat^
+✅ HOSTS 转换: 127.0.0.1 pure.magicflowpoint.lat → |pure.magicflowpoint.lat^
 ✅ HOSTS 转换: 127.0.0.1 pure.magicgoldlogic.lat → |pure.magicgoldlogic.lat^
 ✅ HOSTS 转换: 127.0.0.1 pure.puregoldkey.lat → |pure.puregoldkey.lat^
 ✅ HOSTS 转换: 127.0.0.1 pure4siteview.mero2beam.surf → |pure4siteview.mero2beam.surf^
 ✅ HOSTS 转换: 127.0.0.1 pure8siteview.neto7cloud.surf → |pure8siteview.neto7cloud.surf^
 ✅ HOSTS 转换: 127.0.0.1 pureneu.handker-unicamer.surf → |pureneu.handker-unicamer.surf^
+✅ HOSTS 转换: 127.0.0.1 qanti.solidstonecore.lat → |qanti.solidstonecore.lat^
 ✅ HOSTS 转换: 127.0.0.1 qiniuyunxz.yxflzs.com → |qiniuyunxz.yxflzs.com^
 ✅ HOSTS 转换: 127.0.0.1 quant.fiverfle8ma.surf → |quant.fiverfle8ma.surf^
 ✅ HOSTS 转换: 127.0.0.1 quej77v5.acce1eratpacify.digital → |quej77v5.acce1eratpacify.digital^
@@ -70149,6 +70170,7 @@
 ✅ HOSTS 转换: 127.0.0.1 silverhost.vg → |silverhost.vg^
 ✅ HOSTS 转换: 127.0.0.1 site-view3.sarahkapsreit.work → |site-view3.sarahkapsreit.work^
 ✅ HOSTS 转换: 127.0.0.1 site.greenforestsky.lat → |site.greenforestsky.lat^
+✅ HOSTS 转换: 127.0.0.1 site.wintercoldlab.lat → |site.wintercoldlab.lat^
 ✅ HOSTS 转换: 127.0.0.1 site7siteview.tavi8grid.surf → |site7siteview.tavi8grid.surf^
 ✅ HOSTS 转换: 127.0.0.1 site8siteview.colorist-resignat.bet → |site8siteview.colorist-resignat.bet^
 ✅ HOSTS 转换: 127.0.0.1 site8siteview.felo7zone.surf → |site8siteview.felo7zone.surf^
@@ -70156,9 +70178,11 @@
 ✅ HOSTS 转换: 127.0.0.1 sk-comtel.com → |sk-comtel.com^
 ✅ HOSTS 转换: 127.0.0.1 skip.urbanflowbase.lat → |skip.urbanflowbase.lat^
 ✅ HOSTS 转换: 127.0.0.1 sky.brightsunray.lat → |sky.brightsunray.lat^
+✅ HOSTS 转换: 127.0.0.1 sky.magicflowpoint.lat → |sky.magicflowpoint.lat^
 ✅ HOSTS 转换: 127.0.0.1 sky4meshnode.neto7cloud.surf → |sky4meshnode.neto7cloud.surf^
 ✅ HOSTS 转换: 127.0.0.1 slowmeshnode.kali9drift.surf → |slowmeshnode.kali9drift.surf^
 ✅ HOSTS 转换: 127.0.0.1 smartermail.host → |smartermail.host^
+✅ HOSTS 转换: 127.0.0.1 snap.brightskycore.lat → |snap.brightskycore.lat^
 ✅ HOSTS 转换: 127.0.0.1 snap.installer-catip.surf → |snap.installer-catip.surf^
 ✅ HOSTS 转换: 127.0.0.1 soft.110route.com → |soft.110route.com^
 ✅ HOSTS 转换: 127.0.0.1 softcatalog.ru → |softcatalog.ru^
@@ -70174,6 +70198,7 @@
 ✅ HOSTS 转换: 127.0.0.1 srv.clearviewcloud.lat → |srv.clearviewcloud.lat^
 ✅ HOSTS 转换: 127.0.0.1 srv.physiolpo1icy.lat → |srv.physiolpo1icy.lat^
 ✅ HOSTS 转换: 127.0.0.1 star.darknightstar.lat → |star.darknightstar.lat^
+✅ HOSTS 转换: 127.0.0.1 star.magicflowpoint.lat → |star.magicflowpoint.lat^
 ✅ HOSTS 转换: 127.0.0.1 star4taskhub.nexo7peak.surf → |star4taskhub.nexo7peak.surf^
 ✅ HOSTS 转换: 127.0.0.1 starthostunit.colorfu1prep.bet → |starthostunit.colorfu1prep.bet^
 ✅ HOSTS 转换: 127.0.0.1 stat.fastworknode.lat → |stat.fastworknode.lat^
@@ -70256,6 +70281,7 @@
 ✅ HOSTS 转换: 127.0.0.1 upchemicals.co.in → |upchemicals.co.in^
 ✅ HOSTS 转换: 127.0.0.1 upd-naum.bnaumann87.work → |upd-naum.bnaumann87.work^
 ✅ HOSTS 转换: 127.0.0.1 upd.greenforestsky.lat → |upd.greenforestsky.lat^
+✅ HOSTS 转换: 127.0.0.1 upd.wintercoldlab.lat → |upd.wintercoldlab.lat^
 ✅ HOSTS 转换: 127.0.0.1 update.cg100iii.com → |update.cg100iii.com^
 ✅ HOSTS 转换: 127.0.0.1 update.volam2005pk.com → |update.volam2005pk.com^
 ✅ HOSTS 转换: 127.0.0.1 user-portal.rolfgrassinger.work → |user-portal.rolfgrassinger.work^
@@ -70266,7 +70292,6 @@
 ✅ HOSTS 转换: 127.0.0.1 valfanto.com → |valfanto.com^
 ✅ HOSTS 转换: 127.0.0.1 vast2pathgate.neto7cloud.surf → |vast2pathgate.neto7cloud.surf^
 ✅ HOSTS 转换: 127.0.0.1 vault.magicgoldlogic.lat → |vault.magicgoldlogic.lat^
-✅ HOSTS 转换: 127.0.0.1 vcc-library.uk → |vcc-library.uk^
 ✅ HOSTS 转换: 127.0.0.1 vector.archiv-checkered.surf → |vector.archiv-checkered.surf^
 ✅ HOSTS 转换: 127.0.0.1 vellithon1.fina1vrub.surf → |vellithon1.fina1vrub.surf^
 ✅ HOSTS 转换: 127.0.0.1 verification-cdn-cloud.beer → |verification-cdn-cloud.beer^
@@ -70277,6 +70302,7 @@
 ✅ HOSTS 转换: 127.0.0.1 videomeetgoogle.com → |videomeetgoogle.com^
 ✅ HOSTS 转换: 127.0.0.1 view.brightskyway.lat → |view.brightskyway.lat^
 ✅ HOSTS 转换: 127.0.0.1 view.brightsunray.lat → |view.brightsunray.lat^
+✅ HOSTS 转换: 127.0.0.1 view.magicflowpoint.lat → |view.magicflowpoint.lat^
 ✅ HOSTS 转换: 127.0.0.1 view2siteview.nexo7peak.surf → |view2siteview.nexo7peak.surf^
 ✅ HOSTS 转换: 127.0.0.1 view3logicway.karo3view.surf → |view3logicway.karo3view.surf^
 ✅ HOSTS 转换: 127.0.0.1 vincentdemiero.com → |vincentdemiero.com^
@@ -70379,6 +70405,7 @@
 ✅ HOSTS 转换: 127.0.0.1 zhigao5191.com → |zhigao5191.com^
 ✅ HOSTS 转换: 127.0.0.1 zone5pathgate.tavi8grid.surf → |zone5pathgate.tavi8grid.surf^
 ✅ HOSTS 转换: 127.0.0.1 zone7logicnet.felo7zone.surf → |zone7logicnet.felo7zone.surf^
+✅ HOSTS 转换: 127.0.0.1 zoom.brightskycore.lat → |zoom.brightskycore.lat^
 ✅ HOSTS 转换: 127.0.0.1 zoom.installer-catip.surf → |zoom.installer-catip.surf^
 ✅ HOSTS 转换: 127.0.0.1 zycdjz.com → |zycdjz.com^
 ✅ HOSTS 转换: 127.0.0.1 0ce3c-1fd43.api.pushwoosh.com → |0ce3c-1fd43.api.pushwoosh.com^
