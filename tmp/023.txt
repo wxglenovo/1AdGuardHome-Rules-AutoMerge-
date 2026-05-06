@@ -4933,6 +4933,7 @@ _social_footer_
 ||people.com.cn/img/2020fenxiang/
 ||shbarcelona.com/img/socialnetwork/
 iflscience.com###FollowOnGoogleNewsBtn
+sfgate.com###HP-Sig-ChronFunds
 rockmods.net###LinkList76
 vnews.com###NNEsharearea
 catholicculture.org###SM_area
@@ -5085,6 +5086,7 @@ fia.com###page-pre-footer
 seohorsesense.com###panel-3
 mondediplo.com###partage
 loveandlemons.com###pinthispage
+globenewswire.com###pnr-global-social-media-sidebar-section
 jacobin.com###post-footer-share
 jacobin.com###post-header-share
 mediaite.com###post-social
@@ -8962,6 +8964,7 @@ miruro.*##section[class^="_noticeSection_"]
 |therover.ca##.social-icons
 |thetoyinsider.com##.social-icons
 |thewindowsclub.com##.social-icons
+|ticketnews.com##.social-icons
 |trtafrika.com##.social-icons
 |trtarabi.com##.social-icons
 |trtbalkan.com##.social-icons
@@ -13567,6 +13570,7 @@ mrcutout.com###__MRCUTOUT_ANALYTICS_AGREEMENT
 |letsplayuno.com###__mt163__cookie
 |mattel163.com###__mt163__cookie
 raspberrypi.com###__rptl-cookiebanner
+swissair.com###__tealiumGDPRcpPrefs
 ups.com###__tealiumImplicitmodal
 coloradocollege.edu###_pc
 tuya.com###_th-trust
@@ -14004,6 +14008,7 @@ pdfprof.com###dddhh
 universitysupplystore.com###demo-overlay
 filmon.com###design-switcher
 alliancefrancaise.ca###dialogbox_cookiepolicy
+hd.se###didomi-popup
 innovaphone.com###disableBackground
 claridges.com###disc-bg
 one-line.com###disclaimer-bar
@@ -14122,6 +14127,7 @@ flyscoot.com###gdpr-portal-root
 food52.com###gdprBannerRoot
 sync.com###gdprConsent
 wallarm.com###gdpr_banner_container
+koncert.zeneakademia.hu###gdpr_box
 korg.com###gdpr_container
 |flooringfirst.co.uk###gdpr_cookie-mainWrapp
 |flooringsuppliescentre.co.uk###gdpr_cookie-mainWrapp
@@ -14625,6 +14631,7 @@ spiceworks.com###zdprivacy-content-new
 |buildship.com##.--framer-cookie-banner-container
 |bunq.com##.--framer-cookie-banner-container
 |coworker.ai##.--framer-cookie-banner-container
+|daytona.io##.--framer-cookie-banner-container
 |enhanced.com##.--framer-cookie-banner-container
 |fitanalytics.com##.--framer-cookie-banner-container
 |framer.com##.--framer-cookie-banner-container
@@ -15203,6 +15210,7 @@ viralnova.com##.cc-banner
 |coopsleepgoods.com##.cc-bottom
 |dirdirect.com##.cc-bottom
 |koodous.com##.cc-bottom
+|mayhew.com##.cc-bottom
 |nuts.com##.cc-bottom
 |rotapanel.com##.cc-bottom
 speedof.me##.cc-consent-toast
@@ -15978,7 +15986,8 @@ themeflood.com##.gatewayContainer
 outdoorgb.com##.gb_cookie_info
 greatbigcanvas.com##.gbc-notifications
 audi.com##.gbp-overlay
-petercallandermd.com##.gdpCookie
+|athospatsalidesmd.com##.gdpCookie
+|petercallandermd.com##.gdpCookie
 leapyear.io##.gdpr--modal
 |brainandlife.org##.gdpr-alert
 |thebaffler.com##.gdpr-alert
@@ -16293,7 +16302,8 @@ ibei.org##.messages
 foreignaffairs.com##.messages--container--bottom
 met.com##.met-cookie
 metrobankonline.co.uk##.metro-cookiebar__block
-muffingroup.com##.mfn-cookies
+|muffingroup.com##.mfn-cookies
+|syoncon.com##.mfn-cookies
 malaysiaairlines.com##.mfp-bg
 malaysiaairlines.com##.mfp-wrap
 |mercedes-benz-bus.com##.mgs-cookie
@@ -17068,6 +17078,7 @@ warthunder.com##.wt-cb
 |ombudsman.europa.eu##.wt-cck--banner
 |op.europa.eu##.wt-cck--banner
 waterfordwhispersnews.com##.wwn-gdpr-modal
+freudtools.com##.x-consent
 spoonflower.com##.x-global-dialog
 eneba.com##.xIPhuO
 xterraplanet.com##.xt-ccokie-container
@@ -17102,6 +17113,7 @@ khanacademy.org##[aria-label="Notification Banner"]
 |tesco.*##[aria-label="consent-banner"]
 perlego.com##[aria-label="cookie banner"]
 app.joinknack.com##[aria-label="cookie consent banner"]
+mangooutlet.com##[aria-labelledby="cbanner-title"]
 app.wooclap.com##[aria-labelledby="cookie-banner-title"]
 footium.club##[aria-labelledby="cookieConsentHeading"]
 weedmaps.com##[aria-labelledby="notification_label"]
@@ -17123,9 +17135,11 @@ app.revolut.com##[class^="Overlay__OverlayBase-sc-"]
 signin.rockstargames.com##[class^="RockstarCookiesBanner_"]
 shein.com##[class^="_shein_privacy_"]
 omio.com##[class^="app-container-"]
+dotwatcher.cc##[class^="consentModal"]
 visartech.com##[class^="cookie-banner-"]
 rsdelivers.com##[class^="cookie-policy-component_"]
 content.techgig.com##[class^="gdpr-info"]
+letsdeal.se##[class^="gdpr-overlay"]
 bybit.com##[class^="style_gdpr"]
 underarmour.com##[class^="trustarc_consent"]
 myworkdayjobs.com##[data-automation-id="legalNotice"]
@@ -17823,6 +17837,7 @@ sogeti.*###popup-cookieConsent
 |advancedsciencenews.com##.osano-cm-window
 |americastestkitchen.com##.osano-cm-window
 |bitwarden.com##.osano-cm-window
+|lucidchart.com##.osano-cm-window
 |midnight.gd##.osano-cm-window
 |scribd.com##.osano-cm-window
 |sonesta.com##.osano-cm-window
@@ -18752,6 +18767,7 @@ sklepmartes.pl##.mst-gdpr__cookie-bar-overlay
 |aisi.gov.uk##.cookie-wrapper
 |azzas2154.com.br##.cookie-wrapper
 |bisecthosting.com##.cookie-wrapper
+|differentpharm.com##.cookie-wrapper
 |mrpsport.com##.cookie-wrapper
 |pickmypostcode.com##.cookie-wrapper
 |bdsi.de##.cc
@@ -21542,6 +21558,7 @@ decovarrubias.es###sliding-popup-cookies
 |osa.cz##.cookie-consent
 |oviahealth.com##.cookie-consent
 |pastelink.net##.cookie-consent
+|patentpc.com##.cookie-consent
 |peoplematters.in##.cookie-consent
 |plmxpert.nl##.cookie-consent
 |podcast.de##.cookie-consent
@@ -24336,6 +24353,7 @@ royalpanda.com##.MuiContainer-maxWidthMd
 |abnamro.com###__tealiumGDPRecModal
 |abnamro.nl###__tealiumGDPRecModal
 |aktion-mensch.de###__tealiumGDPRecModal
+|andyweirauthor.com###__tealiumGDPRecModal
 |avis.fr###__tealiumGDPRecModal
 |bahia-principe.com###__tealiumGDPRecModal
 |bahiaprinciperesidences.com###__tealiumGDPRecModal
@@ -37311,6 +37329,7 @@ alfafit.eu###info_cookies
 |lankes-zirndorf.de###infobar
 jazzkeller69.de###jkjazzWidget
 dasgibtesnureinmal.de###jm-head
+voelkner.de###js_84fa0b8c9d7da99d162659e11c5e4028_container
 newslichter.de###karmaSplash
 look-one.de###keks
 spaness.de###kekt-overlay
@@ -37613,6 +37632,9 @@ pfister.ch##.gTHyyR
 topfit-badgriesbach.de##.gatewayBar
 delano.de##.gatewayContainer
 delano.de##.gatewayWindowShade
+|dasdie.de##.gdprcookie
+|policija.si##.gdprcookie
+|zamunda.net##.gdprcookie
 |as-bremen.de##.gedepiar-info
 |channel21.de##.gedepiar-info
 hygienical.de##.gewerbe-info
@@ -37763,6 +37785,7 @@ mibaby.de##.overlay_buddy
 querstarter.de##.page-lock
 |avl-ludwigsburg.de##.page-overlay
 |packster.de##.page-overlay
+hockeyshop-koeln.de##.page-wrap--cookie-permission
 sport2000rent.com##.pageOverlay
 tchibo.de##.pageloading-mask
 |hollaus-it.at##.pcb
@@ -39462,6 +39485,7 @@ takarashuzo.co.jp##.cookie-confirm
 more.hpplus.jp##.cookie-inquiry
 beforward.jp##.cookie-permission
 camp-fire.jp##.cookie-policy-agreement-notification
+balladofantara.com##.cookie-tips-container
 his-mobile.com##.cookieagree
 kani-honke.co.jp##.cookiediag
 octoparse.jp##.cookies_cookies__dWLfO
@@ -43454,6 +43478,7 @@ cryptopolitan.com###cp-newsletter-block
 marketbeat.com###cphPrimaryContent_pnlCTARowOptin
 marketbeat.com###cphPrimaryContent_pnlSidebarBoxOptin
 cryptoslate.com###cs-newsletter
+physicsworldjobs.com###cta-right-column
 davidlebovitz.com###ctabar
 washingtonmonthly.com###ctct_form-2
 curiosmos.com###curiosmosnewsletter_widget-2
@@ -44575,6 +44600,7 @@ thepostmillennial.com##.card-body
 finbold.com##.card-subscribe
 depthfirst.com##.case-study_sticky_email_wrap
 claimdepot.com##.case_newsletter
+ticketnews.com##.categories-widget.sidebar-widget
 neowin.net##.category-bar
 |clinicaltrialsarena.com##.catfish
 |cranestodaymagazine.com##.catfish
@@ -45076,6 +45102,7 @@ flytrippers.com##.ft-email-box
 politicshome.com##.ftr-subsWrap
 etonline.com##.full-bleed-newsletter
 thebrokebackpacker.com##.full-width-cta
+physicsworld.com##.fullwidth-newsletter-sign-up
 physicsworld.com##.fullwidth-newsletter-sign-up__email
 thriftytraveler.com##.g
 shueisha.online##.g-regist-banner
@@ -45574,6 +45601,7 @@ tutorialslink.com##.n-subscribe-footer
 thespinoff.co.nz##.native-newsletter-signup
 nationalinterest.org##.nav__mag
 thetech.com##.navbar-feedback
+npr.org##.navigation__newsletters
 |asweetpeachef.com##.needsclick[aria-label][style]
 |biggerbolderbaking.com##.needsclick[aria-label][style]
 |blackoutcoffee.com##.needsclick[aria-label][style]
