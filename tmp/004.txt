@@ -19680,12 +19680,16 @@ bejson.com##div[id^="shuangshi"]
 bejson.com##img[src^="data"]
 ||bing.com/AdsFetch?
 bing.com##.OpInNwWndw
+cn.bing.com##.b_bza_pole
 bing.com##.b_algo:has(.ad_esltitle)
 bing.com##.b_algo:has(.b_ads1line)
 bing.com##li[class="b_algo"]:has(.b_attribution[data-partnertag]+p[class])
 bing.com##.sb_form_placeholder:has(>.ad-ghost-slug)
 bing.com###b_results > li:has(.b_adProvider)
-cn.bing.com##.b_bza_pole
+|bing.com##.b_algo:has(p[style="display: none !important;"])
+|~www.bing.com##.b_algo:has(p[style="display: none !important;"])
+|bing.com#?#.b_algo p:-abp-properties(display: inline-block;)
+|~www.bing.com#?#.b_algo p:-abp-properties(display: inline-block;)
 bingfeng.tw###adbt
 bingfeng.tw##.wow-ad-link
 |boylov.xyz###fake_avivid_waterfall_webpush
