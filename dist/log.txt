@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-05-07T10:47:32.400Z
+🚫 去掉注释行: ! Last modified: 2026-05-07T15:14:21.480Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -898,6 +898,14 @@
 🚫 去掉注释行: ! Source: https://adguardteam.github.io/AdguardFilters/CyrillicFilters/common-sections/adservers_firstparty.txt
 🚫 去掉注释行: !
 🚫 去掉注释行: !
+🚫 去掉注释行: ! This section contains the list of advertising networks domains, which are hosted on non advertising sites as subdomains.
+🚫 去掉注释行: ! Note, that we only put rules that block full subdomains here and not URL parts (there's `general_url.txt` for that).
+🚫 去掉注释行: !
+🚫 去掉注释行: ! Good: ||ad.doubleclick.net^
+🚫 去掉注释行: ! Bad: /banner.jpg (should be in general_url.txt)
+🚫 去掉注释行: ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
+🚫 去掉注释行: !
+🚫 去掉注释行: !
 🚫 去掉注释行: ! Source name: AdGuard Russian filter ad servers first-party
 🚫 去掉注释行: ! Source: https://adguardteam.github.io/AdguardFilters/CyrillicFilters/RussianFilter/sections/adservers_firstparty.txt
 🚫 去掉注释行: !
@@ -1576,10 +1584,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 101326
-🚫 去掉注释行: ! Checksum: LSDqGomwW3PiIyMuY4cqbw
-🚫 去掉注释行: ! Version: 202605071201
+🚫 去掉注释行: ! Checksum: VN9fqw7KV9p7NMLFdOP6Qw
+🚫 去掉注释行: ! Version: 202605071502
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 07 May 2026 12:01 UTC
+🚫 去掉注释行: ! Last modified: 07 May 2026 15:02 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -24846,10 +24854,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: wssRzwFbrhwMcQ1P3lJZPA
-🚫 去掉注释行: ! Version: 202605071212
+🚫 去掉注释行: ! Checksum: w2EDdF48BKmCtHW4WWgzKQ
+🚫 去掉注释行: ! Version: 202605071502
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 07 May 2026 12:12 UTC
+🚫 去掉注释行: ! Last modified: 07 May 2026 15:02 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29449,10 +29457,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: Uwo1O/xe1DEjdTgEU0vWdg
-🚫 去掉注释行: ! Version: 202605071212
+🚫 去掉注释行: ! Checksum: MiL7RPWwK2u24q4ZStnhKw
+🚫 去掉注释行: ! Version: 202605071502
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 07 May 2026 12:12 UTC
+🚫 去掉注释行: ! Last modified: 07 May 2026 15:02 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29911,6 +29919,8 @@
 🚫 去掉注释行: ! Company name: AD EBiS https://github.com/AdguardTeam/cname-trackers/blob/master/data/trackers/ad-ebis.txt
 🚫 去掉注释行: !
 🚫 去掉注释行: ! ebis.ne.jp disguised trackers
+🚫 去掉注释行: ! Disabled:
+🚫 去掉注释行: ! ||ad.kddi-fs.com^
 🚫 去掉注释行: !
 🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_specific_cname_eulerian.txt ***
 🚫 去掉注释行: ! easyprivacy_specific_cname_eulerian.txt
@@ -30119,11 +30129,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202605071214
+🚫 去掉注释行: ! Version: 202605071444
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 07 May 2026 12:14 UTC
+🚫 去掉注释行: ! Last modified: 07 May 2026 14:44 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 33ce20435590d62b2c6f28fe59772e8578ff47b6
+🚫 去掉注释行: ! Commit: fa4069c02e1e7649a38f3ffdd963a0dc84fbf933
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -53425,11 +53435,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202605071214
+🚫 去掉注释行: ! Version: 202605071510
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 07 May 2026 12:14 UTC
+🚫 去掉注释行: ! Last modified: 07 May 2026 15:10 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 33ce20435590d62b2c6f28fe59772e8578ff47b6
+🚫 去掉注释行: ! Commit: 398aad8c91fb85fd4f379801f7539aaf946bd08e
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -69548,10 +69558,10 @@
 🚫 去掉注释行: ! Issues: https://github.com/hagezi/dns-blocklists/issues
 🚫 去掉注释行: ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 🚫 去掉注释行: ! Expires: 1 day
-🚫 去掉注释行: ! Last modified: 06 May 2026 18:23 UTC
-🚫 去掉注释行: ! Version: 2026.0506.1823.24
+🚫 去掉注释行: ! Last modified: 07 May 2026 09:08 UTC
+🚫 去掉注释行: ! Version: 2026.0507.0908.07
 🚫 去掉注释行: ! Syntax: AdBlock
-🚫 去掉注释行: ! Number of entries: 66468
+🚫 去掉注释行: ! Number of entries: 65746
 🚫 去掉注释行: !
 🚫 去掉注释行: !Title: anti-AD for AdGuard
 🚫 去掉注释行: !Version: 20260506103616192247540
@@ -69572,23 +69582,28 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !Generated: 2026-05-07 18:53:27
-🚫 去掉注释行: !RuleCount: 1788914
+🚫 去掉注释行: !Generated: 2026-05-07 20:28:15
+🚫 去掉注释行: !RuleCount: 1786304
 ✅ HOSTS 转换: 127.0.0.1 0022a601.pphost.net → |0022a601.pphost.net^
 ✅ HOSTS 转换: 127.0.0.1 111101111.ru → |111101111.ru^
 ✅ HOSTS 转换: 127.0.0.1 1717.1000uc.com → |1717.1000uc.com^
 ✅ HOSTS 转换: 127.0.0.1 176.65.149.223.ptr.pfcloud.network → |176.65.149.223.ptr.pfcloud.network^
+✅ HOSTS 转换: 127.0.0.1 30vw.mav8loren.lat → |30vw.mav8loren.lat^
+✅ HOSTS 转换: 127.0.0.1 3ohr8brt.qen2virex.lat → |3ohr8brt.qen2virex.lat^
 ✅ HOSTS 转换: 127.0.0.1 4dapt3-node.pavlore9.surf → |4dapt3-node.pavlore9.surf^
 ✅ HOSTS 转换: 127.0.0.1 50cia8-route.3toravix.lat → |50cia8-route.3toravix.lat^
 ✅ HOSTS 转换: 127.0.0.1 5cri-logic.xamir3on.lat → |5cri-logic.xamir3on.lat^
 ✅ HOSTS 转换: 127.0.0.1 5dk-array.tavro6xel.lat → |5dk-array.tavro6xel.lat^
 ✅ HOSTS 转换: 127.0.0.1 5parr-forge.torex5lin.surf → |5parr-forge.torex5lin.surf^
+✅ HOSTS 转换: 127.0.0.1 5t4g3-port.3toravix.lat → |5t4g3-port.3toravix.lat^
 ✅ HOSTS 转换: 127.0.0.1 5udd-signal.qen9varol.lat → |5udd-signal.qen9varol.lat^
+✅ HOSTS 转换: 127.0.0.1 75aohwq.qen2virex.lat → |75aohwq.qen2virex.lat^
 ✅ HOSTS 转换: 127.0.0.1 7m5mdmsm.qeniral8.surf → |7m5mdmsm.qeniral8.surf^
 ✅ HOSTS 转换: 127.0.0.1 8rvi.noopcup.surf → |8rvi.noopcup.surf^
 ✅ HOSTS 转换: 127.0.0.1 9sgsurs.vexon3ar.surf → |9sgsurs.vexon3ar.surf^
 ✅ HOSTS 转换: 127.0.0.1 9thvfl.2zavlore.surf → |9thvfl.2zavlore.surf^
 ✅ HOSTS 转换: 127.0.0.1 a1ig-vector.vexon3ar.surf → |a1ig-vector.vexon3ar.surf^
+✅ HOSTS 转换: 127.0.0.1 aakrutitexture.in → |aakrutitexture.in^
 ✅ HOSTS 转换: 127.0.0.1 acaviationsupplies.com → |acaviationsupplies.com^
 ✅ HOSTS 转换: 127.0.0.1 acc.jiangsujiaxue.com → |acc.jiangsujiaxue.com^
 ✅ HOSTS 转换: 127.0.0.1 access.skaparade.com → |access.skaparade.com^
@@ -69648,12 +69663,15 @@
 ✅ HOSTS 转换: 127.0.0.1 appsrch.fatovism-r2ccoon.lat → |appsrch.fatovism-r2ccoon.lat^
 ✅ HOSTS 转换: 127.0.0.1 appsrch.filipen-typograp.lat → |appsrch.filipen-typograp.lat^
 ✅ HOSTS 转换: 127.0.0.1 appsrch.lorex7in.surf → |appsrch.lorex7in.surf^
+✅ HOSTS 转换: 127.0.0.1 appsrch.openlinksys.lat → |appsrch.openlinksys.lat^
 ✅ HOSTS 转换: 127.0.0.1 appsrch.ultrashiftnet.surf → |appsrch.ultrashiftnet.surf^
 ✅ HOSTS 转换: 127.0.0.1 appsrch.zooblob.surf → |appsrch.zooblob.surf^
 ✅ HOSTS 转换: 127.0.0.1 ardena.pro → |ardena.pro^
 ✅ HOSTS 转换: 127.0.0.1 areyouready.co.za → |areyouready.co.za^
+✅ HOSTS 转换: 127.0.0.1 arkdraor.mav8loren.lat → |arkdraor.mav8loren.lat^
 ✅ HOSTS 转换: 127.0.0.1 arkvenex1.godjava.surf → |arkvenex1.godjava.surf^
 ✅ HOSTS 转换: 127.0.0.1 arra-track.5dorexin.lat → |arra-track.5dorexin.lat^
+✅ HOSTS 转换: 127.0.0.1 atasapka.com.tr → |atasapka.com.tr^
 ✅ HOSTS 转换: 127.0.0.1 audicontadores.com → |audicontadores.com^
 ✅ HOSTS 转换: 127.0.0.1 augsburg-auto.com → |augsburg-auto.com^
 ✅ HOSTS 转换: 127.0.0.1 aumri.ae → |aumri.ae^
@@ -69669,7 +69687,6 @@
 ✅ HOSTS 转换: 127.0.0.1 autboxs.plsqlnew.surf → |autboxs.plsqlnew.surf^
 ✅ HOSTS 转换: 127.0.0.1 autboxs.primeflowspace.surf → |autboxs.primeflowspace.surf^
 ✅ HOSTS 转换: 127.0.0.1 autboxs.softworkapi.lat → |autboxs.softworkapi.lat^
-✅ HOSTS 转换: 127.0.0.1 autobaenasl.com → |autobaenasl.com^
 ✅ HOSTS 转换: 127.0.0.1 avbackup.acionline.de → |avbackup.acionline.de^
 ✅ HOSTS 转换: 127.0.0.1 axwq1.sorix7el.lat → |axwq1.sorix7el.lat^
 ✅ HOSTS 转换: 127.0.0.1 backupso.com → |backupso.com^
@@ -69692,6 +69709,7 @@
 ✅ HOSTS 转换: 127.0.0.1 bitkit.vexo3nar.surf → |bitkit.vexo3nar.surf^
 ✅ HOSTS 转换: 127.0.0.1 bitkit.vexon4al.surf → |bitkit.vexon4al.surf^
 ✅ HOSTS 转换: 127.0.0.1 bitkits.captive-portal.lat → |bitkits.captive-portal.lat^
+✅ HOSTS 转换: 127.0.0.1 bitkits.linkdevbase.lat → |bitkits.linkdevbase.lat^
 ✅ HOSTS 转换: 127.0.0.1 bitkits.portcry.surf → |bitkits.portcry.surf^
 ✅ HOSTS 转换: 127.0.0.1 bitkits.quantumtechbox.surf → |bitkits.quantumtechbox.surf^
 ✅ HOSTS 转换: 127.0.0.1 bitkits.sorix9el.surf → |bitkits.sorix9el.surf^
@@ -69725,8 +69743,8 @@
 ✅ HOSTS 转换: 127.0.0.1 chat-server.maverickpreviews.com → |chat-server.maverickpreviews.com^
 ✅ HOSTS 转换: 127.0.0.1 checkinetverifk.com → |checkinetverifk.com^
 ✅ HOSTS 转换: 127.0.0.1 chinaapper.com → |chinaapper.com^
-✅ HOSTS 转换: 127.0.0.1 chiptune.com → |chiptune.com^
 ✅ HOSTS 转换: 127.0.0.1 chungminhtaichinhsaigon.net → |chungminhtaichinhsaigon.net^
+✅ HOSTS 转换: 127.0.0.1 ciabjdb.mav8loren.lat → |ciabjdb.mav8loren.lat^
 ✅ HOSTS 转换: 127.0.0.1 cirshift.portcry.surf → |cirshift.portcry.surf^
 ✅ HOSTS 转换: 127.0.0.1 cl.ssouy.com → |cl.ssouy.com^
 ✅ HOSTS 转换: 127.0.0.1 clipaid.app → |clipaid.app^
@@ -69759,6 +69777,7 @@
 ✅ HOSTS 转换: 127.0.0.1 comwebs.pav8lorex.lat → |comwebs.pav8lorex.lat^
 ✅ HOSTS 转换: 127.0.0.1 comwebs.plsqlnew.surf → |comwebs.plsqlnew.surf^
 ✅ HOSTS 转换: 127.0.0.1 comwebs.primeflowspace.surf → |comwebs.primeflowspace.surf^
+✅ HOSTS 转换: 127.0.0.1 comwebs.softworkapi.lat → |comwebs.softworkapi.lat^
 ✅ HOSTS 转换: 127.0.0.1 contentmentfairnesspesky.com → |contentmentfairnesspesky.com^
 ✅ HOSTS 转换: 127.0.0.1 controliumbt.com → |controliumbt.com^
 ✅ HOSTS 转换: 127.0.0.1 cor38-loop.7lorexan.surf → |cor38-loop.7lorexan.surf^
@@ -69778,10 +69797,8 @@
 ✅ HOSTS 转换: 127.0.0.1 crystalpvp.ru → |crystalpvp.ru^
 ✅ HOSTS 转换: 127.0.0.1 crystalreef.vexon3ar.surf → |crystalreef.vexon3ar.surf^
 ✅ HOSTS 转换: 127.0.0.1 cs.go.kg → |cs.go.kg^
-✅ HOSTS 转换: 127.0.0.1 csg-app.com → |csg-app.com^
 ✅ HOSTS 转换: 127.0.0.1 ct3-24.ru → |ct3-24.ru^
 ✅ HOSTS 转换: 127.0.0.1 d.14yaa.com → |d.14yaa.com^
-✅ HOSTS 转换: 127.0.0.1 d.wanyouxi7.com → |d.wanyouxi7.com^
 ✅ HOSTS 转换: 127.0.0.1 d3c0de-scope.xamir3on.lat → |d3c0de-scope.xamir3on.lat^
 ✅ HOSTS 转换: 127.0.0.1 damiancollier.com → |damiancollier.com^
 ✅ HOSTS 转换: 127.0.0.1 data.yhydl.com → |data.yhydl.com^
@@ -69841,6 +69858,7 @@
 ✅ HOSTS 转换: 127.0.0.1 doclab.vexo3nar.surf → |doclab.vexo3nar.surf^
 ✅ HOSTS 转换: 127.0.0.1 doclab.vexon4al.surf → |doclab.vexon4al.surf^
 ✅ HOSTS 转换: 127.0.0.1 doclabs.captive-portal.lat → |doclabs.captive-portal.lat^
+✅ HOSTS 转换: 127.0.0.1 doclabs.linkdevbase.lat → |doclabs.linkdevbase.lat^
 ✅ HOSTS 转换: 127.0.0.1 doclabs.portcry.surf → |doclabs.portcry.surf^
 ✅ HOSTS 转换: 127.0.0.1 doclabs.quantumtechbox.surf → |doclabs.quantumtechbox.surf^
 ✅ HOSTS 转换: 127.0.0.1 doclabs.smell-chat.lat → |doclabs.smell-chat.lat^
@@ -69927,6 +69945,7 @@
 ✅ HOSTS 转换: 127.0.0.1 file.blackint3.com → |file.blackint3.com^
 ✅ HOSTS 转换: 127.0.0.1 file.uhsea.com → |file.uhsea.com^
 ✅ HOSTS 转换: 127.0.0.1 filerit.com → |filerit.com^
+✅ HOSTS 转换: 127.0.0.1 filte-path.7zorelax.lat → |filte-path.7zorelax.lat^
 ✅ HOSTS 转换: 127.0.0.1 first-security-verden.de → |first-security-verden.de^
 ✅ HOSTS 转换: 127.0.0.1 fl4me-field.qen9varol.lat → |fl4me-field.qen9varol.lat^
 ✅ HOSTS 转换: 127.0.0.1 flovv-zone.7lorexan.surf → |flovv-zone.7lorexan.surf^
@@ -69982,6 +70001,7 @@
 ✅ HOSTS 转换: 127.0.0.1 globalbank.us → |globalbank.us^
 ✅ HOSTS 转换: 127.0.0.1 glofabric.5dorexin.lat → |glofabric.5dorexin.lat^
 ✅ HOSTS 转换: 127.0.0.1 gnqv4r.boxemoj.surf → |gnqv4r.boxemoj.surf^
+✅ HOSTS 转换: 127.0.0.1 go1d8-core.mav8loren.lat → |go1d8-core.mav8loren.lat^
 ✅ HOSTS 转换: 127.0.0.1 google-services.cc → |google-services.cc^
 ✅ HOSTS 转换: 127.0.0.1 gozozk.mav2lirex.lat → |gozozk.mav2lirex.lat^
 ✅ HOSTS 转换: 127.0.0.1 grandprocess.torex5lin.surf → |grandprocess.torex5lin.surf^
@@ -70029,6 +70049,7 @@
 ✅ HOSTS 转换: 127.0.0.1 ioflows.pav8lorex.lat → |ioflows.pav8lorex.lat^
 ✅ HOSTS 转换: 127.0.0.1 ioflows.plsqlnew.surf → |ioflows.plsqlnew.surf^
 ✅ HOSTS 转换: 127.0.0.1 ioflows.primeflowspace.surf → |ioflows.primeflowspace.surf^
+✅ HOSTS 转换: 127.0.0.1 ioflows.softworkapi.lat → |ioflows.softworkapi.lat^
 ✅ HOSTS 转换: 127.0.0.1 iontrai.pavlore9.surf → |iontrai.pavlore9.surf^
 ✅ HOSTS 转换: 127.0.0.1 ipni4.qen9varol.lat → |ipni4.qen9varol.lat^
 ✅ HOSTS 转换: 127.0.0.1 ipnode.extremesecureline.lat → |ipnode.extremesecureline.lat^
@@ -70046,6 +70067,7 @@
 ✅ HOSTS 转换: 127.0.0.1 ircftp.net → |ircftp.net^
 ✅ HOSTS 转换: 127.0.0.1 isiore.com.co → |isiore.com.co^
 ✅ HOSTS 转换: 127.0.0.1 isometricsindia.co.in → |isometricsindia.co.in^
+✅ HOSTS 转换: 127.0.0.1 ita-airwaysva.com → |ita-airwaysva.com^
 ✅ HOSTS 转换: 127.0.0.1 itfr9qb.sorix7el.lat → |itfr9qb.sorix7el.lat^
 ✅ HOSTS 转换: 127.0.0.1 itssprout.com → |itssprout.com^
 ✅ HOSTS 转换: 127.0.0.1 ivorywol.sorix7el.lat → |ivorywol.sorix7el.lat^
@@ -70089,6 +70111,7 @@
 ✅ HOSTS 转换: 127.0.0.1 lanhop.vexo3nar.surf → |lanhop.vexo3nar.surf^
 ✅ HOSTS 转换: 127.0.0.1 lanhop.vexon4al.surf → |lanhop.vexon4al.surf^
 ✅ HOSTS 转换: 127.0.0.1 lanhops.captive-portal.lat → |lanhops.captive-portal.lat^
+✅ HOSTS 转换: 127.0.0.1 lanhops.linkdevbase.lat → |lanhops.linkdevbase.lat^
 ✅ HOSTS 转换: 127.0.0.1 lanhops.portcry.surf → |lanhops.portcry.surf^
 ✅ HOSTS 转换: 127.0.0.1 lanhops.quantumtechbox.surf → |lanhops.quantumtechbox.surf^
 ✅ HOSTS 转换: 127.0.0.1 lanhops.sorix9el.surf → |lanhops.sorix9el.surf^
@@ -70127,6 +70150,7 @@
 ✅ HOSTS 转换: 127.0.0.1 lon-01.dlo4d.com → |lon-01.dlo4d.com^
 ✅ HOSTS 转换: 127.0.0.1 luizmatoso.com.br → |luizmatoso.com.br^
 ✅ HOSTS 转换: 127.0.0.1 lum-cresta.qeniral8.surf → |lum-cresta.qeniral8.surf^
+✅ HOSTS 转换: 127.0.0.1 lum-valeon.3toravix.lat → |lum-valeon.3toravix.lat^
 ✅ HOSTS 转换: 127.0.0.1 lummarkex8.noopcup.surf → |lummarkex8.noopcup.surf^
 ✅ HOSTS 转换: 127.0.0.1 lumnexum4.pav8lorex.lat → |lumnexum4.pav8lorex.lat^
 ✅ HOSTS 转换: 127.0.0.1 lwbc.actsdks.surf → |lwbc.actsdks.surf^
@@ -70135,6 +70159,7 @@
 ✅ HOSTS 转换: 127.0.0.1 m.jkoa.co.kr → |m.jkoa.co.kr^
 ✅ HOSTS 转换: 127.0.0.1 m.meta-dm.com → |m.meta-dm.com^
 ✅ HOSTS 转换: 127.0.0.1 m08xkitq.vexon4al.lat → |m08xkitq.vexon4al.lat^
+✅ HOSTS 转换: 127.0.0.1 m0del9-spool.mav8loren.lat → |m0del9-spool.mav8loren.lat^
 ✅ HOSTS 转换: 127.0.0.1 magnusworkspace.com → |magnusworkspace.com^
 ✅ HOSTS 转换: 127.0.0.1 mahleinc.com → |mahleinc.com^
 ✅ HOSTS 转换: 127.0.0.1 maidforyou1985.com → |maidforyou1985.com^
@@ -70182,7 +70207,6 @@
 ✅ HOSTS 转换: 127.0.0.1 mvx23.pav8lorex.lat → |mvx23.pav8lorex.lat^
 ✅ HOSTS 转换: 127.0.0.1 mxqbq.xamir2el.surf → |mxqbq.xamir2el.surf^
 ✅ HOSTS 转换: 127.0.0.1 mygrocerbox.com → |mygrocerbox.com^
-✅ HOSTS 转换: 127.0.0.1 mykitchenindonesia.com → |mykitchenindonesia.com^
 ✅ HOSTS 转换: 127.0.0.1 n.vs108.com → |n.vs108.com^
 ✅ HOSTS 转换: 127.0.0.1 n3ur4-route.torex5lin.surf → |n3ur4-route.torex5lin.surf^
 ✅ HOSTS 转换: 127.0.0.1 ncxps.com → |ncxps.com^
@@ -70219,6 +70243,7 @@
 ✅ HOSTS 转换: 127.0.0.1 oczl.torex5lin.surf → |oczl.torex5lin.surf^
 ✅ HOSTS 转换: 127.0.0.1 officials.ink → |officials.ink^
 ✅ HOSTS 转换: 127.0.0.1 ohkmpt.tavro6xel.lat → |ohkmpt.tavro6xel.lat^
+✅ HOSTS 转换: 127.0.0.1 oixkxhga.qen2virex.lat → |oixkxhga.qen2virex.lat^
 ✅ HOSTS 转换: 127.0.0.1 oiyksxf.vexon3ar.surf → |oiyksxf.vexon3ar.surf^
 ✅ HOSTS 转换: 127.0.0.1 ojang.pe.kr → |ojang.pe.kr^
 ✅ HOSTS 转换: 127.0.0.1 okhan.net → |okhan.net^
@@ -70242,6 +70267,7 @@
 ✅ HOSTS 转换: 127.0.0.1 optwebs.5dorexin.lat → |optwebs.5dorexin.lat^
 ✅ HOSTS 转换: 127.0.0.1 optwebs.clampe7outback.lat → |optwebs.clampe7outback.lat^
 ✅ HOSTS 转换: 127.0.0.1 optwebs.cybermetagrid.surf → |optwebs.cybermetagrid.surf^
+✅ HOSTS 转换: 127.0.0.1 optwebs.datarunkey.lat → |optwebs.datarunkey.lat^
 ✅ HOSTS 转换: 127.0.0.1 optwebs.mel2vrax.surf → |optwebs.mel2vrax.surf^
 ✅ HOSTS 转换: 127.0.0.1 optwebs.rodrules.surf → |optwebs.rodrules.surf^
 ✅ HOSTS 转换: 127.0.0.1 osbase.1zorelix.surf → |osbase.1zorelix.surf^
@@ -70300,6 +70326,7 @@
 ✅ HOSTS 转换: 127.0.0.1 proxys.vexo3nar.surf → |proxys.vexo3nar.surf^
 ✅ HOSTS 转换: 127.0.0.1 proxys.vexon4al.surf → |proxys.vexon4al.surf^
 ✅ HOSTS 转换: 127.0.0.1 proxyss.captive-portal.lat → |proxyss.captive-portal.lat^
+✅ HOSTS 转换: 127.0.0.1 proxyss.linkdevbase.lat → |proxyss.linkdevbase.lat^
 ✅ HOSTS 转换: 127.0.0.1 proxyss.portcry.surf → |proxyss.portcry.surf^
 ✅ HOSTS 转换: 127.0.0.1 proxyss.quantumtechbox.surf → |proxyss.quantumtechbox.surf^
 ✅ HOSTS 转换: 127.0.0.1 proxyss.sorix9el.surf → |proxyss.sorix9el.surf^
@@ -70350,6 +70377,7 @@
 ✅ HOSTS 转换: 127.0.0.1 refid-xs.pav8lorex.lat → |refid-xs.pav8lorex.lat^
 ✅ HOSTS 转换: 127.0.0.1 refid-xs.plsqlnew.surf → |refid-xs.plsqlnew.surf^
 ✅ HOSTS 转换: 127.0.0.1 refid-xs.primeflowspace.surf → |refid-xs.primeflowspace.surf^
+✅ HOSTS 转换: 127.0.0.1 refid-xs.softworkapi.lat → |refid-xs.softworkapi.lat^
 ✅ HOSTS 转换: 127.0.0.1 refid.brix9mira.lat → |refid.brix9mira.lat^
 ✅ HOSTS 转换: 127.0.0.1 refid.pavi1xen.lat → |refid.pavi1xen.lat^
 ✅ HOSTS 转换: 127.0.0.1 refid.vertexpointlinknet.lat → |refid.vertexpointlinknet.lat^
@@ -70366,6 +70394,7 @@
 ✅ HOSTS 转换: 127.0.0.1 rnoon-panel.qeniral8.surf → |rnoon-panel.qeniral8.surf^
 ✅ HOSTS 转换: 127.0.0.1 robertrowe.com → |robertrowe.com^
 ✅ HOSTS 转换: 127.0.0.1 root-cul.xamir3on.lat → |root-cul.xamir3on.lat^
+✅ HOSTS 转换: 127.0.0.1 roughvocal.mav8loren.lat → |roughvocal.mav8loren.lat^
 ✅ HOSTS 转换: 127.0.0.1 royalindiancurryclub.com → |royalindiancurryclub.com^
 ✅ HOSTS 转换: 127.0.0.1 rurareag.vexon4al.lat → |rurareag.vexon4al.lat^
 ✅ HOSTS 转换: 127.0.0.1 rxquickpay.com → |rxquickpay.com^
@@ -70373,6 +70402,7 @@
 ✅ HOSTS 转换: 127.0.0.1 sabungkingbet189.com → |sabungkingbet189.com^
 ✅ HOSTS 转换: 127.0.0.1 salemacro.xamir2el.surf → |salemacro.xamir2el.surf^
 ✅ HOSTS 转换: 127.0.0.1 sampl-boo.qeniral8.surf → |sampl-boo.qeniral8.surf^
+✅ HOSTS 转换: 127.0.0.1 sandman.qen2virex.lat → |sandman.qen2virex.lat^
 ✅ HOSTS 转换: 127.0.0.1 sbg86o.qeniral8.surf → |sbg86o.qeniral8.surf^
 ✅ HOSTS 转换: 127.0.0.1 scainseto.com.br → |scainseto.com.br^
 ✅ HOSTS 转换: 127.0.0.1 scenwave.pav8lorex.lat → |scenwave.pav8lorex.lat^
@@ -70462,6 +70492,7 @@
 ✅ HOSTS 转换: 127.0.0.1 sshpros.chemistry5till.lat → |sshpros.chemistry5till.lat^
 ✅ HOSTS 转换: 127.0.0.1 sshpros.clampe7outback.lat → |sshpros.clampe7outback.lat^
 ✅ HOSTS 转换: 127.0.0.1 sshpros.cybermetagrid.surf → |sshpros.cybermetagrid.surf^
+✅ HOSTS 转换: 127.0.0.1 sshpros.datarunkey.lat → |sshpros.datarunkey.lat^
 ✅ HOSTS 转换: 127.0.0.1 sshpros.mel2vrax.surf → |sshpros.mel2vrax.surf^
 ✅ HOSTS 转换: 127.0.0.1 sshpros.rodrules.surf → |sshpros.rodrules.surf^
 ✅ HOSTS 转换: 127.0.0.1 sslkey.extremesecureline.lat → |sslkey.extremesecureline.lat^
@@ -70479,6 +70510,7 @@
 ✅ HOSTS 转换: 127.0.0.1 static.ilclock.com → |static.ilclock.com^
 ✅ HOSTS 转换: 127.0.0.1 static.youdm.cn → |static.youdm.cn^
 ✅ HOSTS 转换: 127.0.0.1 stdown.dinju.com → |stdown.dinju.com^
+✅ HOSTS 转换: 127.0.0.1 steadymeasure.qen2virex.lat → |steadymeasure.qen2virex.lat^
 ✅ HOSTS 转换: 127.0.0.1 steam66.cn → |steam66.cn^
 ✅ HOSTS 转换: 127.0.0.1 subcli.gavi1lor.lat → |subcli.gavi1lor.lat^
 ✅ HOSTS 转换: 127.0.0.1 subcli.grov6lira.lat → |subcli.grov6lira.lat^
@@ -70487,6 +70519,7 @@
 ✅ HOSTS 转换: 127.0.0.1 subcli.vexo3nar.surf → |subcli.vexo3nar.surf^
 ✅ HOSTS 转换: 127.0.0.1 subcli.vexon4al.surf → |subcli.vexon4al.surf^
 ✅ HOSTS 转换: 127.0.0.1 subclis.captive-portal.lat → |subclis.captive-portal.lat^
+✅ HOSTS 转换: 127.0.0.1 subclis.linkdevbase.lat → |subclis.linkdevbase.lat^
 ✅ HOSTS 转换: 127.0.0.1 subclis.portcry.surf → |subclis.portcry.surf^
 ✅ HOSTS 转换: 127.0.0.1 subclis.quantumtechbox.surf → |subclis.quantumtechbox.surf^
 ✅ HOSTS 转换: 127.0.0.1 subclis.sorix9el.surf → |subclis.sorix9el.surf^
@@ -70509,6 +70542,7 @@
 ✅ HOSTS 转换: 127.0.0.1 syncits.pav8lorex.lat → |syncits.pav8lorex.lat^
 ✅ HOSTS 转换: 127.0.0.1 syncits.plsqlnew.surf → |syncits.plsqlnew.surf^
 ✅ HOSTS 转换: 127.0.0.1 syncits.primeflowspace.surf → |syncits.primeflowspace.surf^
+✅ HOSTS 转换: 127.0.0.1 syncits.softworkapi.lat → |syncits.softworkapi.lat^
 ✅ HOSTS 转换: 127.0.0.1 syskey.faro7qor.lat → |syskey.faro7qor.lat^
 ✅ HOSTS 转换: 127.0.0.1 syskey.primevortexbox.lat → |syskey.primevortexbox.lat^
 ✅ HOSTS 转换: 127.0.0.1 syskey.primevortextechbox.lat → |syskey.primevortextechbox.lat^
@@ -70518,6 +70552,7 @@
 ✅ HOSTS 转换: 127.0.0.1 syskeys.fatovism-r2ccoon.lat → |syskeys.fatovism-r2ccoon.lat^
 ✅ HOSTS 转换: 127.0.0.1 syskeys.filipen-typograp.lat → |syskeys.filipen-typograp.lat^
 ✅ HOSTS 转换: 127.0.0.1 syskeys.lorex7in.surf → |syskeys.lorex7in.surf^
+✅ HOSTS 转换: 127.0.0.1 syskeys.openlinksys.lat → |syskeys.openlinksys.lat^
 ✅ HOSTS 转换: 127.0.0.1 syskeys.ultrashiftnet.surf → |syskeys.ultrashiftnet.surf^
 ✅ HOSTS 转换: 127.0.0.1 syskeys.zooblob.surf → |syskeys.zooblob.surf^
 ✅ HOSTS 转换: 127.0.0.1 sysops.digitalcloudsys.lat → |sysops.digitalcloudsys.lat^
@@ -70536,6 +70571,7 @@
 ✅ HOSTS 转换: 127.0.0.1 taskids.pav8lorex.lat → |taskids.pav8lorex.lat^
 ✅ HOSTS 转换: 127.0.0.1 taskids.plsqlnew.surf → |taskids.plsqlnew.surf^
 ✅ HOSTS 转换: 127.0.0.1 taskids.primeflowspace.surf → |taskids.primeflowspace.surf^
+✅ HOSTS 转换: 127.0.0.1 taskids.softworkapi.lat → |taskids.softworkapi.lat^
 ✅ HOSTS 转换: 127.0.0.1 tcp-con.4dorexal.surf → |tcp-con.4dorexal.surf^
 ✅ HOSTS 转换: 127.0.0.1 tcp-con.8dorexin.surf → |tcp-con.8dorexin.surf^
 ✅ HOSTS 转换: 127.0.0.1 tcpcon.flen3qor.lat → |tcpcon.flen3qor.lat^
@@ -70546,6 +70582,7 @@
 ✅ HOSTS 转换: 127.0.0.1 tcpcons.chemistry5till.lat → |tcpcons.chemistry5till.lat^
 ✅ HOSTS 转换: 127.0.0.1 tcpcons.clampe7outback.lat → |tcpcons.clampe7outback.lat^
 ✅ HOSTS 转换: 127.0.0.1 tcpcons.cybermetagrid.surf → |tcpcons.cybermetagrid.surf^
+✅ HOSTS 转换: 127.0.0.1 tcpcons.datarunkey.lat → |tcpcons.datarunkey.lat^
 ✅ HOSTS 转换: 127.0.0.1 tcpcons.mel2vrax.surf → |tcpcons.mel2vrax.surf^
 ✅ HOSTS 转换: 127.0.0.1 tcpcons.rodrules.surf → |tcpcons.rodrules.surf^
 ✅ HOSTS 转换: 127.0.0.1 tecunonline.com → |tecunonline.com^
@@ -70557,7 +70594,6 @@
 ✅ HOSTS 转换: 127.0.0.1 theholidayroads.com → |theholidayroads.com^
 ✅ HOSTS 转换: 127.0.0.1 themaintechnician.us → |themaintechnician.us^
 ✅ HOSTS 转换: 127.0.0.1 thementordirectory.com → |thementordirectory.com^
-✅ HOSTS 转换: 127.0.0.1 theoremaoliveoil.com → |theoremaoliveoil.com^
 ✅ HOSTS 转换: 127.0.0.1 thread-mark.7toralex.lat → |thread-mark.7toralex.lat^
 ✅ HOSTS 转换: 127.0.0.1 thtp2.volamngayxua.net → |thtp2.volamngayxua.net^
 ✅ HOSTS 转换: 127.0.0.1 tiacreation.club → |tiacreation.club^
@@ -70586,6 +70622,7 @@
 ✅ HOSTS 转换: 127.0.0.1 topsvcs.securelinkpoint.surf → |topsvcs.securelinkpoint.surf^
 ✅ HOSTS 转换: 127.0.0.1 topsvcs.sixunzip.surf → |topsvcs.sixunzip.surf^
 ✅ HOSTS 转换: 127.0.0.1 topsvcs.webbitsync.lat → |topsvcs.webbitsync.lat^
+✅ HOSTS 转换: 127.0.0.1 trackeglacie.3toravix.lat → |trackeglacie.3toravix.lat^
 ✅ HOSTS 转换: 127.0.0.1 transparenciacanaa.com.br → |transparenciacanaa.com.br^
 ✅ HOSTS 转换: 127.0.0.1 trendinspect.pavlore9.surf → |trendinspect.pavlore9.surf^
 ✅ HOSTS 转换: 127.0.0.1 tridraor.mav2lirex.lat → |tridraor.mav2lirex.lat^
@@ -70619,6 +70656,7 @@
 ✅ HOSTS 转换: 127.0.0.1 usrgrps.chemistry5till.lat → |usrgrps.chemistry5till.lat^
 ✅ HOSTS 转换: 127.0.0.1 usrgrps.clampe7outback.lat → |usrgrps.clampe7outback.lat^
 ✅ HOSTS 转换: 127.0.0.1 usrgrps.cybermetagrid.surf → |usrgrps.cybermetagrid.surf^
+✅ HOSTS 转换: 127.0.0.1 usrgrps.datarunkey.lat → |usrgrps.datarunkey.lat^
 ✅ HOSTS 转换: 127.0.0.1 usrgrps.mel2vrax.surf → |usrgrps.mel2vrax.surf^
 ✅ HOSTS 转换: 127.0.0.1 usrgrps.rodrules.surf → |usrgrps.rodrules.surf^
 ✅ HOSTS 转换: 127.0.0.1 uykfqn.pavlore9.surf → |uykfqn.pavlore9.surf^
@@ -70693,6 +70731,7 @@
 ✅ HOSTS 转换: 127.0.0.1 winupd.technoglobalnet.lat → |winupd.technoglobalnet.lat^
 ✅ HOSTS 转换: 127.0.0.1 wittenhorst.eu → |wittenhorst.eu^
 ✅ HOSTS 转换: 127.0.0.1 wolfcri.tavro6xel.lat → |wolfcri.tavro6xel.lat^
+✅ HOSTS 转换: 127.0.0.1 wornod.qen2virex.lat → |wornod.qen2virex.lat^
 ✅ HOSTS 转换: 127.0.0.1 wvdaavfk.2zavlore.surf → |wvdaavfk.2zavlore.surf^
 ✅ HOSTS 转换: 127.0.0.1 www.ardguisser.com → |www.ardguisser.com^
 ✅ HOSTS 转换: 127.0.0.1 www.astenterprises.com.pk → |www.astenterprises.com.pk^
@@ -70706,7 +70745,6 @@
 ✅ HOSTS 转换: 127.0.0.1 www.drgenov.com → |www.drgenov.com^
 ✅ HOSTS 转换: 127.0.0.1 www.first-security-verden.de → |www.first-security-verden.de^
 ✅ HOSTS 转换: 127.0.0.1 www.hseda.com → |www.hseda.com^
-✅ HOSTS 转换: 127.0.0.1 www.intelligradeeducation.vicentecisnerospub.com → |www.intelligradeeducation.vicentecisnerospub.com^
 ✅ HOSTS 转换: 127.0.0.1 www.jozefinskiatelje.si → |www.jozefinskiatelje.si^
 ✅ HOSTS 转换: 127.0.0.1 www.konsor.ru → |www.konsor.ru^
 ✅ HOSTS 转换: 127.0.0.1 www.kotojuki.com → |www.kotojuki.com^
@@ -70737,6 +70775,7 @@
 ✅ HOSTS 转换: 127.0.0.1 www.websitedesigningindia.biz → |www.websitedesigningindia.biz^
 ✅ HOSTS 转换: 127.0.0.1 www.xn--on3b15m2lco2u.com → |www.xn--on3b15m2lco2u.com^
 ✅ HOSTS 转换: 127.0.0.1 www.zamilgroups.com → |www.zamilgroups.com^
+✅ HOSTS 转换: 127.0.0.1 www.zhikey.com → |www.zhikey.com^
 ✅ HOSTS 转换: 127.0.0.1 x8jh7qqg.die-reformer.digital → |x8jh7qqg.die-reformer.digital^
 ✅ HOSTS 转换: 127.0.0.1 xdcq3.com → |xdcq3.com^
 ✅ HOSTS 转换: 127.0.0.1 xenon.studio → |xenon.studio^
@@ -162376,10 +162415,10 @@
 🚫 去掉注释行: ! Blocked domains: 5375
 🚫 去掉注释行: ! unBlocked domains: 15
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: TlkJ5WxL6E5Seuk7IWxtYA
-🚫 去掉注释行: ! Version: 202605071050
+🚫 去掉注释行: ! Checksum: o7yor3eC3SqFMYlCqs3ugA
+🚫 去掉注释行: ! Version: 202605071325
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-05-07 10:50 UTC
+🚫 去掉注释行: ! Last modified: 2026-05-07 13:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -203842,7 +203881,7 @@
     → |rshb.ru##.bottom-0.right-0
 🚫 去掉注释行: !! .bottom-0.relative
 🚫 去掉注释行: !! .bottom-0.fixed
-✅ 多域名拆分: 1password.com,70mai.com,99app.com,aberrant.io,aci.dev,actievandedag.nl,adspower.com,adspower.net,aksam.com.tr,androidide.com,animalpolitico.com,anjunadeep.com,aplikuj.pl,app.daily.dev,archive.ics.uci.edu,auf1.info,auf1.tv,auroracloud.dev,ausbildung-in-der-it.de,autodiiler.ee,avislease.sk,back4app.com,ballonvaartcentrumvanmanen.nl,bbcrewind.co.uk,bcfc.com,bellevue-hamburg.de,bestsellers.hu,betway.com.gh,bigcommerce.com,biggerthanallofus.com,biljardihuolto.fi,blickers.com,blog.appsignal.com,blomus.com,bookiply.com,boords.com,britishrenewables.com,bsbfashion.com,bulldogjob.com,bulldogjob.pl,canal1.com.co,canaries.co.uk,chipcitycookies.com,clickz.com,cline.bot,clipfarm.watch,clubmed.co.nz,clubmed.co.uk,clubmed.com.ar,clubmed.com.mx,clubmed.ru,clubmed.se,clubmed.us,codeanlabs.com,codeclimate.com,combokit.net,confi.com.vc,count.co,crosshairhub.com,cryptomaan.eu,curator.io,curiositystream.com,czepeku.com,delio.com.pl,dhakapost.com,discords.com,ditjesendatjes.nl,divvydiary.com,doctorweb.id,drank.nl,drweb-av.de,drweb-av.es,drweb-av.it,drweb-av.pl,drweb.by,drweb.cn,drweb.co.jp,drweb.com,drweb.fr,drweb.kz,drweb.ru,drweb.uz,elo7.com.br,eluniverso.com,elvah.de,emergency.wa.gov.au,emiratespost.ae,epic.com,epochtimes.se,espres.so,everifin.com,eversafe.id.telus.com,evolutionary-insights.com,faceiqlabs.com,fakings.com,fanzo.com,femometer.com,fetch.ai,financestrategists.com,findaport.com,first-law.com,flakehub.com,fluxaiimagegenerator.com,focus-entmt.com,food52.com,form3.tech,fvd.nl,garbanzo.io,gauss.hr,glideapps.com,goafricaonline.com,goflink.com,greenmatch.co.uk,ground.news,haproxy.com,hendy.co.uk,hrt.hr,icecat.biz,ideo.com,idprotect.trendmicro.com,inewi.pl,institute.global,institutoaocp.org.br,interdiscount.ch,invezz.com,iotworldtoday.com,ipon.hu,issf-sports.org,jdoodle.com,jimejinak.cz,jobicon.pracuj.pl,jobyaviation.com,keeb-finder.com,kyero.com,licenseglobal.com,liverpool.com.mx,lorde.co.nz,lounges.tv,madlifes.com,majorfood.com,matkakeisari.fi,mclarenstore.com,medimagazin.com.tr,mein-apothekenmanager.de,meyka.com,mintegral.com,mitec.net,moises.ai,mynrma.com.au,nanobananas.ai,nationalprivacytest.org,nbg.gov.ge,nedicom.ru,newschecker.in,nigged.com,nis2vision.eu,nitronationworldtour.com,npistanbul.com,ntv.com.tr,numerologist.com,oberlo.com,oko.press,oldspitalfieldsmarket.com,onsk.no,opening-hours.today,openrouter.ai,parqet.com,penger.no,pepeporn.com,peppagame.com,perille.fi,podsqueeze.com,pornermates.com,prettylittlething.com,pricempire.com,procrosshairs.com,productpine.com,prographers.com,propello.bike,publicsquare.com,puma.com,pump.fun,qogita.com,qr.nspk.ru,qwertee.com,qwickbirr.com,ranzijn.nl,raport.pse.pl,redcross.ee,regiojet.at,regiojet.com,regiojet.de,regiojet.hu,regiojet.pl,regiojet.sk,regiojet.ua,regiojethotels.at,regiojethotels.com,remarkable.com,runmercury.com,selfstock.com,shakuro.com,shopflavcity.com,sistic.com.sg,sitecore.com,skinsrestorer.net,skyfi.com,skynet.ru,sleep.me,slimsaas.com,smartthingsfind.samsung.com,snoop.app,soniox.com,splav.ru,spletnik.ru,spotlighttheatres.com,ssrchat.com,standwithcrypto.org,store.ligonier.org,streamawards.de,stylesandpartners.com,surnamedb.com,synapse.patsnap.com,tekninen.fi,teltonika-gps.com,teltonika-networks.com,temporal.io,thehappytoolbox.com,threatlandscape.io,tierschutzverein-muenchen.de,tina.io,tinybird.co,trixit.cz,truthsocial.com,tweetyai.com,twitchcon.com,uc.pt,unikriviera.com.br,unox.com,vantilburgonline.nl,vegetology.com,veryfront.com,wizzair.com,wyylde.com,yunexpress.com,zubi.swiss##.bottom-0.fixed
+✅ 多域名拆分: 1password.com,70mai.com,99app.com,aberrant.io,aci.dev,actievandedag.nl,adspower.com,adspower.net,aksam.com.tr,androidide.com,animalpolitico.com,anjunadeep.com,aplikuj.pl,app.daily.dev,archive.ics.uci.edu,auf1.info,auf1.tv,auroracloud.dev,ausbildung-in-der-it.de,autodiiler.ee,avislease.sk,back4app.com,ballonvaartcentrumvanmanen.nl,bbcrewind.co.uk,bcfc.com,bellevue-hamburg.de,bestsellers.hu,betway.com.gh,bigcommerce.com,biggerthanallofus.com,biljardihuolto.fi,blickers.com,blog.appsignal.com,blomus.com,bookiply.com,boords.com,britishrenewables.com,bsbfashion.com,bulldogjob.com,bulldogjob.pl,canal1.com.co,canaries.co.uk,chipcitycookies.com,clickz.com,cline.bot,clipfarm.watch,clubmed.co.nz,clubmed.co.uk,clubmed.com.ar,clubmed.com.mx,clubmed.ru,clubmed.se,clubmed.us,codeanlabs.com,codeclimate.com,combokit.net,confi.com.vc,count.co,crosshairhub.com,cryptomaan.eu,curator.io,curiositystream.com,czepeku.com,delio.com.pl,dhakapost.com,discords.com,ditjesendatjes.nl,divvydiary.com,doctorweb.id,drank.nl,drweb-av.de,drweb-av.es,drweb-av.it,drweb-av.pl,drweb.by,drweb.cn,drweb.co.jp,drweb.com,drweb.fr,drweb.kz,drweb.ru,drweb.uz,elo7.com.br,eluniverso.com,elvah.de,emergency.wa.gov.au,emiratespost.ae,epic.com,epochtimes.se,espres.so,everifin.com,eversafe.id.telus.com,evolutionary-insights.com,faceiqlabs.com,fakings.com,fanzo.com,femometer.com,fetch.ai,financestrategists.com,findaport.com,first-law.com,flakehub.com,fluxaiimagegenerator.com,focus-entmt.com,food52.com,form3.tech,fvd.nl,garbanzo.io,gauss.hr,glideapps.com,goafricaonline.com,goflink.com,greenmatch.co.uk,ground.news,haproxy.com,hendy.co.uk,hrt.hr,icecat.biz,ideo.com,idprotect.trendmicro.com,inewi.pl,institute.global,institutoaocp.org.br,interdiscount.ch,invezz.com,iotworldtoday.com,ipon.hu,issf-sports.org,jdoodle.com,jimejinak.cz,jobicon.pracuj.pl,jobyaviation.com,keeb-finder.com,kyero.com,licenseglobal.com,liverpool.com.mx,lorde.co.nz,lounges.tv,madlifes.com,majorfood.com,matkakeisari.fi,mclarenstore.com,medimagazin.com.tr,mein-apothekenmanager.de,meyka.com,mintegral.com,mitec.net,mod.gov.ua,moises.ai,mynrma.com.au,nanobananas.ai,nationalprivacytest.org,nbg.gov.ge,nedicom.ru,newschecker.in,nigged.com,nis2vision.eu,nitronationworldtour.com,npistanbul.com,ntv.com.tr,numerologist.com,oberlo.com,oko.press,oldspitalfieldsmarket.com,onsk.no,opening-hours.today,openrouter.ai,parqet.com,penger.no,pepeporn.com,peppagame.com,perille.fi,podsqueeze.com,pornermates.com,prettylittlething.com,pricempire.com,procrosshairs.com,productpine.com,prographers.com,propello.bike,publicsquare.com,puma.com,pump.fun,qogita.com,qr.nspk.ru,qwertee.com,qwickbirr.com,ranzijn.nl,raport.pse.pl,redcross.ee,regiojet.at,regiojet.com,regiojet.de,regiojet.hu,regiojet.pl,regiojet.sk,regiojet.ua,regiojethotels.at,regiojethotels.com,remarkable.com,runmercury.com,selfstock.com,shakuro.com,shopflavcity.com,sistic.com.sg,sitecore.com,skinsrestorer.net,skyfi.com,skynet.ru,sleep.me,slimsaas.com,smartthingsfind.samsung.com,snoop.app,soniox.com,splav.ru,spletnik.ru,spotlighttheatres.com,ssrchat.com,standwithcrypto.org,store.ligonier.org,streamawards.de,stylesandpartners.com,surnamedb.com,synapse.patsnap.com,tekninen.fi,teltonika-gps.com,teltonika-networks.com,temporal.io,thehappytoolbox.com,threatlandscape.io,tierschutzverein-muenchen.de,tina.io,tinybird.co,trixit.cz,truthsocial.com,tweetyai.com,twitchcon.com,uc.pt,unikriviera.com.br,unox.com,vantilburgonline.nl,vegetology.com,veryfront.com,wizzair.com,wyylde.com,yunexpress.com,zubi.swiss##.bottom-0.fixed
     → |1password.com##.bottom-0.fixed
     → |70mai.com##.bottom-0.fixed
     → |99app.com##.bottom-0.fixed
@@ -203990,6 +204029,7 @@
     → |meyka.com##.bottom-0.fixed
     → |mintegral.com##.bottom-0.fixed
     → |mitec.net##.bottom-0.fixed
+    → |mod.gov.ua##.bottom-0.fixed
     → |moises.ai##.bottom-0.fixed
     → |mynrma.com.au##.bottom-0.fixed
     → |nanobananas.ai##.bottom-0.fixed
@@ -227351,9 +227391,9 @@
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: !---------------------------------Allowlists----------------------------------!
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: Zi92wuWcOs+jl6cueZuqxA
+🚫 去掉注释行: ! Checksum: sLOPmZNcZnCJHP/fGvqlbQ
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Last modified: 2026-05-07 09:50 UTC
+🚫 去掉注释行: ! Last modified: 2026-05-07 12:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
@@ -251143,7 +251183,7 @@
     → |rshb.ru##.bottom-0.right-0
 🚫 去掉注释行: !! .bottom-0.relative
 🚫 去掉注释行: !! .bottom-0.fixed
-✅ 多域名拆分: 1password.com,70mai.com,99app.com,aberrant.io,aci.dev,actievandedag.nl,adspower.com,adspower.net,aksam.com.tr,androidide.com,animalpolitico.com,anjunadeep.com,aplikuj.pl,app.daily.dev,archive.ics.uci.edu,auf1.info,auf1.tv,auroracloud.dev,ausbildung-in-der-it.de,autodiiler.ee,avislease.sk,back4app.com,ballonvaartcentrumvanmanen.nl,bbcrewind.co.uk,bcfc.com,bellevue-hamburg.de,bestsellers.hu,betway.com.gh,bigcommerce.com,biggerthanallofus.com,biljardihuolto.fi,blickers.com,blog.appsignal.com,blomus.com,bookiply.com,boords.com,britishrenewables.com,bsbfashion.com,bulldogjob.com,bulldogjob.pl,canal1.com.co,canaries.co.uk,chipcitycookies.com,clickz.com,cline.bot,clipfarm.watch,clubmed.co.nz,clubmed.co.uk,clubmed.com.ar,clubmed.com.mx,clubmed.ru,clubmed.se,clubmed.us,codeanlabs.com,codeclimate.com,combokit.net,confi.com.vc,count.co,crosshairhub.com,cryptomaan.eu,curator.io,curiositystream.com,czepeku.com,delio.com.pl,dhakapost.com,discords.com,ditjesendatjes.nl,divvydiary.com,doctorweb.id,drank.nl,drweb-av.de,drweb-av.es,drweb-av.it,drweb-av.pl,drweb.by,drweb.cn,drweb.co.jp,drweb.com,drweb.fr,drweb.kz,drweb.ru,drweb.uz,elo7.com.br,eluniverso.com,elvah.de,emergency.wa.gov.au,emiratespost.ae,epic.com,epochtimes.se,espres.so,everifin.com,eversafe.id.telus.com,evolutionary-insights.com,faceiqlabs.com,fakings.com,fanzo.com,femometer.com,fetch.ai,financestrategists.com,findaport.com,first-law.com,flakehub.com,fluxaiimagegenerator.com,focus-entmt.com,food52.com,form3.tech,fvd.nl,garbanzo.io,gauss.hr,glideapps.com,goafricaonline.com,goflink.com,greenmatch.co.uk,ground.news,haproxy.com,hendy.co.uk,hrt.hr,icecat.biz,ideo.com,idprotect.trendmicro.com,inewi.pl,institute.global,institutoaocp.org.br,interdiscount.ch,invezz.com,iotworldtoday.com,ipon.hu,issf-sports.org,jdoodle.com,jimejinak.cz,jobicon.pracuj.pl,jobyaviation.com,keeb-finder.com,kyero.com,licenseglobal.com,liverpool.com.mx,lorde.co.nz,lounges.tv,madlifes.com,majorfood.com,matkakeisari.fi,mclarenstore.com,medimagazin.com.tr,mein-apothekenmanager.de,meyka.com,mintegral.com,mitec.net,moises.ai,mynrma.com.au,nanobananas.ai,nationalprivacytest.org,nbg.gov.ge,nedicom.ru,newschecker.in,nigged.com,nis2vision.eu,nitronationworldtour.com,npistanbul.com,ntv.com.tr,numerologist.com,oberlo.com,oko.press,oldspitalfieldsmarket.com,onsk.no,opening-hours.today,openrouter.ai,parqet.com,penger.no,pepeporn.com,peppagame.com,perille.fi,podsqueeze.com,pornermates.com,prettylittlething.com,pricempire.com,procrosshairs.com,productpine.com,prographers.com,propello.bike,publicsquare.com,puma.com,pump.fun,qogita.com,qr.nspk.ru,qwertee.com,qwickbirr.com,ranzijn.nl,raport.pse.pl,redcross.ee,regiojet.at,regiojet.com,regiojet.de,regiojet.hu,regiojet.pl,regiojet.sk,regiojet.ua,regiojethotels.at,regiojethotels.com,remarkable.com,runmercury.com,selfstock.com,shakuro.com,shopflavcity.com,sistic.com.sg,sitecore.com,skinsrestorer.net,skyfi.com,skynet.ru,sleep.me,slimsaas.com,smartthingsfind.samsung.com,snoop.app,soniox.com,splav.ru,spletnik.ru,spotlighttheatres.com,ssrchat.com,standwithcrypto.org,store.ligonier.org,streamawards.de,stylesandpartners.com,surnamedb.com,synapse.patsnap.com,tekninen.fi,teltonika-gps.com,teltonika-networks.com,temporal.io,thehappytoolbox.com,threatlandscape.io,tierschutzverein-muenchen.de,tina.io,tinybird.co,trixit.cz,truthsocial.com,tweetyai.com,twitchcon.com,uc.pt,unikriviera.com.br,unox.com,vantilburgonline.nl,vegetology.com,veryfront.com,wizzair.com,wyylde.com,yunexpress.com,zubi.swiss##.bottom-0.fixed
+✅ 多域名拆分: 1password.com,70mai.com,99app.com,aberrant.io,aci.dev,actievandedag.nl,adspower.com,adspower.net,aksam.com.tr,androidide.com,animalpolitico.com,anjunadeep.com,aplikuj.pl,app.daily.dev,archive.ics.uci.edu,auf1.info,auf1.tv,auroracloud.dev,ausbildung-in-der-it.de,autodiiler.ee,avislease.sk,back4app.com,ballonvaartcentrumvanmanen.nl,bbcrewind.co.uk,bcfc.com,bellevue-hamburg.de,bestsellers.hu,betway.com.gh,bigcommerce.com,biggerthanallofus.com,biljardihuolto.fi,blickers.com,blog.appsignal.com,blomus.com,bookiply.com,boords.com,britishrenewables.com,bsbfashion.com,bulldogjob.com,bulldogjob.pl,canal1.com.co,canaries.co.uk,chipcitycookies.com,clickz.com,cline.bot,clipfarm.watch,clubmed.co.nz,clubmed.co.uk,clubmed.com.ar,clubmed.com.mx,clubmed.ru,clubmed.se,clubmed.us,codeanlabs.com,codeclimate.com,combokit.net,confi.com.vc,count.co,crosshairhub.com,cryptomaan.eu,curator.io,curiositystream.com,czepeku.com,delio.com.pl,dhakapost.com,discords.com,ditjesendatjes.nl,divvydiary.com,doctorweb.id,drank.nl,drweb-av.de,drweb-av.es,drweb-av.it,drweb-av.pl,drweb.by,drweb.cn,drweb.co.jp,drweb.com,drweb.fr,drweb.kz,drweb.ru,drweb.uz,elo7.com.br,eluniverso.com,elvah.de,emergency.wa.gov.au,emiratespost.ae,epic.com,epochtimes.se,espres.so,everifin.com,eversafe.id.telus.com,evolutionary-insights.com,faceiqlabs.com,fakings.com,fanzo.com,femometer.com,fetch.ai,financestrategists.com,findaport.com,first-law.com,flakehub.com,fluxaiimagegenerator.com,focus-entmt.com,food52.com,form3.tech,fvd.nl,garbanzo.io,gauss.hr,glideapps.com,goafricaonline.com,goflink.com,greenmatch.co.uk,ground.news,haproxy.com,hendy.co.uk,hrt.hr,icecat.biz,ideo.com,idprotect.trendmicro.com,inewi.pl,institute.global,institutoaocp.org.br,interdiscount.ch,invezz.com,iotworldtoday.com,ipon.hu,issf-sports.org,jdoodle.com,jimejinak.cz,jobicon.pracuj.pl,jobyaviation.com,keeb-finder.com,kyero.com,licenseglobal.com,liverpool.com.mx,lorde.co.nz,lounges.tv,madlifes.com,majorfood.com,matkakeisari.fi,mclarenstore.com,medimagazin.com.tr,mein-apothekenmanager.de,meyka.com,mintegral.com,mitec.net,mod.gov.ua,moises.ai,mynrma.com.au,nanobananas.ai,nationalprivacytest.org,nbg.gov.ge,nedicom.ru,newschecker.in,nigged.com,nis2vision.eu,nitronationworldtour.com,npistanbul.com,ntv.com.tr,numerologist.com,oberlo.com,oko.press,oldspitalfieldsmarket.com,onsk.no,opening-hours.today,openrouter.ai,parqet.com,penger.no,pepeporn.com,peppagame.com,perille.fi,podsqueeze.com,pornermates.com,prettylittlething.com,pricempire.com,procrosshairs.com,productpine.com,prographers.com,propello.bike,publicsquare.com,puma.com,pump.fun,qogita.com,qr.nspk.ru,qwertee.com,qwickbirr.com,ranzijn.nl,raport.pse.pl,redcross.ee,regiojet.at,regiojet.com,regiojet.de,regiojet.hu,regiojet.pl,regiojet.sk,regiojet.ua,regiojethotels.at,regiojethotels.com,remarkable.com,runmercury.com,selfstock.com,shakuro.com,shopflavcity.com,sistic.com.sg,sitecore.com,skinsrestorer.net,skyfi.com,skynet.ru,sleep.me,slimsaas.com,smartthingsfind.samsung.com,snoop.app,soniox.com,splav.ru,spletnik.ru,spotlighttheatres.com,ssrchat.com,standwithcrypto.org,store.ligonier.org,streamawards.de,stylesandpartners.com,surnamedb.com,synapse.patsnap.com,tekninen.fi,teltonika-gps.com,teltonika-networks.com,temporal.io,thehappytoolbox.com,threatlandscape.io,tierschutzverein-muenchen.de,tina.io,tinybird.co,trixit.cz,truthsocial.com,tweetyai.com,twitchcon.com,uc.pt,unikriviera.com.br,unox.com,vantilburgonline.nl,vegetology.com,veryfront.com,wizzair.com,wyylde.com,yunexpress.com,zubi.swiss##.bottom-0.fixed
     → |1password.com##.bottom-0.fixed
     → |70mai.com##.bottom-0.fixed
     → |99app.com##.bottom-0.fixed
@@ -251291,6 +251331,7 @@
     → |meyka.com##.bottom-0.fixed
     → |mintegral.com##.bottom-0.fixed
     → |mitec.net##.bottom-0.fixed
+    → |mod.gov.ua##.bottom-0.fixed
     → |moises.ai##.bottom-0.fixed
     → |mynrma.com.au##.bottom-0.fixed
     → |nanobananas.ai##.bottom-0.fixed

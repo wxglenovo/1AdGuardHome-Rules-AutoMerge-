@@ -23694,6 +23694,7 @@ onassis.org##.bottom-0.relative
 |meyka.com##.bottom-0.fixed
 |mintegral.com##.bottom-0.fixed
 |mitec.net##.bottom-0.fixed
+|mod.gov.ua##.bottom-0.fixed
 |moises.ai##.bottom-0.fixed
 |mynrma.com.au##.bottom-0.fixed
 |nanobananas.ai##.bottom-0.fixed
@@ -53034,6 +53035,10 @@ reddit.com##shreddit-async-loader[bundlename="app_selector"]
 reddit.com##shreddit-async-loader[bundlename="app_selector"]:remove()
 reddit.com##shreddit-experience-tree
 reddit.com##body,html:style(overflow: auto !important;)
+reddit.com##.rpl-bottom-sheet
+reddit.com##+js(remove-class, rpl-scroll-lock, body, stay)
+reddit.com##+js(remove-class, scroll-is-blocked, body, stay)
+reddit.com##+js(prevent-addEventListener, touchmove)
 tiktok.com##+js(set-session-storage-item, webapp_first_open_cta, 1)
 tiktok.com##.e1pecv674.css-99ed1t-DivFooterGuide
 tiktok.com##.e1x4pa920.css-18fyv6p-DivFloatButtonWrapper
