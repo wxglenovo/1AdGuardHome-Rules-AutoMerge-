@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-05-08T00:51:32.070Z
+🚫 去掉注释行: ! Last modified: 2026-05-08T03:11:18.348Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -1584,10 +1584,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 99932
-🚫 去掉注释行: ! Checksum: eY3DRVmMQgoHIv+QgMYlCg
-🚫 去掉注释行: ! Version: 202605080112
+🚫 去掉注释行: ! Checksum: 1ZbKPTn3LJtqm2D3dKX4EQ
+🚫 去掉注释行: ! Version: 202605080431
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 08 May 2026 01:12 UTC
+🚫 去掉注释行: ! Last modified: 08 May 2026 04:31 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -16902,6 +16902,9 @@
     → |coincarp.com##.StickyBottom
     → |coincheckup.com##.StickyBottom
     → |coincodex.com##.StickyBottom
+✅ 多域名拆分: carexpert.co.nz,carexpert.com.au##._26wjo85
+    → |carexpert.co.nz##._26wjo85
+    → |carexpert.com.au##._26wjo85
 ✅ 多域名拆分: brisbanetimes.com.au,smh.com.au,theage.com.au,watoday.com.au##._34z61
     → |brisbanetimes.com.au##._34z61
     → |smh.com.au##._34z61
@@ -24854,10 +24857,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: ScBd11eFQmwvbz2AED8IeA
-🚫 去掉注释行: ! Version: 202605080112
+🚫 去掉注释行: ! Checksum: KxchOze/aH/XLOMqwkbEmw
+🚫 去掉注释行: ! Version: 202605080431
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 08 May 2026 01:12 UTC
+🚫 去掉注释行: ! Last modified: 08 May 2026 04:31 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29457,10 +29460,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: KD3G+MCIfRxQoZpTD2ACcw
-🚫 去掉注释行: ! Version: 202605080112
+🚫 去掉注释行: ! Checksum: zQ/yziDQqx8bFUXclOMJRg
+🚫 去掉注释行: ! Version: 202605080431
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 08 May 2026 01:12 UTC
+🚫 去掉注释行: ! Last modified: 08 May 2026 04:31 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -30129,11 +30132,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202605080105
+🚫 去掉注释行: ! Version: 202605080422
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 08 May 2026 01:05 UTC
+🚫 去掉注释行: ! Last modified: 08 May 2026 04:22 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 17d27cbe95b82538dbd280370b6422e6fb58577c
+🚫 去掉注释行: ! Commit: a0e7c2abcce3a5abcd35225b0fb82a71b6fca96c
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -45457,6 +45460,9 @@
     → |coincarp.com##.StickyBottom
     → |coincheckup.com##.StickyBottom
     → |coincodex.com##.StickyBottom
+✅ 多域名拆分: carexpert.co.nz,carexpert.com.au##._26wjo85
+    → |carexpert.co.nz##._26wjo85
+    → |carexpert.com.au##._26wjo85
 ✅ 多域名拆分: brisbanetimes.com.au,smh.com.au,theage.com.au,watoday.com.au##._34z61
     → |brisbanetimes.com.au##._34z61
     → |smh.com.au##._34z61
@@ -53435,11 +53441,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202605080105
+🚫 去掉注释行: ! Version: 202605080422
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 08 May 2026 01:05 UTC
+🚫 去掉注释行: ! Last modified: 08 May 2026 04:22 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 17d27cbe95b82538dbd280370b6422e6fb58577c
+🚫 去掉注释行: ! Commit: a0e7c2abcce3a5abcd35225b0fb82a71b6fca96c
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -64507,6 +64513,9 @@
     → |netwerk24.com##.article--top-bar-right:has(.social-sharing)
     → |news24.com##.article--top-bar-right:has(.social-sharing)
     → |son.co.za##.article--top-bar-right:has(.social-sharing)
+✅ 多域名拆分: carexpert.co.nz,carexpert.com.au#?#._1ivmml5u3:has-text(Add Preferred Source)
+    → |carexpert.co.nz#?#._1ivmml5u3:has-text(Add Preferred Source)
+    → |carexpert.com.au#?#._1ivmml5u3:has-text(Add Preferred Source)
 ✅ 多域名拆分: houstonchronicle.com,nhregister.com,registercitizen.com,sfchronicle.com,sfgate.com,stamfordadvocate.com#?#.deep:has-text(Google)
     → |houstonchronicle.com#?#.deep:has-text(Google)
     → |nhregister.com#?#.deep:has-text(Google)
