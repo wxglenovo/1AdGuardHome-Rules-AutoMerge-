@@ -1940,6 +1940,7 @@ reneweconomy.com.au##.sc__container_outer
 indianexpress.com##.screen-banner-link
 slideshare.net##.scribd-ad-exit-modal
 golem.de##.sdgSlotContainer
+wbur.org##.section--takeover
 civileats.com##.section-banner
 infoworld.com##.section-block--announcementbar
 news.shib.io##.section-shortcode
@@ -6531,6 +6532,7 @@ bylancer.com##.share-buttons-icons
 cknxnewstoday.ca##.share-buttons_buttons__V3uFu
 apptrigger.com##.share-capture
 cryptopolitan.com##.share-col
+smithsonianmag.com##.share-control
 paloaltonetworks.com##.share-copy-mail
 coindesk.com##.share-dialog-button
 |dailymail.co.uk##.share-email
@@ -6659,6 +6661,7 @@ whowhatwhy.org##.shared-counts-wrap
 |calmatters.org##.sharedaddy
 |cardinalnews.org##.sharedaddy
 |cartoonbrew.com##.sharedaddy
+|dailybulletin.com##.sharedaddy
 |jta.org##.sharedaddy
 |thefrisc.com##.sharedaddy
 |usmagazine.com##.sharedaddy
@@ -17430,7 +17433,8 @@ nakedwines.co.uk##nkd-cookie-banner
 weatherbug.com##notification-footer
 northwell.edu##nwhlit-gdpr-banner
 1inch.com##oi-cookies-popup
-eu.reservewheels.com##pandectes-cmp
+|eu.reservewheels.com##pandectes-cmp
+|kingkoil.com##pandectes-cmp
 playpaxdei.com##paxdei-cookie-consent
 proactua.com##proactua-cookie-consent
 lookup.icann.org##rwc-cookie-notification
@@ -44058,7 +44062,6 @@ kcrw.com##.CTAnewsletter
 |retailwire.com##.Campaign
 |wlrn.org##.Campaign
 scrippsnews.com##.Campaign.sewaren-campaign
-wbur.org##.Campaign__innerWrapper
 nyctourism.com##.Container_newsletterBlock__LRiMf
 westword.com##.ContentFooterNewsletterSignup
 |aftermath.site##.ContentGate_wrapper__tNtjt
@@ -45459,6 +45462,7 @@ parade.com##.m-flex-nav--right-engagement
 boston.com##.m-generic-cta
 boston.com##.m-generic-cta--email-signup
 minds.com##.m-modal-bg
+aol.com##.m-newsletter
 politifact.com##.m-supporter
 money.com##.m00646-mc-newsletter
 city-journal.org##.m_newsletter-container
@@ -49678,6 +49682,9 @@ thebarentsobserver.com##+js(set-cookie, mm_f_45691, true)
 ms.now##.fb_lightbox-overlay
 ms.now##.preloaded_lightbox
 ms.now##body,html:style(overflow: auto !important; position: initial !important;)
+wbur.org##.Campaign
+wbur.org##.Campaign__innerWrapper
+wbur.org##html:style(overflow: auto !important)
 lgbtqnation.com##.Campaign
 lgbtqnation.com##html:style(overflow: auto !important; position: initial !important;)
 addapinch.com##.cohoes-campaign
