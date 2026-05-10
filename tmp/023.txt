@@ -21540,6 +21540,7 @@ decovarrubias.es###sliding-popup-cookies
 |hesburger.fi##.cookie-consent
 |hesburger.lv##.cookie-consent
 |hisense.com##.cookie-consent
+|howtotrade.com##.cookie-consent
 |ieradio.org##.cookie-consent
 |ifminvestors.com##.cookie-consent
 |inforegister.ee##.cookie-consent
@@ -34598,6 +34599,7 @@ wertarbeit-steinfurt.de##.reveal
 |tangleangel.com##body,html:style(overflow: auto !important; position: initial !important;)
 |tendersdirect.co.uk##body,html:style(overflow: auto !important; position: initial !important;)
 |wertarbeit-steinfurt.de##body,html:style(overflow: auto !important; position: initial !important;)
+eaudugrandlyon.com##body:remove-class(cmplz-banner-active)
 zsw-bw.de###cookienotice_box
 zsw-bw.de##body,html:style(overflow: auto !important; position: initial !important;)
 die-plank.de##+js(set-cookie, ckies_facebook_post, deny)
