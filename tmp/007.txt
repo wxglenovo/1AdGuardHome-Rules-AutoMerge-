@@ -3060,6 +3060,7 @@ lataco.com##ul[class^="SocialSharing_"]
 |news24.com##.article--top-bar-right:has(.social-sharing)
 |son.co.za##.article--top-bar-right:has(.social-sharing)
 foxnews.com##.article-meta-lower:has(.article-social)
+pubs.rsc.org##.fixpadb--xl.c--gap-xs.c:has(.btn--social)
 ms.now##.wp-block-group p:has(Share this)
 abc.net.au#?#.Button_root__UZ8td:has-text(Share)
 appleinsider.com#?#.col-xs-12 > div:has-text(Follow AppleInsider)
@@ -3221,6 +3222,7 @@ miruro.*##section[class^="_noticeSection_"]
 |basic-tutorials.de##.share-buttons
 |canadaradiostations.com##.share-buttons
 |canli-radyo-dinle.com##.share-buttons
+|cbtnews.com##.share-buttons
 |criminaljusticedegreehub.com##.share-buttons
 |datingscammer.info##.share-buttons
 |deseret.com##.share-buttons

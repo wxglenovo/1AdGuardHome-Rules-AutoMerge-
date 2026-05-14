@@ -7440,6 +7440,7 @@ lataco.com##ul[class^="SocialSharing_"]
 |news24.com##.article--top-bar-right:has(.social-sharing)
 |son.co.za##.article--top-bar-right:has(.social-sharing)
 foxnews.com##.article-meta-lower:has(.article-social)
+pubs.rsc.org##.fixpadb--xl.c--gap-xs.c:has(.btn--social)
 ms.now##.wp-block-group p:has(Share this)
 abc.net.au#?#.Button_root__UZ8td:has-text(Share)
 appleinsider.com#?#.col-xs-12 > div:has-text(Follow AppleInsider)
@@ -7601,6 +7602,7 @@ miruro.*##section[class^="_noticeSection_"]
 |basic-tutorials.de##.share-buttons
 |canadaradiostations.com##.share-buttons
 |canli-radyo-dinle.com##.share-buttons
+|cbtnews.com##.share-buttons
 |criminaljusticedegreehub.com##.share-buttons
 |datingscammer.info##.share-buttons
 |deseret.com##.share-buttons
@@ -29566,6 +29568,7 @@ volkswagen-group.com##+js(set-cookie, vw_mms_hide_cookie_dialog, 1)
 vetzoo.se##+js(set-cookie, vzs_consent_necessary, granted, , reload, 1)
 calendardate.com##+js(set-cookie, warn, true)
 kosmas.cz##+js(set-cookie, was_cookie_consent, no)
+wasp.sh##+js(set-cookie, wasp-cookies-consent, false)
 |kovopolotovary.cz##+js(set-cookie, web-cookies, 2)
 |kovopolotovary.sk##+js(set-cookie, web-cookies, 2)
 |czapek.com##+js(set-cookie, website_cookies_bar, true)
@@ -47038,6 +47041,7 @@ jewishworldreview.com##[href="/subs.php"]
 thebolditalic.com##[href="http://tbi.fyi/website_referral"]
 sfgate.com##[href="https://link.sfgate.com/join/signup-sfgate"]
 techcabal.com##[href="https://techcabal.com/newsletter"]
+cbtnews.com##[href="https://www.cbtnews.com/newsletter-signup/"]
 hackster.io##[href="https://www.hackster.io/newsletter/sign_up"]
 linuxiac.com##[href^="https://subscribe.linuxiac.com/"]
 yahoo.com##[href^="https://subscription.yahoo.net/Newsletter/"]
