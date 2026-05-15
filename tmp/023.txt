@@ -12836,6 +12836,7 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 /klaro-config.js
 /klaro-cookieconsent/config.js
 /klaro-no-css.js
+/klaro-no-translations.js
 /klaro-styles.min.
 /kvkk.cookie.v2.min.js
 /leyCookies.js
@@ -15895,6 +15896,7 @@ thefurnshop.co.uk##.fixBar
 privacysavvy.com##.fixed
 namesilo.com##.fixed-footer
 mobileshop.eu##.fixed-warning
+cline.bot##.fixed.bottom-0:has([href="/privacy"])
 tomtom.com##.fixed.bottom-24
 thelatinonewsletter.org##.fixed.left-2
 speedway.com##.fixed:has(a[href$="privacy-policy"])
@@ -23624,7 +23626,6 @@ onassis.org##.bottom-0.relative
 |canaries.co.uk##.bottom-0.fixed
 |chipcitycookies.com##.bottom-0.fixed
 |clickz.com##.bottom-0.fixed
-|cline.bot##.bottom-0.fixed
 |clipfarm.watch##.bottom-0.fixed
 |clubmed.co.nz##.bottom-0.fixed
 |clubmed.co.uk##.bottom-0.fixed
