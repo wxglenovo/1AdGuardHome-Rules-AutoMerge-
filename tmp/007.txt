@@ -869,6 +869,7 @@ tennis.com##.-sharebar
 |ynet.co.il##.AccordionShareWrapper
 |ynetnews.com##.AccordionShareWrapper
 |abebooks.com##.ActionBar
+|americanbanker.com##.ActionBar
 |nbcsports.com##.ActionBar
 |newatlas.com##.ActionBar
 |nhpr.org##.ActionBar
@@ -923,6 +924,7 @@ deccanherald.com##.NzEvQ
 |biospace.com##.Page-actions
 |ejecentral.com.mx##.Page-actions
 |ultimahora.com##.Page-actions
+americanbanker.com##.Page-footer-social
 |ask.com##.PartialSocialLinks
 |smarter.com##.PartialSocialLinks
 rbth.com##.Popup-telegram
@@ -1022,6 +1024,7 @@ f1oversteer.com##.article-follow
 |miaminewtimes.com##.article-google-preferred-button
 |phoenixnewtimes.com##.article-google-preferred-button
 |westword.com##.article-google-preferred-button
+essentiallysports.com##.article-head_es-share-container__Tkdfn
 |gamingbible.com##.article-header-meta_discoverButton__58lwg
 |ladbible.com##.article-header-meta_discoverButton__58lwg
 |sportbible.com##.article-header-meta_discoverButton__58lwg
@@ -1029,6 +1032,7 @@ f1oversteer.com##.article-follow
 |unilad.com##.article-header-meta_discoverButton__58lwg
 |uniladtech.com##.article-header-meta_discoverButton__58lwg
 foodbible.com##.article-header_discoverButton__PDfrQ
+greencars.com##.article-heading_share-component
 infoworld.com##.article-hero__social
 techxplore.com##.article-interaction__social
 ucsf.edu##.article-meta-share
@@ -1173,6 +1177,7 @@ ofbez.com##.box-fixed-subscription
 cardiff.ac.uk##.box-services
 bangkokpost.com##.boxnav--social
 essentiallysports.com##.brand-google-news-banner_link__NsLkA
+essentiallysports.com##.brand-share-article-section_container__8e0V8
 businessinsider.com##.brands-social
 oilprice.com##.breakingNews__socialMedia
 coxautoinc.com##.breathe
@@ -1582,6 +1587,7 @@ madamasr.com##.footer_icons_container
 shbarcelona.com##.footer_network
 messengernews.net##.footer_soc_icon
 pravda.com.ua##.footer_social
+essentiallysports.com##.footer_topBand__VY_5P
 wafa.ps##.footermenu
 cryptointelligence.co.uk##.fox-share
 theolivepress.es##.fox56-social-list
@@ -1691,6 +1697,7 @@ alarabiya.net##.google-news-callout
 |quiverquant.com##.google-news-follow
 kyivpost.com##.google-news-preffer-button
 bleedingcool.com##.google-news-source
+essentiallysports.com##.google-perference_googlePerference__h94ae
 |ringsidenews.com##.google-preferred-btn
 |tmz.com##.google-preferred-btn
 realestate.com.au##.google-preferred-link
@@ -1746,6 +1753,7 @@ cpac.ca##.header__multi__social
 mirror.co.uk##.header__nav__share--active
 accessonline.com##.header__social-search__icons
 tilifony.com##.header_google_button
+essentiallysports.com##.header_rightSection__pYuTf
 tilifony.com##.header_twitter_button
 hakaimagazine.com##.headericons
 insidehighered.com##.heading-sharethis
@@ -2995,13 +3003,15 @@ maps4heroes.com##[href="https://t.me/maps4heroes"]
 clashmusic.com##[href="https://vero.co/clashmagazine"]
 zycrypto.com##[href="https://zycryp.to/GoogleNews"]
 eteknix.com##[href^="http://bit.ly/"]
+frvr.com##[href^="http://google.com/preferences/source"]
 webfail.com##[href^="http://twitter.com/intent/tweet"]
 windowslatest.com##[href^="https://google.com/preferences/source"]
 |newskarnataka.com##[href^="https://news.google.com/publications/"]
 |psypost.org##[href^="https://news.google.com/publications/"]
 goodyfeed.com##[href^="https://t.me/"]
 irishnews.com##[href^="https://whatsapp.com/channel/"]
-digitaltrends.com##[href^="https://www.google.com/preferences/source"]
+|digitaltrends.com##[href^="https://www.google.com/preferences/source"]
+|driveteslacanada.ca##[href^="https://www.google.com/preferences/source"]
 militarywatchmagazine.com##[href^="https://x.com/MilitaryWatchM"]
 ynetnews.com##[style="display: flex; justify-content: center; width:100%;height:65px;border: 1px solid #e6e6e6;border-radius: 5px;background-color: #fff;box-sizing: border-box; margin: 20px auto;"]
 colourlovers.com##a.mr-10.left > [src]
@@ -4342,6 +4352,7 @@ miruro.*##section[class^="_noticeSection_"]
 |xzorra.net##.share
 |yougov.com##.share
 |almanar.com.lb##.share-button
+|aol.com##.share-button
 |bergamonews.it##.share-button
 |combinationsmag.com##.share-button
 |deraktionaer.de##.share-button

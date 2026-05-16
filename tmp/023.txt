@@ -1590,6 +1590,7 @@ novayagazeta.eu##.donate-block-europe
 |rabble.ca##.donate-box
 |sciencenews.org##.donate-box
 |thedp.com##.donate-box
+commondreams.org##.donate-button-placeholder
 lifesitenews.com##.donate-callout
 insideclimatenews.org##.donate-cta
 ourworldindata.org##.donate-footer
@@ -5250,6 +5251,7 @@ tennis.com##.-sharebar
 |ynet.co.il##.AccordionShareWrapper
 |ynetnews.com##.AccordionShareWrapper
 |abebooks.com##.ActionBar
+|americanbanker.com##.ActionBar
 |nbcsports.com##.ActionBar
 |newatlas.com##.ActionBar
 |nhpr.org##.ActionBar
@@ -5304,6 +5306,7 @@ deccanherald.com##.NzEvQ
 |biospace.com##.Page-actions
 |ejecentral.com.mx##.Page-actions
 |ultimahora.com##.Page-actions
+americanbanker.com##.Page-footer-social
 |ask.com##.PartialSocialLinks
 |smarter.com##.PartialSocialLinks
 rbth.com##.Popup-telegram
@@ -5403,6 +5406,7 @@ f1oversteer.com##.article-follow
 |miaminewtimes.com##.article-google-preferred-button
 |phoenixnewtimes.com##.article-google-preferred-button
 |westword.com##.article-google-preferred-button
+essentiallysports.com##.article-head_es-share-container__Tkdfn
 |gamingbible.com##.article-header-meta_discoverButton__58lwg
 |ladbible.com##.article-header-meta_discoverButton__58lwg
 |sportbible.com##.article-header-meta_discoverButton__58lwg
@@ -5410,6 +5414,7 @@ f1oversteer.com##.article-follow
 |unilad.com##.article-header-meta_discoverButton__58lwg
 |uniladtech.com##.article-header-meta_discoverButton__58lwg
 foodbible.com##.article-header_discoverButton__PDfrQ
+greencars.com##.article-heading_share-component
 infoworld.com##.article-hero__social
 techxplore.com##.article-interaction__social
 ucsf.edu##.article-meta-share
@@ -5554,6 +5559,7 @@ ofbez.com##.box-fixed-subscription
 cardiff.ac.uk##.box-services
 bangkokpost.com##.boxnav--social
 essentiallysports.com##.brand-google-news-banner_link__NsLkA
+essentiallysports.com##.brand-share-article-section_container__8e0V8
 businessinsider.com##.brands-social
 oilprice.com##.breakingNews__socialMedia
 coxautoinc.com##.breathe
@@ -5963,6 +5969,7 @@ madamasr.com##.footer_icons_container
 shbarcelona.com##.footer_network
 messengernews.net##.footer_soc_icon
 pravda.com.ua##.footer_social
+essentiallysports.com##.footer_topBand__VY_5P
 wafa.ps##.footermenu
 cryptointelligence.co.uk##.fox-share
 theolivepress.es##.fox56-social-list
@@ -6072,6 +6079,7 @@ alarabiya.net##.google-news-callout
 |quiverquant.com##.google-news-follow
 kyivpost.com##.google-news-preffer-button
 bleedingcool.com##.google-news-source
+essentiallysports.com##.google-perference_googlePerference__h94ae
 |ringsidenews.com##.google-preferred-btn
 |tmz.com##.google-preferred-btn
 realestate.com.au##.google-preferred-link
@@ -6127,6 +6135,7 @@ cpac.ca##.header__multi__social
 mirror.co.uk##.header__nav__share--active
 accessonline.com##.header__social-search__icons
 tilifony.com##.header_google_button
+essentiallysports.com##.header_rightSection__pYuTf
 tilifony.com##.header_twitter_button
 hakaimagazine.com##.headericons
 insidehighered.com##.heading-sharethis
@@ -7382,7 +7391,8 @@ windowslatest.com##[href^="https://google.com/preferences/source"]
 |psypost.org##[href^="https://news.google.com/publications/"]
 goodyfeed.com##[href^="https://t.me/"]
 irishnews.com##[href^="https://whatsapp.com/channel/"]
-digitaltrends.com##[href^="https://www.google.com/preferences/source"]
+|digitaltrends.com##[href^="https://www.google.com/preferences/source"]
+|driveteslacanada.ca##[href^="https://www.google.com/preferences/source"]
 militarywatchmagazine.com##[href^="https://x.com/MilitaryWatchM"]
 ynetnews.com##[style="display: flex; justify-content: center; width:100%;height:65px;border: 1px solid #e6e6e6;border-radius: 5px;background-color: #fff;box-sizing: border-box; margin: 20px auto;"]
 colourlovers.com##a.mr-10.left > [src]
@@ -8723,6 +8733,7 @@ miruro.*##section[class^="_noticeSection_"]
 |xzorra.net##.share
 |yougov.com##.share
 |almanar.com.lb##.share-button
+|aol.com##.share-button
 |bergamonews.it##.share-button
 |combinationsmag.com##.share-button
 |deraktionaer.de##.share-button
@@ -44792,6 +44803,7 @@ audiofilemagazine.com##.cta-small
 carsauce.com##.cta46_component
 trak.in##.cta_49
 itsfoss.com##.cta__inner
+greencars.com##.cta_newsletter
 kuow.org##.cta_newsletters_explore
 the74million.org##.cta_snippet
 bigissue.com##.ctas-container
@@ -45494,6 +45506,7 @@ boston.com##.m-generic-cta
 boston.com##.m-generic-cta--email-signup
 minds.com##.m-modal-bg
 aol.com##.m-newsletter
+aol.com##.m-newsletter-base
 politifact.com##.m-supporter
 money.com##.m00646-mc-newsletter
 city-journal.org##.m_newsletter-container
@@ -45729,6 +45742,7 @@ space.com##.newsletter-branded-widget
 chalkbeat.org##.newsletter-breaker-wrapper
 |dailydot.com##.newsletter-button
 |folhape.com.br##.newsletter-button
+commondreams.org##.newsletter-button-top
 |independent.co.uk##.newsletter-component
 |the-independent.com##.newsletter-component
 |theblock.co##.newsletter-component
@@ -48135,6 +48149,7 @@ idealista.pt##.newsletter-subscription-form
 |pitchfork.com##.newsletter
 |pomade.com##.newsletter
 |portalinsights.com.br##.newsletter
+|pride.com##.newsletter
 |profil.at##.newsletter
 |prospectmagazine.co.uk##.newsletter
 |psfk.com##.newsletter
