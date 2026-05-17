@@ -3788,6 +3788,8 @@ gigabaito.com##.article-banner-cta
 hotpepper.jp##.autoScrollBtn
 kusurinomadoguchi.com##.balloon
 yodosha.co.jp##.banner-block
+univ-online.com##.banners-c
+univ-online.com##.banners-header__item
 biccamera.com##.bcs_listItem > ul > .prod_box:has(> p > a[href^="https://e.s4p.jp/"] > span.bcs_pr)
 jingukan.co.jp##.bfb_textBtn
 anglers.jp##.bottom-banner-container
@@ -3820,6 +3822,7 @@ e-mansion.co.jp##.new-building-label
 |video.laxd.com##.noLoginSticker
 ntv.co.jp##.ntv-pageTop
 realtime-chart.info##.osn_base
+univ-online.com##.other-post
 mastory.jp##.p-article__banners
 |gamespark.jp##.page-top
 |response.jp##.page-top
@@ -43375,6 +43378,7 @@ yoigo.com#@#thor-cookies
 ||form.jotform.com^$domain=premierchristian.news
 ||forms-content.sg-form.com^$domain=12tomatoes.com
 ||forms.aweber.com^$domain=thetruthaboutguns.com
+||forms.blackhawks.com/newsletter-signup$subdocument
 ||gn-flagpoles.api.bbci.co.uk^
 ||hartmannreport.com/embed
 ||herokuapp.com/email$domain=peopleofcolorintech.com
@@ -43394,6 +43398,7 @@ yoigo.com#@#thor-cookies
 ||sibforms.com/serve/$domain=maidenhead-advertiser.co.uk|sloughexpress.co.uk
 ||smartbrief.com/TheForecast?$subdocument
 ||subscriptions.cbc.ca^$xmlhttprequest
+||tdgardenapps.com/countdown/2024_Game_Clock.html$subdocument
 ||thejewishstar.com/images/enews-ad.png
 ||tinypass.com^$domain=artnews.com|bbc.com|bbcgoodfood.com|billboard.com|businessinsider.com.pl|deadline.com|hollywoodreporter.com|nationalobserver.com|npr.org|outsideonline.com|prospectmagazine.co.uk|rawstory.com|refinery29.com|rollingstone.com|sifted.eu|stuff.co.nz|telegraph.co.uk|the42.ie|thedailybeast.com|thelogic.co|thenation.com|variety.com|wwd.com
 ||waterfordwhispersnews.com/wp-content/themes/therex-child/js/_newsletter-article-signup.js
@@ -52013,6 +52018,7 @@ observer-reporter.com###tncms-block-689490
 m.economictimes.com###wapFooter
 reddit.com###xpromo-bottom-sheet[aria-label*="See Reddit in..."]
 reddit.com###xpromo-bottom-sheet[aria-label*="See this post in..."]
+nhl.com##.-promo
 imgur.io##.Ad
 redfin.com##.AppInstallBannerWrapper
 dailymotion.com##.AppPromotion__appPromotion___28-_Y
