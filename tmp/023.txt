@@ -7073,6 +7073,7 @@ spacebar.news##.spacebar-auto-notice
 |watchinamerica.com##.spc-social
 energy-reporters.com##.spc-social-block
 douglasnow.com##.spc-social-follow
+thestateofbrand.com##.sponsored_by-wrapper
 republicworld.com##.sponsors-container
 visionguinee.info##.spu-bg
 visionguinee.info##.spu-box
@@ -43118,6 +43119,7 @@ yoigo.com#@#thor-cookies
 @@||sourcepoint.mgr.consensu.org^$domain=t3n.de
 @@||sourcepointcmp.bloomberg.*/mms/get_site_data?$domain=bloomberg.co.jp|bloomberg.com
 @@||spacecentre.co.uk^*/uk-cookie-consent-js
+@@||spidgateway.regione.campania.it/staticResources/scripts/cookieconsent.min.js$~third-party
 @@||st.getsitecontrol.com/main/runtime/$script,domain=beaconclimbing.com
 @@||stabila.com/bundles/marketingsuite/css/cookie-bar.css
 @@||starhotels.com^*/cookiesdisclaimer.js$script
@@ -44809,6 +44811,7 @@ digitimes.com##.cta-link
 |morningstar.com.au##.cta-newsletter
 |saturdayeveningpost.com##.cta-newsletter
 audiofilemagazine.com##.cta-small
+thestateofbrand.com##.cta2-trail
 carsauce.com##.cta46_component
 trak.in##.cta_49
 itsfoss.com##.cta__inner
