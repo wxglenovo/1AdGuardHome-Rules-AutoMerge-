@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-05-20T05:27:23.888Z
+🚫 去掉注释行: ! Last modified: 2026-05-20T07:22:28.483Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -1581,10 +1581,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 99514
-🚫 去掉注释行: ! Checksum: nQXFf0odReH8qfm8FNgYpg
-🚫 去掉注释行: ! Version: 202605200531
+🚫 去掉注释行: ! Checksum: ODBCYah3w7rDrTDoIuykqA
+🚫 去掉注释行: ! Version: 202605200841
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 20 May 2026 05:31 UTC
+🚫 去掉注释行: ! Last modified: 20 May 2026 08:41 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -23118,6 +23118,9 @@
 ✅ 多域名拆分: soapcentral.com,sportskeeda.com##.vidazoo-player-container
     → |soapcentral.com##.vidazoo-player-container
     → |sportskeeda.com##.vidazoo-player-container
+✅ 多域名拆分: justthenews.com,polygon.com##.video
+    → |justthenews.com##.video
+    → |polygon.com##.video
 ✅ 多域名拆分: bowhunter.com,firearmsnews.com,flyfisherman.com,gameandfishmag.com,gunsandammo.com,handgunsmag.com,in-fisherman.com,northamericanwhitetail.com,petersenshunting.com,rifleshootermag.com,shootingtimes.com,wildfowlmag.com##.video-detail-player
     → |bowhunter.com##.video-detail-player
     → |firearmsnews.com##.video-detail-player
@@ -24929,10 +24932,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: ZDSP7AX39fuMlZXI+SwPdg
-🚫 去掉注释行: ! Version: 202605200531
+🚫 去掉注释行: ! Checksum: FK/JzW4HTGt5iIxNh2TrSw
+🚫 去掉注释行: ! Version: 202605200841
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 20 May 2026 05:31 UTC
+🚫 去掉注释行: ! Last modified: 20 May 2026 08:41 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29536,10 +29539,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: 7ZjHjhVlXqTir36edm5fIw
-🚫 去掉注释行: ! Version: 202605200531
+🚫 去掉注释行: ! Checksum: etedb4dK5QZhvulK4NN2Dw
+🚫 去掉注释行: ! Version: 202605200841
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 20 May 2026 05:31 UTC
+🚫 去掉注释行: ! Last modified: 20 May 2026 08:41 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -30210,11 +30213,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202605200538
+🚫 去掉注释行: ! Version: 202605200839
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 20 May 2026 05:38 UTC
+🚫 去掉注释行: ! Last modified: 20 May 2026 08:39 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 80c4881370b7efeead81482636e9e6030ea6ce46
+🚫 去掉注释行: ! Commit: b39a57ba072a08e9de77d8891a63af84c041de71
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -51758,6 +51761,9 @@
 ✅ 多域名拆分: soapcentral.com,sportskeeda.com##.vidazoo-player-container
     → |soapcentral.com##.vidazoo-player-container
     → |sportskeeda.com##.vidazoo-player-container
+✅ 多域名拆分: justthenews.com,polygon.com##.video
+    → |justthenews.com##.video
+    → |polygon.com##.video
 ✅ 多域名拆分: bowhunter.com,firearmsnews.com,flyfisherman.com,gameandfishmag.com,gunsandammo.com,handgunsmag.com,in-fisherman.com,northamericanwhitetail.com,petersenshunting.com,rifleshootermag.com,shootingtimes.com,wildfowlmag.com##.video-detail-player
     → |bowhunter.com##.video-detail-player
     → |firearmsnews.com##.video-detail-player
@@ -53594,11 +53600,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202605200538
+🚫 去掉注释行: ! Version: 202605200839
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 20 May 2026 05:38 UTC
+🚫 去掉注释行: ! Last modified: 20 May 2026 08:39 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 80c4881370b7efeead81482636e9e6030ea6ce46
+🚫 去掉注释行: ! Commit: b39a57ba072a08e9de77d8891a63af84c041de71
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -69755,29 +69761,24 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !Generated: 2026-05-20 09:34:18
-🚫 去掉注释行: !RuleCount: 1784946
+🚫 去掉注释行: !Generated: 2026-05-20 13:49:35
+🚫 去掉注释行: !RuleCount: 1784111
 ✅ HOSTS 转换: 127.0.0.1 0022a601.pphost.net → |0022a601.pphost.net^
-✅ HOSTS 转换: 127.0.0.1 0gtutd.yandex-file.lat → |0gtutd.yandex-file.lat^
 ✅ HOSTS 转换: 127.0.0.1 0h5smwzp.network-forge.digital → |0h5smwzp.network-forge.digital^
 ✅ HOSTS 转换: 127.0.0.1 0q9bvoqh.telemetry-vault.digital → |0q9bvoqh.telemetry-vault.digital^
 ✅ HOSTS 转换: 127.0.0.1 123.ywxww.net → |123.ywxww.net^
 ✅ HOSTS 转换: 127.0.0.1 1717.1000uc.com → |1717.1000uc.com^
-✅ HOSTS 转换: 127.0.0.1 1sj4u9.file-online.lat → |1sj4u9.file-online.lat^
-✅ HOSTS 转换: 127.0.0.1 23dcbt0c.network-horizon.digital → |23dcbt0c.network-horizon.digital^
-✅ HOSTS 转换: 127.0.0.1 2b7f1jfa.cloud-forge.digital → |2b7f1jfa.cloud-forge.digital^
 ✅ HOSTS 转换: 127.0.0.1 2u5vvnoh.microservice-pulse.digital → |2u5vvnoh.microservice-pulse.digital^
 ✅ HOSTS 转换: 127.0.0.1 3bra.solonettochka.ru → |3bra.solonettochka.ru^
-✅ HOSTS 转换: 127.0.0.1 4getd0km.script-matrix.digital → |4getd0km.script-matrix.digital^
-✅ HOSTS 转换: 127.0.0.1 4j0v33ow.cyber-lattice.digital → |4j0v33ow.cyber-lattice.digital^
+✅ HOSTS 转换: 127.0.0.1 3brosstore.com → |3brosstore.com^
+✅ HOSTS 转换: 127.0.0.1 3zqfx034.subfossiloakchronology.digital → |3zqfx034.subfossiloakchronology.digital^
+✅ HOSTS 转换: 127.0.0.1 46fmfamd.crispychickencutlets.digital → |46fmfamd.crispychickencutlets.digital^
 ✅ HOSTS 转换: 127.0.0.1 4qm7sqpa.cyber-harbor.digital → |4qm7sqpa.cyber-harbor.digital^
-✅ HOSTS 转换: 127.0.0.1 5pt4yq.file-online.lat → |5pt4yq.file-online.lat^
-✅ HOSTS 转换: 127.0.0.1 83j6hfza.runtime-forge.digital → |83j6hfza.runtime-forge.digital^
+✅ HOSTS 转换: 127.0.0.1 8duc5067.siciliandefensetheory.digital → |8duc5067.siciliandefensetheory.digital^
 ✅ HOSTS 转换: 127.0.0.1 8qxg5lyp.logic-pulse.digital → |8qxg5lyp.logic-pulse.digital^
+✅ HOSTS 转换: 127.0.0.1 8xtx6dv2.gothiccathedralblueprint.digital → |8xtx6dv2.gothiccathedralblueprint.digital^
 ✅ HOSTS 转换: 127.0.0.1 9z.wtf → |9z.wtf^
 ✅ HOSTS 转换: 127.0.0.1 aakrutitexture.in → |aakrutitexture.in^
-✅ HOSTS 转换: 127.0.0.1 abandoned-asylum-expedition.garden → |abandoned-asylum-expedition.garden^
-✅ HOSTS 转换: 127.0.0.1 abyssal-kraken-trench.garden → |abyssal-kraken-trench.garden^
 ✅ HOSTS 转换: 127.0.0.1 abyssal-plain-topography.garden → |abyssal-plain-topography.garden^
 ✅ HOSTS 转换: 127.0.0.1 acaviationsupplies.com → |acaviationsupplies.com^
 ✅ HOSTS 转换: 127.0.0.1 acc.jiangsujiaxue.com → |acc.jiangsujiaxue.com^
@@ -69787,15 +69788,15 @@
 ✅ HOSTS 转换: 127.0.0.1 admin.gestroom.it → |admin.gestroom.it^
 ✅ HOSTS 转换: 127.0.0.1 affirmingyourlife.com → |affirmingyourlife.com^
 ✅ HOSTS 转换: 127.0.0.1 agence-immobiliere-lyon.com → |agence-immobiliere-lyon.com^
-✅ HOSTS 转换: 127.0.0.1 aimgrub2-cloud-sphere-get.garden → |aimgrub2-cloud-sphere-get.garden^
+✅ HOSTS 转换: 127.0.0.1 agilebee-federate-growth-net.garden → |agilebee-federate-growth-net.garden^
 ✅ HOSTS 转换: 127.0.0.1 alarmline.com.br → |alarmline.com.br^
-✅ HOSTS 转换: 127.0.0.1 alchemical-formula-scroll.garden → |alchemical-formula-scroll.garden^
 ✅ HOSTS 转换: 127.0.0.1 alineeleuterio.com.br → |alineeleuterio.com.br^
 ✅ HOSTS 转换: 127.0.0.1 allendostmen.com → |allendostmen.com^
 ✅ HOSTS 转换: 127.0.0.1 allister.ee → |allister.ee^
 ✅ HOSTS 转换: 127.0.0.1 alternativas.ru → |alternativas.ru^
+✅ HOSTS 转换: 127.0.0.1 amber-fossil-mosquito.garden → |amber-fossil-mosquito.garden^
+✅ HOSTS 转换: 127.0.0.1 ancient-colosseum-engineering.garden → |ancient-colosseum-engineering.garden^
 ✅ HOSTS 转换: 127.0.0.1 andjemztech.com → |andjemztech.com^
-✅ HOSTS 转换: 127.0.0.1 antbots-uni-resou-plats.garden → |antbots-uni-resou-plats.garden^
 ✅ HOSTS 转换: 127.0.0.1 api.baimless.com → |api.baimless.com^
 ✅ HOSTS 转换: 127.0.0.1 api.ezilax.com → |api.ezilax.com^
 ✅ HOSTS 转换: 127.0.0.1 app.appzcvb.com → |app.appzcvb.com^
@@ -69809,11 +69810,12 @@
 ✅ HOSTS 转换: 127.0.0.1 augsburg-auto.com → |augsburg-auto.com^
 ✅ HOSTS 转换: 127.0.0.1 aumri.ae → |aumri.ae^
 ✅ HOSTS 转换: 127.0.0.1 autobaenasl.com → |autobaenasl.com^
-✅ HOSTS 转换: 127.0.0.1 ba5ufc2h.logic-sphere.digital → |ba5ufc2h.logic-sphere.digital^
 ✅ HOSTS 转换: 127.0.0.1 backupso.com → |backupso.com^
 ✅ HOSTS 转换: 127.0.0.1 bada-bing-sopranos-lounge.garden → |bada-bing-sopranos-lounge.garden^
+✅ HOSTS 转换: 127.0.0.1 bagansi-wild-flowr-manage-form.garden → |bagansi-wild-flowr-manage-form.garden^
 ✅ HOSTS 转换: 127.0.0.1 bbos.minet.vn → |bbos.minet.vn^
 ✅ HOSTS 转换: 127.0.0.1 beoauto.alexion.rs → |beoauto.alexion.rs^
+✅ HOSTS 转换: 127.0.0.1 bioluminescent-fungi-spore.garden → |bioluminescent-fungi-spore.garden^
 ✅ HOSTS 转换: 127.0.0.1 blessdayservices.org → |blessdayservices.org^
 ✅ HOSTS 转换: 127.0.0.1 blogs.sokun.jp → |blogs.sokun.jp^
 ✅ HOSTS 转换: 127.0.0.1 bmdcompany.com → |bmdcompany.com^
@@ -69822,18 +69824,21 @@
 ✅ HOSTS 转换: 127.0.0.1 bombayonline.in → |bombayonline.in^
 ✅ HOSTS 转换: 127.0.0.1 book.rollingvideogames.com → |book.rollingvideogames.com^
 ✅ HOSTS 转换: 127.0.0.1 botanicalanalyticsengine.garden → |botanicalanalyticsengine.garden^
+✅ HOSTS 转换: 127.0.0.1 botanicalautomationframework.garden → |botanicalautomationframework.garden^
 ✅ HOSTS 转换: 127.0.0.1 botanicalmonitoringengine.garden → |botanicalmonitoringengine.garden^
-✅ HOSTS 转换: 127.0.0.1 botanicalresourceplatform.garden → |botanicalresourceplatform.garden^
+✅ HOSTS 转换: 127.0.0.1 botanicalresourcecontroller.garden → |botanicalresourcecontroller.garden^
 ✅ HOSTS 转换: 127.0.0.1 botanicalworkflowcenter.garden → |botanicalworkflowcenter.garden^
 ✅ HOSTS 转换: 127.0.0.1 botanicalworkflowplatform.garden → |botanicalworkflowplatform.garden^
 ✅ HOSTS 转换: 127.0.0.1 botnet.fizra.biz.id → |botnet.fizra.biz.id^
-✅ HOSTS 转换: 127.0.0.1 bots-unical-resource-platform.garden → |bots-unical-resource-platform.garden^
 ✅ HOSTS 转换: 127.0.0.1 bridgeroad.maverickpreviews.com → |bridgeroad.maverickpreviews.com^
 ✅ HOSTS 转换: 127.0.0.1 brightworks.cz → |brightworks.cz^
 ✅ HOSTS 转换: 127.0.0.1 bvaco.com → |bvaco.com^
+✅ HOSTS 转换: 127.0.0.1 byzantine-mosaic-restoration.garden → |byzantine-mosaic-restoration.garden^
 ✅ HOSTS 转换: 127.0.0.1 c.fi3.me → |c.fi3.me^
+✅ HOSTS 转换: 127.0.0.1 c2.mc-live.online → |c2.mc-live.online^
 ✅ HOSTS 转换: 127.0.0.1 c2rdcpuv.runtime-sphere.digital → |c2rdcpuv.runtime-sphere.digital^
 ✅ HOSTS 转换: 127.0.0.1 cad.659t.cn → |cad.659t.cn^
+✅ HOSTS 转换: 127.0.0.1 carbon-fiber-monocoque.garden → |carbon-fiber-monocoque.garden^
 ✅ HOSTS 转换: 127.0.0.1 cat.dashabi.in → |cat.dashabi.in^
 ✅ HOSTS 转换: 127.0.0.1 cat.xiaojiji.nl → |cat.xiaojiji.nl^
 ✅ HOSTS 转换: 127.0.0.1 cat.xiaoshabi.nl → |cat.xiaoshabi.nl^
@@ -69847,29 +69852,22 @@
 ✅ HOSTS 转换: 127.0.0.1 checkinetverifk.com → |checkinetverifk.com^
 ✅ HOSTS 转换: 127.0.0.1 chinaapper.com → |chinaapper.com^
 ✅ HOSTS 转换: 127.0.0.1 chiptune.com → |chiptune.com^
-✅ HOSTS 转换: 127.0.0.1 chronicle-archive-keeper.garden → |chronicle-archive-keeper.garden^
 ✅ HOSTS 转换: 127.0.0.1 chungminhtaichinhsaigon.net → |chungminhtaichinhsaigon.net^
 ✅ HOSTS 转换: 127.0.0.1 cl.ssouy.com → |cl.ssouy.com^
-✅ HOSTS 转换: 127.0.0.1 clamprob-folder-runtime-forge.garden → |clamprob-folder-runtime-forge.garden^
-✅ HOSTS 转换: 127.0.0.1 cleanlay-fet-telemetry-vault.garden → |cleanlay-fet-telemetry-vault.garden^
-✅ HOSTS 转换: 127.0.0.1 cloudnewsfeed.com → |cloudnewsfeed.com^
 ✅ HOSTS 转换: 127.0.0.1 clubdetiroelpicarcho.com → |clubdetiroelpicarcho.com^
 ✅ HOSTS 转换: 127.0.0.1 cn.unionlever.com → |cn.unionlever.com^
-✅ HOSTS 转换: 127.0.0.1 cntainrs-folders-giped-green-hub.garden → |cntainrs-folders-giped-green-hub.garden^
 ✅ HOSTS 转换: 127.0.0.1 co-emas.com → |co-emas.com^
-✅ HOSTS 转换: 127.0.0.1 coad-meadow-analytics-center.garden → |coad-meadow-analytics-center.garden^
+✅ HOSTS 转换: 127.0.0.1 codepit-rized-denengine.garden → |codepit-rized-denengine.garden^
 ✅ HOSTS 转换: 127.0.0.1 compuserviceonline.com.br → |compuserviceonline.com.br^
-✅ HOSTS 转换: 127.0.0.1 container-folder-gized-greenhub.garden → |container-folder-gized-greenhub.garden^
 ✅ HOSTS 转换: 127.0.0.1 containerizedbloomhub.garden → |containerizedbloomhub.garden^
-✅ HOSTS 转换: 127.0.0.1 containerizedecosystem.garden → |containerizedecosystem.garden^
+✅ HOSTS 转换: 127.0.0.1 containerizedgardenengine.garden → |containerizedgardenengine.garden^
 ✅ HOSTS 转换: 127.0.0.1 containerizedgardenhub.garden → |containerizedgardenhub.garden^
-✅ HOSTS 转换: 127.0.0.1 containerizedgardenmesh.garden → |containerizedgardenmesh.garden^
+✅ HOSTS 转换: 127.0.0.1 containerizedplantengine.garden → |containerizedplantengine.garden^
 ✅ HOSTS 转换: 127.0.0.1 containerizedplantnetwork.garden → |containerizedplantnetwork.garden^
 ✅ HOSTS 转换: 127.0.0.1 continentalgroup.net.in → |continentalgroup.net.in^
 ✅ HOSTS 转换: 127.0.0.1 controliumbt.com → |controliumbt.com^
 ✅ HOSTS 转换: 127.0.0.1 coralasargetia.ro → |coralasargetia.ro^
 ✅ HOSTS 转换: 127.0.0.1 corporacioncrf.com → |corporacioncrf.com^
-✅ HOSTS 转换: 127.0.0.1 cosmicmicrowavebackground.garden → |cosmicmicrowavebackground.garden^
 ✅ HOSTS 转换: 127.0.0.1 cpofficial.com → |cpofficial.com^
 ✅ HOSTS 转换: 127.0.0.1 crackedsoftware.doxbin.cy → |crackedsoftware.doxbin.cy^
 ✅ HOSTS 转换: 127.0.0.1 creativevoltage.com → |creativevoltage.com^
@@ -69883,15 +69881,15 @@
 ✅ HOSTS 转换: 127.0.0.1 cybernetic-prosthetic-lab.garden → |cybernetic-prosthetic-lab.garden^
 ✅ HOSTS 转换: 127.0.0.1 d.14yaa.com → |d.14yaa.com^
 ✅ HOSTS 转换: 127.0.0.1 d.wanyouxi7.com → |d.wanyouxi7.com^
-✅ HOSTS 转换: 127.0.0.1 d1jtbg8r.node-matrix.digital → |d1jtbg8r.node-matrix.digital^
 ✅ HOSTS 转换: 127.0.0.1 damiancollier.com → |damiancollier.com^
+✅ HOSTS 转换: 127.0.0.1 dampcaps-flor-sou-rail.garden → |dampcaps-flor-sou-rail.garden^
 ✅ HOSTS 转换: 127.0.0.1 data.yhydl.com → |data.yhydl.com^
 ✅ HOSTS 转换: 127.0.0.1 dcrun.co.uk → |dcrun.co.uk^
 ✅ HOSTS 转换: 127.0.0.1 dcwblida.dz → |dcwblida.dz^
 ✅ HOSTS 转换: 127.0.0.1 de.cloud.dxang.com → |de.cloud.dxang.com^
 ✅ HOSTS 转换: 127.0.0.1 deep-sea-hydrothermal-vent.garden → |deep-sea-hydrothermal-vent.garden^
-✅ HOSTS 转换: 127.0.0.1 deep-space-artificial-gravity.garden → |deep-space-artificial-gravity.garden^
 ✅ HOSTS 转换: 127.0.0.1 delp-heizungsbau.de → |delp-heizungsbau.de^
+✅ HOSTS 转换: 127.0.0.1 dengrep-resource-opencut-engine.garden → |dengrep-resource-opencut-engine.garden^
 ✅ HOSTS 转换: 127.0.0.1 derekludlow.com → |derekludlow.com^
 ✅ HOSTS 转换: 127.0.0.1 desentupidora.pro.br → |desentupidora.pro.br^
 ✅ HOSTS 转换: 127.0.0.1 dev1-revitavive.com → |dev1-revitavive.com^
@@ -69901,8 +69899,9 @@
 ✅ HOSTS 转换: 127.0.0.1 dezcom.com → |dezcom.com^
 ✅ HOSTS 转换: 127.0.0.1 dhnconstrucciones.com.ar → |dhnconstrucciones.com.ar^
 ✅ HOSTS 转换: 127.0.0.1 disk.accord1key.cn → |disk.accord1key.cn^
-✅ HOSTS 转换: 127.0.0.1 distributed-garden-framework.garden → |distributed-garden-framework.garden^
+✅ HOSTS 转换: 127.0.0.1 distributedbloomnetwork.garden → |distributedbloomnetwork.garden^
 ✅ HOSTS 转换: 127.0.0.1 distributedbotanicalnetwork.garden → |distributedbotanicalnetwork.garden^
+✅ HOSTS 转换: 127.0.0.1 distributedgardenanalytics.garden → |distributedgardenanalytics.garden^
 ✅ HOSTS 转换: 127.0.0.1 distributedgardencontrol.garden → |distributedgardencontrol.garden^
 ✅ HOSTS 转换: 127.0.0.1 distributedgardenresource.garden → |distributedgardenresource.garden^
 ✅ HOSTS 转换: 127.0.0.1 distributedgrowthnetwork.garden → |distributedgrowthnetwork.garden^
@@ -69912,7 +69911,6 @@
 ✅ HOSTS 转换: 127.0.0.1 dl.dzqzd.com → |dl.dzqzd.com^
 ✅ HOSTS 转换: 127.0.0.1 dl.natgo.cn → |dl.natgo.cn^
 ✅ HOSTS 转换: 127.0.0.1 doc.e-statements.app → |doc.e-statements.app^
-✅ HOSTS 转换: 127.0.0.1 docktan-flexo-avastpig-engine.garden → |docktan-flexo-avastpig-engine.garden^
 ✅ HOSTS 转换: 127.0.0.1 docsfan-flora-ability-system.garden → |docsfan-flora-ability-system.garden^
 ✅ HOSTS 转换: 127.0.0.1 donkeytourscroatia.com → |donkeytourscroatia.com^
 ✅ HOSTS 转换: 127.0.0.1 down.54nb.com → |down.54nb.com^
@@ -69927,7 +69925,6 @@
 ✅ HOSTS 转换: 127.0.0.1 download.pdf00.com → |download.pdf00.com^
 ✅ HOSTS 转换: 127.0.0.1 download.suxiazai.com → |download.suxiazai.com^
 ✅ HOSTS 转换: 127.0.0.1 dowonline.ru → |dowonline.ru^
-✅ HOSTS 转换: 127.0.0.1 dpsradars.shop → |dpsradars.shop^
 ✅ HOSTS 转换: 127.0.0.1 dreamwatchevent.com → |dreamwatchevent.com^
 ✅ HOSTS 转换: 127.0.0.1 drevos.ro → |drevos.ro^
 ✅ HOSTS 转换: 127.0.0.1 dubaitechnicalservice.ae → |dubaitechnicalservice.ae^
@@ -69936,14 +69933,12 @@
 ✅ HOSTS 转换: 127.0.0.1 easybrand.vn → |easybrand.vn^
 ✅ HOSTS 转换: 127.0.0.1 ecosystem-processing-tienginx-center.garden → |ecosystem-processing-tienginx-center.garden^
 ✅ HOSTS 转换: 127.0.0.1 ecosystemmanagementcore.garden → |ecosystemmanagementcore.garden^
-✅ HOSTS 转换: 127.0.0.1 ecosystemprocessingcenter.garden → |ecosystemprocessingcenter.garden^
 ✅ HOSTS 转换: 127.0.0.1 electri.billregulator.com → |electri.billregulator.com^
 ✅ HOSTS 转换: 127.0.0.1 elisans.novayonetim.com → |elisans.novayonetim.com^
 ✅ HOSTS 转换: 127.0.0.1 emaisboletos.com → |emaisboletos.com^
 ✅ HOSTS 转换: 127.0.0.1 embedone.com → |embedone.com^
 ✅ HOSTS 转换: 127.0.0.1 en.taichuan.com → |en.taichuan.com^
 ✅ HOSTS 转换: 127.0.0.1 epanpano.com → |epanpano.com^
-✅ HOSTS 转换: 127.0.0.1 epx5g5.file-online.lat → |epx5g5.file-online.lat^
 ✅ HOSTS 转换: 127.0.0.1 estudio.ythan.com.br → |estudio.ythan.com.br^
 ✅ HOSTS 转换: 127.0.0.1 evangroup.ru → |evangroup.ru^
 ✅ HOSTS 转换: 127.0.0.1 everycarebd.com → |everycarebd.com^
@@ -69951,8 +69946,9 @@
 ✅ HOSTS 转换: 127.0.0.1 fakers.co.jp → |fakers.co.jp^
 ✅ HOSTS 转换: 127.0.0.1 falseflag1.ru → |falseflag1.ru^
 ✅ HOSTS 转换: 127.0.0.1 farschid.de → |farschid.de^
-✅ HOSTS 转换: 127.0.0.1 fatkow.file-online.lat → |fatkow.file-online.lat^
 ✅ HOSTS 转换: 127.0.0.1 fd.v2downf.shop → |fd.v2downf.shop^
+✅ HOSTS 转换: 127.0.0.1 federatedgardenplatform.garden → |federatedgardenplatform.garden^
+✅ HOSTS 转换: 127.0.0.1 federatedgrowthnetwork.garden → |federatedgrowthnetwork.garden^
 ✅ HOSTS 转换: 127.0.0.1 federatedmeadowsystem.garden → |federatedmeadowsystem.garden^
 ✅ HOSTS 转换: 127.0.0.1 federatedplantplatform.garden → |federatedplantplatform.garden^
 ✅ HOSTS 转换: 127.0.0.1 fertas.com.tr → |fertas.com.tr^
@@ -69961,15 +69957,12 @@
 ✅ HOSTS 转换: 127.0.0.1 file.uhsea.com → |file.uhsea.com^
 ✅ HOSTS 转换: 127.0.0.1 filerit.com → |filerit.com^
 ✅ HOSTS 转换: 127.0.0.1 first-security-verden.de → |first-security-verden.de^
-✅ HOSTS 转换: 127.0.0.1 flora-observe-ability-engine.garden → |flora-observe-ability-engine.garden^
-✅ HOSTS 转换: 127.0.0.1 flora-obsrvs-ability-todo.garden → |flora-obsrvs-ability-todo.garden^
 ✅ HOSTS 转换: 127.0.0.1 floraanalyticsengine.garden → |floraanalyticsengine.garden^
 ✅ HOSTS 转换: 127.0.0.1 floraanalyticsresource.garden → |floraanalyticsresource.garden^
 ✅ HOSTS 转换: 127.0.0.1 floraautomationnetwork.garden → |floraautomationnetwork.garden^
-✅ HOSTS 转换: 127.0.0.1 floraobservabilitysystem.garden → |floraobservabilitysystem.garden^
-✅ HOSTS 转换: 127.0.0.1 flow-hub-green-house-work.garden → |flow-hub-green-house-work.garden^
+✅ HOSTS 转换: 127.0.0.1 floraobservabilitycenter.garden → |floraobservabilitycenter.garden^
+✅ HOSTS 转换: 127.0.0.1 floraresourcecontroller.garden → |floraresourcecontroller.garden^
 ✅ HOSTS 转换: 127.0.0.1 flyingmutts.com → |flyingmutts.com^
-✅ HOSTS 转换: 127.0.0.1 forgotten-civilization-myth.garden → |forgotten-civilization-myth.garden^
 ✅ HOSTS 转换: 127.0.0.1 fotosdepuebla.org → |fotosdepuebla.org^
 ✅ HOSTS 转换: 127.0.0.1 frozi.cc → |frozi.cc^
 ✅ HOSTS 转换: 127.0.0.1 fukt.link → |fukt.link^
@@ -69980,19 +69973,12 @@
 ✅ HOSTS 转换: 127.0.0.1 gardenresourcecontroller.garden → |gardenresourcecontroller.garden^
 ✅ HOSTS 转换: 127.0.0.1 geo-foundation.vg → |geo-foundation.vg^
 ✅ HOSTS 转换: 127.0.0.1 gestionycobranzas.com → |gestionycobranzas.com^
-✅ HOSTS 转换: 127.0.0.1 get-shell-gard-frame-work.garden → |get-shell-gard-frame-work.garden^
-✅ HOSTS 转换: 127.0.0.1 ggwpcheats.xyz → |ggwpcheats.xyz^
 ✅ HOSTS 转换: 127.0.0.1 gigs.us.1e.cm → |gigs.us.1e.cm^
-✅ HOSTS 转换: 127.0.0.1 glacial-ice-core-sample.garden → |glacial-ice-core-sample.garden^
-✅ HOSTS 转换: 127.0.0.1 globalsstat.com → |globalsstat.com^
-✅ HOSTS 转换: 127.0.0.1 globalsstat.org → |globalsstat.org^
 ✅ HOSTS 转换: 127.0.0.1 globalbank.us → |globalbank.us^
-✅ HOSTS 转换: 127.0.0.1 glow-hub-herboron-sixoauth-work.garden → |glow-hub-herboron-sixoauth-work.garden^
 ✅ HOSTS 转换: 127.0.0.1 gobiotechpestcontrol.com → |gobiotechpestcontrol.com^
 ✅ HOSTS 转换: 127.0.0.1 google-services.cc → |google-services.cc^
-✅ HOSTS 转换: 127.0.0.1 got-flexl-distrib-engine.garden → |got-flexl-distrib-engine.garden^
 ✅ HOSTS 转换: 127.0.0.1 gothic-cathedral-blueprint.garden → |gothic-cathedral-blueprint.garden^
-✅ HOSTS 转换: 127.0.0.1 great-fauna-tcpipgay-go-system.garden → |great-fauna-tcpipgay-go-system.garden^
+✅ HOSTS 转换: 127.0.0.1 green-macrohim-work-center.garden → |green-macrohim-work-center.garden^
 ✅ HOSTS 转换: 127.0.0.1 greenf.alexion.rs → |greenf.alexion.rs^
 ✅ HOSTS 转换: 127.0.0.1 greenhousecontrolplatform.garden → |greenhousecontrolplatform.garden^
 ✅ HOSTS 转换: 127.0.0.1 greenhousedeploymenthub.garden → |greenhousedeploymenthub.garden^
@@ -70000,105 +69986,92 @@
 ✅ HOSTS 转换: 127.0.0.1 greenhousemonitoringhub.garden → |greenhousemonitoringhub.garden^
 ✅ HOSTS 转换: 127.0.0.1 greenhouseoperationscenter.garden → |greenhouseoperationscenter.garden^
 ✅ HOSTS 转换: 127.0.0.1 greenhouseresourceengine.garden → |greenhouseresourceengine.garden^
-✅ HOSTS 转换: 127.0.0.1 greenhouseworkflowhub.garden → |greenhouseworkflowhub.garden^
 ✅ HOSTS 转换: 127.0.0.1 grupomcperu.com → |grupomcperu.com^
 ✅ HOSTS 转换: 127.0.0.1 gutando.com → |gutando.com^
-✅ HOSTS 转换: 127.0.0.1 handmade-cheese-traveler.garden → |handmade-cheese-traveler.garden^
 ✅ HOSTS 转换: 127.0.0.1 hardenedpeanits.fyi → |hardenedpeanits.fyi^
 ✅ HOSTS 转换: 127.0.0.1 hasalltalent.com → |hasalltalent.com^
 ✅ HOSTS 转换: 127.0.0.1 hitman-pro.ru → |hitman-pro.ru^
 ✅ HOSTS 转换: 127.0.0.1 hitstation.nl → |hitstation.nl^
 ✅ HOSTS 转换: 127.0.0.1 hobobot.net → |hobobot.net^
+✅ HOSTS 转换: 127.0.0.1 holistic-detective-agency.garden → |holistic-detective-agency.garden^
 ✅ HOSTS 转换: 127.0.0.1 holographic-projection-grid.garden → |holographic-projection-grid.garden^
 ✅ HOSTS 转换: 127.0.0.1 hseda.com → |hseda.com^
+✅ HOSTS 转换: 127.0.0.1 hydraulic-actuator-valve.garden → |hydraulic-actuator-valve.garden^
 ✅ HOSTS 转换: 127.0.0.1 i.404.pm → |i.404.pm^
-✅ HOSTS 转换: 127.0.0.1 icoffeecloud.com → |icoffeecloud.com^
+✅ HOSTS 转换: 127.0.0.1 id8796.cfd → |id8796.cfd^
 ✅ HOSTS 转换: 127.0.0.1 igra123.com → |igra123.com^
-✅ HOSTS 转换: 127.0.0.1 infoworkerone.com → |infoworkerone.com^
 ✅ HOSTS 转换: 127.0.0.1 infoworkerone.org → |infoworkerone.org^
 ✅ HOSTS 转换: 127.0.0.1 infra-blue-high-print.garden → |infra-blue-high-print.garden^
 ✅ HOSTS 转换: 127.0.0.1 injectroblox.ru → |injectroblox.ru^
 ✅ HOSTS 转换: 127.0.0.1 inmbau.com → |inmbau.com^
+✅ HOSTS 转换: 127.0.0.1 interstellar-dust-nebula.garden → |interstellar-dust-nebula.garden^
 ✅ HOSTS 转换: 127.0.0.1 ircftp.net → |ircftp.net^
-✅ HOSTS 转换: 127.0.0.1 irrigation-control-network.garden → |irrigation-control-network.garden^
+✅ HOSTS 转换: 127.0.0.1 irrigationanalyticssystem.garden → |irrigationanalyticssystem.garden^
 ✅ HOSTS 转换: 127.0.0.1 irrigationautomationhub.garden → |irrigationautomationhub.garden^
-✅ HOSTS 转换: 127.0.0.1 irrigationmanagementhub.garden → |irrigationmanagementhub.garden^
 ✅ HOSTS 转换: 127.0.0.1 irrigationprocessingnetwork.garden → |irrigationprocessingnetwork.garden^
+✅ HOSTS 转换: 127.0.0.1 irrigationtelemetrysystem.garden → |irrigationtelemetrysystem.garden^
 ✅ HOSTS 转换: 127.0.0.1 irrigationworkflowsystem.garden → |irrigationworkflowsystem.garden^
 ✅ HOSTS 转换: 127.0.0.1 isellchildren.online → |isellchildren.online^
 ✅ HOSTS 转换: 127.0.0.1 isiore.com.co → |isiore.com.co^
 ✅ HOSTS 转换: 127.0.0.1 isometricsindia.co.in → |isometricsindia.co.in^
-✅ HOSTS 转换: 127.0.0.1 it-irrigation-control-network.garden → |it-irrigation-control-network.garden^
-✅ HOSTS 转换: 127.0.0.1 it-irrigatn-cntrl-network-go.garden → |it-irrigatn-cntrl-network-go.garden^
 ✅ HOSTS 转换: 127.0.0.1 itssprout.com → |itssprout.com^
 ✅ HOSTS 转换: 127.0.0.1 izocab.com → |izocab.com^
 ✅ HOSTS 转换: 127.0.0.1 izogard.com → |izogard.com^
 ✅ HOSTS 转换: 127.0.0.1 jankop.shop → |jankop.shop^
 ✅ HOSTS 转换: 127.0.0.1 jawaratekno.com → |jawaratekno.com^
-✅ HOSTS 转换: 127.0.0.1 jcdlhks8.node-pulse.digital → |jcdlhks8.node-pulse.digital^
 ✅ HOSTS 转换: 127.0.0.1 jin.com.my → |jin.com.my^
 ✅ HOSTS 转换: 127.0.0.1 jlwz.cn → |jlwz.cn^
 ✅ HOSTS 转换: 127.0.0.1 jmaeciy3.signal-vault.digital → |jmaeciy3.signal-vault.digital^
-✅ HOSTS 转换: 127.0.0.1 jobworkny.com → |jobworkny.com^
-✅ HOSTS 转换: 127.0.0.1 jomn9u8k.cyber-relay.digital → |jomn9u8k.cyber-relay.digital^
 ✅ HOSTS 转换: 127.0.0.1 joyeriatauro.com → |joyeriatauro.com^
 ✅ HOSTS 转换: 127.0.0.1 js.byxly.eu.cc → |js.byxly.eu.cc^
-✅ HOSTS 转换: 127.0.0.1 july-feded-plants-workflow.garden → |july-feded-plants-workflow.garden^
-✅ HOSTS 转换: 127.0.0.1 june-fed-plant-workflow.garden → |june-fed-plant-workflow.garden^
 ✅ HOSTS 转换: 127.0.0.1 jyothishmathi.in → |jyothishmathi.in^
 ✅ HOSTS 转换: 127.0.0.1 k9h20m23.observability-matrix.digital → |k9h20m23.observability-matrix.digital^
 ✅ HOSTS 转换: 127.0.0.1 kavacanada.ca → |kavacanada.ca^
 ✅ HOSTS 转换: 127.0.0.1 khoancatbetong89.vn → |khoancatbetong89.vn^
 ✅ HOSTS 转换: 127.0.0.1 kimyen.net → |kimyen.net^
-✅ HOSTS 转换: 127.0.0.1 kitdocs-openlow-observe-matrix.garden → |kitdocs-openlow-observe-matrix.garden^
 ✅ HOSTS 转换: 127.0.0.1 kokorostore.it → |kokorostore.it^
 ✅ HOSTS 转换: 127.0.0.1 konsor.ru → |konsor.ru^
 ✅ HOSTS 转换: 127.0.0.1 kramersmarionnettes.com → |kramersmarionnettes.com^
-✅ HOSTS 转换: 127.0.0.1 l8krrumc.cloud-sphere.digital → |l8krrumc.cloud-sphere.digital^
 ✅ HOSTS 转换: 127.0.0.1 landonirwin.com → |landonirwin.com^
 ✅ HOSTS 转换: 127.0.0.1 lawfirm.paperbirdtech.com → |lawfirm.paperbirdtech.com^
 ✅ HOSTS 转换: 127.0.0.1 libss.0x504.com → |libss.0x504.com^
 ✅ HOSTS 转换: 127.0.0.1 lindnerelektroanlagen.de → |lindnerelektroanlagen.de^
-✅ HOSTS 转换: 127.0.0.1 load-meadows-analytics-cntr.garden → |load-meadows-analytics-cntr.garden^
 ✅ HOSTS 转换: 127.0.0.1 local-update.com → |local-update.com^
 ✅ HOSTS 转换: 127.0.0.1 lomejordesalamanca.es → |lomejordesalamanca.es^
+✅ HOSTS 转换: 127.0.0.1 losslvs.surf → |losslvs.surf^
 ✅ HOSTS 转换: 127.0.0.1 luizmatoso.com.br → |luizmatoso.com.br^
+✅ HOSTS 转换: 127.0.0.1 lv5evztg.cyberneticprostheticlab.digital → |lv5evztg.cyberneticprostheticlab.digital^
 ✅ HOSTS 转换: 127.0.0.1 m.jkoa.co.kr → |m.jkoa.co.kr^
-✅ HOSTS 转换: 127.0.0.1 m.meta-dm.com → |m.meta-dm.com^
 ✅ HOSTS 转换: 127.0.0.1 magnetic-levitation-train.garden → |magnetic-levitation-train.garden^
 ✅ HOSTS 转换: 127.0.0.1 maidforyou1985.com → |maidforyou1985.com^
 ✅ HOSTS 转换: 127.0.0.1 marsalek.cy → |marsalek.cy^
-✅ HOSTS 转换: 127.0.0.1 masterklass.net → |masterklass.net^
-✅ HOSTS 转换: 127.0.0.1 maxstatesus.org → |maxstatesus.org^
-✅ HOSTS 转换: 127.0.0.1 maxvideo.file-online.lat → |maxvideo.file-online.lat^
-✅ HOSTS 转换: 127.0.0.1 meadowautomationplatform.garden → |meadowautomationplatform.garden^
 ✅ HOSTS 转换: 127.0.0.1 meadowmanagementcenter.garden → |meadowmanagementcenter.garden^
 ✅ HOSTS 转换: 127.0.0.1 meadowmonitoringplatform.garden → |meadowmonitoringplatform.garden^
+✅ HOSTS 转换: 127.0.0.1 meadowoperationshub.garden → |meadowoperationshub.garden^
+✅ HOSTS 转换: 127.0.0.1 meadowworkflowframework.garden → |meadowworkflowframework.garden^
 ✅ HOSTS 转换: 127.0.0.1 meetvideogoogle.com → |meetvideogoogle.com^
-✅ HOSTS 转换: 127.0.0.1 merkureenv.net → |merkureenv.net^
+✅ HOSTS 转换: 127.0.0.1 mendocs-opera-shub-cowddos.garden → |mendocs-opera-shub-cowddos.garden^
 ✅ HOSTS 转换: 127.0.0.1 metrics.gocloudmaps.com → |metrics.gocloudmaps.com^
-✅ HOSTS 转换: 127.0.0.1 milan-hasbik.file-online.lat → |milan-hasbik.file-online.lat^
 ✅ HOSTS 转换: 127.0.0.1 mistralkorea.ru → |mistralkorea.ru^
 ✅ HOSTS 转换: 127.0.0.1 mitreart.com → |mitreart.com^
 ✅ HOSTS 转换: 127.0.0.1 mobshah.com → |mobshah.com^
+✅ HOSTS 转换: 127.0.0.1 modelcut-auto-frame-nodipfs.garden → |modelcut-auto-frame-nodipfs.garden^
+✅ HOSTS 转换: 127.0.0.1 modesix-iontel-scalapie-system.garden → |modesix-iontel-scalapie-system.garden^
+✅ HOSTS 转换: 127.0.0.1 modular-analog-synthesizer.garden → |modular-analog-synthesizer.garden^
 ✅ HOSTS 转换: 127.0.0.1 mogimall.com → |mogimall.com^
 ✅ HOSTS 转换: 127.0.0.1 mongofly-container-gard-mesh.garden → |mongofly-container-gard-mesh.garden^
 ✅ HOSTS 转换: 127.0.0.1 monstersstat.com → |monstersstat.com^
 ✅ HOSTS 转换: 127.0.0.1 mosselnet.co.za → |mosselnet.co.za^
-✅ HOSTS 转换: 127.0.0.1 motriztrading.com.br → |motriztrading.com.br^
 ✅ HOSTS 转换: 127.0.0.1 msedge.vg → |msedge.vg^
 ✅ HOSTS 转换: 127.0.0.1 msgrouppolicy.vg → |msgrouppolicy.vg^
 ✅ HOSTS 转换: 127.0.0.1 mstopsai.com → |mstopsai.com^
-✅ HOSTS 转换: 127.0.0.1 muledo.com → |muledo.com^
 ✅ HOSTS 转换: 127.0.0.1 mundocarnes.cl → |mundocarnes.cl^
 ✅ HOSTS 转换: 127.0.0.1 mygrocerbox.com → |mygrocerbox.com^
 ✅ HOSTS 转换: 127.0.0.1 n.vs108.com → |n.vs108.com^
 ✅ HOSTS 转换: 127.0.0.1 ncxps.com → |ncxps.com^
 ✅ HOSTS 转换: 127.0.0.1 nelees.com → |nelees.com^
-✅ HOSTS 转换: 127.0.0.1 neoncyberpunkcity.garden → |neoncyberpunkcity.garden^
 ✅ HOSTS 转换: 127.0.0.1 new.quranushaiqer.org.sa → |new.quranushaiqer.org.sa^
 ✅ HOSTS 转换: 127.0.0.1 noithaticon.vn → |noithaticon.vn^
-✅ HOSTS 转换: 127.0.0.1 novacinder.digital → |novacinder.digital^
 ✅ HOSTS 转换: 127.0.0.1 nusatoyota.co.id → |nusatoyota.co.id^
 ✅ HOSTS 转换: 127.0.0.1 ny.lshdw.cc → |ny.lshdw.cc^
 ✅ HOSTS 转换: 127.0.0.1 o24o.ru → |o24o.ru^
@@ -70106,40 +70079,40 @@
 ✅ HOSTS 转换: 127.0.0.1 okhan.net → |okhan.net^
 ✅ HOSTS 转换: 127.0.0.1 oknoplastik.sk → |oknoplastik.sk^
 ✅ HOSTS 转换: 127.0.0.1 onfiltre.com.tr → |onfiltre.com.tr^
-✅ HOSTS 转换: 127.0.0.1 open-low-container-vector.garden → |open-low-container-vector.garden^
 ✅ HOSTS 转换: 127.0.0.1 orbital-docking-module.garden → |orbital-docking-module.garden^
-✅ HOSTS 转换: 127.0.0.1 ostekstatmen.net → |ostekstatmen.net^
 ✅ HOSTS 转换: 127.0.0.1 owlcity.ru → |owlcity.ru^
 ✅ HOSTS 转换: 127.0.0.1 oxfordmobilexray.com → |oxfordmobilexray.com^
 ✅ HOSTS 转换: 127.0.0.1 p3.zbjimg.com → |p3.zbjimg.com^
 ✅ HOSTS 转换: 127.0.0.1 palharesinformatica.com.br → |palharesinformatica.com.br^
+✅ HOSTS 转换: 127.0.0.1 pastee.dev → |pastee.dev^
 ✅ HOSTS 转换: 127.0.0.1 pay.aqiu6.com → |pay.aqiu6.com^
 ✅ HOSTS 转换: 127.0.0.1 pcapshay-bute-gard-source.garden → |pcapshay-bute-gard-source.garden^
 ✅ HOSTS 转换: 127.0.0.1 pcupd.com → |pcupd.com^
-✅ HOSTS 转换: 127.0.0.1 perfect-lasagna-layer.garden → |perfect-lasagna-layer.garden^
-✅ HOSTS 转换: 127.0.0.1 petal-distribution-engine.garden → |petal-distribution-engine.garden^
+✅ HOSTS 转换: 127.0.0.1 perfect-bolognese-simmer.garden → |perfect-bolognese-simmer.garden^
 ✅ HOSTS 转换: 127.0.0.1 petalautomationplatform.garden → |petalautomationplatform.garden^
 ✅ HOSTS 转换: 127.0.0.1 petaldistributioncenter.garden → |petaldistributioncenter.garden^
 ✅ HOSTS 转换: 127.0.0.1 petaldistributionplatform.garden → |petaldistributionplatform.garden^
 ✅ HOSTS 转换: 127.0.0.1 petalprocessingplatform.garden → |petalprocessingplatform.garden^
+✅ HOSTS 转换: 127.0.0.1 petalresourceengine.garden → |petalresourceengine.garden^
 ✅ HOSTS 转换: 127.0.0.1 petalresourceframework.garden → |petalresourceframework.garden^
 ✅ HOSTS 转换: 127.0.0.1 petalworkflowengine.garden → |petalworkflowengine.garden^
 ✅ HOSTS 转换: 127.0.0.1 petitesalope.com → |petitesalope.com^
+✅ HOSTS 转换: 127.0.0.1 phase-shift-bridge-driver.garden → |phase-shift-bridge-driver.garden^
 ✅ HOSTS 转换: 127.0.0.1 pid.fly160.com → |pid.fly160.com^
-✅ HOSTS 转换: 127.0.0.1 pixelartcanvas.garden → |pixelartcanvas.garden^
 ✅ HOSTS 转换: 127.0.0.1 planetariumobil.ro → |planetariumobil.ro^
 ✅ HOSTS 转换: 127.0.0.1 plasteredplayn.com → |plasteredplayn.com^
 ✅ HOSTS 转换: 127.0.0.1 pobedastaff.ru → |pobedastaff.ru^
 ✅ HOSTS 转换: 127.0.0.1 porthot-irr-gation-menthub.garden → |porthot-irr-gation-menthub.garden^
 ✅ HOSTS 转换: 127.0.0.1 postelnini.mk → |postelnini.mk^
 ✅ HOSTS 转换: 127.0.0.1 preciosasjoyitas.com.mx → |preciosasjoyitas.com.mx^
-✅ HOSTS 转换: 127.0.0.1 predator-hunting-chronicles.garden → |predator-hunting-chronicles.garden^
 ✅ HOSTS 转换: 127.0.0.1 primemic.com → |primemic.com^
 ✅ HOSTS 转换: 127.0.0.1 primordial-soup-evolution.garden → |primordial-soup-evolution.garden^
 ✅ HOSTS 转换: 127.0.0.1 public.demo.securecloudsandbox.com → |public.demo.securecloudsandbox.com^
 ✅ HOSTS 转换: 127.0.0.1 pvsa.gxfugy.cn → |pvsa.gxfugy.cn^
 ✅ HOSTS 转换: 127.0.0.1 q41liphc.packet-vector.digital → |q41liphc.packet-vector.digital^
+✅ HOSTS 转换: 127.0.0.1 q956x3rl.badabingsopranoslounge.digital → |q956x3rl.badabingsopranoslounge.digital^
 ✅ HOSTS 转换: 127.0.0.1 qiniuyunxz.yxflzs.com → |qiniuyunxz.yxflzs.com^
+✅ HOSTS 转换: 127.0.0.1 quantum-entanglement-crypt.garden → |quantum-entanglement-crypt.garden^
 ✅ HOSTS 转换: 127.0.0.1 qz.697539.com → |qz.697539.com^
 ✅ HOSTS 转换: 127.0.0.1 radiopin-botn-monitor-in-gengine.garden → |radiopin-botn-monitor-in-gengine.garden^
 ✅ HOSTS 转换: 127.0.0.1 ramirex.ro → |ramirex.ro^
@@ -70151,16 +70124,18 @@
 ✅ HOSTS 转换: 127.0.0.1 refrigeracion.delmondexpress.com → |refrigeracion.delmondexpress.com^
 ✅ HOSTS 转换: 127.0.0.1 reifenquick.de → |reifenquick.de^
 ✅ HOSTS 转换: 127.0.0.1 renaissance-fresco-restoration.garden → |renaissance-fresco-restoration.garden^
-✅ HOSTS 转换: 127.0.0.1 retro-gaming-launcher.garden → |retro-gaming-launcher.garden^
 ✅ HOSTS 转换: 127.0.0.1 reutilizemais.co.mz → |reutilizemais.co.mz^
+✅ HOSTS 转换: 127.0.0.1 rgx5w3o2.orbitaldockingmodule.digital → |rgx5w3o2.orbitaldockingmodule.digital^
 ✅ HOSTS 转换: 127.0.0.1 rheddh.com → |rheddh.com^
 ✅ HOSTS 转换: 127.0.0.1 riderspin.com → |riderspin.com^
 ✅ HOSTS 转换: 127.0.0.1 robertrowe.com → |robertrowe.com^
 ✅ HOSTS 转换: 127.0.0.1 royalindiancurryclub.com → |royalindiancurryclub.com^
 ✅ HOSTS 转换: 127.0.0.1 rxquickpay.com → |rxquickpay.com^
 ✅ HOSTS 转换: 127.0.0.1 sablayan.seasonshotelmindoro.com → |sablayan.seasonshotelmindoro.com^
+✅ HOSTS 转换: 127.0.0.1 sanjaydharmraj.in → |sanjaydharmraj.in^
 ✅ HOSTS 转换: 127.0.0.1 save.jnrsmcu.com → |save.jnrsmcu.com^
 ✅ HOSTS 转换: 127.0.0.1 scainseto.com.br → |scainseto.com.br^
+✅ HOSTS 转换: 127.0.0.1 scaletax-bute-analytics-toeheap.garden → |scaletax-bute-analytics-toeheap.garden^
 ✅ HOSTS 转换: 127.0.0.1 schenckel.com.br → |schenckel.com.br^
 ✅ HOSTS 转换: 127.0.0.1 sdvgpro.ru → |sdvgpro.ru^
 ✅ HOSTS 转换: 127.0.0.1 sec.dashabi.in → |sec.dashabi.in^
@@ -70171,13 +70146,10 @@
 ✅ HOSTS 转换: 127.0.0.1 serverless-mesh-core-yet-go.garden → |serverless-mesh-core-yet-go.garden^
 ✅ HOSTS 转换: 127.0.0.1 sg123.net → |sg123.net^
 ✅ HOSTS 转换: 127.0.0.1 shahamanatme.com → |shahamanatme.com^
-✅ HOSTS 转换: 127.0.0.1 shells-garden-framework.garden → |shells-garden-framework.garden^
 ✅ HOSTS 转换: 127.0.0.1 shop.mediasova.ru → |shop.mediasova.ru^
 ✅ HOSTS 转换: 127.0.0.1 shqdown.ggzuhao.com → |shqdown.ggzuhao.com^
 ✅ HOSTS 转换: 127.0.0.1 sicilian-defense-theory.garden → |sicilian-defense-theory.garden^
 ✅ HOSTS 转换: 127.0.0.1 silverhost.vg → |silverhost.vg^
-✅ HOSTS 转换: 127.0.0.1 sir8uu.yandex-file.lat → |sir8uu.yandex-file.lat^
-✅ HOSTS 转换: 127.0.0.1 siteyet-script-horizon-go.garden → |siteyet-script-horizon-go.garden^
 ✅ HOSTS 转换: 127.0.0.1 sk-comtel.com → |sk-comtel.com^
 ✅ HOSTS 转换: 127.0.0.1 slashbob-distrib-plat-form.garden → |slashbob-distrib-plat-form.garden^
 ✅ HOSTS 转换: 127.0.0.1 slotmy-send.tech → |slotmy-send.tech^
@@ -70185,37 +70157,35 @@
 ✅ HOSTS 转换: 127.0.0.1 soft.110route.com → |soft.110route.com^
 ✅ HOSTS 转换: 127.0.0.1 softcatalog.ru → |softcatalog.ru^
 ✅ HOSTS 转换: 127.0.0.1 solar-sanat.net → |solar-sanat.net^
-✅ HOSTS 转换: 127.0.0.1 sorrystartstat1.net → |sorrystartstat1.net^
 ✅ HOSTS 转换: 127.0.0.1 spgint.com → |spgint.com^
-✅ HOSTS 转换: 127.0.0.1 spoar.org.in → |spoar.org.in^
 ✅ HOSTS 转换: 127.0.0.1 stage1-orschellx.com → |stage1-orschellx.com^
 ✅ HOSTS 转换: 127.0.0.1 static.ilclock.com → |static.ilclock.com^
 ✅ HOSTS 转换: 127.0.0.1 static.topxgun.com → |static.topxgun.com^
 ✅ HOSTS 转换: 127.0.0.1 static.youdm.cn → |static.youdm.cn^
 ✅ HOSTS 转换: 127.0.0.1 stdown.dinju.com → |stdown.dinju.com^
+✅ HOSTS 转换: 127.0.0.1 stealth-bomber-radar-cross.garden → |stealth-bomber-radar-cross.garden^
 ✅ HOSTS 转换: 127.0.0.1 steam66.cn → |steam66.cn^
-✅ HOSTS 转换: 127.0.0.1 steampunkaeronautics.garden → |steampunkaeronautics.garden^
 ✅ HOSTS 转换: 127.0.0.1 stg1-swaggrhockey.com → |stg1-swaggrhockey.com^
 ✅ HOSTS 转换: 127.0.0.1 stonecradle.com → |stonecradle.com^
+✅ HOSTS 转换: 127.0.0.1 stratographic-core-drill.garden → |stratographic-core-drill.garden^
 ✅ HOSTS 转换: 127.0.0.1 stratospheric-weather-balloon.garden → |stratospheric-weather-balloon.garden^
 ✅ HOSTS 转换: 127.0.0.1 subdermal-biometric-chip.garden → |subdermal-biometric-chip.garden^
 ✅ HOSTS 转换: 127.0.0.1 subfossil-oak-chronology.garden → |subfossil-oak-chronology.garden^
-✅ HOSTS 转换: 127.0.0.1 suboceanic-trench-sonar.garden → |suboceanic-trench-sonar.garden^
+✅ HOSTS 转换: 127.0.0.1 subterranean-bunker-outpost.garden → |subterranean-bunker-outpost.garden^
 ✅ HOSTS 转换: 127.0.0.1 support.clz.kr → |support.clz.kr^
 ✅ HOSTS 转换: 127.0.0.1 sutterpoint.com → |sutterpoint.com^
 ✅ HOSTS 转换: 127.0.0.1 svirtual.sanviatorperu.edu.pe → |svirtual.sanviatorperu.edu.pe^
-✅ HOSTS 转换: 127.0.0.1 svo-pois.file-online.lat → |svo-pois.file-online.lat^
-✅ HOSTS 转换: 127.0.0.1 svosoldati.file-online.lat → |svosoldati.file-online.lat^
 ✅ HOSTS 转换: 127.0.0.1 synctimenow.org → |synctimenow.org^
 ✅ HOSTS 转换: 127.0.0.1 talentrecruitments.com → |talentrecruitments.com^
 ✅ HOSTS 转换: 127.0.0.1 tanscarattorneys.co.tz → |tanscarattorneys.co.tz^
 ✅ HOSTS 转换: 127.0.0.1 tapestryoftruth.com → |tapestryoftruth.com^
+✅ HOSTS 转换: 127.0.0.1 tectonic-fault-seismograph.garden → |tectonic-fault-seismograph.garden^
 ✅ HOSTS 转换: 127.0.0.1 tecunonline.com → |tecunonline.com^
 ✅ HOSTS 转换: 127.0.0.1 tehnomag.rs → |tehnomag.rs^
-✅ HOSTS 转换: 127.0.0.1 tehpafro.script-horizon.digital → |tehpafro.script-horizon.digital^
 ✅ HOSTS 转换: 127.0.0.1 temirtau-adm.ru → |temirtau-adm.ru^
 ✅ HOSTS 转换: 127.0.0.1 tengfeidn.cn → |tengfeidn.cn^
 ✅ HOSTS 转换: 127.0.0.1 test.peperoncinochepassione.it → |test.peperoncinochepassione.it^
+✅ HOSTS 转换: 127.0.0.1 the-sopranos-family-tree.garden → |the-sopranos-family-tree.garden^
 ✅ HOSTS 转换: 127.0.0.1 thebrandmantra.in → |thebrandmantra.in^
 ✅ HOSTS 转换: 127.0.0.1 theholidayroads.com → |theholidayroads.com^
 ✅ HOSTS 转换: 127.0.0.1 themaintechnician.us → |themaintechnician.us^
@@ -70227,49 +70197,45 @@
 ✅ HOSTS 转换: 127.0.0.1 top8onlinegame.com → |top8onlinegame.com^
 ✅ HOSTS 转换: 127.0.0.1 transparenciacanaa.com.br → |transparenciacanaa.com.br^
 ✅ HOSTS 转换: 127.0.0.1 trtmyanmar.com → |trtmyanmar.com^
+✅ HOSTS 转换: 127.0.0.1 uh83re33.magneticlevitationtrain.digital → |uh83re33.magneticlevitationtrain.digital^
 ✅ HOSTS 转换: 127.0.0.1 ukguk71.ru → |ukguk71.ru^
 ✅ HOSTS 转换: 127.0.0.1 uniform-factory.ae → |uniform-factory.ae^
 ✅ HOSTS 转换: 127.0.0.1 upaicdn.xinmei365.com → |upaicdn.xinmei365.com^
 ✅ HOSTS 转换: 127.0.0.1 upchemicals.co.in → |upchemicals.co.in^
 ✅ HOSTS 转换: 127.0.0.1 update.cg100iii.com → |update.cg100iii.com^
 ✅ HOSTS 转换: 127.0.0.1 v9rvls59.stack-matrix.digital → |v9rvls59.stack-matrix.digital^
+✅ HOSTS 转换: 127.0.0.1 vacuum-tube-amplifier.garden → |vacuum-tube-amplifier.garden^
 ✅ HOSTS 转换: 127.0.0.1 vagler.ru → |vagler.ru^
-✅ HOSTS 转换: 127.0.0.1 vanta.st → |vanta.st^
-✅ HOSTS 转换: 127.0.0.1 vaultask-micro-service-pulse.garden → |vaultask-micro-service-pulse.garden^
 ✅ HOSTS 转换: 127.0.0.1 vbytelot-mead-automation-form.garden → |vbytelot-mead-automation-form.garden^
 ✅ HOSTS 转换: 127.0.0.1 vcc-library.uk → |vcc-library.uk^
 ✅ HOSTS 转换: 127.0.0.1 veryboys.com → |veryboys.com^
 ✅ HOSTS 转换: 127.0.0.1 vgd.vg → |vgd.vg^
 ✅ HOSTS 转换: 127.0.0.1 videomeetgoogle.com → |videomeetgoogle.com^
 ✅ HOSTS 转换: 127.0.0.1 vincentdemiero.com → |vincentdemiero.com^
-✅ HOSTS 转换: 127.0.0.1 vintage-blueprint-vault.garden → |vintage-blueprint-vault.garden^
-✅ HOSTS 转换: 127.0.0.1 vintage-vinyl-restoration.garden → |vintage-vinyl-restoration.garden^
 ✅ HOSTS 转换: 127.0.0.1 visam.info → |visam.info^
 ✅ HOSTS 转换: 127.0.0.1 visualwikicloud.com → |visualwikicloud.com^
 ✅ HOSTS 转换: 127.0.0.1 vizyonuniversitesi.com.tr → |vizyonuniversitesi.com.tr^
 ✅ HOSTS 转换: 127.0.0.1 vizyonuniversitesi.web.tr → |vizyonuniversitesi.web.tr^
-✅ HOSTS 转换: 127.0.0.1 volcanic-magma-chamber.garden → |volcanic-magma-chamber.garden^
 ✅ HOSTS 转换: 127.0.0.1 vrajras.com → |vrajras.com^
 ✅ HOSTS 转换: 127.0.0.1 webcstore.pw → |webcstore.pw^
 ✅ HOSTS 转换: 127.0.0.1 website.mypetapp.co.za → |website.mypetapp.co.za^
+✅ HOSTS 转换: 127.0.0.1 weyland-yutani-corporate-file.garden → |weyland-yutani-corporate-file.garden^
 ✅ HOSTS 转换: 127.0.0.1 widexenmexico.com.mx → |widexenmexico.com.mx^
-✅ HOSTS 转换: 127.0.0.1 wild-flora-processing-go-system.garden → |wild-flora-processing-go-system.garden^
 ✅ HOSTS 转换: 127.0.0.1 wilder-flow-work-lmsystem.garden → |wilder-flow-work-lmsystem.garden^
 ✅ HOSTS 转换: 127.0.0.1 wildfloracontrolsystem.garden → |wildfloracontrolsystem.garden^
+✅ HOSTS 转换: 127.0.0.1 wildflorainfrastructurehub.garden → |wildflorainfrastructurehub.garden^
 ✅ HOSTS 转换: 127.0.0.1 wildfloraintegrationplatform.garden → |wildfloraintegrationplatform.garden^
+✅ HOSTS 转换: 127.0.0.1 wildfloramanagementplatform.garden → |wildfloramanagementplatform.garden^
 ✅ HOSTS 转换: 127.0.0.1 wildfloraprocessinghub.garden → |wildfloraprocessinghub.garden^
-✅ HOSTS 转换: 127.0.0.1 wildfloraprocessingsystem.garden → |wildfloraprocessingsystem.garden^
 ✅ HOSTS 转换: 127.0.0.1 wildfloraresourceengine.garden → |wildfloraresourceengine.garden^
 ✅ HOSTS 转换: 127.0.0.1 wildfloraworkflowsystem.garden → |wildfloraworkflowsystem.garden^
 ✅ HOSTS 转换: 127.0.0.1 windomstatetheater.com → |windomstatetheater.com^
 ✅ HOSTS 转换: 127.0.0.1 wittenhorst.eu → |wittenhorst.eu^
-✅ HOSTS 转换: 127.0.0.1 wkqsof7p.network-pulse.digital → |wkqsof7p.network-pulse.digital^
 ✅ HOSTS 转换: 127.0.0.1 wlede4d3.network-harbor.digital → |wlede4d3.network-harbor.digital^
 ✅ HOSTS 转换: 127.0.0.1 www.ardguisser.com → |www.ardguisser.com^
 ✅ HOSTS 转换: 127.0.0.1 www.astenterprises.com.pk → |www.astenterprises.com.pk^
 ✅ HOSTS 转换: 127.0.0.1 www.automobile-bk.de → |www.automobile-bk.de^
 ✅ HOSTS 转换: 127.0.0.1 www.backupallfresh2030.com → |www.backupallfresh2030.com^
-✅ HOSTS 转换: 127.0.0.1 www.benshamcentre.co.uk → |www.benshamcentre.co.uk^
 ✅ HOSTS 转换: 127.0.0.1 www.blackhattoolz.com → |www.blackhattoolz.com^
 ✅ HOSTS 转换: 127.0.0.1 www.bratusferramentas.grupomoltz.com.br → |www.bratusferramentas.grupomoltz.com.br^
 ✅ HOSTS 转换: 127.0.0.1 www.chenwangqiao.com → |www.chenwangqiao.com^
@@ -70311,21 +70277,20 @@
 ✅ HOSTS 转换: 127.0.0.1 www.xn--on3b15m2lco2u.com → |www.xn--on3b15m2lco2u.com^
 ✅ HOSTS 转换: 127.0.0.1 www.zamilgroups.com → |www.zamilgroups.com^
 ✅ HOSTS 转换: 127.0.0.1 www.zhikey.com → |www.zhikey.com^
+✅ HOSTS 转换: 127.0.0.1 x8drf7ed.audioattenuatorschematic.digital → |x8drf7ed.audioattenuatorschematic.digital^
 ✅ HOSTS 转换: 127.0.0.1 xbgnx37a.byte-lattice.digital → |xbgnx37a.byte-lattice.digital^
-✅ HOSTS 转换: 127.0.0.1 xc88b0.file-online.lat → |xc88b0.file-online.lat^
 ✅ HOSTS 转换: 127.0.0.1 xemhang.vn → |xemhang.vn^
+✅ HOSTS 转换: 127.0.0.1 xenomorph-hive-intelligence.garden → |xenomorph-hive-intelligence.garden^
 ✅ HOSTS 转换: 127.0.0.1 xenon.studio → |xenon.studio^
 ✅ HOSTS 转换: 127.0.0.1 xn--90abegbttpjb3bzb2j.xn--p1ai → |xn--90abegbttpjb3bzb2j.xn--p1ai^
 ✅ HOSTS 转换: 127.0.0.1 xn--b1afiqif6c.xn--p1ai → |xn--b1afiqif6c.xn--p1ai^
 ✅ HOSTS 转换: 127.0.0.1 xn--yh4bx88a.com → |xn--yh4bx88a.com^
 ✅ HOSTS 转换: 127.0.0.1 xshop.com.tr → |xshop.com.tr^
 ✅ HOSTS 转换: 127.0.0.1 xuezha.net → |xuezha.net^
-✅ HOSTS 转换: 127.0.0.1 xyv1jupy.container-vector.digital → |xyv1jupy.container-vector.digital^
 ✅ HOSTS 转换: 127.0.0.1 youtransfer.net → |youtransfer.net^
 ✅ HOSTS 转换: 127.0.0.1 zamilgroups.com → |zamilgroups.com^
 ✅ HOSTS 转换: 127.0.0.1 zenglobalenerji.com → |zenglobalenerji.com^
 ✅ HOSTS 转换: 127.0.0.1 zhigao5191.com → |zhigao5191.com^
-✅ HOSTS 转换: 127.0.0.1 ziti-multicooker-hacks.garden → |ziti-multicooker-hacks.garden^
 ✅ HOSTS 转换: 127.0.0.1 zoneday-green-house-oper-center.garden → |zoneday-green-house-oper-center.garden^
 ✅ HOSTS 转换: 127.0.0.1 zycdjz.com → |zycdjz.com^
 ✅ HOSTS 转换: 127.0.0.1 0ce3c-1fd43.api.pushwoosh.com → |0ce3c-1fd43.api.pushwoosh.com^
@@ -163351,10 +163316,10 @@
 🚫 去掉注释行: ! Blocked domains: 5670
 🚫 去掉注释行: ! unBlocked domains: 15
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: yAI1wlm7lC1oJr5PUQDBxw
-🚫 去掉注释行: ! Version: 202605200525
+🚫 去掉注释行: ! Checksum: HKyqyQEbcUTSzc8LbL3rxQ
+🚫 去掉注释行: ! Version: 202605200625
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-05-20 05:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-05-20 06:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
