@@ -4222,6 +4222,9 @@ medscape.com##.fpf-footer-container
 medscape.com##body:style(overflow: auto !important;)
 startribune.com##+js(remove-cookie, client_id)
 theverge.com##+js(aeld, scroll)
+usni.org###articleCookieModal
+usni.org##+js(remove-cookie, STYXKEY_nh_count)
+usni.org##+js(remove-cookie, STYXKEY_pro_count)
 accuradio.com##.ReactModal__Overlay--after-open.ReactModal__Overlay
 |10tv.com##+js(aeld, /^(mouseout|mouseleave)$/)
 |11alive.com##+js(aeld, /^(mouseout|mouseleave)$/)
