@@ -1776,6 +1776,7 @@ archive.org##.js-donate-banner
 grist.org##.js-membership-ad.membership-ad
 github.com##.js-notice-dismiss[data-analytics-visible]
 themarkup.org##.js-promotion
+19thnews.org##.js-site-banner
 |defensescoop.com##.js-stickybar
 |fedscoop.com##.js-stickybar
 virgool.io##.js-userLogin-popup.popup-register
@@ -2110,6 +2111,7 @@ grist.org##.wp-block-article-donation
 hsph.harvard.edu##.wp-block-hsph-page-footer-cta
 humanists.uk##.wp-block-humanists-uk-bootstrap-campaigns-block
 humanists.uk##.wp-block-humanists-uk-bootstrap-notes-block
+19thnews.org##.wp-block-join-cta
 watchers.news##.wp-block-kadence-infobox
 ms.now##.wp-block-msnbc-announcement
 propublica.org##.wp-block-propublica-callout
@@ -5306,7 +5308,6 @@ newsweek.com##.GooglePreferredSourceBanner_container__4kWoo
 |bristolpost.co.uk##.GooglePreferredSource_wrapper__lSRA6
 |dailyrecord.co.uk##.GooglePreferredSource_wrapper__lSRA6
 |dailystar.co.uk##.GooglePreferredSource_wrapper__lSRA6
-|gloucestershirelive##.GooglePreferredSource_wrapper__lSRA6
 |irishstar.com##.GooglePreferredSource_wrapper__lSRA6
 |liverpoolecho.co.uk##.GooglePreferredSource_wrapper__lSRA6
 |manchestereveningnews.co.uk##.GooglePreferredSource_wrapper__lSRA6
@@ -5343,7 +5344,6 @@ manofmany.com##.ShareBar_listItem__6t0E_
 |bristolpost.co.uk##.ShareBar_sharebar-inner-wrapper__D0YTf
 |dailyrecord.co.uk##.ShareBar_sharebar-inner-wrapper__D0YTf
 |dailystar.co.uk##.ShareBar_sharebar-inner-wrapper__D0YTf
-|gloucestershirelive##.ShareBar_sharebar-inner-wrapper__D0YTf
 |irishstar.com##.ShareBar_sharebar-inner-wrapper__D0YTf
 |liverpoolecho.co.uk##.ShareBar_sharebar-inner-wrapper__D0YTf
 |manchestereveningnews.co.uk##.ShareBar_sharebar-inner-wrapper__D0YTf
@@ -5366,7 +5366,6 @@ amusingplanet.com##.SocialButtons
 |bristolpost.co.uk##.SocialFollowBar_wrapper__h4k_D
 |dailyrecord.co.uk##.SocialFollowBar_wrapper__h4k_D
 |dailystar.co.uk##.SocialFollowBar_wrapper__h4k_D
-|gloucestershirelive##.SocialFollowBar_wrapper__h4k_D
 |irishstar.com##.SocialFollowBar_wrapper__h4k_D
 |liverpoolecho.co.uk##.SocialFollowBar_wrapper__h4k_D
 |manchestereveningnews.co.uk##.SocialFollowBar_wrapper__h4k_D
@@ -6519,6 +6518,7 @@ lifestyleasia.com##.pre-footer_instagram
 coywolf.com##.preferred
 gsmarena.com##.preferred-source
 cnet.com##.preferred-source-button
+pcgamesn.com##.preferred-sources-button-container
 dailymail.co.uk##.prevNextWrapper-1Vg7e
 opiumpulses.com##.product-nav-tabs-social
 inspiredtaste.net##.profile-icons
