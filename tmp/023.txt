@@ -5294,6 +5294,7 @@ embed.listcorp.com##.CompanyPage2CompanyPageAbout__share
 |miaminewtimes.com##.ContentShareTools
 |westword.com##.ContentShareTools
 nutraingredients.com##.Detail-share
+gulfnews.com##.Eiayv
 federalnewsnetwork.com##.Entry-infoSocial
 omannews.gov.om##.Fiction-FeedBack
 abc.net.au##.FixedHeader_shareBtn__yNush
@@ -5385,6 +5386,7 @@ worldathletics.org##.SocialShare_root__3h83X
 aleteia.org##.Socials_social_links__T3MJv
 sfstandard.com##.StickySharer_list__Lirqs
 indiatoday.in##.Story_whatsapp_channel__6xdtB
+gulfnews.com##.Ub-Cr
 toptal.com##._1oxEOBHC
 grammarly.com##._3fq8S-container
 pixivision.net##._floated-bottom-bar
@@ -30212,7 +30214,8 @@ vibeslist.ai##+js(set-local-storage-item, cookie_consent, denied)
 |happiful.com##+js(set-local-storage-item, cookie_consent, false)
 |moondao.com##+js(set-local-storage-item, cookie_consent, false)
 |worldlibertyfinancial.com##+js(set-local-storage-item, cookie_consent, false)
-search.odin.io##+js(set-local-storage-item, cookie_consent, granted)
+|search.odin.io##+js(set-local-storage-item, cookie_consent, granted)
+|ukrinform.ua##+js(set-local-storage-item, cookie_consent, granted)
 |granola.ai##+js(set-local-storage-item, cookie_consent, no)
 |hatchet.run##+js(set-local-storage-item, cookie_consent, no)
 |polar.sh##+js(set-local-storage-item, cookie_consent, no)
