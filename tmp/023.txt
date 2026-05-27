@@ -4231,6 +4231,7 @@ medscape.com##.fpf-footer-container
 medscape.com##body:style(overflow: auto !important;)
 startribune.com##+js(remove-cookie, client_id)
 theverge.com##+js(aeld, scroll)
+vajiramandravi.com##+js(set-cookie, GSAPR26, true)
 laist.com##[data-allegro-blur-container]
 laist.com##html:style(position: static !important; overflow: auto !important; width: auto !important;)
 usni.org###articleCookieModal
