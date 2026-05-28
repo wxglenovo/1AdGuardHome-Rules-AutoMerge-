@@ -16600,6 +16600,7 @@ signinapp.com##.opacity-100
 girlfriend.com##.opacity-100.translate-y-0
 |torquemag.io##.opt-in-modal
 |wpengine.com##.opt-in-modal
+ms.now##.opt-out
 |tafelberg.co.za##.optin-sdk-root
 |waltons.co.za##.optin-sdk-root
 eventix.io##.ot-cookies
@@ -17745,6 +17746,7 @@ just-eat.ie##div[data-qa="jet-privacy-settings"]
 |versandapo24.com###cookie-wrapper
 |vu.nl###cookie-wrapper
 |wacholder-apotheke.de###cookie-wrapper
+|analyticsmania.com##.cookie-overlay
 |chapelle.co.uk##.cookie-overlay
 |mtis.by##.cookie-overlay
 |museum.nl##.cookie-overlay
@@ -17765,6 +17767,7 @@ wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotifi
 |hito.xyz###cookiePopup
 |reklama5.com###cookiePopup
 |visitseoul.net###cookiePopup
+|analyticsmania.com##.cookie-popup
 |athenaeumscheltema.nl##.cookie-popup
 |biz.chosun.com##.cookie-popup
 |campfimfo.com##.cookie-popup
@@ -27824,6 +27827,7 @@ okko.tv##+js(set-cookie, cookie-confirm, 1)
 cineplanet.com.pe##+js(set-cookie, cookie-consent, 0)
 |esimplus.me##+js(set-cookie, cookie-consent, 1, , reload, 1)
 |joska.com##+js(set-cookie, cookie-consent, 1, , reload, 1)
+ifg-life.id##+js(set-cookie, cookie-consent, accepted)
 |isarradweg.de##+js(set-cookie, cookie-consent, accepted, , reload, 1)
 |lilcat.com##+js(set-cookie, cookie-consent, accepted, , reload, 1)
 |deutsche-alpenstrasse.de##+js(set-cookie, cookie-consent, declined, , , reload, 1)
