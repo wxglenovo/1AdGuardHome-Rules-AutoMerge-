@@ -3001,8 +3001,8 @@ _WebVitalsReporter_
 /rrweb-script.js
 /rrweb.js
 /rrweb.min.js
-/DNSCheck.js
-/DNSChecker.js
+/DNSCheck.js$domain=~github.com
+/DNSChecker.js$domain=~github.com
 /hawk.js
 /hawkeye.js
 /hawklinks.js
