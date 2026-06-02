@@ -1256,6 +1256,7 @@ scifiinterfaces.com###infinite-footer
 fstoppers.com###inhouse-pushdown
 medicalxpress.com###js-popup-donate
 creativefabrica.com###js-promo-banner
+techcrunch.com###js-promo-banner-countdown
 gq-magazine.co.uk###link-banner
 investors.com###login-banner
 dailywire.com###lts-banner
@@ -2361,6 +2362,7 @@ thespinoff.co.nz##.article-peep
 |wdrb.com##.asset-paging-container
 |wellandtribune.ca##.asset-paging-container
 |wfmz.com##.asset-paging-container
+|winnipegsun.com##.asset-paging-container
 |wvgazettemail.com##.asset-paging-container
 |wvnews.com##.asset-paging-container
 |wyomingnewsnow.tv##.asset-paging-container
@@ -4006,6 +4008,7 @@ huckberry.com##.fade
 huckberry.com##.modal-content
 huckberry.com##body,html:style(height: auto !important; overflow: auto !important)
 semrush.com##+js(set-session-storage-item, sem30_popup_shown, 1)
+similarweb.com##+js(cookie-remover, sgID)
 clarin.com##+js(nostif, _waitingAuth0Counter)
 bestrecipes.com.au##+js(cookie-remover.js, br_mc)
 |androidpolice.com##+js(cookie-remover.js, articlesRead)
@@ -5415,6 +5418,7 @@ wccftech.com##.add-google
 consequence.net##.add-to-google
 usmagazine.com##.add-to-google-banner
 womansworld.com##.add-to-google-banner__wrapper___1PWZa
+citynews.ca##.add-trusted-source
 city-journal.org##.addthis-trigger
 lwlies.com##.addthis_toolbox
 planetizen.com##.addtoany_list
@@ -6526,6 +6530,7 @@ buzzfeed.com##.post_shareBottom__9whII
 pravda.com.ua##.post_social_item
 koi.ai##.post_sticky-social
 pravda.com.ua##.post_text > blockquote
+ipolitics.ca##.postshare
 tweaktown.com##.pr-p7.fsvgs
 atlantablackstar.com##.pre-footer
 lifestyleasia.com##.pre-footer_instagram
@@ -7391,6 +7396,7 @@ destructoid.com##.wp-block-gamurs-footer-nav__website-info__socials
 hsph.harvard.edu##.wp-block-hsph-sharing
 ogbongeblog.com##.wp-block-jetpack-send-a-message
 |californiawaterblog.com##.wp-block-jetpack-sharing-buttons
+|cheknews.ca##.wp-block-jetpack-sharing-buttons
 |comicbook.com##.wp-block-jetpack-sharing-buttons
 |hyperallergic.com##.wp-block-jetpack-sharing-buttons
 |reneweconomy.com.au##.wp-block-jetpack-sharing-buttons
@@ -43636,7 +43642,8 @@ primemovermag.com.au###block-17
 thefrisc.com###block-19
 |airfactsjournal.com###block-2
 |howtocookthat.net###block-2
-tmo.report###block-23
+|spaceq.ca###block-23
+|tmo.report###block-23
 newsroom.co.nz###block-24
 melaniecooks.com###block-3
 minnpost.com###block-33
@@ -44312,6 +44319,7 @@ decrypt.co##.GridItem.hEYXVm.sc-39129d7e-1
 thefinancialdiet.com##.Hd__banner
 sfstandard.com##.Header_newslettersButton__8p0gX
 hola.com##.HolaNewsletter_h1mkhy1o
+dailyhive.com##.IframeNewsletter_iframe-newsletter-subscription__7o2iA
 ozy.com##.IndexStyled__NewsletterSection-x8xg4h-5
 sesamecare.com##.InitialState_panel__8oDvT
 nationalgeographic.com##.InlineEmail__Container
@@ -44332,6 +44340,7 @@ jagranjosh.com##.NewsLetterInlineHome
 earth.com##.NewsSubscribeLg_main__QWMpm
 thefinancialdiet.com##.NewslBanner
 |clarin.com##.Newsletter
+|github.blog##.Newsletter
 |governing.com##.Newsletter
 |govtech.com##.Newsletter
 |who.com.au##.Newsletter
@@ -44438,6 +44447,7 @@ getyourguide.com##.activity__newsletter-signup
 developingtelecoms.com##.acymailing_module
 walletinvestor.com##.ad-align-center
 crn.com##.ad-imu-sticky
+ipolitics.ca##.adblock
 independent.com##.ads-container
 drugtargetreview.com##.advads-background
 oled-info.com##.af-form
@@ -45144,6 +45154,7 @@ newmexicomagazine.org##.enews
 theinertia.com##.enews-backdrop
 nzgeo.com##.enews-container
 visitcalifornia.com##.enewsBanner
+extendoffice.com##.eo-subscribe
 texasmonthly.com##.eoa__newsletter-signup
 thescoop.us##.essb_mailform
 unremarkable.ai##.esub-section-wrap
@@ -45732,6 +45743,7 @@ firethering.com##.mailpoet_form
 |openculture.com##.mailster-form
 freebeacon.com##.main-container > .container > .block > .w-full > .border-blue2
 britainsfinest.co.uk##.main-footer-sub
+winnipegsun.com##.main-sidebar-wrap
 hamel.dev##.margin-subscribe
 markammay.com##.markamayNewsletter
 greatvaluevacations.com##.marketing-footer__subscribe-content
@@ -45918,6 +45930,7 @@ mobilesyrup.com##.newsletter-article-container
 |out.com##.newsletter-aside
 |thefulcrum.us##.newsletter-aside
 cityam.com##.newsletter-auto-inject
+healthing.ca##.newsletter-background
 pcguide.com##.newsletter-block-wrapper
 theintercept.com##.newsletter-block__content
 techfirstnow.com##.newsletter-body
@@ -46869,6 +46882,7 @@ onceuponachef.com##.subscribeform-footer
 natashaskitchen.com##.subscribenew
 nationaltoday.com##.subscriber-box
 broadwayworld.com##.subscribtion-form
+discoverairdrie.com##.subscription--popup
 |boredpanda.com##.subscription-block
 |todayonline.com##.subscription-block
 cnevpost.com##.subscription-container
@@ -47202,6 +47216,7 @@ minds.com##M-MODAL
 |ksat.com##[aria-label*="newsletter"]
 |news4jax.com##[aria-label*="newsletter"]
 |wsls.com##[aria-label*="newsletter"]
+mashable.com##[aria-label="Newsletter Sign-Up"]
 usatoday.com##[aria-label="Newsletter signup form"]
 therealdeal.com##[class*="Newsletter"]
 |animalchannel.co##[class="md:mt-10"]
