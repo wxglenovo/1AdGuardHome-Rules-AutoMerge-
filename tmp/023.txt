@@ -5025,8 +5025,10 @@ cepr.net###art-social-wrap
 nascar.ca###article-social-icons
 scoop.co.nz###article-tools
 dailymail.co.uk###articleIconLinksContainer
-fastcompany.com###article_share_button
-fastcompany.com###article_share_google_icon
+|fastcompany.com###article_share_button
+|inc.com###article_share_button
+|fastcompany.com###article_share_google_icon
+|inc.com###article_share_google_icon
 theepochtimes.com###article_top_right_share_btn
 news18.com###artshare
 attitude.co.uk###att-unique-wrapper-2026
@@ -5607,6 +5609,7 @@ military.com##.block--addtoanyadv
 csis.org##.block--social-sharing
 salisburyjournal.co.uk##.block-article-content__socialbar
 |crash.net##.block-better-social-sharing-buttons
+|nltimes.nl##.block-better-social-sharing-buttons
 |ttnews.com##.block-better-social-sharing-buttons
 ubn.news##.block-follow
 tastesbetterfromscratch.com##.block-follow-me
@@ -5614,6 +5617,7 @@ tastesbetterfromscratch.com##.block-follow-updates
 |iowagirleats.com##.block-pinterest-cta
 |simplifylivelove.com##.block-pinterest-cta
 |therecipecritic.com##.block-pinterest-cta
+crash.net##.block-preferred-source
 vegrecipesofindia.com##.block-social-links
 studyfinds.org##.block-social-share
 carnewschina.com##.block_social_media__content
@@ -7193,6 +7197,7 @@ eatwell101.com##.socialsaveur
 traveltriangle.com##.socialshare_box
 labrujulaverde.com##.socialsvgul
 citizen.digital##.socilamedia-share-btns
+nltimes.nl##.sourcebutton
 mpost.io##.space-footer-top-soc
 spacebar.news##.spacebar-auto-notice
 |nordest24.it##.spc-social
@@ -43956,6 +43961,8 @@ chorus.fm###liner-notes
 unherd.com###login-form
 victorpest.com###ltkpopup-overlay
 audioholics.com###mail-list-button
+|1017theone.ca###mailchimp-signup
+|wingham.coolradio.ca###mailchimp-signup
 steamdeckhq.com###mailerlite-form_1
 |allkpop.com###mailing-list
 |happens.vip###mailing-list
@@ -47510,6 +47517,7 @@ christiantoday.com#?#.p-3.border-0:has-text(Stay up to date)
 |chron.com#?#.col1span3:has-text(Newsletters)
 |sfgate.com#?#.col1span3:has-text(Newsletters)
 cjr.org#?#.row > .entry-content > p:has-text(daily newsletter)
+cknxnewstoday.ca#?#.widgets_widgetWrapper__XqJPi:has-text(Join our community)
 cockroachlabs.com#?#.p-4.bg-\[\#F5F5F5\]:has-text(Subscribe to our newsletter)
 coder.com#?#.MuiBox-root:has-text(Subscribe to our Newsletter)
 collaboraonline.com#?#.e-child.e-con-boxed.e-flex.elementor-element:has-text(Subscribe to our newsletter:)
@@ -47575,6 +47583,7 @@ hot-dinners.com#?#.d-lg-block.sp-module:has-text(newsletter)
 ign.com#?#.box-wrapper:has-text(Stay up to date)
 iheartrecipes.com#?#.wp-block-genesis-blocks-gb-columns:has-text(Subscribe by Email)
 iheartrecipes.com#?#.wp-block-genesis-blocks-gb-container:has-text(Free Email Guide)
+inc.com#?#.lg\:gap-3.lg\:justify-between:has-text(SIGN UP)
 inc.com#?#.lg\:gap-3:has-text(Weekly roundup)
 interestingengineering.com#?#.t-bg-surface-zero.t-p-6:has-text(Newsletter)
 inverse.com#?#.msl:has-text(Subscribe for free)
