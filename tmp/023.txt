@@ -37423,6 +37423,10 @@ klimahotelmilano.com###body,html:style(overflow: auto !important; position: init
 klimahotelmilano.com##.tpl-cookie
 home-appliances.philips##body.modal-open:style(overflow: auto !important;)
 home-appliances.philips##vers-anonymous-consent-management-banner
+|ukrinform.net##div#cookie-banner
+|ukrinform.ua##div#cookie-banner
+|ukrinform.net##html:style(overflow: auto !important;)
+|ukrinform.ua##html:style(overflow: auto !important;)
 flvw.de###ConsentMsg
 uncutnews.ch###CooDialog
 wiki.resolution.de###Cookie-pop-up
@@ -42110,6 +42114,8 @@ voas.fi#@##coockie-modal
 |mazda-autohaus-volz-saarbruecken.de##cookie-banner
 |serveminecraft.net##cookie-banner
 |spares2repair.co.uk##cookie-banner
+|ukrinform.net##cookie-banner
+|ukrinform.ua##cookie-banner
 |vrtranspoint.fi##cookie-banner
 |zukunft-jetzt.deutsche-rentenversicherung.de#@##cookie-banner
 caixabank.com#@##cookie-form
