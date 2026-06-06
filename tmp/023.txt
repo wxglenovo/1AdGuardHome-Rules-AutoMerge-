@@ -1171,6 +1171,7 @@ portableapps.com##[alt="RSS"]
 |xhaccess.com##[class*="cam-wgt"]
 |xhamster.com##[class*="cam-wgt"]
 |xhamster.desi##[class*="cam-wgt"]
+mail.google.com##div[data-is-inner-content-recommendation]
 |twitter.com##div[data-testid="profileAnalyticsUpsell"]
 |x.com##div[data-testid="profileAnalyticsUpsell"]
 |twitter.com##div[data-testid="verified_profile_upsell"]
@@ -4001,7 +4002,6 @@ skadden.com#@#.back-to-top:not(body):not(html)
 realme.com#@#.btn-back-to-top
 skadden.com#@#.js-back-to-top
 midori-japan.co.jp#@#.js-scroll-top:not(html):not(body)
-sagepub.com#@#.scrollToTop
 skadden.com#@#a[href="#back-to-top"]
 audioholics.com##.modal
 audioholics.com##.modal-backdrop
@@ -7327,6 +7327,8 @@ carnewschina.com##.telegram-scrolling
 asiaone.com##.telegram-share-wrapper
 insidebitcoins.com##.telegrame_cta_content
 decrypt.co##.text-neutral-700
+streamzy.to##.tg-banner
+streamzy.to##.tg-popup
 |bitcoinsensus.com##.the_champ_sharing_container
 |cnio.es##.the_champ_sharing_container
 |dailyveganmeal.com##.the_champ_sharing_container
@@ -13603,6 +13605,7 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 ||duotonesports.com^*/public/ccm
 ||emerse.com/consent.js
 ||famobi.com/assets/js/consent.js
+||filmpalast.net/wp-content/*/borlabs-cookie/
 ||flaine.com/build/js/tarteaucitron/
 ||freedoflondon.com/Styles/dialog-popup/jquery-ui.js
 ||freetls.fastly.net/main/sd-cmp-$domain=spanishdict.com
@@ -13902,6 +13905,7 @@ armorgames.com###cc-alert
 |yellow.place###cc-bar
 smart-home-fox.co.uk###cc-card
 |consoleconnect.com###cc-overlay
+|olvacourier.com###cc-overlay
 |pccwglobal.com###cc-overlay
 |sorianatural.es###cc-overlay
 |aam-us.org###cc-window
@@ -18293,6 +18297,7 @@ sogeti.*###popup-cookieConsent
 |asst-lecco.it##.cookiebar
 |community.dyson.com##.cookiebar
 |community.jamf.com##.cookiebar
+|fortinet.com##.cookiebar
 |mahle-aftermarket.com##.cookiebar
 |mega-monheim.de##.cookiebar
 |nautadutilh.com##.cookiebar
@@ -37416,6 +37421,8 @@ gpiaaf.gov.pt##+js(set-cookie, WarningsAndPolicyAccepted, true)
 bpstat.bportugal.pt##+js(set-cookie, bdp_use_cookies, notagree)
 klimahotelmilano.com###body,html:style(overflow: auto !important; position: initial !important;)
 klimahotelmilano.com##.tpl-cookie
+home-appliances.philips##body.modal-open:style(overflow: auto !important;)
+home-appliances.philips##vers-anonymous-consent-management-banner
 flvw.de###ConsentMsg
 uncutnews.ch###CooDialog
 wiki.resolution.de###Cookie-pop-up
@@ -44975,6 +44982,7 @@ childrenshealthdefense.org##.chd-defender-article__signup
 childrenshealthdefense.org##.chd-defender-widget--sms-alerts
 childrenshealthdefense.org##.chd-defender__sign-up
 childrenshealthdefense.org##.chd-shortcode-news-tips
+etsy.com##.chrome-footer__etsy-finds
 |androidpcreview.com##.ck_form_container
 |raptitude.com##.ck_form_container
 |thelittlekitchen.net##.ck_form_container
@@ -47369,6 +47377,7 @@ sifted.eu##[data-testid="in-house-ad-climatetech"]
 thurrott.com##[data-thurrott-layout-section-footer-section="newsletter"]
 thurrott.com##[data-thurrott-section="inline-form"]
 ft.com##[data-trackable="story:related-promo"]
+townandcountrymag.com##[data-vars-block-type="Newsletter"]
 torontosun.com##[data-widget="newsletter"]
 oann.com##[href="/alerts"]
 tfn.scot##[href="/bulletin"]
