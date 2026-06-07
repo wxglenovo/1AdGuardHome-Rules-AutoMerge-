@@ -683,6 +683,7 @@ geekdashboard.com###gd-social-widget
 ndtv.com###googelPref
 sltrib.com###google-preferred
 seattletimes.com###google-preferred-btn
+zeenews.india.com###googleCTA
 bleedingcool.com###google_follow
 wccftech.com###google_preferred_source_box
 gamereactor.eu###grnation
@@ -941,6 +942,7 @@ americanbanker.com##.Page-footer-social
 rbth.com##.Popup-telegram
 sfstandard.com##.PopupSharer_container__Nhcrt
 aerospaceglobalnews.com##.PostMetaBar__Social
+cricketcountry.com##.PreferredSourcesDesktop
 whatcar.com##.ReviewSocialSection_reviewSocialSection__qzV0o
 ndtv.com##.SSR_drp
 abc.net.au##.ShareBanner_container__OX63I
@@ -1743,6 +1745,7 @@ militarywatchmagazine.com##.google--text
 |hotcars.com##.google-addus
 |howtogeek.com##.google-addus
 |makeuseof.com##.google-addus
+|military.com##.google-addus
 |movieweb.com##.google-addus
 |pocket-lint.com##.google-addus
 |screenrant.com##.google-addus
@@ -1798,7 +1801,11 @@ www.channelnewsasia.com##.google-preferred__button-wrapper
 |bolde.com##.google-source-button
 |walb.com##.google-source-button
 goal.com##.google-trusted-source
+wionews.com##.googleCTAContainer
 hindustantimes.com##.googleFollow
+zeenews.india.com##.googleIcon
+cricketcountry.com##.googlePreferred
+wionews.com##.googleTrustedContainer-mid
 scientificamerican.com##.google_cta-CuF5m
 coinpedia.org##.google_news-space
 techadvisor.com##.google_news_button
@@ -1993,6 +2000,7 @@ businessinsider.com##.mi-logo-social-container
 sportsnet.ca##.micro_social-icons__E_pIu
 news18.com##.midgprfd
 washingtonian.com##.min-height-800
+military.com##.mlt-social-sharing-article-header
 autonocion.com##.mn-share
 travelandleisure.com##.mntl-footer__social
 thehackernews.com##.mobile-share
@@ -2705,6 +2713,7 @@ macrumors.com##.socialMedia--3i9tSnAb
 eetimes.com##.socialNav
 ruwix.com##.socialShareLinks
 carsdirect.com##.socialShareWidget
+wionews.com##.socialShare_shareFixed__xNEGI
 tech.hindustantimes.com##.socialWidgets
 faithwire.com##.social__buttons
 agbi.com##.social__link
@@ -2987,7 +2996,8 @@ ndtv.com##.vj_copy-i
 motorsport.tv##.vjs-icons-bar
 dailymail.co.uk##.vjs-social-controls
 amgreatness.com##.w-full.mb-10
-polygon.com##.w-google-addus-btn
+|military.com##.w-google-addus-btn
+|polygon.com##.w-google-addus-btn
 invisibleoranges.com##.w-shared-socials
 polygon.com##.w-sharing-bottom
 androidpolice.com##.w-social-follow-button
