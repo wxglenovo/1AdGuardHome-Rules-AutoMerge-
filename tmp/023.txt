@@ -230,6 +230,8 @@ dashboard.razorpay.com#@##credential_picker_container
 ||cdn.to2.net/sdk/$third-party
 ||celebjihad.com^$third-party
 ||civicscience.com/widget/jspoll/$third-party
+||config.config-factory.com^
+||config.content-settings.com^
 ||connect.ekomi.de^$third-party
 ||contentexchange.me^$third-party
 ||contextly.com^$third-party
@@ -36686,6 +36688,10 @@ biolib.cz##+js(set-cookie, analytics_storage, denied, , reload, 1)
 montpellierhandball.com###cookies-messages-wrapper
 montpellierhandball.com##.fancybox-overlay
 montpellierhandball.com##body,html:style(overflow: auto !important; position: initial !important;)
+|ukrinform.net##div#cookie-banner {display:none}
+|ukrinform.ua##div#cookie-banner {display:none}
+|ukrinform.net##html {overflow:auto}
+|ukrinform.ua##html {overflow:auto}
 blome-uhren.de##+js(set-cookie, juwcmp_external, 0)
 blome-uhren.de##+js(set-cookie, juwcmp_retargeting, 0)
 blome-uhren.de##+js(set-cookie, juwcmp_rolex, 0)
@@ -41790,6 +41796,13 @@ trt1.com.tr##[class^="cookies-info_cookies-info-wrapper"]
 beinsports.com.tr##div[class*="cookie_cookieConsentWrapper"]
 sekerbank.com.tr##div[class^="cookiebox_cookieBox"]
 trtspor.com.tr##div[class^="cookies-info_"]
+|akbank.com##efilli-layout-dynamic
+|alternatifbank.com.tr##efilli-layout-dynamic
+|axess.com.tr##efilli-layout-dynamic
+|hepsiburada.com##efilli-layout-dynamic
+|isbank.com.tr##efilli-layout-dynamic
+|migros.com.tr##efilli-layout-dynamic
+|nkolay.com##efilli-layout-dynamic
 |macrocenter.com.tr##fe-product-cookie-indicator
 |migros.com.tr##fe-product-cookie-indicator
 |tazedirekt.com##fe-product-cookie-indicator
