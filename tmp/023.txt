@@ -7578,6 +7578,7 @@ thinkglobalhealth.org##button.hover\:bg-accent-social-button
 |player.amperwavepodcasting.com##button[aria-label="Share"]
 |stockx.com##button[aria-label="Share"]
 lonelyplanet.com##button[data-taggyid]
+nine.com.au##button[data-ui-testid="header-share-button"]
 theguardian.com##div > gu-island[name="ShareButton"]
 photorumors.com##div[align="RIGHT"]
 fifa.com##div[class*="article-section_shareButton_"]
@@ -13814,6 +13815,7 @@ sharedinvestigator.com###accept-sip-popup-container
 global.toptoon.com###acceptCookieCon
 readawrite.com###accept_cookie_banner
 |dallasinnovates.com###acceptance
+|detector404.ru###acceptance
 |hawke.ai###acceptance
 hoverwatch.com###acceptbar
 algonquincollege.com###accn-cookie-consent-wrapper
@@ -13918,6 +13920,7 @@ caseys.ie###caseys-cookie-modal
 |infomir.eu###cb
 |visitvictoria.com###cb
 |blankcaps.com###cb-cookie-banner
+|gsu.edu.tr###cb-cookie-banner
 |t-shirtwholesaler.com###cb-cookie-banner
 |whois.is###cb-cookie-banner
 |accounts.meister.co###cb-wrapper
@@ -14657,7 +14660,8 @@ xceptance.com###privacy-message
 |eso.org###privacy-notice
 |execed.business.columbia.edu###privacy-notice
 |ncoa.org###privacy-notice
-govt.nz###privacy-notification
+|govt.nz###privacy-notification
+|infpol.ru###privacy-notification
 community.creative-assembly.com###privacy-policy-20180518
 philstarlife.com###privacy-policy-container
 foundryvtt.com###privacy-policy-prompt
@@ -14666,7 +14670,8 @@ fa-mag.com###privacy-policy-sticky
 |kidmah.co.il###privacy-popup
 |utas.edu.au###privacy-popup
 supermicro.com###privacy-popup-agree
-toomics.com###privacy-popup-msg
+|toomics.com###privacy-popup-msg
+|toomics.in###privacy-popup-msg
 amazon.jobs###privacy-preferences-banner
 telegraph.co.uk###privacy-settings-prompt
 dolarhoje.com###privacy-warning
@@ -16052,8 +16057,21 @@ cervelo.com##.eSJQoN
 aiease.ai##.ea-cookies-accept
 i-subdigital.com##.eb-1
 i-sub.co.uk##.eb-shd1
+|adamscc.nl##.ec-gtm-cookie-directive
 |cherryred.co.uk##.ec-gtm-cookie-directive
+|diegomarin.com##.ec-gtm-cookie-directive
+|fiftiesstore.com##.ec-gtm-cookie-directive
+|houseofsound.ch##.ec-gtm-cookie-directive
+|mildot.es##.ec-gtm-cookie-directive
+|military1st.co.uk##.ec-gtm-cookie-directive
 |military1st.com##.ec-gtm-cookie-directive
+|military1st.eu##.ec-gtm-cookie-directive
+|punanaamio.fi##.ec-gtm-cookie-directive
+|retro-audio.nl##.ec-gtm-cookie-directive
+|rubber4roofs.co.uk##.ec-gtm-cookie-directive
+|sportmix.pl##.ec-gtm-cookie-directive
+|store.kapetanis.com##.ec-gtm-cookie-directive
+|uvex.com.pl##.ec-gtm-cookie-directive
 midasbuy.com##.eea-pop
 carvago.com##.ees0v8i1
 tech.eu##.efilli-layout-legacy
@@ -16560,6 +16578,7 @@ ibei.org##.messages
 foreignaffairs.com##.messages--container--bottom
 met.com##.met-cookie
 metrobankonline.co.uk##.metro-cookiebar__block
+|hakmar.com.tr##.mfn-cookies
 |muffingroup.com##.mfn-cookies
 |syoncon.com##.mfn-cookies
 malaysiaairlines.com##.mfp-bg
@@ -18269,6 +18288,7 @@ sogeti.*###popup-cookieConsent
 |emerald.com###cookies-consent
 |fadc.org.br###cookies-consent
 |forit.ro###cookies-consent
+|grazie.com.tw###cookies-consent
 |hadron.tether.to###cookies-consent
 |my-twist.tempurl.co.il###cookies-consent
 |tece.co.il###cookies-consent
@@ -18966,11 +18986,13 @@ sklepmartes.pl##.mst-gdpr__cookie-bar-overlay
 |parklot.pl##.fixed-bottom
 |plantnet.org##.fixed-bottom
 |remove.bg##.fixed-bottom
+|sariyersoz.com.tr##.fixed-bottom
 |shroomers.app##.fixed-bottom
 |skokka.com##.fixed-bottom
 |speisebaron.de##.fixed-bottom
 |susicka.cz##.fixed-bottom
 |tjsc.jus.br##.fixed-bottom
+|turkiyekatilimsigorta.com.tr##.fixed-bottom
 |unscreen.com##.fixed-bottom
 |wallpaperdirect.com##.fixed-bottom
 |biblio.co.uk##.navbar-fixed-bottom
@@ -19697,6 +19719,7 @@ stokrotka.pl###cboxWrapper
 |schmackarys.com##.gdpr
 |srilankan.com##.gdpr
 |sydsvenskan.se##.gdpr
+|taa-ankara.org.tr##.gdpr
 |tomba.io##.gdpr
 |umkc.edu##.gdpr
 |venngage.com##.gdpr
@@ -19926,6 +19949,7 @@ morningstar.com###additionalInfoe
 |cc-egov.de##.cc-window
 |cerberusapp.com##.cc-window
 |cloud.thermoworks.com##.cc-window
+|corporate-benefits.de##.cc-window
 |creativehut.com.br##.cc-window
 |discussion.fedoraproject.org##.cc-window
 |e-infra.com##.cc-window
@@ -19978,6 +20002,10 @@ morningstar.com###additionalInfoe
 |sarnerholz.com##.cc-window
 |sarnerstiftung.it##.cc-window
 |sbenny.com##.cc-window
+|schaefer-container-systems.com##.cc-window
+|schaefer-container-systems.de##.cc-window
+|schaefer-it-systems.com##.cc-window
+|schaefer-it-systems.de##.cc-window
 |sdxcentral.com##.cc-window
 |siebenfoercher.it##.cc-window
 |starmicronics.com##.cc-window
@@ -20676,9 +20704,12 @@ clarochile.cl##.cookieModal
 |colaboraread.com.br##.cookies
 |compendium.com.ua##.cookies
 |conquistainternet.com##.cookies
+|consultant.net.ua##.cookies
 |corporate.it##.cookies
 |cp.pt##.cookies
 |creatica.com.ar##.cookies
+|creditural.ru##.cookies
+|creotech.pl##.cookies
 |crytek.com##.cookies
 |custplace.com##.cookies
 |cutterbrooks.com##.cookies
@@ -20797,13 +20828,16 @@ clarochile.cl##.cookieModal
 |ingrad.ru##.cookies
 |intendit.se##.cookies
 |intergameonline.com##.cookies
+|invb.ru##.cookies
 |itkkit.com##.cookies
 |iwp.be##.cookies
 |izhlife.ru##.cookies
 |jefferson-hifi-video.fr##.cookies
+|jobs.lenovo.com##.cookies
 |justicaeleitoral.jus.br##.cookies
 |kabola.hr##.cookies
 |kaitseliit.ee##.cookies
+|keporn.com##.cookies
 |kiauto.fr##.cookies
 |kituramirus.com##.cookies
 |laboratoriohlab.com.br##.cookies
@@ -20858,6 +20892,7 @@ clarochile.cl##.cookieModal
 |monterail.com##.cookies
 |moongamestudios.com##.cookies
 |mpccreative.io##.cookies
+|muastore.pl##.cookies
 |mute.design##.cookies
 |myinvestor.es##.cookies
 |mzk.zgora.pl##.cookies
@@ -20893,6 +20928,7 @@ clarochile.cl##.cookieModal
 |parfumsclub.de##.cookies
 |patek.com##.cookies
 |paysale.com##.cookies
+|peporn.com##.cookies
 |perfumesclub.co.uk##.cookies
 |perfumesclub.com##.cookies
 |perfumesclub.fr##.cookies
@@ -20970,6 +21006,7 @@ clarochile.cl##.cookieModal
 |stallmastaregarden.se##.cookies
 |staltrans.ru##.cookies
 |stanumamoy.com##.cookies
+|stary.pl##.cookies
 |stb.com.tn##.cookies
 |stratoflow.com##.cookies
 |streetfootballworld.org##.cookies
@@ -20985,6 +21022,7 @@ clarochile.cl##.cookieModal
 |taylorandfrancis.com##.cookies
 |tdsexport.com##.cookies
 |technolove.ru##.cookies
+|teen21.com##.cookies
 |teknikdelar.se##.cookies
 |telsu.fi##.cookies
 |temp-image.com##.cookies
@@ -22324,11 +22362,13 @@ handandstone.com##.modal-cookie-policy
 |pkprintprof.ru##.modal--cookie
 |themodernhouse.com##.modal--cookie
 |wildberries.by##.modal--cookie
+|znaet.petrovich.ru##.modal--cookie
 |marathonphotos.live##div[id*="_modal_outer_"]
 |witbee.com##div[id*="_modal_outer_"]
 |brokerdefense.net###rgpd
 |cfmradio.fr###rgpd
 |cmm.fr###rgpd
+|eplaque.fr###rgpd
 |espace-competition.com###rgpd
 |fareneit.fr###rgpd
 |fermeturegarage.com###rgpd
@@ -23450,6 +23490,7 @@ naylorsfinance.com###gdproverlay
 |oldmail.meta.ua##.privacy-policy
 |paymaster.ru##.privacy-policy
 |politeka.net##.privacy-policy
+|taximaster.ru##.privacy-policy
 |tupras.com.tr##.privacy-policy
 |ukrainci.com.ua##.privacy-policy
 |ukrainianwall.com##.privacy-policy
@@ -37727,6 +37768,7 @@ nachhilfeunterricht.de###pp
 |hemhofen.de###privacy-container
 |jetzendorf.de###privacy-container
 |mitteldithmarschen.de###privacy-container
+|poecking.de###privacy-container
 |weissenhorn.de###privacy-container
 sex-infos.ch###privacy-dislamer
 aqua-medic.de###privacy-info
@@ -37742,6 +37784,10 @@ komediateatteri.fi###rehtiConsentMainWrapper
 gourmetbugs.ch###rgpd-ask-popin
 rwth-aachen.de###rwth-cb
 gfoe-conference.de###sb-container
+|thepublic.info###silktide-wrapper
+|trepedia.de###silktide-wrapper
+|trepedia.fr###silktide-wrapper
+|trepedia.nl###silktide-wrapper
 felbermayr.cc###siwa-cookiebar-banner
 sightseeing-kontor.de###sk-info
 servicebund.de###social-opt-in
@@ -37751,7 +37797,8 @@ soldesign.de###solbox
 jetztlive.com###splash-consent
 urteile-gesetze.de###stickyFooter
 soeren-hentzschel.at###storage-notice
-eventfrog.ch###tf-modal-container
+|eventfrog.ch###tf-modal-container
+|eventfrog.de###tf-modal-container
 mbt-store.com###tfm_dsgvo_disclaimer_container
 |swz.it###tincx-cookie-notice
 |tincx.com###tincx-cookie-notice
@@ -37857,7 +37904,8 @@ sushiworldlouvain.be##.cc-banner
 snickers-workwear.de##.cc-dialog
 fahrschulefuerth.de##.cc-info--closed
 pilatesclub.de##.cc-manager-banner
-bresser.de##.cc-modal-backdrop
+|bresser.de##.cc-modal-backdrop
+|jeans-meile.de##.cc-modal-backdrop
 aussenrollo.de##.cc-screen
 boltenhagen.reisen##.cc_overlay
 oefb.at##.cc_wrapper
@@ -37991,6 +38039,7 @@ topfit-badgriesbach.de##.gatewayBar
 delano.de##.gatewayContainer
 delano.de##.gatewayWindowShade
 |dasdie.de##.gdprcookie
+|lwlhome.de##.gdprcookie
 |policija.si##.gdprcookie
 |zamunda.net##.gdprcookie
 |as-bremen.de##.gedepiar-info
@@ -38919,6 +38968,7 @@ cdh.be###comp-jkmod7cm
 |omroepzeeland.nl###consent-plugin
 |omropfryslan.nl###consent-plugin
 |oost.nl###consent-plugin
+|rijnmond.nl###consent-plugin
 |rtvdrenthe.nl###consent-plugin
 |rtvnoord.nl###consent-plugin
 |rtvutrecht.nl###consent-plugin
@@ -40732,7 +40782,8 @@ clinic3.ru###agreedBanner
 gazeta-n1.ru###bdModalCookie
 ecolipetsk.ru###bg_popup
 bankinform.ru###bisCookieCompliance
-hh.ru###bottom-cookies-policy-informer
+|hh.ru###bottom-cookies-policy-informer
+|zarplata.ru###bottom-cookies-policy-informer
 |earth-chronicles.ru###bottomInfoBar
 |vip-tv.online###bottomInfoBar
 yvid.ru###cbb
@@ -40748,7 +40799,8 @@ violity.com###cookieConsentPopup
 zia.aero###cookieDisclaimer
 aeroflot.ru###cookieInfo
 abok.ru###cookieNotice
-itweek.ru###cookie_notification
+|itweek.ru###cookie_notification
+|rvdtut.ru###cookie_notification
 vladimir-city.ru###cookie_pp
 so-ups.ru###cookieagreement
 vtb.ru###cookies-box
@@ -40790,7 +40842,8 @@ sport-express.net###se-cookie-popup
 thepublic.info###silktide-wrapper
 softline.ru###stripe_permission_use_cookie
 dobrodel.mosreg.ru###toast-container
-keysight-technologies.ru###uni-notification
+|keysight-technologies.ru###uni-notification
+|world-devices.ru###uni-notification
 incom.ru###use_cookies_message-block
 nord-news.ru###ym-cookie-notification
 bcs.ru##.Cbh_c
@@ -41742,6 +41795,7 @@ ikonambalaj.com.tr##.bottom-center
 |isdunyasindakadin.com##.cerez
 |kocaelisabah.com##.cerez
 |mhrs.gov.tr##.cerez
+|nebim.com.tr##.cerez
 |seffafbelediyecilik.com##.cerez
 |yenigolcuk.com##.cerez
 tebilon.com##.cerezNotification
@@ -41751,7 +41805,8 @@ saltur.com.tr##.cerezkullanimi
 haberler.com##.cmp-reopen
 bettilt496.com##.consent-modal
 hosting.com.tr##.contract-popup
-soneksbilgisayar.com##.cookie-agreement-module
+|segmen.com.tr##.cookie-agreement-module
+|soneksbilgisayar.com##.cookie-agreement-module
 hepsijet.com##.cookie-policy_cookiePolicy__9xbaz
 pinarsu.com.tr##.cookieContent
 ensonhaber.com##.cookiepolicy-banner
