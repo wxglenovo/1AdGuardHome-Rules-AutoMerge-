@@ -4256,6 +4256,8 @@ laist.com##html:style(position: static !important; overflow: auto !important; wi
 usni.org###articleCookieModal
 usni.org##+js(remove-cookie, STYXKEY_nh_count)
 usni.org##+js(remove-cookie, STYXKEY_pro_count)
+deliveroo.ie#?#.ReactModalPortal > .ccl-5300654a18fccc61:has(p:has-text(Sign up to Deliveroo Plus Gold))
+deliveroo.ie##html:style(overflow:auto !important;)
 accuradio.com##.ReactModal__Overlay--after-open.ReactModal__Overlay
 |10tv.com##+js(aeld, /^(mouseout|mouseleave)$/)
 |11alive.com##+js(aeld, /^(mouseout|mouseleave)$/)
@@ -7529,7 +7531,8 @@ sfgate.com##[aria-label="Share from Email"]
 thejc.com##[aria-label="Share this article"]
 sfgate.com##[aria-label="Share to Twitter"]
 news.yahoo.com##[aria-label="Share"]
-breakingnews.ie##[aria-label="Twitter"]
+|breakingnews.ie##[aria-label="Twitter"]
+|nhentai.net##[aria-label="Twitter"]
 cyprus-mail.com##[class^="_googleNewsContainer_"]
 indiewire.com##[class^="_socialMedia_"]
 techcommunity.microsoft.com##[class^="custom_widget_MicrosoftFooter_social-share_"]
@@ -8122,6 +8125,7 @@ miruro.*##section[class^="_noticeSection_"]
 |dunsguide.co.il##.social
 |dvhn.nl##.social
 |ebar.com##.social
+|ecfr.eu##.social
 |ecologiaverde.com##.social
 |ecranlarge.com##.social
 |eetimes.com##.social
@@ -13992,6 +13996,8 @@ yopmail.com###cons-pop
 |gwmanz.com###consent-banner
 |mobisystems.com###consent-banner
 |parcelsapp.com###consent-banner
+|sohosystems.co.za###consent-banner
+|support.github.com###consent-banner
 agoda.com###consent-banner-container
 |aspose.com###consent-banner-main
 |chessshop.eu###consent-banner-main
@@ -14174,6 +14180,7 @@ meetings.smartrecoveryglobal.org###cookieconsentmodal
 cvedetails.com###cookieconsentwarningcontainer
 spf-record.com###cookieguidelineRoot
 treadsafe.co.za###cookiemessagecontainer
+volkswagen.co.uk###cookiemgmt
 |e-resourcing.com###cookienotice_notice
 |forcesfamiliesjobs.co.uk###cookienotice_notice
 |linuxcareers.com###cookienotice_notice
@@ -14339,6 +14346,7 @@ aza.org###gdpr-bar
 sharefaith.com###gdpr-bot
 nanotalegame.com###gdpr-consent-form
 |almaasdiamonds.com###gdpr-cookie-message
+|americascup.com###gdpr-cookie-message
 |cfu-airport.gr###gdpr-cookie-message
 |clustrmaps.com###gdpr-cookie-message
 |cobau.com.br###gdpr-cookie-message
@@ -16138,7 +16146,10 @@ privacysavvy.com##.fixed
 namesilo.com##.fixed-footer
 mobileshop.eu##.fixed-warning
 digitalranking.eu##.fixed.bottom-0:has(.lucide-cookie)
-cline.bot##.fixed.bottom-0:has([href="/privacy"])
+|cline.bot##.fixed.bottom-0:has([href="/privacy"])
+|forgemods.de##.fixed.bottom-0:has([href="/privacy"])
+|bdtickets.com##.fixed.bottom-0:has([href="/privacy-policy"])
+|wecoach.gg##.fixed.bottom-0:has([href="/privacy-policy"])
 tomtom.com##.fixed.bottom-24
 thelatinonewsletter.org##.fixed.left-2
 speedway.com##.fixed:has(a[href$="privacy-policy"])
@@ -17460,6 +17471,7 @@ backmarket.com##[data-test="banner"]
 workagnt.com##[data-testid="banner-cookie-consent"]
 fifthrow.com##[data-testid="cookie-banner"]
 pleo.io##[data-testid="cookie-banner-wrapper"]
+autoindustriya.com##[data-testid="cookie-consent-banner"]
 trello.com##[data-testid="cookies-consent-banner"]
 |cline.bot##[data-testid="cookies-dialog"]
 |opencollective.com##[data-testid="cookies-dialog"]
@@ -18227,6 +18239,7 @@ sogeti.*###popup-cookieConsent
 |tipik.hu##.cookie-alert
 |ctt.de##.amgdprjs-bar-template
 |fabricsandpapers.com##.amgdprjs-bar-template
+|groomershop.pl##.amgdprjs-bar-template
 |ironmaxx.de##.amgdprjs-bar-template
 |johnsonsjewellers.co.uk##.amgdprjs-bar-template
 |landyschemist.com##.amgdprjs-bar-template
@@ -18541,6 +18554,7 @@ privateproperty.co.za###consentManager
 |underthehammer.com##.cookie-consent-container
 |designbycreative.co.uk###cookie-overlay
 |gateshead.gov.uk###cookie-overlay
+|lagerkoning.nl###cookie-overlay
 |houseofmilk.nl##.wpcb-banner
 |kiralabunu.com##.wpcb-banner
 |latuciuri.ro##.wpcb-banner
@@ -18814,6 +18828,7 @@ bossautoukraine.com.ua##[class^="style_container__"]
 |ewswa.org##.usn-notification
 |getselfhelp.co.uk##.usn-notification
 |haltonpolice.ca##.usn-notification
+|kitchener.ca##.usn-notification
 |lethbridge.ca##.usn-notification
 |merthyr.ac.uk##.usn-notification
 |mfy.org.uk##.usn-notification
@@ -19458,6 +19473,7 @@ stokrotka.pl###cboxWrapper
 |nixcademy.com###cc-main
 |oakridgepark.com###cc-main
 |olimpo.bet###cc-main
+|online.gdu.com.tr###cc-main
 |openresearchlab.org###cc-main
 |polytoria.com###cc-main
 |poptavka.net###cc-main
@@ -20440,6 +20456,7 @@ dryg.pl##div[class^="CookiesNoti"]
 |busbud.com##.consent-banner
 |chase.com##.consent-banner
 |chasebonus.com##.consent-banner
+|feiertagskalender-deutschland.de##.consent-banner
 |gameduell.de##.consent-banner
 |has.co.il##.consent-banner
 |iziwork.com##.consent-banner
@@ -37578,6 +37595,7 @@ patienten.helios-gesundheit.de###consent-dialog
 swissquote.ch###consent-form-root
 computeruniverse.net###consent-layer
 |helite.de###consent-manager
+|stahlwerk-schweissgeraete.de###consent-manager
 |stompgrip.de###consent-manager
 ihk-akademie.de###consent-overlay
 |hotel-kornspeicher.de###consent-tool
@@ -37684,6 +37702,7 @@ freiewaehler-hessen.de###dscookiebar_consent
 |koegel-touristik.de###dsgvo
 |liste-finanzamt.de###dsgvo
 frivol.com###dsgvo-alert
+bielefeld.de###dsgvo-dialog-overlay
 koegel-touristik.de###dsgvo_bglayer
 die-kuriere.info###dsgvo_hinweis
 studierenplus.de###elOD1QB00O
@@ -38309,6 +38328,7 @@ puerner.de##dialog[style="border-color:lightgray;border-width:2px;border-radius:
 lizy.be##div[class^="PopupCookies-"]
 sunrise.ch##div[class^="cookieBanner_"]
 milak.at##div[data-extension="consent_manager"]
+netzkino.de##div[data-media="PagePadding-v PagePadding-h"]:has([data-testid="cookie-notice-screen"])
 aok-erleben.de##div[data-module="cookie-manager-dialog"]
 polizei.bayern.de##div[id*="_modal_outer_"]
 prospekt.aldi-sued.de##div[id^="ppms_cm_consent_popup_"]
@@ -40068,6 +40088,7 @@ cda.pl###box_info
 |simba.com.pl###cContainer
 promib.pl###cInfo
 drogi.gddkia.gov.pl###c_popek
+cigarro.pl###cb-cookie
 gov.pl###cb2-banner
 are.waw.pl###cc_popup
 televio.pl###ccnst__main
@@ -40243,6 +40264,7 @@ alcalia.pl##.alcalia-cookies
 odsluchane.eu##.alert-flash
 poznanairport.pl##.alertBoxes
 |focusgarden.pl##.amgdprjs-bar-template
+|groomershop.pl##.amgdprjs-bar-template
 |partsimple.com##.amgdprjs-bar-template
 tvporno.pl##.avwp-av
 tvporno.pl##.avwp-av-overlay
@@ -41236,6 +41258,7 @@ fastvps.ru##app-cookies-accept
 |school.mos.ru##body > div[style^="position: fixed; overflow: visible; top: 0px; left: 0px; transform: translate("]
 |uchebnik.mos.ru##body > div[style^="position: fixed; overflow: visible; top: 0px; left: 0px; transform: translate("]
 vmeste.mosreg.ru##dd-cookie-accept-banner
+sostav.ru##div:has(> p>a[href$="/page/policy"])
 rabota.sber.ru##div[class*="styled__CookieWrapper-"]
 |meta-ratings.kz##div[class^="CookieAllowance-module-"]
 |metarating.com.ua##div[class^="CookieAllowance-module-"]
@@ -41822,6 +41845,7 @@ blablacar.com.tr##.eejIlc.sc-mqugsu-0
 fibabanka.com.tr##.efilli-layout-fibabanka
 getir.com##.faOyhg
 yucebasmakine.com.tr##.fadeInUp
+ankahaber.net##.fixed.bottom-0:has([href="/cerez-politikasi"])
 gezinomi.com##.fixedprotectionOfData
 |kampanya.peugeot.com.tr##.ihm-popup
 |talep.peugeot.com.tr##.ihm-popup
@@ -44034,6 +44058,7 @@ quadraphonicquad.com###gb-reg-modal-reg
 sourceforge.net###get-updates
 warontherocks.com###gform_wrapper_1
 verybestbaking.com###gigya-subscribe-with-email-screen
+depictdatastudio.com###globals-el-1
 orlandoweekly.com###h-orlando-s-daily-dose-of-what-matters-subscribe-to-the-daily-weekly
 healthleadersmedia.com###hcpro-misc-form
 admonsters.com###hdr_sign-up
@@ -45448,6 +45473,7 @@ breakingnews.ie##.flex.bg-gray-900.pt-12
 thejc.com##.flex.self-start.flex-col.gap-24.p-24.bg-black.text-white.rounded-md.\[\&_\.account-exists-message\]\:text-white
 aclu.org##.floating-action-wrapper
 gazoo.com##.floating-banner
+ecfr.eu##.floating-wrapper
 thebulletin.be##.floorad
 cyberinsider.com##.florien-campaign
 |lindsaypleskot.com##.fluentform
@@ -46225,6 +46251,7 @@ gobankingrates.com##.newsletter-module-optin--container
 |defenseone.com##.newsletter-module-subscribe
 |nextgov.com##.newsletter-module-subscribe
 poynter.org##.newsletter-nav
+wired.com##.newsletter-one-click-wrapper--SlimStacked
 |kivitv.com##.newsletter-opt
 |wmar2news.com##.newsletter-opt
 |advocate.com##.newsletter-overlay
@@ -47701,6 +47728,8 @@ iheartrecipes.com#?#.wp-block-genesis-blocks-gb-container:has-text(Free Email Gu
 inc.com#?#.lg\:gap-3.lg\:justify-between:has-text(SIGN UP)
 inc.com#?#.lg\:gap-3:has-text(Weekly roundup)
 interestingengineering.com#?#.t-bg-surface-zero.t-p-6:has-text(Newsletter)
+interestingengineering.com#?#.t-max-w-96:has-text(Sign up for free)
+interestingengineering.com#?#.t-min-h-\[160px\]:has-text(Sign up for free)
 inverse.com#?#.msl:has-text(Subscribe for free)
 jointhefollowup.com#?#.pb-6.border-b:has-text(Signup)
 jweekly.com#?#p > em:has-text(Sign up for)

@@ -3106,7 +3106,8 @@ sfgate.com##[aria-label="Share from Email"]
 thejc.com##[aria-label="Share this article"]
 sfgate.com##[aria-label="Share to Twitter"]
 news.yahoo.com##[aria-label="Share"]
-breakingnews.ie##[aria-label="Twitter"]
+|breakingnews.ie##[aria-label="Twitter"]
+|nhentai.net##[aria-label="Twitter"]
 cyprus-mail.com##[class^="_googleNewsContainer_"]
 indiewire.com##[class^="_socialMedia_"]
 techcommunity.microsoft.com##[class^="custom_widget_MicrosoftFooter_social-share_"]
@@ -3699,6 +3700,7 @@ miruro.*##section[class^="_noticeSection_"]
 |dunsguide.co.il##.social
 |dvhn.nl##.social
 |ebar.com##.social
+|ecfr.eu##.social
 |ecologiaverde.com##.social
 |ecranlarge.com##.social
 |eetimes.com##.social
