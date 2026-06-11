@@ -4696,6 +4696,7 @@ marsh.com##.reveal-modal-bg-white
 |solanamobile.com##.rhc-banner
 mrgugu.com##.rhvQa
 ricola.com##.ricola-cookie-info
+82-0.com##.right-4.fixed
 haikuanimator.com##.rmq-d60b84d6
 southwestcoastpath.org.uk##.roar-body
 repovive.com##.rounded-lg.max-w-3xl
@@ -5117,6 +5118,7 @@ abc.net.au##[data-component="CookieBanner"]
 uidaho.edu##[data-component="CookieConsent"]
 jdslabs.com##[data-component="cookieBanner"]
 koenigsegg.com##[data-component="n3-cookie-notice"]
+plasma.org##[data-cookie-consent-banner="true"]
 pixilart.com##[data-cookie-number]
 iol.co.za##[data-dialog="true"]
 wizards.com##[data-fetch-key="TheCookiePrompt:0"]
@@ -5197,7 +5199,8 @@ c.realme.com##div > .cookie-privacy
 |wiki.valhelsia.net##div.r-1xcajam.css-175oi2r
 betmgm.co.uk##div:has(> div > div[bol-component="cookie-consent"])
 jingdaily.com##div[aria-label="Cookie consent banner"]
-streamelements.com##div[aria-label="Cookie consent"]
+|38-0.app##div[aria-label="Cookie consent"]
+|streamelements.com##div[aria-label="Cookie consent"]
 utrechtart.com##div[aria-label="cookie consent banner"]
 |bicycling.com##div[aria-label^="Privacy Disclosure"]
 |biography.com##div[aria-label^="Privacy Disclosure"]
@@ -5404,6 +5407,7 @@ wirexapp.com##wx-cookie-policy-notification
 |history.com##.p11s5o4
 |yunexpress.com##.p11s5o4
 history.com#?#[data-sentry-component="Box"]:has-text(Legal Terms and Privacy)
+interestingengineering.com#?#.t-max-w-96:has-text(Sign up for free)
 |amazon.ca###sp-cc-wrapper
 |amazon.co.uk###sp-cc-wrapper
 |amazon.com###sp-cc-wrapper
@@ -7992,6 +7996,7 @@ dryg.pl##div[class^="CookiesNoti"]
 |dersportverlag.de###cookie-notice
 |docs.flutter.dev###cookie-notice
 |epoch.ai###cookie-notice
+|epsd.io###cookie-notice
 |foodbloggermania.it###cookie-notice
 |g-city.com###cookie-notice
 |gamenode.app###cookie-notice
