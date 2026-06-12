@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-06-11T22:38:51.176Z
+🚫 去掉注释行: ! Last modified: 2026-06-12T03:16:22.821Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -1585,15 +1585,15 @@
 🚫 去掉注释行: ! Watson News App for iOS https://github.com/AdguardTeam/AdguardFilters/issues/4524
 🚫 去掉注释行: ! Fixing Walmart
 🚫 去掉注释行: !Title: anti-AD
-🚫 去掉注释行: !Version: 20260611204435
+🚫 去掉注释行: !Version: 20260612125013
 🚫 去掉注释行: !Homepage: https://github.com/privacy-protection-tools/anti-AD
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
-🚫 去掉注释行: !Total lines: 97300
-🚫 去掉注释行: ! Checksum: riCvK5SKpTqYDkzoo1r9MQ
-🚫 去掉注释行: ! Version: 202606112351
+🚫 去掉注释行: !Total lines: 97299
+🚫 去掉注释行: ! Checksum: qhp4WNhgcmEyNc3yc20v3A
+🚫 去掉注释行: ! Version: 202606120451
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 11 Jun 2026 23:51 UTC
+🚫 去掉注释行: ! Last modified: 12 Jun 2026 04:51 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -17300,7 +17300,7 @@
     → |home-designing.com##.ad-block
     → |inc.com##.ad-block
     → |trustpilot.com##.ad-block
-✅ 多域名拆分: 12news.com,9news.com,9to5google.com,9to5mac.com,aad.org,advfn.com,all3dp.com,allaboutcookies.org,allnovel.net,amny.com,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,bolavip.com,bonappetit.com,breakingac.com,britishheritage.com,businessday.ng,businessinsider.com,capemaynjdaily.com,cbs8.com,cc.com,ccjdigital.com,centralbucksnews.com,dailytrust.com,delish.com,downbeach.com,dutchnews.nl,ecr.co.za,electrek.co,engineeringnews.co.za,equipmentworld.com,euromaidanpress.com,fastcompany.com,fishermap.org,footyheadlines.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,globalspec.com,gmanetwork.com,grammarbook.com,greatbritishchefs.com,greatitalianchefs.com,hbr.org,highdefdigest.com,historynet.com,horshamnow.com,howstuffworks.com,huffpost.com,ibtimes.sg,inc.com,insidehook.com,intouchweekly.com,irishcentral.com,karanpc.com,khou.com,koat.com,ktvu.com,lifeandstylemag.com,longislandpress.com,macstories.net,mail.com,memuplay.com,metro.us,metrophiladelphia.com,minecraftforum.net,miningweekly.com,mixed-news.com,mobilesyrup.com,modernhealthcare.com,namemc.com,nbcnews.com,newrepublic.com,northpennnow.com,nzherald.co.nz,ocnjdaily.com,oneesports.gg,opb.org,outkick.com,papermag.com,perkvalleynow.com,phillydaily.com,physiology.org,pixiv.net,podcastaddict.com,punchng.com,qns.com,realsport101.com,reason.com,refinery29.com,ringsidenews.com,roadandtrack.com,scroll.in,seaislenews.com,seattletimes.com,songkick.com,sportskeeda.com,storyboard18.com,streamfree.to,thedailybeast.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,thenationonlineng.net,thenewstack.io,thepost.co.nz,thetimes.com,tmz.com,toofab.com,tuasaude.com,uploadvr.com,usmagazine.com,vanguardngr.com,wildtangent.com,willowgrovenow.com,wired.com,wogx.com,worldsoccertalk.com,wral.com,yahoo.com##.ad-container
+✅ 多域名拆分: 12news.com,9news.com,9to5google.com,9to5mac.com,aad.org,advfn.com,all3dp.com,allaboutcookies.org,allnovel.net,amny.com,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,bolavip.com,bonappetit.com,breakingac.com,britishheritage.com,businessday.ng,businessinsider.com,capemaynjdaily.com,cbs8.com,cc.com,ccjdigital.com,centralbucksnews.com,dailytrust.com,delish.com,downbeach.com,dutchnews.nl,ecr.co.za,electrek.co,engineeringnews.co.za,equipmentworld.com,euromaidanpress.com,fastcompany.com,fishermap.org,footyheadlines.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,globalspec.com,gmanetwork.com,grammarbook.com,greatbritishchefs.com,greatitalianchefs.com,hbr.org,highdefdigest.com,historynet.com,horshamnow.com,howstuffworks.com,huffpost.com,ibtimes.sg,inc.com,insidehook.com,intouchweekly.com,irishcentral.com,karanpc.com,khou.com,koat.com,ktvu.com,lifeandstylemag.com,longislandpress.com,macstories.net,mail.com,memuplay.com,metro.us,metrophiladelphia.com,minecraftforum.net,miningweekly.com,mixed-news.com,mobilesyrup.com,modernhealthcare.com,namemc.com,nbcnews.com,newrepublic.com,northpennnow.com,nzherald.co.nz,ocnjdaily.com,oneesports.gg,opb.org,outkick.com,papermag.com,perkvalleynow.com,phillydaily.com,physiology.org,pixiv.net,podcastaddict.com,punchng.com,qns.com,realsport101.com,reason.com,refinery29.com,ringsidenews.com,roadandtrack.com,scroll.in,seaislenews.com,seattletimes.com,songkick.com,sportskeeda.com,storyboard18.com,streamfree.to,the-decoder.com,thedailybeast.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,thenationonlineng.net,thenewstack.io,thepost.co.nz,thetimes.com,tmz.com,toofab.com,tuasaude.com,uploadvr.com,usmagazine.com,vanguardngr.com,wildtangent.com,willowgrovenow.com,wired.com,wogx.com,worldsoccertalk.com,wral.com,yahoo.com##.ad-container
     → |12news.com##.ad-container
     → |9news.com##.ad-container
     → |9to5google.com##.ad-container
@@ -17418,6 +17418,7 @@
     → |sportskeeda.com##.ad-container
     → |storyboard18.com##.ad-container
     → |streamfree.to##.ad-container
+    → |the-decoder.com##.ad-container
     → |thedailybeast.com##.ad-container
     → |thelocal.at##.ad-container
     → |thelocal.ch##.ad-container
@@ -20812,11 +20813,10 @@
 ✅ 多域名拆分: dcrainmaker.com,fijisun.com.fj##.widget-1
     → |dcrainmaker.com##.widget-1
     → |fijisun.com.fj##.widget-1
-✅ 多域名拆分: discussingfilm.net,goonhammer.com,joemygod.com,missionlocal.org,ryxy.online,shtfplan.com,thestrongtraveller.com,topcartoons.tv,usmagazine.com,wiki-topia.com##.widget_block
+✅ 多域名拆分: discussingfilm.net,goonhammer.com,joemygod.com,ryxy.online,shtfplan.com,thestrongtraveller.com,topcartoons.tv,usmagazine.com,wiki-topia.com##.widget_block
     → |discussingfilm.net##.widget_block
     → |goonhammer.com##.widget_block
     → |joemygod.com##.widget_block
-    → |missionlocal.org##.widget_block
     → |ryxy.online##.widget_block
     → |shtfplan.com##.widget_block
     → |thestrongtraveller.com##.widget_block
@@ -25000,10 +25000,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: w0J0toLiDCH+ux+TCf42JQ
-🚫 去掉注释行: ! Version: 202606112351
+🚫 去掉注释行: ! Checksum: u9joSp3KaLLMG3sHc/vtog
+🚫 去掉注释行: ! Version: 202606120451
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 11 Jun 2026 23:51 UTC
+🚫 去掉注释行: ! Last modified: 12 Jun 2026 04:51 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29620,10 +29620,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: leBDjtXCX5PIrEk9nYf3qQ
-🚫 去掉注释行: ! Version: 202606112351
+🚫 去掉注释行: ! Checksum: SSkkGUK/PAr2pMvNGOewVg
+🚫 去掉注释行: ! Version: 202606120451
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 11 Jun 2026 23:51 UTC
+🚫 去掉注释行: ! Last modified: 12 Jun 2026 04:51 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -30296,11 +30296,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202606112359
+🚫 去掉注释行: ! Version: 202606120501
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 11 Jun 2026 23:59 UTC
+🚫 去掉注释行: ! Last modified: 12 Jun 2026 05:01 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: bdd56c877afb53e97cec43cc29eeef68c959d069
+🚫 去掉注释行: ! Commit: 7dc3ca8fdfc5b1b6ad1ee04f46303481c7fa5dc6
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -46016,7 +46016,7 @@
     → |home-designing.com##.ad-block
     → |inc.com##.ad-block
     → |trustpilot.com##.ad-block
-✅ 多域名拆分: 12news.com,9news.com,9to5google.com,9to5mac.com,aad.org,advfn.com,all3dp.com,allaboutcookies.org,allnovel.net,amny.com,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,bolavip.com,bonappetit.com,breakingac.com,britishheritage.com,businessday.ng,businessinsider.com,capemaynjdaily.com,cbs8.com,cc.com,ccjdigital.com,centralbucksnews.com,dailytrust.com,delish.com,downbeach.com,dutchnews.nl,ecr.co.za,electrek.co,engineeringnews.co.za,equipmentworld.com,euromaidanpress.com,fastcompany.com,fishermap.org,footyheadlines.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,globalspec.com,gmanetwork.com,grammarbook.com,greatbritishchefs.com,greatitalianchefs.com,hbr.org,highdefdigest.com,historynet.com,horshamnow.com,howstuffworks.com,huffpost.com,ibtimes.sg,inc.com,insidehook.com,intouchweekly.com,irishcentral.com,karanpc.com,khou.com,koat.com,ktvu.com,lifeandstylemag.com,longislandpress.com,macstories.net,mail.com,memuplay.com,metro.us,metrophiladelphia.com,minecraftforum.net,miningweekly.com,mixed-news.com,mobilesyrup.com,modernhealthcare.com,namemc.com,nbcnews.com,newrepublic.com,northpennnow.com,nzherald.co.nz,ocnjdaily.com,oneesports.gg,opb.org,outkick.com,papermag.com,perkvalleynow.com,phillydaily.com,physiology.org,pixiv.net,podcastaddict.com,punchng.com,qns.com,realsport101.com,reason.com,refinery29.com,ringsidenews.com,roadandtrack.com,scroll.in,seaislenews.com,seattletimes.com,songkick.com,sportskeeda.com,storyboard18.com,streamfree.to,thedailybeast.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,thenationonlineng.net,thenewstack.io,thepost.co.nz,thetimes.com,tmz.com,toofab.com,tuasaude.com,uploadvr.com,usmagazine.com,vanguardngr.com,wildtangent.com,willowgrovenow.com,wired.com,wogx.com,worldsoccertalk.com,wral.com,yahoo.com##.ad-container
+✅ 多域名拆分: 12news.com,9news.com,9to5google.com,9to5mac.com,aad.org,advfn.com,all3dp.com,allaboutcookies.org,allnovel.net,amny.com,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,bolavip.com,bonappetit.com,breakingac.com,britishheritage.com,businessday.ng,businessinsider.com,capemaynjdaily.com,cbs8.com,cc.com,ccjdigital.com,centralbucksnews.com,dailytrust.com,delish.com,downbeach.com,dutchnews.nl,ecr.co.za,electrek.co,engineeringnews.co.za,equipmentworld.com,euromaidanpress.com,fastcompany.com,fishermap.org,footyheadlines.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,globalspec.com,gmanetwork.com,grammarbook.com,greatbritishchefs.com,greatitalianchefs.com,hbr.org,highdefdigest.com,historynet.com,horshamnow.com,howstuffworks.com,huffpost.com,ibtimes.sg,inc.com,insidehook.com,intouchweekly.com,irishcentral.com,karanpc.com,khou.com,koat.com,ktvu.com,lifeandstylemag.com,longislandpress.com,macstories.net,mail.com,memuplay.com,metro.us,metrophiladelphia.com,minecraftforum.net,miningweekly.com,mixed-news.com,mobilesyrup.com,modernhealthcare.com,namemc.com,nbcnews.com,newrepublic.com,northpennnow.com,nzherald.co.nz,ocnjdaily.com,oneesports.gg,opb.org,outkick.com,papermag.com,perkvalleynow.com,phillydaily.com,physiology.org,pixiv.net,podcastaddict.com,punchng.com,qns.com,realsport101.com,reason.com,refinery29.com,ringsidenews.com,roadandtrack.com,scroll.in,seaislenews.com,seattletimes.com,songkick.com,sportskeeda.com,storyboard18.com,streamfree.to,the-decoder.com,thedailybeast.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,thenationonlineng.net,thenewstack.io,thepost.co.nz,thetimes.com,tmz.com,toofab.com,tuasaude.com,uploadvr.com,usmagazine.com,vanguardngr.com,wildtangent.com,willowgrovenow.com,wired.com,wogx.com,worldsoccertalk.com,wral.com,yahoo.com##.ad-container
     → |12news.com##.ad-container
     → |9news.com##.ad-container
     → |9to5google.com##.ad-container
@@ -46134,6 +46134,7 @@
     → |sportskeeda.com##.ad-container
     → |storyboard18.com##.ad-container
     → |streamfree.to##.ad-container
+    → |the-decoder.com##.ad-container
     → |thedailybeast.com##.ad-container
     → |thelocal.at##.ad-container
     → |thelocal.ch##.ad-container
@@ -46976,10 +46977,11 @@
     → |clavecd.es##.background-link-right
     → |goclecd.fr##.background-link-right
     → |keyforsteam.de##.background-link-right
-✅ 多域名拆分: 1001games.com,3addedminutes.com,4rfv.co.uk,alistapart.com,anguscountyworld.co.uk,arcadebomb.com,armageddonexpo.com,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,bikechatforums.com,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bsc.news,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,ca-flyers.com,caixinglobal.com,caribvision.tv,chad.co.uk,cinemadeck.com,coryarcangel.com,csstats.gg,daventryexpress.co.uk,deathbycaptcha.com,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,diffordsguide.com,dominicantoday.com,doncasterfreepress.co.uk,dump.li,elyricsworld.com,euobserver.com,eurochannel.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,filmmakermagazine.com,foojay.io,footballtradedirectory.com,forexpeacearmy.com,funpic.hu,gartic.io,garticphone.com,gizmodo.com,glasgowworld.com,gr8.cc,gsprating.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hiphopdx.com,hortidaily.com,hucknalldispatch.co.uk,hyipexplorer.com,ibtimes.co.in,ibtimes.co.uk,imgsli.com,insidefutbol.com,ipwatchdog.com,irishpost.com,israelnationalnews.com,japantimes.co.jp,jpost.com,kissasians.org,koreaherald.com,kotaku.com,lancasterguardian.co.uk,laserpointerforums.com,leightonbuzzardonline.co.uk,lep.co.uk,lincolnshireworld.com,liverpoolworld.uk,livescore.in,londonworld.com,lutontoday.co.uk,manchesterworld.uk,marinelink.com,meltontimes.co.uk,mercopress.com,miltonkeynes.co.uk,mmorpg.com,mob.org,myflr.org,nationalworld.com,newcastleworld.com,newryreporter.com,news.am,news.net,news12.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,oncyprus.com,onlineconvertfree.com,overclock3d.net,peterboroughtoday.co.uk,pharmatimes.com,photofilters.com,portsmouth.co.uk,powerboat.world,pulsesports.co.ke,pulsesports.ng,pulsesports.ug,roblox.com,rotherhamadvertiser.co.uk,rvtrader.com,sat24.com,scientificamerican.com,scotsman.com,shieldsgazette.com,slidescorner.com,speedcafe.com,starradionortheast.co.uk,stornowaygazette.co.uk,subscene.com,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,sweeting.org,swzz.xyz,tass.com,thefringepodcast.com,theoldreader.com,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,timeslive.co.za,totallysnookered.com,townhall.com,toyworldmag.co.uk,unblockstreaming.com,vibilagare.se,vloot.io,vnexpress.net,wakefieldexpress.co.uk,warwickshireworld.com,weatheronline.co.uk,weekly-ads.us,wigantoday.net,worksopguardian.co.uk,worldtimeserver.com,xbiz.com,ynetnews.com,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yuntrack.com##.banner
+✅ 多域名拆分: 1001games.com,3addedminutes.com,4rfv.co.uk,808fubo808.com,alistapart.com,anguscountyworld.co.uk,arcadebomb.com,armageddonexpo.com,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,bikechatforums.com,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bsc.news,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,ca-flyers.com,caixinglobal.com,caribvision.tv,chad.co.uk,cinemadeck.com,coryarcangel.com,csstats.gg,daventryexpress.co.uk,deathbycaptcha.com,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,diffordsguide.com,dominicantoday.com,doncasterfreepress.co.uk,dump.li,elyricsworld.com,euobserver.com,eurochannel.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,filmmakermagazine.com,foojay.io,footballtradedirectory.com,forexpeacearmy.com,funpic.hu,gartic.io,garticphone.com,gizmodo.com,glasgowworld.com,gr8.cc,gsprating.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hiphopdx.com,hortidaily.com,hucknalldispatch.co.uk,hyipexplorer.com,ibtimes.co.in,ibtimes.co.uk,imgsli.com,insidefutbol.com,ipwatchdog.com,irishpost.com,israelnationalnews.com,japantimes.co.jp,jpost.com,kissasians.org,koreaherald.com,kotaku.com,lancasterguardian.co.uk,laserpointerforums.com,leightonbuzzardonline.co.uk,lep.co.uk,lincolnshireworld.com,liverpoolworld.uk,livescore.in,londonworld.com,lutontoday.co.uk,manchesterworld.uk,marinelink.com,meltontimes.co.uk,mercopress.com,miltonkeynes.co.uk,mmorpg.com,mob.org,myflr.org,nationalworld.com,newcastleworld.com,newryreporter.com,news.am,news.net,news12.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,oncyprus.com,onlineconvertfree.com,overclock3d.net,peterboroughtoday.co.uk,pharmatimes.com,photofilters.com,portsmouth.co.uk,powerboat.world,pulsesports.co.ke,pulsesports.ng,pulsesports.ug,roblox.com,rotherhamadvertiser.co.uk,rvtrader.com,sat24.com,scientificamerican.com,scotsman.com,shieldsgazette.com,slidescorner.com,speedcafe.com,starradionortheast.co.uk,stornowaygazette.co.uk,subscene.com,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,sweeting.org,swzz.xyz,tass.com,thefringepodcast.com,theoldreader.com,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,timeslive.co.za,totallysnookered.com,townhall.com,toyworldmag.co.uk,unblockstreaming.com,vibilagare.se,vloot.io,vnexpress.net,wakefieldexpress.co.uk,warwickshireworld.com,weatheronline.co.uk,weekly-ads.us,wigantoday.net,worksopguardian.co.uk,worldtimeserver.com,xbiz.com,ynetnews.com,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yuntrack.com##.banner
     → |1001games.com##.banner
     → |3addedminutes.com##.banner
     → |4rfv.co.uk##.banner
+    → |808fubo808.com##.banner
     → |alistapart.com##.banner
     → |anguscountyworld.co.uk##.banner
     → |arcadebomb.com##.banner
@@ -49528,11 +49530,10 @@
 ✅ 多域名拆分: dcrainmaker.com,fijisun.com.fj##.widget-1
     → |dcrainmaker.com##.widget-1
     → |fijisun.com.fj##.widget-1
-✅ 多域名拆分: discussingfilm.net,goonhammer.com,joemygod.com,missionlocal.org,ryxy.online,shtfplan.com,thestrongtraveller.com,topcartoons.tv,usmagazine.com,wiki-topia.com##.widget_block
+✅ 多域名拆分: discussingfilm.net,goonhammer.com,joemygod.com,ryxy.online,shtfplan.com,thestrongtraveller.com,topcartoons.tv,usmagazine.com,wiki-topia.com##.widget_block
     → |discussingfilm.net##.widget_block
     → |goonhammer.com##.widget_block
     → |joemygod.com##.widget_block
-    → |missionlocal.org##.widget_block
     → |ryxy.online##.widget_block
     → |shtfplan.com##.widget_block
     → |thestrongtraveller.com##.widget_block
@@ -53742,11 +53743,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202606112354
+🚫 去掉注释行: ! Version: 202606120457
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 11 Jun 2026 23:54 UTC
+🚫 去掉注释行: ! Last modified: 12 Jun 2026 04:57 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 31dba68724aaafec1de2be57b960dd614234aaf2
+🚫 去掉注释行: ! Commit: f9796368bb8bd841c13a78c831697b9aff6683b6
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -69982,45 +69983,52 @@
 🚫 去掉注释行: ! Number of entries: 44289
 🚫 去掉注释行: !
 🚫 去掉注释行: !Title: anti-AD for AdGuard
-🚫 去掉注释行: !Version: 20260611124436668444675
-🚫 去掉注释行: !Last modified: Thu Jun 11 12:44:36 UTC 2026
-🚫 去掉注释行: !Updated: 2026-06-11T12:44:36+00:00
+🚫 去掉注释行: !Version: 20260612045014604918057
+🚫 去掉注释行: !Last modified: Fri Jun 12 04:50:14 UTC 2026
+🚫 去掉注释行: !Updated: 2026-06-12T04:50:14+00:00
 🚫 去掉注释行: !Expires: 4 days
 🚫 去掉注释行: !Homepage: https://anti-ad.net/
 🚫 去掉注释行: !!!note! If you are using "AdGuard Home", please load https://anti-ad.net/easylist.txt
-🚫 去掉注释行: !Total lines: 102875
+🚫 去掉注释行: !Total lines: 102874
 🚫 去掉注释行: !Title: anti-AD
-🚫 去掉注释行: !Version: 20260611204435
+🚫 去掉注释行: !Version: 20260612125013
 🚫 去掉注释行: !Homepage: https://github.com/privacy-protection-tools/anti-AD
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
-🚫 去掉注释行: !Total lines: 97300
+🚫 去掉注释行: !Total lines: 97299
 🚫 去掉注释行: !Title: Adblock-Rule-Collection-DNS
 🚫 去掉注释行: !Description: AdGuard DNS Filtering strict whitelist compiler (App compatible)
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !Generated: 2026-06-12 07:09:54
-🚫 去掉注释行: !RuleCount: 1779351
+🚫 去掉注释行: !Generated: 2026-06-12 09:41:16
+🚫 去掉注释行: !RuleCount: 1779414
 ✅ HOSTS 转换: 127.0.0.1 0022a601.pphost.net → |0022a601.pphost.net^
-✅ HOSTS 转换: 127.0.0.1 09ddpfx9.parspoker.casino → |09ddpfx9.parspoker.casino^
+✅ HOSTS 转换: 127.0.0.1 02y48l3v.asibshenasiyahya.shop → |02y48l3v.asibshenasiyahya.shop^
 ✅ HOSTS 转换: 127.0.0.1 0xln2imp.yekbetiran.com → |0xln2imp.yekbetiran.com^
 ✅ HOSTS 转换: 127.0.0.1 123.ywxww.net → |123.ywxww.net^
 ✅ HOSTS 转换: 127.0.0.1 1717.1000uc.com → |1717.1000uc.com^
 ✅ HOSTS 转换: 127.0.0.1 181xlt4g.gavaedfagahe.xyz → |181xlt4g.gavaedfagahe.xyz^
-✅ HOSTS 转换: 127.0.0.1 1tzunno5.onexboro.com → |1tzunno5.onexboro.com^
+✅ HOSTS 转换: 127.0.0.1 1cihg2b5.anodaz.vip → |1cihg2b5.anodaz.vip^
+✅ HOSTS 转换: 127.0.0.1 1v6le0j1.andisheeslami2.xyz → |1v6le0j1.andisheeslami2.xyz^
 ✅ HOSTS 转换: 127.0.0.1 1yusfrvk.pishbinibet.bet → |1yusfrvk.pishbinibet.bet^
+✅ HOSTS 转换: 127.0.0.1 2chci0sm.andisheeslami2.xyz → |2chci0sm.andisheeslami2.xyz^
 ✅ HOSTS 转换: 127.0.0.1 2nyrkdw3.ayinzendegi.xyz → |2nyrkdw3.ayinzendegi.xyz^
 ✅ HOSTS 转换: 127.0.0.1 3sdhx6qp.pokerbazi.app → |3sdhx6qp.pokerbazi.app^
 ✅ HOSTS 转换: 127.0.0.1 3yl7mt55.andisheeslami2.xyz → |3yl7mt55.andisheeslami2.xyz^
-✅ HOSTS 转换: 127.0.0.1 56c1ukt9.shart303.net → |56c1ukt9.shart303.net^
+✅ HOSTS 转换: 127.0.0.1 3ze86kcn.azmoondadrasi.xyz → |3ze86kcn.azmoondadrasi.xyz^
+✅ HOSTS 转换: 127.0.0.1 4piqgfum.garatequran.xyz → |4piqgfum.garatequran.xyz^
 ✅ HOSTS 转换: 127.0.0.1 5ronk1lr.pointsbetiran.com → |5ronk1lr.pointsbetiran.com^
 ✅ HOSTS 转换: 127.0.0.1 5wtpqrho.azmoondadrasi.xyz → |5wtpqrho.azmoondadrasi.xyz^
+✅ HOSTS 转换: 127.0.0.1 63yoanli.ravanshenasi.xyz → |63yoanli.ravanshenasi.xyz^
+✅ HOSTS 转换: 127.0.0.1 6f4t5lvt.fununetadris.shop → |6f4t5lvt.fununetadris.shop^
 ✅ HOSTS 转换: 127.0.0.1 7m9gr5qr.anodaz.co → |7m9gr5qr.anodaz.co^
+✅ HOSTS 转换: 127.0.0.1 8h9b5pgo.garatequran.xyz → |8h9b5pgo.garatequran.xyz^
 ✅ HOSTS 转换: 127.0.0.1 8t4ow8gc.azmoonhayeravani.shop → |8t4ow8gc.azmoonhayeravani.shop^
 ✅ HOSTS 转换: 127.0.0.1 8zktknmf.shirbetfarsi.com → |8zktknmf.shirbetfarsi.com^
+✅ HOSTS 转换: 127.0.0.1 933anmoo.azmoonhayeravani.shop → |933anmoo.azmoonhayeravani.shop^
+✅ HOSTS 转换: 127.0.0.1 98jhjysx.ehtemalatvaamar.xyz → |98jhjysx.ehtemalatvaamar.xyz^
 ✅ HOSTS 转换: 127.0.0.1 a6g6ikpn.geotechnictahuni.store → |a6g6ikpn.geotechnictahuni.store^
-✅ HOSTS 转换: 127.0.0.1 a98nkya7.onexprobet.com → |a98nkya7.onexprobet.com^
 ✅ HOSTS 转换: 127.0.0.1 aaronart.com → |aaronart.com^
 ✅ HOSTS 转换: 127.0.0.1 abdulahad.net → |abdulahad.net^
 ✅ HOSTS 转换: 127.0.0.1 acaviationsupplies.com → |acaviationsupplies.com^
@@ -70034,13 +70042,14 @@
 ✅ HOSTS 转换: 127.0.0.1 agcestksa.com → |agcestksa.com^
 ✅ HOSTS 转换: 127.0.0.1 agiqsfnr.hugugnasiri.xyz → |agiqsfnr.hugugnasiri.xyz^
 ✅ HOSTS 转换: 127.0.0.1 ajwrgnf.hesabdarieskandari.xyz → |ajwrgnf.hesabdarieskandari.xyz^
+✅ HOSTS 转换: 127.0.0.1 akhixcvw.masaelmohandesi.xyz → |akhixcvw.masaelmohandesi.xyz^
 ✅ HOSTS 转换: 127.0.0.1 alarmline.com.br → |alarmline.com.br^
-✅ HOSTS 转换: 127.0.0.1 ali-alomaritrading.cam → |ali-alomaritrading.cam^
 ✅ HOSTS 转换: 127.0.0.1 alineeleuterio.com.br → |alineeleuterio.com.br^
 ✅ HOSTS 转换: 127.0.0.1 allendostmen.com → |allendostmen.com^
 ✅ HOSTS 转换: 127.0.0.1 allscaletreeservices.com.au → |allscaletreeservices.com.au^
 ✅ HOSTS 转换: 127.0.0.1 alternativas.ru → |alternativas.ru^
-✅ HOSTS 转换: 127.0.0.1 aoeseeuk.winpars.casino → |aoeseeuk.winpars.casino^
+✅ HOSTS 转换: 127.0.0.1 amrzjixs.hugugmadanikatouzian.xyz → |amrzjixs.hugugmadanikatouzian.xyz^
+✅ HOSTS 转换: 127.0.0.1 aolbzrji.red90.casino → |aolbzrji.red90.casino^
 ✅ HOSTS 转换: 127.0.0.1 api.baimless.com → |api.baimless.com^
 ✅ HOSTS 转换: 127.0.0.1 api.ezilax.com → |api.ezilax.com^
 ✅ HOSTS 转换: 127.0.0.1 app.appzcvb.com → |app.appzcvb.com^
@@ -70055,30 +70064,31 @@
 ✅ HOSTS 转换: 127.0.0.1 b57agvqn.azmoonhayeravani.shop → |b57agvqn.azmoonhayeravani.shop^
 ✅ HOSTS 转换: 127.0.0.1 backupso.com → |backupso.com^
 ✅ HOSTS 转换: 127.0.0.1 bbos.minet.vn → |bbos.minet.vn^
+✅ HOSTS 转换: 127.0.0.1 bcwkesayq.defamogadas.xyz → |bcwkesayq.defamogadas.xyz^
 ✅ HOSTS 转换: 127.0.0.1 bedrive.ru → |bedrive.ru^
 ✅ HOSTS 转换: 127.0.0.1 beoauto.alexion.rs → |beoauto.alexion.rs^
 ✅ HOSTS 转换: 127.0.0.1 betvole9038.com → |betvole9038.com^
+✅ HOSTS 转换: 127.0.0.1 bfksnnrp.prozhecart.com → |bfksnnrp.prozhecart.com^
+✅ HOSTS 转换: 127.0.0.1 bgdfvnukx.darsnamejame.xyz → |bgdfvnukx.darsnamejame.xyz^
+✅ HOSTS 转换: 127.0.0.1 bhmgwxvu.hugugmadani3.xyz → |bhmgwxvu.hugugmadani3.xyz^
 ✅ HOSTS 转换: 127.0.0.1 bito.com.pk → |bito.com.pk^
-✅ HOSTS 转换: 127.0.0.1 bjyqjg.onlineshart.com → |bjyqjg.onlineshart.com^
+✅ HOSTS 转换: 127.0.0.1 bjihnqisx.bankefile.com → |bjihnqisx.bankefile.com^
 ✅ HOSTS 转换: 127.0.0.1 blessdayservices.org → |blessdayservices.org^
 ✅ HOSTS 转换: 127.0.0.1 blg.com.mx → |blg.com.mx^
-✅ HOSTS 转换: 127.0.0.1 blkfazi.xenicalby6.com → |blkfazi.xenicalby6.com^
 ✅ HOSTS 转换: 127.0.0.1 blogs.sokun.jp → |blogs.sokun.jp^
 ✅ HOSTS 转换: 127.0.0.1 bmdcompany.com → |bmdcompany.com^
+✅ HOSTS 转换: 127.0.0.1 bnxtprw.hesabdarieskandari.xyz → |bnxtprw.hesabdarieskandari.xyz^
 ✅ HOSTS 转换: 127.0.0.1 bombayonline.in → |bombayonline.in^
 ✅ HOSTS 转换: 127.0.0.1 book.rollingvideogames.com → |book.rollingvideogames.com^
-✅ HOSTS 转换: 127.0.0.1 brbyxsj.riverpoker1.com → |brbyxsj.riverpoker1.com^
 ✅ HOSTS 转换: 127.0.0.1 brenmayasociados.com → |brenmayasociados.com^
 ✅ HOSTS 转换: 127.0.0.1 bridgeroad.maverickpreviews.com → |bridgeroad.maverickpreviews.com^
 ✅ HOSTS 转换: 127.0.0.1 brightworks.cz → |brightworks.cz^
+✅ HOSTS 转换: 127.0.0.1 btbwehpkp.drivingbook.xyz → |btbwehpkp.drivingbook.xyz^
 ✅ HOSTS 转换: 127.0.0.1 bunnellmc.com → |bunnellmc.com^
 ✅ HOSTS 转换: 127.0.0.1 bvaco.com → |bvaco.com^
-✅ HOSTS 转换: 127.0.0.1 byiuatd.pinnaclebetting.bet → |byiuatd.pinnaclebetting.bet^
 ✅ HOSTS 转换: 127.0.0.1 cad.659t.cn → |cad.659t.cn^
-✅ HOSTS 转换: 127.0.0.1 cafdfe.pishbinihoshmand.com → |cafdfe.pishbinihoshmand.com^
 ✅ HOSTS 转换: 127.0.0.1 cambodiatouristservice.com → |cambodiatouristservice.com^
 ✅ HOSTS 转换: 127.0.0.1 candipoker.net → |candipoker.net^
-✅ HOSTS 转换: 127.0.0.1 canigrup.top → |canigrup.top^
 ✅ HOSTS 转换: 127.0.0.1 cat.dashabi.in → |cat.dashabi.in^
 ✅ HOSTS 转换: 127.0.0.1 cat.xiaojiji.nl → |cat.xiaojiji.nl^
 ✅ HOSTS 转换: 127.0.0.1 cat.xiaoshabi.nl → |cat.xiaoshabi.nl^
@@ -70087,23 +70097,22 @@
 ✅ HOSTS 转换: 127.0.0.1 cdaonline.com.ar → |cdaonline.com.ar^
 ✅ HOSTS 转换: 127.0.0.1 cdn.file6.goodid.com → |cdn.file6.goodid.com^
 ✅ HOSTS 转换: 127.0.0.1 celebratingseniors.net → |celebratingseniors.net^
+✅ HOSTS 转换: 127.0.0.1 chamcmlu.jamjahani.football → |chamcmlu.jamjahani.football^
 ✅ HOSTS 转换: 127.0.0.1 chat-server.maverickpreviews.com → |chat-server.maverickpreviews.com^
 ✅ HOSTS 转换: 127.0.0.1 checkfivem.com → |checkfivem.com^
 ✅ HOSTS 转换: 127.0.0.1 checkinetverifk.com → |checkinetverifk.com^
 ✅ HOSTS 转换: 127.0.0.1 chinaapper.com → |chinaapper.com^
-✅ HOSTS 转换: 127.0.0.1 chinabowl.club → |chinabowl.club^
 ✅ HOSTS 转换: 127.0.0.1 chiptune.com → |chiptune.com^
 ✅ HOSTS 转换: 127.0.0.1 chungminhtaichinhsaigon.net → |chungminhtaichinhsaigon.net^
-✅ HOSTS 转换: 127.0.0.1 ckejpbj.one1xbet.net → |ckejpbj.one1xbet.net^
 ✅ HOSTS 转换: 127.0.0.1 cl.ssouy.com → |cl.ssouy.com^
 ✅ HOSTS 转换: 127.0.0.1 clubdetiroelpicarcho.com → |clubdetiroelpicarcho.com^
+✅ HOSTS 转换: 127.0.0.1 cmkfhtt.bet303.promo → |cmkfhtt.bet303.promo^
 ✅ HOSTS 转换: 127.0.0.1 cn.unionlever.com → |cn.unionlever.com^
 ✅ HOSTS 转换: 127.0.0.1 co-emas.com → |co-emas.com^
 ✅ HOSTS 转换: 127.0.0.1 compuserviceonline.com.br → |compuserviceonline.com.br^
 ✅ HOSTS 转换: 127.0.0.1 comserlivuior.store → |comserlivuior.store^
 ✅ HOSTS 转换: 127.0.0.1 continentalgroup.net.in → |continentalgroup.net.in^
 ✅ HOSTS 转换: 127.0.0.1 coralasargetia.ro → |coralasargetia.ro^
-✅ HOSTS 转换: 127.0.0.1 coraline-cheats.pw → |coraline-cheats.pw^
 ✅ HOSTS 转换: 127.0.0.1 corporacioncrf.com → |corporacioncrf.com^
 ✅ HOSTS 转换: 127.0.0.1 corwineagles.com → |corwineagles.com^
 ✅ HOSTS 转换: 127.0.0.1 cpofficial.com → |cpofficial.com^
@@ -70115,8 +70124,10 @@
 ✅ HOSTS 转换: 127.0.0.1 csg-app.com → |csg-app.com^
 ✅ HOSTS 转换: 127.0.0.1 cstaipas.pt → |cstaipas.pt^
 ✅ HOSTS 转换: 127.0.0.1 ct3-24.ru → |ct3-24.ru^
+✅ HOSTS 转换: 127.0.0.1 cwsvmar.qurankarim.xyz → |cwsvmar.qurankarim.xyz^
 ✅ HOSTS 转换: 127.0.0.1 cwwviitu.hugugmadani3.xyz → |cwwviitu.hugugmadani3.xyz^
 ✅ HOSTS 转换: 127.0.0.1 cxhsipt.honarrang.online → |cxhsipt.honarrang.online^
+✅ HOSTS 转换: 127.0.0.1 cxwqtlc8.asibshenasiyahya.shop → |cxwqtlc8.asibshenasiyahya.shop^
 ✅ HOSTS 转换: 127.0.0.1 d.14yaa.com → |d.14yaa.com^
 ✅ HOSTS 转换: 127.0.0.1 d.wanyouxi7.com → |d.wanyouxi7.com^
 ✅ HOSTS 转换: 127.0.0.1 damiancollier.com → |damiancollier.com^
@@ -70124,25 +70135,21 @@
 ✅ HOSTS 转换: 127.0.0.1 dcrun.co.uk → |dcrun.co.uk^
 ✅ HOSTS 转换: 127.0.0.1 dcwblida.dz → |dcwblida.dz^
 ✅ HOSTS 转换: 127.0.0.1 delp-heizungsbau.de → |delp-heizungsbau.de^
-✅ HOSTS 转换: 127.0.0.1 deltaexecutorvip.xyz → |deltaexecutorvip.xyz^
-✅ HOSTS 转换: 127.0.0.1 deltahub.vip → |deltahub.vip^
 ✅ HOSTS 转换: 127.0.0.1 delte-mobrey.com → |delte-mobrey.com^
-✅ HOSTS 转换: 127.0.0.1 demfmb.restaurantguideaarhus.com → |demfmb.restaurantguideaarhus.com^
 ✅ HOSTS 转换: 127.0.0.1 derekludlow.com → |derekludlow.com^
 ✅ HOSTS 转换: 127.0.0.1 devltl.top → |devltl.top^
 ✅ HOSTS 转换: 127.0.0.1 dexios.co.za → |dexios.co.za^
 ✅ HOSTS 转换: 127.0.0.1 dezcom.com → |dezcom.com^
 ✅ HOSTS 转换: 127.0.0.1 dguldnys.restaurantguideaarhus.com → |dguldnys.restaurantguideaarhus.com^
-✅ HOSTS 转换: 127.0.0.1 dgxbf5rv.onexfa.com → |dgxbf5rv.onexfa.com^
 ✅ HOSTS 转换: 127.0.0.1 dhnconstrucciones.com.ar → |dhnconstrucciones.com.ar^
 ✅ HOSTS 转换: 127.0.0.1 dialkwik.in → |dialkwik.in^
 ✅ HOSTS 转换: 127.0.0.1 disk.accord1key.cn → |disk.accord1key.cn^
-✅ HOSTS 转换: 127.0.0.1 disxya.jamjahani.football → |disxya.jamjahani.football^
 ✅ HOSTS 转换: 127.0.0.1 divvanews.com → |divvanews.com^
 ✅ HOSTS 转换: 127.0.0.1 dk2acd53.anodaz.co → |dk2acd53.anodaz.co^
 ✅ HOSTS 转换: 127.0.0.1 dl.1003b.56a.com → |dl.1003b.56a.com^
 ✅ HOSTS 转换: 127.0.0.1 dl.dzqzd.com → |dl.dzqzd.com^
 ✅ HOSTS 转换: 127.0.0.1 dl.natgo.cn → |dl.natgo.cn^
+✅ HOSTS 转换: 127.0.0.1 dmwncnnnp.defamogadas.xyz → |dmwncnnnp.defamogadas.xyz^
 ✅ HOSTS 转换: 127.0.0.1 doc.e-statements.app → |doc.e-statements.app^
 ✅ HOSTS 转换: 127.0.0.1 dogalhayat.space → |dogalhayat.space^
 ✅ HOSTS 转换: 127.0.0.1 donkeytourscroatia.com → |donkeytourscroatia.com^
@@ -70163,25 +70170,26 @@
 ✅ HOSTS 转换: 127.0.0.1 dusttv.com → |dusttv.com^
 ✅ HOSTS 转换: 127.0.0.1 dweixin.cn → |dweixin.cn^
 ✅ HOSTS 转换: 127.0.0.1 dxssnlzn.penalty.casino → |dxssnlzn.penalty.casino^
-✅ HOSTS 转换: 127.0.0.1 e3giv37r.pokerpars.poker → |e3giv37r.pokerpars.poker^
 ✅ HOSTS 转换: 127.0.0.1 easybrand.vn → |easybrand.vn^
 ✅ HOSTS 转换: 127.0.0.1 eaty6go0.anodaz.co → |eaty6go0.anodaz.co^
+✅ HOSTS 转换: 127.0.0.1 eeqagxew.maharatmodiran.xyz → |eeqagxew.maharatmodiran.xyz^
 ✅ HOSTS 转换: 127.0.0.1 egtxaxxwy.bookkade.com → |egtxaxxwy.bookkade.com^
 ✅ HOSTS 转换: 127.0.0.1 electri.billregulator.com → |electri.billregulator.com^
 ✅ HOSTS 转换: 127.0.0.1 elisans.novayonetim.com → |elisans.novayonetim.com^
 ✅ HOSTS 转换: 127.0.0.1 embedone.com → |embedone.com^
-✅ HOSTS 转换: 127.0.0.1 emyynld.pasur21.com → |emyynld.pasur21.com^
 ✅ HOSTS 转换: 127.0.0.1 en.taichuan.com → |en.taichuan.com^
 ✅ HOSTS 转换: 127.0.0.1 epanpano.com → |epanpano.com^
-✅ HOSTS 转换: 127.0.0.1 epxigqr.tagat120art.com → |epxigqr.tagat120art.com^
-✅ HOSTS 转换: 127.0.0.1 estirarsobrelivro.com → |estirarsobrelivro.com^
 ✅ HOSTS 转换: 127.0.0.1 estudio.ythan.com.br → |estudio.ythan.com.br^
 ✅ HOSTS 转换: 127.0.0.1 evangroup.ru → |evangroup.ru^
 ✅ HOSTS 转换: 127.0.0.1 eventsyouwant.com → |eventsyouwant.com^
 ✅ HOSTS 转换: 127.0.0.1 everycarebd.com → |everycarebd.com^
+✅ HOSTS 转换: 127.0.0.1 ewnwfae.hesabdaripishrafte.xyz → |ewnwfae.hesabdaripishrafte.xyz^
 ✅ HOSTS 转换: 127.0.0.1 fakers.co.jp → |fakers.co.jp^
 ✅ HOSTS 转换: 127.0.0.1 farschid.de → |farschid.de^
 ✅ HOSTS 转换: 127.0.0.1 fd.v2downf.shop → |fd.v2downf.shop^
+✅ HOSTS 转换: 127.0.0.1 fdktfbbn.jam-jahani.com → |fdktfbbn.jam-jahani.com^
+✅ HOSTS 转换: 127.0.0.1 fdmjhbre.jamjahani2026.football → |fdmjhbre.jamjahani2026.football^
+✅ HOSTS 转换: 127.0.0.1 ffynigbdr.barnamenevisi.xyz → |ffynigbdr.barnamenevisi.xyz^
 ✅ HOSTS 转换: 127.0.0.1 file.blackint3.com → |file.blackint3.com^
 ✅ HOSTS 转换: 127.0.0.1 file.uhsea.com → |file.uhsea.com^
 ✅ HOSTS 转换: 127.0.0.1 filerit.com → |filerit.com^
@@ -70192,105 +70200,110 @@
 ✅ HOSTS 转换: 127.0.0.1 fukt.link → |fukt.link^
 ✅ HOSTS 转换: 127.0.0.1 furystaff.tech → |furystaff.tech^
 ✅ HOSTS 转换: 127.0.0.1 fz.tiansys.cn → |fz.tiansys.cn^
-✅ HOSTS 转换: 127.0.0.1 gabuys.perspolisbet90.com → |gabuys.perspolisbet90.com^
-✅ HOSTS 转换: 127.0.0.1 gadomamada.com → |gadomamada.com^
+✅ HOSTS 转换: 127.0.0.1 fzrflqf.amoozeshagazade.shop → |fzrflqf.amoozeshagazade.shop^
 ✅ HOSTS 转换: 127.0.0.1 galerisenimutiara.com → |galerisenimutiara.com^
 ✅ HOSTS 转换: 127.0.0.1 gboutros.howto.rocks → |gboutros.howto.rocks^
-✅ HOSTS 转换: 127.0.0.1 gdenwcw.rabonaabet.com → |gdenwcw.rabonaabet.com^
 ✅ HOSTS 转换: 127.0.0.1 gestionycobranzas.com → |gestionycobranzas.com^
-✅ HOSTS 转换: 127.0.0.1 getabre.com → |getabre.com^
-✅ HOSTS 转换: 127.0.0.1 gfmuomz.pinbahiis.com → |gfmuomz.pinbahiis.com^
-✅ HOSTS 转换: 127.0.0.1 gialird.pishbini11.com → |gialird.pishbini11.com^
+✅ HOSTS 转换: 127.0.0.1 ggc6yxvy.ravanshenakhti.shop → |ggc6yxvy.ravanshenakhti.shop^
+✅ HOSTS 转换: 127.0.0.1 ghdre2hy.geotechnictahuni.store → |ghdre2hy.geotechnictahuni.store^
 ✅ HOSTS 转换: 127.0.0.1 giga.miraibotnet.su → |giga.miraibotnet.su^
-✅ HOSTS 转换: 127.0.0.1 git.nightcord.online → |git.nightcord.online^
+✅ HOSTS 转换: 127.0.0.1 gimomouf.red90.casino → |gimomouf.red90.casino^
 ✅ HOSTS 转换: 127.0.0.1 globalbank.us → |globalbank.us^
 ✅ HOSTS 转换: 127.0.0.1 globaltechnosoft.com → |globaltechnosoft.com^
 ✅ HOSTS 转换: 127.0.0.1 gng97m36.angizeshfarahani.store → |gng97m36.angizeshfarahani.store^
+✅ HOSTS 转换: 127.0.0.1 gpbvnrp.hesabdariosmani.xyz → |gpbvnrp.hesabdariosmani.xyz^
 ✅ HOSTS 转换: 127.0.0.1 grafana.bot.dekma-gay.ru → |grafana.bot.dekma-gay.ru^
-✅ HOSTS 转换: 127.0.0.1 grandvegasbet.com.br → |grandvegasbet.com.br^
 ✅ HOSTS 转换: 127.0.0.1 greenf.alexion.rs → |greenf.alexion.rs^
 ✅ HOSTS 转换: 127.0.0.1 grupomcperu.com → |grupomcperu.com^
 ✅ HOSTS 转换: 127.0.0.1 gutando.com → |gutando.com^
-✅ HOSTS 转换: 127.0.0.1 gwjjko.onlineshart.com → |gwjjko.onlineshart.com^
-✅ HOSTS 转换: 127.0.0.1 gyayod.pishbinisite.com → |gyayod.pishbinisite.com^
+✅ HOSTS 转换: 127.0.0.1 gwofphogw.differentialmamuli.store → |gwofphogw.differentialmamuli.store^
 ✅ HOSTS 转换: 127.0.0.1 gynclfjtx.daneshkhanevade.xyz → |gynclfjtx.daneshkhanevade.xyz^
 ✅ HOSTS 转换: 127.0.0.1 hasalltalent.com → |hasalltalent.com^
 ✅ HOSTS 转换: 127.0.0.1 herxydns.hugugbime.xyz → |herxydns.hugugbime.xyz^
 ✅ HOSTS 转换: 127.0.0.1 hitman-pro.ru → |hitman-pro.ru^
 ✅ HOSTS 转换: 127.0.0.1 hitstation.nl → |hitstation.nl^
-✅ HOSTS 转换: 127.0.0.1 hnainyw.ninjafruitcubes.bet → |hnainyw.ninjafruitcubes.bet^
+✅ HOSTS 转换: 127.0.0.1 hlgwrpbh.mechanicsayalat.xyz → |hlgwrpbh.mechanicsayalat.xyz^
 ✅ HOSTS 转换: 127.0.0.1 hobobot.net → |hobobot.net^
-✅ HOSTS 转换: 127.0.0.1 hqtzavl.mangobetfarsi.com → |hqtzavl.mangobetfarsi.com^
+✅ HOSTS 转换: 127.0.0.1 hqvgwxfu.hugugedari.xyz → |hqvgwxfu.hugugedari.xyz^
 ✅ HOSTS 转换: 127.0.0.1 hremhf.jamjahani2026.football → |hremhf.jamjahani2026.football^
 ✅ HOSTS 转换: 127.0.0.1 hseda.com → |hseda.com^
 ✅ HOSTS 转换: 127.0.0.1 hvqxbpp.hesabdari2.xyz → |hvqxbpp.hesabdari2.xyz^
-✅ HOSTS 转换: 127.0.0.1 hxmhpw.pishbinibet.casino → |hxmhpw.pishbinibet.casino^
 ✅ HOSTS 转换: 127.0.0.1 hylfko.pishbinibet.casino → |hylfko.pishbinibet.casino^
+✅ HOSTS 转换: 127.0.0.1 hzvvlqps.mechanicsayalat.xyz → |hzvvlqps.mechanicsayalat.xyz^
 ✅ HOSTS 转换: 127.0.0.1 i-ramps.com → |i-ramps.com^
 ✅ HOSTS 转换: 127.0.0.1 i.404.pm → |i.404.pm^
+✅ HOSTS 转换: 127.0.0.1 iacozlci.hugugdaryayi.xyz → |iacozlci.hugugdaryayi.xyz^
 ✅ HOSTS 转换: 127.0.0.1 iamcklbz.wrfc8.com → |iamcklbz.wrfc8.com^
+✅ HOSTS 转换: 127.0.0.1 ibcosociety.com.sa → |ibcosociety.com.sa^
 ✅ HOSTS 转换: 127.0.0.1 icoffeecloud.com → |icoffeecloud.com^
+✅ HOSTS 转换: 127.0.0.1 ieemaju.akhlageslami.xyz → |ieemaju.akhlageslami.xyz^
+✅ HOSTS 转换: 127.0.0.1 ifvtbgbf.maharatmodiran.xyz → |ifvtbgbf.maharatmodiran.xyz^
 ✅ HOSTS 转换: 127.0.0.1 igra123.com → |igra123.com^
 ✅ HOSTS 转换: 127.0.0.1 injectroblox.ru → |injectroblox.ru^
+✅ HOSTS 转换: 127.0.0.1 iqduira.akhlagvaahkam.xyz → |iqduira.akhlagvaahkam.xyz^
 ✅ HOSTS 转换: 127.0.0.1 ircftp.net → |ircftp.net^
 ✅ HOSTS 转换: 127.0.0.1 isiore.com.co → |isiore.com.co^
 ✅ HOSTS 转换: 127.0.0.1 ithfkpx.amoozeshtagipour.shop → |ithfkpx.amoozeshtagipour.shop^
 ✅ HOSTS 转换: 127.0.0.1 itssprout.com → |itssprout.com^
 ✅ HOSTS 转换: 127.0.0.1 ivyyokmi.hugugdaryayi.xyz → |ivyyokmi.hugugdaryayi.xyz^
 ✅ HOSTS 转换: 127.0.0.1 izlayynu.winsportiran.com → |izlayynu.winsportiran.com^
-✅ HOSTS 转换: 127.0.0.1 izmxgmj.pasoor11.bet → |izmxgmj.pasoor11.bet^
+✅ HOSTS 转换: 127.0.0.1 iznukhb.hesabdari2.xyz → |iznukhb.hesabdari2.xyz^
 ✅ HOSTS 转换: 127.0.0.1 jamesautomobile.online → |jamesautomobile.online^
 ✅ HOSTS 转换: 127.0.0.1 jawaratekno.com → |jawaratekno.com^
-✅ HOSTS 转换: 127.0.0.1 jbwjdp.rial.bet → |jbwjdp.rial.bet^
-✅ HOSTS 转换: 127.0.0.1 jcrlq1o7.sabzbet.bet → |jcrlq1o7.sabzbet.bet^
-✅ HOSTS 转换: 127.0.0.1 jegtdzjo.parsbet90.com → |jegtdzjo.parsbet90.com^
+✅ HOSTS 转换: 127.0.0.1 jdxqaihsh.bankefiile.com → |jdxqaihsh.bankefiile.com^
 ✅ HOSTS 转换: 127.0.0.1 jessespridecharters.com → |jessespridecharters.com^
-✅ HOSTS 转换: 127.0.0.1 jgjuwx.pishbiniclass.com → |jgjuwx.pishbiniclass.com^
-✅ HOSTS 转换: 127.0.0.1 jjcuameq.parspoker90.com → |jjcuameq.parspoker90.com^
+✅ HOSTS 转换: 127.0.0.1 jkkksuzy.masaelmohandesi.xyz → |jkkksuzy.masaelmohandesi.xyz^
+✅ HOSTS 转换: 127.0.0.1 jksidxrvz.bookdrive.xyz → |jksidxrvz.bookdrive.xyz^
 ✅ HOSTS 转换: 127.0.0.1 jlwz.cn → |jlwz.cn^
 ✅ HOSTS 转换: 127.0.0.1 joyeriatauro.com → |joyeriatauro.com^
 ✅ HOSTS 转换: 127.0.0.1 jqfg2zyi.ehtemalatvaamar.xyz → |jqfg2zyi.ehtemalatvaamar.xyz^
 ✅ HOSTS 转换: 127.0.0.1 jqjvvqpy.one1x.bet → |jqjvvqpy.one1x.bet^
 ✅ HOSTS 转换: 127.0.0.1 js.byxly.eu.cc → |js.byxly.eu.cc^
+✅ HOSTS 转换: 127.0.0.1 jvyzjvqmb.bankefiile.com → |jvyzjvqmb.bankefiile.com^
 ✅ HOSTS 转换: 127.0.0.1 jxsofena.shartbandi.games → |jxsofena.shartbandi.games^
 ✅ HOSTS 转换: 127.0.0.1 jyothishmathi.in → |jyothishmathi.in^
+✅ HOSTS 转换: 127.0.0.1 kaiojocv.masirpayambari.xyz → |kaiojocv.masirpayambari.xyz^
 ✅ HOSTS 转换: 127.0.0.1 kavacanada.ca → |kavacanada.ca^
 ✅ HOSTS 转换: 127.0.0.1 kaza.com.hk → |kaza.com.hk^
+✅ HOSTS 转换: 127.0.0.1 kdthbhbm.prozhecart.com → |kdthbhbm.prozhecart.com^
 ✅ HOSTS 转换: 127.0.0.1 kfahpou.honardartarikh.xyz → |kfahpou.honardartarikh.xyz^
 ✅ HOSTS 转换: 127.0.0.1 khoancatbetong89.vn → |khoancatbetong89.vn^
 ✅ HOSTS 转换: 127.0.0.1 kimyen.net → |kimyen.net^
 ✅ HOSTS 转换: 127.0.0.1 kis.marketing → |kis.marketing^
 ✅ HOSTS 转换: 127.0.0.1 kits.frog.tw → |kits.frog.tw^
 ✅ HOSTS 转换: 127.0.0.1 kmjlrhh.hesabdarinoravesh.xyz → |kmjlrhh.hesabdarinoravesh.xyz^
-✅ HOSTS 转换: 127.0.0.1 kodhfeq.one1xbet.net → |kodhfeq.one1xbet.net^
 ✅ HOSTS 转换: 127.0.0.1 kokorostore.it → |kokorostore.it^
 ✅ HOSTS 转换: 127.0.0.1 konsor.ru → |konsor.ru^
+✅ HOSTS 转换: 127.0.0.1 kpeahfhd.rial.bet → |kpeahfhd.rial.bet^
 ✅ HOSTS 转换: 127.0.0.1 kpmmg.org → |kpmmg.org^
 ✅ HOSTS 转换: 127.0.0.1 kramersmarionnettes.com → |kramersmarionnettes.com^
 ✅ HOSTS 转换: 127.0.0.1 krezxpiv.jamjahani2026.football → |krezxpiv.jamjahani2026.football^
 ✅ HOSTS 转换: 127.0.0.1 ktwyzyj.hesabdaripishrafte.xyz → |ktwyzyj.hesabdaripishrafte.xyz^
+✅ HOSTS 转换: 127.0.0.1 kuonnjkj.masirpayambari.xyz → |kuonnjkj.masirpayambari.xyz^
 ✅ HOSTS 转换: 127.0.0.1 kuwwcojw.hugugmadani6.xyz → |kuwwcojw.hugugmadani6.xyz^
+✅ HOSTS 转换: 127.0.0.1 kv5kk9gr.angizeshfarahani.store → |kv5kk9gr.angizeshfarahani.store^
+✅ HOSTS 转换: 127.0.0.1 kwoptitn.restaurantguideaarhus.com → |kwoptitn.restaurantguideaarhus.com^
 ✅ HOSTS 转换: 127.0.0.1 landonirwin.com → |landonirwin.com^
 ✅ HOSTS 转换: 127.0.0.1 lawfirm.paperbirdtech.com → |lawfirm.paperbirdtech.com^
+✅ HOSTS 转换: 127.0.0.1 ldmmsp6b.angizeshfarahani.store → |ldmmsp6b.angizeshfarahani.store^
 ✅ HOSTS 转换: 127.0.0.1 libss.0x504.com → |libss.0x504.com^
 ✅ HOSTS 转换: 127.0.0.1 lindnerelektroanlagen.de → |lindnerelektroanlagen.de^
+✅ HOSTS 转换: 127.0.0.1 ljj8nzo0.ravansalamat.shop → |ljj8nzo0.ravansalamat.shop^
 ✅ HOSTS 转换: 127.0.0.1 lkbctabw.hugugmadanikatouzian.xyz → |lkbctabw.hugugmadanikatouzian.xyz^
+✅ HOSTS 转换: 127.0.0.1 lkrugvhg.maharatmodiran.xyz → |lkrugvhg.maharatmodiran.xyz^
 ✅ HOSTS 转换: 127.0.0.1 llonnk.bankefile.com → |llonnk.bankefile.com^
 ✅ HOSTS 转换: 127.0.0.1 local-update.com → |local-update.com^
-✅ HOSTS 转换: 127.0.0.1 lokino.perfectgameiran.com → |lokino.perfectgameiran.com^
 ✅ HOSTS 转换: 127.0.0.1 lomejordesalamanca.es → |lomejordesalamanca.es^
-✅ HOSTS 转换: 127.0.0.1 lplhoo.pishbinigame.com → |lplhoo.pishbinigame.com^
 ✅ HOSTS 转换: 127.0.0.1 lq8j82kc.shirbetfarsi.com → |lq8j82kc.shirbetfarsi.com^
-✅ HOSTS 转换: 127.0.0.1 lrucuzu.rika90.bet → |lrucuzu.rika90.bet^
 ✅ HOSTS 转换: 127.0.0.1 luizmatoso.com.br → |luizmatoso.com.br^
+✅ HOSTS 转换: 127.0.0.1 lwywtkki.winxbet.co → |lwywtkki.winxbet.co^
 ✅ HOSTS 转换: 127.0.0.1 lxhcemuk.wrfc8.com → |lxhcemuk.wrfc8.com^
 ✅ HOSTS 转换: 127.0.0.1 lzkgofe.akhlagvaahkam.xyz → |lzkgofe.akhlagvaahkam.xyz^
 ✅ HOSTS 转换: 127.0.0.1 lzwtxwrr.winxbet.co → |lzwtxwrr.winxbet.co^
 ✅ HOSTS 转换: 127.0.0.1 m.jkoa.co.kr → |m.jkoa.co.kr^
+✅ HOSTS 转换: 127.0.0.1 m2bu2yf9.ansuyemarg.xyz → |m2bu2yf9.ansuyemarg.xyz^
 ✅ HOSTS 转换: 127.0.0.1 m47hkbcd.ganuneasasi.xyz → |m47hkbcd.ganuneasasi.xyz^
-✅ HOSTS 转换: 127.0.0.1 magina.online → |magina.online^
 ✅ HOSTS 转换: 127.0.0.1 maidforyou1985.com → |maidforyou1985.com^
-✅ HOSTS 转换: 127.0.0.1 mbigpi.pishbinifoori.com → |mbigpi.pishbinifoori.com^
 ✅ HOSTS 转换: 127.0.0.1 mdsbgax.hesabdaripishrafte.xyz → |mdsbgax.hesabdaripishrafte.xyz^
 ✅ HOSTS 转换: 127.0.0.1 meetvideogoogle.com → |meetvideogoogle.com^
 ✅ HOSTS 转换: 127.0.0.1 metrics.gocloudmaps.com → |metrics.gocloudmaps.com^
@@ -70298,81 +70311,86 @@
 ✅ HOSTS 转换: 127.0.0.1 mirqics.hesabdariosmani.xyz → |mirqics.hesabdariosmani.xyz^
 ✅ HOSTS 转换: 127.0.0.1 miskolc-dugulaselharitas.hu → |miskolc-dugulaselharitas.hu^
 ✅ HOSTS 转换: 127.0.0.1 mitreart.com → |mitreart.com^
-✅ HOSTS 转换: 127.0.0.1 mjtcvp.jamjahani.cash → |mjtcvp.jamjahani.cash^
-✅ HOSTS 转换: 127.0.0.1 mnhunimj.persian.sex → |mnhunimj.persian.sex^
-✅ HOSTS 转换: 127.0.0.1 mnnwpo.jamjahani2026.football → |mnnwpo.jamjahani2026.football^
-✅ HOSTS 转换: 127.0.0.1 mnoledglin.top → |mnoledglin.top^
+✅ HOSTS 转换: 127.0.0.1 mocauhxe.mabanishimi.xyz → |mocauhxe.mabanishimi.xyz^
 ✅ HOSTS 转换: 127.0.0.1 mogimall.com → |mogimall.com^
 ✅ HOSTS 转换: 127.0.0.1 mojzkvtc.hugugmadani6.xyz → |mojzkvtc.hugugmadani6.xyz^
 ✅ HOSTS 转换: 127.0.0.1 muaklekcoop.com → |muaklekcoop.com^
 ✅ HOSTS 转换: 127.0.0.1 muledo.com → |muledo.com^
 ✅ HOSTS 转换: 127.0.0.1 mundocarnes.cl → |mundocarnes.cl^
+✅ HOSTS 转换: 127.0.0.1 mvwrgylee.danestanihavarzeshi.com → |mvwrgylee.danestanihavarzeshi.com^
 ✅ HOSTS 转换: 127.0.0.1 mwo3lg6u.garatequran.xyz → |mwo3lg6u.garatequran.xyz^
 ✅ HOSTS 转换: 127.0.0.1 mx9x.com → |mx9x.com^
-✅ HOSTS 转换: 127.0.0.1 naszmks.pinbahiis.com → |naszmks.pinbahiis.com^
+✅ HOSTS 转换: 127.0.0.1 mymrtijp.hugugmadani6.xyz → |mymrtijp.hugugmadani6.xyz^
+✅ HOSTS 转换: 127.0.0.1 namrqlix.hugugnasiri.xyz → |namrqlix.hugugnasiri.xyz^
 ✅ HOSTS 转换: 127.0.0.1 ncxps.com → |ncxps.com^
+✅ HOSTS 转换: 127.0.0.1 nebulaclient.store → |nebulaclient.store^
 ✅ HOSTS 转换: 127.0.0.1 new.quranushaiqer.org.sa → |new.quranushaiqer.org.sa^
+✅ HOSTS 转换: 127.0.0.1 nibfzvsq.hugugbime.xyz → |nibfzvsq.hugugbime.xyz^
 ✅ HOSTS 转换: 127.0.0.1 nickart.ro → |nickart.ro^
 ✅ HOSTS 转换: 127.0.0.1 nitrogateway.digital → |nitrogateway.digital^
-✅ HOSTS 转换: 127.0.0.1 nkfjdum.pasoor11.bet → |nkfjdum.pasoor11.bet^
+✅ HOSTS 转换: 127.0.0.1 njwjijvlf.differentialkerayechiyan.store → |njwjijvlf.differentialkerayechiyan.store^
+✅ HOSTS 转换: 127.0.0.1 nkxkhfp.bet303.app → |nkxkhfp.bet303.app^
 ✅ HOSTS 转换: 127.0.0.1 nljdiefg.jamjahani.football → |nljdiefg.jamjahani.football^
 ✅ HOSTS 转换: 127.0.0.1 nllxfcjp.shartbandi.games → |nllxfcjp.shartbandi.games^
+✅ HOSTS 转换: 127.0.0.1 nlxxwubqf.barnamenevisi.xyz → |nlxxwubqf.barnamenevisi.xyz^
+✅ HOSTS 转换: 127.0.0.1 nnvavkl.bet303.promo → |nnvavkl.bet303.promo^
 ✅ HOSTS 转换: 127.0.0.1 no7shmh.shop → |no7shmh.shop^
 ✅ HOSTS 转换: 127.0.0.1 node-tls.dekma-gay.ru → |node-tls.dekma-gay.ru^
 ✅ HOSTS 转换: 127.0.0.1 node.bot.dekma-gay.ru → |node.bot.dekma-gay.ru^
 ✅ HOSTS 转换: 127.0.0.1 noithaticon.vn → |noithaticon.vn^
 ✅ HOSTS 转换: 127.0.0.1 nusatoyota.co.id → |nusatoyota.co.id^
 ✅ HOSTS 转换: 127.0.0.1 ny.lshdw.cc → |ny.lshdw.cc^
+✅ HOSTS 转换: 127.0.0.1 nzg52z19.questionstest.xyz → |nzg52z19.questionstest.xyz^
+✅ HOSTS 转换: 127.0.0.1 o0irv3h9.ravabetensani.site → |o0irv3h9.ravabetensani.site^
 ✅ HOSTS 转换: 127.0.0.1 o24o.ru → |o24o.ru^
 ✅ HOSTS 转换: 127.0.0.1 o6k7lcz5.shartbazi.net → |o6k7lcz5.shartbazi.net^
 ✅ HOSTS 转换: 127.0.0.1 oejoixm.amlakshahri.xyz → |oejoixm.amlakshahri.xyz^
+✅ HOSTS 转换: 127.0.0.1 oivuaiyy.psgnewsiran.com → |oivuaiyy.psgnewsiran.com^
 ✅ HOSTS 转换: 127.0.0.1 ojang.pe.kr → |ojang.pe.kr^
-✅ HOSTS 转换: 127.0.0.1 ojnkoxdg.pokerbazi.poker → |ojnkoxdg.pokerbazi.poker^
 ✅ HOSTS 转换: 127.0.0.1 okhan.net → |okhan.net^
-✅ HOSTS 转换: 127.0.0.1 oknmhjx.xenicalby6.com → |oknmhjx.xenicalby6.com^
 ✅ HOSTS 转换: 127.0.0.1 oknoplastik.sk → |oknoplastik.sk^
+✅ HOSTS 转换: 127.0.0.1 omzuslys.hugugtatbigi.xyz → |omzuslys.hugugtatbigi.xyz^
 ✅ HOSTS 转换: 127.0.0.1 onfiltre.com.tr → |onfiltre.com.tr^
 ✅ HOSTS 转换: 127.0.0.1 ouqzmwvg.jamjahani.football → |ouqzmwvg.jamjahani.football^
 ✅ HOSTS 转换: 127.0.0.1 ovzweeh.amoozeshagazade.shop → |ovzweeh.amoozeshagazade.shop^
 ✅ HOSTS 转换: 127.0.0.1 owlcity.ru → |owlcity.ru^
 ✅ HOSTS 转换: 127.0.0.1 oxfordmobilexray.com → |oxfordmobilexray.com^
-✅ HOSTS 转换: 127.0.0.1 oxtumf.jamjahani.football → |oxtumf.jamjahani.football^
 ✅ HOSTS 转换: 127.0.0.1 oxzqss.azmoonzare.online → |oxzqss.azmoonzare.online^
 ✅ HOSTS 转换: 127.0.0.1 p3.zbjimg.com → |p3.zbjimg.com^
+✅ HOSTS 转换: 127.0.0.1 p5k42qtw.anodaz.co → |p5k42qtw.anodaz.co^
 ✅ HOSTS 转换: 127.0.0.1 palharesinformatica.com.br → |palharesinformatica.com.br^
 ✅ HOSTS 转换: 127.0.0.1 paperfoldercenter.com → |paperfoldercenter.com^
 ✅ HOSTS 转换: 127.0.0.1 pay.aqiu6.com → |pay.aqiu6.com^
-✅ HOSTS 转换: 127.0.0.1 pblgwhm.x50wheel.bet → |pblgwhm.x50wheel.bet^
 ✅ HOSTS 转换: 127.0.0.1 pbmbrhid.gavaedfagahe.xyz → |pbmbrhid.gavaedfagahe.xyz^
 ✅ HOSTS 转换: 127.0.0.1 pcupd.com → |pcupd.com^
 ✅ HOSTS 转换: 127.0.0.1 pejfezjq.hugugdaryayi.xyz → |pejfezjq.hugugdaryayi.xyz^
 ✅ HOSTS 转换: 127.0.0.1 pfyfyt.bankefiile.com → |pfyfyt.bankefiile.com^
 ✅ HOSTS 转换: 127.0.0.1 pid.fly160.com → |pid.fly160.com^
 ✅ HOSTS 转换: 127.0.0.1 pingdisp.com → |pingdisp.com^
+✅ HOSTS 转换: 127.0.0.1 pipx8iw2.ravanshenasiganji.xyz → |pipx8iw2.ravanshenasiganji.xyz^
 ✅ HOSTS 转换: 127.0.0.1 pjekei.azmoonzare.online → |pjekei.azmoonzare.online^
 ✅ HOSTS 转换: 127.0.0.1 planetariumobil.ro → |planetariumobil.ro^
 ✅ HOSTS 转换: 127.0.0.1 plasteredplayn.com → |plasteredplayn.com^
-✅ HOSTS 转换: 127.0.0.1 plyxcbx.wrfc8.com → |plyxcbx.wrfc8.com^
 ✅ HOSTS 转换: 127.0.0.1 poland.dekma-gay.ru → |poland.dekma-gay.ru^
 ✅ HOSTS 转换: 127.0.0.1 postelnini.mk → |postelnini.mk^
-✅ HOSTS 转换: 127.0.0.1 ppwbda.jamjahani.cash → |ppwbda.jamjahani.cash^
+✅ HOSTS 转换: 127.0.0.1 pour45yz.ravandarmani.xyz → |pour45yz.ravandarmani.xyz^
 ✅ HOSTS 转换: 127.0.0.1 preciosasjoyitas.com.mx → |preciosasjoyitas.com.mx^
-✅ HOSTS 转换: 127.0.0.1 prmozcj.persian.sex → |prmozcj.persian.sex^
 ✅ HOSTS 转换: 127.0.0.1 protherapycenter.com → |protherapycenter.com^
 ✅ HOSTS 转换: 127.0.0.1 public.demo.securecloudsandbox.com → |public.demo.securecloudsandbox.com^
 ✅ HOSTS 转换: 127.0.0.1 pvsa.gxfugy.cn → |pvsa.gxfugy.cn^
-✅ HOSTS 转换: 127.0.0.1 q62sm4y0.parsgoal90.com → |q62sm4y0.parsgoal90.com^
-✅ HOSTS 转换: 127.0.0.1 qenkzpp.rika90.bet → |qenkzpp.rika90.bet^
 ✅ HOSTS 转换: 127.0.0.1 qiniuyunxz.yxflzs.com → |qiniuyunxz.yxflzs.com^
+✅ HOSTS 转换: 127.0.0.1 qlvwxer.karafarini.shop → |qlvwxer.karafarini.shop^
+✅ HOSTS 转换: 127.0.0.1 qlwxqybo.prozhedownload.com → |qlwxqybo.prozhedownload.com^
 ✅ HOSTS 转换: 127.0.0.1 qmnldei.akhlagheslami.xyz → |qmnldei.akhlagheslami.xyz^
+✅ HOSTS 转换: 127.0.0.1 qnjutqs.bet303.app → |qnjutqs.bet303.app^
 ✅ HOSTS 转换: 127.0.0.1 qnsvnvkk.shartbandi.casino → |qnsvnvkk.shartbandi.casino^
 ✅ HOSTS 转换: 127.0.0.1 qpemifog.winxbet.co → |qpemifog.winxbet.co^
 ✅ HOSTS 转换: 127.0.0.1 queendent.hu → |queendent.hu^
 ✅ HOSTS 转换: 127.0.0.1 qxuedtbmu.bookdrive.xyz → |qxuedtbmu.bookdrive.xyz^
-✅ HOSTS 转换: 127.0.0.1 r2qz0qa2.poker-online.bet → |r2qz0qa2.poker-online.bet^
 ✅ HOSTS 转换: 127.0.0.1 ramirex.ro → |ramirex.ro^
+✅ HOSTS 转换: 127.0.0.1 ramsybxt.mechanickhodakarami.shop → |ramsybxt.mechanickhodakarami.shop^
 ✅ HOSTS 转换: 127.0.0.1 rattc2jn.asibshenasiyahya.shop → |rattc2jn.asibshenasiyahya.shop^
-✅ HOSTS 转换: 127.0.0.1 rcyrnur.pokerprado.bet → |rcyrnur.pokerprado.bet^
+✅ HOSTS 转换: 127.0.0.1 rcflwccn.mabanishimi.xyz → |rcflwccn.mabanishimi.xyz^
 ✅ HOSTS 转换: 127.0.0.1 rdm.91yunma.cn → |rdm.91yunma.cn^
 ✅ HOSTS 转换: 127.0.0.1 reauthenticator.com → |reauthenticator.com^
 ✅ HOSTS 转换: 127.0.0.1 records.dennisign.se → |records.dennisign.se^
@@ -70385,34 +70403,31 @@
 ✅ HOSTS 转换: 127.0.0.1 rheddh.com → |rheddh.com^
 ✅ HOSTS 转换: 127.0.0.1 riderspin.com → |riderspin.com^
 ✅ HOSTS 转换: 127.0.0.1 ritubohara.com → |ritubohara.com^
+✅ HOSTS 转换: 127.0.0.1 rjwfiwgjr.defamogadas.xyz → |rjwfiwgjr.defamogadas.xyz^
 ✅ HOSTS 转换: 127.0.0.1 rkbvh5p1.parspoker.casino → |rkbvh5p1.parspoker.casino^
-✅ HOSTS 转换: 127.0.0.1 rmipclt.penality.bet → |rmipclt.penality.bet^
+✅ HOSTS 转换: 127.0.0.1 rlsrlwb.karbordriyaziyat.xyz → |rlsrlwb.karbordriyaziyat.xyz^
 ✅ HOSTS 转换: 127.0.0.1 rn0mptxh.anodaz.tv → |rn0mptxh.anodaz.tv^
 ✅ HOSTS 转换: 127.0.0.1 robertrowe.com → |robertrowe.com^
 ✅ HOSTS 转换: 127.0.0.1 royalindiancurryclub.com → |royalindiancurryclub.com^
 ✅ HOSTS 转换: 127.0.0.1 rqwkms23.anodaz.store → |rqwkms23.anodaz.store^
 ✅ HOSTS 转换: 127.0.0.1 rxquickpay.com → |rxquickpay.com^
-✅ HOSTS 转换: 127.0.0.1 rywwahl.romabet90.bet → |rywwahl.romabet90.bet^
 ✅ HOSTS 转换: 127.0.0.1 s4x5yd7i.anodaz.store → |s4x5yd7i.anodaz.store^
+✅ HOSTS 转换: 127.0.0.1 s8a20vxh.gavaedfagahe.xyz → |s8a20vxh.gavaedfagahe.xyz^
 ✅ HOSTS 转换: 127.0.0.1 sablayan.seasonshotelmindoro.com → |sablayan.seasonshotelmindoro.com^
 ✅ HOSTS 转换: 127.0.0.1 salessteer.com → |salessteer.com^
-✅ HOSTS 转换: 127.0.0.1 salppir.red90.casino → |salppir.red90.casino^
 ✅ HOSTS 转换: 127.0.0.1 salsabil.com → |salsabil.com^
 ✅ HOSTS 转换: 127.0.0.1 samsclass.info → |samsclass.info^
 ✅ HOSTS 转换: 127.0.0.1 sandyadamspodcast.com → |sandyadamspodcast.com^
 ✅ HOSTS 转换: 127.0.0.1 scainseto.com.br → |scainseto.com.br^
 ✅ HOSTS 转换: 127.0.0.1 scaleyou.com.br → |scaleyou.com.br^
-✅ HOSTS 转换: 127.0.0.1 scsadmm.penaltibazi.com → |scsadmm.penaltibazi.com^
-✅ HOSTS 转换: 127.0.0.1 scvnivk.sabaad724.bet → |scvnivk.sabaad724.bet^
 ✅ HOSTS 转换: 127.0.0.1 sdgbisna.jamjahani2026.football → |sdgbisna.jamjahani2026.football^
 ✅ HOSTS 转换: 127.0.0.1 sdkymow.amoozeshtagipour.shop → |sdkymow.amoozeshtagipour.shop^
+✅ HOSTS 转换: 127.0.0.1 sdlclrs.akhlageslami.xyz → |sdlclrs.akhlageslami.xyz^
 ✅ HOSTS 转换: 127.0.0.1 sec.dashabi.in → |sec.dashabi.in^
 ✅ HOSTS 转换: 127.0.0.1 sec.xiaojiji.nl → |sec.xiaojiji.nl^
 ✅ HOSTS 转换: 127.0.0.1 sec.xiaoshabi.nl → |sec.xiaoshabi.nl^
-✅ HOSTS 转换: 127.0.0.1 sedxjax.winxbet.co → |sedxjax.winxbet.co^
 ✅ HOSTS 转换: 127.0.0.1 seismophonic.com → |seismophonic.com^
 ✅ HOSTS 转换: 127.0.0.1 separadordecc.com → |separadordecc.com^
-✅ HOSTS 转换: 127.0.0.1 sfdwdmq.mangobetfarsi.com → |sfdwdmq.mangobetfarsi.com^
 ✅ HOSTS 转换: 127.0.0.1 sg123.net → |sg123.net^
 ✅ HOSTS 转换: 127.0.0.1 shaderm.com → |shaderm.com^
 ✅ HOSTS 转换: 127.0.0.1 shahamanatme.com → |shahamanatme.com^
@@ -70421,6 +70436,7 @@
 ✅ HOSTS 转换: 127.0.0.1 sjowpfe.akhlageslami.xyz → |sjowpfe.akhlageslami.xyz^
 ✅ HOSTS 转换: 127.0.0.1 sk-comtel.com → |sk-comtel.com^
 ✅ HOSTS 转换: 127.0.0.1 sk4a8369.anodaz.store → |sk4a8369.anodaz.store^
+✅ HOSTS 转换: 127.0.0.1 slojemw.leaguejazire.com → |slojemw.leaguejazire.com^
 ✅ HOSTS 转换: 127.0.0.1 slotmy-send.tech → |slotmy-send.tech^
 ✅ HOSTS 转换: 127.0.0.1 smart.abuse.st → |smart.abuse.st^
 ✅ HOSTS 转换: 127.0.0.1 smartermail.host → |smartermail.host^
@@ -70430,9 +70446,7 @@
 ✅ HOSTS 转换: 127.0.0.1 solar-sanat.net → |solar-sanat.net^
 ✅ HOSTS 转换: 127.0.0.1 spasopro.at → |spasopro.at^
 ✅ HOSTS 转换: 127.0.0.1 spgint.com → |spgint.com^
-✅ HOSTS 转换: 127.0.0.1 spiskisvo.xyz → |spiskisvo.xyz^
 ✅ HOSTS 转换: 127.0.0.1 spoar.org.in → |spoar.org.in^
-✅ HOSTS 转换: 127.0.0.1 srninwh.one1xbet.net → |srninwh.one1xbet.net^
 ✅ HOSTS 转换: 127.0.0.1 static.ilclock.com → |static.ilclock.com^
 ✅ HOSTS 转换: 127.0.0.1 static.topxgun.com → |static.topxgun.com^
 ✅ HOSTS 转换: 127.0.0.1 static.youdm.cn → |static.youdm.cn^
@@ -70444,8 +70458,9 @@
 ✅ HOSTS 转换: 127.0.0.1 sutterpoint.com → |sutterpoint.com^
 ✅ HOSTS 转换: 127.0.0.1 svirtual.sanviatorperu.edu.pe → |svirtual.sanviatorperu.edu.pe^
 ✅ HOSTS 转换: 127.0.0.1 swiftfusion.tech → |swiftfusion.tech^
-✅ HOSTS 转换: 127.0.0.1 swzbdpb.poker-online.bet → |swzbdpb.poker-online.bet^
 ✅ HOSTS 转换: 127.0.0.1 sydneyaffordablecremations.com.au → |sydneyaffordablecremations.com.au^
+✅ HOSTS 转换: 127.0.0.1 t92hw5pi.nazariyeyadgiri.xyz → |t92hw5pi.nazariyeyadgiri.xyz^
+✅ HOSTS 转换: 127.0.0.1 taiquge.lincoplus.xyz → |taiquge.lincoplus.xyz^
 ✅ HOSTS 转换: 127.0.0.1 tanscarattorneys.co.tz → |tanscarattorneys.co.tz^
 ✅ HOSTS 转换: 127.0.0.1 tapestryoftruth.com → |tapestryoftruth.com^
 ✅ HOSTS 转换: 127.0.0.1 tdfzyex.amoozeshagazade.shop → |tdfzyex.amoozeshagazade.shop^
@@ -70453,16 +70468,15 @@
 ✅ HOSTS 转换: 127.0.0.1 temirtau-adm.ru → |temirtau-adm.ru^
 ✅ HOSTS 转换: 127.0.0.1 tengfeidn.cn → |tengfeidn.cn^
 ✅ HOSTS 转换: 127.0.0.1 test.peperoncinochepassione.it → |test.peperoncinochepassione.it^
-✅ HOSTS 转换: 127.0.0.1 tfqpaye.one1x.bet → |tfqpaye.one1x.bet^
 ✅ HOSTS 转换: 127.0.0.1 theholidayroads.com → |theholidayroads.com^
 ✅ HOSTS 转换: 127.0.0.1 thementordirectory.com → |thementordirectory.com^
 ✅ HOSTS 转换: 127.0.0.1 theoremaoliveoil.com → |theoremaoliveoil.com^
 ✅ HOSTS 转换: 127.0.0.1 thtp2.volamngayxua.net → |thtp2.volamngayxua.net^
 ✅ HOSTS 转换: 127.0.0.1 tiacreation.club → |tiacreation.club^
 ✅ HOSTS 转换: 127.0.0.1 tmcksa.com → |tmcksa.com^
-✅ HOSTS 转换: 127.0.0.1 tmeypq.perfectgame.casino → |tmeypq.perfectgame.casino^
 ✅ HOSTS 转换: 127.0.0.1 toolshare.com.tr → |toolshare.com.tr^
 ✅ HOSTS 转换: 127.0.0.1 top8onlinegame.com → |top8onlinegame.com^
+✅ HOSTS 转换: 127.0.0.1 tqwyxfee.mechanickhodakarami.shop → |tqwyxfee.mechanickhodakarami.shop^
 ✅ HOSTS 转换: 127.0.0.1 trade-eprex.pro → |trade-eprex.pro^
 ✅ HOSTS 转换: 127.0.0.1 tradedsglobal.com → |tradedsglobal.com^
 ✅ HOSTS 转换: 127.0.0.1 transparenciacanaa.com.br → |transparenciacanaa.com.br^
@@ -70471,10 +70485,8 @@
 ✅ HOSTS 转换: 127.0.0.1 tt-mods18.click → |tt-mods18.click^
 ✅ HOSTS 转换: 127.0.0.1 ttsnmsv.honareslami.xyz → |ttsnmsv.honareslami.xyz^
 ✅ HOSTS 转换: 127.0.0.1 twvrjjcu.hugugtejarat4.xyz → |twvrjjcu.hugugtejarat4.xyz^
-✅ HOSTS 转换: 127.0.0.1 uckrcup.romabet90.bet → |uckrcup.romabet90.bet^
 ✅ HOSTS 转换: 127.0.0.1 uecvehp.amoozeshagazade.shop → |uecvehp.amoozeshagazade.shop^
 ✅ HOSTS 转换: 127.0.0.1 uknwgsop.red90.casino → |uknwgsop.red90.casino^
-✅ HOSTS 转换: 127.0.0.1 uktbpnp.sabaad724.bet → |uktbpnp.sabaad724.bet^
 ✅ HOSTS 转换: 127.0.0.1 uniform-factory.ae → |uniform-factory.ae^
 ✅ HOSTS 转换: 127.0.0.1 upaicdn.xinmei365.com → |upaicdn.xinmei365.com^
 ✅ HOSTS 转换: 127.0.0.1 upchemicals.co.in → |upchemicals.co.in^
@@ -70490,8 +70502,8 @@
 ✅ HOSTS 转换: 127.0.0.1 vbjnuyvt.hugugedari.xyz → |vbjnuyvt.hugugedari.xyz^
 ✅ HOSTS 转换: 127.0.0.1 vbpfixp.hesabdarishabahang.xyz → |vbpfixp.hesabdarishabahang.xyz^
 ✅ HOSTS 转换: 127.0.0.1 vcc-library.uk → |vcc-library.uk^
-✅ HOSTS 转换: 127.0.0.1 vdsina.vg → |vdsina.vg^
 ✅ HOSTS 转换: 127.0.0.1 veb0im5p.ansuyemarg.xyz → |veb0im5p.ansuyemarg.xyz^
+✅ HOSTS 转换: 127.0.0.1 verccbf.hesabdarinoravesh.xyz → |verccbf.hesabdarinoravesh.xyz^
 ✅ HOSTS 转换: 127.0.0.1 versaclean.com.br → |versaclean.com.br^
 ✅ HOSTS 转换: 127.0.0.1 veryboys.com → |veryboys.com^
 ✅ HOSTS 转换: 127.0.0.1 vgd.vg → |vgd.vg^
@@ -70499,28 +70511,25 @@
 ✅ HOSTS 转换: 127.0.0.1 vincentdemiero.com → |vincentdemiero.com^
 ✅ HOSTS 转换: 127.0.0.1 visam.info → |visam.info^
 ✅ HOSTS 转换: 127.0.0.1 vitacocoyougoloco.potassium.st → |vitacocoyougoloco.potassium.st^
+✅ HOSTS 转换: 127.0.0.1 viypaevf.wrfc8.com → |viypaevf.wrfc8.com^
 ✅ HOSTS 转换: 127.0.0.1 vizyonuniversitesi.com.tr → |vizyonuniversitesi.com.tr^
 ✅ HOSTS 转换: 127.0.0.1 vizyonuniversitesi.web.tr → |vizyonuniversitesi.web.tr^
 ✅ HOSTS 转换: 127.0.0.1 vkuyoujz.hugugbeynolmelal.xyz → |vkuyoujz.hugugbeynolmelal.xyz^
 ✅ HOSTS 转换: 127.0.0.1 vohgvv.jamjahani.football → |vohgvv.jamjahani.football^
-✅ HOSTS 转换: 127.0.0.1 voltrix.tv → |voltrix.tv^
 ✅ HOSTS 转换: 127.0.0.1 vps36563.maxko-hosting.net → |vps36563.maxko-hosting.net^
 ✅ HOSTS 转换: 127.0.0.1 vqfqrqgv.red90.casino → |vqfqrqgv.red90.casino^
 ✅ HOSTS 转换: 127.0.0.1 vrdccbank.com → |vrdccbank.com^
-✅ HOSTS 转换: 127.0.0.1 vsnsopv.winsportiran.com → |vsnsopv.winsportiran.com^
 ✅ HOSTS 转换: 127.0.0.1 vvoplgpy.bet303.poker → |vvoplgpy.bet303.poker^
 ✅ HOSTS 转换: 127.0.0.1 vzyeissn.rial.bet → |vzyeissn.rial.bet^
-✅ HOSTS 转换: 127.0.0.1 w02eza6e.plinkoirani.com → |w02eza6e.plinkoirani.com^
-✅ HOSTS 转换: 127.0.0.1 w18yfaze.yekbetiran.com → |w18yfaze.yekbetiran.com^
 ✅ HOSTS 转换: 127.0.0.1 w2hnzhub.fununetadris.shop → |w2hnzhub.fununetadris.shop^
 ✅ HOSTS 转换: 127.0.0.1 webcstore.pw → |webcstore.pw^
 ✅ HOSTS 转换: 127.0.0.1 website.mypetapp.co.za → |website.mypetapp.co.za^
+✅ HOSTS 转换: 127.0.0.1 whjdetcc.wrfc8.com → |whjdetcc.wrfc8.com^
 ✅ HOSTS 转换: 127.0.0.1 whtfwec.hesabdari3.xyz → |whtfwec.hesabdari3.xyz^
-✅ HOSTS 转换: 127.0.0.1 whyldsf.rc395.com → |whyldsf.rc395.com^
 ✅ HOSTS 转换: 127.0.0.1 widexenmexico.com.mx → |widexenmexico.com.mx^
 ✅ HOSTS 转换: 127.0.0.1 windomstatetheater.com → |windomstatetheater.com^
 ✅ HOSTS 转换: 127.0.0.1 wittenhorst.eu → |wittenhorst.eu^
-✅ HOSTS 转换: 127.0.0.1 wsiflnb.persian.sex → |wsiflnb.persian.sex^
+✅ HOSTS 转换: 127.0.0.1 wkgrduot.restaurantguideaarhus.com → |wkgrduot.restaurantguideaarhus.com^
 ✅ HOSTS 转换: 127.0.0.1 wswgllp.honarcinema.online → |wswgllp.honarcinema.online^
 ✅ HOSTS 转换: 127.0.0.1 www.ardguisser.com → |www.ardguisser.com^
 ✅ HOSTS 转换: 127.0.0.1 www.astenterprises.com.pk → |www.astenterprises.com.pk^
@@ -70546,7 +70555,6 @@
 ✅ HOSTS 转换: 127.0.0.1 www.myvcart.com → |www.myvcart.com^
 ✅ HOSTS 转换: 127.0.0.1 www.namuvpn.com → |www.namuvpn.com^
 ✅ HOSTS 转换: 127.0.0.1 www.newkey.co.kr → |www.newkey.co.kr^
-✅ HOSTS 转换: 127.0.0.1 www.normativatecnica.org → |www.normativatecnica.org^
 ✅ HOSTS 转换: 127.0.0.1 www.notbak.com → |www.notbak.com^
 ✅ HOSTS 转换: 127.0.0.1 www.ojang.pe.kr → |www.ojang.pe.kr^
 ✅ HOSTS 转换: 127.0.0.1 www.okhan.net → |www.okhan.net^
@@ -70574,40 +70582,42 @@
 ✅ HOSTS 转换: 127.0.0.1 www.ysbaojia.com → |www.ysbaojia.com^
 ✅ HOSTS 转换: 127.0.0.1 www.zamilgroups.com → |www.zamilgroups.com^
 ✅ HOSTS 转换: 127.0.0.1 www.zhikey.com → |www.zhikey.com^
-✅ HOSTS 转换: 127.0.0.1 wwwydzo.penaltibazi.com → |wwwydzo.penaltibazi.com^
 ✅ HOSTS 转换: 127.0.0.1 xenon.studio → |xenon.studio^
-✅ HOSTS 转换: 127.0.0.1 xepjlus.riverpoker1.com → |xepjlus.riverpoker1.com^
 ✅ HOSTS 转换: 127.0.0.1 xffoobdu.jamjahani2026.football → |xffoobdu.jamjahani2026.football^
-✅ HOSTS 转换: 127.0.0.1 xgcstm.yasbet90.com → |xgcstm.yasbet90.com^
 ✅ HOSTS 转换: 127.0.0.1 xmwofxxy.winxbet.co → |xmwofxxy.winxbet.co^
 ✅ HOSTS 转换: 127.0.0.1 xn--yh4bx88a.com → |xn--yh4bx88a.com^
+✅ HOSTS 转换: 127.0.0.1 xnvdto36.ganuneasasi.xyz → |xnvdto36.ganuneasasi.xyz^
 ✅ HOSTS 转换: 127.0.0.1 xomvdxaa.red90.casino → |xomvdxaa.red90.casino^
 ✅ HOSTS 转换: 127.0.0.1 xqbzvgfy.red90.casino → |xqbzvgfy.red90.casino^
 ✅ HOSTS 转换: 127.0.0.1 xshop.com.tr → |xshop.com.tr^
 ✅ HOSTS 转换: 127.0.0.1 xtktlprb.rial.bet → |xtktlprb.rial.bet^
-✅ HOSTS 转换: 127.0.0.1 xtrqgv.perspolisbet90.com → |xtrqgv.perspolisbet90.com^
 ✅ HOSTS 转换: 127.0.0.1 xtsfgslg.jamjahani2026.football → |xtsfgslg.jamjahani2026.football^
 ✅ HOSTS 转换: 127.0.0.1 xuezha.net → |xuezha.net^
-✅ HOSTS 转换: 127.0.0.1 xwwitjs.rayonbet.com → |xwwitjs.rayonbet.com^
+✅ HOSTS 转换: 127.0.0.1 xweepogg.jamjahani2026.football → |xweepogg.jamjahani2026.football^
 ✅ HOSTS 转换: 127.0.0.1 yfzhr93v.parsbet90.com → |yfzhr93v.parsbet90.com^
+✅ HOSTS 转换: 127.0.0.1 yggwvgi.ramzfile.com → |yggwvgi.ramzfile.com^
 ✅ HOSTS 转换: 127.0.0.1 yhsgyl.pishbinisite.com → |yhsgyl.pishbinisite.com^
 ✅ HOSTS 转换: 127.0.0.1 yhtdzkc.akhlagheslami.xyz → |yhtdzkc.akhlagheslami.xyz^
 ✅ HOSTS 转换: 127.0.0.1 yitqjyww.hugu2gt2ejarat.shop → |yitqjyww.hugu2gt2ejarat.shop^
 ✅ HOSTS 转换: 127.0.0.1 ykjqdm.bankefile.com → |ykjqdm.bankefile.com^
-✅ HOSTS 转换: 127.0.0.1 ylcfeow.penalty.casino → |ylcfeow.penalty.casino^
 ✅ HOSTS 转换: 127.0.0.1 youtransfer.net → |youtransfer.net^
 ✅ HOSTS 转换: 127.0.0.1 yovejfu.amlakshahri.xyz → |yovejfu.amlakshahri.xyz^
-✅ HOSTS 转换: 127.0.0.1 ysqxkgi.mangobetfarsi.com → |ysqxkgi.mangobetfarsi.com^
-✅ HOSTS 转换: 127.0.0.1 z08omixf.mrbet90.com → |z08omixf.mrbet90.com^
+✅ HOSTS 转换: 127.0.0.1 yrchbzyin.ecologyardakani.xyz → |yrchbzyin.ecologyardakani.xyz^
+✅ HOSTS 转换: 127.0.0.1 yvlenqci.rial.bet → |yvlenqci.rial.bet^
+✅ HOSTS 转换: 127.0.0.1 ywnrmpf8.rasmfani.xyz → |ywnrmpf8.rasmfani.xyz^
 ✅ HOSTS 转换: 127.0.0.1 zamilgroups.com → |zamilgroups.com^
 ✅ HOSTS 转换: 127.0.0.1 zenglobalenerji.com → |zenglobalenerji.com^
+✅ HOSTS 转换: 127.0.0.1 zet9r6gg.nahjolbalage.xyz → |zet9r6gg.nahjolbalage.xyz^
 ✅ HOSTS 转换: 127.0.0.1 zhfxkf.bankefile.com → |zhfxkf.bankefile.com^
 ✅ HOSTS 转换: 127.0.0.1 zhigao5191.com → |zhigao5191.com^
+✅ HOSTS 转换: 127.0.0.1 zhrzviveu.downloadquran.xyz → |zhrzviveu.downloadquran.xyz^
 ✅ HOSTS 转换: 127.0.0.1 zihnyunrui.com → |zihnyunrui.com^
-✅ HOSTS 转换: 127.0.0.1 zlbcjre.wrfc8.com → |zlbcjre.wrfc8.com^
+✅ HOSTS 转换: 127.0.0.1 zjtjokj.quranmohagegin.shop → |zjtjokj.quranmohagegin.shop^
+✅ HOSTS 转换: 127.0.0.1 znrax5pn.qurandownload.xyz → |znrax5pn.qurandownload.xyz^
 ✅ HOSTS 转换: 127.0.0.1 zntknawd.hugugtatbigi.xyz → |zntknawd.hugugtatbigi.xyz^
-✅ HOSTS 转换: 127.0.0.1 zonpvb.perfectgame.casino → |zonpvb.perfectgame.casino^
+✅ HOSTS 转换: 127.0.0.1 zo4t1q36.moarefeslami.xyz → |zo4t1q36.moarefeslami.xyz^
 ✅ HOSTS 转换: 127.0.0.1 zycdjz.com → |zycdjz.com^
+✅ HOSTS 转换: 127.0.0.1 zyuhgbux.hugugtejarat4.xyz → |zyuhgbux.hugugtejarat4.xyz^
 ✅ HOSTS 转换: 127.0.0.1 0ce3c-1fd43.api.pushwoosh.com → |0ce3c-1fd43.api.pushwoosh.com^
 ✅ HOSTS 转换: 127.0.0.1 100016075.collect.igodigital.com → |100016075.collect.igodigital.com^
 ✅ HOSTS 转换: 127.0.0.1 10870841.collect.igodigital.com → |10870841.collect.igodigital.com^
@@ -166394,15 +166404,15 @@
 🚫 去掉注释行: ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 🚫 去掉注释行: ! Homepage: https://github.com/217heidai/adblockfilters
 🚫 去掉注释行: ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-🚫 去掉注释行: ! Version: 20260612012252
-🚫 去掉注释行: ! Last modified: 2026/06/12 01:22:52
-🚫 去掉注释行: ! Blocked domains: 4893
+🚫 去掉注释行: ! Version: 20260612091523
+🚫 去掉注释行: ! Last modified: 2026/06/12 09:15:23
+🚫 去掉注释行: ! Blocked domains: 4876
 🚫 去掉注释行: ! unBlocked domains: 16
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: J/VsJ57CU6xqcCfXOOrLKg
-🚫 去掉注释行: ! Version: 202606110525
+🚫 去掉注释行: ! Checksum: bnoLD3nvyiS5bfLrO+wH4A
+🚫 去掉注释行: ! Version: 202606120325
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-06-11 05:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-06-12 03:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -204273,7 +204283,7 @@
     → |scite.ai##div[class^="CookieNoti"]
 🚫 去掉注释行: !! CookiesNoti
 🚫 去掉注释行: !! .cookie-notice
-✅ 多域名拆分: 21group.at,acidcow.com,allangray.co.za,almayadeen.net,amaze.org,artdentis.com,autosolar.co,autosolar.pe,backaldrin.com,bankofengland.co.uk,bestlawyers.com,binary.transparency.dev,breadandbutter.ru,camgo.com,candaceowens.com,castlefineart.com,cls-computer.de,dio-center.info,direct2u.co.uk,drgerard.eu,ecosia.org,estately.com,freevpnplanet.com,greenhouseseeds.nl,greenpeace.org,gvtc.com,harveynichols.com,iamcook.ru,ifo.de,iihf.com,isubqo.com,jetset-hairextensions.nl,kappahl.com,lehigh.edu,lightspeed.com,mageba-group.com,manpower.com.ar,manpowergroup.com.ar,mashable.com,monnik-dranken.nl,motocard.com,nbtc.go.th,nc-planica.si,ncfu.ru,news.sportbox.ru,oakville.ca,onlinedrugtraining.com,outfit7.com,pagetiger.com,podomatic.com,portfoliobox.com,pryor.com,psychiatryonline.org,rex-royal.ch,schweizermonat.ch,scotworkusa.com,security.mozwik.com,spartanien.de,ucbi.com,viboom.com,vidal.ru,vixx.nl,wine-searcher.com,xtreme.pt,zonstudio.nl##.cookie-notice
+✅ 多域名拆分: 21group.at,acidcow.com,allangray.co.za,almayadeen.net,amaze.org,artdentis.com,autosolar.co,autosolar.pe,backaldrin.com,bankofengland.co.uk,bestlawyers.com,binary.transparency.dev,breadandbutter.ru,camgo.com,candaceowens.com,castlefineart.com,cls-computer.de,dio-center.info,direct2u.co.uk,drgerard.eu,ecosia.org,estately.com,freevpnplanet.com,greenhouseseeds.nl,greenpeace.org,gvtc.com,harveynichols.com,iamcook.ru,ifo.de,iihf.com,isubqo.com,jetset-hairextensions.nl,kappahl.com,lehigh.edu,lightspeed.com,mageba-group.com,manpower.com.ar,manpowergroup.com.ar,mashable.com,monnik-dranken.nl,motocard.com,nbtc.go.th,nc-planica.si,ncfu.ru,news.sportbox.ru,oakville.ca,onlinedrugtraining.com,outfit7.com,pagetiger.com,podomatic.com,portfoliobox.com,pryor.com,psychiatryonline.org,rex-royal.ch,schweizermonat.ch,scotworkusa.com,security.mozwik.com,spartanien.de,toolbox.googleapps.com,ucbi.com,viboom.com,vidal.ru,vixx.nl,wine-searcher.com,xtreme.pt,zonstudio.nl##.cookie-notice
     → |21group.at##.cookie-notice
     → |acidcow.com##.cookie-notice
     → |allangray.co.za##.cookie-notice
@@ -204332,6 +204342,7 @@
     → |scotworkusa.com##.cookie-notice
     → |security.mozwik.com##.cookie-notice
     → |spartanien.de##.cookie-notice
+    → |toolbox.googleapps.com##.cookie-notice
     → |ucbi.com##.cookie-notice
     → |viboom.com##.cookie-notice
     → |vidal.ru##.cookie-notice
@@ -231900,9 +231911,9 @@
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: !---------------------------------Allowlists----------------------------------!
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: NgYKW1Egy/6wRVlMMYPEig
+🚫 去掉注释行: ! Checksum: WWkSy8P2hqm81VrlsXIk4w
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Last modified: 2026-06-11 05:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-06-12 03:00 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
@@ -251975,7 +251986,7 @@
     → |scite.ai##div[class^="CookieNoti"]
 🚫 去掉注释行: !! CookiesNoti
 🚫 去掉注释行: !! .cookie-notice
-✅ 多域名拆分: 21group.at,acidcow.com,allangray.co.za,almayadeen.net,amaze.org,artdentis.com,autosolar.co,autosolar.pe,backaldrin.com,bankofengland.co.uk,bestlawyers.com,binary.transparency.dev,breadandbutter.ru,camgo.com,candaceowens.com,castlefineart.com,cls-computer.de,dio-center.info,direct2u.co.uk,drgerard.eu,ecosia.org,estately.com,freevpnplanet.com,greenhouseseeds.nl,greenpeace.org,gvtc.com,harveynichols.com,iamcook.ru,ifo.de,iihf.com,isubqo.com,jetset-hairextensions.nl,kappahl.com,lehigh.edu,lightspeed.com,mageba-group.com,manpower.com.ar,manpowergroup.com.ar,mashable.com,monnik-dranken.nl,motocard.com,nbtc.go.th,nc-planica.si,ncfu.ru,news.sportbox.ru,oakville.ca,onlinedrugtraining.com,outfit7.com,pagetiger.com,podomatic.com,portfoliobox.com,pryor.com,psychiatryonline.org,rex-royal.ch,schweizermonat.ch,scotworkusa.com,security.mozwik.com,spartanien.de,ucbi.com,viboom.com,vidal.ru,vixx.nl,wine-searcher.com,xtreme.pt,zonstudio.nl##.cookie-notice
+✅ 多域名拆分: 21group.at,acidcow.com,allangray.co.za,almayadeen.net,amaze.org,artdentis.com,autosolar.co,autosolar.pe,backaldrin.com,bankofengland.co.uk,bestlawyers.com,binary.transparency.dev,breadandbutter.ru,camgo.com,candaceowens.com,castlefineart.com,cls-computer.de,dio-center.info,direct2u.co.uk,drgerard.eu,ecosia.org,estately.com,freevpnplanet.com,greenhouseseeds.nl,greenpeace.org,gvtc.com,harveynichols.com,iamcook.ru,ifo.de,iihf.com,isubqo.com,jetset-hairextensions.nl,kappahl.com,lehigh.edu,lightspeed.com,mageba-group.com,manpower.com.ar,manpowergroup.com.ar,mashable.com,monnik-dranken.nl,motocard.com,nbtc.go.th,nc-planica.si,ncfu.ru,news.sportbox.ru,oakville.ca,onlinedrugtraining.com,outfit7.com,pagetiger.com,podomatic.com,portfoliobox.com,pryor.com,psychiatryonline.org,rex-royal.ch,schweizermonat.ch,scotworkusa.com,security.mozwik.com,spartanien.de,toolbox.googleapps.com,ucbi.com,viboom.com,vidal.ru,vixx.nl,wine-searcher.com,xtreme.pt,zonstudio.nl##.cookie-notice
     → |21group.at##.cookie-notice
     → |acidcow.com##.cookie-notice
     → |allangray.co.za##.cookie-notice
@@ -252034,6 +252045,7 @@
     → |scotworkusa.com##.cookie-notice
     → |security.mozwik.com##.cookie-notice
     → |spartanien.de##.cookie-notice
+    → |toolbox.googleapps.com##.cookie-notice
     → |ucbi.com##.cookie-notice
     → |viboom.com##.cookie-notice
     → |vidal.ru##.cookie-notice

@@ -1337,7 +1337,6 @@ coingecko.com###top-announcement-header
 |warcraftlogs.com###top-banner-fallback
 insidethegames.biz###top-story-alert
 tipranks.com###top_ribbon
-twitch.tv###twilight-sticky-footer-root
 theepochtimes.com###uacta-target
 kyivindependent.com###ukraine-daily-side-banner-slot
 w2g.tv###w2g-center-doit
@@ -1810,6 +1809,8 @@ city-journal.org##.m_article-donate
 pravda.com.ua##.m_banner
 thereader.mitpress.mit.edu##.ma-don-cont
 audubon.org##.magazine-info
+ecosia.org##.main-footer-visual__cards
+ecosia.org##.main-header__install-cta
 captimes.com##.main-sidebar-wrap
 investors.com##.market-banner
 |degruyterbrill.com##.marketing-banner
@@ -1861,6 +1862,7 @@ buzzfeednews.com##.newsblock-tips
 skeptoid.com##.noprint > td
 scroll.in##.not-paywall-floating-contribute-block
 infoq.com##.notice
+ecosia.org##.notice-modal
 missionlocal.org##.np-campaign--donation--staff-photo
 backpacker.com##.o-content-cta
 backpacker.com##.o-promo-module
@@ -10646,6 +10648,7 @@ top-for-phone.fr###custom_html-6
 palais-de-la-voiture.com###socialmenu
 mo.be##.NavBar_SocialWrapper__J0Xoh
 lopinion.fr##.Page-actions
+l-eaualabouche.com##.Post-shares
 radiofrance.fr##.ShareManager
 francebleu.fr##.ShareNetwork
 mo.be##.Share_Share__8JkUX
@@ -20400,6 +20403,7 @@ dryg.pl##div[class^="CookiesNoti"]
 |scotworkusa.com##.cookie-notice
 |security.mozwik.com##.cookie-notice
 |spartanien.de##.cookie-notice
+|toolbox.googleapps.com##.cookie-notice
 |ucbi.com##.cookie-notice
 |viboom.com##.cookie-notice
 |vidal.ru##.cookie-notice
@@ -45374,6 +45378,7 @@ hagerty.co.uk##.contact-box--article
 pokcas.com##.contact-wrapper
 |autoblog.com##.container-inline
 |thestreet.com##.container-inline
+substack.com##.container-jsOc9L
 smartertravel.com##.content-newsletter
 tracebit.com##.content31_newsletter
 lapresse.ca##.contentCardWithNewsletterFallback
@@ -47509,6 +47514,7 @@ vancouverisawesome.com##.widget-wysiwyg
 moroccoworldnews.com##.widget__form-subscribe
 decider.com##.widget__newsletter
 justapack.com##.widget_black_studio_tinymce
+missionlocal.org##.widget_block
 |factkeepers.com##.widget_bloomwidget
 |tennesseestar.com##.widget_bloomwidget
 themarginalian.org##.widget_brainpickings_newsletter_midweek_vertical_widget
@@ -48007,6 +48013,7 @@ stuff.co.nz#?#.restricted-body.html-content:has-text(your inbox)
 systemsapproach.org#?#.wp-block-column > .is-layout-flow.wp-block-group:has-text(Subscribe)
 taskandpurpose.com#?#.wp-block-quote:has-text(inbox daily)
 texastribune.org#?#p.t-links-underlinedy:has-text(Sign up for The Brief)
+the-decoder.com#?#.not-prose.rounded-lg:has-text(Subscribe now)
 the-decoder.com#?#.shadow-\[0_8px_20px_rgba\(0\,0\,0\,0\.05\)\]:has-text(Stay in the loop)
 theatlantic.com#?#.LostInventoryMessage_root__YllYq:has-text(newsletter)
 theatlantic.com#?#p.ArticleParagraph_root__4mszW > small:has-text(Sign up)
