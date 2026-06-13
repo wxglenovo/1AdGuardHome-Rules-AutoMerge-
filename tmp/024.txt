@@ -6281,7 +6281,8 @@ experianidentityservice.co.uk###ensBannerBG
 |sozcu.com.tr##.cookie-message
 |studiosamsterdam.nl##.cookie-message
 |woonbotenamsterdam.com##.cookie-message
-autocango.com##.cookie-accept
+|autocango.com##.cookie-accept
+|el-polis.ru##.cookie-accept
 |creamher.com###cookie-popup
 |dorotheum.com###cookie-popup
 |inform-ua.info###cookie-popup
@@ -9667,6 +9668,7 @@ decovarrubias.es###sliding-popup-cookies
 |inforegister.ee##.cookie-consent
 |informatesalta.com.ar##.cookie-consent
 |inleed.se##.cookie-consent
+|inner.su##.cookie-consent
 |instant.audio##.cookie-consent
 |internetradiouk.com##.cookie-consent
 |israelnationalnews.com##.cookie-consent
@@ -18222,6 +18224,7 @@ fastvps.ru##app-cookies-accept
 |myschool.mos.ru##body > div[style^="position: fixed; overflow: visible; top: 0px; left: 0px; transform: translate("]
 |school.mos.ru##body > div[style^="position: fixed; overflow: visible; top: 0px; left: 0px; transform: translate("]
 |uchebnik.mos.ru##body > div[style^="position: fixed; overflow: visible; top: 0px; left: 0px; transform: translate("]
+avtocod.ru##cookie-accept-terms
 vmeste.mosreg.ru##dd-cookie-accept-banner
 sostav.ru##div:has(> p>a[href$="/page/policy"])
 rabota.sber.ru##div[class*="styled__CookieWrapper-"]
@@ -20480,6 +20483,7 @@ yoigo.com#@#thor-cookies
 @@||portal.energie-graz.at/kundenportal/js/lib/cookieconsent.js$~third-party
 @@||portal.taxi.eu/assets/$~third-party
 @@||privacypolicies.com/public/uploads/$image,~third-party
+@@||privacyportal-uk-cdn.onetrust.com^$domain=huel.com
 @@||product.minebeamitsumi.com/assets/scripts/modules/cookieBanner.js$~third-party
 @@||purpleair.com/js/gdpr-cookie-consent-popup-plugin/$~third-party
 @@||quantcast.mgr.consensu.org/cmp.js$script,domain=cyclingnews.com|express.co.uk|independent.co.uk|ladbible.com
