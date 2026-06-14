@@ -2277,6 +2277,8 @@ news18.com###nextbtnwrap
 thecourier.com###previousStoryTitle
 inquirer.net###read-next-2018
 crossroadstoday.com###slidepanel
+|gamesradar.com###sticky-nav--floating
+|tomsguide.com###sticky-nav--floating
 dailymail.co.uk###swipeIndicator
 adweek.com###swnexttrigger
 adweek.com###swprevtrigger
@@ -5289,7 +5291,9 @@ hexus.net###topicons
 |thetvaddict.com###twitter
 |pcgamer.com###utility-bar
 |tomshardware.com###utility-bar
-windowscentral.com###utilitybar__button--share
+|gamesradar.com###utilitybar__button--share
+|tomsguide.com###utilitybar__button--share
+|windowscentral.com###utilitybar__button--share
 videocardz.com###vc-index-google-follow
 mansionglobal.com###webui-save-and-share
 videocardz.com###welcome-modal
@@ -7520,6 +7524,7 @@ application-remuneratrice.com##.zd-social
 nypost.com##.zephrModal
 zmescience.com##.zme-google-follow-banners
 wdwmagic.com##.zocial
+securityweek.com##.zox-foot-soc
 securityweek.com##.zox-post-soc-list
 retbit.com##.zox-post-soc-scroll-out
 retbit.com##.zox-post-soc-stat
@@ -18038,6 +18043,7 @@ wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotifi
 |nobliecustomknives.com##.cookie-popup
 |postdicom.com##.cookie-popup
 |rsna.org##.cookie-popup
+|rzn.info##.cookie-popup
 |superrichthailand.com##.cookie-popup
 |supersport.hr##.cookie-popup
 |taxsummaries.pwc.com##.cookie-popup
@@ -25818,6 +25824,7 @@ boyden.com###site-terms
 |grillofrance.fr###cookie
 |gulfstream.com###cookie
 |hannoversche-kassen.de###cookie
+|hannspree.com###cookie
 |hartleyfowler.com###cookie
 |haushalts-robotic.de###cookie
 |hdmecze.com###cookie
@@ -44707,6 +44714,7 @@ bitcoinmagazine.com###tpbr_topbar
 masteringemacs.org###try-book
 autodesk.com###uf-cta-beside
 ultimate-guitar.com###ug-article-email-subscribe
+tomsguide.com###utilitybar__button--newsletter
 semafor.com###vertical-signup-form
 ozbargain.com.au###visitor-notice
 matomo.org###wbounce-modal
@@ -47109,7 +47117,8 @@ newsnationnow.com##.site-header__signup
 medcitynews.com##.site-top-bar
 cookiesfordays.com##.site-top-footer-wrap
 abplive.com##.skl-widget
-tomsguide.com##.slice-container-newsletterForm
+|gamesradar.com##.slice-container-newsletterForm
+|tomsguide.com##.slice-container-newsletterForm
 |cookiesfordays.com##.slick-on-page
 |cookthestory.com##.slick-on-page
 |downshiftology.com##.slick-on-page
@@ -47575,7 +47584,8 @@ interiordesign.net##.wp-block-id-newsletter
 prismreports.org##.wp-block-jetpack-mailchimp
 |eletric-vehicles.com##.wp-block-jetpack-subscriptions
 |snackstack.net##.wp-block-jetpack-subscriptions
-nikomc.com##.wp-block-jetpack-subscriptions__container
+|nikomc.com##.wp-block-jetpack-subscriptions__container
+|wolfsgamingblog.com##.wp-block-jetpack-subscriptions__container
 retailwire.com##.wp-block-kadence-conversions-conversion
 freshoffthegrid.com##.wp-block-kadence-rowlayout
 kbb.com##.wp-block-kbb-email-subscription-form
