@@ -860,6 +860,8 @@ newduba.cn###jq_youxi
 ||sxq9xn7t3.com^
 ||qls7v6jd3.com^
 ||1k2uh20wr.com^
+||redtvxjmgjbtlw.com^
+||division43.top^
 ||subtraction59.com^
 ||1u6hvoykk3.com^
 ||7q2701vx8e.com^
@@ -6171,7 +6173,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 ://*btbtt.*/view/image/QT_
 ://dmhy.gate.*/*.*?$image
 ://dmhy.org^*.*?$image
-://www.*.js|$script,third-party,domain=159i.com|r3sub.com|thisav.com
+://www.*.js|$script,third-party,domain=159i.com|thisav.com
 hxsame.hexun.com$domain=~quote.hexun.com
 |http://*/ad_bj.js?
 ||*.$image,rewrite=abp-resource:1x1-transparent-gif,third-party,domain=rmdown.com
@@ -9479,9 +9481,6 @@ meijutt.*/js/pcjs/
 ||qy1.ru/data/game/
 ||qyun.vip/pic/*.gif
 ||qzone.la/Scripts/m.js
-||r3sub.com/images/ccc/
-||r3sub.com/posters/0069810.jpg
-||r3sub.com^*0.gif
 ||radikal.ru^$domain=18board.com|18p2p.com
 ||rainpat.com/Content/1360x55/
 ||rainpat.com/Scripts/jquery.SuperSlide.
@@ -10470,6 +10469,7 @@ meijutt.*/js/pcjs/
 ||exmoo.com/js/ad-position/
 ||nbpicture.xyz^$domain=ltd.ua
 ||tcptest.cn/prod-api/web/adLinks/
+||r3sub.com/nb/
 huaren.live##.pause-love
 69tang.org##a[id^="imgs_link"]
 techritual.com##.th-single-ad
@@ -12713,7 +12713,6 @@ bilibili.com##.activity-slider[style="width: 1220px;"]
 |pptv.com##.ad
 |ptbus.com##.ad
 |qncye.com##.ad
-|r3sub.com##.ad
 |sogou.com##.ad
 |sozi.cn##.ad
 |toolfk.com##.ad
@@ -16540,7 +16539,6 @@ kanqiuba.net##a[href*="bet"]
 |141jj.com##a[href*="bit.ly"]
 |jumi.su##a[href*="bit.ly"]
 |preface.ai##a[href*="bit.ly"]
-|r3sub.com##a[href*="bit.ly"]
 6park.com##a[href*="bpropolis."]
 dapenti.com##a[href*="cashier.iqiyi.com"]
 |editcode.net##a[href*="cloud.tencent.com"]
@@ -16880,7 +16878,6 @@ yiche.com##div[class*="words-ad"]
 ifeng.com##div[class="adbox02"]
 5119.cn##div[class="downDz"]
 ithome.com.tw##div[class="span4"]
-r3sub.com##div[class] > a[href^="show.php?id="]
 |bdimg.com##div[class][lgoinprompt="prompt"]
 |tieba.baidu.com##div[class][lgoinprompt="prompt"]
 |tieba.com##div[class][lgoinprompt="prompt"]
@@ -17476,7 +17473,6 @@ zk001.cc##section[class^="ch"]
 sogou.com#?#div[class^="right-feedback"]:-abp-has(>.list-step-title:-abp-contains(网游))
 |~cbachina.sports.sohu.com##sohuadcode
 |sohu.com##sohuadcode
-r3sub.com##source + img
 32r.com##span + p + div > dt
 423down.com##span > a > b
 bbs.my0511.com##span.smalltxt
@@ -18345,7 +18341,6 @@ tt1069.com#@##ad-slot
 @@||qq.com^*?ADTAG=
 @@||qspfw.com/r/cms/www/qspfw/common/img/ad_
 @@||quanzhi.cn/v3/images/index_ad/
-@@||r3sub.com^$generichide
 @@||raenonx.cc^$generichide
 @@||redguide.top^*/ad.css?$stylesheet
 @@||redian.news^$generichide
