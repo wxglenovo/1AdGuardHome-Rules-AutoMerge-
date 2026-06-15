@@ -3721,7 +3721,6 @@ iltempo.it##.articoli_correlati
 |agendadigitale.eu##.bottom-bar__up
 |corrierecomunicazioni.it##.bottom-bar__up
 |economyup.it##.bottom-bar__up
-guardaserie.watch##.bottom-button-top
 engage.it##.box-engage-mag
 beverfood.com##.box-iscrizione
 infobuildenergia.it##.box_dem
@@ -3915,7 +3914,6 @@ auction.co.kr###btnSkipTop
 atlantaradiokorea.com###top_up
 radioseoul1650.com##.nav_top
 etnews.com##.sns_btn
-||kodcad.kr^$third-party
 gosc.pl###l-overlay
 polska-ie.com##.arrow_carrot-2up
 mpolska24.pl##.infoBox
@@ -4260,7 +4258,7 @@ laist.com##html:style(position: static !important; overflow: auto !important; wi
 usni.org###articleCookieModal
 usni.org##+js(remove-cookie, STYXKEY_nh_count)
 usni.org##+js(remove-cookie, STYXKEY_pro_count)
-deliveroo.ie#?#.ReactModalPortal > .ccl-5300654a18fccc61:has(p:has-text(Sign up to Deliveroo Plus Gold))
+deliveroo.ie#?#.ReactModalPortal > .ccl-5300654a18fccc61:has(div:has-text(Deliveroo Plus T&Cs))
 deliveroo.ie##html:style(overflow:auto !important;)
 accuradio.com##.ReactModal__Overlay--after-open.ReactModal__Overlay
 |10tv.com##+js(aeld, /^(mouseout|mouseleave)$/)
@@ -5426,6 +5424,7 @@ worldathletics.org##.SocialShare_root__3h83X
 aleteia.org##.Socials_social_links__T3MJv
 sfstandard.com##.StickySharer_list__Lirqs
 indiatoday.in##.Story_whatsapp_channel__6xdtB
+iranintl.com##.URLShareDialog-module-scss-module__vBXZPq__share
 gulfnews.com##.Ub-Cr
 toptal.com##._1oxEOBHC
 grammarly.com##._3fq8S-container
@@ -6011,8 +6010,7 @@ watchers.news##.follow-us-button
 |azscore.com##.follow-us-container-footer
 financialexpress.com##.follow-us-on
 hardwaretimes.com##.follow-us-post-section
-|metroworldnews.com.br##.follow-us-wrap
-|publimetro.com.mx##.follow-us-wrap
+publimetro.com.mx##.follow-us-wrap
 sciencenews.org##.follow-us__background___WNsfy
 vt.edu##.follow-virginia-tech-icons
 americansongwriter.com##.follow-widget
@@ -7217,7 +7215,6 @@ payloadspace.com##.socials-block
 arabnews.com##.socials-btns
 overclock3d.net##.socials-container
 spillsomebeans.com##.socials-counter
-9anime.se##.socials-group
 phys.org##.socials-wrapper
 blog.resy.com##.socials2
 thehealthsite.com##.socialsIconBlackWhite
@@ -8003,7 +8000,6 @@ miruro.*##section[class^="_noticeSection_"]
 |abc7news.com##.social
 |abc7ny.com##.social
 |abola.pt##.social
-|acrosstheline.press##.social
 |adsoftheworld.com##.social
 |affaritaliani.it##.social
 |agrositio.com.ar##.social
@@ -8101,7 +8097,6 @@ miruro.*##section[class^="_noticeSection_"]
 |courrierinternational.com##.social
 |creditosportivo.it##.social
 |crn.com.au##.social
-|cropmarketchronicles.cc##.social
 |crossmap.com##.social
 |crowdstrike.com##.social
 |dagospia.com##.social
@@ -8115,7 +8110,6 @@ miruro.*##section[class^="_noticeSection_"]
 |deepsilver.com##.social
 |democracynow.org##.social
 |dequo.it##.social
-|derbayerischelowe.info##.social
 |derbyderbyderby.it##.social
 |dererker.it##.social
 |derglaube.online##.social
@@ -8274,7 +8268,6 @@ miruro.*##section[class^="_noticeSection_"]
 |legacoop.coop##.social
 |lematin.ma##.social
 |lemondeinformatique.fr##.social
-|lesfrontieres.media##.social
 |lesifflet.cc##.social
 |lethbridgeherald.com##.social
 |liberoquotidiano.it##.social
@@ -8304,14 +8297,12 @@ miruro.*##section[class^="_noticeSection_"]
 |mikronis.hr##.social
 |milanofinanza.it##.social
 |mk.ru##.social
-|mobileapk.info##.social
 |mobilenews.jp##.social
 |monacomatin.mc##.social
 |mondaymag.com##.social
 |mondoudinese.it##.social
 |monovolume.cc##.social
 |monthlyreview.org##.social
-|moscowtimes.ru##.social
 |moto.it##.social
 |motonline.com.br##.social
 |motorionline.com##.social
@@ -8454,7 +8445,6 @@ miruro.*##section[class^="_noticeSection_"]
 |stardock.com##.social
 |startpage.com##.social
 |startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion##.social
-|streamkiste.tv##.social
 |sucuri.net##.social
 |sudouest.fr##.social
 |supermacs.ie##.social
@@ -8842,7 +8832,6 @@ miruro.*##section[class^="_noticeSection_"]
 |planetware.com##.share
 |portaldotransito.com.br##.share
 |portalinsights.com.br##.share
-|portugueselegal.com.br##.share
 |qz.com##.share
 |radiopanamericana.com##.share
 |radiotirol.it##.share
@@ -9029,7 +9018,6 @@ miruro.*##section[class^="_noticeSection_"]
 |einbecker-morgenpost.de##.socials
 |fastweb.it##.socials
 |forward.com##.socials
-|grunehummel.com##.socials
 |hellwegradio.de##.socials
 |hirtv.hu##.socials
 |hot.co.uk##.socials
@@ -9561,7 +9549,6 @@ miruro.*##section[class^="_noticeSection_"]
 |z1073.com##.social-share
 |z94.com##.social-share
 |zoey1039.com##.social-share
-|zonatmo.com##.social-share
 |bulawayo24.com##.shares
 |cnr.cn##.shares
 |foodbeast.com##.shares
@@ -10330,7 +10317,7 @@ hindustantimes.com##.ln
 |wmmq.com##.social-links
 |wnaw.com##.social-links
 |wnbf.com##.social-links
-|wobm.comm##.social-links
+|wobm.com##.social-links
 |wokq.com##.social-links
 |womiowensboro.com##.social-links
 |wour.com##.social-links
@@ -10587,7 +10574,6 @@ domradio.de##.page-tools
 haustec.de##.paragraph--type--social-links
 basic-tutorials.de##.post-followus-btn
 hansa-online.de##.printfriendly
-streamkiste.tv##.sb
 teltarif.de##.sbm
 orf.at##.share-dialog
 berliner-zeitung.de##.share-panel_wrapper__3tHN9
@@ -11309,14 +11295,12 @@ metro1.com.br##.Layout__WhatsappButton-xs74wc-0
 cartacapital.com.br##.a-author__socials
 agazeta.com.br##.ag-mobile-social-widget
 iclnoticias.com.br##.alerts-call
-betteranime.net##.anime-down-share
 dnoticias.pt##.article--aside_share
 sicnoticias.pt##.article-tools-container
 expresso.pt##.articleShareToolsContainer
 brasil247.com##.article__notif
 maquinadoesporte.com.br##.ast-footer-social-wrap
 maquinadoesporte.com.br##.ast-post-social-sharing
-metroworldnews.com.br##.b-footer__social-links-container
 uai.com.br##.bar-redes-sociais
 jornaldocomercio.com##.barra-acoes-container
 maisfutebol.iol.pt##.barrawhatsappDesktop
@@ -11339,8 +11323,6 @@ estadao.com.br##.button-share-icon
 folha.uol.com.br##.c-follow-social-media
 b9.com.br##.c-social-midias
 gazetadopovo.com.br##.c-social-networks
-slatual.com.br##.call_google_news
-slatual.com.br##.call_groups
 apoia.se##.campaign-metrics-card__share
 portalperifacon.com##.canais-s
 aventurasnahistoria.uol.com.br##.col.text-center.py-3
@@ -11388,7 +11370,6 @@ noticiasaominuto.com##.footer-info-social
 atoananet.com.br##.footer-redes-sociais
 vermelho.org.br##.footer-social-menu
 brasil247.com##.footer__social
-slatual.com.br##.footer_social_itens
 exame.com##.gGWTmb
 correiodoestado.com.br##.gNewsFollow
 folha.uol.com.br##.gallery-widget-carousel__info-share
@@ -11434,15 +11415,12 @@ jcconcursos.com.br##.pl-1
 oantagonista.com.br##.post-interna__content__compartilhamento
 mercadowebminas.com.br##.post-sharing-menu
 cbntotal.com.br##.post__content__share
-slatual.com.br##.post_social_facebook
 fecatolica.com.br##.redes-sociais-footer
 ebc.com.br##.redes-sociais-header
 opoder.com.br##.redes-sociais-rodape
 fecatolica.com.br##.redes-sociais-topo
 portaldozacarias.com.br##.redes-socias-noticia
 sampi.net.br##.redesSociais
-mundodomanolo.com.br##.redes_rodape
-mundodomanolo.com.br##.redes_sociais
 rtp.pt##.rmp-sharing
 defatoonline.com.br##.row_gn
 operamundi.uol.com.br##.s-whatsapp
@@ -11459,7 +11437,6 @@ correiodoestado.com.br##.share-noticia
 oantagonista.com.br##.share-posts
 sicnoticias.pt##.share-toggle-wrapper
 jornaldenegocios.pt##.shareModal
-slatual.com.br##.share_post_head_item_two
 acordacidade.com.br##.shared
 trabalhabrasil.com.br##.sharedVacancy
 pleno.news##.siga-redes
@@ -11488,7 +11465,6 @@ bnews.com.br##.social-wrap
 redebrasilatual.com.br##.social-wrapper
 cnnbrasil.com.br##.social__footer
 rollingstone.com.br##.social_content_article
-slatual.com.br##.social_icons_menu
 tvi.iol.pt##.social_media_links
 record.pt##.social_stick
 meiobit.com##.socialfloating
@@ -11607,7 +11583,6 @@ europapress.es###subnavegacionFixed
 acento.com.do###verticalShare
 |bluradio.com##.ArticlePage-google-news
 |caracoltv.com##.ArticlePage-google-news
-deportv.gov.ar##.BarraRedesNot
 elespectador.com##.Button_googleAlert
 elespectador.com##.Button_whatsapp
 caracoltv.com##.GoogleNewsProvider
@@ -11919,7 +11894,6 @@ as.com##.sh-bar
 |inlitoral.info##.share-amp
 |inneuquen.info##.share-amp
 |inpatagonia.info##.share-amp
-|inrosario.info##.share-amp
 |insalta.info##.share-amp
 |insanjuan.info##.share-amp
 |insantiagodelestero.info##.share-amp
@@ -48724,7 +48698,6 @@ idealista.pt##.newsletter-subscription-form
 |denofgeek.com##.newsletter
 |diepresse.com##.newsletter
 |digiday.com##.newsletter
-|digitaleterrestrefacile.it##.newsletter
 |dissipatio.it##.newsletter
 |dn.pt##.newsletter
 |dojacat.com##.newsletter
@@ -52390,8 +52363,7 @@ jornaldenegocios.pt##.notificacao
 |elconsolto.com##.notification
 |masrawy.com##.notification
 cmmedia.es##.notification-modal
-|metroworldnews.com.br##.notification-subs
-|publimetro.cl##.notification-subs
+publimetro.cl##.notification-subs
 almanar.com.lb##.notification-wrap
 relax-job.com##.p-top-app-appeal
 mail.ru##.ph-balloo
