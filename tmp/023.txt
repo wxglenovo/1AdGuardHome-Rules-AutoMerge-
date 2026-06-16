@@ -14344,6 +14344,7 @@ nanotalegame.com###gdpr-consent-form
 |clustrmaps.com###gdpr-cookie-message
 |cobau.com.br###gdpr-cookie-message
 |croatiaexcursions.com###gdpr-cookie-message
+|e1series.com###gdpr-cookie-message
 |estrelladecastilla.es###gdpr-cookie-message
 |gofoexpress.com###gdpr-cookie-message
 |jsi-airport.gr###gdpr-cookie-message
@@ -14648,6 +14649,7 @@ fxstreet.com###prestitial-handle
 |prevac.eu###privacy
 |tesda.gov.ph###privacy
 |vindy.com###privacy
+abt.com###privacy-act-overlay
 worldjournal.com###privacy-agreement
 business-humanrights.org###privacy-choices
 monitor.civicus.org###privacy-choices-banner
@@ -27176,6 +27178,9 @@ feierstoff.de##+js(set-cookie, Hotjar, false)
 |epenta.sk##+js(set-cookie, I6IISCOOKIECONSENT0, n, , reload, 1)
 |penta.cz##+js(set-cookie, I6IISCOOKIECONSENT0, n, , reload, 1)
 |suntech.cz##+js(set-cookie, I6IISCOOKIECONSENT0, n, , reload, 1)
+ibkrcampus.com##+js(set-cookie, IBKRcampus_functional_optIn, true, , reload, 1)
+ibkrcampus.com##+js(set-cookie, IBKRcampus_gdpr_optOut, true)
+ibkrcampus.com##+js(set-cookie, IBKRcampus_mkting_optOut, true)
 ing.it##+js(set-cookie, ING_GPP, 0)
 ing.it##+js(set-cookie, ING_GPT, 0)
 de-appletradein.likewize.com##+js(set-cookie, IsCookieAccepted, yes, , reload, 1)
@@ -36275,6 +36280,7 @@ reddit.com##body:style(overflow: auto !important;)
 scan.co.uk##.s-theme
 scan.co.uk##body,html:style(overflow: auto !important; position: initial !important;)
 clasohlson.com##+js(set-cookie, cookie-notification, ACCEPTED)
+vanlifecampers.com##+js(remove-class, body, cmplz-banner-active)
 |konsument.at##+js(set-cookie, vkicookieconsent, 0)
 |verbraucherrecht.at##+js(set-cookie, vkicookieconsent, 0)
 |vki.at##+js(set-cookie, vkicookieconsent, 0)
