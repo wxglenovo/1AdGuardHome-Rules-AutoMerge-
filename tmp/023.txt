@@ -13838,6 +13838,7 @@ heli-one.com###alertmessagewrp
 |sol.no###am-branding
 auroramap.org###am-cookie-banner
 mightywatches.com###am-cookie-bar
+amcharts.com###amcharts-utils-consent
 adcoffee.io###analytics-id
 buckle.com###analytics-prompt
 ao.com###aoMessageHolder
@@ -14886,6 +14887,7 @@ funnyordie.com###wpautoterms-bottom-fixed-container
 f1forgottendrivers.com###wpcg-box
 |acoup.blog###wpconsent-root
 |candidcyber.com###wpconsent-root
+|sciencebasedmedicine.org###wpconsent-root
 wpx.net###wpx-cookie-agreement
 here.com###wrapper
 groners.com###wrapper_cookiebanner
@@ -17209,7 +17211,8 @@ chatreplay.stream##.svelte-dx0l3i
 revanced.app##.svelte-fnvau2
 haier.com##.swiper-slide-img-txt
 taschen.com##.switch-prompt
-us.davines.com##.syrenis-cookie-widget
+|bp.com##.syrenis-cookie-widget
+|us.davines.com##.syrenis-cookie-widget
 |amplitude-studios.com##.system-notification-container
 |games2gether.com##.system-notification-container
 termly.io##.t-consentPrompt
@@ -17461,6 +17464,7 @@ own4less.co.uk##[aria-live="polite"]
 porsche.com##[ccpa="true"]
 websummit.com##[class*="CivicCookie__"]
 picarto.tv##[class*="CookieCompliance_"]
+reelshort.com##[class*="CookiesModal_container"]
 plente.com##[class*="SnackbarMessages__snackbar_"]
 noovo.ca##[class*="modalstyles__StyledModalContainer-"]
 weedmaps.com##[class*="styles__BannerContainer-"]
@@ -17529,6 +17533,7 @@ trello.com##[data-testid="cookies-consent-banner"]
 |opencollective.com##[data-testid="cookies-dialog"]
 airhelp.com##[data-testid="cookiesNotice"]
 hims.com##[data-testid="cpra-popup"]
+huronconsultinggroup.com##[data-testid="hcg-cookie-banner"]
 member.uhc.com##[data-testid="prelogin-footer-notice"]
 data.nasdaq.com##[data-testid="privacy-banner"]
 teneo-protocol.ai##[fs-cc="banner"]
@@ -18012,6 +18017,7 @@ wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotifi
 |campfimfo.com##.cookie-popup
 |championat.ru##.cookie-popup
 |cigars-shops.ru##.cookie-popup
+|datewithromance.com##.cookie-popup
 |evraz.com##.cookie-popup
 |ewines.co.il##.cookie-popup
 |goalhanger.shop##.cookie-popup
@@ -23309,6 +23315,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |herning.dk##.cookie-banner
 |holidayworld.com##.cookie-banner
 |hsbc.com.sg##.cookie-banner
+|immigration.govt.nz##.cookie-banner
 |isciii.es##.cookie-banner
 |jolyn.com##.cookie-banner
 |kathorusmail.co.za##.cookie-banner
@@ -38327,6 +38334,7 @@ ibadual.com##.modalcomplete
 myeducation.de##.modals-overlay
 phoenix-media.eu##.modals-wrapper
 creatiefschrijven.be##.modalwrapper
+publicjobs.ch##.molecule-cookie-banner
 krs-recht.de##.mpp-is-open
 tecedo.at##.msg-banner
 kraehe.de##.nav-cookie
@@ -47741,6 +47749,7 @@ thurrott.com##[data-thurrott-layout-section-footer-section="newsletter"]
 thurrott.com##[data-thurrott-section="inline-form"]
 ft.com##[data-trackable="story:related-promo"]
 townandcountrymag.com##[data-vars-block-type="Newsletter"]
+talkiatry.com##[data-wf--footer-signup-banner--variant]
 torontosun.com##[data-widget="newsletter"]
 oann.com##[href="/alerts"]
 tfn.scot##[href="/bulletin"]
