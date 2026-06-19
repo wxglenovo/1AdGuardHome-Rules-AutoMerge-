@@ -2526,6 +2526,7 @@ dailymail.co.uk##.swipe-tutorial
 |itmunch.com##.td-more-articles-box
 |politik.co.nz##.td-more-articles-box
 |theaustraliatoday.com.au##.td-more-articles-box
+dexerto.com##.text-neutral-black.bg-primary-accent
 gsmarena.com##.toast-container
 twistedvoxel.com##.tt-shortcode-1
 yourstory.com##.unique-progress
@@ -15340,6 +15341,7 @@ seikowatches.com##.blk-Disclaimer
 tnvacation.com##.block-cookie-acceptance-block
 |aepd.es##.block-cookies
 |carlemuseum.org##.block-cookies
+|eandt.theiet.org##.block-cookies
 |sipri.org##.block-cookies
 |unimi.it##.block-cookies
 french-weekendbreaks.co.uk##.block-fs-cookie
@@ -28614,7 +28616,7 @@ gasometer.de##+js(set-cookie, cookie_consent_external-media, true)
 |wst.tv##+js(set-cookie, cookie_consent_given, true)
 opera.com##+js(set-cookie, cookie_consent_granted, true)
 armedangels.com##+js(set-cookie, cookie_consent_group_technical, 1)
-uva.nl##+js(set-cookie, cookie_consent_level, 1)
+www.uva.nl##+js(set-cookie, cookie_consent_level, 1)
 opera.com##+js(set-cookie, cookie_consent_marketing, false)
 kitepackaging.co.uk##+js(set-cookie, cookie_consent_options, 3)
 regenwald-schuetzen.org##+js(set-cookie, cookie_consent_required, accepted, , reload, 1)
@@ -47929,6 +47931,7 @@ demstate.com#?#.p-6.border-gray-200:has-text(Stay Informed)
 denodell.com#?#.p-4.dark\:bg-gray-900:has-text(More from Den)
 dexerto.com#?#.lg\:grid-cols-\[445px_1fr\].gap-y-10 > div:has-text(Sign up to Dexerto)
 dexerto.com#?#.mb-16:has-text(Sign up)
+dfdxlabs.com#?#.border-paper-divider.not-prose:has-text(Get new research updates)
 digitalhealth.net#?#.e-con-inner:has-text(Subscribe)
 dlnews.com#?#.bottom-0.fixed:has-text(weekly newsletters)
 dlnews.com#?#.lg\:p-\[16px\]:has-text(newsletters)
