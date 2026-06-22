@@ -6337,7 +6337,9 @@ insideevs.com##.isBottomShare
 |teslanorth.com##.item--share
 flyercity.ca##.item_share_area
 theenergymix.com##.jeg_custom_share_wrapper
-thelondoneconomic.com##.jeg_share_top_container
+psypost.org##.jeg_share_bottom_container
+|psypost.org##.jeg_share_top_container
+|thelondoneconomic.com##.jeg_share_top_container
 news.abplive.com##.join-channels-wrap
 business2community.com##.join-tg
 businessday.ng##.join-whatsapp
@@ -6606,6 +6608,7 @@ pravda.com.ua##.post_social_item
 koi.ai##.post_sticky-social
 pravda.com.ua##.post_text > blockquote
 ipolitics.ca##.postshare
+psypost.org##.pp-follow-card
 tweaktown.com##.pr-p7.fsvgs
 atlantablackstar.com##.pre-footer
 lifestyleasia.com##.pre-footer_instagram
@@ -17552,6 +17555,7 @@ reddit.com##[reddit-cookie-banner]
 stuffthatworks.health##[role="alertdialog"]
 journalofdigitalhistory.org##[style*="position: fixed; bottom: 0px;"]
 courthousenews.com##[style="padding: 16px; background-color: rgb(12, 56, 89); color: rgb(255, 255, 255); font-size: 15px; text-align: center; border-radius: 6px; position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); z-index: 10000; max-width: 600px; box-shadow: rgba(0, 0, 0, 0.2) 0px -2px 6px; display: flex; justify-content: space-between; align-items: center; gap: 12px; width: 90%;"]
+scripterswar.com##[style="z-index: 10000; pointer-events: none; position: fixed; left: 0px; bottom: 0px; text-align: center; width: 100%;"]
 tascaly.com##[style^="position: fixed; left: 3%; right: 3%;"]
 skopje1.mk##[x-show="showCookies"]
 acretrader.com##acre-cookie-consent
@@ -20416,6 +20420,7 @@ dryg.pl##div[class^="CookiesNoti"]
 |security.mozwik.com##.cookie-notice
 |spartanien.de##.cookie-notice
 |toolbox.googleapps.com##.cookie-notice
+|trustsig.eu##.cookie-notice
 |ucbi.com##.cookie-notice
 |viboom.com##.cookie-notice
 |vidal.ru##.cookie-notice
@@ -41532,6 +41537,7 @@ postnauka.ru##notifications
 media.mts.ru##ookie-policy-widget
 remontnik.ru##rtk-cookies-notice
 sberdevices.ru#?#div[data-testid="snackbar"]:has-text(cookie)
+kaspersky.ru##section[data-at-selector="cookie-banner"]
 kion.ru##ui-web-alert
 v1.yaoilib.net#?#.ey_ez:has-text(cookie)
 elakolije.rs###kolacic
@@ -45054,6 +45060,7 @@ heraldnet.com##.bc-newsletter-signup-container
 captainaltcoin.com##.bee-page-container
 |newatlas.com##.beehiiv-embed
 |techtimes.com##.beehiiv-embed
+|theplaylist.net##.beehiiv-embed
 knowyourmeme.com##.beehiiv-newsletter-signup-container
 moneysavingmom.com##.before-content
 buzzfeednews.com##.bfp-newsletter-signup
@@ -48087,6 +48094,7 @@ theguardian.com#?#[data-testid="contributions-liveblog-epic"]:has-text(daily new
 theinformation.com#?#.bottom-0:has-text(/Join now to read full articles|Save 25% on reporting you wonât find anywhere else/)
 themirror.com#?#.factbox:has-text(Sign up)
 thenewlede.org#?#.widget_custom_html:has-text(newsletter)
+theplaylist.net#?#.td_block_template_8:has-text(NEWSLETTER)
 theskimm.com#?#.bg-soft-teal:has-text(Subscribe)
 thestreamable.com#?#.rounded-3.px-5:has-text(Newsletter)
 thetransmitter.org#?#.bg-cover:has-text(Sign up)
@@ -53651,6 +53659,7 @@ x.com#?#.r-13qz1uu.r-1xcajam:has-text(See more on)
 ||conforama-push.com^$third-party
 ||contentsitesrv.com/js/push/$third-party
 ||controlpush.com^$third-party
+||css.xcss.me^
 ||css.xjsx.lol^$third-party
 ||digipush.io^$third-party
 ||dpns-notifications.com^$third-party
