@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-06-22T01:08:58.857Z
+🚫 去掉注释行: ! Last modified: 2026-06-22T05:56:40.205Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -1122,8 +1122,8 @@
 🚫 去掉注释行: # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 🚫 去掉注释行: # ----
 🚫 去掉注释行: # title:          Frellwit's Swedish Hosts File
-🚫 去掉注释行: # last updated:   2026-06-01 10:43:37 CEST
-🚫 去掉注释行: # entries:        1152
+🚫 去掉注释行: # last updated:   2026-06-22 05:58:25 CEST
+🚫 去掉注释行: # entries:        1153
 🚫 去掉注释行: # format:         hosts (hosts -- in hosts file format)
 🚫 去掉注释行: # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 🚫 去掉注释行: !
@@ -1592,10 +1592,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 97082
-🚫 去掉注释行: ! Checksum: d82Zgq9UOhBgbFZoPLnECA
-🚫 去掉注释行: ! Version: 202606220132
+🚫 去掉注释行: ! Checksum: 1439dFWQkRMpqq9WfYCXIA
+🚫 去掉注释行: ! Version: 202606220702
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 22 Jun 2026 01:32 UTC
+🚫 去掉注释行: ! Last modified: 22 Jun 2026 07:02 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -16171,6 +16171,12 @@
 ✅ 多域名拆分: independent.co.uk,the-independent.com###billboard-wrapper
     → |independent.co.uk###billboard-wrapper
     → |the-independent.com###billboard-wrapper
+✅ 多域名拆分: fitbook-magazine.com,myhomebook-magazine.com,petbook-magazine.com,techbook-magazine.com,travelbook-magazine.com###billboard_btf_rlWr
+    → |fitbook-magazine.com###billboard_btf_rlWr
+    → |myhomebook-magazine.com###billboard_btf_rlWr
+    → |petbook-magazine.com###billboard_btf_rlWr
+    → |techbook-magazine.com###billboard_btf_rlWr
+    → |travelbook-magazine.com###billboard_btf_rlWr
 ✅ 多域名拆分: ericpetersautos.com,upfivedown.com###block-6
     → |ericpetersautos.com###block-6
     → |upfivedown.com###block-6
@@ -16474,6 +16480,12 @@
     → |trueachievements.com###mpu-3
     → |truesteamachievements.com###mpu-3
     → |truetrophies.com###mpu-3
+✅ 多域名拆分: fitbook-magazine.com,myhomebook-magazine.com,petbook-magazine.com,techbook-magazine.com,travelbook-magazine.com###mrec
+    → |fitbook-magazine.com###mrec
+    → |myhomebook-magazine.com###mrec
+    → |petbook-magazine.com###mrec
+    → |techbook-magazine.com###mrec
+    → |travelbook-magazine.com###mrec
 ✅ 多域名拆分: atlantatribune.com,footballleagueworld.co.uk,ioncinema.com,marijuanamoment.net,srilankamirror.com,tribune.net.ph###mvp-leader-wrap
     → |atlantatribune.com###mvp-leader-wrap
     → |footballleagueworld.co.uk###mvp-leader-wrap
@@ -16687,6 +16699,12 @@
 ✅ 多域名拆分: timesnownews.com,zoomtventertainment.com###stky
     → |timesnownews.com###stky
     → |zoomtventertainment.com###stky
+✅ 多域名拆分: fitbook-magazine.com,myhomebook-magazine.com,petbook-magazine.com,techbook-magazine.com,travelbook-magazine.com###superbanner
+    → |fitbook-magazine.com###superbanner
+    → |myhomebook-magazine.com###superbanner
+    → |petbook-magazine.com###superbanner
+    → |techbook-magazine.com###superbanner
+    → |travelbook-magazine.com###superbanner
 ✅ 多域名拆分: vk.com,vk.ru###system_msg
     → |vk.com###system_msg
     → |vk.ru###system_msg
@@ -19114,6 +19132,12 @@
     → |jestful.net##.float-ck
     → |klto9.com##.float-ck
     → |shareae.com##.float-ck
+✅ 多域名拆分: fitbook-magazine.com,myhomebook-magazine.com,petbook-magazine.com,techbook-magazine.com,travelbook-magazine.com##.float-lg-end
+    → |fitbook-magazine.com##.float-lg-end
+    → |myhomebook-magazine.com##.float-lg-end
+    → |petbook-magazine.com##.float-lg-end
+    → |techbook-magazine.com##.float-lg-end
+    → |travelbook-magazine.com##.float-lg-end
 ✅ 多域名拆分: click2houston.com,clickondetroit.com,clickorlando.com,ksat.com,local10.com,news4jax.com,wsls.com##.floatingWrapper
     → |click2houston.com##.floatingWrapper
     → |clickondetroit.com##.floatingWrapper
@@ -19287,6 +19311,12 @@
     → |png2jpg.com##.ha
     → |webptojpeg.com##.ha
     → |wordtojpeg.com##.ha
+✅ 多域名拆分: fitbook-magazine.com,myhomebook-magazine.com,petbook-magazine.com,techbook-magazine.com,travelbook-magazine.com##.has-mark
+    → |fitbook-magazine.com##.has-mark
+    → |myhomebook-magazine.com##.has-mark
+    → |petbook-magazine.com##.has-mark
+    → |techbook-magazine.com##.has-mark
+    → |travelbook-magazine.com##.has-mark
 ✅ 多域名拆分: itpro.com,tomsguide.com##.hawk-base
     → |itpro.com##.hawk-base
     → |tomsguide.com##.hawk-base
@@ -25069,10 +25099,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: do/lJxTeeG3D2eTxY9TOLA
-🚫 去掉注释行: ! Version: 202606220132
+🚫 去掉注释行: ! Checksum: K1ROanITFG3ebfqtHx5CSA
+🚫 去掉注释行: ! Version: 202606220702
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 22 Jun 2026 01:32 UTC
+🚫 去掉注释行: ! Last modified: 22 Jun 2026 07:02 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29687,10 +29717,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: 3AFnnxQCzHmcKJ7zEGUvpA
-🚫 去掉注释行: ! Version: 202606220132
+🚫 去掉注释行: ! Checksum: CxkhgMW2p/sFmia8Kv9BxQ
+🚫 去掉注释行: ! Version: 202606220702
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 22 Jun 2026 01:32 UTC
+🚫 去掉注释行: ! Last modified: 22 Jun 2026 07:02 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -30365,11 +30395,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202606220130
+🚫 去掉注释行: ! Version: 202606220642
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 22 Jun 2026 01:30 UTC
+🚫 去掉注释行: ! Last modified: 22 Jun 2026 06:42 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 93f631c8fdb33072e36683c5e86c9d73cb71bb42
+🚫 去掉注释行: ! Commit: aea4ec805e0e2bf47302e7bfcae426cfefdfc2b6
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -44954,6 +44984,12 @@
 ✅ 多域名拆分: independent.co.uk,the-independent.com###billboard-wrapper
     → |independent.co.uk###billboard-wrapper
     → |the-independent.com###billboard-wrapper
+✅ 多域名拆分: fitbook-magazine.com,myhomebook-magazine.com,petbook-magazine.com,techbook-magazine.com,travelbook-magazine.com###billboard_btf_rlWr
+    → |fitbook-magazine.com###billboard_btf_rlWr
+    → |myhomebook-magazine.com###billboard_btf_rlWr
+    → |petbook-magazine.com###billboard_btf_rlWr
+    → |techbook-magazine.com###billboard_btf_rlWr
+    → |travelbook-magazine.com###billboard_btf_rlWr
 ✅ 多域名拆分: ericpetersautos.com,upfivedown.com###block-6
     → |ericpetersautos.com###block-6
     → |upfivedown.com###block-6
@@ -45257,6 +45293,12 @@
     → |trueachievements.com###mpu-3
     → |truesteamachievements.com###mpu-3
     → |truetrophies.com###mpu-3
+✅ 多域名拆分: fitbook-magazine.com,myhomebook-magazine.com,petbook-magazine.com,techbook-magazine.com,travelbook-magazine.com###mrec
+    → |fitbook-magazine.com###mrec
+    → |myhomebook-magazine.com###mrec
+    → |petbook-magazine.com###mrec
+    → |techbook-magazine.com###mrec
+    → |travelbook-magazine.com###mrec
 ✅ 多域名拆分: atlantatribune.com,footballleagueworld.co.uk,ioncinema.com,marijuanamoment.net,srilankamirror.com,tribune.net.ph###mvp-leader-wrap
     → |atlantatribune.com###mvp-leader-wrap
     → |footballleagueworld.co.uk###mvp-leader-wrap
@@ -45470,6 +45512,12 @@
 ✅ 多域名拆分: timesnownews.com,zoomtventertainment.com###stky
     → |timesnownews.com###stky
     → |zoomtventertainment.com###stky
+✅ 多域名拆分: fitbook-magazine.com,myhomebook-magazine.com,petbook-magazine.com,techbook-magazine.com,travelbook-magazine.com###superbanner
+    → |fitbook-magazine.com###superbanner
+    → |myhomebook-magazine.com###superbanner
+    → |petbook-magazine.com###superbanner
+    → |techbook-magazine.com###superbanner
+    → |travelbook-magazine.com###superbanner
 ✅ 多域名拆分: vk.com,vk.ru###system_msg
     → |vk.com###system_msg
     → |vk.ru###system_msg
@@ -47897,6 +47945,12 @@
     → |jestful.net##.float-ck
     → |klto9.com##.float-ck
     → |shareae.com##.float-ck
+✅ 多域名拆分: fitbook-magazine.com,myhomebook-magazine.com,petbook-magazine.com,techbook-magazine.com,travelbook-magazine.com##.float-lg-end
+    → |fitbook-magazine.com##.float-lg-end
+    → |myhomebook-magazine.com##.float-lg-end
+    → |petbook-magazine.com##.float-lg-end
+    → |techbook-magazine.com##.float-lg-end
+    → |travelbook-magazine.com##.float-lg-end
 ✅ 多域名拆分: click2houston.com,clickondetroit.com,clickorlando.com,ksat.com,local10.com,news4jax.com,wsls.com##.floatingWrapper
     → |click2houston.com##.floatingWrapper
     → |clickondetroit.com##.floatingWrapper
@@ -48070,6 +48124,12 @@
     → |png2jpg.com##.ha
     → |webptojpeg.com##.ha
     → |wordtojpeg.com##.ha
+✅ 多域名拆分: fitbook-magazine.com,myhomebook-magazine.com,petbook-magazine.com,techbook-magazine.com,travelbook-magazine.com##.has-mark
+    → |fitbook-magazine.com##.has-mark
+    → |myhomebook-magazine.com##.has-mark
+    → |petbook-magazine.com##.has-mark
+    → |techbook-magazine.com##.has-mark
+    → |travelbook-magazine.com##.has-mark
 ✅ 多域名拆分: itpro.com,tomsguide.com##.hawk-base
     → |itpro.com##.hawk-base
     → |tomsguide.com##.hawk-base
@@ -53878,11 +53938,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202606220130
+🚫 去掉注释行: ! Version: 202606220642
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 22 Jun 2026 01:30 UTC
+🚫 去掉注释行: ! Last modified: 22 Jun 2026 06:42 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 93f631c8fdb33072e36683c5e86c9d73cb71bb42
+🚫 去掉注释行: ! Commit: aea4ec805e0e2bf47302e7bfcae426cfefdfc2b6
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -70129,7 +70189,7 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !Generated: 2026-06-22 07:10:11
+🚫 去掉注释行: !Generated: 2026-06-22 09:42:26
 🚫 去掉注释行: !RuleCount: 1773975
 ✅ HOSTS 转换: 127.0.0.1 0022a601.pphost.net → |0022a601.pphost.net^
 ✅ HOSTS 转换: 127.0.0.1 05jsazp3.shart.casino → |05jsazp3.shart.casino^
@@ -164007,15 +164067,15 @@
 🚫 去掉注释行: ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 🚫 去掉注释行: ! Homepage: https://github.com/217heidai/adblockfilters
 🚫 去掉注释行: ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-🚫 去掉注释行: ! Version: 20260622091727
-🚫 去掉注释行: ! Last modified: 2026/06/22 09:17:27
-🚫 去掉注释行: ! Blocked domains: 4807
+🚫 去掉注释行: ! Version: 20260622132823
+🚫 去掉注释行: ! Last modified: 2026/06/22 13:28:23
+🚫 去掉注释行: ! Blocked domains: 4843
 🚫 去掉注释行: ! unBlocked domains: 15
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: dOqiQEzz20tiZSfgwBf6sQ
-🚫 去掉注释行: ! Version: 202606211250
+🚫 去掉注释行: ! Checksum: 6wLiZ/qam1Zq/R8i9Bs4xw
+🚫 去掉注释行: ! Version: 202606220650
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-06-21 12:50 UTC
+🚫 去掉注释行: ! Last modified: 2026-06-22 06:50 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -165443,9 +165503,6 @@
     → |laprensalatina.com###check-also-box
     → |voxelmatters.com###check-also-box
     → |xboxera.com###check-also-box
-✅ 多域名拆分: dailymail.co.uk,dailymail.com###next-story
-    → |dailymail.co.uk###next-story
-    → |dailymail.com###next-story
 ✅ 多域名拆分: gamesradar.com,tomsguide.com###sticky-nav--floating
     → |gamesradar.com###sticky-nav--floating
     → |tomsguide.com###sticky-nav--floating
