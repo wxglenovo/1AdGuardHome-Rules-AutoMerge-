@@ -963,7 +963,7 @@ cheknews.ca##.mailchimp-form
 rogerebert.com##.mailing-list
 amazon.*##.maple-banner
 fandom.com##.marketing-notifications
-motherless.com##.media-action-networks
+motherless.xxx##.media-action-networks
 hotklix.com##.menu
 amazon.com##.mini-atf
 time.com##.mobile-anchor-container
@@ -7679,6 +7679,7 @@ heritagedaily.com#?#.tds-button:has-text(FOLLOW ON GOOGLE NEWS)
 |stamfordadvocate.com#?#.deep:has-text(Google)
 ign.com#?#.promo-card:has-text(Follow us!)
 jacobin.com#?#.po-fr__heading:has-text(Share this article)
+rule34.xxx##li:has(> [href="https://x.com/slayerduckie"])
 lifenews.com#?#.post_style_zk > p:has-text(Please subscribe)
 livpost.co.uk#?#.kg-align-center.kg-button-card:has-text(Share this story)
 nbcsports.com#?#p.cms-textAlign-center:has-text(follow NBC Sports)
@@ -14052,6 +14053,7 @@ oryx-embedded.com###consentBox
 |daryo.uz###consentModal
 |kun.uz###consentModal
 mandisremotes.com###consentPopup
+erotic24.ro###consentPopupBackground
 mandisremotes.com###consentPopupBg
 pendleton-usa.com###consentTracking
 wedely.com###consent_cont
@@ -16693,7 +16695,7 @@ newdayspharmacy.com##.modal_terms
 |lovestoriesintimates.com##.modals-wrapper
 sekwens.com##.module-abovebox
 compress-or-die.com##.module_global-cookie-consent
-motherless.com##.motherless-cookie-wrapper
+motherless.xxx##.motherless-cookie-wrapper
 arcade1up.com##.mount
 unityj.com##.mpp-container-position-bottom-bar
 takasago-fluidics.com##.mrc_gdpr_banner
@@ -30842,6 +30844,7 @@ neofinancial.com##+js(set-local-storage-item, neoCookiesAdvertisingConsent, 1)
 neofinancial.com##+js(set-local-storage-item, neoCookiesPerformanceConsent, 1)
 home.shortcutssoftware.com##+js(set-local-storage-item, ngx-webstorage|cookies, false)
 cape.co##+js(set-local-storage-item, no-cookie-notice-dismissed, true)
+nonli.com##+js(set-local-storage-item, nonli_google_analytics_consent, denied)
 cwallet.com##+js(set-local-storage-item, ns_cookies, 1)
 omroepflevoland.nl##+js(set-local-storage-item, of_cookies_consent, YES)
 omroepflevoland.nl##+js(set-local-storage-item, of_cookiewall_banner_seen, YES)
@@ -39619,6 +39622,7 @@ soltam.co.il###dfwt-gdpr-overlay
 bigelectric.co.il###gdprCookieBar
 wine-eilat.com###mcc-cookie-bar
 pezzi.co.il###pezzi-cookie-popup
+shukhashmal.co.il###privacy_alert
 dunietz-elad.co.il###privacy_policy_popup
 ivory.co.il###removeBannerCookie
 ipo.co.il###rg-privacy-wrap
@@ -47914,6 +47918,7 @@ pedestrian.tv##ticker-subscription
 |theverge.com##.duet--cta--newsletter
 goodrx.com##.\[\&_\[data-qa\=searchbar\]\>button\]\:md\:mt-4:has([data-qa="newsletter-form"])
 spin.com##.border-backgrounds.flex.flex-wrap.border-t:has(form-container)
+eposaudio.com##.grid__item:has(> .newsletter-sign-up)
 tryterra.co##.lg\:px-24:has(#email-container)
 emobilityplus.com##.sharedaddy
 hyrax.dev##.w-full.lg\:max-w-sm.lg\:text-right:has(#newsletter-email-hero)
@@ -52384,6 +52389,7 @@ swisscows.com##.home-link-instruction
 msn.com##.homepage-banner
 ft.com##.instant-alert-cta
 forum.adrenaline.com.br##.js-enablePushContainer
+fandom.com##.marketing-notifications
 recyclingproductnews.com##.modal-notifications
 correiobraziliense.com.br##.noticia_notificacao
 mdjonline.com##.notification-button
