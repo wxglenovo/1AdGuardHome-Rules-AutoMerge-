@@ -2122,6 +2122,7 @@ factcheck.org##.widget_factcheck_donate_widget
 lithub.com##.widget_media_image
 firstthings.com##.widget_support_work
 thewire.in##.wire-support-wrapper
+windowslatest.com##.wl-support-box
 grist.org##.wp-block-article-donation
 hsph.harvard.edu##.wp-block-hsph-page-footer-cta
 humanists.uk##.wp-block-humanists-uk-bootstrap-campaigns-block
@@ -7698,6 +7699,7 @@ stuff.co.nz#?#.edproj-share-video-wrapper:has-text(Share your video)
 stuff.co.nz#?#.edproj-speedhub-wrapper:has-text(read now)
 stuff.co.nz#?#.free-body.text-block > p.content-item:has-text(Email)
 techissuestoday.com#?#.mar-b-6:has-text(Follow Us)
+thedailyeconomy.org#?#.wp-block-group-is-layout-flow:has-text(Share This Article)
 thedispatch.com#?#.border-y.py-2:has-text(Share)
 theguardian.com#?#.dcr-4gwv1z > ul:has-text(Get our)
 theintercept.com#?#[data-ga-track-action]:has-text(Join The Conversation)
@@ -22864,6 +22866,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |vonage.com.ph###onetrust-consent-sdk
 |weddingbee.com###onetrust-consent-sdk
 |wetter.at###onetrust-consent-sdk
+|whoop.com###onetrust-consent-sdk
 |wired.com###onetrust-consent-sdk
 |zdnet.com###onetrust-consent-sdk
 |accor.com##.onetrust-pc-dark-filter
@@ -22953,6 +22956,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |vishay.com##.onetrust-pc-dark-filter
 |weddingbee.com##.onetrust-pc-dark-filter
 |wetter.at##.onetrust-pc-dark-filter
+|whoop.com##.onetrust-pc-dark-filter
 |wired.com##.onetrust-pc-dark-filter
 |zdnet.com##.onetrust-pc-dark-filter
 |3suisses.fr##.modal
@@ -45160,6 +45164,7 @@ datacenterdynamics.com##.block-channel_subscription
 cidrap.umn.edu##.block-cidrap-persistent-newsletter
 qsrmedia.com.au##.block-cmg-newsletter
 frommybowl.com##.block-cookbook
+californiasciencecenter.org##.block-csc-newsletter
 africacheck.org##.block-cta-block
 |eatingbirdfood.com##.block-ebook
 |joyfoodsunshine.com##.block-ebook
@@ -47851,6 +47856,7 @@ triblive.com##[href="/notifications/"]
 jewishworldreview.com##[href="/subs.php"]
 thebolditalic.com##[href="http://tbi.fyi/website_referral"]
 sfgate.com##[href="https://link.sfgate.com/join/signup-sfgate"]
+ibtimes.com##[href="https://newsletter.ibt.com/"]
 techcabal.com##[href="https://techcabal.com/newsletter"]
 cbtnews.com##[href="https://www.cbtnews.com/newsletter-signup/"]
 hackster.io##[href="https://www.hackster.io/newsletter/sign_up"]
@@ -48459,6 +48465,7 @@ marieclaire.fr##.NewsletterBox
 |tastecooking.com##.newsletter-signup
 |techfinitive.com##.newsletter-signup
 |thebeliever.net##.newsletter-signup
+|thedailyeconomy.org##.newsletter-signup
 |thekitchenmagpie.com##.newsletter-signup
 |tn.com.ar##.newsletter-signup
 |tomsguide.com##.newsletter-signup
