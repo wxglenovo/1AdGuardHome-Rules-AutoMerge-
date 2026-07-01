@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-07-01T09:15:14.109Z
+🚫 去掉注释行: ! Last modified: 2026-07-01T13:03:56.574Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -1594,10 +1594,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 98011
-🚫 去掉注释行: ! Checksum: DUCegzAtYKn2mlp1Kwi4ww
-🚫 去掉注释行: ! Version: 202607011022
+🚫 去掉注释行: ! Checksum: vjshrepfDxtDhC2CHhQhmw
+🚫 去掉注释行: ! Version: 202607011303
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 01 Jul 2026 10:22 UTC
+🚫 去掉注释行: ! Last modified: 01 Jul 2026 13:03 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -16207,9 +16207,6 @@
 ✅ 多域名拆分: cloudwards.net,guitaradvise.com###cbox
     → |cloudwards.net###cbox
     → |guitaradvise.com###cbox
-✅ 多域名拆分: animetrilogy.com,xcalibrscans.com###close-teaser
-    → |animetrilogy.com###close-teaser
-    → |xcalibrscans.com###close-teaser
 ✅ 多域名拆分: mirror.co.uk,themirror.com###comments-standalone-mpu
     → |mirror.co.uk###comments-standalone-mpu
     → |themirror.com###comments-standalone-mpu
@@ -17296,7 +17293,7 @@
     → |home-designing.com##.ad-block
     → |inc.com##.ad-block
     → |trustpilot.com##.ad-block
-✅ 多域名拆分: 12news.com,9news.com,9to5google.com,9to5mac.com,aad.org,advfn.com,all3dp.com,allaboutcookies.org,allnovel.net,amny.com,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,bolavip.com,bonappetit.com,breakingac.com,britishheritage.com,businessday.ng,businessinsider.com,capemaynjdaily.com,cbs8.com,cc.com,ccjdigital.com,centralbucksnews.com,dailytrust.com,delish.com,downbeach.com,dutchnews.nl,ecr.co.za,electrek.co,engineeringnews.co.za,equipmentworld.com,euromaidanpress.com,fastcompany.com,fishermap.org,footyheadlines.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,globalspec.com,gmanetwork.com,grammarbook.com,greatbritishchefs.com,greatitalianchefs.com,hbr.org,highdefdigest.com,historynet.com,horshamnow.com,howstuffworks.com,huffpost.com,ibtimes.sg,inc.com,insidehook.com,intouchweekly.com,irishcentral.com,karanpc.com,khou.com,koat.com,ktvu.com,lifeandstylemag.com,longislandpress.com,macstories.net,mail.com,memuplay.com,metro.us,metrophiladelphia.com,minecraftforum.net,miningweekly.com,mixed-news.com,mobilesyrup.com,modernhealthcare.com,namemc.com,nbcnews.com,newrepublic.com,northpennnow.com,nzherald.co.nz,ocnjdaily.com,oneesports.gg,opb.org,outkick.com,papermag.com,perkvalleynow.com,phillydaily.com,physiology.org,pixiv.net,podcastaddict.com,punchng.com,qns.com,realsport101.com,reason.com,refinery29.com,ringsidenews.com,roadandtrack.com,scroll.in,seaislenews.com,seattletimes.com,songkick.com,sportskeeda.com,storyboard18.com,streamfree.to,the-decoder.com,thedailybeast.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,thenationonlineng.net,thenewstack.io,thepost.co.nz,thetimes.com,tmz.com,toofab.com,tuasaude.com,uploadvr.com,usmagazine.com,vanguardngr.com,wildtangent.com,willowgrovenow.com,wired.com,wogx.com,worldsoccertalk.com,wral.com,yahoo.com##.ad-container
+✅ 多域名拆分: 12news.com,9news.com,9to5google.com,9to5mac.com,aad.org,advfn.com,all3dp.com,allaboutcookies.org,allnovel.net,amny.com,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,bolavip.com,bonappetit.com,breakingac.com,britishheritage.com,businessday.ng,businessinsider.com,capemaynjdaily.com,cbs8.com,cc.com,ccjdigital.com,centralbucksnews.com,dailytrust.com,delish.com,downbeach.com,dutchnews.nl,ecr.co.za,electrek.co,engineeringnews.co.za,equipmentworld.com,euromaidanpress.com,fastcompany.com,fishermap.org,footyheadlines.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,globalspec.com,gmanetwork.com,grammarbook.com,greatbritishchefs.com,greatitalianchefs.com,hbr.org,highdefdigest.com,historynet.com,horshamnow.com,howstuffworks.com,huffpost.com,ibtimes.sg,inc.com,insidehook.com,intouchweekly.com,irishcentral.com,karanpc.com,khou.com,koat.com,ktvu.com,lifeandstylemag.com,longislandpress.com,macstories.net,mail.com,memuplay.com,metro.us,metrophiladelphia.com,minecraftforum.net,miningweekly.com,mixed-news.com,mobilesyrup.com,modernhealthcare.com,namemc.com,nbcnews.com,newrepublic.com,northpennnow.com,nzherald.co.nz,ocnjdaily.com,oneesports.gg,opb.org,outkick.com,papermag.com,perkvalleynow.com,phillydaily.com,physiology.org,pixiv.net,podcastaddict.com,punchng.com,qns.com,realsport101.com,reason.com,refinery29.com,ringsidenews.com,roadandtrack.com,scroll.in,seaislenews.com,seattletimes.com,songkick.com,sportskeeda.com,storyboard18.com,the-decoder.com,thedailybeast.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,thenationonlineng.net,thenewstack.io,thepost.co.nz,thetimes.com,tmz.com,toofab.com,tuasaude.com,uploadvr.com,usmagazine.com,vanguardngr.com,wildtangent.com,willowgrovenow.com,wired.com,wogx.com,worldsoccertalk.com,wral.com,yahoo.com##.ad-container
     → |12news.com##.ad-container
     → |9news.com##.ad-container
     → |9to5google.com##.ad-container
@@ -17413,7 +17410,6 @@
     → |songkick.com##.ad-container
     → |sportskeeda.com##.ad-container
     → |storyboard18.com##.ad-container
-    → |streamfree.to##.ad-container
     → |the-decoder.com##.ad-container
     → |thedailybeast.com##.ad-container
     → |thelocal.at##.ad-container
@@ -17494,21 +17490,19 @@
     → |gbnews.com##.ad-wrapper
     → |smithsonianmag.com##.ad-wrapper
     → |tasty.co##.ad-wrapper
-✅ 多域名拆分: allscrabblewords.com,famously-dead.com,famouslyarrested.com,famouslyscandalous.com,gamesadshopper.com,iamgujarat.com,samayam.com,timesofindia.com,vijaykarnataka.com##.ad1
+✅ 多域名拆分: allscrabblewords.com,famously-dead.com,famouslyarrested.com,gamesadshopper.com,iamgujarat.com,samayam.com,timesofindia.com,vijaykarnataka.com##.ad1
     → |allscrabblewords.com##.ad1
     → |famously-dead.com##.ad1
     → |famouslyarrested.com##.ad1
-    → |famouslyscandalous.com##.ad1
     → |gamesadshopper.com##.ad1
     → |iamgujarat.com##.ad1
     → |samayam.com##.ad1
     → |timesofindia.com##.ad1
     → |vijaykarnataka.com##.ad1
-✅ 多域名拆分: allscrabblewords.com,famously-dead.com,famouslyarrested.com,famouslyscandalous.com##.ad2
+✅ 多域名拆分: allscrabblewords.com,famously-dead.com,famouslyarrested.com##.ad2
     → |allscrabblewords.com##.ad2
     → |famously-dead.com##.ad2
     → |famouslyarrested.com##.ad2
-    → |famouslyscandalous.com##.ad2
 ✅ 多域名拆分: economictimes.indiatimes.com,forums.sufficientvelocity.com,isp.netscape.com,m.economictimes.com,someecards.com,trailspace.com,wabetainfo.com##.adContainer
     → |economictimes.indiatimes.com##.adContainer
     → |forums.sufficientvelocity.com##.adContainer
@@ -17738,9 +17732,6 @@
 ✅ 多域名拆分: ndtv.com,ndtvgames.com##.ads-wrp
     → |ndtv.com##.ads-wrp
     → |ndtvgames.com##.ads-wrp
-✅ 多域名拆分: apkrabi.io,dna-launcher.apkrabi.com##.ads12
-    → |apkrabi.io##.ads12
-    → |dna-launcher.apkrabi.com##.ads12
 ✅ 多域名拆分: adlice.com,informer.com,waqi.info,xmplaylist.com##.adsbygoogle
     → |adlice.com##.adsbygoogle
     → |informer.com##.adsbygoogle
@@ -17871,8 +17862,7 @@
     → |freephonevalidator.com##.advertise
     → |kpopping.com##.advertise
     → |zimbabwesituation.com##.advertise
-✅ 多域名拆分: 456movie.net,aan.com,aarp.org,additudemag.com,agbi.com,animax-asia.com,audioxpress.com,axn-asia.com,bravotv.com,citiblog.co.uk,cnbctv18.com,cnn59.com,controleng.com,curiosmos.com,downzen.com,dw.com,escapeatx.com,foodsforbetterhealth.com,gemtvasia.com,hcn.org,hotdogwater.dog,huffingtonpost.co.uk,huffpost.com,investmentnews.com,ipaomtk.com,jewishworldreview.com,legion.org,lifezette.com,livestly.com,magtheweekly.com,moneyland.ch,offshore-energy.biz,onetvasia.com,oxygen.com,oydir.com,pch.com,philosophynow.org,prospectmagazine.co.uk,readamericanfootball.com,readarsenal.com,readastonvilla.com,readbasketball.com,readbetting.com,readbournemouth.com,readboxing.com,readbrighton.com,readbundesliga.com,readburnley.com,readcars.co,readceltic.com,readchampionship.com,readchelsea.com,readcricket.com,readcrystalpalace.com,readeverton.com,readeverything.co,readfashion.co,readfilm.co,readfood.co,readfootball.co,readgaming.co,readgolf.com,readhorseracing.com,readhuddersfield.com,readhull.com,readinternationalfootball.com,readlaliga.com,readleicester.com,readliverpoolfc.com,readmancity.com,readmanutd.com,readmiddlesbrough.com,readmma.com,readmotorsport.com,readmusic.co,readnewcastle.com,readnorwich.com,readnottinghamforest.com,readolympics.com,readpl.com,readrangers.com,readrugbyunion.com,readseriea.com,readshowbiz.co,readsouthampton.com,readsport.co,readstoke.com,readsunderland.com,readswansea.com,readtennis.co,readtottenham.com,readtv.co,readussoccer.com,readwatford.com,readwestbrom.com,readwestham.com,readwsl.com,reason.com,redvoicemedia.com,revolver.news,rogerebert.com,smithsonianmag.com,streamingmedia.com,the-scientist.com,thecatholicthing.org,thecrimson.com,therighthairstyles.com,topsmerch.com,weatherwatch.co.nz,whichcar.com.au,woot.com,worldofbitco.in##.advertisement
-    → |456movie.net##.advertisement
+✅ 多域名拆分: aan.com,aarp.org,additudemag.com,agbi.com,animax-asia.com,audioxpress.com,axn-asia.com,bravotv.com,citiblog.co.uk,cnbctv18.com,cnn59.com,controleng.com,curiosmos.com,downzen.com,dw.com,escapeatx.com,foodsforbetterhealth.com,gemtvasia.com,hcn.org,hotdogwater.dog,huffingtonpost.co.uk,huffpost.com,investmentnews.com,ipaomtk.com,jewishworldreview.com,legion.org,lifezette.com,livestly.com,magtheweekly.com,moneyland.ch,offshore-energy.biz,onetvasia.com,oxygen.com,oydir.com,pch.com,philosophynow.org,prospectmagazine.co.uk,readamericanfootball.com,readarsenal.com,readastonvilla.com,readbasketball.com,readbetting.com,readbournemouth.com,readboxing.com,readbrighton.com,readbundesliga.com,readburnley.com,readcars.co,readceltic.com,readchampionship.com,readchelsea.com,readcricket.com,readcrystalpalace.com,readeverton.com,readeverything.co,readfashion.co,readfilm.co,readfood.co,readfootball.co,readgaming.co,readgolf.com,readhorseracing.com,readhuddersfield.com,readhull.com,readinternationalfootball.com,readlaliga.com,readleicester.com,readliverpoolfc.com,readmancity.com,readmanutd.com,readmiddlesbrough.com,readmma.com,readmotorsport.com,readmusic.co,readnewcastle.com,readnorwich.com,readnottinghamforest.com,readolympics.com,readpl.com,readrangers.com,readrugbyunion.com,readseriea.com,readshowbiz.co,readsouthampton.com,readsport.co,readstoke.com,readsunderland.com,readswansea.com,readtennis.co,readtottenham.com,readtv.co,readussoccer.com,readwatford.com,readwestbrom.com,readwestham.com,readwsl.com,reason.com,redvoicemedia.com,revolver.news,rogerebert.com,smithsonianmag.com,streamingmedia.com,the-scientist.com,thecatholicthing.org,thecrimson.com,therighthairstyles.com,topsmerch.com,weatherwatch.co.nz,whichcar.com.au,woot.com,worldofbitco.in##.advertisement
     → |aan.com##.advertisement
     → |aarp.org##.advertisement
     → |additudemag.com##.advertisement
@@ -20422,8 +20412,7 @@
     → |radiotunes.com##.sidewall-ad-component
     → |rockradio.com##.sidewall-ad-component
     → |zenradio.com##.sidewall-ad-component
-✅ 多域名拆分: dlhd.link,mixonline.com,radioworld.com##.site-ad
-    → |dlhd.link##.site-ad
+✅ 多域名拆分: mixonline.com,radioworld.com##.site-ad
     → |mixonline.com##.site-ad
     → |radioworld.com##.site-ad
 ✅ 多域名拆分: canadianbusiness.com,torontolife.com##.sjm-dfp-wrapper
@@ -21642,8 +21631,7 @@
     → |pushsquare.com##[style*="min-height:250px;"]
     → |timeextension.com##[style*="min-height:250px;"]
     → |videogameschronicle.com##[style*="min-height:250px;"]
-✅ 多域名拆分: 4anime.gg,bravoporn.com,gogoanime.co.in,harimanga.me,hurawatch.cc,instamod.co,leercapitulo.co,mangadna.com,miraculous.to,putlockers.li,sukidesuost.info,waploaded.com,yts-subs.com##[style*="width: 100% !important;"]
-    → |4anime.gg##[style*="width: 100% !important;"]
+✅ 多域名拆分: bravoporn.com,gogoanime.co.in,harimanga.me,hurawatch.cc,instamod.co,leercapitulo.co,mangadna.com,miraculous.to,putlockers.li,sukidesuost.info,waploaded.com,yts-subs.com##[style*="width: 100% !important;"]
     → |bravoporn.com##[style*="width: 100% !important;"]
     → |gogoanime.co.in##[style*="width: 100% !important;"]
     → |harimanga.me##[style*="width: 100% !important;"]
@@ -21656,8 +21644,7 @@
     → |sukidesuost.info##[style*="width: 100% !important;"]
     → |waploaded.com##[style*="width: 100% !important;"]
     → |yts-subs.com##[style*="width: 100% !important;"]
-✅ 多域名拆分: 4anime.gg,bravoporn.com,gogoanime.co.in,harimanga.me,hurawatch.cc,instamod.co,leercapitulo.co,mangadna.com,messitv.net,miraculous.to,putlockers.li,sukidesuost.info,waploaded.com,yts-subs.com,zonatmo.com##[style*="z-index:"]
-    → |4anime.gg##[style*="z-index:"]
+✅ 多域名拆分: bravoporn.com,gogoanime.co.in,harimanga.me,hurawatch.cc,instamod.co,leercapitulo.co,mangadna.com,messitv.net,miraculous.to,putlockers.li,sukidesuost.info,waploaded.com,yts-subs.com##[style*="z-index:"]
     → |bravoporn.com##[style*="z-index:"]
     → |gogoanime.co.in##[style*="z-index:"]
     → |harimanga.me##[style*="z-index:"]
@@ -21671,7 +21658,6 @@
     → |sukidesuost.info##[style*="z-index:"]
     → |waploaded.com##[style*="z-index:"]
     → |yts-subs.com##[style*="z-index:"]
-    → |zonatmo.com##[style*="z-index:"]
 ✅ 多域名拆分: africam.com,open3dlab.com##[style="min-height: 90px;"]
     → |africam.com##[style="min-height: 90px;"]
     → |open3dlab.com##[style="min-height: 90px;"]
@@ -23897,7 +23883,7 @@
 ✅ 多域名拆分: dominationworld.com,femdomzzz.com##.ban-tezf
     → |dominationworld.com##.ban-tezf
     → |femdomzzz.com##.ban-tezf
-✅ 多域名拆分: 18teensex.tv,3movs.xxx,adultdeepfakes.com,babesmachine.com,chaturbate.com,fboomporn.com,freepornpicss.com,gramateurs.com,happysex.ch,hdtube.porn,its.porn,kawaiihentai.com,milffox.com,oldies.name,paradisehill.cc,playporngames.com,playsexgames.xxx,playvids.com,porngames.com,private.com,submittedgf.com,teenextrem.com,video.laxd.com,vikiporn.com,vjav.com,watchhentaivideo.com,waybig.com,xbabe.com,xcum.com,xnudepics.com,xpornpix.com,youcanfaptothis.com,yourdailygirls.com,youx.xxx##.banner
+✅ 多域名拆分: 18teensex.tv,3movs.xxx,adultdeepfakes.com,babesmachine.com,chaturbate.com,fboomporn.com,freepornpicss.com,gramateurs.com,happysex.ch,hdtube.porn,its.porn,kawaiihentai.com,milffox.com,oldies.name,paradisehill.cc,playporngames.com,playsexgames.xxx,playvids.com,porngames.com,private.com,submittedgf.com,teenextrem.com,video.laxd.com,vikiporn.com,vjav.com,watchhentaivideo.com,waybig.com,xbabe.com,xcum.com,xnudepics.com,youcanfaptothis.com,yourdailygirls.com,youx.xxx##.banner
     → |18teensex.tv##.banner
     → |3movs.xxx##.banner
     → |adultdeepfakes.com##.banner
@@ -23928,7 +23914,6 @@
     → |xbabe.com##.banner
     → |xcum.com##.banner
     → |xnudepics.com##.banner
-    → |xpornpix.com##.banner
     → |youcanfaptothis.com##.banner
     → |yourdailygirls.com##.banner
     → |youx.xxx##.banner
@@ -24371,8 +24356,7 @@
 ✅ 多域名拆分: fapnado.com,young-sexy.com##.popup
     → |fapnado.com##.popup
     → |young-sexy.com##.popup
-✅ 多域名拆分: 3dtube.xxx,nakedtube.com,pornmaki.com##.promotionbox
-    → |3dtube.xxx##.promotionbox
+✅ 多域名拆分: nakedtube.com,pornmaki.com##.promotionbox
     → |nakedtube.com##.promotionbox
     → |pornmaki.com##.promotionbox
 ✅ 多域名拆分: boy18tube.com,gaymovievids.com,me-gay.com,ts-tube.net,verygayboys.com##.random-td
@@ -24418,12 +24402,10 @@
     → |7mmtv.sx##.set_height_250
     → |7tv045.com##.set_height_250
     → |7tv047.com##.set_height_250
-✅ 多域名拆分: fullporno.site,gay-streaming.com,gayvideo.me##.sgpb-popup-dialog-main-div-wrapper
-    → |fullporno.site##.sgpb-popup-dialog-main-div-wrapper
+✅ 多域名拆分: gay-streaming.com,gayvideo.me##.sgpb-popup-dialog-main-div-wrapper
     → |gay-streaming.com##.sgpb-popup-dialog-main-div-wrapper
     → |gayvideo.me##.sgpb-popup-dialog-main-div-wrapper
-✅ 多域名拆分: fullporno.site,gay-streaming.com,gayvideo.me##.sgpb-popup-overlay
-    → |fullporno.site##.sgpb-popup-overlay
+✅ 多域名拆分: gay-streaming.com,gayvideo.me##.sgpb-popup-overlay
     → |gay-streaming.com##.sgpb-popup-overlay
     → |gayvideo.me##.sgpb-popup-overlay
 ✅ 多域名拆分: familyporn.tv,mywebcamsluts.com,transhero.com##.side_spot
@@ -24618,9 +24600,6 @@
 ✅ 多域名拆分: boyfriend.tv,boyfriendtv.com##.video-extra-wrapper
     → |boyfriend.tv##.video-extra-wrapper
     → |boyfriendtv.com##.video-extra-wrapper
-✅ 多域名拆分: pornhdtube.tv,recordbate.com##.video-overlay
-    → |pornhdtube.tv##.video-overlay
-    → |recordbate.com##.video-overlay
 ✅ 多域名拆分: thegay.com,upornia.com,upornia.tube##.video-page__content > .right
     → |thegay.com##.video-page__content > .right
     → |upornia.com##.video-page__content > .right
@@ -24835,17 +24814,16 @@
     → |gelbooru.com##a[href*="/tsyndicate.com/"]
     → |kemono.cr##a[href*="/tsyndicate.com/"]
     → |official.coomer.com.co##a[href*="/tsyndicate.com/"]
-✅ 多域名拆分: pornhub.com,pornhubpremium.com,pstargif.com,spankbang.com,sxyprn.com,tube8.com,tube8vip.com,xozilla.com,xxxymovies.com##a[href*="?ats="]
+✅ 多域名拆分: pornhub.com,pornhubpremium.com,spankbang.com,sxyprn.com,tube8.com,tube8vip.com,xozilla.com,xxxymovies.com##a[href*="?ats="]
     → |pornhub.com##a[href*="?ats="]
     → |pornhubpremium.com##a[href*="?ats="]
-    → |pstargif.com##a[href*="?ats="]
     → |spankbang.com##a[href*="?ats="]
     → |sxyprn.com##a[href*="?ats="]
     → |tube8.com##a[href*="?ats="]
     → |tube8vip.com##a[href*="?ats="]
     → |xozilla.com##a[href*="?ats="]
     → |xxxymovies.com##a[href*="?ats="]
-✅ 多域名拆分: adultfilmdatabase.com,analegg.com,animeidhentai.com,babeforums.org,camvideos.tv,camwhores.tv,coomer.st,erothots.co,f95zone.to,familypornhd.com,fritchy.com,gifsauce.com,hentai2read.com,hotpornfile.org,hpjav.com,imagebam.com,imgbox.com,imgtaxi.com,kemono.cr,motherless.com,muchohentai.com,myporn.club,official.coomer.com.co,pandamovies.pw,planetsuzy.org,porntrex.com,pussyspace.com,sendvid.com,sextvx.com,simpcity.cr,socialmediagirls.com,thefappeningblog.com,vintage-erotica-forum.com,vipergirls.to,xfantazy.com##a[href*="theporndude.com"]
+✅ 多域名拆分: adultfilmdatabase.com,analegg.com,animeidhentai.com,babeforums.org,camvideos.tv,camwhores.tv,coomer.st,erothots.co,f95zone.to,familypornhd.com,fritchy.com,gifsauce.com,hentai2read.com,hotpornfile.org,hpjav.com,imagebam.com,imgbox.com,imgtaxi.com,kemono.cr,muchohentai.com,myporn.club,official.coomer.com.co,pandamovies.pw,planetsuzy.org,porntrex.com,pussyspace.com,sendvid.com,sextvx.com,simpcity.cr,socialmediagirls.com,thefappeningblog.com,vintage-erotica-forum.com,vipergirls.to,xfantazy.com##a[href*="theporndude.com"]
     → |adultfilmdatabase.com##a[href*="theporndude.com"]
     → |analegg.com##a[href*="theporndude.com"]
     → |animeidhentai.com##a[href*="theporndude.com"]
@@ -24865,7 +24843,6 @@
     → |imgbox.com##a[href*="theporndude.com"]
     → |imgtaxi.com##a[href*="theporndude.com"]
     → |kemono.cr##a[href*="theporndude.com"]
-    → |motherless.com##a[href*="theporndude.com"]
     → |muchohentai.com##a[href*="theporndude.com"]
     → |myporn.club##a[href*="theporndude.com"]
     → |official.coomer.com.co##a[href*="theporndude.com"]
@@ -24896,7 +24873,7 @@
 ✅ 多域名拆分: f95zone.to,imagetwist.com##a[href^="https://candy.ai/"]
     → |f95zone.to##a[href^="https://candy.ai/"]
     → |imagetwist.com##a[href^="https://candy.ai/"]
-✅ 多域名拆分: valuexh.life,xhaccess.com,xhamster.com,xhamster.desi,xhamster2.com,xhamster3.com,xhamster42.desi,xhbig.com,xhbranch5.com,xhchannel.com,xhdate.world,xhlease.world,xhofficial.com,xhspot.com,xhtotal.com,xhwide2.com##a[href^="https://flirtify.com/"]
+✅ 多域名拆分: valuexh.life,xhaccess.com,xhamster.com,xhamster.desi,xhamster2.com,xhamster3.com,xhamster42.desi,xhbig.com,xhbranch5.com,xhchannel.com,xhdate.world,xhofficial.com,xhspot.com,xhtotal.com,xhwide2.com##a[href^="https://flirtify.com/"]
     → |valuexh.life##a[href^="https://flirtify.com/"]
     → |xhaccess.com##a[href^="https://flirtify.com/"]
     → |xhamster.com##a[href^="https://flirtify.com/"]
@@ -24908,7 +24885,6 @@
     → |xhbranch5.com##a[href^="https://flirtify.com/"]
     → |xhchannel.com##a[href^="https://flirtify.com/"]
     → |xhdate.world##a[href^="https://flirtify.com/"]
-    → |xhlease.world##a[href^="https://flirtify.com/"]
     → |xhofficial.com##a[href^="https://flirtify.com/"]
     → |xhspot.com##a[href^="https://flirtify.com/"]
     → |xhtotal.com##a[href^="https://flirtify.com/"]
@@ -24943,7 +24919,7 @@
     → |thenipslip.com##canvas
     → |wetpussygames.com##canvas
     → |xvideos.name##canvas
-✅ 多域名拆分: galleryxh.site,megaxh.com,openxh.com,stripchat.com,valuexh.life,xhaccess.com,xhamster.com,xhamster.desi,xhamster.one,xhamster1.desi,xhamster13.*,xhamster14.com,xhamster16.*,xhamster17.*,xhamster18.*,xhamster19.com,xhamster2.com,xhamster20.desi,xhamster3.*,xhamster37.com,xhamster40.com,xhamster42.desi,xhamster9.com,xhbig.com,xhbranch5.com,xhchannel.com,xhdate.world,xhlease.world,xhmoon5.com,xhofficial.com,xhopen.com,xhplanet2.com,xhspot.com,xhtotal.com,xhvid.com,xhwebsite2.com,xhwide1.com,xhwide2.com##div[class*="cams-wgt"]
+✅ 多域名拆分: galleryxh.site,megaxh.com,openxh.com,stripchat.com,valuexh.life,xhaccess.com,xhamster.com,xhamster.desi,xhamster.one,xhamster1.desi,xhamster13.*,xhamster14.com,xhamster16.*,xhamster17.*,xhamster18.*,xhamster19.com,xhamster2.com,xhamster20.desi,xhamster3.*,xhamster37.com,xhamster40.com,xhamster42.desi,xhamster9.com,xhbig.com,xhbranch5.com,xhchannel.com,xhdate.world,xhmoon5.com,xhofficial.com,xhopen.com,xhspot.com,xhtotal.com,xhvid.com,xhwebsite2.com,xhwide1.com,xhwide2.com##div[class*="cams-wgt"]
     → |galleryxh.site##div[class*="cams-wgt"]
     → |megaxh.com##div[class*="cams-wgt"]
     → |openxh.com##div[class*="cams-wgt"]
@@ -24971,11 +24947,9 @@
     → |xhbranch5.com##div[class*="cams-wgt"]
     → |xhchannel.com##div[class*="cams-wgt"]
     → |xhdate.world##div[class*="cams-wgt"]
-    → |xhlease.world##div[class*="cams-wgt"]
     → |xhmoon5.com##div[class*="cams-wgt"]
     → |xhofficial.com##div[class*="cams-wgt"]
     → |xhopen.com##div[class*="cams-wgt"]
-    → |xhplanet2.com##div[class*="cams-wgt"]
     → |xhspot.com##div[class*="cams-wgt"]
     → |xhtotal.com##div[class*="cams-wgt"]
     → |xhvid.com##div[class*="cams-wgt"]
@@ -25027,10 +25001,9 @@
     → |missav.ws##div[style="width: 300px; height: 250px;"]
     → |missav123.com##div[style="width: 300px; height: 250px;"]
     → |missav888.com##div[style="width: 300px; height: 250px;"]
-✅ 多域名拆分: manga18fx.com,manhwa18.cc,motherless.com##iframe[style]
+✅ 多域名拆分: manga18fx.com,manhwa18.cc##iframe[style]
     → |manga18fx.com##iframe[style]
     → |manhwa18.cc##iframe[style]
-    → |motherless.com##iframe[style]
 ✅ 多域名拆分: 3movs.com,ggjav.com,tnaflix.com##iframe[width="300"]
     → |3movs.com##iframe[width="300"]
     → |ggjav.com##iframe[width="300"]
@@ -25147,10 +25120,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: MYf+hWmRzM2v/wGaa4ybDA
-🚫 去掉注释行: ! Version: 202607011022
+🚫 去掉注释行: ! Checksum: R9yhIQztKWOIJ3VMkB2DpA
+🚫 去掉注释行: ! Version: 202607011303
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 01 Jul 2026 10:22 UTC
+🚫 去掉注释行: ! Last modified: 01 Jul 2026 13:03 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29755,10 +29728,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: fPXSlBHidp3vNNb4L8jvmA
-🚫 去掉注释行: ! Version: 202607011022
+🚫 去掉注释行: ! Checksum: K9TG0ZZfYuU0/BY2hALe3w
+🚫 去掉注释行: ! Version: 202607011303
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 01 Jul 2026 10:22 UTC
+🚫 去掉注释行: ! Last modified: 01 Jul 2026 13:03 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -30433,11 +30406,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202607011018
+🚫 去掉注释行: ! Version: 202607011311
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 01 Jul 2026 10:18 UTC
+🚫 去掉注释行: ! Last modified: 01 Jul 2026 13:11 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 06ff26a17515b0ee7ea71e407ecabd756984c66c
+🚫 去掉注释行: ! Commit: e9c23bc9426b8f863ca8117184cdf070bf1c4382
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -45056,9 +45029,6 @@
 ✅ 多域名拆分: cloudwards.net,guitaradvise.com###cbox
     → |cloudwards.net###cbox
     → |guitaradvise.com###cbox
-✅ 多域名拆分: animetrilogy.com,xcalibrscans.com###close-teaser
-    → |animetrilogy.com###close-teaser
-    → |xcalibrscans.com###close-teaser
 ✅ 多域名拆分: mirror.co.uk,themirror.com###comments-standalone-mpu
     → |mirror.co.uk###comments-standalone-mpu
     → |themirror.com###comments-standalone-mpu
@@ -46145,7 +46115,7 @@
     → |home-designing.com##.ad-block
     → |inc.com##.ad-block
     → |trustpilot.com##.ad-block
-✅ 多域名拆分: 12news.com,9news.com,9to5google.com,9to5mac.com,aad.org,advfn.com,all3dp.com,allaboutcookies.org,allnovel.net,amny.com,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,bolavip.com,bonappetit.com,breakingac.com,britishheritage.com,businessday.ng,businessinsider.com,capemaynjdaily.com,cbs8.com,cc.com,ccjdigital.com,centralbucksnews.com,dailytrust.com,delish.com,downbeach.com,dutchnews.nl,ecr.co.za,electrek.co,engineeringnews.co.za,equipmentworld.com,euromaidanpress.com,fastcompany.com,fishermap.org,footyheadlines.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,globalspec.com,gmanetwork.com,grammarbook.com,greatbritishchefs.com,greatitalianchefs.com,hbr.org,highdefdigest.com,historynet.com,horshamnow.com,howstuffworks.com,huffpost.com,ibtimes.sg,inc.com,insidehook.com,intouchweekly.com,irishcentral.com,karanpc.com,khou.com,koat.com,ktvu.com,lifeandstylemag.com,longislandpress.com,macstories.net,mail.com,memuplay.com,metro.us,metrophiladelphia.com,minecraftforum.net,miningweekly.com,mixed-news.com,mobilesyrup.com,modernhealthcare.com,namemc.com,nbcnews.com,newrepublic.com,northpennnow.com,nzherald.co.nz,ocnjdaily.com,oneesports.gg,opb.org,outkick.com,papermag.com,perkvalleynow.com,phillydaily.com,physiology.org,pixiv.net,podcastaddict.com,punchng.com,qns.com,realsport101.com,reason.com,refinery29.com,ringsidenews.com,roadandtrack.com,scroll.in,seaislenews.com,seattletimes.com,songkick.com,sportskeeda.com,storyboard18.com,streamfree.to,the-decoder.com,thedailybeast.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,thenationonlineng.net,thenewstack.io,thepost.co.nz,thetimes.com,tmz.com,toofab.com,tuasaude.com,uploadvr.com,usmagazine.com,vanguardngr.com,wildtangent.com,willowgrovenow.com,wired.com,wogx.com,worldsoccertalk.com,wral.com,yahoo.com##.ad-container
+✅ 多域名拆分: 12news.com,9news.com,9to5google.com,9to5mac.com,aad.org,advfn.com,all3dp.com,allaboutcookies.org,allnovel.net,amny.com,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,bolavip.com,bonappetit.com,breakingac.com,britishheritage.com,businessday.ng,businessinsider.com,capemaynjdaily.com,cbs8.com,cc.com,ccjdigital.com,centralbucksnews.com,dailytrust.com,delish.com,downbeach.com,dutchnews.nl,ecr.co.za,electrek.co,engineeringnews.co.za,equipmentworld.com,euromaidanpress.com,fastcompany.com,fishermap.org,footyheadlines.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,globalspec.com,gmanetwork.com,grammarbook.com,greatbritishchefs.com,greatitalianchefs.com,hbr.org,highdefdigest.com,historynet.com,horshamnow.com,howstuffworks.com,huffpost.com,ibtimes.sg,inc.com,insidehook.com,intouchweekly.com,irishcentral.com,karanpc.com,khou.com,koat.com,ktvu.com,lifeandstylemag.com,longislandpress.com,macstories.net,mail.com,memuplay.com,metro.us,metrophiladelphia.com,minecraftforum.net,miningweekly.com,mixed-news.com,mobilesyrup.com,modernhealthcare.com,namemc.com,nbcnews.com,newrepublic.com,northpennnow.com,nzherald.co.nz,ocnjdaily.com,oneesports.gg,opb.org,outkick.com,papermag.com,perkvalleynow.com,phillydaily.com,physiology.org,pixiv.net,podcastaddict.com,punchng.com,qns.com,realsport101.com,reason.com,refinery29.com,ringsidenews.com,roadandtrack.com,scroll.in,seaislenews.com,seattletimes.com,songkick.com,sportskeeda.com,storyboard18.com,the-decoder.com,thedailybeast.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,thenationonlineng.net,thenewstack.io,thepost.co.nz,thetimes.com,tmz.com,toofab.com,tuasaude.com,uploadvr.com,usmagazine.com,vanguardngr.com,wildtangent.com,willowgrovenow.com,wired.com,wogx.com,worldsoccertalk.com,wral.com,yahoo.com##.ad-container
     → |12news.com##.ad-container
     → |9news.com##.ad-container
     → |9to5google.com##.ad-container
@@ -46262,7 +46232,6 @@
     → |songkick.com##.ad-container
     → |sportskeeda.com##.ad-container
     → |storyboard18.com##.ad-container
-    → |streamfree.to##.ad-container
     → |the-decoder.com##.ad-container
     → |thedailybeast.com##.ad-container
     → |thelocal.at##.ad-container
@@ -46343,21 +46312,19 @@
     → |gbnews.com##.ad-wrapper
     → |smithsonianmag.com##.ad-wrapper
     → |tasty.co##.ad-wrapper
-✅ 多域名拆分: allscrabblewords.com,famously-dead.com,famouslyarrested.com,famouslyscandalous.com,gamesadshopper.com,iamgujarat.com,samayam.com,timesofindia.com,vijaykarnataka.com##.ad1
+✅ 多域名拆分: allscrabblewords.com,famously-dead.com,famouslyarrested.com,gamesadshopper.com,iamgujarat.com,samayam.com,timesofindia.com,vijaykarnataka.com##.ad1
     → |allscrabblewords.com##.ad1
     → |famously-dead.com##.ad1
     → |famouslyarrested.com##.ad1
-    → |famouslyscandalous.com##.ad1
     → |gamesadshopper.com##.ad1
     → |iamgujarat.com##.ad1
     → |samayam.com##.ad1
     → |timesofindia.com##.ad1
     → |vijaykarnataka.com##.ad1
-✅ 多域名拆分: allscrabblewords.com,famously-dead.com,famouslyarrested.com,famouslyscandalous.com##.ad2
+✅ 多域名拆分: allscrabblewords.com,famously-dead.com,famouslyarrested.com##.ad2
     → |allscrabblewords.com##.ad2
     → |famously-dead.com##.ad2
     → |famouslyarrested.com##.ad2
-    → |famouslyscandalous.com##.ad2
 ✅ 多域名拆分: economictimes.indiatimes.com,forums.sufficientvelocity.com,isp.netscape.com,m.economictimes.com,someecards.com,trailspace.com,wabetainfo.com##.adContainer
     → |economictimes.indiatimes.com##.adContainer
     → |forums.sufficientvelocity.com##.adContainer
@@ -46587,9 +46554,6 @@
 ✅ 多域名拆分: ndtv.com,ndtvgames.com##.ads-wrp
     → |ndtv.com##.ads-wrp
     → |ndtvgames.com##.ads-wrp
-✅ 多域名拆分: apkrabi.io,dna-launcher.apkrabi.com##.ads12
-    → |apkrabi.io##.ads12
-    → |dna-launcher.apkrabi.com##.ads12
 ✅ 多域名拆分: adlice.com,informer.com,waqi.info,xmplaylist.com##.adsbygoogle
     → |adlice.com##.adsbygoogle
     → |informer.com##.adsbygoogle
@@ -46720,8 +46684,7 @@
     → |freephonevalidator.com##.advertise
     → |kpopping.com##.advertise
     → |zimbabwesituation.com##.advertise
-✅ 多域名拆分: 456movie.net,aan.com,aarp.org,additudemag.com,agbi.com,animax-asia.com,audioxpress.com,axn-asia.com,bravotv.com,citiblog.co.uk,cnbctv18.com,cnn59.com,controleng.com,curiosmos.com,downzen.com,dw.com,escapeatx.com,foodsforbetterhealth.com,gemtvasia.com,hcn.org,hotdogwater.dog,huffingtonpost.co.uk,huffpost.com,investmentnews.com,ipaomtk.com,jewishworldreview.com,legion.org,lifezette.com,livestly.com,magtheweekly.com,moneyland.ch,offshore-energy.biz,onetvasia.com,oxygen.com,oydir.com,pch.com,philosophynow.org,prospectmagazine.co.uk,readamericanfootball.com,readarsenal.com,readastonvilla.com,readbasketball.com,readbetting.com,readbournemouth.com,readboxing.com,readbrighton.com,readbundesliga.com,readburnley.com,readcars.co,readceltic.com,readchampionship.com,readchelsea.com,readcricket.com,readcrystalpalace.com,readeverton.com,readeverything.co,readfashion.co,readfilm.co,readfood.co,readfootball.co,readgaming.co,readgolf.com,readhorseracing.com,readhuddersfield.com,readhull.com,readinternationalfootball.com,readlaliga.com,readleicester.com,readliverpoolfc.com,readmancity.com,readmanutd.com,readmiddlesbrough.com,readmma.com,readmotorsport.com,readmusic.co,readnewcastle.com,readnorwich.com,readnottinghamforest.com,readolympics.com,readpl.com,readrangers.com,readrugbyunion.com,readseriea.com,readshowbiz.co,readsouthampton.com,readsport.co,readstoke.com,readsunderland.com,readswansea.com,readtennis.co,readtottenham.com,readtv.co,readussoccer.com,readwatford.com,readwestbrom.com,readwestham.com,readwsl.com,reason.com,redvoicemedia.com,revolver.news,rogerebert.com,smithsonianmag.com,streamingmedia.com,the-scientist.com,thecatholicthing.org,thecrimson.com,therighthairstyles.com,topsmerch.com,weatherwatch.co.nz,whichcar.com.au,woot.com,worldofbitco.in##.advertisement
-    → |456movie.net##.advertisement
+✅ 多域名拆分: aan.com,aarp.org,additudemag.com,agbi.com,animax-asia.com,audioxpress.com,axn-asia.com,bravotv.com,citiblog.co.uk,cnbctv18.com,cnn59.com,controleng.com,curiosmos.com,downzen.com,dw.com,escapeatx.com,foodsforbetterhealth.com,gemtvasia.com,hcn.org,hotdogwater.dog,huffingtonpost.co.uk,huffpost.com,investmentnews.com,ipaomtk.com,jewishworldreview.com,legion.org,lifezette.com,livestly.com,magtheweekly.com,moneyland.ch,offshore-energy.biz,onetvasia.com,oxygen.com,oydir.com,pch.com,philosophynow.org,prospectmagazine.co.uk,readamericanfootball.com,readarsenal.com,readastonvilla.com,readbasketball.com,readbetting.com,readbournemouth.com,readboxing.com,readbrighton.com,readbundesliga.com,readburnley.com,readcars.co,readceltic.com,readchampionship.com,readchelsea.com,readcricket.com,readcrystalpalace.com,readeverton.com,readeverything.co,readfashion.co,readfilm.co,readfood.co,readfootball.co,readgaming.co,readgolf.com,readhorseracing.com,readhuddersfield.com,readhull.com,readinternationalfootball.com,readlaliga.com,readleicester.com,readliverpoolfc.com,readmancity.com,readmanutd.com,readmiddlesbrough.com,readmma.com,readmotorsport.com,readmusic.co,readnewcastle.com,readnorwich.com,readnottinghamforest.com,readolympics.com,readpl.com,readrangers.com,readrugbyunion.com,readseriea.com,readshowbiz.co,readsouthampton.com,readsport.co,readstoke.com,readsunderland.com,readswansea.com,readtennis.co,readtottenham.com,readtv.co,readussoccer.com,readwatford.com,readwestbrom.com,readwestham.com,readwsl.com,reason.com,redvoicemedia.com,revolver.news,rogerebert.com,smithsonianmag.com,streamingmedia.com,the-scientist.com,thecatholicthing.org,thecrimson.com,therighthairstyles.com,topsmerch.com,weatherwatch.co.nz,whichcar.com.au,woot.com,worldofbitco.in##.advertisement
     → |aan.com##.advertisement
     → |aarp.org##.advertisement
     → |additudemag.com##.advertisement
@@ -49271,8 +49234,7 @@
     → |radiotunes.com##.sidewall-ad-component
     → |rockradio.com##.sidewall-ad-component
     → |zenradio.com##.sidewall-ad-component
-✅ 多域名拆分: dlhd.link,mixonline.com,radioworld.com##.site-ad
-    → |dlhd.link##.site-ad
+✅ 多域名拆分: mixonline.com,radioworld.com##.site-ad
     → |mixonline.com##.site-ad
     → |radioworld.com##.site-ad
 ✅ 多域名拆分: canadianbusiness.com,torontolife.com##.sjm-dfp-wrapper
@@ -50491,8 +50453,7 @@
     → |pushsquare.com##[style*="min-height:250px;"]
     → |timeextension.com##[style*="min-height:250px;"]
     → |videogameschronicle.com##[style*="min-height:250px;"]
-✅ 多域名拆分: 4anime.gg,bravoporn.com,gogoanime.co.in,harimanga.me,hurawatch.cc,instamod.co,leercapitulo.co,mangadna.com,miraculous.to,putlockers.li,sukidesuost.info,waploaded.com,yts-subs.com##[style*="width: 100% !important;"]
-    → |4anime.gg##[style*="width: 100% !important;"]
+✅ 多域名拆分: bravoporn.com,gogoanime.co.in,harimanga.me,hurawatch.cc,instamod.co,leercapitulo.co,mangadna.com,miraculous.to,putlockers.li,sukidesuost.info,waploaded.com,yts-subs.com##[style*="width: 100% !important;"]
     → |bravoporn.com##[style*="width: 100% !important;"]
     → |gogoanime.co.in##[style*="width: 100% !important;"]
     → |harimanga.me##[style*="width: 100% !important;"]
@@ -50505,8 +50466,7 @@
     → |sukidesuost.info##[style*="width: 100% !important;"]
     → |waploaded.com##[style*="width: 100% !important;"]
     → |yts-subs.com##[style*="width: 100% !important;"]
-✅ 多域名拆分: 4anime.gg,bravoporn.com,gogoanime.co.in,harimanga.me,hurawatch.cc,instamod.co,leercapitulo.co,mangadna.com,messitv.net,miraculous.to,putlockers.li,sukidesuost.info,waploaded.com,yts-subs.com,zonatmo.com##[style*="z-index:"]
-    → |4anime.gg##[style*="z-index:"]
+✅ 多域名拆分: bravoporn.com,gogoanime.co.in,harimanga.me,hurawatch.cc,instamod.co,leercapitulo.co,mangadna.com,messitv.net,miraculous.to,putlockers.li,sukidesuost.info,waploaded.com,yts-subs.com##[style*="z-index:"]
     → |bravoporn.com##[style*="z-index:"]
     → |gogoanime.co.in##[style*="z-index:"]
     → |harimanga.me##[style*="z-index:"]
@@ -50520,7 +50480,6 @@
     → |sukidesuost.info##[style*="z-index:"]
     → |waploaded.com##[style*="z-index:"]
     → |yts-subs.com##[style*="z-index:"]
-    → |zonatmo.com##[style*="z-index:"]
 ✅ 多域名拆分: africam.com,open3dlab.com##[style="min-height: 90px;"]
     → |africam.com##[style="min-height: 90px;"]
     → |open3dlab.com##[style="min-height: 90px;"]
@@ -52747,7 +52706,7 @@
 ✅ 多域名拆分: dominationworld.com,femdomzzz.com##.ban-tezf
     → |dominationworld.com##.ban-tezf
     → |femdomzzz.com##.ban-tezf
-✅ 多域名拆分: 18teensex.tv,3movs.xxx,adultdeepfakes.com,babesmachine.com,chaturbate.com,fboomporn.com,freepornpicss.com,gramateurs.com,happysex.ch,hdtube.porn,its.porn,kawaiihentai.com,milffox.com,oldies.name,paradisehill.cc,playporngames.com,playsexgames.xxx,playvids.com,porngames.com,private.com,submittedgf.com,teenextrem.com,video.laxd.com,vikiporn.com,vjav.com,watchhentaivideo.com,waybig.com,xbabe.com,xcum.com,xnudepics.com,xpornpix.com,youcanfaptothis.com,yourdailygirls.com,youx.xxx##.banner
+✅ 多域名拆分: 18teensex.tv,3movs.xxx,adultdeepfakes.com,babesmachine.com,chaturbate.com,fboomporn.com,freepornpicss.com,gramateurs.com,happysex.ch,hdtube.porn,its.porn,kawaiihentai.com,milffox.com,oldies.name,paradisehill.cc,playporngames.com,playsexgames.xxx,playvids.com,porngames.com,private.com,submittedgf.com,teenextrem.com,video.laxd.com,vikiporn.com,vjav.com,watchhentaivideo.com,waybig.com,xbabe.com,xcum.com,xnudepics.com,youcanfaptothis.com,yourdailygirls.com,youx.xxx##.banner
     → |18teensex.tv##.banner
     → |3movs.xxx##.banner
     → |adultdeepfakes.com##.banner
@@ -52778,7 +52737,6 @@
     → |xbabe.com##.banner
     → |xcum.com##.banner
     → |xnudepics.com##.banner
-    → |xpornpix.com##.banner
     → |youcanfaptothis.com##.banner
     → |yourdailygirls.com##.banner
     → |youx.xxx##.banner
@@ -53221,8 +53179,7 @@
 ✅ 多域名拆分: fapnado.com,young-sexy.com##.popup
     → |fapnado.com##.popup
     → |young-sexy.com##.popup
-✅ 多域名拆分: 3dtube.xxx,nakedtube.com,pornmaki.com##.promotionbox
-    → |3dtube.xxx##.promotionbox
+✅ 多域名拆分: nakedtube.com,pornmaki.com##.promotionbox
     → |nakedtube.com##.promotionbox
     → |pornmaki.com##.promotionbox
 ✅ 多域名拆分: boy18tube.com,gaymovievids.com,me-gay.com,ts-tube.net,verygayboys.com##.random-td
@@ -53268,12 +53225,10 @@
     → |7mmtv.sx##.set_height_250
     → |7tv045.com##.set_height_250
     → |7tv047.com##.set_height_250
-✅ 多域名拆分: fullporno.site,gay-streaming.com,gayvideo.me##.sgpb-popup-dialog-main-div-wrapper
-    → |fullporno.site##.sgpb-popup-dialog-main-div-wrapper
+✅ 多域名拆分: gay-streaming.com,gayvideo.me##.sgpb-popup-dialog-main-div-wrapper
     → |gay-streaming.com##.sgpb-popup-dialog-main-div-wrapper
     → |gayvideo.me##.sgpb-popup-dialog-main-div-wrapper
-✅ 多域名拆分: fullporno.site,gay-streaming.com,gayvideo.me##.sgpb-popup-overlay
-    → |fullporno.site##.sgpb-popup-overlay
+✅ 多域名拆分: gay-streaming.com,gayvideo.me##.sgpb-popup-overlay
     → |gay-streaming.com##.sgpb-popup-overlay
     → |gayvideo.me##.sgpb-popup-overlay
 ✅ 多域名拆分: familyporn.tv,mywebcamsluts.com,transhero.com##.side_spot
@@ -53468,9 +53423,6 @@
 ✅ 多域名拆分: boyfriend.tv,boyfriendtv.com##.video-extra-wrapper
     → |boyfriend.tv##.video-extra-wrapper
     → |boyfriendtv.com##.video-extra-wrapper
-✅ 多域名拆分: pornhdtube.tv,recordbate.com##.video-overlay
-    → |pornhdtube.tv##.video-overlay
-    → |recordbate.com##.video-overlay
 ✅ 多域名拆分: thegay.com,upornia.com,upornia.tube##.video-page__content > .right
     → |thegay.com##.video-page__content > .right
     → |upornia.com##.video-page__content > .right
@@ -53685,17 +53637,16 @@
     → |gelbooru.com##a[href*="/tsyndicate.com/"]
     → |kemono.cr##a[href*="/tsyndicate.com/"]
     → |official.coomer.com.co##a[href*="/tsyndicate.com/"]
-✅ 多域名拆分: pornhub.com,pornhubpremium.com,pstargif.com,spankbang.com,sxyprn.com,tube8.com,tube8vip.com,xozilla.com,xxxymovies.com##a[href*="?ats="]
+✅ 多域名拆分: pornhub.com,pornhubpremium.com,spankbang.com,sxyprn.com,tube8.com,tube8vip.com,xozilla.com,xxxymovies.com##a[href*="?ats="]
     → |pornhub.com##a[href*="?ats="]
     → |pornhubpremium.com##a[href*="?ats="]
-    → |pstargif.com##a[href*="?ats="]
     → |spankbang.com##a[href*="?ats="]
     → |sxyprn.com##a[href*="?ats="]
     → |tube8.com##a[href*="?ats="]
     → |tube8vip.com##a[href*="?ats="]
     → |xozilla.com##a[href*="?ats="]
     → |xxxymovies.com##a[href*="?ats="]
-✅ 多域名拆分: adultfilmdatabase.com,analegg.com,animeidhentai.com,babeforums.org,camvideos.tv,camwhores.tv,coomer.st,erothots.co,f95zone.to,familypornhd.com,fritchy.com,gifsauce.com,hentai2read.com,hotpornfile.org,hpjav.com,imagebam.com,imgbox.com,imgtaxi.com,kemono.cr,motherless.com,muchohentai.com,myporn.club,official.coomer.com.co,pandamovies.pw,planetsuzy.org,porntrex.com,pussyspace.com,sendvid.com,sextvx.com,simpcity.cr,socialmediagirls.com,thefappeningblog.com,vintage-erotica-forum.com,vipergirls.to,xfantazy.com##a[href*="theporndude.com"]
+✅ 多域名拆分: adultfilmdatabase.com,analegg.com,animeidhentai.com,babeforums.org,camvideos.tv,camwhores.tv,coomer.st,erothots.co,f95zone.to,familypornhd.com,fritchy.com,gifsauce.com,hentai2read.com,hotpornfile.org,hpjav.com,imagebam.com,imgbox.com,imgtaxi.com,kemono.cr,muchohentai.com,myporn.club,official.coomer.com.co,pandamovies.pw,planetsuzy.org,porntrex.com,pussyspace.com,sendvid.com,sextvx.com,simpcity.cr,socialmediagirls.com,thefappeningblog.com,vintage-erotica-forum.com,vipergirls.to,xfantazy.com##a[href*="theporndude.com"]
     → |adultfilmdatabase.com##a[href*="theporndude.com"]
     → |analegg.com##a[href*="theporndude.com"]
     → |animeidhentai.com##a[href*="theporndude.com"]
@@ -53715,7 +53666,6 @@
     → |imgbox.com##a[href*="theporndude.com"]
     → |imgtaxi.com##a[href*="theporndude.com"]
     → |kemono.cr##a[href*="theporndude.com"]
-    → |motherless.com##a[href*="theporndude.com"]
     → |muchohentai.com##a[href*="theporndude.com"]
     → |myporn.club##a[href*="theporndude.com"]
     → |official.coomer.com.co##a[href*="theporndude.com"]
@@ -53746,7 +53696,7 @@
 ✅ 多域名拆分: f95zone.to,imagetwist.com##a[href^="https://candy.ai/"]
     → |f95zone.to##a[href^="https://candy.ai/"]
     → |imagetwist.com##a[href^="https://candy.ai/"]
-✅ 多域名拆分: valuexh.life,xhaccess.com,xhamster.com,xhamster.desi,xhamster2.com,xhamster3.com,xhamster42.desi,xhbig.com,xhbranch5.com,xhchannel.com,xhdate.world,xhlease.world,xhofficial.com,xhspot.com,xhtotal.com,xhwide2.com##a[href^="https://flirtify.com/"]
+✅ 多域名拆分: valuexh.life,xhaccess.com,xhamster.com,xhamster.desi,xhamster2.com,xhamster3.com,xhamster42.desi,xhbig.com,xhbranch5.com,xhchannel.com,xhdate.world,xhofficial.com,xhspot.com,xhtotal.com,xhwide2.com##a[href^="https://flirtify.com/"]
     → |valuexh.life##a[href^="https://flirtify.com/"]
     → |xhaccess.com##a[href^="https://flirtify.com/"]
     → |xhamster.com##a[href^="https://flirtify.com/"]
@@ -53758,7 +53708,6 @@
     → |xhbranch5.com##a[href^="https://flirtify.com/"]
     → |xhchannel.com##a[href^="https://flirtify.com/"]
     → |xhdate.world##a[href^="https://flirtify.com/"]
-    → |xhlease.world##a[href^="https://flirtify.com/"]
     → |xhofficial.com##a[href^="https://flirtify.com/"]
     → |xhspot.com##a[href^="https://flirtify.com/"]
     → |xhtotal.com##a[href^="https://flirtify.com/"]
@@ -53793,7 +53742,7 @@
     → |thenipslip.com##canvas
     → |wetpussygames.com##canvas
     → |xvideos.name##canvas
-✅ 多域名拆分: galleryxh.site,megaxh.com,openxh.com,stripchat.com,valuexh.life,xhaccess.com,xhamster.com,xhamster.desi,xhamster.one,xhamster1.desi,xhamster13.*,xhamster14.com,xhamster16.*,xhamster17.*,xhamster18.*,xhamster19.com,xhamster2.com,xhamster20.desi,xhamster3.*,xhamster37.com,xhamster40.com,xhamster42.desi,xhamster9.com,xhbig.com,xhbranch5.com,xhchannel.com,xhdate.world,xhlease.world,xhmoon5.com,xhofficial.com,xhopen.com,xhplanet2.com,xhspot.com,xhtotal.com,xhvid.com,xhwebsite2.com,xhwide1.com,xhwide2.com##div[class*="cams-wgt"]
+✅ 多域名拆分: galleryxh.site,megaxh.com,openxh.com,stripchat.com,valuexh.life,xhaccess.com,xhamster.com,xhamster.desi,xhamster.one,xhamster1.desi,xhamster13.*,xhamster14.com,xhamster16.*,xhamster17.*,xhamster18.*,xhamster19.com,xhamster2.com,xhamster20.desi,xhamster3.*,xhamster37.com,xhamster40.com,xhamster42.desi,xhamster9.com,xhbig.com,xhbranch5.com,xhchannel.com,xhdate.world,xhmoon5.com,xhofficial.com,xhopen.com,xhspot.com,xhtotal.com,xhvid.com,xhwebsite2.com,xhwide1.com,xhwide2.com##div[class*="cams-wgt"]
     → |galleryxh.site##div[class*="cams-wgt"]
     → |megaxh.com##div[class*="cams-wgt"]
     → |openxh.com##div[class*="cams-wgt"]
@@ -53821,11 +53770,9 @@
     → |xhbranch5.com##div[class*="cams-wgt"]
     → |xhchannel.com##div[class*="cams-wgt"]
     → |xhdate.world##div[class*="cams-wgt"]
-    → |xhlease.world##div[class*="cams-wgt"]
     → |xhmoon5.com##div[class*="cams-wgt"]
     → |xhofficial.com##div[class*="cams-wgt"]
     → |xhopen.com##div[class*="cams-wgt"]
-    → |xhplanet2.com##div[class*="cams-wgt"]
     → |xhspot.com##div[class*="cams-wgt"]
     → |xhtotal.com##div[class*="cams-wgt"]
     → |xhvid.com##div[class*="cams-wgt"]
@@ -53877,10 +53824,9 @@
     → |missav.ws##div[style="width: 300px; height: 250px;"]
     → |missav123.com##div[style="width: 300px; height: 250px;"]
     → |missav888.com##div[style="width: 300px; height: 250px;"]
-✅ 多域名拆分: manga18fx.com,manhwa18.cc,motherless.com##iframe[style]
+✅ 多域名拆分: manga18fx.com,manhwa18.cc##iframe[style]
     → |manga18fx.com##iframe[style]
     → |manhwa18.cc##iframe[style]
-    → |motherless.com##iframe[style]
 ✅ 多域名拆分: 3movs.com,ggjav.com,tnaflix.com##iframe[width="300"]
     → |3movs.com##iframe[width="300"]
     → |ggjav.com##iframe[width="300"]
@@ -54022,11 +53968,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202607011018
+🚫 去掉注释行: ! Version: 202607011311
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 01 Jul 2026 10:18 UTC
+🚫 去掉注释行: ! Last modified: 01 Jul 2026 13:11 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 06ff26a17515b0ee7ea71e407ecabd756984c66c
+🚫 去掉注释行: ! Commit: e9c23bc9426b8f863ca8117184cdf070bf1c4382
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -70283,7 +70229,7 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !Generated: 2026-07-01 14:25:03
+🚫 去掉注释行: !Generated: 2026-07-01 18:31:40
 🚫 去掉注释行: !RuleCount: 1763124
 ✅ HOSTS 转换: 127.0.0.1 0022a601.pphost.net → |0022a601.pphost.net^
 ✅ HOSTS 转换: 127.0.0.1 0dahrppq.taktikbet.bio → |0dahrppq.taktikbet.bio^
@@ -164446,10 +164392,10 @@
 🚫 去掉注释行: ! Blocked domains: 4858
 🚫 去掉注释行: ! unBlocked domains: 15
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: L9hdLji1a/tcLdxY07Qq0g
-🚫 去掉注释行: ! Version: 202607010800
+🚫 去掉注释行: ! Checksum: y+VNFTSVVRKIZdTJU0zZBQ
+🚫 去掉注释行: ! Version: 202607011125
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-07-01 08:00 UTC
+🚫 去掉注释行: ! Last modified: 2026-07-01 11:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -230089,9 +230035,9 @@
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: !---------------------------------Allowlists----------------------------------!
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: 14pqHFXvMExDkxl/Wdu3Cg
+🚫 去掉注释行: ! Checksum: L4mdfqCjr5qTzVeIylh4gw
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Last modified: 2026-07-01 03:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-07-01 11:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
