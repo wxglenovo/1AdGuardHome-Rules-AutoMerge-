@@ -5843,6 +5843,7 @@ columbian.com##.cta
 kcrw.com##.cta-wrapper
 colorado.edu##.cu-share-sidebar
 indiabusinessjournal.com##.cus-sidebar-social-media-connect
+thetab.com##.custom-box-desktop
 therighthairstyles.com##.custom-pinterest-wrap
 dinneratthezoo.com##.cwp-food-footer
 ourworldindata.org##.data-insight-copy-link-button
@@ -17936,6 +17937,7 @@ just-eat.ie##div[data-qa="jet-privacy-settings"]
 |author.today###cookieConsent
 |bertioga.sp.gov.br###cookieConsent
 |cellc.co.za###cookieConsent
+|chartgo.com###cookieConsent
 |companywall.hr###cookieConsent
 |die-wertachpraxis.de###cookieConsent
 |finstat.cz###cookieConsent
@@ -35774,6 +35776,7 @@ io.google##body:style(overflow: auto !important; position: initial !important;)
 uncrossy.com##+js(set, cookieManager, {})
 uncrossy.com##+js(set, cookieManager.initialize, noopFunc)
 uncrossy.com##+js(set, cookieManager.needsConsentBanner, falseFunc)
+xvideos.com##+js(set, xv.disclaimer.displayNewCookiePopup, noopFunc)
 cosmote.gr##+js(set-cookie, cookie_consent_set, 1)
 |bibliotheques.paris.fr##.cookies-management
 |bm-lille.fr##.cookies-management
@@ -38989,8 +38992,10 @@ hbor.hr###JPO
 vobco.hr###blokDiv
 dokutv.net###cmp_overlay
 liberal.hr###footer
-aktivnosti.zagreb.hr###gdc-cookieSettings
-mikronis.hr###gdc-shade
+|aktivnosti.zagreb.hr###gdc-cookieSettings
+|porezna-uprava.gov.hr###gdc-cookieSettings
+|mikronis.hr###gdc-shade
+|porezna-uprava.gov.hr###gdc-shade
 vindija.hr###gdpr-overlay
 iarh.hr###kukijima
 tzdubrovnik.hr###mygdprPopupHR
@@ -41075,6 +41080,7 @@ hotnews.ro###avert
 cursbnr.ro###avert_all_page
 adelaida.ro###barwrap
 hotero.ro###bgOver
+tribuna.ro###ccm-banner
 pcgarage.ro###ckieselect_i
 renting-tm.ro###ckn
 avertisment.ro###consentModal
