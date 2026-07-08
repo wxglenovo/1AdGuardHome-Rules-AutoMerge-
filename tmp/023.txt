@@ -7578,6 +7578,7 @@ newstalkzb.co.nz##[data-test-ui="social-connect"]
 sundayworld.com##[data-testid="article-share"]
 stuff.co.nz##[data-testid="body-cta"]
 nytimes.com##[data-testid="social-group"]
+codecademy.com##[data-testid="social-share-dropdown"]
 dw.com##[data-tracking-name="footer-section-social-media"]
 dw.com##[data-tracking-name^="sharing-icons-"]
 news.yahoo.com##[data-ylk="elm:partnercta;itc:0;sec:google-pub;"]
@@ -15917,7 +15918,8 @@ iqtree.github.io##.cookiealert
 |hs-bremen.de##.cookiebanner
 |worldbook.com##.cookiebanner
 plitch.com##.cookiebar-overlay
-spotlight.cn##.cookiebox
+|fertisuisse.ch##.cookiebox
+|spotlight.cn##.cookiebox
 paymentcloudinc.com##.cookiebtn
 |etias.com##.cookieconsent
 |s-iq.co##.cookieconsent
@@ -22150,6 +22152,7 @@ decovarrubias.es###sliding-popup-cookies
 |onlineradio.pl##.cookie-consent
 |osa.cz##.cookie-consent
 |oviahealth.com##.cookie-consent
+|pagepublications.co##.cookie-consent
 |paintbyclick.com##.cookie-consent
 |pantheondesign.com##.cookie-consent
 |pastelink.net##.cookie-consent
@@ -41059,6 +41062,7 @@ direcaoconcursos.com.br##.sc-faada46b-0
 runrun.it##.sc-iBYQkv
 soustix.com.br##.sc-jONmMj
 brainly.com.br##.section--3Yobl
+chavesnamao.com.br##.style_Consent__cE_Gj
 trustvox.com.br##.style__Wrapper-sc-1u0uhw7-0
 pernambucanas.com.br##.styles__CookieContent-sc-16mpd2a-0
 rdstation.com##.syn-container-banner1
@@ -47922,6 +47926,7 @@ walletinvestor.com##[data-section="news_header_top"]
 foreignpolicy.com##[data-shortcode-newsletter]
 theguardian.com##[data-spacefinder-type="model.dotcomrendering.pageElements.NewsletterSignupBlockElement"]
 topgear.com##[data-testid="NewsletterFooter"]
+reuters.com##[data-testid="NewsletterSignupCard"]
 bonappetit.com##[data-testid="NewsletterSubscribeFormWrapper"]
 businesstimes.com.sg##[data-testid="article-inside-btg-newsletter-component"]
 sifted.eu##[data-testid="in-house-ad-climatetech"]
