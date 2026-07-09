@@ -13730,6 +13730,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||reelgood.com/v3.0/checkip
 ||rei.com/customer-analytics-attributes/
 ||reichelt.com/setsid.php?
+||relay-prod.typeracer.com/e/
+||relay-prod.typeracer.com/flags/
 ||relay.fiverr.com^
 ||remarkable.com/api/proxy/marker
 ||reports.tunein.com^
@@ -51715,6 +51717,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||ndtv.in/estatic/hindi-fcm.js
 ||staticasset.amarujala.com/handler/recomUserEvent.js
 ||analytic20.detik.com^
+||api-rengine-stg.viva.id/hit
 ||bukalapak.com/banner-redirector/impression
 ||bukalapak.com/track-external-visit
 ||bukalapak.com/track_external.json
