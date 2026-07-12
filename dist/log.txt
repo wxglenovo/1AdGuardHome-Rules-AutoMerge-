@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-07-12T10:32:55.573Z
+🚫 去掉注释行: ! Last modified: 2026-07-12T12:23:15.936Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -1601,10 +1601,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 92664
-🚫 去掉注释行: ! Checksum: Jb1vf/S3k5Gp8HSRnbTlmQ
-🚫 去掉注释行: ! Version: 202607121141
+🚫 去掉注释行: ! Checksum: 7F4YRiYtkzO9qnrfDWIxuA
+🚫 去掉注释行: ! Version: 202607121332
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 12 Jul 2026 11:41 UTC
+🚫 去掉注释行: ! Last modified: 12 Jul 2026 13:32 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -1655,7 +1655,6 @@
 🚫 去掉注释行: ###AD_300
 🚫 去掉注释行: ###AD_468x60
 🚫 去掉注释行: ###AD_ROW
-🚫 去掉注释行: ###AD_Top
 🚫 去掉注释行: ###AD_text
 🚫 去掉注释行: ###ADbox
 🚫 去掉注释行: ###Ad-3-Slider
@@ -1674,7 +1673,6 @@
 🚫 去掉注释行: ###AdContainerTop
 🚫 去掉注释行: ###AdContent
 🚫 去掉注释行: ###AdDisclaimer
-🚫 去掉注释行: ###AdHeader
 🚫 去掉注释行: ###AdMiddle
 🚫 去掉注释行: ###AdPopUp
 🚫 去掉注释行: ###AdRectangleBanner
@@ -2016,7 +2014,6 @@
 🚫 去掉注释行: ###ad-large-banner-top
 🚫 去掉注释行: ###ad-large-header
 🚫 去掉注释行: ###ad-lb-secondary
-🚫 去掉注释行: ###ad-lead
 🚫 去掉注释行: ###ad-leadboard1
 🚫 去掉注释行: ###ad-leadboard2
 🚫 去掉注释行: ###ad-leader
@@ -4448,7 +4445,6 @@
 🚫 去掉注释行: ###home_mpu
 🚫 去掉注释行: ###home_sidebar_ad
 🚫 去掉注释行: ###home_top_right_ad
-🚫 去掉注释行: ###homead
 🚫 去掉注释行: ###homeheaderad
 🚫 去掉注释行: ###homepage-ad
 🚫 去掉注释行: ###homepage-adbar
@@ -16327,6 +16323,12 @@
 ✅ 多域名拆分: countrylife.co.uk,whowhatwear.com###highline-leaderboard
     → |countrylife.co.uk###highline-leaderboard
     → |whowhatwear.com###highline-leaderboard
+✅ 多域名拆分: barcelonadestinations.com,farmads.co.uk,farmersguide.co.uk,honeybeekeeping.co.uk,towindustryweek.com###homead
+    → |barcelonadestinations.com###homead
+    → |farmads.co.uk###homead
+    → |farmersguide.co.uk###homead
+    → |honeybeekeeping.co.uk###homead
+    → |towindustryweek.com###homead
 ✅ 多域名拆分: nutritioninsight.com,packaginginsights.com###horizontalblk
     → |nutritioninsight.com###horizontalblk
     → |packaginginsights.com###horizontalblk
@@ -25144,10 +25146,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: 8I67WI/pExGSnyo2KIgjcQ
-🚫 去掉注释行: ! Version: 202607121141
+🚫 去掉注释行: ! Checksum: JtsaWcp4TwFF/oPuUeDbuQ
+🚫 去掉注释行: ! Version: 202607121332
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 12 Jul 2026 11:41 UTC
+🚫 去掉注释行: ! Last modified: 12 Jul 2026 13:32 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29747,10 +29749,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: gKG0LxxMcGVuK/kH+xTjPg
-🚫 去掉注释行: ! Version: 202607121141
+🚫 去掉注释行: ! Checksum: eGgFyyp2ezsuYPry0UFy6w
+🚫 去掉注释行: ! Version: 202607121332
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 12 Jul 2026 11:41 UTC
+🚫 去掉注释行: ! Last modified: 12 Jul 2026 13:32 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -30425,11 +30427,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202607121150
+🚫 去掉注释行: ! Version: 202607121333
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 12 Jul 2026 11:50 UTC
+🚫 去掉注释行: ! Last modified: 12 Jul 2026 13:33 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: b81800867f1946a64cb420d103520ea98fdc88d3
+🚫 去掉注释行: ! Commit: 5b697a42f59329d7ce5ada28e440c7d9a641ace2
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -30483,7 +30485,6 @@
 🚫 去掉注释行: ###AD_300
 🚫 去掉注释行: ###AD_468x60
 🚫 去掉注释行: ###AD_ROW
-🚫 去掉注释行: ###AD_Top
 🚫 去掉注释行: ###AD_text
 🚫 去掉注释行: ###ADbox
 🚫 去掉注释行: ###Ad-3-Slider
@@ -30502,7 +30503,6 @@
 🚫 去掉注释行: ###AdContainerTop
 🚫 去掉注释行: ###AdContent
 🚫 去掉注释行: ###AdDisclaimer
-🚫 去掉注释行: ###AdHeader
 🚫 去掉注释行: ###AdMiddle
 🚫 去掉注释行: ###AdPopUp
 🚫 去掉注释行: ###AdRectangleBanner
@@ -30844,7 +30844,6 @@
 🚫 去掉注释行: ###ad-large-banner-top
 🚫 去掉注释行: ###ad-large-header
 🚫 去掉注释行: ###ad-lb-secondary
-🚫 去掉注释行: ###ad-lead
 🚫 去掉注释行: ###ad-leadboard1
 🚫 去掉注释行: ###ad-leadboard2
 🚫 去掉注释行: ###ad-leader
@@ -33276,7 +33275,6 @@
 🚫 去掉注释行: ###home_mpu
 🚫 去掉注释行: ###home_sidebar_ad
 🚫 去掉注释行: ###home_top_right_ad
-🚫 去掉注释行: ###homead
 🚫 去掉注释行: ###homeheaderad
 🚫 去掉注释行: ###homepage-ad
 🚫 去掉注释行: ###homepage-adbar
@@ -45161,6 +45159,12 @@
 ✅ 多域名拆分: countrylife.co.uk,whowhatwear.com###highline-leaderboard
     → |countrylife.co.uk###highline-leaderboard
     → |whowhatwear.com###highline-leaderboard
+✅ 多域名拆分: barcelonadestinations.com,farmads.co.uk,farmersguide.co.uk,honeybeekeeping.co.uk,towindustryweek.com###homead
+    → |barcelonadestinations.com###homead
+    → |farmads.co.uk###homead
+    → |farmersguide.co.uk###homead
+    → |honeybeekeeping.co.uk###homead
+    → |towindustryweek.com###homead
 ✅ 多域名拆分: nutritioninsight.com,packaginginsights.com###horizontalblk
     → |nutritioninsight.com###horizontalblk
     → |packaginginsights.com###horizontalblk
@@ -54004,11 +54008,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202607121150
+🚫 去掉注释行: ! Version: 202607121333
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 12 Jul 2026 11:50 UTC
+🚫 去掉注释行: ! Last modified: 12 Jul 2026 13:33 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: b81800867f1946a64cb420d103520ea98fdc88d3
+🚫 去掉注释行: ! Commit: 5b697a42f59329d7ce5ada28e440c7d9a641ace2
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -70267,8 +70271,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !Generated: 2026-07-12 19:43:08
-🚫 去掉注释行: !RuleCount: 544112
+🚫 去掉注释行: !Generated: 2026-07-12 21:13:15
+🚫 去掉注释行: !RuleCount: 544121
 ✅ HOSTS 转换: 127.0.0.1 0022a601.pphost.net → |0022a601.pphost.net^
 ✅ HOSTS 转换: 127.0.0.1 123.ywxww.net → |123.ywxww.net^
 ✅ HOSTS 转换: 127.0.0.1 1717.1000uc.com → |1717.1000uc.com^
@@ -70551,7 +70555,6 @@
 ✅ HOSTS 转换: 127.0.0.1 qv.co.ke → |qv.co.ke^
 ✅ HOSTS 转换: 127.0.0.1 ramirex.ro → |ramirex.ro^
 ✅ HOSTS 转换: 127.0.0.1 rdm.91yunma.cn → |rdm.91yunma.cn^
-✅ HOSTS 转换: 127.0.0.1 reauthenticator.com → |reauthenticator.com^
 ✅ HOSTS 转换: 127.0.0.1 records.dennisign.se → |records.dennisign.se^
 ✅ HOSTS 转换: 127.0.0.1 redlk.com → |redlk.com^
 ✅ HOSTS 转换: 127.0.0.1 refaccionesalma.com.mx → |refaccionesalma.com.mx^
@@ -70559,6 +70562,7 @@
 ✅ HOSTS 转换: 127.0.0.1 reutilizemais.co.mz → |reutilizemais.co.mz^
 ✅ HOSTS 转换: 127.0.0.1 rheddh.com → |rheddh.com^
 ✅ HOSTS 转换: 127.0.0.1 riderspin.com → |riderspin.com^
+✅ HOSTS 转换: 127.0.0.1 ringmycellphone.com → |ringmycellphone.com^
 ✅ HOSTS 转换: 127.0.0.1 robertrowe.com → |robertrowe.com^
 ✅ HOSTS 转换: 127.0.0.1 roland.uscourt.online → |roland.uscourt.online^
 ✅ HOSTS 转换: 127.0.0.1 royalindiancurryclub.com → |royalindiancurryclub.com^
@@ -70708,6 +70712,7 @@
 ✅ HOSTS 转换: 127.0.0.1 www.website.mypetapp.co.za → |www.website.mypetapp.co.za^
 ✅ HOSTS 转换: 127.0.0.1 www.xn--on3b15m2lco2u.com → |www.xn--on3b15m2lco2u.com^
 ✅ HOSTS 转换: 127.0.0.1 www.zamilgroups.com → |www.zamilgroups.com^
+✅ HOSTS 转换: 127.0.0.1 www.zhikey.com → |www.zhikey.com^
 ✅ HOSTS 转换: 127.0.0.1 xb7ea3kq.betturkey.bet → |xb7ea3kq.betturkey.bet^
 ✅ HOSTS 转换: 127.0.0.1 xbvj.bahigo90bet.com → |xbvj.bahigo90bet.com^
 ✅ HOSTS 转换: 127.0.0.1 xcfumaos.betebet.poker → |xcfumaos.betebet.poker^
