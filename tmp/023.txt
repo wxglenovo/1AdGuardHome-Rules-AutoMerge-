@@ -18538,6 +18538,7 @@ sogeti.*###popup-cookieConsent
 |halalit.co.il###cookie-consent-popup
 |kbmall.co.il###cookie-consent-popup
 |kingelectric.co.il###cookie-consent-popup
+|linberg.nl###cookie-consent-popup
 |mabatelectric.com###cookie-consent-popup
 |me-electric.co.il###cookie-consent-popup
 |pccenter.co.il###cookie-consent-popup
@@ -42043,6 +42044,7 @@ iryo.eu##wc-cookies-manager
 vw.com.mx###ensNotifyBanner
 loging.mk##.showBackdrop
 loging.mk##.showConsent
+sedeelectronica.sic.gov.co##[aria-label="Aviso de cookies"]
 fcf.cat##.cookies-block
 lacasadelspantalons.cat##.fc-consent-root
 fueib.org##.fue-modal
@@ -42348,6 +42350,7 @@ bsmi.or.id##.showBanner
 raisa.aeonstore.id##.site-gdpr
 myorbit.id##[style="align-items: center; background-color: rgb(237, 245, 252); padding-top: 12px; padding-bottom: 12px; -webkit-box-align: center;"]
 batdongsan.com.vn###dataProtectionPopupWrapper
+topcv.vn##.banner-setting-cookie
 vdes.vn##.cookieBanner_show__1E8Dj
 ants.vn##.sg-popup-content
 fptshop.com.vn##[data-cookie-consent-modal="true"]
@@ -44464,6 +44467,7 @@ nomadicmatt.com###footer-email
 statnews.com###footer-email-form
 the-scientist.com###footer-hubspot-form
 engadget.com###footer-newsletter
+zscaler.com###footer-subscription-form
 independent.co.uk###footerPrompt
 grit.com###footer_signup_form
 glutenfreepalate.com###form-subscribe
@@ -44477,6 +44481,7 @@ pcipolicyportal.com###g-bottom1
 |kitchenknifeforums.com###gb-newsletter-modal-reg
 quadraphonicquad.com###gb-reg-modal-block
 quadraphonicquad.com###gb-reg-modal-reg
+zscaler.com###get-latest-updates
 sourceforge.net###get-updates
 warontherocks.com###gform_wrapper_1
 verybestbaking.com###gigya-subscribe-with-email-screen
@@ -44821,6 +44826,7 @@ screendaily.com###subs-ribbon
 |codastory.com###subscribe
 |dailygood.org###subscribe
 |databricks.com###subscribe
+|evero.com###subscribe
 |fjolt.com###subscribe
 |homeofdirectcommerce.com###subscribe
 |knowledge.wharton.upenn.edu###subscribe
@@ -47976,6 +47982,7 @@ driving.ca##[data-aqa="widget-breaking-banner"]
 cepa.org##[data-block="newsletter"]
 plantbasednews.org##[data-class="support-us__wrapper"]
 abc.net.au##[data-component="Newsletter"]
+endjin.com##[data-cta-id="fabric-weekly-newsletter"]
 digg.com##[data-cy="namespace-home-newsletter"]
 nationalpost.com##[data-evt-val*="author_newsletter"]
 psyche.co##[data-ga-view-prompt="psyche_cta_pop_up_subscribe"]
@@ -53862,6 +53869,7 @@ msn.com##views-promo-card
 reddit.com##xpromo-app-selector
 reddit.com##xpromo-top-button
 gemini.google.com##.cdk-overlay-container:has(.get-app-mobile-dialog)
+404media.co##.col-xs-12.col-md-3:has(> .subscribe-form)
 m.iyf.tv##.container:has(> div.download-title)
 analyticsindiamag.com##.elementor-section-content-middle[data-settings="{\"background_background\":\"classic\"}"]:has(a[href^="https://play.google.com/store/apps"])
 mixch.tv##.modal.show:has(.move-app-title)
