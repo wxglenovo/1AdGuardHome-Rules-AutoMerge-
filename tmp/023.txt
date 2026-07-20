@@ -3241,6 +3241,7 @@ bitcoinworld.co.in##.scroll-wrap
 |kathmandupost.com##.scrollTop
 |millenniumbim.co.mz##.scrollTop
 allnews.ge##.scrollUp
+hp.com##.scrollUpButton
 tomsguide.com##.scrollUp__button
 |khronos.org##.scroll_to
 |kyivpost.com##.scroll_to
@@ -5493,6 +5494,9 @@ khaleejtimes.com##.art-top-share-pan-nf
 hindustantimes.com##.artShare
 webdunia.com##.arti_social_block
 wxyz.com##.article-action
+|androidpolice.com##.article-add-google
+|givemesport.com##.article-add-google
+|makeuseof.com##.article-add-google
 worldsoccertalk.com##.article-body__social-links
 jpost.com##.article-buttons-wrap
 chosun.com##.article-control-bar
@@ -5610,6 +5614,7 @@ news.artnet.com##.author-links
 |secretldn.com##.author-share-buttons
 proprivacy.com##.author-social-icons
 adweek.com##.aw-social-share-container
+informationsecuritybuzz.com##.ayudawp-share-buttons
 |irishtimes.com##.b-footer__social-links-container
 |metroecuador.com.ec##.b-footer__social-links-container
 |publimetro.com.mx##.b-footer__social-links-container
@@ -5849,6 +5854,7 @@ colorado.edu##.cu-share-sidebar
 indiabusinessjournal.com##.cus-sidebar-social-media-connect
 thetab.com##.custom-box-desktop
 therighthairstyles.com##.custom-pinterest-wrap
+savingadvice.com##.custom-share
 dinneratthezoo.com##.cwp-food-footer
 ourworldindata.org##.data-insight-copy-link-button
 digitbin.com##.db-ps-btn
@@ -6707,6 +6713,7 @@ bravotube.net##.sh
 dailysabah.com##.shB
 sleepfoundation.org##.sh_space.share
 onlinelibrary.wiley.com##.share-access__ctrl
+hp.com##.share-action-button
 |skinnyms.com##.share-article
 |texasmonthly.com##.share-article
 radiopaedia.org##.share-article-link
@@ -9342,16 +9349,20 @@ miruro.*##section[class^="_noticeSection_"]
 |coindesk.com##.social-share
 |cool987fm.com##.social-share
 |crn.com##.social-share
+|cyberscoop.com##.social-share
 |dakotacountry961.com##.social-share
 |danburycountry.com##.social-share
 |dave1077.com##.social-share
+|defensescoop.com##.social-share
 |eagle1023fm.com##.social-share
 |eagle933.com##.social-share
+|edscoop.com##.social-share
 |espn960sanangelo.com##.social-share
 |espnquadcities.com##.social-share
 |espnsiouxfalls.com##.social-share
 |espnwesterncolorado.com##.social-share
 |euromaidanpress.com##.social-share
+|fedscoop.com##.social-share
 |foxsports1510.com##.social-share
 |foxsportsutahradio.com##.social-share
 |freepressjournal.in##.social-share
@@ -9514,6 +9525,7 @@ miruro.*##section[class^="_noticeSection_"]
 |squatchrocks.com##.social-share
 |star939.com##.social-share
 |star981.com##.social-share
+|statescoop.com##.social-share
 |supertalk1270.com##.social-share
 |talk1067.com##.social-share
 |talk1470.com##.social-share
@@ -45724,6 +45736,7 @@ irishexaminer.com##.custom-functionality-newsletter
 |news.uthscsa.edu##.custom-html-widget
 taylorswift.com##.custom-mailing-list
 sweepstakesfanatics.com##.custom_signup
+cloudwards.net##.cws-lead-magnet
 caltech.edu##.d-flex.news-info-block__sharing
 irishexaminer.com##.d-flex.row
 okmagazine.com##.dNsyER
@@ -47092,6 +47105,7 @@ slate.com##.prudie-google-form
 |planetrugby.com##.ps-email-subscription
 |teamtalk.com##.ps-email-subscription
 |tennis365.com##.ps-email-subscription
+techrepublic.com##.pt-\[20px\]
 |campblessing.org##.pum-overlay
 |canaleenergia.com##.pum-overlay
 |celebrityaccess.com##.pum-overlay
@@ -47528,6 +47542,7 @@ mamamia.com.au##.subscribe-border-bottom
 |twistedsifter.com##.subscribe-box
 |albawaba.com##.subscribe-btn
 |sport360.com##.subscribe-btn
+hp.com##.subscribe-btn-container
 |972mag.com##.subscribe-button
 |ppc.land##.subscribe-button
 |sfist.com##.subscribe-button
@@ -47975,6 +47990,7 @@ blog.youtube##.yt-newsletter-toast
 |unifiedpatents.com##.yui-popup-container-node
 |ursulakleguin.com##.yui-popup-container-node
 |worldofreel.com##.yui-popup-container-node
+techrepublic.com##.z-10000
 qz.com##.z-\[999999\].bg-black\/50
 culturemap.com##.z-newsletter
 sciencenews.org##.zephr-form-container
@@ -50534,6 +50550,7 @@ oled-info.com##+js(set-cookie, awpopup_501941328, 1)
 |hypebot.com##.pum
 |matomo.org##.pum
 |moneymagpie.com##.pum
+|savingadvice.com##.pum
 |thecanary.co##.pum
 |thurrott.com##.pum
 |verdadeiroolhar.pt##.pum
@@ -50546,6 +50563,7 @@ oled-info.com##+js(set-cookie, awpopup_501941328, 1)
 |hypebot.com##html:style(overflow:auto !important)
 |matomo.org##html:style(overflow:auto !important)
 |moneymagpie.com##html:style(overflow:auto !important)
+|savingadvice.com##html:style(overflow:auto !important)
 |thecanary.co##html:style(overflow:auto !important)
 |thurrott.com##html:style(overflow:auto !important)
 |verdadeiroolhar.pt##html:style(overflow:auto !important)
