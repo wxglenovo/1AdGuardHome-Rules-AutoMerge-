@@ -2224,9 +2224,6 @@ metal-shop.eu###nextcreBotDialog
 |skyremotecodes.co.uk###nfaPopup
 lycoschat.com###nomnom
 statefarm.com###notice-container
-|aescripts.com###notice-cookie-block
-|hakkousa.com###notice-cookie-block
-|laurenbjewelry.com###notice-cookie-block
 bydautomotive.com.au###noticeModal
 cnn.com###notice_banner
 autoglass.co.uk###noticedivwrap
@@ -5788,6 +5785,13 @@ wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotifi
 |luxorcrystal.com###cookieNotice
 |theluxuryhut.com###cookieNotice
 |wsg-fussball.at###cookieNotice
+|aescripts.com###notice-cookie-block
+|all4running.nl###notice-cookie-block
+|chillyhilversum.be###notice-cookie-block
+|electroworld.nl###notice-cookie-block
+|hakkousa.com###notice-cookie-block
+|laurenbjewelry.com###notice-cookie-block
+|lempiapteekki.fi###notice-cookie-block
 |lsl.com##.overlay-gdpr-consent
 |sexlivecam.co.uk##.overlay-gdpr-consent
 |xxxcams.com##.overlay-gdpr-consent
@@ -5804,6 +5808,7 @@ wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotifi
 |gaz-system.pl##.cookies-notification
 |goodsync.com##.cookies-notification
 |homeprops.co.za##.cookies-notification
+|lenta.news##.cookies-notification
 |lenta.ru##.cookies-notification
 |remaxliving.co.za##.cookies-notification
 |susanwheelerprints.co.uk##.cookies-notification
@@ -16109,9 +16114,6 @@ medlon.nl###globalmessage_holder
 |koolhydratentabel.nl###loading
 |receptentabel.nl###loading
 effeweg.nl###mp-popupoverlay1
-|all4running.nl###notice-cookie-block
-|chillyhilversum.be###notice-cookie-block
-|electroworld.nl###notice-cookie-block
 trafficshare.nl###notification
 sokkenenzo.nl###react_element__consent_banner
 companyinfo.nl###si-cookie-notice
@@ -19493,7 +19495,6 @@ cityexpress.rs#@##gdpr-cookie-consent
 ing.jobs#@##gdprconsent
 |kwizard.hr##moove_gdpr_cookie_info_bar
 |rodicycling.com#@##moove_gdpr_cookie_info_bar
-xsports.lv#@##notice-cookie-block
 |1001games.com##onetrust-banner-sdk
 |1001hry.cz##onetrust-banner-sdk
 |1001jeux.fr##onetrust-banner-sdk
