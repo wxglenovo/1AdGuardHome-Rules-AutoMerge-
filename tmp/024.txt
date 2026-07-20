@@ -2996,6 +2996,7 @@ nuget.org##.banner-notice
 moma.org##.banner-tray
 |23andme.com##.banner-wrap
 |tunnelbear.com##.banner-wrap
+atlassian.net##.banner:has([data-ssr-placeholder="cookie-consent-banner"])
 worthpoint.com##.bannerContainer
 xogot.com##.bannerWrapper
 wetransfer.com##.banner__container
