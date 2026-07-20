@@ -7419,6 +7419,7 @@ roccosiffredixxx.it##.totwitter
 rottentomatoes.com##.trending-bar__social-link
 bloomberglinea.com##.ts-share-bar-custom
 fintech.tv##.ts-social-list-item
+totalsportekx.is##.ts-telegram-alert-btn
 tweaktown.com##.tt-follow-news
 slashdot.org##.tw
 independent.co.uk##.tw-link
@@ -7571,6 +7572,7 @@ techcommunity.microsoft.com##[class^="custom_widget_MicrosoftFooter_social-share
 motortrend.com##[data-c="social-share"]
 news.sky.com##[data-component-name="sdc-article-strapline"]
 theguardian.com##[data-component="preferred-source-button-prefer"]
+latimes.com##[data-element="google-preferred-sources"]
 lifehacker.com##[data-ga-element="social-link"]
 cnet.com##[data-meta="footer-section-social"]
 cnet.com##[data-meta="footer-section-social"] + ul
@@ -14148,6 +14150,7 @@ amnesty.org###cookie-consent__modal
 autism-unlimited.org###cookie-cover
 |asianlemansseries.com###cookie-dialog
 |bio-rad-antibodies.com###cookie-dialog
+ritani.com###cookie-info-banner
 |keywordsstudios.com###cookie-law
 |uofmhealth.org###cookie-law
 cpac.ca###cookie-law-bar-holder
@@ -14926,6 +14929,7 @@ waterdropfilter.com###wd-cookie-consent-popup
 |artemes.org###website_cookies_bar
 |datenpol.at###website_cookies_bar
 |ees-corporation.com###website_cookies_bar
+|evo-spirit.com###website_cookies_bar
 |flyingbasket.com###website_cookies_bar
 |mansuetoqueseria.com###website_cookies_bar
 iflicks.in###welcome
@@ -17530,6 +17534,7 @@ app.joinknack.com##[aria-label="cookie consent banner"]
 mangooutlet.com##[aria-labelledby="cbanner-title"]
 |app.wooclap.com##[aria-labelledby="cookie-banner-title"]
 |iranintl.com##[aria-labelledby="cookie-banner-title"]
+|stopkillinggames.com##[aria-labelledby="cookie-banner-title"]
 footium.club##[aria-labelledby="cookieConsentHeading"]
 weedmaps.com##[aria-labelledby="notification_label"]
 own4less.co.uk##[aria-live="polite"]
@@ -17827,6 +17832,7 @@ deepl.com##div[data-testid="dl-cookieBanner"]
 ici.radio-canada.ca##div[data-testid="legalDisclaimer"]
 xero.com##div[data-xero-component="nav/cookie-notification"]
 deepdivedubai.com##div[fs-consent-element]
+|armbian.com##div[role="dialog"]
 |companyweb.be##div[role="dialog"]
 |smythstoys.com##div[role="dialog"]
 |zencreator.pro##div[role="dialog"]
@@ -18653,6 +18659,7 @@ sogeti.*###popup-cookieConsent
 |webshop.asus.com##.cookie-permission-container
 |xn--schildkrt-sport-gtb.com##.cookie-permission-container
 |artx.at##.page-wrap--cookie-permission
+|barfuessler.com##.page-wrap--cookie-permission
 |battlemerchant.com##.page-wrap--cookie-permission
 |bienen-voigt.de##.page-wrap--cookie-permission
 |blitzhandel24.it##.page-wrap--cookie-permission
@@ -19999,6 +20006,7 @@ flexiti.com##.z-999
 |bushido-shop.com##.cookie-bar
 |campusfesztival.hu##.cookie-bar
 |dadcrush.com##.cookie-bar
+|devonalds.co.uk##.cookie-bar
 |domgate.com##.cookie-bar
 |epochtimes.kr##.cookie-bar
 |f6s.com##.cookie-bar
@@ -41256,6 +41264,8 @@ rgs.ru###rgs-main-context-bar
 sport-express.net###se-cookie-popup
 thepublic.info###silktide-wrapper
 softline.ru###stripe_permission_use_cookie
+|calend.ru###thecookies_note
+|shkolazhizni.ru###thecookies_note
 dobrodel.mosreg.ru###toast-container
 |keysight-technologies.ru###uni-notification
 |world-devices.ru###uni-notification
@@ -42112,6 +42122,7 @@ kulturbolaget.se##.c-messages
 swestat.se##.c-w
 inet.se##.c1hsuii6
 eidar.se##.cc-page
+skapamer.se##.ccConsentHolder
 liberalerna.se##.ccnt-app
 buyersclub.se##.component\:cookie-consent-dialog
 jak.se##.consent-backdrop
@@ -44590,6 +44601,7 @@ aerospaceglobalnews.com###news-signup-form
 |lepoint.fr###newsletter
 |messengernews.net###newsletter
 |tennismajors.com###newsletter
+stackexchange.com###newsletter-ad
 |empr.com###newsletter-asset
 |endocrinologyadvisor.com###newsletter-asset
 |gastroenterologyadvisor.com###newsletter-asset
@@ -46139,6 +46151,7 @@ socialistworker.co.uk##.gform_fields
 |platformer.news##.gh-cta
 |therage.co##.gh-cta
 platformer.news##.gh-header
+blog.codinghorror.com##.gh-subscribe-form
 team17.com##.global-newsletterBanner
 usatoday.com##.gnt_m_th_em
 marketbeat.com##.gradient-purple
@@ -46260,6 +46273,7 @@ boomlive.in##.info-container2
 |insideevs.com##.infobox
 |swissinfo.ch##.infobox
 thebulletin.org##.infobox-icon-above-title
+britannica.com##.inline-email-capture-placeholder
 |nypost.com##.inline-module--newsletter
 |pagesix.com##.inline-module--newsletter
 |the-sun.com##.inline-module--newsletter
