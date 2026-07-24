@@ -2502,7 +2502,8 @@ uesco.com###sticky-bar-wrapper
 firefoxosdevices.org###storage-notice
 strava.com###stravaCookieBanner
 streamify.io###streamify-gdpr
-deboulle.com###tarteaucitronAlertBig
+|deboulle.com###tarteaucitronAlertBig
+|offi.fr###tarteaucitronAlertBig
 tatsubuilder.com###tatsu-header-container
 |buccellati.com###tc-privacy-wrapper
 |kiabi.com###tc-privacy-wrapper
@@ -2753,6 +2754,7 @@ rows.com##.PnyGo
 midasbuy.com##.PopCookie_active__UWi7E
 themattresswarehouse.co.za##.PopiBanner__PopiContainer-igharm-1
 cs.money##.Popover_wrapper__feCxt
+bloxd.io##.PopupNotification
 |cjbayliss.co.uk##.PopupOverall
 |hcdltd.com##.PopupOverall
 powercolor.com##.Privacy
@@ -2965,6 +2967,7 @@ ztedevices.com##.as-cookie
 leo.org##.as-oil
 scinapse.io##.asUhxHVGRjM9QNWMLelO5
 icelandair.com##.assets_container__3EEp3
+async.com##.async-footer-cookie-banner
 subaru.com##.at-banner-container
 landsend.com##.at-gdpr-msg
 atptour.com##.atp_cookie-message
@@ -3124,6 +3127,7 @@ shadowserver.org##.c--gdpr-message
 monopo.london##.c-AppCookies
 |co-wheels.org.uk##.c-CookieConsent
 |ecologicalbuildingsystems.com##.c-CookieConsent
+|getintonewcastle.co.uk##.c-CookieConsent
 |livingnorth.com##.c-CookieConsent
 |northumberlandcoast-nl.org.uk##.c-CookieConsent
 audiotag.info##.c-agree
@@ -4112,6 +4116,7 @@ hivehome.com##.header-stacked-message
 uspatriottactical.com##.header-top-banner
 start.fyi##.headnote
 aerostar.com##.hello-bar
+dsrtashburton.org.uk##.hide-cookie-icon
 go.davidcandaux.com##.hl-cookie-consent-banner
 hmart.com##.hmartus-store-theme-1-x-cookiesModal__wrapper
 acquire.io##.home-announcement
@@ -4938,6 +4943,7 @@ revanced.app##.svelte-fnvau2
 haier.com##.swiper-slide-img-txt
 taschen.com##.switch-prompt
 |bp.com##.syrenis-cookie-widget
+|davines.com##.syrenis-cookie-widget
 |us.davines.com##.syrenis-cookie-widget
 |amplitude-studios.com##.system-notification-container
 |games2gether.com##.system-notification-container
@@ -6460,6 +6466,7 @@ brothers-graphics.com##.cc-window-wrapper
 |flexispot.pl###gdprMask
 |kyounoryouri.jp##.swal2-container
 |outage.report##.swal2-container
+|autokrs.cz##.cc-container
 |comfeel.cz##.cc-container
 |drpalani.com##.cc-container
 |easygujaratityping.com##.cc-container
@@ -6541,6 +6548,7 @@ brothers-graphics.com##.cc-window-wrapper
 |fieldsofskibbereen.ie###cookiePolicy
 |fullraces.com###cookiePolicy
 |gamesontvtoday.com###cookiePolicy
+|librariaonline.ro###cookiePolicy
 |sciencelink.net###cookiePolicy
 |support.tresorit.com###cookiePolicy
 |thegrocer.co.uk###cookiePolicy
@@ -7279,6 +7287,7 @@ stokrotka.pl###cboxWrapper
 |ga-service.at###BorlabsCookieBox
 |granfondo-cycling.com###BorlabsCookieBox
 |harmtodt.com###BorlabsCookieBox
+|jaeger-hausbetreuung.at###BorlabsCookieBox
 |reinhold-keller.com###BorlabsCookieBox
 |14000.cz###cc-main
 |1twente.nl###cc-main
@@ -18925,6 +18934,7 @@ sodrateatern.com##.styles__CookiebarWrap-g5ab7n-0
 verktygsboden.se##.wp27nvx
 hemfrid.se##.xdmFo
 inet.se##[aria-label="Cookies"]
+hometogo.se##[data-test="cookie-consent-notification"]
 elfynd.se##[style="position: fixed; bottom: 0px; left: 0px; right: 0px;"]
 |blockbuster.dk##div[class^="GlobalCookieBanner__"]
 |sfanytime.com##div[class^="GlobalCookieBanner__"]
