@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-07-24T12:35:48.930Z
+🚫 去掉注释行: ! Last modified: 2026-07-24T14:37:29.335Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -1601,10 +1601,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 94588
-🚫 去掉注释行: ! Checksum: hrNiVXduGyY3bRjwgccHHQ
-🚫 去掉注释行: ! Version: 202607241232
+🚫 去掉注释行: ! Checksum: C/gffKtZzeZXRT43YC5nAg
+🚫 去掉注释行: ! Version: 202607241441
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 24 Jul 2026 12:32 UTC
+🚫 去掉注释行: ! Last modified: 24 Jul 2026 14:41 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -5834,7 +5834,6 @@
 🚫 去掉注释行: ##.AdCompactheader
 🚫 去掉注释行: ##.AdContainer
 🚫 去掉注释行: ##.AdContainer-Sidebar
-🚫 去掉注释行: ##.AdHeader
 🚫 去掉注释行: ##.AdHere
 🚫 去掉注释行: ##.AdHolder
 🚫 去掉注释行: ##.AdInline
@@ -6721,8 +6720,6 @@
 🚫 去掉注释行: ##.ad-lazy
 🚫 去掉注释行: ##.ad-lb
 🚫 去掉注释行: ##.ad-ldrbrd
-🚫 去掉注释行: ##.ad-lead
-🚫 去掉注释行: ##.ad-lead-bottom
 🚫 去掉注释行: ##.ad-lead-magnet
 🚫 去掉注释行: ##.ad-leader
 🚫 去掉注释行: ##.ad-leader-board
@@ -18223,9 +18220,10 @@
 ✅ 多域名拆分: qz.com,theinventory.com##.ay-ad-slot
     → |qz.com##.ay-ad-slot
     → |theinventory.com##.ay-ad-slot
-✅ 多域名拆分: businessday.co.za,chalkbeat.org,irishnews.com,sowetan.co.za,timeslive.co.za,votebeat.org##.b-ads-block
+✅ 多域名拆分: businessday.co.za,chalkbeat.org,dailydispatch.co.za,irishnews.com,sowetan.co.za,timeslive.co.za,votebeat.org##.b-ads-block
     → |businessday.co.za##.b-ads-block
     → |chalkbeat.org##.b-ads-block
+    → |dailydispatch.co.za##.b-ads-block
     → |irishnews.com##.b-ads-block
     → |sowetan.co.za##.b-ads-block
     → |timeslive.co.za##.b-ads-block
@@ -20369,6 +20367,9 @@
 ✅ 多域名拆分: countrylife.co.uk,cyclingweekly.com##.right-hand-adunit
     → |countrylife.co.uk##.right-hand-adunit
     → |cyclingweekly.com##.right-hand-adunit
+✅ 多域名拆分: businessday.co.za,dailydispatch.co.za##.right-rail__ad
+    → |businessday.co.za##.right-rail__ad
+    → |dailydispatch.co.za##.right-rail__ad
 ✅ 多域名拆分: box-core.net,mma-core.com##.rsky
     → |box-core.net##.rsky
     → |mma-core.com##.rsky
@@ -25193,10 +25194,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: 1Q/Rqqqz8IqkZCxUy7chvQ
-🚫 去掉注释行: ! Version: 202607241232
+🚫 去掉注释行: ! Checksum: czEcqFdkPScS5UK7FV0rzA
+🚫 去掉注释行: ! Version: 202607241441
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 24 Jul 2026 12:32 UTC
+🚫 去掉注释行: ! Last modified: 24 Jul 2026 14:41 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29796,10 +29797,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: nQmgP1UNpaMZ9wSXclA7LA
-🚫 去掉注释行: ! Version: 202607241232
+🚫 去掉注释行: ! Checksum: fxO6FLu+n5NaMbrFXFUsDQ
+🚫 去掉注释行: ! Version: 202607241441
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 24 Jul 2026 12:32 UTC
+🚫 去掉注释行: ! Last modified: 24 Jul 2026 14:41 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -30475,11 +30476,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202607241228
+🚫 去掉注释行: ! Version: 202607241439
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 24 Jul 2026 12:28 UTC
+🚫 去掉注释行: ! Last modified: 24 Jul 2026 14:39 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 635c91cf790a3cc37033177207c30d9a40986af8
+🚫 去掉注释行: ! Commit: 277973d9b4b13498c2794b82854b2bfadd0add0f
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -34712,7 +34713,6 @@
 🚫 去掉注释行: ##.AdCompactheader
 🚫 去掉注释行: ##.AdContainer
 🚫 去掉注释行: ##.AdContainer-Sidebar
-🚫 去掉注释行: ##.AdHeader
 🚫 去掉注释行: ##.AdHere
 🚫 去掉注释行: ##.AdHolder
 🚫 去掉注释行: ##.AdInline
@@ -35599,8 +35599,6 @@
 🚫 去掉注释行: ##.ad-lazy
 🚫 去掉注释行: ##.ad-lb
 🚫 去掉注释行: ##.ad-ldrbrd
-🚫 去掉注释行: ##.ad-lead
-🚫 去掉注释行: ##.ad-lead-bottom
 🚫 去掉注释行: ##.ad-lead-magnet
 🚫 去掉注释行: ##.ad-leader
 🚫 去掉注释行: ##.ad-leader-board
@@ -47107,9 +47105,10 @@
 ✅ 多域名拆分: qz.com,theinventory.com##.ay-ad-slot
     → |qz.com##.ay-ad-slot
     → |theinventory.com##.ay-ad-slot
-✅ 多域名拆分: businessday.co.za,chalkbeat.org,irishnews.com,sowetan.co.za,timeslive.co.za,votebeat.org##.b-ads-block
+✅ 多域名拆分: businessday.co.za,chalkbeat.org,dailydispatch.co.za,irishnews.com,sowetan.co.za,timeslive.co.za,votebeat.org##.b-ads-block
     → |businessday.co.za##.b-ads-block
     → |chalkbeat.org##.b-ads-block
+    → |dailydispatch.co.za##.b-ads-block
     → |irishnews.com##.b-ads-block
     → |sowetan.co.za##.b-ads-block
     → |timeslive.co.za##.b-ads-block
@@ -49253,6 +49252,9 @@
 ✅ 多域名拆分: countrylife.co.uk,cyclingweekly.com##.right-hand-adunit
     → |countrylife.co.uk##.right-hand-adunit
     → |cyclingweekly.com##.right-hand-adunit
+✅ 多域名拆分: businessday.co.za,dailydispatch.co.za##.right-rail__ad
+    → |businessday.co.za##.right-rail__ad
+    → |dailydispatch.co.za##.right-rail__ad
 ✅ 多域名拆分: box-core.net,mma-core.com##.rsky
     → |box-core.net##.rsky
     → |mma-core.com##.rsky
@@ -54103,11 +54105,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202607241242
+🚫 去掉注释行: ! Version: 202607241439
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 24 Jul 2026 12:42 UTC
+🚫 去掉注释行: ! Last modified: 24 Jul 2026 14:39 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 26d6127d98fb69513318a2eaef7cc4af91d4a128
+🚫 去掉注释行: ! Commit: 277973d9b4b13498c2794b82854b2bfadd0add0f
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -70352,10 +70354,10 @@
 🚫 去掉注释行: ! Issues: https://github.com/hagezi/dns-blocklists/issues
 🚫 去掉注释行: ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 🚫 去掉注释行: ! Expires: 1 day
-🚫 去掉注释行: ! Last modified: 24 Jul 2026 08:13 UTC
-🚫 去掉注释行: ! Version: 2026.0724.0813.06
+🚫 去掉注释行: ! Last modified: 24 Jul 2026 12:59 UTC
+🚫 去掉注释行: ! Version: 2026.0724.1259.56
 🚫 去掉注释行: ! Syntax: AdBlock
-🚫 去掉注释行: ! Number of entries: 43575
+🚫 去掉注释行: ! Number of entries: 43577
 🚫 去掉注释行: !
 🚫 去掉注释行: !Title: anti-AD for AdGuard
 🚫 去掉注释行: !Version: 20260722195044662778120
@@ -70376,8 +70378,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !Generated: 2026-07-24 19:14:26
-🚫 去掉注释行: !RuleCount: 544356
+🚫 去掉注释行: !Generated: 2026-07-24 20:47:48
+🚫 去掉注释行: !RuleCount: 544390
 ✅ HOSTS 转换: 127.0.0.1 0022a601.pphost.net → |0022a601.pphost.net^
 ✅ HOSTS 转换: 127.0.0.1 123.ywxww.net → |123.ywxww.net^
 ✅ HOSTS 转换: 127.0.0.1 1717.1000uc.com → |1717.1000uc.com^
