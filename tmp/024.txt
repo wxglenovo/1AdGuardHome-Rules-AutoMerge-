@@ -3626,17 +3626,6 @@ augur.net##.cookies-notice__StyledCookieNotice-ub3ifz-0
 logon.slc.co.uk##.cookies-overly
 bloobloom.com##.cookies-policy-holder
 herbiesheadshop.com##.cookies-politic__section
-|12crystalroll34.com##.cookies-popup
-|alpinasports.com##.cookies-popup
-|bollywoodlife.com##.cookies-popup
-|cashconverters.co.za##.cookies-popup
-|chronohunter.com##.cookies-popup
-|cityu.edu.hk##.cookies-popup
-|gskill.com##.cookies-popup
-|india.com##.cookies-popup
-|proactiveinvestors.co.uk##.cookies-popup
-|rav-bariach.co.il##.cookies-popup
-|thehealthsite.com##.cookies-popup
 altingunband.com##.cookies-regulation
 |keralanotes.com##.cookies-show
 |rockmods.net##.cookies-show
@@ -5755,6 +5744,18 @@ ripley.*##div[class^="cookiesMessage_"]
 wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotification"]
 |fonedog.jp##.cookiesBanner
 |litmarket.ru##.cookiesBanner
+|12crystalroll34.com##.cookies-popup
+|alpinasports.com##.cookies-popup
+|bollywoodlife.com##.cookies-popup
+|cashconverters.co.za##.cookies-popup
+|chronohunter.com##.cookies-popup
+|cityu.edu.hk##.cookies-popup
+|eon.tv##.cookies-popup
+|gskill.com##.cookies-popup
+|india.com##.cookies-popup
+|proactiveinvestors.co.uk##.cookies-popup
+|rav-bariach.co.il##.cookies-popup
+|thehealthsite.com##.cookies-popup
 |betway.*###cookiePopup
 |easyinsights.ai###cookiePopup
 |hito.xyz###cookiePopup
@@ -8660,6 +8661,7 @@ clarochile.cl##.cookieModal
 |cyberctm.com##.cookies
 |danwood.de##.cookies
 |darking.cz##.cookies
+|data.gov.hr##.cookies
 |depintxopote.com##.cookies
 |desirebutik.pl##.cookies
 |dhosting.pl##.cookies
@@ -11145,6 +11147,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |gatlinburg.com##.cookie-banner
 |gaultmillau.at##.cookie-banner
 |germistoncitynews.co.za##.cookie-banner
+|gomibo.hr##.cookie-banner
 |gosquared.com##.cookie-banner
 |guinyc.com##.cookie-banner
 |hck.hr##.cookie-banner
@@ -15838,8 +15841,13 @@ hbor.hr###JPO
 vobco.hr###blokDiv
 dokutv.net###cmp_overlay
 liberal.hr###footer
+|cistoca.hr###gdc-container
+|gradskagroblja.hr###gdc-container
+|vio.hr###gdc-container
+|zagrebparking.hr###gdc-container
 |aktivnosti.zagreb.hr###gdc-cookieSettings
 |porezna-uprava.gov.hr###gdc-cookieSettings
+|gpz-opskrba.hr###gdc-shade
 |mikronis.hr###gdc-shade
 |porezna-uprava.gov.hr###gdc-shade
 vindija.hr###gdpr-overlay
@@ -15852,6 +15860,7 @@ tzdubrovnik.hr###mygdprPopupHR
 |eper.com.hr###page-disable
 |interpreta.hr###page-disable
 hoval.hr###pageAlertBox
+pcekspert.com###pce-consent
 usporedi.hr###privacyPolicyModal
 villa-altavista.com###radix-\:rb\:
 buro247.hr###subscriptionPopupBottom
@@ -15884,8 +15893,10 @@ tifon.hr##.popup2
 player.hr##.popup_hr
 brodportal.hr##.privatnost
 mi.hr##aside[data-role="gdpr-cookie-container"]
+modivo.club##cookie-consent-manager
 transparentnost.zagreb.hr##cookies
 ic2montecchio.edu.it##div[style^="z-index:9999;display:block"]
+halfprice.eu##o-cookie-consent-manager
 nejlevnejsi-barvy-laky.cz###Box1002
 peugeot-plzen.cz###RessCookieBox
 1hfkolomouc.cz###SklubCookiesContainer
@@ -16394,6 +16405,7 @@ huntteri.fi##.cookie_modal_overlay
 ladulle.fi##.cs-overlay
 valostore.fi##.css-13jewua
 ifolor.fi##.dialogBanner--align-bottom
+vpd.fi##.ec-gtm-cookie-directive
 aatos.app##.eiabyj
 sporthammer.fi##.first-page-of-accept-cookies
 verkkokauppa.com##.gDFWtL
@@ -19288,7 +19300,6 @@ fptshop.com.vn##[data-cookie-consent-modal="true"]
 ||storage.googleapis.com/om-gravito-cmp/$script
 ||tapionverkkokauppa.fi^*/js.cookie.min.js$script
 ||vaikuttajamedia.fi^*/markuk_evastevaroitus.js
-||vpd.fi/datalayer/index/cookieContent/$xmlhttprequest,domain=vpd.fi
 ||aia.gr/cookie/
 ||cmp.soundis.gr^
 ||img.zapgroup.co.il/policy/
