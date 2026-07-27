@@ -1505,6 +1505,7 @@ gofugyourself.com##.books
 inthesetimes.com##.border-red
 |kompas.id##.bottom-0
 |letsdatascience.com##.bottom-0
+zman.co.il##.bottom-bar-join
 thesaturdaypaper.com.au##.bottom-piano-banner
 arxiv.org##.bps-banner
 mcsweeneys.net##.breaking-news-container
@@ -3907,6 +3908,7 @@ aps1.travel.rakuten.co.jp##table[width="750"]:not([class]):has(> tbody > tr > td
 ||bot.agerun.jp^$third-party
 ||chatboost-cv.algoage.co.jp^$third-party
 ||column.valx.jp/wp-content/themes/jin/img/bnr_wpc.png
+||eowf.alc.co.jp/content/js/popup_control.js
 ||exactdn.com/wp-content/themes/linxas/js/popup.js$domain=linxas.shop
 ||gacraft.jp^$third-party
 ||hellointerior.jp/note/wp-content/themes/stinger5_201904/images/reception_banners/
@@ -8583,6 +8585,7 @@ miruro.*##section[class^="_noticeSection_"]
 |woot.com##.social
 |workersliberty.org##.social
 |yachtingjournal.com##.social
+|zman.co.il##.social
 |bulawayo24.com###share
 |canalarte1.uol.com.br###share
 |cleartechnology.nl###share
@@ -10407,6 +10410,7 @@ hindustantimes.com##.ln
 |masterduelmeta.com##.social-link
 |merriam-webster.com##.social-link
 |oncenoticias.digital##.social-link
+|panet.com##.social-link
 |presstv.ir##.social-link
 |al-ain.com##.google-news
 |al-sharq.com##.google-news
@@ -18177,6 +18181,7 @@ wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotifi
 |knifecenter.com###cookieNotice
 |langendorf.de###cookieNotice
 |luxorcrystal.com###cookieNotice
+|operationworld.org###cookieNotice
 |theluxuryhut.com###cookieNotice
 |wsg-fussball.at###cookieNotice
 |aescripts.com###notice-cookie-block
@@ -23702,6 +23707,7 @@ prsformusic.com###cookie__modal
 |mundoperfecto.net###cookie-consent-banner
 |news.stanford.edu###cookie-consent-banner
 |orioninnovation.com###cookie-consent-banner
+|panet.com###cookie-consent-banner
 |pedalim.co.il###cookie-consent-banner
 |pepper.ru###cookie-consent-banner
 |rfdtvcanada.ca###cookie-consent-banner
@@ -24362,6 +24368,7 @@ onassis.org##.bottom-0.relative
 |fetch.ai##.bottom-0.fixed
 |financestrategists.com##.bottom-0.fixed
 |findaport.com##.bottom-0.fixed
+|fireani.me##.bottom-0.fixed
 |first-law.com##.bottom-0.fixed
 |flakehub.com##.bottom-0.fixed
 |fluxaiimagegenerator.com##.bottom-0.fixed
@@ -24512,6 +24519,7 @@ onassis.org##.bottom-0.relative
 |vegetology.com##.bottom-0.fixed
 |veryfront.com##.bottom-0.fixed
 |voyageai.com##.bottom-0.fixed
+|wcareviews.com##.bottom-0.fixed
 |wizzair.com##.bottom-0.fixed
 |wyylde.com##.bottom-0.fixed
 |yunexpress.com##.bottom-0.fixed
@@ -24555,6 +24563,7 @@ onassis.org##.bottom-0.relative
 |platoboost.app##.bottom-8
 |vecer.com##.bottom-8
 |airlineratings.com##.bottom-4
+|annuaire-du-ecommerce.com##.bottom-4
 |blog.smithsecurity.biz##.bottom-4
 |bodegacatsofnewyork.com##.bottom-4
 |boo.world##.bottom-4
@@ -40920,6 +40929,7 @@ portugalglobal.pt###barramensagem
 terranova.pt###block-terranova-cookiesui
 oantagonista.com.br###card-cookies
 assertivasolucoes.com.br###ck-container
+comofazer.pt###codex-cookie-consent
 |folhavitoria.com.br###consent-box-lgpd
 |nossopalestra.com.br###consent-box-lgpd
 |sempreupdate.com.br###consent-box-lgpd
@@ -41046,6 +41056,7 @@ mercadoveggie.com.br##.center-bottom-fixed
 proximo.pt##.chakra-modal__content-container
 proximo.pt##.chakra-modal__overlay
 moto.com.br##.chakra-portal
+solverde.pt##.cms-cookies-regulation-message
 tuasaude.com##.consent-bar-wrapper
 piep.pt##.consentcookie_168_
 sescsp.org.br##.container-policy
@@ -50140,6 +50151,7 @@ eleco.com.ar##.Newsletter_newsLetterWrap___6tip
 primerahora.com##.PHNewsletter
 blogthinkbig.com##.acumba-form
 ara.cat##.ara-newsletter
+latercera.com##.article-body__newsletter
 motor.elpais.com##.bloque-newsletter
 |comunicacio21.cat##.boletin
 |cultura21.cat##.boletin
@@ -52689,6 +52701,7 @@ nzherald.co.nz##.action-bar
 olivepos.com##.add-to-home-banner
 fanblogs.jp##.aff-notice
 dexerto.com##.animate-fadeOut
+pakistantoday.com.pk##.animate-slide-up
 informationweek.com##.announcement
 bing.com##.b_bnp_bopc
 |startpage.com##.banner-top
@@ -52714,6 +52727,7 @@ winnipegfreepress.com##.notifications-banner
 wowhead.com##.notifications-dialog
 |aljazeera.com##.nudge
 |aljazeera.net##.nudge
+nrwz.de##.perfecty-push-settings-container
 post-gazette.com##.pg-notifybox
 pnas.org##.pop-notification
 investing.com##.preloaded_lightbox
