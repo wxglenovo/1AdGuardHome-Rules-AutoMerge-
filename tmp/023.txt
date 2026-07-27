@@ -19020,7 +19020,6 @@ brothers-graphics.com##.cc-window-wrapper
 |andelprerov.cz###cookie-bar
 |annualreviews.org###cookie-bar
 |armesbastille.com###cookie-bar
-|benq.com###cookie-bar
 |casino.org###cookie-bar
 |cdobrianza.it###cookie-bar
 |cdobrianza.org###cookie-bar
@@ -36543,6 +36542,8 @@ reddit.com###data-protection-consent-dialog
 reddit.com##body:style(overflow: auto !important;)
 scan.co.uk##.s-theme
 scan.co.uk##body,html:style(overflow: auto !important; position: initial !important;)
+benq.com###cookie-bar
+benq.com##body:style(overflow: auto !important;)
 matsmart.fi##[data-testid="consent-banner-overlay"]
 matsmart.fi##[data-testid="consent-banner-root"]
 matsmart.fi##body:style(overflow: auto !important;)
