@@ -1675,6 +1675,7 @@ nflp.com###compliance-notice
 msn.com###conditionalbanner
 imei24.com###cons
 yopmail.com###cons-pop
+|gotolstoy.com###consent-banner
 |gwmanz.com###consent-banner
 |mobisystems.com###consent-banner
 |outernet.com###consent-banner
@@ -1788,7 +1789,8 @@ store.azeron.eu###cookie-consent-background
 |welcomemagazinecy.com###cookie-consent-container
 jigsy.com###cookie-consent-dialog
 store.azeron.eu###cookie-consent-foreground
-givingwhatwecan.org###cookie-consent-modal
+|givingwhatwecan.org###cookie-consent-modal
+|rettie.co.uk###cookie-consent-modal
 laspalmerasapartments.com###cookie-consent-notification
 |idp.vodafone.com###cookie-consent-wrapper
 |shopto.net###cookie-consent-wrapper
@@ -1866,6 +1868,7 @@ khronos.org###cookie_decline
 sendgb.com###cookie_disabled
 |halcyon.net###cookie_info
 |lubelskie.kas.gov.pl###cookie_info
+|mazowieckie.kas.gov.pl###cookie_info
 |santionduty.com###cookie_info
 esa.int###cookie_loc
 |search.podcastmusic.com###cookie_manager
@@ -2505,6 +2508,7 @@ uesco.com###sticky-bar-wrapper
 firefoxosdevices.org###storage-notice
 strava.com###stravaCookieBanner
 streamify.io###streamify-gdpr
+wpastra.com###surecookie-public-root
 |deboulle.com###tarteaucitronAlertBig
 |offi.fr###tarteaucitronAlertBig
 tatsubuilder.com###tatsu-header-container
@@ -4634,6 +4638,7 @@ czc.cz##.popup-content
 |cbr.ru##.popup-cookies
 |hirsch-international.com##.popup-cookies
 |phys.org##.popup-cookies
+|wordtune.com##.popup-cookies
 jacksonsauction.com##.popup-dialog
 cancerresearch.org##.popup-inner
 haiermedical.com##.popup-window
@@ -5174,6 +5179,7 @@ ticketmaster.com##[aria-describedby="mobileMobileTOUMessage"]
 |affiliates.kayak.com##[aria-label="Cookie consent"]
 |europeantechmap.eu##[aria-label="Cookie consent"]
 |milkeneducatorawards.org##[aria-label="Cookie consent"]
+|readcomicsonline.lol##[aria-label="Cookie consent"]
 demilked.com##[aria-label="Cookie notice"]
 swig.com##[aria-label="Cookie policy banner"]
 |mrbeastjobs.com##[aria-label="Cookie preferences"]
@@ -5207,6 +5213,7 @@ artist.mnetplus.world##[class^="CookieCustomBottomSheet"]
 marineserre.com##[class^="CookiePopin_"]
 bitbrain.com##[class^="CookiesManager"]
 btc-alpha.com##[class^="Cookies_container"]
+store.metabase.com##[class^="GDPRCookieNotice"]
 bookscouter.com##[class^="NoticePopupWrapper"]:has([href="/privacy"])
 app.revolut.com##[class^="Overlay__OverlayBase-sc-"]
 signin.rockstargames.com##[class^="RockstarCookiesBanner_"]
@@ -5629,6 +5636,7 @@ just-eat.ie##div[data-qa="jet-privacy-settings"]
 |cellc.co.za###cookieConsent
 |chartgo.com###cookieConsent
 |companywall.hr###cookieConsent
+|dailyfood.pl###cookieConsent
 |die-wertachpraxis.de###cookieConsent
 |finstat.cz###cookieConsent
 |finstat.sk###cookieConsent
@@ -6102,6 +6110,7 @@ sogeti.*###popup-cookieConsent
 |ironmaxx.de##.amgdprjs-bar-template
 |johnsonsjewellers.co.uk##.amgdprjs-bar-template
 |landyschemist.com##.amgdprjs-bar-template
+|mikimoto.com##.amgdprjs-bar-template
 |nkon.nl##.amgdprjs-bar-template
 |plaidonline.com##.amgdprjs-bar-template
 |scienceinsport.com##.amgdprjs-bar-template
@@ -7126,6 +7135,7 @@ nawozy.eu##[class^="CookieBox"]
 |skarbyroztocza.com##.consents
 |sklepkawa.pl##.consents
 |suprabike.pl##.consents
+|wideorejestratory24.pl##.consents
 |wkdzik.pl##.consents
 |wlodekrysuje.com##.consents
 |agendatrad.org###consent
@@ -7291,6 +7301,7 @@ stokrotka.pl###cboxWrapper
 |proprospan.ru##.cookies-component
 |worksmile.com##.cookies-component
 |alte-apotheke-hamm.de###BorlabsCookieBox
+|altkleiderspenden.de###BorlabsCookieBox
 |delta4x4.com###BorlabsCookieBox
 |fagron.de###BorlabsCookieBox
 |ga-service.at###BorlabsCookieBox
@@ -8205,6 +8216,7 @@ dryg.pl##div[class^="CookiesNoti"]
 |manpower.com.ar##.cookie-notice
 |manpowergroup.com.ar##.cookie-notice
 |mashable.com##.cookie-notice
+|maspethfederal.com##.cookie-notice
 |matchtv.ru##.cookie-notice
 |monnik-dranken.nl##.cookie-notice
 |motocard.com##.cookie-notice
@@ -8517,6 +8529,7 @@ dryg.pl##div[class^="CookiesNoti"]
 |idealista.com###didomi-host
 |idealista.pt###didomi-host
 |ivoox.com###didomi-host
+|kleinezeitung.at###didomi-host
 |lalibre.be###didomi-host
 |lejournaldelamaison.fr###didomi-host
 |marianne.net###didomi-host
@@ -11633,6 +11646,7 @@ naylorsfinance.com###gdproverlay
 |schachermayer.at###klaro
 |schrack-seconet.com###klaro
 |sid.si###klaro
+|sklepopon.com###klaro
 |suedtirol.com###klaro
 |supplementa.com###klaro
 |tarif4you.de###klaro
@@ -12198,6 +12212,7 @@ onassis.org##.bottom-0.relative
 |blog.smithsecurity.biz##.bottom-4
 |bodegacatsofnewyork.com##.bottom-4
 |boo.world##.bottom-4
+|brightwork.com##.bottom-4
 |canyouhack.org##.bottom-4
 |convex.dev##.bottom-4
 |desenio.se##.bottom-4
@@ -17269,6 +17284,7 @@ cigarro.pl###cb-cookie
 gov.pl###cb2-banner
 are.waw.pl###cc_popup
 televio.pl###ccnst__main
+otvarta.pl###cct-banner
 webd.pl###cffc
 |almamarket.pl###claw
 |kozy.pl###claw
@@ -17470,6 +17486,7 @@ aterima-work.pl##.cm-popup-wrapper
 pracuj.pl##.cmulq7z
 sklep.szprychy.com##.config-messages
 rozetka.pl##.consent-layout
+gonet.tv##.consent_form_basic
 |ercomer.pl##.consents
 |miodykrupiec.pl##.consents
 |motohid.pl##.consents
@@ -17607,6 +17624,7 @@ strefamocy.pl##.x13eucookies__backdrop
 hejto.pl##.z-1200.border-primary-main
 pzkosz.pl##.zgoda_na_przetwarzanie
 shopee.pl##.zsav9a
+knf.gov.pl##[aria-labelledby="cookie-info-title"]
 pracuj.pl##[data-test="modal-cookie-bottom-bar"]
 |kurnik.pl##[style^="position: fixed; left: 0px; top: 0px;"]
 |otoprzychodnie.pl##[style^="position: fixed; left: 0px; top: 0px;"]
@@ -17719,7 +17737,8 @@ xalingo.com.br###wrng-agrmnt
 |extramercado.com.br##.Alert-sc-ubrksr-0
 |paodeacucar.com##.Alert-sc-ubrksr-0
 shopee.com.br##.BC_VN9
-betao.bet.br##.CookieConsent-module-scss-module__TLuOPq__banner
+|betao.bet.br##.CookieConsent-module-scss-module__TLuOPq__banner
+|r7.bet.br##.CookieConsent-module-scss-module__TLuOPq__banner
 fiat.com.br##.CookieHolder_container__23g0s
 morana.com.br##.DykGo.sc-crzoAE
 magazineluiza.com.br##.FSeli
@@ -17757,7 +17776,8 @@ afestas.com.br##.bottom-popup-wrapper
 |videeditorial.com.br##.box-aceite-privacidade
 tekdistribuidor.com.br##.box-lgpd
 costanorte.com.br##.bswTsr
-diariodolitoral.com.br##.bwgr-lgpd-consent-box
+|diariodolitoral.com.br##.bwgr-lgpd-consent-box
+|nsctotal.com.br##.bwgr-lgpd-consent-box
 enjoei.com.br##.c-cookies-banner
 |grupoccr.com.br##.c-dOELgn
 |motiva.com.br##.c-dOELgn
