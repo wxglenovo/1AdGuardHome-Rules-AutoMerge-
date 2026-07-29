@@ -24933,6 +24933,7 @@ foxandbriar.com##.cp-popup-container
 |diagram.com##.cookie-modal
 |dutchbros.com##.cookie-modal
 |einbecker-morgenpost.de##.cookie-modal
+|europaplus.ru##.cookie-modal
 |evl.fi##.cookie-modal
 |ford.hr##.cookie-modal
 |geis-group.sk##.cookie-modal
@@ -24956,6 +24957,7 @@ foxandbriar.com##.cp-popup-container
 |prusice.pl##.cookie-modal
 |przemysl.pl##.cookie-modal
 |publicdomainreview.org##.cookie-modal
+|retrofm.ru##.cookie-modal
 |sdmctech.com##.cookie-modal
 |sgnic.sg##.cookie-modal
 |starbucks.com.sg##.cookie-modal
@@ -30882,6 +30884,7 @@ rig-flip.com##+js(set-local-storage-item, cookie_consent, declined)
 |polar.sh##+js(set-local-storage-item, cookie_consent, no)
 |posthog.com##+js(set-local-storage-item, cookie_consent, no)
 openwebui.com##+js(set-local-storage-item, cookie_consent, rejected)
+|energylevel.net##+js(set-local-storage-item, cookie_consent, true)
 |ketogo.app##+js(set-local-storage-item, cookie_consent, true)
 |schneideranwaelte.de##+js(set-local-storage-item, cookie_consent, true)
 |traefik.io##+js(set-local-storage-item, cookie_consent, true)
@@ -41405,6 +41408,7 @@ dobrodel.mosreg.ru###toast-container
 |keysight-technologies.ru###uni-notification
 |world-devices.ru###uni-notification
 incom.ru###use_cookies_message-block
+notik.ru###usingcookies
 nord-news.ru###ym-cookie-notification
 bcs.ru##.Cbh_c
 prosv.ru##.CookieAccept_root__7K7ap
@@ -45328,6 +45332,7 @@ asiaone.com##.ao-newsletter-desktop
 artofmanliness.com##.aom-subscribe
 advisorperspectives.com##.ap-signup-inline
 freevector.com##.app-footer
+zerotomastery.io##.article-CTAstyles__WiderContainer-sc-coo416-0
 christianitytoday.com##.article-body-newsletter
 gcaptain.com##.article-card
 hypebeast.com##.article-email-signup-wrapper
@@ -45981,7 +45986,8 @@ thoughtbot.com##.email-sign-up
 thenation.com##.email-signup-module
 sperry.com##.email-signup-offer-wrap
 themarshallproject.org##.email-signup-v2-js
-spectator.org##.email-signup-widget
+|allaboutcookies.org##.email-signup-widget
+|spectator.org##.email-signup-widget
 |rei.com##.email-signup__container
 |stylist.co.uk##.email-signup__container
 mumbrella.com.au##.email-sub-form
@@ -47046,6 +47052,7 @@ themoscowtimes.com##.newsletterbanner
 flatpanelshd.com##.newslettercontainer
 tnmt.com##.newsletterpopup
 statnews.com##.newsletters
+foreignpolicy.com##.newsletters-sidebar__wrapper
 almanac.com##.newsletters-signup-wrapper
 cooking.nytimes.com##.newslettersignupmodule_newsletterSignupModule__pT3BJ
 bocanewsnow.com##.newsletterwidgetminimal-6
