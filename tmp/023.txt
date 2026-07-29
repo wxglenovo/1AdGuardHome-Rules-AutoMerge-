@@ -17533,6 +17533,7 @@ warthunder.com##.wt-cb
 |ombudsman.europa.eu##.wt-cck--banner
 |op.europa.eu##.wt-cck--banner
 waterfordwhispersnews.com##.wwn-gdpr-modal
+waze.com##.wz-tos-privacy-banner
 freudtools.com##.x-consent
 spoonflower.com##.x-global-dialog
 eneba.com##.xIPhuO
@@ -31080,6 +31081,7 @@ erlus.com##+js(set-local-storage-item, pc-cookie-technical-accepted, true)
 schneidewind-immobilien.de##+js(set-local-storage-item, pcClosedOnce, true)
 webhallen.com##+js(set-local-storage-item, personalisationConsent, false)
 bidup.amtrak.com##+js(set-local-storage-item, pg-accept-cookies, true)
+app.privacy.com##+js(set-local-storage-item, privacy-cookie-consent, 1)
 geotastic.net##+js(set-local-storage-item, privacy-policy-accepted, true)
 privacy.com.br##+js(set-local-storage-item, privacy.com.br, accepted)
 metamask.io##+js(set-local-storage-item, privacyModalSeen, true)
@@ -46837,6 +46839,7 @@ commondreams.org##.newsletter-button-top
 |votebeat.org##.newsletter-composer
 |bobvila.com##.newsletter-container
 |futurism.com##.newsletter-container
+|talksport.com##.newsletter-container-placeholder
 |the-sun.com##.newsletter-container-placeholder
 |thesun.co.uk##.newsletter-container-placeholder
 |thesun.ie##.newsletter-container-placeholder
@@ -48784,6 +48787,7 @@ marieclaire.fr##.NewsletterBox
 |motherjones.com##.newsletter-signup
 |mynbc5.com##.newsletter-signup
 |pogo.org##.newsletter-signup
+|politico.com##.newsletter-signup
 |progressive.org##.newsletter-signup
 |propublica.org##.newsletter-signup
 |publicdomainreview.org##.newsletter-signup
@@ -51526,6 +51530,7 @@ virginexperiencedays.co.uk###onExit
 forkneasy.com.au###pop-convert-app
 d2-store.com###popup_box
 horage.com###s522
+g2a.com###see-more-section
 |gizmodern.com###shopify-section-newsletter
 |store.drlivingood.com###shopify-section-newsletter
 hificentre.com###shopify-section-static_site_popup
