@@ -15716,6 +15716,7 @@ mediaportal.scania.com##.cmp-structure-cookie
 |glashrvatske.hrt.hr##.cmpbox
 |testerup.com##.cmpbox
 |bluebrixx.com##.cmpwrapper
+|g2a.com##.cmpwrapper
 |gls-group.eu##.cmpwrapper
 evoestate.com##.cnc-container
 cnn.com##.cnn-toast--tos
@@ -48154,6 +48155,7 @@ minds.com##M-MODAL
 |wsls.com##[aria-label*="newsletter"]
 mashable.com##[aria-label="Newsletter Sign-Up"]
 usatoday.com##[aria-label="Newsletter signup form"]
+github.com##[aria-labelledby="subscribe-to-newsletter"]
 therealdeal.com##[class*="Newsletter"]
 |animalchannel.co##[class="md:mt-10"]
 |homehacks.co##[class="md:mt-10"]
@@ -48176,7 +48178,7 @@ driving.ca##[data-aqa="widget-breaking-banner"]
 cepa.org##[data-block="newsletter"]
 plantbasednews.org##[data-class="support-us__wrapper"]
 abc.net.au##[data-component="Newsletter"]
-endjin.com##[data-cta-id="fabric-weekly-newsletter"]
+endjin.com##[data-cta-id$="-weekly-newsletter"]
 digg.com##[data-cy="namespace-home-newsletter"]
 nationalpost.com##[data-evt-val*="author_newsletter"]
 psyche.co##[data-ga-view-prompt="psyche_cta_pop_up_subscribe"]
