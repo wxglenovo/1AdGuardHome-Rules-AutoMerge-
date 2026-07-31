@@ -11109,6 +11109,7 @@ lespresso.it##.flex.justify-between.gap-x-2
 focus.it##.foc-footer-social
 virgilio.it##.foglia__social
 sportwebsicilia.it##.follow-title
+ansa.it##.fonti-preferite
 udinese.it##.foobar-social
 staseraincucina.it##.footer
 |libreriascolastica.it##.footer-social-container
@@ -17894,7 +17895,8 @@ developers.eyeo.com##div[data-testid="cookies-dialog"]
 deepl.com##div[data-testid="dl-cookieBanner"]
 ici.radio-canada.ca##div[data-testid="legalDisclaimer"]
 xero.com##div[data-xero-component="nav/cookie-notification"]
-deepdivedubai.com##div[fs-consent-element]
+|deepdivedubai.com##div[fs-consent-element]
+|thenode.gg##div[fs-consent-element]
 |armbian.com##div[role="dialog"]
 |companyweb.be##div[role="dialog"]
 |fatalfans.com##div[role="dialog"]
@@ -26010,6 +26012,7 @@ boyden.com###site-terms
 |shopee.es##.bpGouG
 |shopee.fr##.bpGouG
 |shopee.pl##.bpGouG
+|careers.americanexpress.com##.cookie-consent-modal
 |fa-etvc-saasfaprod1.fa.ocs.oraclecloud.com##.cookie-consent-modal
 |krogerfamilycareers.com##.cookie-consent-modal
 |onskefoto.se##.cookie-consent-modal
@@ -39280,6 +39283,7 @@ infranet.hr##.ccb__edit
 generali.hr##.cd-module
 |rba.hr##.cd-module-main
 |rbainvest.hr##.cd-module-main
+kbc-zagreb.hr##.cookie-settings-show
 flair.hr##.css-8g6x3l
 |hapih.hr##.dialog-widget
 |podravski.hr##.dialog-widget
@@ -41994,6 +41998,7 @@ litres.ru##div[data-testid="cookieAcceptPopup"]
 detmir.ru##div[data-testid="notification"]
 7dach.ru##div[style^="background-color:#fff3cd; color: #856404;"]
 chaynikam.info##div[style^="position: fixed; bottom: 0px;"]
+znayka.cc##div[style^="position:fixed;z-index:9999;left:18px;bottom:18px;"]
 delimobil.ru##footer
 lenta.com##lu-cookie-agree
 mvideo.ru##mvid-cookie-notification
@@ -46110,6 +46115,7 @@ autodidacts.io##.email-optin-widget
 karryon.com.au##.email-popup-container
 nfcw.com##.email-sidebar-signup
 thoughtbot.com##.email-sign-up
+|behavioralscientist.org##.email-signup
 |crooksandliars.com##.email-signup
 |drewberquist.com##.email-signup
 |kentuckytoday.com##.email-signup
