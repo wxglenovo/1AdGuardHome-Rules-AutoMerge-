@@ -14001,6 +14001,7 @@ caseys.ie###caseys-cookie-modal
 xtraining.kaspersky.com###cbanner
 ubs.com###cboxContent
 armorgames.com###cc-alert
+api-ninjas.com###cc-banner
 |sdaa-france.com###cc-bar
 |yellow.place###cc-bar
 smart-home-fox.co.uk###cc-card
@@ -14260,6 +14261,7 @@ khronos.org###cookie_decline
 sendgb.com###cookie_disabled
 |halcyon.net###cookie_info
 |kas.gov.pl###cookie_info
+|pspc.co.uk###cookie_info
 |santionduty.com###cookie_info
 esa.int###cookie_loc
 |search.podcastmusic.com###cookie_manager
@@ -15673,6 +15675,7 @@ computercity.com##.cky-box-top-right
 |extra.ie##.cky-consent-container
 |johnryanbydesign.co.uk##.cky-consent-container
 |kadencewp.com##.cky-consent-container
+|newfoodmagazine.com##.cky-consent-container
 |oiq.qc.ca##.cky-consent-container
 |publitas.com##.cky-consent-container
 |qcs.co.uk##.cky-consent-container
@@ -15691,6 +15694,7 @@ computercity.com##.cky-box-top-right
 |extra.ie##.cky-overlay
 |johnryanbydesign.co.uk##.cky-overlay
 |kadencewp.com##.cky-overlay
+|newfoodmagazine.com##.cky-overlay
 |oiq.qc.ca##.cky-overlay
 |publitas.com##.cky-overlay
 |qcs.co.uk##.cky-overlay
@@ -18036,6 +18040,7 @@ just-eat.ie##div[data-qa="jet-privacy-settings"]
 |companywall.hr###cookieConsent
 |dailyfood.pl###cookieConsent
 |die-wertachpraxis.de###cookieConsent
+|ezdrowie.gov.pl###cookieConsent
 |finstat.cz###cookieConsent
 |finstat.sk###cookieConsent
 |fortunebusinessinsights.com###cookieConsent
@@ -19918,6 +19923,7 @@ stokrotka.pl###cboxWrapper
 |psg.cz###cc--main
 |reteimprese.it###cc--main
 |returnsportal.online###cc--main
+|rosehosting.com###cc--main
 |royalbelgiancaviar.be###cc--main
 |runnea.co.uk###cc--main
 |sedona.municipal.codes###cc--main
@@ -23781,6 +23787,7 @@ prsformusic.com###cookie__modal
 |matzman-merutz.co.il###cookie-consent-banner
 |meiami.co.il###cookie-consent-banner
 |modan.co.il###cookie-consent-banner
+|motohurt.com###cookie-consent-banner
 |mundoperfecto.net###cookie-consent-banner
 |news.stanford.edu###cookie-consent-banner
 |orioninnovation.com###cookie-consent-banner
@@ -40777,7 +40784,8 @@ strefabiznesu.pl###cross-dialog
 |pewnykantor.pl###cu_bar
 redbullmobile.pl###didomiBlockNavigation
 kinonh.pl###div_ac
-maciej.je###flexiblecookies_container
+|asc-pro.pl###flexiblecookies_container
+|maciej.je###flexiblecookies_container
 elektrykasklep.pl###ftccbcmd
 idream.pl###garua_cookie_consent_popup
 grupapracuj.pl###gp_cookie_agreements
@@ -44926,6 +44934,7 @@ hypebae.com###newsletter-popup-fullscreen
 knowablemagazine.org###newsletter-promo-item
 eenewseurope.com###newsletter-register
 thejc.com###newsletter-reminder
+jumpingrivers.com###newsletter-section
 semafor.com###newsletter-sign-up
 |awapress.com###newsletter-signup
 |gbnews.com###newsletter-signup
@@ -48309,6 +48318,7 @@ cepa.org##[data-block="newsletter"]
 plantbasednews.org##[data-class="support-us__wrapper"]
 abc.net.au##[data-component="Newsletter"]
 endjin.com##[data-cta-id$="-weekly-newsletter"]
+databricks.com##[data-cy="SubscribeForm"]
 digg.com##[data-cy="namespace-home-newsletter"]
 nationalpost.com##[data-evt-val*="author_newsletter"]
 psyche.co##[data-ga-view-prompt="psyche_cta_pop_up_subscribe"]
@@ -52964,6 +52974,7 @@ waze.com##.wz-downloadbar
 reddit.com##.xPromoAppStoreFooter
 youtube.com##.ytmPaidContentOverlayHost
 dexerto.com##.z-\[1101\]
+meet.google.com##[aria-label="Receive desktop notifications from Meet"]
 wallapop.com##div[class^="app-smart-banner_"]
 segre.com###body_modal_5bNRsFSmILUgICbhc8pp
 diarimes.com###body_modal_mLuzd6bcGWwnVCvfwvBU
@@ -54475,6 +54486,7 @@ gq.co.za##+js(set-cookie, PromptLater, true)
 ask.fm##.lightbox_overlay
 ask.fm##body:style(overflow: auto !important)
 cosmos.so##+js(set, Object.prototype.disablePaginationLimitForLoggedOut, true)
+goodreads.com##+js(set-cookie, blocking_sign_in_interstitial, true)
 reddit.com###app-upsell-blocking-bottom-sheet-seo
 reddit.com###xpromo-small-header.mr-xs
 reddit.com##+js(aeld, block-body-scrolling)
