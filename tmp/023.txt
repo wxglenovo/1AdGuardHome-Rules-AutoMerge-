@@ -883,6 +883,7 @@ neowin.net##.deals
 slashdot.org##.deals-footer
 americanexpress.com##.disruptor-banner-wrapper
 opensecrets.org##.dontprintme
+independentarabia.com##.download-app
 talksport.com##.dpa-variant-sidebar
 dhgate.com##.drainagebanner
 theporndude.com##.drawer
@@ -2882,6 +2883,7 @@ astrofame.com###scrolling-top
 |fundacao-ais.pt###scrollup
 |generalist.academy###scrollup
 |news.northwestern.edu###scrollup
+|radioblog.eu###scrollup
 papermtn.co.uk###si-scroll-top
 |homemark.co.za###site-scroll
 |winzzguitars.com###site-scroll
@@ -3039,6 +3041,7 @@ atozmath.com##.backToTop33
 topuniversities.com##.back_top
 zerosette.it##.backto
 livemint.com##.backtoTop
+cies.ch##.backtotop_component
 paradisehill.cc##.block-to-top
 m.cricbuzz.com##.bottom-20
 |mein-teilhabe-assistent.de##.bounceInup
@@ -3655,11 +3658,9 @@ dinamalar.com##.asset-paging
 ||js.adv.dadapro.net/collector.js/prcy.js?
 ||lagazzettadelmezzogiorno.it/js/update.js
 ||mastertop100.org^$third-party
-||notifiche.secoloditalia.it^
 ||retewebitalia.net/banner/$third-party
 ||reviews-widget.trovaprezzi.it^$third-party
 ||reviews.shoppydoo.it^$third-party
-||secoloditalia.it^*/notify.
 ||skyplayer.tiscali.it^$third-party
 ||smiling.video^$third-party
 ||tools.net-parade.it^$third-party
@@ -6747,6 +6748,8 @@ ny1.com##.share-bar-container
 buzzfeed.com##.share-bar_buzzfeed___uZ4R
 |barchart.com##.share-block
 |beincrypto.com##.share-block
+|independentpersian.com##.share-block
+|indyturk.com##.share-block
 pbs.org##.share-block-static
 ibtimes.co.in##.share-btn-wrp
 bylancer.com##.share-buttons-icons
@@ -6766,6 +6769,7 @@ coindesk.com##.share-dialog-button
 |thisismoney.co.uk##.share-fbmessenger
 |dailymail.co.uk##.share-flipboard
 |thisismoney.co.uk##.share-flipboard
+independentarabia.com##.share-floater
 digitimes.com##.share-frame
 mprnews.org##.share-hdg
 news.artnet.com##.share-header
@@ -6860,6 +6864,7 @@ goodmenproject.com##.share_count_holder
 |idlprocycling.com##.share_item
 |indeleiderstrui.nl##.share_item
 |twenteinsite.nl##.share_item
+independentarabia.com##.share_tools
 cbsnews.com##.sharebar
 |mirror.co.uk##.sharebar-icon
 |themirror.com##.sharebar-icon
@@ -7091,6 +7096,7 @@ mg.co.za##.social-meks
 |gosunoob.com##.social-menu
 |joblo.com##.social-menu
 |mycleo.tv##.social-menu
+|radioblog.eu##.social-menu
 |tvone.tv##.social-menu
 |ultiworld.com##.social-menu
 |birdsandblooms.com##.social-menu-desktop
@@ -7173,6 +7179,7 @@ batimes.com.ar##.social-topsharing
 nist.gov##.social-twitter
 mmorpg.com##.social-web
 gnttv.com##.social-widget
+|cies.ch##.social-wrapper
 |dailynews24.in##.social-wrapper
 |dutchcowboys.nl##.social-wrapper
 |rbth.com##.social-wrapper
@@ -7268,6 +7275,10 @@ cookingclassy.com##.socialoverlay
 |mothership.sg##.socials
 |overclock3d.net##.socials
 |techtimes.com##.socials
+|independentarabia.com##.socials-area
+|independentpersian.com##.socials-area
+|independenturdu.com##.socials-area
+|indyturk.com##.socials-area
 payloadspace.com##.socials-block
 arabnews.com##.socials-btns
 overclock3d.net##.socials-container
@@ -8488,6 +8499,7 @@ miruro.*##section[class^="_noticeSection_"]
 |scottishlabour.org.uk##.social
 |searchmarketingexpo.com##.social
 |seattleweekly.com##.social
+|secoloditalia.it##.social
 |sectionstudios.com##.social
 |seen.de##.social
 |sex.com##.social
@@ -11065,6 +11077,7 @@ skuola.net##.actions
 ricetta.it##.alert
 giornali.it##.art-item-footer
 raiplaysound.it##.banner-buttons
+secoloditalia.it##.bc-google-cta
 napolimagazine.com##.blocco_condividi_dettaglio
 labusa.info##.boldShare
 gamershqitalia.it##.bottoniera-social
@@ -11262,6 +11275,7 @@ unionesarda.it##.socials-link
 bazar.it##.socials_det
 maremmanews.it##.ss-box
 lapancalera.it##.sswfb-buttons
+secoloditalia.it##.stamp
 agimeg.it##.td-post-sharing-bottom
 ostuninews.it##.td-social-sharing-button
 macitynet.it##.tds-button
@@ -13651,6 +13665,7 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 ||cdntranscend.eventbrite.com^
 ||channel4.com/consent/
 ||chrono24.com/lib/generated/js/responsive-size-cookie.$script
+||cies.ch^*/js.cookie.min.js
 ||cmp-static.nature.com^
 ||cmp.cdn.thesun.co.uk^
 ||cmp.cdn.thesun.ie^
@@ -20089,6 +20104,7 @@ stokrotka.pl###cboxWrapper
 |atarim.gov.il##.gdpr
 |aviationweek.com##.gdpr
 |centar-tehnike.hr##.gdpr
+|digiseller.com##.gdpr
 |digiseller.me##.gdpr
 |globalrescue.com##.gdpr
 |lemmatechnologies.com##.gdpr
@@ -23658,6 +23674,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |niche.com##.cookie-banner
 |northeasterntribune.co.za##.cookie-banner
 |oaic.gov.au##.cookie-banner
+|orb.net##.cookie-banner
 |order.humus-eli-yahoo.com##.cookie-banner
 |order.plweb.online##.cookie-banner
 |osthammar.se##.cookie-banner
@@ -41211,6 +41228,7 @@ gauchazh.clicrbs.com.br###privacy-tools-banner
 unesp.br###pu-analytics-consent-bar
 webmotors.com.br###root > .sc-bdVaJa
 rtp.pt###rtpgeralcookiecontent
+tecconcursos.com.br###tec-cookie-banner
 porque.com.br###termos_analytics
 unisanta.br###unisanta-cookie-mensagem
 |imashop.com.br###vtex-lgpd-cookie
@@ -46067,6 +46085,7 @@ habr.com##.digest-subscription
 deliciousmagazine.co.uk##.digital-download-wrapper
 floridianpress.com##.diverse-subscribe
 dailykos.com##.dk-action-embed
+sourceforge.net##.dlp_newsletter_subscribe
 jewishexponent.com##.dlvraPublished
 culture.org##.dm-sign-form-wapper
 arkansasonline.com##.dml-wrapper
@@ -48346,6 +48365,7 @@ driving.ca##[data-aqa="widget-breaking-banner"]
 cepa.org##[data-block="newsletter"]
 plantbasednews.org##[data-class="support-us__wrapper"]
 abc.net.au##[data-component="Newsletter"]
+chrisshennan.com##[data-controller="newsletter"]
 endjin.com##[data-cta-id$="-weekly-newsletter"]
 databricks.com##[data-cy="SubscribeForm"]
 digg.com##[data-cy="namespace-home-newsletter"]
@@ -48732,6 +48752,7 @@ zerofox.com#?#.xl\:-mt-12.shadow-md.p-8:has-text(Subscribe to our Blog)
 |thelocal.it##.pn-header
 edmontonjournal.com##.newsletter-widget
 hamiltonnolan.com##.subscription-widget-wrap
+|broadcastnews.gr##.mailpoet_form
 |chipsandcheese.com##.mailpoet_form
 |chipwits.com##.mailpoet_form
 |consummateathlete.com##.mailpoet_form
@@ -49540,6 +49561,7 @@ idealista.pt##.newsletter-subscription-form
 |sayrodigital.net##.newsletter
 |schoolbusfleet.com##.newsletter
 |screencrush.com##.newsletter
+|secoloditalia.it##.newsletter
 |serieously.com##.newsletter
 |servus.com##.newsletter
 |sfitalianheritage.org##.newsletter
