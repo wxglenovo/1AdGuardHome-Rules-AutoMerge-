@@ -30897,6 +30897,7 @@ ajanvaraus.idealinspect.fi##+js(set-local-storage-item, cookieConsent, 0)
 |turbo.ai##+js(set-local-storage-item, cookieConsent, 1)
 min.io##+js(set-local-storage-item, cookieConsent, accepted)
 luvvoice.com##+js(set-local-storage-item, cookieConsent, declined)
+|app.midpage.ai##+js(set-local-storage-item, cookieConsent, denied)
 |incidenthub.cloud##+js(set-local-storage-item, cookieConsent, denied)
 |musehub.com##+js(set-local-storage-item, cookieConsent, denied)
 |opmaatzagen.nl##+js(set-local-storage-item, cookieConsent, denied)
@@ -36610,6 +36611,7 @@ ejobs.ro##html,body:style(overflow: auto !important; position: initial !importan
 |zaugg.swiss##body,html:style(overflow: auto !important; position: initial !important;)
 |analytics-debugger.com###cc-main
 |bliink.io###cc-main
+|coros.com###cc-main
 |istories.media###cc-main
 |shipoffoolsgame.com###cc-main
 |thestraight.com.au###cc-main
@@ -36618,6 +36620,7 @@ ejobs.ro##html,body:style(overflow: auto !important; position: initial !importan
 |zomaplast.cz###cc-main
 |analytics-debugger.com##body,html:style(overflow: auto !important; position: initial !important;)
 |bliink.io##body,html:style(overflow: auto !important; position: initial !important;)
+|coros.com##body,html:style(overflow: auto !important; position: initial !important;)
 |istories.media##body,html:style(overflow: auto !important; position: initial !important;)
 |shipoffoolsgame.com##body,html:style(overflow: auto !important; position: initial !important;)
 |thestraight.com.au##body,html:style(overflow: auto !important; position: initial !important;)
