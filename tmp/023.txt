@@ -3497,6 +3497,7 @@ deutschlandkurier.de###sgpb-popup-dialog-main-div-wrapper
 freiewelt.net###spenden-box
 soeren-hentzschel.at###storage-notice
 osthessen-news.de###toTop
+taz.de###tzi-paywahl-fg
 boerse-global.de###vw-back-to-top
 mathe24.net###wrapperdiv
 nd-aktuell.de##.Artikel-Spende
@@ -3522,6 +3523,7 @@ woxikon.de##.secondary-footer
 deutschlandkurier.de##.sgpb-popup-overlay
 linux-magazin.de##.to-top-container
 baden.fm##.top-clone
+taz.de##.tzi-bottom-container
 motorsport-total.com##a[data-target="top"]
 wdr.de##a[href="#goToHead"]
 derbund.ch##div[class^="BackToTop_"]
@@ -10677,6 +10679,7 @@ gameswelt.de##.share__top
 kurier.de##.sharewrapper
 |bdkj.info##.shariff
 |pferdekult.de##.shariff
+taz.de##.shariff-wrapper
 film-rezensionen.de##.sharing-block-wrap
 finanzwende.de##.sharing__button--bluesky
 finanzwende.de##.sharing__button--mail
@@ -19859,6 +19862,7 @@ stokrotka.pl###cboxWrapper
 |softorino.com###cc-main
 |soleretriever.com###cc-main
 |sporthotel-zoll.com###cc-main
+|thewanderinginvestor.com###cc-main
 |trae.ai###cc-main
 |trakt.tv###cc-main
 |tryprofound.com###cc-main
@@ -20327,6 +20331,7 @@ morningstar.com###additionalInfoe
 |kritikos-sm.gr##div[class^="CookieBar"]
 |skisafari.com##div[class^="CookieBar"]
 |watch.plex.tv##div[class^="CookieBar"]
+|cloudmile.ai##.cookie-check
 |connection.com##.cookie-check
 |eink.com##.cookie-check
 |govconnection.com##.cookie-check
@@ -44127,7 +44132,7 @@ yoigo.com#@#thor-cookies
 @@||consent.truste.com/notice$domain=$domain=fortune.com|hsl.fi|philips-hue.com|proximus.be|tmz.com|weather.com
 @@||consentcdn.cookiebot.com/consentconfig/$xmlhttprequest,domain=asket.com
 @@||consentmanager.mgr.consensu.org/delivery/$stylesheet,xmlhttprequest,domain=sourceforge.net
-@@||consentmanager.net^$script,subdocument,domain=bauhaus.se|bike-magazin.de|bluray-disc.de|cyberport.at|cyberport.de|dailybuzz.nl|dw.com|eat.de|empfohlen.de|eventim.ro|lippu.fi|mediaite.com|morgenpost.de|nius.de|nwzonline.de|play3.de|racingnews365.com|spar.hu|teslamag.de|test.de|testerup.com|vaterland.li|vijesti.hrt.hr|vkmag.com|webfail.com|winfuture.de
+@@||consentmanager.net^$script,subdocument,domain=abendblatt.de|bauhaus.se|bike-magazin.de|bluray-disc.de|cyberport.at|cyberport.de|dailybuzz.nl|dw.com|eat.de|empfohlen.de|eventim.ro|lippu.fi|mediaite.com|morgenpost.de|nius.de|nwzonline.de|play3.de|racingnews365.com|spar.hu|teslamag.de|test.de|testerup.com|vaterland.li|vijesti.hrt.hr|vkmag.com|webfail.com|winfuture.de
 @@||consilium.europa.eu/assets/chunk/cookie-banner.js$~third-party
 @@||cookie-consent.ingatlancdn.com^$script,domain=immobilienungarn.net|ingatlan.com|realestatehungary.hu
 @@||cookie-script.com^$domain=lr-shop-direkt.de|swiss-sport.tv
@@ -44361,6 +44366,7 @@ yoigo.com#@#thor-cookies
 @@||zoominfo.com/_next/*/privacy-policy.json$~third-party
 @@||inflight.pacwisp.net^
 @@||www.douglas.*/public/cookieconsent.
+@@||abendblatt.de^*/consent-manager.js$script,~third-party
 @@||akilliphone.com/views/kuteshop/assets/js/cookies-message.min.js$script,~third-party
 @@||amigosmuseoreinasofia.org/assets/js/cookiecuttr/jquery.cookie.js
 @@||areaclienti.generali.it/AreaClienti/plugins/
@@ -45547,6 +45553,7 @@ welivesecurity.com##.article-subscribe-form
 cointelegraph.com##.article-subscription
 6sqft.com##.article-subscription-form
 thedrum.com##.articleNewsletter
+vanguard.com##.articleSubscriptionFooter
 ft.com##.article__content-sign-up
 sputnikglobe.com##.article__news-services-subscribe
 skydio.com##.article__newsletter
@@ -47856,7 +47863,8 @@ bookforum.com##.subscribe-ad__corner
 |countynewscenter.com##.subscribe-area
 |vallejosun.com##.subscribe-area
 stereogum.com##.subscribe-article
-moonlock.com##.subscribe-banner
+|moonlock.com##.subscribe-banner
+|vanguard.com##.subscribe-banner
 |lovefoodnotcooking.com##.subscribe-bar
 |rabble.ca##.subscribe-bar
 |spectator.org##.subscribe-bar
@@ -48474,6 +48482,7 @@ extremetech.com##section > .mt-8
 forty.news##section.newspaper-column
 christianpost.com##section[class^="inline-newsletter"]
 regain.us##section[data-testid="newsletter-section"]
+theguardian.com#?#[data-spacefinder-role="inline"]:has-text(Sign up)
 pedestrian.tv##ticker-subscription
 |polygon.com##.duet--cta--newsletter
 |theverge.com##.duet--cta--newsletter
