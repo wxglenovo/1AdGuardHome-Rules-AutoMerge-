@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-08-06T10:54:12.864Z
+🚫 去掉注释行: ! Last modified: 2026-08-06T12:42:33.041Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -1606,10 +1606,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 96599
-🚫 去掉注释行: ! Checksum: 4+gatGTdN/U8uL47UaA2sg
-🚫 去掉注释行: ! Version: 202608061133
+🚫 去掉注释行: ! Checksum: kDMliB3hMi4BUFJHVuTIXQ
+🚫 去掉注释行: ! Version: 202608061333
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 06 Aug 2026 11:33 UTC
+🚫 去掉注释行: ! Last modified: 06 Aug 2026 13:33 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -25214,10 +25214,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: prdwQBgvn0GT1f13oVjMwQ
-🚫 去掉注释行: ! Version: 202608061133
+🚫 去掉注释行: ! Checksum: PKSrmcGx/v8UdWRoAWbgQA
+🚫 去掉注释行: ! Version: 202608061333
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 06 Aug 2026 11:33 UTC
+🚫 去掉注释行: ! Last modified: 06 Aug 2026 13:33 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29817,10 +29817,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: AXpuMcZH01c7AXVQjhuhHw
-🚫 去掉注释行: ! Version: 202608061133
+🚫 去掉注释行: ! Checksum: JV3SCWNQqLYDxT/KdNrvmQ
+🚫 去掉注释行: ! Version: 202608061333
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 06 Aug 2026 11:33 UTC
+🚫 去掉注释行: ! Last modified: 06 Aug 2026 13:33 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -70439,15 +70439,14 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !Generated: 2026-08-06 19:05:22
-🚫 去掉注释行: !RuleCount: 686583
+🚫 去掉注释行: !Generated: 2026-08-06 21:04:45
+🚫 去掉注释行: !RuleCount: 686609
 ✅ HOSTS 转换: 127.0.0.1 0022a601.pphost.net → |0022a601.pphost.net^
 ✅ HOSTS 转换: 127.0.0.1 123.ywxww.net → |123.ywxww.net^
 ✅ HOSTS 转换: 127.0.0.1 1717.1000uc.com → |1717.1000uc.com^
 ✅ HOSTS 转换: 127.0.0.1 176.65.148.145.ptr.pfcloud.network → |176.65.148.145.ptr.pfcloud.network^
 ✅ HOSTS 转换: 127.0.0.1 176.65.149.168.ptr.pfcloud.network → |176.65.149.168.ptr.pfcloud.network^
 ✅ HOSTS 转换: 127.0.0.1 45.135.194.70.ptr.pfcloud.network → |45.135.194.70.ptr.pfcloud.network^
-✅ HOSTS 转换: 127.0.0.1 abdulahad.net → |abdulahad.net^
 ✅ HOSTS 转换: 127.0.0.1 acc.jiangsujiaxue.com → |acc.jiangsujiaxue.com^
 ✅ HOSTS 转换: 127.0.0.1 acms.saleseos.com → |acms.saleseos.com^
 ✅ HOSTS 转换: 127.0.0.1 actualiza-red5g.app → |actualiza-red5g.app^
@@ -70474,6 +70473,7 @@
 ✅ HOSTS 转换: 127.0.0.1 audicontadores.com → |audicontadores.com^
 ✅ HOSTS 转换: 127.0.0.1 awarenessexhibition.com → |awarenessexhibition.com^
 ✅ HOSTS 转换: 127.0.0.1 backupso.com → |backupso.com^
+✅ HOSTS 转换: 127.0.0.1 beak.in → |beak.in^
 ✅ HOSTS 转换: 127.0.0.1 beoauto.alexion.rs → |beoauto.alexion.rs^
 ✅ HOSTS 转换: 127.0.0.1 bito.com.pk → |bito.com.pk^
 ✅ HOSTS 转换: 127.0.0.1 blankeyeo.com → |blankeyeo.com^
