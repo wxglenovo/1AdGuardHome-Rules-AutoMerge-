@@ -6099,6 +6099,7 @@ sogeti.*###popup-cookieConsent
 |coniaprofumi.com##.wt-cli-cookie-bar-container
 |ganassa.com##.wt-cli-cookie-bar-container
 |kd.fi##.wt-cli-cookie-bar-container
+|lindipendente.online##.wt-cli-cookie-bar-container
 |taskus.com##.wt-cli-cookie-bar-container
 |105.net###iubenda-cs-banner
 |all3dp.com###iubenda-cs-banner
@@ -14519,6 +14520,9 @@ mixcloud.com#?#[style^="--x-backgroundColor"] > [class]:has-text(Cookies)
 |rimon.net.il#?#.elementor-popup-modal:has-text(cookies)
 |spectracities.com#?#.elementor-popup-modal:has-text(cookies)
 news.abs-cbn.com#?#.MuiBox-root:has-text(Welcome,)
+noon.com#?#._wrapper_nlm9m_28:has-text(/We use cookies|ÙØ³ØªØ®Ø¯Ù
+Ù
+ÙÙØ§Øª ØªØ¹Ø±ÙÙ/)
 payermax.com#?#.dialog:has-text(Cookies on PayerMax Website)
 planeteclipse.com#?#.notification:has-text(We use only essential cookies)
 play.google.com#?#.gb_g:has-text(cookie)
