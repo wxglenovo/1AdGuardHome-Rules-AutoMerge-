@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-08-07T14:24:20.878Z
+🚫 去掉注释行: ! Last modified: 2026-08-07T16:19:49.546Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -1606,10 +1606,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 96599
-🚫 去掉注释行: ! Checksum: Tgho1eMDDjvKrAqIOeJfUg
-🚫 去掉注释行: ! Version: 202608071602
+🚫 去掉注释行: ! Checksum: HVbSaTmxV+oltGEnMZezyQ
+🚫 去掉注释行: ! Version: 202608071651
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 07 Aug 2026 16:02 UTC
+🚫 去掉注释行: ! Last modified: 07 Aug 2026 16:51 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -25214,10 +25214,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: dKxBJDKDh6FUk01YbMV8ng
-🚫 去掉注释行: ! Version: 202608071602
+🚫 去掉注释行: ! Checksum: MQ7piYxlMl5wv8d31w1rag
+🚫 去掉注释行: ! Version: 202608071651
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 07 Aug 2026 16:02 UTC
+🚫 去掉注释行: ! Last modified: 07 Aug 2026 16:51 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29817,12 +29817,690 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-❌ 下载或处理失败: HTTPSConnectionPool(host='easylist-downloads.adblockplus.org', port=443): Read timed out. (read timeout=20)
-🚫 去掉注释行: ! Version: 202608071551
+🚫 去掉注释行: ! Checksum: R48kHcvgG+YeguZII6G6nw
+🚫 去掉注释行: ! Version: 202608071651
+🚫 去掉注释行: ! Title: EasyPrivacy
+🚫 去掉注释行: ! Last modified: 07 Aug 2026 16:51 UTC
+🚫 去掉注释行: ! Expires: 1 days (update frequency)
+🚫 去掉注释行: ! Homepage: https://easylist.to/
+🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
+🚫 去掉注释行: !
+🚫 去掉注释行: ! Please report any unblocked tracking or problems
+🚫 去掉注释行: ! in the forums (https://forums.lanik.us/)
+🚫 去掉注释行: ! or via e-mail (easylist@protonmail.com).
+🚫 去掉注释行: !
+🚫 去掉注释行: !-----------------General tracking systems-----------------!
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_general.txt ***
+🚫 去掉注释行: ! outfitters.com.pk/cdn/wpm/b7cecd0b6w90c54c6cpe92089d5m57a67346m.js
+🚫 去掉注释行: ! www.32degrees.com/cdn/wpm/b7cecd0b6w90c54c6cpe92089d5m57a67346m.js
+🚫 去掉注释行: ! stylo.pk/cdn/wpm/b7cecd0b6w90c54c6cpe92089d5m57a67346m.js
+🚫 去掉注释行: ! flyingtiger.com/cdn/wpm/b7cecd0b6w90c54c6cpe92089d5m57a67346m.js
+🚫 去掉注释行: ! shop.mattel.com/cdn/wpm/b7cecd0b6w90c54c6cpe92089d5m57a67346m.js
+🚫 去掉注释行: ! https://github.com/AdguardTeam/AdguardFilters/commit/934912b3e760e068a91cd6cb502096a55ab1ca16
+🚫 去掉注释行: ! Tracking on parked domains
+🚫 去掉注释行: ! https://www.mcclatchy.com/our-impact/markets
+🚫 去掉注释行: ! Facebook pixels
+🚫 去掉注释行: ! /ajax/bnzai?_
+🚫 去掉注释行: ! https://imgsen.com/mdaywmhb6u6d/photo-1551582045-6ec9c11d8697.jpg.html
+🚫 去掉注释行: ! parked domains
+🚫 去掉注释行: ! Amazon
+🚫 去掉注释行: ! hellofresh / greenchef / everyplate / grok
+🚫 去掉注释行: ! Pinterest
+🚫 去掉注释行: ! real time web analytics
+🚫 去掉注释行: ! DNS checks
+🚫 去掉注释行: ! hawkeye
+🚫 去掉注释行: ! cloudflare tracking
+🚫 去掉注释行: ! Notifcation scripts
+🚫 去掉注释行: ! Admiral
+🚫 去掉注释行: ! eventbrite tracking
+🚫 去掉注释行: ! Consent/GDPR tracking
+🚫 去掉注释行: ! Eulerian
+🚫 去掉注释行: ! google tracking
+🚫 去掉注释行: ! Server-side GTM
+🚫 去掉注释行: ! Taggrs.io
+🚫 去掉注释行: ! Stape
+🚫 去掉注释行: ! Google
+🚫 去掉注释行: ! Adblock tracking
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_general_emailtrackers.txt ***
+🚫 去掉注释行: ! easyprivacy_general_emailtrackers.txt
+🚫 去掉注释行: ! Email tracking pixels
+🚫 去掉注释行: !-----------------Third-party tracking domains-----------------!
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_trackingservers_general.txt ***
+🚫 去掉注释行: ! easyprivacy_trackingservers_general.txt
+🚫 去掉注释行: ! https://github.com/AdguardTeam/AdguardFilters/commit/934912b3e760e068a91cd6cb502096a55ab1ca16
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_trackingservers_thirdparty.txt ***
+🚫 去掉注释行: ! easyprivacy_trackingservers_thirdparty.txt
+🚫 去掉注释行: ! Third-party
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_trackingservers_mining.txt ***
+🚫 去掉注释行: ! easyprivacy_trackingservers_mining.txt
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_trackingservers_notifications.txt ***
+🚫 去掉注释行: ! easyprivacy_trackingservers_notifications.txt
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_trackingservers.txt ***
+🚫 去掉注释行: ! Chinese google (https://github.com/easylist/easylist/issues/15643)
+🚫 去掉注释行: ! IP tracking
+🚫 去掉注释行: ! Bright Data https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1580
+🚫 去掉注释行: ! Block ping
+🚫 去掉注释行: ! https://www.opensubtitles.org/
+🚫 去掉注释行: ! Oracle
+🚫 去掉注释行: ! revprotect
+🚫 去掉注释行: ! Marketo email tracking domains https://github.com/easylist/easylist/issues/6475
+🚫 去掉注释行: ! Fingerprinting
+🚫 去掉注释行: !-----------------International third-party tracking domains-----------------!
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_trackingservers_international.txt ***
+🚫 去掉注释行: ! German
+🚫 去掉注释行: ! French
+🚫 去掉注释行: ! Armenian
+🚫 去掉注释行: ! Azerbaijani
+🚫 去掉注释行: ! Belarusian
+🚫 去掉注释行: ! Bulgarian
+🚫 去掉注释行: ! Chinese
+🚫 去掉注释行: ! Croatian
+🚫 去掉注释行: ! Czech
+🚫 去掉注释行: ! Danish
+🚫 去掉注释行: ! Dutch
+🚫 去掉注释行: ! Estonian
+🚫 去掉注释行: ! Finnish
+🚫 去掉注释行: ! Georgian
+🚫 去掉注释行: ! Greek
+🚫 去掉注释行: ! Hebrew
+🚫 去掉注释行: ! Hungarian
+🚫 去掉注释行: ! Icelandic
+🚫 去掉注释行: ! Indonesian
+🚫 去掉注释行: ! Italian
+🚫 去掉注释行: ! Japanese
+🚫 去掉注释行: ! Korean
+🚫 去掉注释行: ! Latvian
+🚫 去掉注释行: ! Lithuanian
+🚫 去掉注释行: ! Norwegian
+🚫 去掉注释行: ! Persian
+🚫 去掉注释行: ! Polish
+🚫 去掉注释行: ! Portuguese
+🚫 去掉注释行: ! Romanian
+🚫 去掉注释行: ! Russian
+🚫 去掉注释行: ! Serbian
+🚫 去掉注释行: ! Slovak
+🚫 去掉注释行: ! Spanish
+🚫 去掉注释行: ! Swedish
+🚫 去掉注释行: ! Thai
+🚫 去掉注释行: ! Turkish
+🚫 去掉注释行: ! Ukranian
+🚫 去掉注释行: ! Vietnamese
+🚫 去掉注释行: !-----------------Third-party tracking services-----------------!
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_thirdparty.txt ***
+🚫 去掉注释行: ! https://d3ward.github.io/toolz/adblock.html
+🚫 去掉注释行: ! https://coveryourtracks.eff.org/ Cover your tracks test
+🚫 去掉注释行: ! cloudfront
+🚫 去掉注释行: ! Goatcounter CNAMES https://github.com/AdguardTeam/cname-trackers/issues/99
+🚫 去掉注释行: ! optimizely.com
+🚫 去掉注释行: ! firebase
+🚫 去掉注释行: ! https://gist.github.com/tinogomes/c425aa2a56d289f16a1f4fcb8a65ea65
+🚫 去掉注释行: ! Domains linking to 127.0.0.1
+🚫 去掉注释行: !||cefgo.com^
+🚫 去掉注释行: !||domaincontrol.com^
+🚫 去掉注释行: !||fbi.com^
+🚫 去掉注释行: !||lacolhost.com^
+🚫 去掉注释行: !||lndo.site^$third-party
+🚫 去掉注释行: !||local.computer^
+🚫 去掉注释行: !||local.qinlili.bid^
+🚫 去掉注释行: !||local.sisteminha.com^
+🚫 去掉注释行: !||localho.st^
+🚫 去掉注释行: !||localtest.me^
+🚫 去掉注释行: !||lvh.me^
+🚫 去掉注释行: !||netfinity.hostedrmm.com^
+🚫 去掉注释行: !||nip.io^$third-party
+🚫 去掉注释行: !||ssh.town^
+🚫 去掉注释行: !||supercalifragilisticexpialidocious.co.uk^
+🚫 去掉注释行: !||xip.io^
+🚫 去掉注释行: !||yoogle.com^
+🚫 去掉注释行: ! Ad-Shield
+🚫 去掉注释行: ! https://github.com/uBlockOrigin/uAssets/issues/9717
+🚫 去掉注释行: ! wix
+🚫 去掉注释行: ! Fingerprinting
+🚫 去掉注释行: ! akamai
+🚫 去掉注释行: ! fastly
+🚫 去掉注释行: ! CPU abuse
+🚫 去掉注释行: ! https://publicwww.com/websites/%22cloudfront.net%2Fscript.js%22/
+🚫 去掉注释行: ! Seals, Websecurity, Protection etc. Unnecessary third-party scripts
+🚫 去掉注释行: ! https://www.oligo.security/blog/0-0-0-0-day-exploiting-localhost-apis-from-the-browser
+🚫 去掉注释行: ! Suspect trackers (from privacy badger)
+🚫 去掉注释行: ! Rewrite to internal resources filters for Adblock Plus
+🚫 去掉注释行: !-----------------International third-party tracking services-----------------!
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_thirdparty_international.txt ***
+🚫 去掉注释行: ! German
+🚫 去掉注释行: ! Arabic
+🚫 去掉注释行: ! French
+🚫 去掉注释行: ! Belarusian
+🚫 去掉注释行: ! Croatian
+🚫 去掉注释行: ! Chinese
+🚫 去掉注释行: ! Croatian
+🚫 去掉注释行: ! Czech
+🚫 去掉注释行: ! Danish
+🚫 去掉注释行: ! Dutch
+🚫 去掉注释行: ! Estonian
+🚫 去掉注释行: ! Finnish
+🚫 去掉注释行: ! Georgian
+🚫 去掉注释行: ! Greek
+🚫 去掉注释行: ! Hebrew
+🚫 去掉注释行: ! Hungarian
+🚫 去掉注释行: ! Icelandic
+🚫 去掉注释行: ! Indian
+🚫 去掉注释行: ! Indonesian
+🚫 去掉注释行: ! Italian
+🚫 去掉注释行: ! Japanese
+🚫 去掉注释行: ! Korean
+🚫 去掉注释行: ! Latvian
+🚫 去掉注释行: ! Lithuanian
+🚫 去掉注释行: ! Norwegian
+🚫 去掉注释行: ! Persian
+🚫 去掉注释行: ! Polish
+🚫 去掉注释行: ! Portuguese
+🚫 去掉注释行: ! Romanian
+🚫 去掉注释行: ! Russian
+🚫 去掉注释行: ! Serbian
+🚫 去掉注释行: ! Slovak
+🚫 去掉注释行: ! Slovene
+🚫 去掉注释行: ! Spanish
+🚫 去掉注释行: ! Swedish
+🚫 去掉注释行: ! Tajik
+🚫 去掉注释行: ! Thai
+🚫 去掉注释行: ! Turkish
+🚫 去掉注释行: ! Ukranian
+🚫 去掉注释行: ! Vietnamese
+🚫 去掉注释行: !-----------------Individual tracking systems-----------------!
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_specific.txt ***
+🚫 去掉注释行: !||youtube.com/api/stats/atr?ns=*&ver=2&cmt=1.*&fs=0&*&euri&lact=
+🚫 去掉注释行: ! ||youtube.com/youtubei/v1/log_event?
+🚫 去掉注释行: ! Email trackers(for long urls, 9000+ chars not being filtered)
+🚫 去掉注释行: ! OpenTable
+🚫 去掉注释行: ! https://github.com/uBlockOrigin/uAssets/issues/33186
+🚫 去掉注释行: ! Vinted
+🚫 去掉注释行: ! akamaihd.net
+🚫 去掉注释行: ! Non-legit domains
+🚫 去掉注释行: ! Plausible selfhosted
+🚫 去掉注释行: ! confection.io
+🚫 去掉注释行: ! Adobe
+🚫 去掉注释行: ! onesignal.com
+🚫 去掉注释行: ! Bing
+🚫 去掉注释行: ! Site specific elements (due to EP)
+🚫 去掉注释行: ###cxense-recs-in-article
+🚫 去掉注释行: ##.embed-responsive-trendmd
+🚫 去掉注释行: ! Aliexpress
+🚫 去掉注释行: ! https://github.com/easylist/easylist/commit/7a86afd
+🚫 去掉注释行: ! (naiadsystems.com/icfcdn.com)
+🚫 去掉注释行: ! Port scanning Fingerprinting Trackers (Privacy and CPU abuse)
+🚫 去掉注释行: ! https://nullsweep.com/why-is-this-website-port-scanning-me/
+🚫 去掉注释行: ! Fingerprint
+🚫 去掉注释行: ! Consent/GDPR tracking
+🚫 去掉注释行: ! https://github.com/easylist/easylist/blob/08ad3ed93e8ddbc32b8860340f25e8ddf4074741/easyprivacy/easyprivacy_specific.txt#L2813
+🚫 去掉注释行: ! McClatchy sites (bellinghamherald.com,bnd.com,bradenton.com,centredaily.com etc)
+🚫 去掉注释行: ! https://github.com/easylist/easylist/blob/4ec8049213fd2ede4682f1760764ae79cda7cc55/easyprivacy/easyprivacy_specific.txt#L1067
+🚫 去掉注释行: ! CSP Mining
+🚫 去掉注释行: ! Other resource abuse
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_specific_perimeterx.txt ***
+🚫 去掉注释行: ! easyprivacy_specific_perimeterx.txt
+🚫 去掉注释行: ! ||zillow.com/HYx10rg3/init.js
+🚫 去掉注释行: !-----------------Extension specific systems-----------------!
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_specific_abp.txt ***
+🚫 去掉注释行: ! easyprivacy_specific_abp.txt
+🚫 去掉注释行: !#if ext_abp
+🚫 去掉注释行: ! Specific filters necessary for sites allowlisting with $genericblock filter option
+🚫 去掉注释行: !
+🚫 去掉注释行: ! https://github.com/easylist/easylist/issues/18198
+🚫 去掉注释行: !#endif
+🚫 去掉注释行: !-----------------Individual cname tracking systems-----------------!
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_specific_cname_dataunlocker.txt ***
+🚫 去掉注释行: ! easyprivacy_specific_cname_dataunlocker.txt
+🚫 去掉注释行: ! https://github.com/AdguardTeam/cname-trackers/blob/master/data/trackers/dataunlocker.txt
+🚫 去掉注释行: ! CNAME https://github.com/easylist/easylist/issues/9383 https://github.com/AdguardTeam/cname-trackers/issues/15
+🚫 去掉注释行: ! Company name: DataUnlocker
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_specific_cname_a8net.txt ***
+🚫 去掉注释行: ! easyprivacy_specific_cname_a8net.txt
+🚫 去掉注释行: ! a8.net https://github.com/AdguardTeam/cname-trackers/blob/master/data/trackers/a8_net.txt
+🚫 去掉注释行: !
+🚫 去掉注释行: ! Disabled
+🚫 去掉注释行: ! ||cart.matsuzaka-steak.com^
+🚫 去掉注释行: ! remove dube: ||www.a8clk.kanagawa-zero.com^
+🚫 去掉注释行: ! ||www.a8clk.amelia.ne.jp^
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_specific_cname_plausible.txt ***
+🚫 去掉注释行: ! easyprivacy_specific_cname_plausible.txt
+🚫 去掉注释行: ! plausible.io cname (https://plausible.io/docs/custom-domain)
+🚫 去掉注释行: ! Removed:
+🚫 去掉注释行: ! ||stats.trimbles.ie^
+🚫 去掉注释行: ! ||stats.suenicholls.com^
+🚫 去掉注释行: !
+🚫 去掉注释行: ! Company name: Plausible Analytics https://github.com/AdguardTeam/cname-trackers/blob/master/data/trackers/plausible-analytics.txt
+🚫 去掉注释行: !
+🚫 去掉注释行: ! custom.plausible.io disguised trackers
+🚫 去掉注释行: !
+🚫 去掉注释行: ! Company name: Plausible Analytics
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_specific_cname_tracedock.txt ***
+🚫 去掉注释行: ! easyprivacy_specific_cname_tracedock.txt
+🚫 去掉注释行: ! Company name: TraceDock https://github.com/AdguardTeam/cname-trackers/blob/master/data/microsites/tracedock.txt
+🚫 去掉注释行: !
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_specific_cname_at-internet.txt ***
+🚫 去掉注释行: ! easyprivacy_specific_cname_at-internet.txt
+🚫 去掉注释行: !
+🚫 去掉注释行: ! at-o.net https://github.com/AdguardTeam/cname-trackers/blob/master/data/trackers/at-internet-(formerly-xiti).txt
+🚫 去掉注释行: ! Removed due to dubes
+🚫 去掉注释行: ! www.strawberry.basf.com
+🚫 去掉注释行: !
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_specific_cname_adobe.txt ***
+🚫 去掉注释行: ! easyprivacy_specific_cname_adobe.txt
+🚫 去掉注释行: ! Adobe https://github.com/AdguardTeam/cname-trackers/blob/master/data/trackers/adobe-experience-cloud-(formerly-omniture).txt
+🚫 去掉注释行: !
+🚫 去掉注释行: ! Company name: Adobe Experience Cloud (formerly Omniture)
+🚫 去掉注释行: ! removed: *.tt.omtrdc.net (dube of EP)
+🚫 去掉注释行: ! remove dube: wa.sugarandjade.com
+🚫 去掉注释行: ! ||wa.pjplace.com^
+🚫 去掉注释行: ! ||wa.gymboree.com^
+🚫 去掉注释行: ! ||wa.childrensplace.com^
+🚫 去掉注释行: ! ||tgt.maep.ibm.com^
+🚫 去掉注释行: ! ||target-us.samsung.com^
+🚫 去掉注释行: ! ||sstats.adobe.com^
+🚫 去掉注释行: ! ||smetrics.couponcabin.com^
+🚫 去掉注释行: ! ||saa.insideedition.com^
+🚫 去掉注释行: ! ||telemetry.goodlifefitness.com^
+🚫 去掉注释行: ! ||adobedc.demdex.net^
+🚫 去掉注释行: ! ||target.nejm.org^
+🚫 去掉注释行: ! ||target.nationwide.com^
+🚫 去掉注释行: ! ||smetrics.ralphlauren.com^
+🚫 去掉注释行: ! ||edge.adobedc.net^
+🚫 去掉注释行: ! ||sams.manager-magazin.de^
+🚫 去掉注释行: ! ||www.metrics.argos.co.uk^
+🚫 去掉注释行: ! ||000scripps.hb.omtrdc.net^
+🚫 去掉注释行: ! ||www.smetrics.argos.co.uk^
+🚫 去掉注释行: ! ||www.sstats.bnpparibasfortis.be^
+🚫 去掉注释行: ! ||www.sstats.hellobank.be^
+🚫 去掉注释行: ! ||ssl.o.webmd.com^
+🚫 去掉注释行: ! ||std.o.webmd.com^
+🚫 去掉注释行: ! ||lp.go2.ringcentral.com^
+🚫 去掉注释行: ! ||w.smobile.wotif.com^
+🚫 去掉注释行: ! ||sstats.bitdefender.com^
+🚫 去掉注释行: ! ||target.microsoft.com^
+🚫 去掉注释行: ! ||aamt.msnbc.com^
+🚫 去掉注释行: ! ||visit.asb.co.nz^
+🚫 去掉注释行: !
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_specific_cname_acton.txt ***
+🚫 去掉注释行: ! easyprivacy_specific_cname_acton.txt
+🚫 去掉注释行: ! actonsoftware.com disguised trackers https://github.com/AdguardTeam/cname-trackers/blob/master/data/trackers/act-on.txt
+🚫 去掉注释行: ! Disabled:
+🚫 去掉注释行: ! ||go.fvtc.edu^
+🚫 去掉注释行: ! ||hfd.bridgetowermedia.com^
+🚫 去掉注释行: ! ||marketing.bluekai.com^
+🚫 去掉注释行: ! ||beyondmeasure.rigoltech.com^
+🚫 去掉注释行: ! ||africa.promo.skf.com^
+🚫 去掉注释行: ! ||africafr.promo.skf.com^
+🚫 去掉注释行: ! ||ai.promo.skf.com^
+🚫 去掉注释行: ! ||ar.promo.skf.com^
+🚫 去掉注释行: ! ||au.promo.skf.com^
+🚫 去掉注释行: ! ||austria.promo.skf.com^
+🚫 去掉注释行: ! ||baltics.promo.skf.com^
+🚫 去掉注释行: ! ||benelux.promo.skf.com^
+🚫 去掉注释行: ! ||bg.promo.skf.com^
+🚫 去掉注释行: ! ||br.promo.skf.com^
+🚫 去掉注释行: ! ||ca.promo.skf.com^
+🚫 去掉注释行: ! ||cl.promo.skf.com^
+🚫 去掉注释行: ! ||cn.promo.skf.com^
+🚫 去掉注释行: ! ||co.promo.skf.com^
+🚫 去掉注释行: ! ||communication.promo.skf.com^
+🚫 去掉注释行: ! ||cz.promo.skf.com^
+🚫 去掉注释行: ! ||de.promo.skf.com^
+🚫 去掉注释行: ! ||emea.promo.skf.com^
+🚫 去掉注释行: ! ||evolution.promo.skf.com^
+🚫 去掉注释行: ! ||fr.promo.skf.com^
+🚫 去掉注释行: ! ||gr.promo.skf.com^
+🚫 去掉注释行: ! ||hr.promo.skf.com^
+🚫 去掉注释行: ! ||hu.promo.skf.com^
+🚫 去掉注释行: ! ||iberian.promo.skf.com^
+🚫 去掉注释行: ! ||id.promo.skf.com^
+🚫 去掉注释行: ! ||il.promo.skf.com^
+🚫 去掉注释行: ! ||in.promo.skf.com^
+🚫 去掉注释行: ! ||industry.promo.skf.com^
+🚫 去掉注释行: ! ||it.promo.skf.com^
+🚫 去掉注释行: ! ||jp.promo.skf.com^
+🚫 去掉注释行: ! ||kaydonus.promo.skf.com^
+🚫 去掉注释行: ! ||kc.promo.skf.com^
+🚫 去掉注释行: ! ||lam.promo.skf.com^
+🚫 去掉注释行: ! ||lubrication.promo.skf.com^
+🚫 去掉注释行: ! ||lubricationcee-mea.promo.skf.com^
+🚫 去掉注释行: ! ||lubricationde.promo.skf.com^
+🚫 去掉注释行: ! ||lubricationus.promo.skf.com^
+🚫 去掉注释行: ! ||marine.promo.skf.com^
+🚫 去掉注释行: ! ||mx.promo.skf.com^
+🚫 去掉注释行: ! ||my.promo.skf.com^
+🚫 去掉注释行: ! ||pe.promo.skf.com^
+🚫 去掉注释行: ! ||ph.promo.skf.com^
+🚫 去掉注释行: ! ||pl.promo.skf.com^
+🚫 去掉注释行: ! ||ro.promo.skf.com^
+🚫 去掉注释行: ! ||rs.promo.skf.com^
+🚫 去掉注释行: ! ||seals.promo.skf.com^
+🚫 去掉注释行: ! ||sg.promo.skf.com^
+🚫 去掉注释行: ! ||sk.promo.skf.com^
+🚫 去掉注释行: ! ||tr.promo.skf.com^
+🚫 去掉注释行: ! ||tw.promo.skf.com^
+🚫 去掉注释行: ! ||uk.promo.skf.com^
+🚫 去掉注释行: ! ||us.promo.skf.com^
+🚫 去掉注释行: ! ||vehicleaftermarket.euw.promo.skf.com^
+🚫 去掉注释行: ! ||vietnam.promo.skf.com^
+🚫 去掉注释行: ! ||vsmeue.promo.skf.com^
+🚫 去掉注释行: ! ||vsmeuw.promo.skf.com^
+🚫 去掉注释行: ! ||! ||apprhs.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||atlantic-general-hospital.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||augustahealth.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||bannerhealth.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||baptisthealth.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||beaconhealthsystem.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||bjc.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||california.providence.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||carle.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||centrastate.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||centura.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||childrens.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||cvhp.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||dignityhealth.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||edward.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||elcaminohospital.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||essentiahealth.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||genesishealth.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||goshenhealth.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||gundersenhealth.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||hallmarkhealth.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||hcafarwest.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||hcagulfcoast.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||hcahealthcare.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||hillcrest.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||honorhealth.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||hospitals.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||inova.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||kennedyhealth.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||lovelace.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||mclaren-porthuron.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||memhosp.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||mhs.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||ochsner.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||overlakemedicalcenter.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||pinnacleuniversity.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||rsfh.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||rush.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||stamfordhealth.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||stcharleshealthcare.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||swedishcovenant.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||uhealthsystem.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||uhhospitals.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||umassmemorial.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||unchealthcare.hrm.healthgrades.com^
+🚫 去掉注释行: ! ||ecp.bdoaustralia.bdo.com.au^
+🚫 去掉注释行: ! ||tas.bdoaustralia.bdo.com.au^
+🚫 去掉注释行: ! ||wa.bdoaustralia.bdo.com.au^
+🚫 去掉注释行: ! ||go.esri.fi^
+🚫 去掉注释行: ! ||info.girlswhoinvest.org^
+🚫 去掉注释行: !
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_specific_cname_otto.txt ***
+🚫 去掉注释行: ! easyprivacy_specific_cname_otto.txt
+🚫 去掉注释行: ! Company name: Otto Group https://github.com/AdguardTeam/cname-trackers/raw/master/data/trackers/otto-group.txt
+🚫 去掉注释行: !
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_specific_cname_commanders-act.txt ***
+🚫 去掉注释行: ! easyprivacy_specific_cname_commanders-act.txt
+🚫 去掉注释行: ! tagcommander.com disguised trackers https://github.com/AdguardTeam/cname-trackers/blob/master/data/trackers/commanders-act.txt
+🚫 去掉注释行: !
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_specific_cname_ingenious-technologies.txt ***
+🚫 去掉注释行: ! easyprivacy_specific_cname_ingenious-technologies.txt
+🚫 去掉注释行: ! Company name: Ingenious Technologies https://github.com/AdguardTeam/cname-trackers/blob/master/data/trackers/ingenious-technologies.txt
+🚫 去掉注释行: !
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_specific_cname_np6.txt ***
+🚫 去掉注释行: ! easyprivacy_specific_cname_np6.txt
+🚫 去掉注释行: ! tracking.bp01.net disguised trackers https://github.com/AdguardTeam/cname-trackers/blob/master/data/trackers/np6.txt
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_specific_cname_criteo.txt ***
+🚫 去掉注释行: ! easyprivacy_specific_cname_criteo.txt
+🚫 去掉注释行: ! Criteo https://github.com/AdguardTeam/cname-trackers/blob/master/data/trackers/criteo.txt
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: ! Company name: Criteo
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_specific_cname_oracle.txt ***
+🚫 去掉注释行: ! easyprivacy_specific_cname_oracle.txt
+🚫 去掉注释行: ! Company name: Oracle Eloqua https://github.com/AdguardTeam/cname-trackers/blob/master/data/microsites/oracle-eloqua.txt
+🚫 去掉注释行: !
+🚫 去掉注释行: ! Disabled:
+🚫 去掉注释行: ! ||contactforms.53.com^
+🚫 去掉注释行: ! ||digital.att.com^
+🚫 去掉注释行: ! ||connect.telstrawholesale.com.au^
+🚫 去掉注释行: ! ||form.info-morimoto-real.jp^
+🚫 去掉注释行: ! ||medlemskap.fagforbundet.no^
+🚫 去掉注释行: ! ||go.oracle.com^
+🚫 去掉注释行: ! ||info.medtronicdiabetes.com^
+🚫 去掉注释行: ! ||info.mouser.com^
+🚫 去掉注释行: ! ||visit.tafensw.edu.au^
+🚫 去掉注释行: ! ||sw.broadcom.com^
+🚫 去掉注释行: ! ||lrbelgium.wolterskluwer.com^
+🚫 去掉注释行: ! ||belgium.wolterskluwer.com^
+🚫 去掉注释行: ! ||dhlsupplychain.dhl.com^
+🚫 去掉注释行: ! ||online.spsglobal.com^
+🚫 去掉注释行: !
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_specific_cname_ad-ebis.txt ***
+🚫 去掉注释行: ! easyprivacy_specific_cname_ad-ebis.txt
+🚫 去掉注释行: ! Company name: AD EBiS https://github.com/AdguardTeam/cname-trackers/blob/master/data/trackers/ad-ebis.txt
+🚫 去掉注释行: !
+🚫 去掉注释行: ! ebis.ne.jp disguised trackers
+🚫 去掉注释行: ! Disabled:
+🚫 去掉注释行: ! ||ad.kddi-fs.com^
+🚫 去掉注释行: !
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_specific_cname_eulerian.txt ***
+🚫 去掉注释行: ! easyprivacy_specific_cname_eulerian.txt
+🚫 去掉注释行: ! Company name: Eulerian https://github.com/AdguardTeam/cname-trackers/blob/master/data/trackers/eulerian.txt
+🚫 去掉注释行: !
+🚫 去掉注释行: ! eulerian.net disguised trackers
+🚫 去掉注释行: !
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_specific_cname_keyade.txt ***
+🚫 去掉注释行: ! easyprivacy_specific_cname_keyade.txt
+🚫 去掉注释行: ! Company name: Keyade https://github.com/AdguardTeam/cname-trackers/blob/master/data/trackers/keyade.txt
+🚫 去掉注释行: ! removed dubed in EP
+🚫 去掉注释行: !  ||ka.ilius.net^
+🚫 去掉注释行: !
+🚫 去掉注释行: ! k.keyade.com disguised trackers
+🚫 去掉注释行: !
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_specific_cname_lead-forensics.txt ***
+🚫 去掉注释行: ! easyprivacy_specific_cname_lead-forensics.txt
+🚫 去掉注释行: ! Company name: Lead Forensics https://github.com/AdguardTeam/cname-trackers/blob/master/data/trackers/lead-forensics.txt
+🚫 去掉注释行: !
+🚫 去掉注释行: ! Removed dubes
+🚫 去掉注释行: ! ||fp.measure.office.com^
+🚫 去掉注释行: ! ||secure.venture-365-inspired.com^
+🚫 去掉注释行: !
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_specific_cname_webtrekk.txt ***
+🚫 去掉注释行: ! easyprivacy_specific_cname_webtrekk.txt
+🚫 去掉注释行: ! Company name: Webtrekk https://github.com/AdguardTeam/cname-trackers/blob/master/data/trackers/webtrekk.txt
+🚫 去掉注释行: !
+🚫 去掉注释行: ! webtrekk.net disguised trackers
+🚫 去掉注释行: !
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_specific_cname_wizaly.txt ***
+🚫 去掉注释行: ! easyprivacy_specific_cname_wizaly.txt
+🚫 去掉注释行: ! wizaly.com disguised trackers https://github.com/AdguardTeam/cname-trackers/blob/master/data/trackers/wizaly.txt
+🚫 去掉注释行: !
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_specific_cname_branch.txt ***
+🚫 去掉注释行: ! easyprivacy_specific_cname_branch.txt
+🚫 去掉注释行: ! Company name: Branch.io https://github.com/AdguardTeam/cname-trackers/blob/master/data/clickthroughs/branch_io.txt
+🚫 去掉注释行: ! Disabled
+🚫 去掉注释行: ! ||clickmail.stubhub.com^
+🚫 去掉注释行: ! ||links.strava.com^
+🚫 去掉注释行: ! ||wl.spotify.com^
+🚫 去掉注释行: ! ||go.playbackbone.com^
+🚫 去掉注释行: ! ||t.ac.pandora.com^
+🚫 去掉注释行: ! ||stream.9now.com.au^
+🚫 去掉注释行: ! ||link.tubi.tv^
+🚫 去掉注释行: ! ||app.teachfx.com^
+🚫 去掉注释行: ! ||open.airtelxstream.in^
+🚫 去掉注释行: ! ||deeplink.xeropan.com^
+🚫 去掉注释行: ! ||app.naga.com^
+🚫 去掉注释行: ! ||t.vrbo.io^
+🚫 去掉注释行: ! ||join.tlon.io^
+🚫 去掉注释行: ! ||cdl.booksy.com^
+🚫 去掉注释行: ! ||links.thriveglobal.com^
+🚫 去掉注释行: ! ||staging-links.thriveglobal.com^
+🚫 去掉注释行: !
+🚫 去掉注释行: ! Company name: Branch.io
+🚫 去掉注释行: !
+🚫 去掉注释行: !-----------------International individual tracking systems-----------------!
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_specific_international.txt ***
+🚫 去掉注释行: ! German
+🚫 去掉注释行: ! TrustPid/Utiq
+🚫 去掉注释行: ! ||service.utiq.com^
+🚫 去掉注释行: ! Danish
+🚫 去掉注释行: ! French
+🚫 去掉注释行: ! Belarusian
+🚫 去掉注释行: ! Arabic
+🚫 去掉注释行: ! Bosnian
+🚫 去掉注释行: ! Chinese
+🚫 去掉注释行: ! Croatian
+🚫 去掉注释行: ! Czech
+🚫 去掉注释行: ! Dutch
+🚫 去掉注释行: ! Finnish
+🚫 去掉注释行: ! Greek
+🚫 去掉注释行: ! Hebrew
+🚫 去掉注释行: ! Hungarian
+🚫 去掉注释行: ! Indian/Hindi
+🚫 去掉注释行: ! Indonesian
+🚫 去掉注释行: ! Italian
+🚫 去掉注释行: ! Japanese
+🚫 去掉注释行: ! Korean
+🚫 去掉注释行: ! Latvian
+🚫 去掉注释行: ! Lithuanian
+🚫 去掉注释行: ! Malaysian
+🚫 去掉注释行: ! Norwegian
+🚫 去掉注释行: ! Persian
+🚫 去掉注释行: ! Polish
+🚫 去掉注释行: ! Portuguese
+🚫 去掉注释行: ! Romanian
+🚫 去掉注释行: ! Russian
+🚫 去掉注释行: ! Slovak
+🚫 去掉注释行: ! Slovene
+🚫 去掉注释行: ! Spanish
+🚫 去掉注释行: ! Swedish
+🚫 去掉注释行: ! Thai
+🚫 去掉注释行: ! Turkish
+🚫 去掉注释行: ! Ukrainian
+🚫 去掉注释行: ! Vietnamese
+🚫 去掉注释行: !-----------------------Allowlists to fix broken sites------------------------!
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_allowlist.txt ***
+🚫 去掉注释行: ! imrworldwide.com/v60.js
+🚫 去掉注释行: ! statcounter.com charts https://github.com/uBlockOrigin/uAssets/issues/11321
+🚫 去掉注释行: ! ping exceptions
+🚫 去掉注释行: ! https://github.com/easylist/easylist/issues/10565
+🚫 去掉注释行: ! Opera/Safari (buggy 3rd-party implementations)
+🚫 去掉注释行: ! https://forums.lanik.us/viewtopic.php?f=64&t=45603&p=158333
+🚫 去掉注释行: ! Consent and video Fixes
+🚫 去掉注释行: ! CNAME (Specific allowlists)
+🚫 去掉注释行: ! Chrome bug (Endless loading causing site to crash https://forums.lanik.us/viewtopic.php?f=64&t=25152)
+🚫 去掉注释行: ! Preliminarily allowlists Omniture s_code tracking pixels (script versions H.25 - H.25.2) due to breakage (https://adblockplus.org/forum/viewtopic.php?f=10&t=11378) if blocking the script causes issues
+🚫 去掉注释行: ! Allowlists to fix broken pages of tracking companies
+🚫 去掉注释行: ! Heatmap
+🚫 去掉注释行: !----------------Allowlists to fix broken international sites-----------------!
+🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_allowlist_international.txt ***
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- German ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Greek -----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- French ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Arabic ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Bosnian ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Bulgarian ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Chinese ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Czech ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Danish ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Dutch ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Finnish ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Hebrew ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Hungarian ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Icelandic ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Italian ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Indonesian ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Japanese ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Korean ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Latvian ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Macedonian ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Norwegian ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Polish ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Portuguese ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Qatar ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Romanian ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Russian ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Spanish ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Swedish ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Thai ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Turkish ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Ukrainian ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Vietnamese ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: !---------- Anti-Adblock ----------
+🚫 去掉注释行: !
+🚫 去掉注释行: ! Version: 202608071700
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 07 Aug 2026 15:51 UTC
+🚫 去掉注释行: ! Last modified: 07 Aug 2026 17:00 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 4fce20cae7a4c6d724b99b5f59fad5ef8bb65c1e
+🚫 去掉注释行: ! Commit: d045fdd1c4f032fdd56e3dc33bf75e8857e47033
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -53462,11 +54140,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202608071601
+🚫 去掉注释行: ! Version: 202608071700
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 07 Aug 2026 16:01 UTC
+🚫 去掉注释行: ! Last modified: 07 Aug 2026 17:00 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 3198262fc962bdd392a45531369d6512516d683b
+🚫 去掉注释行: ! Commit: d045fdd1c4f032fdd56e3dc33bf75e8857e47033
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -69780,8 +70458,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !Generated: 2026-08-07 23:31:15
-🚫 去掉注释行: !RuleCount: 690690
+🚫 去掉注释行: !Generated: 2026-08-08 00:29:53
+🚫 去掉注释行: !RuleCount: 690699
 ✅ HOSTS 转换: 127.0.0.1 0022a601.pphost.net → |0022a601.pphost.net^
 ✅ HOSTS 转换: 127.0.0.1 123.ywxww.net → |123.ywxww.net^
 ✅ HOSTS 转换: 127.0.0.1 1717.1000uc.com → |1717.1000uc.com^
@@ -180545,8 +181223,8 @@
 🚫 去掉注释行: ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 🚫 去掉注释行: ! Homepage: https://github.com/217heidai/adblockfilters
 🚫 去掉注释行: ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-🚫 去掉注释行: ! Version: 20260807170511
-🚫 去掉注释行: ! Last modified: 2026/08/07 17:05:11
+🚫 去掉注释行: ! Version: 20260808005755
+🚫 去掉注释行: ! Last modified: 2026/08/08 00:57:55
 🚫 去掉注释行: ! Blocked domains: 4784
 🚫 去掉注释行: ! unBlocked domains: 14
 🚫 去掉注释行: !
