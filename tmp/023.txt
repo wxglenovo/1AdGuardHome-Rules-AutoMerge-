@@ -17770,6 +17770,7 @@ ccc.eu##cookie-consent-manager
 azbtr.portalus.thentiacloud.net##cookie-dialog
 access.login.nhs.uk##core-cookie-banner
 crazymaplestudios.com#?#.fixed:has-text(Cookie)
+shop.orqafpv.com##csm-cookie-consent
 czds.icann.org##czds-cookie-notification
 daily.dev#?#.bottom-0.fixed:has-text(This site uses cookies)
 c.realme.com##div > .cookie-privacy
@@ -19847,6 +19848,7 @@ stokrotka.pl###cboxWrapper
 |imusic.se###cc-main
 |infonieve.es###cc-main
 |investor.natera.com###cc-main
+|ipinfo.io###cc-main
 |jackbox.tv###cc-main
 |jenmusic.ai###cc-main
 |jurga.lt###cc-main
@@ -23683,6 +23685,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |liquid.ai##.cookie-banner
 |lokmat.com##.cookie-banner
 |massey.ac.nz##.cookie-banner
+|maxdash.ru##.cookie-banner
 |mcc-9.jp##.cookie-banner
 |medipolis.de##.cookie-banner
 |mega.io##.cookie-banner
@@ -23704,6 +23707,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |orb.net##.cookie-banner
 |order.humus-eli-yahoo.com##.cookie-banner
 |order.plweb.online##.cookie-banner
+|orqafpv.com##.cookie-banner
 |osthammar.se##.cookie-banner
 |overclock3d.net##.cookie-banner
 |overleaf.com##.cookie-banner
@@ -24240,6 +24244,7 @@ vorwaerts.de##.klaro-button
 |weisse-flotte.de##.cookie-hint
 |barcode.tec-it.com##.cookieConsent
 |biovea.com##.cookieConsent
+|popcake.news##.cookieConsent
 |centreforaviation.com##[class^="cookieConsent"]
 |mbank.pl##[class^="cookieConsent"]
 |picofme.io##[class^="cookieConsent"]
@@ -42048,6 +42053,7 @@ stoloto.ru##div[class^="Provider_container"]
 aliexpress.ru##div[class^="SnowPrivacyPolicyBanner_"]
 tv.starhit.ru##div[class^="_cookieConsent_"]
 bb.market##div[class^="_cookies_"]
+vtb.ru##div[class^="common__Cookies-cookies__sc-"]
 pulsesync.dev##div[class^="cookieConsent-module-"]
 asna.ru##div[class^="modalCookies_"]
 rencredit.ru##div[data-attention-id="3420"]
@@ -44346,6 +44352,7 @@ yoigo.com#@#thor-cookies
 @@||steuerberatung-berlin.de/cookiepolicynotification/javascript/jquery.cookie.policy.min.js$~third-party
 @@||stickerland.*/static/*/cookie-consent.js$~third-party
 @@||strava.com/cookie-banner.js$~third-party
+@@||streaming.transcend.io/endpoint.html$domain=privacy.openai.com
 @@||stwater.co.uk^*/cookie-banner.stw_props.json$~third-party
 @@||suncalc.org/scripts/cookieconsent.min.js
 @@||superrichthailand.com/cookie-policy/cookie-policy.js
