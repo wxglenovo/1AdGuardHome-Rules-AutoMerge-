@@ -35538,6 +35538,8 @@ studienwahl.de##+js(set-cookie, necessary_consent, accepted)
 |motofaktor.pl##body,html:style(overflow: auto !important; position: initial !important;)
 |portalspozywczy.pl##body,html:style(overflow: auto !important; position: initial !important;)
 |rynekzdrowia.pl##body,html:style(overflow: auto !important; position: initial !important;)
+alexela.ee##body.eu-cookie-compliance-popup-open::after:style(display: none !important;)
+alexela.ee##body.eu-cookie-compliance-popup-open:style(overflow: auto !important;)
 wertarbeit-steinfurt.de##.reveal
 |crazy-factory.com##.reveal-overlay
 |frankfurt.de##.reveal-overlay
