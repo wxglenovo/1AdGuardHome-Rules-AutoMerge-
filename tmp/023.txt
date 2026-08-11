@@ -18019,6 +18019,7 @@ trumpf.com##ux-cookie-layer
 |rockymountainpower.net##wcss-cookie-banner
 web.dev##web-snackbar
 wirexapp.com##wx-cookie-policy-notification
+xm.com##xm-cookie-banner-wrapper
 |history.com##.p11s5o4
 |yunexpress.com##.p11s5o4
 history.com#?#[data-sentry-component="Box"]:has-text(Legal Terms and Privacy)
@@ -24700,6 +24701,7 @@ onassis.org##.bottom-0.relative
 |deno.com##.bottom-2
 |getmerlin.in##.bottom-2
 |olecams.com##.bottom-2
+|perplexity.ai##.bottom-2
 |producthunt.com##.bottom-2
 |vello.fi##.bottom-2
 |videochaterotico.com##.bottom-2
@@ -30526,6 +30528,11 @@ ufs.br##+js(set-cookie, www.ufs.br, 1)
 hostfly.by##+js(set-cookie, www_hostfly_by:443-s1-CookiePRO_cancel, 1)
 beforward.jp##+js(set-cookie, wwwbf[appi], 1, , reload, 1)
 forum.digitalfernsehen.de##+js(set-cookie, xf_notice_dismiss, 1)
+xm.com##+js(set-cookie, xmck_analytical, 0)
+xm.com##+js(set-cookie, xmck_functional, 1)
+xm.com##+js(set-cookie, xmck_popupShown, 1)
+xm.com##+js(set-cookie, xmck_preferences, 0)
+xm.com##+js(set-cookie, xmck_promotional, 0)
 portal.payment.eltax.lta.go.jp##+js(set-cookie, xn_cookieconsent, false, , reload, 1)
 steinmetz-baldauf.de##+js(set-cookie, youtube, 1)
 global-messer.shop##+js(set-cookie, youtube-video, 1)
@@ -31865,7 +31872,6 @@ e-comas.com###ask-consent:remove()
 |wng.at##.modal
 |wolf-und-kollegen.de##.modal
 |worldarchitecture.org##.modal
-|xm.com##.modal
 |xmarabia.net##.modal
 |xmtrading.com##.modal
 |yolo-insurance.com##.modal
@@ -32363,7 +32369,6 @@ e-comas.com###ask-consent:remove()
 |wng.at##.modal-backdrop
 |wolf-und-kollegen.de##.modal-backdrop
 |worldarchitecture.org##.modal-backdrop
-|xm.com##.modal-backdrop
 |xmarabia.net##.modal-backdrop
 |xmtrading.com##.modal-backdrop
 |yolo-insurance.com##.modal-backdrop
@@ -32861,7 +32866,6 @@ e-comas.com###ask-consent:remove()
 |wng.at##body,html:style(overflow: auto !important; position: initial !important;)
 |wolf-und-kollegen.de##body,html:style(overflow: auto !important; position: initial !important;)
 |worldarchitecture.org##body,html:style(overflow: auto !important; position: initial !important;)
-|xm.com##body,html:style(overflow: auto !important; position: initial !important;)
 |xmarabia.net##body,html:style(overflow: auto !important; position: initial !important;)
 |xmtrading.com##body,html:style(overflow: auto !important; position: initial !important;)
 |yolo-insurance.com##body,html:style(overflow: auto !important; position: initial !important;)
