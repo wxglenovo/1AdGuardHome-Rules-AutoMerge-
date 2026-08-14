@@ -24473,6 +24473,7 @@ onassis.org##.bottom-0.relative
 |bcfc.com##.bottom-0.fixed
 |bellevue-hamburg.de##.bottom-0.fixed
 |bestsellers.hu##.bottom-0.fixed
+|betterhome.com##.bottom-0.fixed
 |betway.com.gh##.bottom-0.fixed
 |bigcommerce.com##.bottom-0.fixed
 |biggerthanallofus.com##.bottom-0.fixed
@@ -31049,7 +31050,8 @@ rig-flip.com##+js(set-local-storage-item, cookie_consent, declined)
 |hatchet.run##+js(set-local-storage-item, cookie_consent, no)
 |polar.sh##+js(set-local-storage-item, cookie_consent, no)
 |posthog.com##+js(set-local-storage-item, cookie_consent, no)
-openwebui.com##+js(set-local-storage-item, cookie_consent, rejected)
+|openwebui.com##+js(set-local-storage-item, cookie_consent, rejected)
+|startuphub.ai##+js(set-local-storage-item, cookie_consent, rejected)
 |energylevel.net##+js(set-local-storage-item, cookie_consent, true)
 |ketogo.app##+js(set-local-storage-item, cookie_consent, true)
 |schneideranwaelte.de##+js(set-local-storage-item, cookie_consent, true)
@@ -44647,6 +44649,7 @@ yoigo.com#@#thor-cookies
 ||hartmannreport.com/embed
 ||herokuapp.com/email$domain=peopleofcolorintech.com
 ||indiatimes.com/subscriptionhomepage.cms
+||inews.co.uk/wp-content/client-mu-plugins/piano/piano-loader.js
 ||insidesources.com/wp-content/themes/insidesources/js/jquery.fancybox.js
 ||irishstar.com/newsletter-preference-centre
 ||listrakbi.com^$script,domain=ruralking.com
@@ -48733,6 +48736,7 @@ mashable.com#?#.md\:p-10:has-text(newsletter)
 mensjournal.com#?#.m-detail--body > p:has-text(Sign up for the)
 meyka.com#?#div.p-6.border-gray-300:has-text(Meyka Newsletter)
 montanafreepress.org#?#.has-background.has-dark-gray-background-color:has-text(Sign up)
+motortrend.com#?#.py-8.w-full:has-text(Stay Ahead of the Curve)
 nashvillebanner.com#?#.has-light-gray-background-color:has-text(STAY INFORMED)
 neo4j.com#?#.sidebar-item-container:has-text(Email me)
 news.stanford.edu#?#.su-items-left:has-text(Subscribe)
