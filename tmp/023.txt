@@ -3051,6 +3051,7 @@ m.cricbuzz.com##.bottom-20
 hathitrust.org##.btn-arrow
 global.hisense.com##.btn-backtotop
 eldiariodechihuahua.mx##.btn-footer-up
+gv.com.sg##.btn-scroll
 worldjournal.com##.btn-top
 |bravotube.net##.btn-up
 |telesurtv.net##.btn-up
@@ -17787,8 +17788,10 @@ priceline.com.au##api-cookie-banner
 wallet.kukai.app##app-agreement
 orcid.org##app-banners
 |apps.db.ripe.net##app-cookie-consent
+|booking.autopartner.dk##app-cookie-consent
 |loyalfans.com##app-cookie-consent
 |navigraph.com##app-cookie-consent
+|shop.hazi-hinam.co.il##app-cookie-consent
 |ball.com##app-cookie-notice
 |wanakaapp.nz##app-cookie-notice
 material.angular.dev##app-cookie-popup
@@ -18150,6 +18153,7 @@ just-eat.ie##div[data-qa="jet-privacy-settings"]
 |kurz-mal-weg.de###cookieConsent
 |lowellgroup.co.uk###cookieConsent
 |lursoft.lv###cookieConsent
+|mailwave.dev###cookieConsent
 |mondaq.com###cookieConsent
 |monsterenergy.com###cookieConsent
 |my.eekgames.com###cookieConsent
@@ -19878,6 +19882,7 @@ stokrotka.pl###cboxWrapper
 |fimewc.com###cc-main
 |foxsports.com.mx###cc-main
 |futnext.com###cc-main
+|game-oracle.com###cc-main
 |gitschberg.it###cc-main
 |givesendgo.com###cc-main
 |gl-inet.com###cc-main
@@ -22114,6 +22119,7 @@ clarochile.cl##.cookieModal
 |yachtclubgames.com##.cookie
 |yalladisco.co.il##.cookie
 |yavitrina.ru##.cookie
+|yeshinvoice.co.il##.cookie
 |ytddownloader.com##.cookie
 |zahnarzt-dr-hoff.de##.cookie
 |zettains.ru##.cookie
@@ -24527,6 +24533,7 @@ onassis.org##.bottom-0.relative
 |bulldogjob.pl##.bottom-0.fixed
 |canal1.com.co##.bottom-0.fixed
 |canaries.co.uk##.bottom-0.fixed
+|carzone.co.il##.bottom-0.fixed
 |chipcitycookies.com##.bottom-0.fixed
 |clickz.com##.bottom-0.fixed
 |clipfarm.watch##.bottom-0.fixed
@@ -24839,6 +24846,7 @@ newsbreak.com##.py-2.px-2
 |spoke-store.sk##.cookies_2022_bg
 |spoke.cz##.cookies_2022_bg
 |docpose.com###cookieAlert
+|kamada.com###cookieAlert
 |seopolarity.com###cookieAlert
 |terabyteshop.com.br###cookieAlert
 |bitfactura.com##.jGrowl
@@ -39680,7 +39688,6 @@ e-conomic.dk##.region-page-bottom
 septima.dk##.septimacc
 akurat.dk##.wpc-overlay
 akurat.dk##.wpc-popup
-booking.autopartner.dk##app-cookie-consent
 1508.dk##div[class^="Cookies-module-"]
 kantoorartikelen-arnhem.com###BlurryBackground
 menziszorgkantoor.nl###Cookiewall
@@ -40143,7 +40150,8 @@ pezzi.co.il###pezzi-cookie-popup
 bargad.co.il###privacyPop
 |nabob-lock.co.il###privacy_alert
 |shukhashmal.co.il###privacy_alert
-dunietz-elad.co.il###privacy_policy_popup
+|dunietz-elad.co.il###privacy_policy_popup
+|invoice4u.co.il###privacy_policy_popup
 ivory.co.il###removeBannerCookie
 ipo.co.il###rg-privacy-wrap
 |an-cooling.com###sb_privacy_policy_notice
@@ -40152,6 +40160,7 @@ ipo.co.il###rg-privacy-wrap
 |dsfiga.co.il###sb_privacy_policy_notice
 |gantim.com###sb_privacy_policy_notice
 |matov.co.il###sb_privacy_policy_notice
+|matrefa.com###sb_privacy_policy_notice
 |peimot.com###sb_privacy_policy_notice
 |sound-world.co.il###sb_privacy_policy_notice
 |tiptop-tire.co.il###sb_privacy_policy_notice
@@ -40159,6 +40168,8 @@ ipo.co.il###rg-privacy-wrap
 |kmc-hotel.co.il###scb-banner
 |peledlocks.co.il###scb-banner
 |trucksmuseum.org.il###scb-banner
+willi-food.co.il###scm-banner
+willi-food.co.il###scm-custom
 bike.co.il###scn-banner-root
 |climma.co.il###sp-consent
 |derech-eretz.co.il###sp-consent
@@ -40265,6 +40276,7 @@ ksp.co.il##.rtl-1075xo6
 |arad-ac.co.il##.sbb-sticky-bar
 |tlvmall.com##.sbb-sticky-bar
 letlive.org.il##.site-consent-banner
+l-s.co.il##.sogo-pc-banner
 |cts.co.il##.upnext-cookie-notice
 |dnaateyelevel.com##.upnext-cookie-notice
 |humus-eli-yahoo.com##.upnext-cookie-notice

@@ -5322,8 +5322,10 @@ priceline.com.au##api-cookie-banner
 wallet.kukai.app##app-agreement
 orcid.org##app-banners
 |apps.db.ripe.net##app-cookie-consent
+|booking.autopartner.dk##app-cookie-consent
 |loyalfans.com##app-cookie-consent
 |navigraph.com##app-cookie-consent
+|shop.hazi-hinam.co.il##app-cookie-consent
 |ball.com##app-cookie-notice
 |wanakaapp.nz##app-cookie-notice
 material.angular.dev##app-cookie-popup
@@ -5685,6 +5687,7 @@ just-eat.ie##div[data-qa="jet-privacy-settings"]
 |kurz-mal-weg.de###cookieConsent
 |lowellgroup.co.uk###cookieConsent
 |lursoft.lv###cookieConsent
+|mailwave.dev###cookieConsent
 |mondaq.com###cookieConsent
 |monsterenergy.com###cookieConsent
 |my.eekgames.com###cookieConsent
@@ -9650,6 +9653,7 @@ clarochile.cl##.cookieModal
 |yachtclubgames.com##.cookie
 |yalladisco.co.il##.cookie
 |yavitrina.ru##.cookie
+|yeshinvoice.co.il##.cookie
 |ytddownloader.com##.cookie
 |zahnarzt-dr-hoff.de##.cookie
 |zettains.ru##.cookie
@@ -16273,7 +16277,6 @@ e-conomic.dk##.region-page-bottom
 septima.dk##.septimacc
 akurat.dk##.wpc-overlay
 akurat.dk##.wpc-popup
-booking.autopartner.dk##app-cookie-consent
 1508.dk##div[class^="Cookies-module-"]
 kantoorartikelen-arnhem.com###BlurryBackground
 menziszorgkantoor.nl###Cookiewall
@@ -16736,7 +16739,8 @@ pezzi.co.il###pezzi-cookie-popup
 bargad.co.il###privacyPop
 |nabob-lock.co.il###privacy_alert
 |shukhashmal.co.il###privacy_alert
-dunietz-elad.co.il###privacy_policy_popup
+|dunietz-elad.co.il###privacy_policy_popup
+|invoice4u.co.il###privacy_policy_popup
 ivory.co.il###removeBannerCookie
 ipo.co.il###rg-privacy-wrap
 |an-cooling.com###sb_privacy_policy_notice
@@ -16745,6 +16749,7 @@ ipo.co.il###rg-privacy-wrap
 |dsfiga.co.il###sb_privacy_policy_notice
 |gantim.com###sb_privacy_policy_notice
 |matov.co.il###sb_privacy_policy_notice
+|matrefa.com###sb_privacy_policy_notice
 |peimot.com###sb_privacy_policy_notice
 |sound-world.co.il###sb_privacy_policy_notice
 |tiptop-tire.co.il###sb_privacy_policy_notice
@@ -16752,6 +16757,8 @@ ipo.co.il###rg-privacy-wrap
 |kmc-hotel.co.il###scb-banner
 |peledlocks.co.il###scb-banner
 |trucksmuseum.org.il###scb-banner
+willi-food.co.il###scm-banner
+willi-food.co.il###scm-custom
 bike.co.il###scn-banner-root
 |climma.co.il###sp-consent
 |derech-eretz.co.il###sp-consent
