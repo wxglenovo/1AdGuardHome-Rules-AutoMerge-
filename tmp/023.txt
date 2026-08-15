@@ -17672,6 +17672,7 @@ santatracker.google.com##SANTA-NOTICE
 trustnet.com##USER-TYPE-POPUP
 dollarshaveclub.com##[aria-describedby="banner-description"]
 |askethos.com##[aria-describedby="cookie-consent-description"]
+|k2think.ai##[aria-describedby="cookie-consent-description"]
 |lemonade.com##[aria-describedby="cookie-consent-description"]
 ticketmaster.com##[aria-describedby="mobileMobileTOUMessage"]
 |kstp.com##[aria-label="Cookie Consent Banner"]
@@ -17848,6 +17849,7 @@ betmgm.co.uk##div:has(> div > div[bol-component="cookie-consent"])
 realityjunkies.com##div:has(> p > a[href$="/legal/privacy"])
 jingdaily.com##div[aria-label="Cookie consent banner"]
 |38-0.app##div[aria-label="Cookie consent"]
+|console.upstage.ai##div[aria-label="Cookie consent"]
 |kittyscan.com##div[aria-label="Cookie consent"]
 |streamelements.com##div[aria-label="Cookie consent"]
 webex.com##div[aria-label="Cookie information"]
