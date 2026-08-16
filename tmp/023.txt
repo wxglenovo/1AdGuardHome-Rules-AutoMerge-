@@ -13868,6 +13868,7 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 ||yelp.*/eu_cookie_notice?
 ||yimg.com^*/guce.js
 ||zed.dev/docs/theme/c15t@2.0.0-rc.3.js
+||ztat.net/pnl/consent-ui/latest/zalando/consent.js
 ||hc.bonprix.hu^
 ||hc.bonprix.ro^
 ||hc.bonprix.sk^
@@ -14231,6 +14232,7 @@ velosure.co.uk###cookie-bar-template
 |iplocation.io###cookie-box
 |ruedasgordas.es###cookie-box
 |sixthleafclover.com###cookie-box
+|url-decode.com###cookie-box
 loversstores.com###cookie-check
 yousign.com###cookie-consent-app
 store.azeron.eu###cookie-consent-background
@@ -15038,7 +15040,8 @@ ergonbike.com###tracking-modal
 stingray.com###tracking-popup
 privacy.org.nz###trackingmessage
 tracxn.com###tracxn-cookie-consent-banner-root
-visionworks.com###transcend-consent-manager
+|clay.com###transcend-consent-manager
+|visionworks.com###transcend-consent-manager
 undercurrentnews.com###ucn-gdpr-overlay
 uconn.edu###uconn-c-notice
 strikermanager.com###ue
@@ -16089,6 +16092,7 @@ cdp.net##.cookie_dismiss_container
 foreignpolicy.com##.cookie_message_displayed
 robertgatwardjewellers.co.uk##.cookie_pop_show
 play-asia.com##.cookie_popup-dialog
+lgdisplay.com##.cookie_pu_bg
 businesscardmanager.com##.cookie_setting_popup
 mourant.com##.cookie_warning_new
 if.openages.com##.cookie_wrap
@@ -17253,7 +17257,8 @@ caithnesslodges.scot##.prominent
 espn.com##.promo-banner-container
 loggly.com##.promotion
 newscientist.com##.prompt
-fonepaw.com##.prompt-box
+|fonepaw.com##.prompt-box
+|videobyte.org##.prompt-box
 hyundaicanada.com##.province-selector
 compuprint.com##.pryck
 purspot.com##.ps-cookie
@@ -18013,6 +18018,7 @@ ici.radio-canada.ca##div[data-testid="legalDisclaimer"]
 xero.com##div[data-xero-component="nav/cookie-notification"]
 |deepdivedubai.com##div[fs-consent-element]
 |thenode.gg##div[fs-consent-element]
+bbc.com##div[id="consent-banner"]
 |armbian.com##div[role="dialog"]
 |companyweb.be##div[role="dialog"]
 |fatalfans.com##div[role="dialog"]
@@ -18325,6 +18331,7 @@ wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotifi
 |postdicom.com##.cookie-popup
 |rsna.org##.cookie-popup
 |rzn.info##.cookie-popup
+|sana.com##.cookie-popup
 |superrichthailand.com##.cookie-popup
 |supersport.hr##.cookie-popup
 |taxsummaries.pwc.com##.cookie-popup
@@ -18346,6 +18353,7 @@ wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotifi
 |langendorf.de###cookieNotice
 |luxorcrystal.com###cookieNotice
 |operationworld.org###cookieNotice
+|rule34.gg###cookieNotice
 |theluxuryhut.com###cookieNotice
 |wsg-fussball.at###cookieNotice
 |aescripts.com###notice-cookie-block
@@ -23940,6 +23948,7 @@ prsformusic.com###cookie__modal
 |kley-zemer.co.il###cookie-consent-banner
 |kzpro.co.il###cookie-consent-banner
 |ladaat.co###cookie-consent-banner
+|lgdisplay.com###cookie-consent-banner
 |liveagent.com###cookie-consent-banner
 |matzman-merutz.co.il###cookie-consent-banner
 |meiami.co.il###cookie-consent-banner
@@ -40226,6 +40235,7 @@ s-medic.co.il###website_cookies_bar
 |lubit.co.il###www-cookies-consent-banner
 |talronbatt.co.il###www-cookies-consent-banner
 iroads.co.il##.CookiePolicyDisclaimer
+fattal.co.il##.CookiesApprovalPopup_container__T9DF_
 amot.co.il##.Cookies__StyledSnackbar-sc-1o4gw82-1
 intelligence.org.il##.GDPR_popup
 lastprice.co.il##.PCConsent
@@ -51911,6 +51921,9 @@ palestinechronicle.com###newsletter_subscribition_box
 palestinechronicle.com##.jquery-modal
 palestinechronicle.com##body,html:style(overflow: auto !important; position: initial !important;)
 cnn.co.jp##+js(set-cookie, CNN_MAIL_MAGAZIN, 1)
+ifixit.com##.z-dialog
+ifixit.com##.z-dialog-overlay
+ifixit.com##html,body:style(overflow: auto !important; position: initial !important;)
 ||bnamic.com/newsletter-subscription.js
 ||ibspot.com/klaviyo_form
 ||listrakbi.com/scripts/$script,domain=ninjakitchen.com

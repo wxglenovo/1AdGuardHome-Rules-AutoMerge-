@@ -1398,6 +1398,7 @@
 ||yelp.*/eu_cookie_notice?
 ||yimg.com^*/guce.js
 ||zed.dev/docs/theme/c15t@2.0.0-rc.3.js
+||ztat.net/pnl/consent-ui/latest/zalando/consent.js
 ||hc.bonprix.hu^
 ||hc.bonprix.ro^
 ||hc.bonprix.sk^
@@ -2568,7 +2569,8 @@ ergonbike.com###tracking-modal
 stingray.com###tracking-popup
 privacy.org.nz###trackingmessage
 tracxn.com###tracxn-cookie-consent-banner-root
-visionworks.com###transcend-consent-manager
+|clay.com###transcend-consent-manager
+|visionworks.com###transcend-consent-manager
 undercurrentnews.com###ucn-gdpr-overlay
 uconn.edu###uconn-c-notice
 strikermanager.com###ue
@@ -5543,6 +5545,7 @@ ici.radio-canada.ca##div[data-testid="legalDisclaimer"]
 xero.com##div[data-xero-component="nav/cookie-notification"]
 |deepdivedubai.com##div[fs-consent-element]
 |thenode.gg##div[fs-consent-element]
+bbc.com##div[id="consent-banner"]
 |armbian.com##div[role="dialog"]
 |companyweb.be##div[role="dialog"]
 |fatalfans.com##div[role="dialog"]
