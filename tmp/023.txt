@@ -2759,6 +2759,7 @@ fanfreegames.com###go_to_top
 |insidebitcoins.com###gotop
 |vgtimes.com###gotop
 gov.br###gototop_v2
+tabie.net###homeScrollTopBtn
 houzz.com###hzScrollTop
 gamespot.com###in-page-nav
 inews.co.uk###inews__back-to-top
@@ -2901,6 +2902,7 @@ israelnationalnews.com###tbl-next-up
 |powvideo.net###to-top
 |tageblatt.de###to-top
 thegamecrater.com###to-top-wrap
+|alsharqiya.com###toTop
 |amiventures.net###toTop
 |blog.westerndigital.com###toTop
 |confea.org.br###toTop
@@ -3252,6 +3254,7 @@ bluestacks.com##.scroll-top-section
 |manilatimes.net##.scroll-up
 |vogelbescherming.nl##.scroll-up
 bitcoinworld.co.in##.scroll-wrap
+|alekhbariya.net##.scrollTop
 |kathmandupost.com##.scrollTop
 |millenniumbim.co.mz##.scrollTop
 allnews.ge##.scrollUp
@@ -9779,6 +9782,7 @@ miruro.*##section[class^="_noticeSection_"]
 |ojornalextra.com.br##.social-media
 |recipes.net##.social-media
 |rtvstichtsevecht.nl##.social-media
+|sat.tv##.social-media
 |securityaffairs.com##.social-media
 |techopedia.com##.social-media
 |thegamer.com##.social-media
@@ -10855,7 +10859,9 @@ lematin.ch##button[class^="ActivityButton_"]
 pramgnet.com###Share
 algerie-radio.com###block-block-11
 elmogaz.com##.SocialNetworks
+almayadeen.net##.banner
 raya.com##.before_footer
+alaraby.com##.block-atv-google-news-button
 madamasr.com##.block_grid_share_icons_container
 al-aqsanews.com##.bs-social
 albayan.ae##.follow-google
@@ -10866,6 +10872,7 @@ fellahe.com##.mh_share_footer
 kharphonk.com##.pinit
 pramgnet.com##.sbnr
 maannews.net##.sc
+skynewsarabia.com##.sna-social
 nabd.com##.social
 midad.com##.social-actions
 studyshoot.com##.social-flex
@@ -16368,6 +16375,7 @@ componentsearchengine.com##.eu-message
 |niedersteinhof.it##.eu-popup
 |skinmc.net##.eu-popup
 prospan.com.au##.eu-privacy
+|bahrain.bh##.eupopup-container
 |cognizantee.tekstac.com##.eupopup-container
 |xbox-store-checker.com##.eupopup-container
 kromgaming.com##.eupouY
@@ -18421,6 +18429,7 @@ sogeti.*###popup-cookieConsent
 |gamsgo.com##.cookie-box
 |hostcay.com##.cookie-box
 |stheadline.com##.cookie-box
+|tenderboard.gov.bh##.cookie-box
 |upv.es##.cookie-box
 |wodify.com##.cookie-box
 |bratsk.ru###cookie-notification
@@ -18459,6 +18468,7 @@ sogeti.*###popup-cookieConsent
 |barkanmounts.com##.consent-banner-root
 |baytobreakers.com##.consent-banner-root
 |bettereatbetter.com##.consent-banner-root
+|bfe.tv##.consent-banner-root
 |biblicalnaturalhistory.org##.consent-banner-root
 |bodenlager24.de##.consent-banner-root
 |boudoirsecrets.at##.consent-banner-root
@@ -32981,6 +32991,7 @@ e-comas.com###ask-consent:remove()
 |4dimension.be##.modal
 |4dimension.fr##.modal
 |adlerapo.com##.modal
+|alekhbariya.net##.modal
 |alpha-apotheke-wuppertal.de##.modal
 |andrea-apotheke.de##.modal
 |apotheke-am-nikolaitor.de##.modal
@@ -33014,6 +33025,7 @@ e-comas.com###ask-consent:remove()
 |4dimension.be##.modal-backdrop
 |4dimension.fr##.modal-backdrop
 |adlerapo.com##.modal-backdrop
+|alekhbariya.net##.modal-backdrop
 |alpha-apotheke-wuppertal.de##.modal-backdrop
 |andrea-apotheke.de##.modal-backdrop
 |apotheke-am-nikolaitor.de##.modal-backdrop
@@ -33047,6 +33059,7 @@ e-comas.com###ask-consent:remove()
 |4dimension.be##body:style(position: static !important; overflow: auto !important; width: auto !important;)
 |4dimension.fr##body:style(position: static !important; overflow: auto !important; width: auto !important;)
 |adlerapo.com##body:style(position: static !important; overflow: auto !important; width: auto !important;)
+|alekhbariya.net##body:style(position: static !important; overflow: auto !important; width: auto !important;)
 |alpha-apotheke-wuppertal.de##body:style(position: static !important; overflow: auto !important; width: auto !important;)
 |andrea-apotheke.de##body:style(position: static !important; overflow: auto !important; width: auto !important;)
 |apotheke-am-nikolaitor.de##body:style(position: static !important; overflow: auto !important; width: auto !important;)
@@ -54047,7 +54060,8 @@ google.*##.ml-promotion-container
 |usbair.com##.mobile-app
 kariyer.net##.mobile-app-download
 fortnitetracker.com##.mobile-app-preview
-discogs.com##.mobile-apps
+|almayadeen.net##.mobile-apps
+|discogs.com##.mobile-apps
 millenniumhotels.com##.mobile-components-wrapper
 speedtest.net##.mobile-pretest
 speedtest.net##.mobile-pretest-2
@@ -54097,6 +54111,7 @@ shazam.com##.phones
 onlineradiobox.com##.playmarket
 pocketnet.app##.popup
 muragon.com##.popup-app
+alekhbariya.net##.popup_apps
 teller.jp##.pos_sticky.z_header.backface_hidden > div.lgDown\:d_flex.bg_surface_secondary.h_44px
 ufd.es##.pre-footer-wrap
 gbnews.com##.promo-app-container
@@ -54141,6 +54156,7 @@ amazon.com##.sparkle-container
 m.moovitapp.com##.splash-footer
 northernrailway.co.uk##.spotlight__cta-app
 radios.com.br##.store-badge
+alekhbariya.net##.store_logos
 ticketswap.com##.styles_container_U6otX
 www.google.com##.tCroyc
 m.tribunnews.com##.tapp-banner
