@@ -3280,6 +3280,13 @@ ea.com##ea-social-links
 icann.org##iti-share-icons
 newscenter.lbl.gov##lbl-icon-list
 discord.me##li.menu-link.d-xl-inline-block
+|gamesradar.com##p:has(> a[href^="https://news.google.com/publications/"])
+|guitarworld.com##p:has(> a[href^="https://news.google.com/publications/"])
+|pcgamer.com##p:has(> a[href^="https://news.google.com/publications/"])
+|techradar.com##p:has(> a[href^="https://news.google.com/publications/"])
+|tomsguide.com##p:has(> a[href^="https://news.google.com/publications/"])
+|tomshardware.com##p:has(> a[href^="https://news.google.com/publications/"])
+|windowscentral.com##p:has(> a[href^="https://news.google.com/publications/"])
 cyprus-mail.com##social-share-links
 galaxystore.samsung.com##span[class^="SnsPlugin_items_"]
 skeptoid.com##td > .nomobile

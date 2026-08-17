@@ -1715,6 +1715,7 @@ united24media.com##.gtm-article-small
 united24media.com##.gtm-bottom-popup-article
 consumerreports.org##.guardian-cta
 crealitycloud.com##.guide-register_comp
+top.gg##.h-\[250px\]
 theonion.com##.has-background.wp-block-group-is-layout-constrained
 prismreports.org##.has-dark-gray-background-color
 prismreports.org##.has-light-gray-background-color
@@ -7742,6 +7743,13 @@ ea.com##ea-social-links
 icann.org##iti-share-icons
 newscenter.lbl.gov##lbl-icon-list
 discord.me##li.menu-link.d-xl-inline-block
+|gamesradar.com##p:has(> a[href^="https://news.google.com/publications/"])
+|guitarworld.com##p:has(> a[href^="https://news.google.com/publications/"])
+|pcgamer.com##p:has(> a[href^="https://news.google.com/publications/"])
+|techradar.com##p:has(> a[href^="https://news.google.com/publications/"])
+|tomsguide.com##p:has(> a[href^="https://news.google.com/publications/"])
+|tomshardware.com##p:has(> a[href^="https://news.google.com/publications/"])
+|windowscentral.com##p:has(> a[href^="https://news.google.com/publications/"])
 cyprus-mail.com##social-share-links
 galaxystore.samsung.com##span[class^="SnsPlugin_items_"]
 skeptoid.com##td > .nomobile
@@ -14050,6 +14058,7 @@ airfleets.net###blur
 afootballreport.com###botnot
 helitecnics.com###botonfooter
 neilpatel.com###bottom-bar
+geo.ipify.org###bottom-cookie-message-block
 webhostingbuzz.com###bottom-left-modal
 babeland.com###bottomAlert
 litmind.com###bottom_notice
@@ -21486,6 +21495,7 @@ clarochile.cl##.cookieModal
 |parfumsclub.de##.cookies
 |patek.com##.cookies
 |paysale.com##.cookies
+|pearos.xyz##.cookies
 |peporn.com##.cookies
 |perfumesclub.co.uk##.cookies
 |perfumesclub.com##.cookies
@@ -21697,6 +21707,7 @@ clarochile.cl##.cookieModal
 |boele.nl##.cookie
 |boosteroid.com##.cookie
 |bosporshop.ru##.cookie
+|botabota.ca##.cookie
 |brands4africa.co.za##.cookie
 |brownmac.com##.cookie
 |bug.hr##.cookie
@@ -50287,6 +50298,7 @@ justgeek.fr##.cs-entry__subscribe
 doctissimo.fr##.doc-newsletter-banner-wrapper
 clubic.com##.eFAwfk.sc-a0d67cb1-0
 maville.com##.elmt-news
+lokan.fr##.exit-intent-popup
 lefigaro.fr##.fig-newsletter-box
 monaco-tribune.com##.follow-us
 vinyculture.dz##.g1-newsletter
@@ -50295,6 +50307,7 @@ pcastuces.com##.inscriptionmail
 toutelanutrition.com##.musthave-right
 lorientlejour.com##.newsletter-box-container
 toulouscope.fr##.newsletter-popin-overlay
+lokan.fr##.newsletter-shortcode-wrapper
 lematin.ma##.newsletterPopupBtn
 leguidedufromage.com##.newsletter_subscribeme
 closermag.fr##.newsletter_widget
