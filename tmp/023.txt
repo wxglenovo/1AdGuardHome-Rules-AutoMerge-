@@ -15105,6 +15105,7 @@ funnyordie.com###wpautoterms-bottom-fixed-container
 f1forgottendrivers.com###wpcg-box
 |acoup.blog###wpconsent-root
 |candidcyber.com###wpconsent-root
+|commonplacefacts.com###wpconsent-root
 |maxstock.co.il###wpconsent-root
 |sciencebasedmedicine.org###wpconsent-root
 wpx.net###wpx-cookie-agreement
@@ -17888,6 +17889,7 @@ jingdaily.com##div[aria-label="Cookie consent banner"]
 |console.upstage.ai##div[aria-label="Cookie consent"]
 |kittyscan.com##div[aria-label="Cookie consent"]
 |streamelements.com##div[aria-label="Cookie consent"]
+|therealmediang.com##div[aria-label="Cookie consent"]
 webex.com##div[aria-label="Cookie information"]
 utrechtart.com##div[aria-label="cookie consent banner"]
 |bicycling.com##div[aria-label^="Privacy Disclosure"]
@@ -24669,6 +24671,7 @@ onassis.org##.bottom-0.relative
 |fvd.nl##.bottom-0.fixed
 |garbanzo.io##.bottom-0.fixed
 |gauss.hr##.bottom-0.fixed
+|glasp.co##.bottom-0.fixed
 |glideapps.com##.bottom-0.fixed
 |goafricaonline.com##.bottom-0.fixed
 |goflink.com##.bottom-0.fixed
@@ -38254,6 +38257,12 @@ cencenelec.eu###body,html:style(overflow: auto !important; position: initial !im
 cencenelec.eu##.GDPR-Popup
 anjunadeep.co###body,html:style(overflow: auto !important; position: initial !important;)
 anjunadeep.co##.privacy-notice-gdpr-container
+|breitband-aurich.de###cookie
+|vej-bus.de###cookie
+|breitband-aurich.de##.cookie-background
+|vej-bus.de##.cookie-background
+|breitband-aurich.de##body:style(overflow: auto !important;)
+|vej-bus.de##body:style(overflow: auto !important;)
 ksp.co.il##+js(set, dataLayer, [])
 ksp.co.il##+js(set, gtag, noopFunc)
 gpiaaf.gov.pt##+js(set-cookie, WarningsAndPolicyAccepted, true)
@@ -47781,6 +47790,7 @@ thediscoveriesof.com##.right-footer
 axios.com##.right-rail-cta
 tweaktown.com##.right_subscribe
 reviewjournal.com##.rj-newsletter-signup
+therealmediang.com##.rm-newsletter-banner
 aol.com##.rmp-module__newsletter-signup
 religionnews.com##.rns-newsletter-embed-content
 religionnews.com##.rns-pop-up-wrapper
