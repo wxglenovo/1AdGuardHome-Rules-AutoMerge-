@@ -11575,9 +11575,14 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||kwikmotion.com^*/videojs-kwikstat.min.js
 ||metrics.find.gr^
 ||stats-real-clients.zentech.gr^
+||api.whtvr.ai/api/sdk/analytics/
 ||callindex.co.il/campaign/send_analytics.js
+||colbass.com/Service/Analytics.asmx/
+||dxmcdn.com/dta/content-targeting.js
+||radar.wizzo.media^
 ||selectika.com/selectika-pixel.min.js
 ||tag.weezmo.com^
+||vi-serve.com/tagLoader.js
 ||walla.co.il/stats/
 ||gpr.hu/pr.pr?
 ||heartbeat.pmd.444.hu^
@@ -51734,9 +51739,12 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||skroutz.gr/analytics/
 ||skroutza.skroutz.gr/skroutza.min.js
 ||vidads.gr/imp/
+||0404.co.il^$ping
+||bhol.co.il/system/js/analytics.js
 ||bravo.israelweather.co.il^
 ||cellstats.mako.co.il^
 ||ds.haaretz.co.il^
+||ext.bhol.co.il^$ping
 ||inn.co.il/Controls/HPJS.ashx?act=log
 ||services.haaretz.co.il^$ping
 ||stats.mako.co.il^
