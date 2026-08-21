@@ -5502,6 +5502,7 @@ planetizen.com##.addtoany_list
 |gwaramedia.com##.addtoany_shortcode
 |marqueesportsnetwork.com##.addtoany_shortcode
 audiofilemagazine.com##.af-socialIcons
+addendanalytics.com##.aft-social
 tmo.report##.aft-social-share
 amgreatness.com##.ag-social
 gatewayhispanic.com##.aiovg-social
@@ -5840,6 +5841,7 @@ gatewayhispanic.com##.chromenews_social_contacts_widget
 thecinemaholic.com##.cinemaholic-share
 khmertimeskh.com##.cisc-box
 chesskid.com##.ck-share-buttons
+barco.com##.cmp-social-follow
 businesstoday.in##.cmp_shr_btn
 edugeek.net##.cms_widget_content.widget_content > [align="center"]
 townflex.com##.code-block
@@ -6026,6 +6028,7 @@ testbook.com##.fl-social
 thejc.com##.flex.gap-16.lg\:gap-8.items-center
 health.clevelandclinic.org##.flex.gap-rem24px
 freedomnews.tv##.flex.items-center.space-x-3
+tomshardware.com##.flexisites-social
 dailymail.co.uk##.flipboard
 techradar.com##.flipboard-icon
 thehackernews.com##.float-share
@@ -6530,6 +6533,7 @@ manofmany.com##.mom-entry-meta-buttons
 pbs.org##.more-from-pbs__social
 maxpreps.com##.mp-share-widget
 yardbarker.com##.msnfc
+isdown.app##.mt-6.flex.items-center.gap-5
 |fordauthority.com##.mtxh-share-buttons
 |motrolix.com##.mtxh-share-buttons
 theworld.org##.mui-style-dfyfg6-socialShareMenu
@@ -6541,6 +6545,7 @@ zerolives.com##.naf-article-social-block
 audacy.com##.national-footer__social
 punchdrink.com##.nav-main__share
 adexchanger.com##.nav-sharebox
+slashdot.org##.nav-social
 denofgeek.com##.nav-social__items
 outlookindia.com##.nav-socials
 hnn.us##.nav__socialz
@@ -7748,6 +7753,7 @@ ea.com##ea-social-links
 icann.org##iti-share-icons
 newscenter.lbl.gov##lbl-icon-list
 discord.me##li.menu-link.d-xl-inline-block
+githubstatus.com##nav[aria-label="GitHub's Social Media Links"]
 |gamesradar.com##p:has(> a[href^="https://news.google.com/publications/"])
 |guitarworld.com##p:has(> a[href^="https://news.google.com/publications/"])
 |pcgamer.com##p:has(> a[href^="https://news.google.com/publications/"])
@@ -7771,6 +7777,7 @@ foxnews.com##.article-meta-lower:has(.article-social)
 pubs.rsc.org##.fixpadb--xl.c--gap-xs.c:has(.btn--social)
 arrow.apache.org##.nav-item:has(> [href="https://bsky.app/profile/arrow.apache.org"])
 arrow.apache.org##.nav-item:has(> [href="https://www.linkedin.com/company/apache-arrow/"])
+microsoft.com##.section-master:has(.socialfollow)
 ms.now##.wp-block-group p:has(Share this)
 rule34.xxx##li:has(> [href="https://x.com/slayerduckie"])
 diamondv.jp##main[id] > div.MuiBox-root:has(> ul > li > button.react-share__ShareButton)
@@ -8571,6 +8578,7 @@ miruro.*##section[class^="_noticeSection_"]
 |skynews.com.au##.social
 |slurpee.com.au##.social
 |smithsonianmag.com##.social
+|snagajob.com##.social
 |soccerway.com##.social
 |sofarsogood.fr##.social
 |softexia.com##.social
@@ -10349,6 +10357,7 @@ hindustantimes.com##.ln
 |money.bg##.social-links
 |montanastatenews.com##.social-links
 |mooseradio.com##.social-links
+|mothership.blog##.social-links
 |moviemaker.com##.social-links
 |my1053wjlt.com##.social-links
 |myb106.com##.social-links
@@ -15509,6 +15518,7 @@ alivecolors.com##.awarning
 amundi.com##.awf-eu-cookie-compliance
 airwallex.com##.awx-privcbanner-root
 welcometothejungle.com##.axeptio_mount
+graff.com##.b-consent-tracking
 hush-uk.com##.b-header-message
 |makingyourmoneysimple.com##.b-modal
 |rimowa.com##.b-modal
@@ -45691,6 +45701,7 @@ thefabricator.com###subscribe-pop-wrapper
 |crisisgroup.org###subscribe-popup
 |every.to###subscribe-popup
 californiawaterblog.com###subscribe-submit
+githubstatus.com###subscribe-to-newsletter
 intomore.com###subscribe-wide-side
 fivebooks.com###subscribeButton
 gamcore.com###subscribeForm
@@ -46307,6 +46318,7 @@ the-express.com##.breakout
 |liber-net.org##.brx-popup
 bigthink.com##.bt-block__inner
 patch.com##.btn--follow
+githubstatus.com##.btn[href="https://resources.github.com/newsletter/"]
 venturebanc.com##.btn_footer_get_listed
 whowhatwhy.org##.button-floating
 legalfutures.co.uk##.button-wrap-large
@@ -46725,6 +46737,7 @@ goldderby.com##.expert-newslater
 freethink.com##.f-block--form-text
 factinate.com##.f-ssw
 factinate.com##.f-ssw-subscribe-hook
+githubstatus.com##.f5.color-fg-muted.mb-3
 metro.co.uk##.factbox
 edition.cnn.com##.factbox_inline-small
 |jerseyvindicator.org##.fb-inst
@@ -48989,6 +49002,7 @@ medium.com##.am.j:has(> .e.bv)
 spin.com##.border-backgrounds.flex.flex-wrap.border-t:has(form-container)
 ign.com##.box-wrapper:has(> .promo-card)
 realpython.com##.card:has([action="/optins/process/"])
+404media.co##.col-xs-12.col-md-3:has(> .subscribe-form)
 reactormag.com##.desktop\:mb-\[27px\]:has(> hubspot-newsletter)
 ubuntu.com##.grid-col:has(> [data-ga-submit-category="Newsletter"])
 eposaudio.com##.grid__item:has(> .newsletter-sign-up)
