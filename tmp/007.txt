@@ -1563,6 +1563,7 @@ testbook.com##.fl-social
 thejc.com##.flex.gap-16.lg\:gap-8.items-center
 health.clevelandclinic.org##.flex.gap-rem24px
 freedomnews.tv##.flex.items-center.space-x-3
+tomshardware.com##.flexisites-social
 dailymail.co.uk##.flipboard
 techradar.com##.flipboard-icon
 thehackernews.com##.float-share
@@ -3287,6 +3288,7 @@ ea.com##ea-social-links
 icann.org##iti-share-icons
 newscenter.lbl.gov##lbl-icon-list
 discord.me##li.menu-link.d-xl-inline-block
+githubstatus.com##nav[aria-label="GitHub's Social Media Links"]
 |gamesradar.com##p:has(> a[href^="https://news.google.com/publications/"])
 |guitarworld.com##p:has(> a[href^="https://news.google.com/publications/"])
 |pcgamer.com##p:has(> a[href^="https://news.google.com/publications/"])
