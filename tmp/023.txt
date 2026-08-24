@@ -18406,6 +18406,7 @@ wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotifi
 |championat.ru##.cookie-popup
 |cigars-shops.ru##.cookie-popup
 |datewithromance.com##.cookie-popup
+|emblemsbf.com##.cookie-popup
 |escaperoom.co.il##.cookie-popup
 |evraz.com##.cookie-popup
 |ewines.co.il##.cookie-popup
@@ -29339,6 +29340,7 @@ aa.com##+js(set-cookie, cookie_banner, closed)
 pangleglobal.com##+js(set-cookie, cookie_banner_preference, reject)
 bookings.hermesairports.com##+js(set-cookie, cookie_choice_made, decline)
 mifcom.*##+js(set-cookie, cookie_closed, 1)
+vacanceo.com##+js(set-cookie, cookie_consent, 0)
 |ayudatpymes.com##+js(set-cookie, cookie_consent, 1)
 |rg.ru##+js(set-cookie, cookie_consent, 1)
 |shoutcast.com##+js(set-cookie, cookie_consent, 1)
@@ -47842,6 +47844,7 @@ thefrisc.com##.newspack-pattern
 recipetips.com##.newsshort
 hakaimagazine.com##.newssignup
 maketecheasier.com##.newsub-box
+pureinfotech.com##.newswrapper-wrapper
 thinkhuman.com##.nh-strip
 |9to5google.com##.ninetofive-newsletter-subscribe__form
 |9to5mac.com##.ninetofive-newsletter-subscribe__form
@@ -50580,6 +50583,7 @@ fourchette-et-bikini.fr###newsletter-container + #legal-terms
 comment-economiser.fr###newsletter_box
 pcastuces.com###newsletter_descri
 pcastuces.com###newsletter_titre
+planet.fr###nl_register_modal
 citoyens.com###nlsubscribe
 croq-kilos.com###popinCK
 sanctuary.fr###popup_actu
