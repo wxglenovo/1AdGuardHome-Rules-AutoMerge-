@@ -1353,6 +1353,7 @@
 ||policies.igg.com/global/cookie_tips?
 ||prada.com/utag/prada/
 ||privacy.claytonhomes.com^
+||privacy.fcbcookies.cat^
 ||privacypolicy.trgr.be^
 ||propcom.co.uk/cookie/
 ||purevpn.com/loadGdprView
@@ -5865,6 +5866,7 @@ wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotifi
 |championat.ru##.cookie-popup
 |cigars-shops.ru##.cookie-popup
 |datewithromance.com##.cookie-popup
+|emblemsbf.com##.cookie-popup
 |escaperoom.co.il##.cookie-popup
 |evraz.com##.cookie-popup
 |ewines.co.il##.cookie-popup
@@ -6345,6 +6347,7 @@ sogeti.*###popup-cookieConsent
 |goldaglida.co.il##.cookie-consent-banner
 |morfix.co.il##.cookie-consent-banner
 |puffy.com##.cookie-consent-banner
+|ravmilim.com##.cookie-consent-banner
 |splice-cad.com##.cookie-consent-banner
 |tnawrestling.com##.cookie-consent-banner
 |vc.ru##.cookie-consent-banner
@@ -10045,6 +10048,7 @@ decovarrubias.es###sliding-popup-cookies
 |bg-radio.org##.cookie-consent
 |bioespecie.com##.cookie-consent
 |bitstamp.net##.cookie-consent
+|carmella.co.il##.cookie-consent
 |cebus-rimon.co.il##.cookie-consent
 |cecotec.es##.cookie-consent
 |ceskaradiaonline.cz##.cookie-consent
@@ -17154,9 +17158,11 @@ hillula.co.il##[class^="ai-cookie-popup-"]
 alljobs.co.il##[id^="ZA_CAMP_BUBBLE_CONTAINER_CID_"]
 lastminute.co.il##app-notifications-container
 iec.co.il##app-sticky-banner
+morfix.co.il##div[aria-label="××¡××× ××©××××© ××¢×××××ª"]
 azrielimalls.co.il##div[class$="_cookies-banner"]
 hagarin.co.il##div[class^="CookieConsentBar_"]
 assuta.co.il##div[class^="CookieConsent_"]
+tami4.co.il##div[class^="CookiesAgreement_"]
 |business.colmobil.co.il##div[class^="StyledPopupPrivacyCookies-"]
 |hyundaimotors.co.il##div[class^="StyledPopupPrivacyCookies-"]
 dutyfree.co.il##div[class^="cookieRestriction-module__root-"]
