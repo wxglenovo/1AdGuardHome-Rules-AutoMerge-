@@ -1172,6 +1172,7 @@ portableapps.com##[alt="RSS"]
 |xhaccess.com##[class*="cam-wgt"]
 |xhamster.com##[class*="cam-wgt"]
 |xhamster.desi##[class*="cam-wgt"]
+docs.google.com##div[aria-label*="Get more from Google Workspace"]
 mail.google.com##div[data-is-inner-content-recommendation]
 |twitter.com##div[data-testid="profileAnalyticsUpsell"]
 |x.com##div[data-testid="profileAnalyticsUpsell"]
@@ -3605,11 +3606,13 @@ pramgnet.com###PoPAI
 sigma-4pc.com###check-also-box
 mawdoo3.com###move-down
 alkawthartv.ir###scroll
+stardima.com##.floating-container
 iwaatch.com##.s-up
 youm7.com##.topTop
 news.mydrivers.com###a_showhotnews_list_dia
 blog.csdn.net###asideWriteGuide
 music.163.com###g_backtop
+mydrivers.com###gotop
 699pic.com###landlord
 map.baidu.com###message-panel
 ifeng.com###qrCode
@@ -5349,8 +5352,14 @@ oneindia.com###youtube_promo
 always-on.com.au###zeen_retina_image-3
 saturdayeveningpost.com##.-newsletter_social
 tennis.com##.-sharebar
+|askubuntu.com##.-social
+|mathoverflow.net##.-social
 |nhl.com##.-social
 |petri.com##.-social
+|serverfault.com##.-social
+|stackexchange.com##.-social
+|stackoverflow.com##.-social
+|superuser.com##.-social
 |ynet.co.il##.AccordionShareWrapper
 |ynetnews.com##.AccordionShareWrapper
 |abebooks.com##.ActionBar
@@ -5660,6 +5669,7 @@ news18.com##.article_socials
 news18.com##.artshare
 insider-gaming.com##.aspect-1660-250
 insider-gaming.com##.aspect-400-600
+windowsloop.com##.ast-post-social-sharing
 telegraphindia.com##.astkysharebox
 batman-news.com##.astra-widget-social-profiles
 attitude.co.uk##.at-article__social
@@ -5723,6 +5733,12 @@ betanews.com##.bn-share__inner
 breitbart.com##.bnn-social-share
 bom.gov.au##.bom-social-share
 crn.com##.border-all-mid-gray-rounded
+|askubuntu.com##.bottom-share-links
+|mathoverflow.net##.bottom-share-links
+|serverfault.com##.bottom-share-links
+|stackexchange.com##.bottom-share-links
+|stackoverflow.com##.bottom-share-links
+|superuser.com##.bottom-share-links
 ofbez.com##.box-fixed-subscription
 cardiff.ac.uk##.box-services
 bangkokpost.com##.boxnav--social
@@ -5903,6 +5919,7 @@ euromaidanpress.com##.cs-meta-google-news
 bloomberg.com##.css--social-wrapper-outer
 chatelaine.com##.css-1nfrk0o-ShareButtons
 chatelaine.com##.css-1uko8nb-ShareButtons
+michaels.com##.css-g4g5si
 onedayonly.co.za##.css-p1ns9f
 fashionmagazine.com##.css-zh7gar-ShareButtons
 coincodecap.com##.ct-block-wrapper
@@ -6502,6 +6519,7 @@ breakingnews.ie##.mb-1.pt-4
 inquisitr.com##.mb10
 morningstar.com##.mdc-social-share
 themedialine.org##.mdl-share-tool-vertical
+ubackup.com##.media
 wellington.govt.nz##.media--mobile-hide
 amazon.jobs##.media-icons
 geotastic.net##.media-links-area
@@ -6524,6 +6542,7 @@ sportsnet.ca##.micro_social-icons__E_pIu
 news18.com##.midgprfd
 washingtonian.com##.min-height-800
 military.com##.mlt-social-sharing-article-header
+lifewire.com##.mm-nav-footer__social
 autonocion.com##.mn-share
 travelandleisure.com##.mntl-footer__social
 thehackernews.com##.mobile-share
@@ -7144,6 +7163,7 @@ mg.co.za##.social-meks
 |aciprensa.com##.social-menu
 |acistampa.com##.social-menu
 |blackamericaweb.com##.social-menu
+|browserstack.com##.social-menu
 |cassiuslife.com##.social-menu
 |catholicnewsagency.com##.social-menu
 |gosunoob.com##.social-menu
@@ -7793,6 +7813,7 @@ abc.net.au#?#.Button_root__UZ8td:has-text(Share)
 appleinsider.com#?#.col-xs-12 > div:has-text(Follow AppleInsider)
 archaeologymag.com#?#.widget_custom_html:has-text(Follow us)
 bitcoinsensus.com#?#.elementor-heading-title:has-text(SHARE)
+browserstack.com#?#.custom-footer-wrapper__heading:has-text(Social)
 |carexpert.co.nz#?#._1ivmml5u3:has-text(Add Preferred Source)
 |carexpert.com.au#?#._1ivmml5u3:has-text(Add Preferred Source)
 carnewschina.com#?#.article_detail__top_stories:has-text(Follow us for ev updates)
@@ -8523,6 +8544,7 @@ miruro.*##section[class^="_noticeSection_"]
 |portalinsights.com.br##.social
 |ppc.land##.social
 |primainfanzia.it##.social
+|products.aspose.app##.social
 |professionearchitetto.it##.social
 |proiezionidiborsa.it##.social
 |protonvpn.com##.social
@@ -9044,6 +9066,7 @@ miruro.*##section[class^="_noticeSection_"]
 |tuttobolognaweb.it##.share
 |tuttoeuropei.com##.share
 |u.today##.share
+|ubackup.com##.share
 |ukrinform.de##.share
 |ukrinform.es##.share
 |ukrinform.fr##.share
@@ -10941,9 +10964,11 @@ ettoday.net###et_sticky_pc
 exmoo.com###fixed-facebook
 exmoo.com###fixed-wechat
 exmoo.com###footer-wechat-container
+mydrivers.com###new_share_a
 lizhi.fm##.attentionUs
 ettoday.net##.et_social_2
 rti.org.tw##.fbIcon
+mydrivers.com##.fenxiang
 news.cn##.pageShare
 people.com.cn##.section-common-share-wrap
 mingpao.com##.ssm
@@ -14144,6 +14169,7 @@ avosound.com###cc_b
 warwickstudentpad.co.uk###cc_cookie_banner
 skargards.com###cc_dialog
 europa.eu###cck_here
+jeffdaviesandson.com###ccm-box
 hytale.game###ccm-ui
 |ammergauer-zeitgeist.de###ccmodal-container
 |sportarena.it###ccmodal-container
@@ -15118,6 +15144,7 @@ rehva.eu###wb-cookie-policy
 wealthfront.com###wcm-container
 waterdropfilter.com###wd-cookie-consent-popup
 |artemes.org###website_cookies_bar
+|asviva.de###website_cookies_bar
 |datenpol.at###website_cookies_bar
 |ees-corporation.com###website_cookies_bar
 |evo-spirit.com###website_cookies_bar
@@ -15497,6 +15524,7 @@ globalhome.solarmanpv.com##.ant-modal-root
 |findmcserver.com##.ant-notification
 |newtextdocument.com##.ant-notification
 cryptoquant.com##.ant-row-center
+brandirectory.com##.app-cookie-banner--banner
 similarweb.com##.app-cookies-notification
 leo.org##.app-footer-content
 2captcha.com##.app-level-notifications
@@ -16421,6 +16449,7 @@ componentsearchengine.com##.eu-message
 |niedersteinhof.it##.eu-popup
 |skinmc.net##.eu-popup
 prospan.com.au##.eu-privacy
+worldcoinindex.com##.eupopup
 |bahrain.bh##.eupopup-container
 |cognizantee.tekstac.com##.eupopup-container
 |xbox-store-checker.com##.eupopup-container
@@ -17410,6 +17439,7 @@ safetyculture.com##.sc-cookie-pop
 scorpion.co##.sc-cookie-popup
 travelforall.my##.sc-eUXrtT
 amplerbikes.com##.sc-edLOhm
+kaspersky.com##.sc-fFeiMQ
 privfile.com##.sc-noti-banner
 travelrepublic.ie##.sc-u-padding-y-m
 tartybikes.co.uk##.screen
@@ -17886,6 +17916,7 @@ essential.gg##banner-content
 facebook.com##body:not([style^="margin-bottom"]) div[data-testid="cookie-policy-banner"]
 community.nexthink.com##c-community-cookie-consent-banner
 success.trendmicro.com##c-dcx-cookie
+order.maxburgers.com##consent-banner.ng-scope
 qualified.io##consent-cookie-popup
 23degrees.io##consent-toast
 |axis.com##cookie-consent
@@ -18073,8 +18104,10 @@ developers.eyeo.com##div[data-testid="cookies-dialog"]
 deepl.com##div[data-testid="dl-cookieBanner"]
 ici.radio-canada.ca##div[data-testid="legalDisclaimer"]
 xero.com##div[data-xero-component="nav/cookie-notification"]
+|chani.com##div[fs-consent-element]
 |deepdivedubai.com##div[fs-consent-element]
 |thenode.gg##div[fs-consent-element]
+|visitarizona.com##div[fs-consent-element]
 bbc.com##div[id="consent-banner"]
 |armbian.com##div[role="dialog"]
 |companyweb.be##div[role="dialog"]
@@ -18752,6 +18785,7 @@ sogeti.*###popup-cookieConsent
 |groomershop.pl##.amgdprjs-bar-template
 |ironmaxx.de##.amgdprjs-bar-template
 |johnsonsjewellers.co.uk##.amgdprjs-bar-template
+|kazar.com##.amgdprjs-bar-template
 |landyschemist.com##.amgdprjs-bar-template
 |mikimoto.com##.amgdprjs-bar-template
 |nkon.nl##.amgdprjs-bar-template
@@ -18852,6 +18886,7 @@ sogeti.*###popup-cookieConsent
 |goldaglida.co.il##.cookie-consent-banner
 |morfix.co.il##.cookie-consent-banner
 |puffy.com##.cookie-consent-banner
+|ravmilim.com##.cookie-consent-banner
 |splice-cad.com##.cookie-consent-banner
 |tnawrestling.com##.cookie-consent-banner
 |vc.ru##.cookie-consent-banner
@@ -20496,6 +20531,7 @@ tomtom.com##.cookie_bar
 |heictojpg.com###cookie-consent
 |hextom.com###cookie-consent
 |hibiny.ru###cookie-consent
+|hirschpromo.com###cookie-consent
 |hofdahollin.is###cookie-consent
 |hotel-avidea.com###cookie-consent
 |ispot.tv###cookie-consent
@@ -20924,6 +20960,7 @@ dryg.pl##div[class^="CookiesNoti"]
 |ecosia.org##.cookie-notice
 |estately.com##.cookie-notice
 |freevpnplanet.com##.cookie-notice
+|getbring.com##.cookie-notice
 |greenhouseseeds.nl##.cookie-notice
 |greenpeace.org##.cookie-notice
 |gvtc.com##.cookie-notice
@@ -22550,6 +22587,7 @@ decovarrubias.es###sliding-popup-cookies
 |bg-radio.org##.cookie-consent
 |bioespecie.com##.cookie-consent
 |bitstamp.net##.cookie-consent
+|carmella.co.il##.cookie-consent
 |cebus-rimon.co.il##.cookie-consent
 |cecotec.es##.cookie-consent
 |ceskaradiaonline.cz##.cookie-consent
@@ -22617,6 +22655,7 @@ decovarrubias.es###sliding-popup-cookies
 |latvijasradio.com##.cookie-consent
 |lehamim.co.il##.cookie-consent
 |letsgomartin.com##.cookie-consent
+|lggjewelry.com##.cookie-consent
 |lineup11.net##.cookie-consent
 |liver.main.jp##.cookie-consent
 |lmdiario.com.ar##.cookie-consent
@@ -24245,6 +24284,7 @@ naylorsfinance.com###gdproverlay
 |cvhelp.co.uk##.gdpr-container
 |hhmi.org##.gdpr-container
 |mercola.com##.gdpr-container
+|mercolahealthcoach.com##.gdpr-container
 |smugmug.com##.gdpr-container
 |snapon.com##.gdpr-container
 |truck1.eu##.gdpr-container
@@ -25403,6 +25443,7 @@ foxandbriar.com##.cp-popup-container
 |uowdubai.ac.ae##.cookie-modal
 |visitestonia.com##.cookie-modal
 |vitens.nl##.cookie-modal
+|werkenbijradboudumc.nl##.cookie-modal
 |werkenbijvopak.nl##.cookie-modal
 |zeleneudoli.cz##.cookie-modal
 cybersmart.co.za##.cookie-modal-overlay
@@ -40615,9 +40656,11 @@ hillula.co.il##[class^="ai-cookie-popup-"]
 alljobs.co.il##[id^="ZA_CAMP_BUBBLE_CONTAINER_CID_"]
 lastminute.co.il##app-notifications-container
 iec.co.il##app-sticky-banner
+morfix.co.il##div[aria-label="××¡××× ××©××××© ××¢×××××ª"]
 azrielimalls.co.il##div[class$="_cookies-banner"]
 hagarin.co.il##div[class^="CookieConsentBar_"]
 assuta.co.il##div[class^="CookieConsent_"]
+tami4.co.il##div[class^="CookiesAgreement_"]
 |business.colmobil.co.il##div[class^="StyledPopupPrivacyCookies-"]
 |hyundaimotors.co.il##div[class^="StyledPopupPrivacyCookies-"]
 dutyfree.co.il##div[class^="cookieRestriction-module__root-"]
@@ -49064,6 +49107,7 @@ advancedsciencenews.com#?#.et_pb_row_1_tb_body:has-text(Sign up for our weekly n
 advancedsciencenews.com#?#.et_pb_section:has-text(Sign up for our weekly newsletter)
 advocate.com#?#blockquote:has-text(Sign up for)
 aerospaceglobalnews.com#?#.btn-ocean:has-text(Newsletter Sign Up)
+aldoshoes.com#?#.block__heading:has-text(Sign up for our newsletter)
 suppose.tv#?##alertTab:has-text(Enter your email address)
 amgreatness.com#?#.border-gray-200:has-text(Get the news)
 amgreatness.com#?#.border-secondary-900:has-text(Get the news)
