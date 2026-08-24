@@ -879,8 +879,14 @@ oneindia.com###youtube_promo
 always-on.com.au###zeen_retina_image-3
 saturdayeveningpost.com##.-newsletter_social
 tennis.com##.-sharebar
+|askubuntu.com##.-social
+|mathoverflow.net##.-social
 |nhl.com##.-social
 |petri.com##.-social
+|serverfault.com##.-social
+|stackexchange.com##.-social
+|stackoverflow.com##.-social
+|superuser.com##.-social
 |ynet.co.il##.AccordionShareWrapper
 |ynetnews.com##.AccordionShareWrapper
 |abebooks.com##.ActionBar
@@ -1190,6 +1196,7 @@ news18.com##.article_socials
 news18.com##.artshare
 insider-gaming.com##.aspect-1660-250
 insider-gaming.com##.aspect-400-600
+windowsloop.com##.ast-post-social-sharing
 telegraphindia.com##.astkysharebox
 batman-news.com##.astra-widget-social-profiles
 attitude.co.uk##.at-article__social
@@ -1253,6 +1260,12 @@ betanews.com##.bn-share__inner
 breitbart.com##.bnn-social-share
 bom.gov.au##.bom-social-share
 crn.com##.border-all-mid-gray-rounded
+|askubuntu.com##.bottom-share-links
+|mathoverflow.net##.bottom-share-links
+|serverfault.com##.bottom-share-links
+|stackexchange.com##.bottom-share-links
+|stackoverflow.com##.bottom-share-links
+|superuser.com##.bottom-share-links
 ofbez.com##.box-fixed-subscription
 cardiff.ac.uk##.box-services
 bangkokpost.com##.boxnav--social
@@ -1433,6 +1446,7 @@ euromaidanpress.com##.cs-meta-google-news
 bloomberg.com##.css--social-wrapper-outer
 chatelaine.com##.css-1nfrk0o-ShareButtons
 chatelaine.com##.css-1uko8nb-ShareButtons
+michaels.com##.css-g4g5si
 onedayonly.co.za##.css-p1ns9f
 fashionmagazine.com##.css-zh7gar-ShareButtons
 coincodecap.com##.ct-block-wrapper
@@ -2054,6 +2068,7 @@ sportsnet.ca##.micro_social-icons__E_pIu
 news18.com##.midgprfd
 washingtonian.com##.min-height-800
 military.com##.mlt-social-sharing-article-header
+lifewire.com##.mm-nav-footer__social
 autonocion.com##.mn-share
 travelandleisure.com##.mntl-footer__social
 thehackernews.com##.mobile-share
@@ -2674,6 +2689,7 @@ mg.co.za##.social-meks
 |aciprensa.com##.social-menu
 |acistampa.com##.social-menu
 |blackamericaweb.com##.social-menu
+|browserstack.com##.social-menu
 |cassiuslife.com##.social-menu
 |catholicnewsagency.com##.social-menu
 |gosunoob.com##.social-menu
@@ -3323,6 +3339,7 @@ abc.net.au#?#.Button_root__UZ8td:has-text(Share)
 appleinsider.com#?#.col-xs-12 > div:has-text(Follow AppleInsider)
 archaeologymag.com#?#.widget_custom_html:has-text(Follow us)
 bitcoinsensus.com#?#.elementor-heading-title:has-text(SHARE)
+browserstack.com#?#.custom-footer-wrapper__heading:has-text(Social)
 |carexpert.co.nz#?#._1ivmml5u3:has-text(Add Preferred Source)
 |carexpert.com.au#?#._1ivmml5u3:has-text(Add Preferred Source)
 carnewschina.com#?#.article_detail__top_stories:has-text(Follow us for ev updates)
@@ -4053,6 +4070,7 @@ miruro.*##section[class^="_noticeSection_"]
 |portalinsights.com.br##.social
 |ppc.land##.social
 |primainfanzia.it##.social
+|products.aspose.app##.social
 |professionearchitetto.it##.social
 |proiezionidiborsa.it##.social
 |protonvpn.com##.social
@@ -6443,9 +6461,11 @@ ettoday.net###et_sticky_pc
 exmoo.com###fixed-facebook
 exmoo.com###fixed-wechat
 exmoo.com###footer-wechat-container
+mydrivers.com###new_share_a
 lizhi.fm##.attentionUs
 ettoday.net##.et_social_2
 rti.org.tw##.fbIcon
+mydrivers.com##.fenxiang
 news.cn##.pageShare
 people.com.cn##.section-common-share-wrap
 mingpao.com##.ssm
