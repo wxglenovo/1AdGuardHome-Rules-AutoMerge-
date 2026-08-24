@@ -2849,6 +2849,7 @@
 /ws-tracking.js
 /wstat.pl
 /wstats.php?
+/wt-connect-pixel/carts/init?
 /wt_capi.js
 /wtbase.js
 /wtd.gif?
@@ -5873,6 +5874,7 @@ omni.soundestlink.com$image
 ||shoplytics.com^$third-party
 ||shoptimally.com^$third-party
 ||showheroes.com^$third-party
+||shrinetheme.com^$third-party
 ||sift.com^$third-party
 ||siftscience.com^$third-party
 ||signalfx.com^$third-party
