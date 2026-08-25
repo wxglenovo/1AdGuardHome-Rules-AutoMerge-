@@ -6061,6 +6061,7 @@ nypost.com##.floating-share
 nypost.com##.floating-share-wrap
 upworthy.com##.floating-social-share-column
 news18.com##.flw
+flagright.com##.fm-social-logo-menu
 chalkbeat.org##.follow
 sportskeeda.com##.follow-action
 thedirect.com##.follow-bar
@@ -6416,6 +6417,7 @@ joe.co.uk##.icon-share
 manutd.com##.icon-share-card-lite
 thedebrief.org##.icon-wrap
 photofunia.com##.icons
+fincen.gov##.icons-footer
 financialexpress.com##.ie-google-news
 indianexpress.com##.ie-ie-share
 insidehighered.com##.ihe-social-links
@@ -7703,6 +7705,7 @@ stuff.co.nz##[data-testid="body-cta"]
 pcgamer.com##[data-testid="buttons-social"]
 nytimes.com##[data-testid="social-group"]
 codecademy.com##[data-testid="social-share-dropdown"]
+lseg.com##[data-title="Connect with us"]
 dw.com##[data-tracking-name="footer-section-social-media"]
 dw.com##[data-tracking-name^="sharing-icons-"]
 axios.com##[data-vars-event-name="preferred_source_view"]
@@ -9329,6 +9332,7 @@ miruro.*##section[class^="_noticeSection_"]
 |knowledge.wharton.upenn.edu##.social-icons
 |letras.mus.br##.social-icons
 |lettera22.it##.social-icons
+|lexisnexis.com##.social-icons
 |liliputing.com##.social-icons
 |luzmedia.co##.social-icons
 |metsul.com##.social-icons
@@ -10431,6 +10435,7 @@ hindustantimes.com##.ln
 |power96radio.com##.social-links
 |powerboise.com##.social-links
 |praise933.com##.social-links
+|pydantic.dev##.social-links
 |q1057.com##.social-links
 |q1065.fm##.social-links
 |q1077.com##.social-links
@@ -16017,6 +16022,7 @@ n-ix.com##.cookie-block-wrapper
 betking.com##.cookie-box-container
 navigare-yachting.com##.cookie-box-popup
 |goodlawproject.org##.cookie-card
+|hamiltonmotors.co.uk##.cookie-card
 |loanheadcars.co.uk##.cookie-card
 allyouplay.com##.cookie-card_container
 benq.com##.cookie-component
@@ -16389,6 +16395,7 @@ formstack.com##.drift
 piensasolutions.com##.drop
 questclimate.com##.ds-gdpr
 buffcoach.net##.dsgvowpplugin-globaloptin
+theverge.com##.duet--navigation--pmc-privacy-banner
 singaporeair.com##.dwc--SiaCookie__PopupCookie
 dunelm.com##.e13q590n1
 livelarq.com##.e1jo60ce0
@@ -16490,7 +16497,8 @@ thefurnshop.co.uk##.fixBar
 privacysavvy.com##.fixed
 namesilo.com##.fixed-footer
 mobileshop.eu##.fixed-warning
-digitalranking.eu##.fixed.bottom-0:has(.lucide-cookie)
+|digitalranking.eu##.fixed.bottom-0:has(.lucide-cookie)
+|sentramedikahospitals.com##.fixed.bottom-0:has(.lucide-cookie)
 cashbackeasy.com##.fixed.bottom-0:has([href="/article/Cashback-Easy-Cookie-Policy-Statement"])
 |cline.bot##.fixed.bottom-0:has([href="/privacy"])
 |forgemods.de##.fixed.bottom-0:has([href="/privacy"])
@@ -17787,6 +17795,7 @@ ticketmaster.com##[aria-describedby="mobileMobileTOUMessage"]
 |lovable.dev##[aria-label="Cookie banner"]
 |affiliates.kayak.com##[aria-label="Cookie consent"]
 |europeantechmap.eu##[aria-label="Cookie consent"]
+|kychub.com##[aria-label="Cookie consent"]
 |milkeneducatorawards.org##[aria-label="Cookie consent"]
 |readcomicsonline.lol##[aria-label="Cookie consent"]
 |demilked.com##[aria-label="Cookie notice"]
@@ -24977,7 +24986,6 @@ onassis.org##.bottom-0.relative
 |runmercury.com##.bottom-0.fixed
 |runtimewire.com##.bottom-0.fixed
 |selfstock.com##.bottom-0.fixed
-|sentramedikahospitals.com##.bottom-0.fixed
 |shakuro.com##.bottom-0.fixed
 |shopflavcity.com##.bottom-0.fixed
 |sistic.com.sg##.bottom-0.fixed
@@ -31586,8 +31594,10 @@ cwallet.com##+js(set-local-storage-item, ns_cookies, 1)
 omroepflevoland.nl##+js(set-local-storage-item, of_cookies_consent, YES)
 omroepflevoland.nl##+js(set-local-storage-item, of_cookiewall_banner_seen, YES)
 olx.com.br##+js(set-local-storage-item, open_modal_update_policy, 1)
+store.toogoodtogo.com##+js(set-local-storage-item, optionalDataExchangeConsent, false)
 opensauce.com##+js(set-local-storage-item, os_consent, denied)
 evropochta.by##+js(set-local-storage-item, otherCookie, true)
+store.toogoodtogo.com##+js(set-local-storage-item, partnerConsentVersion, 0)
 erlus.com##+js(set-local-storage-item, pc-cookie-accepted, true)
 erlus.com##+js(set-local-storage-item, pc-cookie-technical-accepted, true)
 schneidewind-immobilien.de##+js(set-local-storage-item, pcClosedOnce, true)
@@ -38858,6 +38868,7 @@ centrotherm.de##.H_s
 aqualip.de##.HrSys-Gips-iBoxDivOverlay
 |jaguar.at##.Modal
 |landrover.at##.Modal
+fahrgastfernsehen.city##.MuiPaper-root:has([href="/datenschutz"])
 landrover.de##.NotificationBar
 toppreise.ch##.Plugin_WeUseCookies
 snowfall-beads.de##.PopupOnTopScreen
@@ -39595,6 +39606,7 @@ markformelle.by##.app-cookies__popup
 shate-m.by##.blocker
 atlant.by##.confirm-panel
 kommunarka.by##.cookies-start
+cosmos-telecom.by##.cookies__wrapper
 hoster.by##.m-cookies-informer
 domain.by##.notice-ck-wrapper
 profit.by##.policy-footer
@@ -48348,6 +48360,7 @@ newsnationnow.com##.site-header__signup
 medcitynews.com##.site-top-bar
 cookiesfordays.com##.site-top-footer-wrap
 abplive.com##.skl-widget
+pydantic.dev##.sl-markdown-content > form[action^="https://eu.customerioforms.com/forms/submit_action"]
 |gamesradar.com##.slice-container-newsletterForm
 |tomsguide.com##.slice-container-newsletterForm
 |cookiesfordays.com##.slick-on-page
@@ -49270,6 +49283,7 @@ polygon.com#?#.w-promotion-widget:has-text(Subscribe)
 potatonewstoday.com#?#.has-border-color:has-text(Discover more)
 proprofskb.com#?#.widget_text:has-text(Subscribe to our monthly newsletter)
 publichealthpolicyjournal.com#?#.is-position-sticky:has-text(Subscribe)
+pydantic.dev#?#.sl-markdown-content > p:has-text(Sign up for our newsletter)
 qcitymetro.com#?#.has-link-color.has-background:has-text(free newsletter)
 quantamagazine.org#?#.hide.post__sidebar:has-text(Share this article)
 qz.com#?#.max-w-\[48rem\]:has-text(Sign up for the Daily Brief)
