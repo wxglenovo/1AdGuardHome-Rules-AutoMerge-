@@ -16650,7 +16650,8 @@ vagaro.com##.gdprCookies-banner
 |shop.animalbiome.com##.gdpr__holder
 mitac.com##.gdpr_block
 learnpick.in##.gdpr_holder
-blazingfast.io##.gdprcookie
+|blazingfast.io##.gdprcookie
+|giant-bicycles.com##.gdprcookie
 zionsbank.com##.genesis-cookie-consent
 |gamefound.com##.gfu-floating-message
 |indiegogo.com##.gfu-floating-message
@@ -31277,6 +31278,7 @@ fiberlogy.com##+js(set-local-storage-item, consents.show_consent_modal, 1)
 |bahnland-bayern.de##+js(set-local-storage-item, contao-privacy-center.hidden, 1)
 |eezy.nrw##+js(set-local-storage-item, contao-privacy-center.hidden, 1)
 |nationalexpress.de##+js(set-local-storage-item, contao-privacy-center.hidden, 1)
+|eyefitu.com##+js(set-local-storage-item, cookie, true)
 |femibion.rs##+js(set-local-storage-item, cookie, true)
 |metro1.com.br##+js(set-local-storage-item, cookie, true)
 |nove.fr##+js(set-local-storage-item, cookie, true)
