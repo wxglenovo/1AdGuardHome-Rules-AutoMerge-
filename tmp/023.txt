@@ -2257,6 +2257,7 @@ google.com#?#[jscontroller="HCSvae"]:has-text(/Sign in to Google|Build Android a
 google.com#?#div[jsname="wA2P2b"]:has-text(How helpful were the results)
 www.google.com#?#[aria-describedby="promo_desc_id"]:has-text(/Time for a new laptop|Gemini, |Choose Chrome|built by Google|Search differently|Cherchez diffÃ©remment|Search just got easier|Try more ways|Switch to Chrome|Keep things dark/)
 youtube.com##.ytp-paid-content-overlay
+youtube.com###offer-module
 www.youtube.com#?##content > .ytd-rich-section-renderer:has-text(YouTube Playables)
 music.youtube.com#?#tp-yt-paper-dialog.ytmusic-popup-container:has-text(/Weâre listening!|family plan|Premium|ad-free|background play|kept playing|month free|without the ads|Try YouTube Music/)
 www.youtube.com##tp-yt-paper-dialog.ytd-popup-container:has(> .ytd-popup-container > #options[class$="survey-renderer"])
@@ -37243,6 +37244,7 @@ vanlifecampers.com##+js(remove-class, body, cmplz-banner-active)
 |as.com###didomi-host
 |corrieredellosport.it###didomi-host
 |fcbarcelona.com###didomi-host
+|fyndiq.*###didomi-host
 |mein-mmo.de###didomi-host
 |tuttosport.com###didomi-host
 |vecernji.hr###didomi-host
@@ -37250,6 +37252,7 @@ vanlifecampers.com##+js(remove-class, body, cmplz-banner-active)
 |as.com##body,html:style(overflow: visible !important; padding-right: 0 !important; overflow-y: visible !important; overflow-x: visible !important; position: initial !important;)
 |corrieredellosport.it##body,html:style(overflow: visible !important; padding-right: 0 !important; overflow-y: visible !important; overflow-x: visible !important; position: initial !important;)
 |fcbarcelona.com##body,html:style(overflow: visible !important; padding-right: 0 !important; overflow-y: visible !important; overflow-x: visible !important; position: initial !important;)
+|fyndiq.*##body,html:style(overflow: visible !important; padding-right: 0 !important; overflow-y: visible !important; overflow-x: visible !important; position: initial !important;)
 |mein-mmo.de##body,html:style(overflow: visible !important; padding-right: 0 !important; overflow-y: visible !important; overflow-x: visible !important; position: initial !important;)
 |tuttosport.com##body,html:style(overflow: visible !important; padding-right: 0 !important; overflow-y: visible !important; overflow-x: visible !important; position: initial !important;)
 |vecernji.hr##body,html:style(overflow: visible !important; padding-right: 0 !important; overflow-y: visible !important; overflow-x: visible !important; position: initial !important;)
@@ -39607,6 +39610,7 @@ shate-m.by##.blocker
 atlant.by##.confirm-panel
 kommunarka.by##.cookies-start
 cosmos-telecom.by##.cookies__wrapper
+beltelecom.by##.jqmWindow
 hoster.by##.m-cookies-informer
 domain.by##.notice-ck-wrapper
 profit.by##.policy-footer
