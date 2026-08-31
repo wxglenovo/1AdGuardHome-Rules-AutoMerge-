@@ -1708,6 +1708,7 @@ fitnesssf.com###consent-click-shield
 netcraft.com###consent-form
 |awesomeagents.ai###consent-notice
 |pkgs.org###consent-notice
+radiomap.world###consent-overlay
 nasdaq.com###consent-placeholder-onetrust
 |audacityteam.org###consent-popup
 |tecadmin.net###consent-popup
@@ -2624,6 +2625,7 @@ weverse.io###wevConsentManagerLayer
 |pestdefence.co.uk###wp-notification
 funnyordie.com###wpautoterms-bottom-fixed-container
 f1forgottendrivers.com###wpcg-box
+htownbikes.com###wpconsent-banner-holder
 |acoup.blog###wpconsent-root
 |candidcyber.com###wpconsent-root
 |commonplacefacts.com###wpconsent-root
@@ -2701,6 +2703,7 @@ humanizeai.pro##.CoockiesBanner_cookies_container__3epvo
 jksrestaurants.com##.Cookie-message
 weverse.io##.CookieAgreeView_container__qYaK3
 radioplayer.vistaradio.ca##.CookieBanner-module__wrap--1QK9t
+makeupstore.com##.CookieBanner__cookie
 |kaspersky.com##.CookieBanner_bottom__Xgcqc
 |kaspersky.com.au##.CookieBanner_bottom__Xgcqc
 makeship.com##.CookieBar__CookieConsentWrapper-sc-1tdtgkj-0
@@ -4096,6 +4099,7 @@ audi.com##.gbp-overlay
 |petercallandermd.com##.gdpCookie
 leapyear.io##.gdpr--modal
 |brainandlife.org##.gdpr-alert
+|novakidschool.com##.gdpr-alert
 |thebaffler.com##.gdpr-alert
 |wilsoncenter.org##.gdpr-alert
 principledtechnologies.com##.gdpr-check
@@ -5250,6 +5254,7 @@ ticketmaster.com##[aria-describedby="mobileMobileTOUMessage"]
 |scribd.com##[aria-label="Cookie Consent Banner"]
 |1password.com##[aria-label="Cookie Consent"]
 |shirtspace.com##[aria-label="Cookie Consent"]
+pretense.ai##[aria-label="Cookie and privacy notice"]
 |dictionary.cambridge.org##[aria-label="Cookie banner"]
 |lovable.dev##[aria-label="Cookie banner"]
 |affiliates.kayak.com##[aria-label="Cookie consent"]
@@ -5257,6 +5262,7 @@ ticketmaster.com##[aria-describedby="mobileMobileTOUMessage"]
 |kychub.com##[aria-label="Cookie consent"]
 |milkeneducatorawards.org##[aria-label="Cookie consent"]
 |readcomicsonline.lol##[aria-label="Cookie consent"]
+certyneo.com##[aria-label="Cookie management"]
 |demilked.com##[aria-label="Cookie notice"]
 |runtimewire.com##[aria-label="Cookie notice"]
 swig.com##[aria-label="Cookie policy banner"]
@@ -5626,6 +5632,7 @@ weatherbug.com##notification-footer
 northwell.edu##nwhlit-gdpr-banner
 1inch.com##oi-cookies-popup
 |eu.reservewheels.com##pandectes-cmp
+|johnvschultz.com##pandectes-cmp
 |kingkoil.com##pandectes-cmp
 |prestacycle.eu##pandectes-cmp
 |ridealso.com##pandectes-cmp
@@ -7316,7 +7323,7 @@ nawozy.eu##[class^="CookieBox"]
 |stripbackground.com##.consent-overlay
 |toonytool.com##.consent-overlay
 |uio.no##.consent-overlay
-|wordclouds.com##.consent-overlay
+|v-dem.networdclouds.com##.consent-overlay
 |youtubetrimmer.com##.consent-overlay
 |amb.net.pl##.consents
 |audiotop.pl##.consents
@@ -18186,6 +18193,7 @@ hejto.pl##.z-1200.border-primary-main
 filtry-wody.pl##.zdzCookies
 pzkosz.pl##.zgoda_na_przetwarzanie
 shopee.pl##.zsav9a
+cozadzien.pl##[aria-describedby="cookie-consent-message"]
 knf.gov.pl##[aria-labelledby="cookie-info-title"]
 pracuj.pl##[data-test="modal-cookie-bottom-bar"]
 |kurnik.pl##[style^="position: fixed; left: 0px; top: 0px;"]

@@ -812,7 +812,8 @@ livenation.co.nz###social-component
 keepingbackyardbees.com###social-container
 breitbart.com###social-follow-sidebar-widget
 coindesk.com###social-icons-box
-cyclingstage.com###social-media
+|bizwest.com###social-media
+|cyclingstage.com###social-media
 qcitymetro.com###social-nav-contain
 seibertron.com###social-networking
 fangoria.com###social-promotion
@@ -860,6 +861,7 @@ designtaxi.com###top-buttons
 yardbarker.com###top-nav-soc
 baystatebanner.com###top-soc-icon-wrap
 hexus.net###topicons
+labex.io###tutorial-detail-sidebar > .mb-10
 |dansingerman.com###twitter
 |fark.com###twitter
 |radioguide.fm###twitter
@@ -1186,7 +1188,8 @@ news.tvbs.com.tw##.article_community_box
 |salemnews.net##.article_details_icons
 news18.com##.article_follow_1
 financialexpress.com##.article_follow_us
-techonthenet.com##.article_footer
+|checkyourmath.com##.article_footer
+|techonthenet.com##.article_footer
 webdunia.com##.article_in_content > .row
 sciencex.com##.article_info-goog
 goodnet.org##.article_like
@@ -1648,6 +1651,7 @@ moviemistakes.com##.followbuttons
 zimbabwesituation.com##.followdesktop
 rbth.com##.follows-channel
 telegraphindia.com##.followusbox
+flyfrontier.com##.foot-nav__social
 thejc.com##.foot__socials
 dot.la##.foot_bar
 dot.la##.foot_social
@@ -1690,10 +1694,12 @@ imagecollect.com##.footerLinks_03
 oilprice.com##.footerLogoBanner__socialMedia
 theanalyst.com##.footer__bottom--social-links
 dailykos.com##.footer__connect
+www.opera.com##.footer__follow-label
 scientificamerican.com##.footer__followus-text
 bolavip.com##.footer__footer-top__social-links
 newrepublic.com##.footer__middleRow
 pastebin.com##.footer__right
+www.opera.com##.footer__social-icons
 infoq.com##.footer__social-wrap
 indiatoday.in##.footer__socialshare
 madamasr.com##.footer_icons_container
@@ -1751,6 +1757,7 @@ digitalcontentnext.org##.ft-soc
 |timescolonist.com##.ft-social
 |vancouverisawesome.com##.ft-social
 |westernwheel.ca##.ft-social
+ampav.com##.ft_sns
 haymarketbooks.org##.ftr-follow
 cosmopolitan.in##.ftr_scl_lst
 kingmodapk.net##.ftr_social_box
@@ -1785,6 +1792,7 @@ gardinerbryant.com##.gh-share-container
 ghacks.net##.ghacks_share_widget
 avaaz.org##.global-footer-connect
 cars.com##.global-footer-social-buttons
+montgomerycollege.edu##.globalFooter__socialMedia
 tweaktown.com##.gnci
 phonearena.com##.gnews-wrapper
 phonearena.com##.gnews-wrapper-down
@@ -1922,6 +1930,7 @@ touristspy.com##.heateor_sss_follow_icons_container
 |spectator.org##.heateor_sss_sharing_container
 |worldsensorium.com##.heateor_sss_sharing_container
 bringmethenews.com##.hero-media-tools
+addons.opera.com##.hf--social
 |echonewshub.com##.highlight-shares
 |jugomobile.com##.highlight-shares
 |thartribune.com##.highlight-shares
@@ -3141,6 +3150,7 @@ mediapost.com##.widget-waypoint
 madinamerica.com##.widget_a2a_share_save_widget
 theyucatantimes.com##.widget_ame_tiktok_widget
 chipsandcheese.com##.widget_block
+vashivisuals.com##.widget_cnss_widget
 atlantatribune.com##.widget_connect
 topauto.co.za##.widget_eltd_social_icon_widget
 |fashionhistory.fitnyc.edu##.widget_et_social_followers
@@ -3228,6 +3238,7 @@ cnet.com##[data-meta="footer-section-social"]
 cnet.com##[data-meta="footer-section-social"] + ul
 scmp.com##[data-qa="ArticleGoogleNewsButton-Container"]
 newstalkzb.co.nz##[data-test-ui="social-connect"]
+jetbrains.com##[data-test="social-list"]
 sundayworld.com##[data-testid="article-share"]
 stuff.co.nz##[data-testid="body-cta"]
 pcgamer.com##[data-testid="buttons-social"]
@@ -3775,6 +3786,7 @@ miruro.*##section[class^="_noticeSection_"]
 |catracalivre.com.br##.social
 |cdt.ch##.social
 |centerblog.net##.social
+|checkyourmath.com##.social
 |chimeraos.org##.social
 |christianpost.com##.social
 |christiantoday.co.nz##.social
@@ -5903,6 +5915,7 @@ hindustantimes.com##.ln
 |lonestar995fm.com##.social-links
 |loudwire.com##.social-links
 |marketplace.org##.social-links
+|maxim.com##.social-links
 |may9.ru##.social-links
 |med.stanford.edu##.social-links
 |mega993online.com##.social-links
