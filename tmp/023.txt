@@ -6444,6 +6444,7 @@ inews.co.uk##.inews__footer__menus__icons
 inews.co.uk##.inews__post-share
 labiotech.eu##.inline-block.space-y-8
 mainichi.jp##.inline-list
+motherjones.com##.instagram-promo
 winnipegfreepress.com##.interactive
 bossip.com##.io-header__social-links
 thedriven.io##.is-whatsapp
@@ -7698,12 +7699,14 @@ sfgate.com##[aria-label="Share from Email"]
 thejc.com##[aria-label="Share this article"]
 sfgate.com##[aria-label="Share to Twitter"]
 news.yahoo.com##[aria-label="Share"]
+wattpad.com##[aria-label="Social media links"]
 |breakingnews.ie##[aria-label="Twitter"]
 |nhentai.net##[aria-label="Twitter"]
 partiful.com##[class*="DisclosureBanner_root__"]
 cyprus-mail.com##[class^="_googleNewsContainer_"]
 indiewire.com##[class^="_socialMedia_"]
 techcommunity.microsoft.com##[class^="custom_widget_MicrosoftFooter_social-share_"]
+techcommunity.microsoft.com##[class^="custom_widget_SocialSharing_sharePage_"]
 motortrend.com##[data-c="social-share"]
 news.sky.com##[data-component-name="sdc-article-strapline"]
 theguardian.com##[data-component="preferred-source-button-prefer"]
@@ -7714,6 +7717,7 @@ cnet.com##[data-meta="footer-section-social"] + ul
 scmp.com##[data-qa="ArticleGoogleNewsButton-Container"]
 newstalkzb.co.nz##[data-test-ui="social-connect"]
 jetbrains.com##[data-test="social-list"]
+reuters.com##[data-testid="SharingSymbols"]
 sundayworld.com##[data-testid="article-share"]
 stuff.co.nz##[data-testid="body-cta"]
 pcgamer.com##[data-testid="buttons-social"]
@@ -20508,6 +20512,7 @@ flexiti.com##.z-999
 |schools.by##.cookie-panel
 |talon.by##.cookie-panel
 |timeweb.com##.cookie-panel
+|amateurtvx.com##.cookie-bar
 |ansell.com.cn##.cookie-bar
 |bakkersonline.be##.cookie-bar
 |bierlinie-shop.de##.cookie-bar
@@ -20529,6 +20534,7 @@ flexiti.com##.z-999
 |manilatimes.net##.cookie-bar
 |mastername.ru##.cookie-bar
 |meuhedet.co.il##.cookie-bar
+|milftvx.com##.cookie-bar
 |mylf.com##.cookie-bar
 |nocibe.fr##.cookie-bar
 |nordicpond.shop##.cookie-bar
@@ -20542,7 +20548,9 @@ flexiti.com##.z-999
 |smartocto.com##.cookie-bar
 |swappz.com##.cookie-bar
 |teamskeet.com##.cookie-bar
+|teentvx.com##.cookie-bar
 |thenationalherald.com##.cookie-bar
+|titstvx.com##.cookie-bar
 |triodos.co.uk##.cookie-bar
 |um.suwalki.pl##.cookie-bar
 |umbler.com##.cookie-bar
@@ -41455,6 +41463,7 @@ kinonh.pl###div_ac
 elektrykasklep.pl###ftccbcmd
 idream.pl###garua_cookie_consent_popup
 grupapracuj.pl###gp_cookie_agreements
+rmf24.pl###gr-consent-layer-area
 zmiksowani.pl###holdon-overlay
 bauer.pl###iframePopupContainer
 skleprycerski.com###important-notice
@@ -41713,6 +41722,10 @@ webprojekt.biz##.ppc
 kp.pl##.privacyModal
 hejto.pl##.py-4.px-6.items-center
 rankomat.pl##.rank-cookie-bar
+|benugo.pl##.realCookies
+|buycom.pl##.realCookies
+|essystemk.pl##.realCookies
+|lako.pl##.realCookies
 prk24.pl##.rk-cookie-overlay
 |alloc.pl##.rodopolicy
 |bagpolska.pl##.rodopolicy
