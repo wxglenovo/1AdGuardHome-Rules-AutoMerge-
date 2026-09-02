@@ -29840,6 +29840,7 @@ catawiki.com##+js(set-cookie, enable_marketing_cookies, false)
 onderwijsvacaturebank.nl##+js(set-cookie, enablecookie, false, , reload, 1)
 dragshop.com##+js(set-cookie, enabled_cookie_accept_cookies, 0, , reload, 1)
 endgame.id##+js(set-cookie, endgame-accept-policy, true)
+liisakoski.com##+js(set-cookie, epCookieConsent, 0)
 |anderweltverlag.com##+js(set-cookie, epCookieConsent, 0, , reload, 1)
 |bikepro.de##+js(set-cookie, epCookieConsent, 0, , reload, 1)
 |biona-shop.de##+js(set-cookie, epCookieConsent, 0, , reload, 1)
@@ -43485,6 +43486,7 @@ fptshop.com.vn##[data-cookie-consent-modal="true"]
 ||gravitocdn.blob.core.windows.net/lightcmp/$script,domain=veho.fi
 ||jimms.fi/Scripts/jimmsconsent3.js
 ||korkeinoikeus.fi/webcomponents/oh-internet-seuranta/evastekysely.html
+||korpiaho.net/wp-content/plugins/talentree-gdpr/js/main.js$script
 ||krookmedia.fi/wp-content/plugins/cookie-law-info/$script,domain=krookmedia.fi
 ||multitronic.fi/en/ajax/getConsentForm/
 ||pirkkalainen.fi/wp-content/plugins/cookie-law-info/legacy/public/js/cookie-law-info-public.js
