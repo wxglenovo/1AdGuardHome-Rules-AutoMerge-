@@ -17945,7 +17945,8 @@ backmarket.com##[data-test="banner"]
 workagnt.com##[data-testid="banner-cookie-consent"]
 fifthrow.com##[data-testid="cookie-banner"]
 pleo.io##[data-testid="cookie-banner-wrapper"]
-autoindustriya.com##[data-testid="cookie-consent-banner"]
+|autoindustriya.com##[data-testid="cookie-consent-banner"]
+|techmadesimple.net##[data-testid="cookie-consent-banner"]
 trello.com##[data-testid="cookies-consent-banner"]
 |cline.bot##[data-testid="cookies-dialog"]
 |opencollective.com##[data-testid="cookies-dialog"]
@@ -51917,6 +51918,8 @@ arcade1up.com##body:style(overflow: scroll !important; position: unset !importan
 thewalrus.ca##.spu-bg
 thewalrus.ca##.spu-box
 thewalrus.ca##body,html:style(height: auto !important; overflow: auto !important)
+geekwire.com##.gw-interstitial-overlay
+geekwire.com##body:style(overflow: scroll !important; position: unset !important)
 moneygenius.ca##+js(set-cookie, last-chance-optin, true)
 treblezine.com###newsletter-popup
 treblezine.com##.newsletter-popup
