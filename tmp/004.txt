@@ -68,7 +68,6 @@
 .com/java/zuoxia.js
 .com/js/a_d/
 .com/js/ad_
-.com/js/addp.js
 .com/js/alls_foot.js
 .com/js/alls_top.js
 .com/js/bnnr_
@@ -159,7 +158,6 @@
 .xyz/*=$object,third-party
 .xyz/99x/
 .xyz/ad/
-.xyz/js/addp.js
 .xyz/js/ads/
 .xyz/o.js$script,third-party
 .xyz/upload/ad/
@@ -237,7 +235,6 @@
 /api/Video/GetAdsDataList?
 /app/pcBanner/getBannerConfig/v2
 /app_ad/slade.js
-/Appapi/jjlist.php
 /appnei-huodong.oss-
 /apps/misc.php?action=advert&
 /AShow.aspx?AID=
@@ -757,7 +754,6 @@
 :818/nowscore/
 :88/999pc/
 :88/lighttpd/default/
-:8888/js/cctv.js
 :8888/mb1/pc_
 :8888/mb1/wap_
 :8888/zhu/pc_
@@ -829,8 +825,6 @@ newduba.cn###jq_youxi
 |~aircn.org##.wp.a_t
 |~steamcn.com##.wp.a_t
 |~x3cn.com##.wp.a_t
-|~taobao.com##A[href="https://s.click.taobao.com/cTAwFvu"]
-|~tmall.com##A[href="https://s.click.taobao.com/cTAwFvu"]
 ~sinaimg.cn##a > img[src*=".sinaimg."][src$=".gif"][style*="width:960"]
 ~alicdn.com##a > img[width="960"][src*=".alicdn.com/"]
 ~sinaimg.cn##a > img[width="960"][src*=".sinaimg."]
@@ -856,6 +850,9 @@ newduba.cn###jq_youxi
 ||cupfox.app^$third-party
 ||c2vodqlmy.com^
 ||605abezk8.com^
+||enwwlcrxi.com^
+||fsxqfjkg.com^
+||sl2qzbsn5.com^
 ||rxzfhfmoegfvts.com^
 ||zhifupaypay.com^
 ||reflector19.com^
@@ -6052,7 +6049,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||0575bbs.com/updateimeags/
 ||0579.cn/SHow/Showplacenew.aspx
 ||0598yu.com/api.php?mod=ad&
-||0606kk.com/js/index/index.js
 ||07073.com/api/getKfList?
 ||07073.com/pc/js/right-ad.
 ||0722fc.com/index/index.php?/ajax/get_adv/
@@ -10222,7 +10218,6 @@ meijutt.*/js/pcjs/
 ||ztjal.info/wp-content/plugins/kill-adblock/
 ||ztyumn.ifeng.com^
 ||zuiacg.com/images/client/
-||zuofang05.com/template/mytheme/statics/image/1/
 ||zzsky.com/images/a_d_
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
@@ -11041,7 +11036,6 @@ wjx.cn###ctl01_ContentPlaceHolder1_divProMsg
 free.com.tw###custom_html-11
 hexieshe.cn###custom_html-2
 24kplus.com###custom_html-3
-|18avinin.com###custom_html-5
 |27ka.cn###custom_html-5
 |sunnylife.tw###custom_html-5
 makaidong.com###cyWallsplugin
@@ -16478,7 +16472,6 @@ boyoushe.com##a[href^="http"]:not([href*=".boyoushe"]) > .j-lazy
 chapaofan.com##a[href^="http"]:not([href*=".chapaofan."]) > img[src*=".sinaimg."]
 jrzj.com##a[href^="http"]:not([href*=".jrzj."]) > img[src^="https://img."]
 peizimenhu.com##a[href^="http"]:not([href*=".peizimenhu."]) > img[src^="data/attachment/portal/"]
-18avinin.com##a[href^="http"]:not([href*="18avinin."]) > img[src*=".18avinin.com/wp-content/uploads/"]
 18moe.vip##a[href^="http"]:not([href*="18moe.vip"]) > img[src*="tc.18moe.net"]
 wn789.com##a[href^="http"]:not([href*="://www.wn789."]) > img
 stock87.com##a[href^="http"]:not([href*="stock87."]) > img[src*="uploadfiles/image/"]
@@ -16523,7 +16516,6 @@ chongbuluo.com##a[href^="https://cn.udacity.com/"]
 3dmgame.com##a[href^="https://down.hyds360.com/"] > div[style]
 boke112.com##a[href^="https://dwz.cn/"]
 ditu.so.com##a[href^="https://e.so.com/"]
-18avinin.com##a[href^="https://forms.gle/"]
 nownews.com##a[href^="https://goo.gl/"]
 netbian.com##a[href^="https://ibaotu.com/guanggao/"]
 acgfta.com##a[href^="https://ifift.com/"]
@@ -18405,6 +18397,7 @@ guailie.com#@#.google-ad
 |18comic.vip#?#div[data-group]:-abp-has(>.group-notice)
 |18comic.ink#?#div[data-group]:-abp-has(>.group-notice)
 ||18comic.*/media/albums/*?$media
+||cszpra.com^*.gif
 58.com###rightRetui
 58.com##.S_table_ding_box
 58.com##.topinfos
