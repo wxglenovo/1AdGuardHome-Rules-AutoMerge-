@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-09-04T06:24:57.149Z
+🚫 去掉注释行: ! Last modified: 2026-09-04T10:14:57.234Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -1611,10 +1611,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 94832
-🚫 去掉注释行: ! Checksum: sqCOxgDh2kmQYsFdStlEaQ
-🚫 去掉注释行: ! Version: 202609040711
+🚫 去掉注释行: ! Checksum: 9hmoRXb7Qiiz+Jh8OxFQeA
+🚫 去掉注释行: ! Version: 202609041202
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 04 Sep 2026 07:11 UTC
+🚫 去掉注释行: ! Last modified: 04 Sep 2026 12:02 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -25084,9 +25084,6 @@
     → |xhspot.com##a[href^="https://flirtify.com/"]
     → |xhtotal.com##a[href^="https://flirtify.com/"]
     → |xhwide2.com##a[href^="https://flirtify.com/"]
-✅ 多域名拆分: xv-ru.com,xvideos.*##a[href^="https://s.zlink7.com/"]
-    → |xv-ru.com##a[href^="https://s.zlink7.com/"]
-    → |xvideos.*##a[href^="https://s.zlink7.com/"]
 ✅ 多域名拆分: namethatpornad.com,vxxx.com##a[href^="https://www.g2fame.com/"]
     → |namethatpornad.com##a[href^="https://www.g2fame.com/"]
     → |vxxx.com##a[href^="https://www.g2fame.com/"]
@@ -25324,10 +25321,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: kBh1Mqiw8RsM+08d0SA2fQ
-🚫 去掉注释行: ! Version: 202609040711
+🚫 去掉注释行: ! Checksum: 5rWno0AbMWeKEco+00XALw
+🚫 去掉注释行: ! Version: 202609041202
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 04 Sep 2026 07:11 UTC
+🚫 去掉注释行: ! Last modified: 04 Sep 2026 12:02 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29908,10 +29905,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: TuZrmfaduW6svUrUdp37dg
-🚫 去掉注释行: ! Version: 202609040711
+🚫 去掉注释行: ! Checksum: xZNLvxGMiiAPns6gY74glw
+🚫 去掉注释行: ! Version: 202609041202
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 04 Sep 2026 07:11 UTC
+🚫 去掉注释行: ! Last modified: 04 Sep 2026 12:02 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -30587,11 +30584,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202609040714
+🚫 去掉注释行: ! Version: 202609041154
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 04 Sep 2026 07:14 UTC
+🚫 去掉注释行: ! Last modified: 04 Sep 2026 11:54 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 5fe41e1cd70b8865680e5b348ff187d6a49ad11f
+🚫 去掉注释行: ! Commit: 225dc527d9cf0d67ae3876ad97e04307cc22cc91
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -54071,9 +54068,6 @@
     → |xhspot.com##a[href^="https://flirtify.com/"]
     → |xhtotal.com##a[href^="https://flirtify.com/"]
     → |xhwide2.com##a[href^="https://flirtify.com/"]
-✅ 多域名拆分: xv-ru.com,xvideos.*##a[href^="https://s.zlink7.com/"]
-    → |xv-ru.com##a[href^="https://s.zlink7.com/"]
-    → |xvideos.*##a[href^="https://s.zlink7.com/"]
 ✅ 多域名拆分: namethatpornad.com,vxxx.com##a[href^="https://www.g2fame.com/"]
     → |namethatpornad.com##a[href^="https://www.g2fame.com/"]
     → |vxxx.com##a[href^="https://www.g2fame.com/"]
@@ -54336,11 +54330,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202609040714
+🚫 去掉注释行: ! Version: 202609041154
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 04 Sep 2026 07:14 UTC
+🚫 去掉注释行: ! Last modified: 04 Sep 2026 11:54 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 5fe41e1cd70b8865680e5b348ff187d6a49ad11f
+🚫 去掉注释行: ! Commit: 225dc527d9cf0d67ae3876ad97e04307cc22cc91
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -70723,10 +70717,10 @@
 🚫 去掉注释行: ! Issues: https://github.com/hagezi/dns-blocklists/issues
 🚫 去掉注释行: ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 🚫 去掉注释行: ! Expires: 8 hours
-🚫 去掉注释行: ! Last modified: 03 Sep 2026 22:59 UTC
-🚫 去掉注释行: ! Version: 2026.0903.2259.44
+🚫 去掉注释行: ! Last modified: 04 Sep 2026 08:04 UTC
+🚫 去掉注释行: ! Version: 2026.0904.0804.39
 🚫 去掉注释行: ! Syntax: AdBlock
-🚫 去掉注释行: ! Number of entries: 37691
+🚫 去掉注释行: ! Number of entries: 37648
 🚫 去掉注释行: !
 🚫 去掉注释行: !Title: anti-AD for AdGuard
 🚫 去掉注释行: !Version: 20260901211041206151062
@@ -70747,12 +70741,13 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !Generated: 2026-09-04 13:58:35
-🚫 去掉注释行: !RuleCount: 815487
+🚫 去掉注释行: !Generated: 2026-09-04 18:58:23
+🚫 去掉注释行: !RuleCount: 815534
 ✅ HOSTS 转换: 127.0.0.1 0022a601.pphost.net → |0022a601.pphost.net^
 ✅ HOSTS 转换: 127.0.0.1 0following.com → |0following.com^
 ✅ HOSTS 转换: 127.0.0.1 123.ywxww.net → |123.ywxww.net^
 ✅ HOSTS 转换: 127.0.0.1 1717.1000uc.com → |1717.1000uc.com^
+✅ HOSTS 转换: 127.0.0.1 198348.gl → |198348.gl^
 ✅ HOSTS 转换: 127.0.0.1 1h.vuregyy1.ru → |1h.vuregyy1.ru^
 ✅ HOSTS 转换: 127.0.0.1 1h.xeteloi4.ru → |1h.xeteloi4.ru^
 ✅ HOSTS 转换: 127.0.0.1 3.zhzy999.net → |3.zhzy999.net^
@@ -70786,7 +70781,6 @@
 ✅ HOSTS 转换: 127.0.0.1 b2b.jewmailer.net → |b2b.jewmailer.net^
 ✅ HOSTS 转换: 127.0.0.1 backupso.com → |backupso.com^
 ✅ HOSTS 转换: 127.0.0.1 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev → |balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^
-✅ HOSTS 转换: 127.0.0.1 beak.in → |beak.in^
 ✅ HOSTS 转换: 127.0.0.1 benotrobot.online → |benotrobot.online^
 ✅ HOSTS 转换: 127.0.0.1 bito.com.pk → |bito.com.pk^
 ✅ HOSTS 转换: 127.0.0.1 blankeyeo.com → |blankeyeo.com^
@@ -70877,7 +70871,6 @@
 ✅ HOSTS 转换: 127.0.0.1 fd.v2downf.shop → |fd.v2downf.shop^
 ✅ HOSTS 转换: 127.0.0.1 fern-plume.com → |fern-plume.com^
 ✅ HOSTS 转换: 127.0.0.1 file.blackint3.com → |file.blackint3.com^
-✅ HOSTS 转换: 127.0.0.1 file.uhsea.com → |file.uhsea.com^
 ✅ HOSTS 转换: 127.0.0.1 filerit.com → |filerit.com^
 ✅ HOSTS 转换: 127.0.0.1 first-security-verden.de → |first-security-verden.de^
 ✅ HOSTS 转换: 127.0.0.1 flyingmutts.com → |flyingmutts.com^
@@ -70937,6 +70930,7 @@
 ✅ HOSTS 转换: 127.0.0.1 maidforyou1985.com → |maidforyou1985.com^
 ✅ HOSTS 转换: 127.0.0.1 mail.brightroseax.blog → |mail.brightroseax.blog^
 ✅ HOSTS 转换: 127.0.0.1 mail.emeraldstonegc.blog → |mail.emeraldstonegc.blog^
+✅ HOSTS 转换: 127.0.0.1 metrics.gocloudmaps.com → |metrics.gocloudmaps.com^
 ✅ HOSTS 转换: 127.0.0.1 miriamgualda.com.br → |miriamgualda.com.br^
 ✅ HOSTS 转换: 127.0.0.1 mitreart.com → |mitreart.com^
 ✅ HOSTS 转换: 127.0.0.1 mkconstructions.net → |mkconstructions.net^
@@ -70951,7 +70945,6 @@
 ✅ HOSTS 转换: 127.0.0.1 ncxps.com → |ncxps.com^
 ✅ HOSTS 转换: 127.0.0.1 node-slate.com → |node-slate.com^
 ✅ HOSTS 转换: 127.0.0.1 noithaticon.vn → |noithaticon.vn^
-✅ HOSTS 转换: 127.0.0.1 nusatoyota.co.id → |nusatoyota.co.id^
 ✅ HOSTS 转换: 127.0.0.1 ny.lshdw.cc → |ny.lshdw.cc^
 ✅ HOSTS 转换: 127.0.0.1 odinclient.dev → |odinclient.dev^
 ✅ HOSTS 转换: 127.0.0.1 ojang.pe.kr → |ojang.pe.kr^
@@ -71011,6 +71004,7 @@
 ✅ HOSTS 转换: 127.0.0.1 seputartuban.com → |seputartuban.com^
 ✅ HOSTS 转换: 127.0.0.1 sg123.net → |sg123.net^
 ✅ HOSTS 转换: 127.0.0.1 shqdown.ggzuhao.com → |shqdown.ggzuhao.com^
+✅ HOSTS 转换: 127.0.0.1 shreesaiseva.org → |shreesaiseva.org^
 ✅ HOSTS 转换: 127.0.0.1 siaasesoria.com.mx → |siaasesoria.com.mx^
 ✅ HOSTS 转换: 127.0.0.1 signageinsignia.co.za → |signageinsignia.co.za^
 ✅ HOSTS 转换: 127.0.0.1 sk-comtel.com → |sk-comtel.com^
@@ -71092,6 +71086,7 @@
 ✅ HOSTS 转换: 127.0.0.1 www.cutting-edge.in → |www.cutting-edge.in^
 ✅ HOSTS 转换: 127.0.0.1 www.drgenov.com → |www.drgenov.com^
 ✅ HOSTS 转换: 127.0.0.1 www.first-security-verden.de → |www.first-security-verden.de^
+✅ HOSTS 转换: 127.0.0.1 www.gestroom.it → |www.gestroom.it^
 ✅ HOSTS 转换: 127.0.0.1 www.hostingcloud.science → |www.hostingcloud.science^
 ✅ HOSTS 转换: 127.0.0.1 www.hqsblog.com → |www.hqsblog.com^
 ✅ HOSTS 转换: 127.0.0.1 www.hseda.com → |www.hseda.com^
@@ -71103,6 +71098,7 @@
 ✅ HOSTS 转换: 127.0.0.1 www.medises.co.kr → |www.medises.co.kr^
 ✅ HOSTS 转换: 127.0.0.1 www.myvcart.com → |www.myvcart.com^
 ✅ HOSTS 转换: 127.0.0.1 www.namuvpn.com → |www.namuvpn.com^
+✅ HOSTS 转换: 127.0.0.1 www.nccommunication.be → |www.nccommunication.be^
 ✅ HOSTS 转换: 127.0.0.1 www.newkey.co.kr → |www.newkey.co.kr^
 ✅ HOSTS 转换: 127.0.0.1 www.notbak.com → |www.notbak.com^
 ✅ HOSTS 转换: 127.0.0.1 www.ojang.pe.kr → |www.ojang.pe.kr^
@@ -71131,7 +71127,6 @@
 ✅ HOSTS 转换: 127.0.0.1 yakult-hk.com → |yakult-hk.com^
 ✅ HOSTS 转换: 127.0.0.1 youtransfer.net → |youtransfer.net^
 ✅ HOSTS 转换: 127.0.0.1 zamilgroups.com → |zamilgroups.com^
-✅ HOSTS 转换: 127.0.0.1 zhigao5191.com → |zhigao5191.com^
 ✅ HOSTS 转换: 127.0.0.1 zycdjz.com → |zycdjz.com^
 ✅ HOSTS 转换: 127.0.0.1 0ce3c-1fd43.api.pushwoosh.com → |0ce3c-1fd43.api.pushwoosh.com^
 ✅ HOSTS 转换: 127.0.0.1 100016075.collect.igodigital.com → |100016075.collect.igodigital.com^
@@ -160568,10 +160563,10 @@
 🚫 去掉注释行: ! Blocked domains: 5268
 🚫 去掉注释行: ! unBlocked domains: 15
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: xYoNtU9vORdJMYCZBRYHsA
-🚫 去掉注释行: ! Version: 202609040450
+🚫 去掉注释行: ! Checksum: UpoZbfYkq8gNd0PrfJ1o7A
+🚫 去掉注释行: ! Version: 202609041150
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-09-04 04:50 UTC
+🚫 去掉注释行: ! Last modified: 2026-09-04 11:50 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -195606,9 +195601,10 @@
 ✅ 多域名拆分: dictionary.cambridge.org,lovable.dev##[aria-label="Cookie banner"]
     → |dictionary.cambridge.org##[aria-label="Cookie banner"]
     → |lovable.dev##[aria-label="Cookie banner"]
-✅ 多域名拆分: affiliates.kayak.com,europeantechmap.eu,kychub.com,milkeneducatorawards.org,readcomicsonline.lol##[aria-label="Cookie consent"]
+✅ 多域名拆分: affiliates.kayak.com,europeantechmap.eu,gamedev.net,kychub.com,milkeneducatorawards.org,readcomicsonline.lol##[aria-label="Cookie consent"]
     → |affiliates.kayak.com##[aria-label="Cookie consent"]
     → |europeantechmap.eu##[aria-label="Cookie consent"]
+    → |gamedev.net##[aria-label="Cookie consent"]
     → |kychub.com##[aria-label="Cookie consent"]
     → |milkeneducatorawards.org##[aria-label="Cookie consent"]
     → |readcomicsonline.lol##[aria-label="Cookie consent"]
@@ -195731,7 +195727,8 @@
 ✅ 多域名拆分: hype4.academy,opensource.fb.com##div[class^="cookieBanner_"]
     → |hype4.academy##div[class^="cookieBanner_"]
     → |opensource.fb.com##div[class^="cookieBanner_"]
-✅ 多域名拆分: thexh.live,valuexh.life,xhaccess.com,xham.live,xhamster.best,xhamster.com,xhamster.desi,xhamster1.desi,xhamster19.com,xhamster2.com,xhamster3.com,xhamster44.desi,xhamsterlive.com,xhbig.com,xhbranch5.com,xhchannel.com,xhcopy.life,xhdate.world,xhexperience.xyz,xhfuck.com,xhofficial.com,xhopen.com,xhprograms.site,xhsocial.com,xhspot.com,xhtotal.com,xhvid1.com,xhwebsite5.com,xhwide2.com##div[class^="cookiesAnnounce-"]
+✅ 多域名拆分: goxh.today,thexh.live,valuexh.life,xhaccess.com,xham.live,xhamster.best,xhamster.com,xhamster.desi,xhamster1.desi,xhamster19.com,xhamster2.com,xhamster3.com,xhamster44.desi,xhamsterlive.com,xhbig.com,xhbranch5.com,xhchannel.com,xhcopy.life,xhdate.world,xhexperience.xyz,xhfuck.com,xhofficial.com,xhopen.com,xhprograms.site,xhsocial.com,xhspot.com,xhtotal.com,xhvid1.com,xhwebsite5.com,xhwide2.com##div[class^="cookiesAnnounce-"]
+    → |goxh.today##div[class^="cookiesAnnounce-"]
     → |thexh.live##div[class^="cookiesAnnounce-"]
     → |valuexh.life##div[class^="cookiesAnnounce-"]
     → |xhaccess.com##div[class^="cookiesAnnounce-"]
@@ -201555,7 +201552,7 @@
     → |toc-goldratt.eu###policy-ribbon
     → |tocreader.com###policy-ribbon
 🚫 去掉注释行: !! onetrust
-✅ 多域名拆分: aboutyou.de,accor.com,adobe.com,adshnk.com,afd.fr,aljazeera.com,allianz.pt,amtrak.com,apnews.com,arkadium.com,askubuntu.com,autoscout24.ch,avon.uk.com,azcentral.com,bankofhope.com,bluebuffalo.com,booking.com,breitbart.com,brides.com,bruckhaus.at,bt.com,calendly.com,cbs.com,cbssports.com,cleanipedia.com,cnn.com,coinmarketcap.com,comicbook.com,consequence.net,costco.ca,cp.com,cvs.com,darkreading.com,dhl.com,digitaltrends.com,discoveryuk.com,disneyplus.com,doodle.com,eetimes.com,espn.com.sg,ew.com,fifa.com,ford.com,fpf.org,generali.sk,generaliceska.cz,getyourguide.com,gitlab.com,hbomax.com,help.salesforce.com,hm.com,huawei.com,hypebeast.cn,iamexpat.de,ikea.com,ilike-it.ro,indeed.com,informa.com,inkling.com,intl.startrek.com,konami.com,krunker.io,logitech.com,logitechg.com,marketingweek.com,mathoverflow.net,mention.com,metacritic.com,millenniumhotels.com,moccona.sg,motoscout24.ch,msn.com,nba.com,nfl.com,nhl.com,npr.org,okazii.ro,paloaltonetworks.com,panasonic.com,paramountplus.com,people.com,politico.com,popculture.com,prioritypass.com,private-ai.com,professionals.tarkett.com,redbull.com,serverfault.com,skopenow.com,slack.com,slate.com,software.cisco.com,sony.com,sony.pl,soundcloud.com,sparknotes.com,spotify.com,stackexchange.com,stackoverflow.com,stories.com,subway.com,superuser.com,synchrony.com,teliacompany.com,thecloroxcompany.com,theverge.com,ticketmaster.com,tidal.com,time.com,tonybet.ca,unicef.de,unity.com,validity.com,vanityfair.com,vishay.com,vonage.com.ph,weddingbee.com,wetter.at,whoop.com,wired.com,zdnet.com###onetrust-consent-sdk
+✅ 多域名拆分: aboutyou.de,accor.com,adobe.com,adshnk.com,afd.fr,aljazeera.com,allianz.pt,amtrak.com,apnews.com,arkadium.com,askubuntu.com,autoscout24.ch,avon.uk.com,azcentral.com,bankofhope.com,bluebuffalo.com,booking.com,breitbart.com,brides.com,bruckhaus.at,bt.com,calendly.com,cbs.com,cbssports.com,cleanipedia.com,cnn.com,coinmarketcap.com,comicbook.com,consequence.net,costco.ca,cp.com,cvs.com,darkreading.com,dhl.com,digitaltrends.com,discoveryuk.com,disneyplus.com,doodle.com,eetimes.com,espn.com.sg,ew.com,fifa.com,ford.com,fpf.org,generali.sk,generaliceska.cz,getyourguide.com,gitlab.com,hbomax.com,help.salesforce.com,hm.com,huawei.com,hypebeast.cn,iamexpat.de,ikea.com,ilike-it.ro,indeed.com,informa.com,inkling.com,intl.startrek.com,konami.com,krunker.io,logitech.com,logitechg.com,marketingweek.com,mathoverflow.net,mention.com,metacritic.com,millenniumhotels.com,moccona.sg,motoscout24.ch,msn.com,nba.com,nfl.com,nhl.com,npr.org,okazii.ro,paloaltonetworks.com,panasonic.com,paramountplus.com,people.com,politico.com,popculture.com,prioritypass.com,private-ai.com,professionals.tarkett.com,redbull.com,serverfault.com,skopenow.com,slack.com,slate.com,software.cisco.com,sony.com,sony.pl,soundcloud.com,sparknotes.com,spotify.com,stackexchange.com,stackoverflow.com,stories.com,subway.com,superuser.com,synchrony.com,teliacompany.com,thecloroxcompany.com,theverge.com,ticketmaster.com,tidal.com,time.com,tokfm.pl,tonybet.ca,unicef.de,unity.com,validity.com,vanityfair.com,vishay.com,vonage.com.ph,weddingbee.com,wetter.at,whoop.com,wired.com,zdnet.com###onetrust-consent-sdk
     → |aboutyou.de###onetrust-consent-sdk
     → |accor.com###onetrust-consent-sdk
     → |adobe.com###onetrust-consent-sdk
@@ -201665,6 +201662,7 @@
     → |ticketmaster.com###onetrust-consent-sdk
     → |tidal.com###onetrust-consent-sdk
     → |time.com###onetrust-consent-sdk
+    → |tokfm.pl###onetrust-consent-sdk
     → |tonybet.ca###onetrust-consent-sdk
     → |unicef.de###onetrust-consent-sdk
     → |unity.com###onetrust-consent-sdk
@@ -216956,6 +216954,9 @@
 ✅ 多域名拆分: chums.jp,tohoentertainmentonline.com##.block-cookie-consent
     → |chums.jp##.block-cookie-consent
     → |tohoentertainmentonline.com##.block-cookie-consent
+✅ 多域名拆分: animatebookstore.com,pokedora.com##.ccst_area
+    → |animatebookstore.com##.ccst_area
+    → |pokedora.com##.ccst_area
 🚫 去掉注释行: !
 🚫 去掉注释行: ! ---------- Korean ----------
 🚫 去掉注释行: !
@@ -221769,7 +221770,8 @@
 ✅ 多域名拆分: afaqs.com,indianstartupnews.com##.subscribe-div-body-right-side
     → |afaqs.com##.subscribe-div-body-right-side
     → |indianstartupnews.com##.subscribe-div-body-right-side
-✅ 多域名拆分: allthings.how,armageddonexpo.com,businesstech.co.za,buttondown.com,channelnews.com.au,dashbit.co,itsfoss.com,jurist.org,nobodyaskedforthis.lol,pandotrip.com,pissdaily.com,reasonstobecheerful.world,rigzone.com,sfist.com##.subscribe-form
+✅ 多域名拆分: abhyrama.com,allthings.how,armageddonexpo.com,businesstech.co.za,buttondown.com,channelnews.com.au,dashbit.co,itsfoss.com,jurist.org,nobodyaskedforthis.lol,pandotrip.com,pissdaily.com,reasonstobecheerful.world,rigzone.com,sfist.com##.subscribe-form
+    → |abhyrama.com##.subscribe-form
     → |allthings.how##.subscribe-form
     → |armageddonexpo.com##.subscribe-form
     → |businesstech.co.za##.subscribe-form
@@ -222222,9 +222224,10 @@
     → |thejakartapost.com##.suscribe
     → |ultimominuto.news##.suscribe
 🚫 去掉注释行: !! #newsletter-form
-✅ 多域名拆分: altreconomia.it,coxautoinc.com,dezeen.com,discogs.com,sbs.com.au,soft112.com###newsletter-form
+✅ 多域名拆分: altreconomia.it,coxautoinc.com,destructoid.com,dezeen.com,discogs.com,sbs.com.au,soft112.com###newsletter-form
     → |altreconomia.it###newsletter-form
     → |coxautoinc.com###newsletter-form
+    → |destructoid.com###newsletter-form
     → |dezeen.com###newsletter-form
     → |discogs.com###newsletter-form
     → |sbs.com.au###newsletter-form
@@ -222716,7 +222719,7 @@
     → |onmeda.de##.mc_embed_signup
     → |tribalfootball.com##.mc_embed_signup
 🚫 去掉注释行: !! .newsletter
-✅ 多域名拆分: 01net.it,2gb.com,4investors.de,aawsat.com,addictivetips.com,administradores.com.br,adventures.com,advisoronline.it,advocate.com,aeroporto.net,agenziacasaclima.it,airliners.de,airqualitynews.com,aiscoop.com,alattefood.com,aldianews.com,alexander-wallasch.de,algemeiner.com,allclassical.org,antlionaudio.com,apracticalwedding.com,arab24.com,arsenalinsider.com,artnews.com,asteriskmag.com,astrooroscopo.it,atlantadailyworld.com,atlatszo.hu,autocasion.com,autoguide.com,automotive-fleet.com,baguete.com.br,basketinside.com,bestlifeonline.com,billboard.com,bintmusic.it,biometricupdate.com,bit.pt,bitmag.com.br,boardgameprices.co.uk,boerse-express.com,bolzano-bozen.it,bostonglobe.com,bostonmagazine.com,brindisisera.it,brooklynbased.com,buoyant.io,businessfleet.com,businessinsider.com,capx.co,carolinajournal.com,carpicalcionews.it,ccmagazine.es,cdt.ch,cheapies.nz,chicagodefender.com,chiesadimilano.it,cittaceleste.it,clevelandclinic.org,clubic.com,cmjornal.pt,cnn.com,collinsdictionary.com,comicsands.com,commondreams.org,condominioweb.com,corsedimoto.com,crn.com,cronista.com,crypto.news,cuisineetvinsdefrance.com,culture.pl,cyberscoop.com,dazeddigital.com,defensescoop.com,delamar.de,denofgeek.com,diepresse.com,digiday.com,dissipatio.it,dn.pt,dojacat.com,doktersvandewereld.org,dreambigtravelfarblog.com,dri.es,edscoop.com,electricfencing.co.uk,electronicsweekly.com,elmostrador.cl,enstarz.com,epicurious.com,estadao.com.br,estrelando.com.br,etonline.com,euractiv.com,euractiv.de,eventfinda.co.nz,evz.ro,familyhandyman.com,fandom.com,fantamagazine.com,fashionotes.com,fcinter1908.it,fdr.com.br,fedscoop.com,fliegermagazin.de,fmc.hu,focusardegna.com,forbesafrica.com,forzaroma.info,futura-sciences.com,gault-millau.nl,gaultmillau.be,gaultmillau.lu,giornaledibrescia.it,gizchina.com,gogedizioni.it,golssip.it,goodbye.be,goodnet.org,goodrx.com,gooieneemlander.nl,government-fleet.com,greatbritishchefs.com,greenbot.com,haarlemsdagblad.nl,hacks.mozilla.org,handdoekentoiletpapier.nl,hannity.com,hausgeraete-test.de,hcb.net,hdwallpapers.in,heimwerker-test.de,hifitest.de,historic-uk.com,hits973.com,hngn.com,hodinkee.com,hollywoodreporter.com,horse-canada.com,hottopics.ht,huffpost.com,i24news.tv,icij.org,ilgiorno.it,ilmilanista.it,ilposticipo.it,ilrestodelcarlino.it,ilsecoloxix.it,ilsussidiario.net,iltascabile.com,imasters.com.br,indypendent.org,infoq.com,insidehighered.com,inthesetimes.com,investopedia.com,israeltoday.co.il,itechpost.com,jewishjournal.com,jfrog.com,jornaldebrasilia.com.br,jornaldenegocios.pt,jornaldocomercio.com,juvenews.eu,key4biz.it,kipparilehti.fi,kleinezeitung.at,klimahaus.it,kpfa.org,lanazione.it,lanutrition.fr,laopinion.com,laprensafl.com,laraza.com,lavoz.com.ar,legab.it,leidschdagblad.nl,lescienze.it,life.com,linkiesta.it,lintellettualedissidente.it,livability.com,longislandpress.com,lvh.it,maplin.co.uk,maritimejobs.com,massivesci.com,mcsweeneys.net,mediagol.it,meteolive.it,metro-magazine.com,michiganchronicle.com,micura.it,mlb.com,mmajunkie.usatoday.com,mondoudinese.it,moodiedavittreport.com,motorionline.com,muscleandfitness.com,muslimnews.co.uk,mymodernmet.com,nationalgeographic.com.es,nationalgeographic.pt,nationalinterest.org,newbeauty.com,newpittsburghcourier.com,newrepublic.com,news18.com,nieuwrechts.nl,nofilmschool.com,noordhollandsdagblad.nl,nooun.net,noticiasrcn.com,numericalcio.it,offresasaisir.fr,oilcity.news,omelete.com.br,out.com,ozbargain.com.au,padovasport.tv,participaties.nl,passioneinter.com,phillymag.com,phonandroid.com,pianetagenoa1893.net,pianetamilan.it,pitchfork.com,pomade.com,portalinsights.com.br,pride.com,profil.at,prospectmagazine.co.uk,psfk.com,quickanddirtytips.com,quotidiano.net,rainbowplantlife.com,recombu.com,record.pt,redsharknews.com,responsiblestatecraft.org,revealnews.org,reynardsec.com,rivistacontrasti.it,rollingstone.com,sabado.pt,salon.com,sangbadpratidin.in,sapo.pt,sassuolocalcionews.it,saucemagazine.com,sayrodigital.net,schoolbusfleet.com,screencrush.com,secoloditalia.it,serieously.com,servus.com,sfitalianheritage.org,shacknews.com,sheknows.com,silicon.co.uk,silicon.de,silicon.es,slashfilm.com,sourcingjournal.com,speedcafe.com,sportavellino.it,sportico.com,spy.com,startpage.com,startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion,statescoop.com,superfly.fm,surfer.com,swz.it,syria.tv,taste.com.au,tasteofhome.com,tasty.co,tech.trivago.com,tenniscircus.com,testcontainers.com,the-decoder.com,the-decoder.de,the-star.co.ke,theblaze.com,thedp.com,thedrinknation.com,thefulcrum.us,theitaliantimes.it,themeshreport.com,thenevadaindependent.com,theodysseyonline.com,thepointsguy.com,thetruthaboutcars.com,thrillercafe.it,tiempoar.com.ar,time.com,timeslive.co.za,timesofisrael.com,topdocumentaryfilms.com,toronews.net,torresette.news,toutelanutrition.com,transworld.net,travelweekly.com,trendy.letudiant.fr,truthdig.com,tuasaude.com,turkiyetoday.com,tuttobolognaweb.it,tvquran.com,twitchy.com,ukraine-nachrichten.de,undercurrentnews.com,unsolved.com,usatoday.com,usopen.org,utoronto.ca,valori.it,variety.com,verdesmares.com.br,verportugal.net,vibe.com,videogamer.com,violanews.com,voetbalnieuws.be,voxeurop.eu,vtvgujarati.com,wccftech.com,web3wire.news,welivesecurity.com,wielernieuws.be,wikihow.com,wizworkwear.com,workscoop.com,worktruckonline.com,wwd.com,ziarulevenimentul.ro##.newsletter
+✅ 多域名拆分: 01net.it,2gb.com,4investors.de,aawsat.com,addictivetips.com,administradores.com.br,adventures.com,advisoronline.it,advocate.com,aeroporto.net,agenziacasaclima.it,airliners.de,airqualitynews.com,aiscoop.com,alattefood.com,aldianews.com,alexander-wallasch.de,algemeiner.com,allclassical.org,antlionaudio.com,apracticalwedding.com,arab24.com,arsenalinsider.com,artnews.com,asteriskmag.com,astrooroscopo.it,atlantadailyworld.com,atlatszo.hu,autocasion.com,autoguide.com,automotive-fleet.com,baguete.com.br,basketinside.com,bestlifeonline.com,billboard.com,bintmusic.it,biometricupdate.com,bit.pt,bitmag.com.br,boardgameprices.co.uk,boerse-express.com,bolzano-bozen.it,bostonglobe.com,bostonmagazine.com,brindisisera.it,brooklynbased.com,buoyant.io,businessfleet.com,businessinsider.com,capx.co,carolinajournal.com,carpicalcionews.it,ccmagazine.es,cdt.ch,cheapies.nz,chicagodefender.com,chiesadimilano.it,cittaceleste.it,clevelandclinic.org,clubic.com,cmjornal.pt,cnn.com,collinsdictionary.com,comicsands.com,commondreams.org,condominioweb.com,corsedimoto.com,crn.com,cronista.com,crypto.news,cuisineetvinsdefrance.com,culture.pl,cyberscoop.com,dazeddigital.com,defensescoop.com,delamar.de,denofgeek.com,diepresse.com,digiday.com,dissipatio.it,dn.pt,dojacat.com,doktersvandewereld.org,dreambigtravelfarblog.com,dri.es,edscoop.com,electricfencing.co.uk,electronicsweekly.com,elmostrador.cl,enstarz.com,epicurious.com,estadao.com.br,estrelando.com.br,etonline.com,euractiv.com,euractiv.de,eventfinda.co.nz,evz.ro,familyhandyman.com,fandom.com,fantamagazine.com,fashionotes.com,fcinter1908.it,fdr.com.br,fedscoop.com,fliegermagazin.de,fmc.hu,focusardegna.com,forbesafrica.com,forzaroma.info,futura-sciences.com,gault-millau.nl,gaultmillau.be,gaultmillau.lu,giornaledibrescia.it,gizchina.com,gogedizioni.it,golssip.it,goodbye.be,goodnet.org,goodrx.com,gooieneemlander.nl,government-fleet.com,greatbritishchefs.com,greenbot.com,haarlemsdagblad.nl,hacks.mozilla.org,handdoekentoiletpapier.nl,hannity.com,hausgeraete-test.de,hcb.net,hdwallpapers.in,heimwerker-test.de,hifitest.de,historic-uk.com,hits973.com,hngn.com,hodinkee.com,hollywoodreporter.com,horse-canada.com,hottopics.ht,huffpost.com,i24news.tv,icij.org,ilgiorno.it,ilmilanista.it,ilposticipo.it,ilrestodelcarlino.it,ilsecoloxix.it,ilsussidiario.net,iltascabile.com,imasters.com.br,indypendent.org,infoq.com,insidehighered.com,inthesetimes.com,investopedia.com,israeltoday.co.il,itechpost.com,jewishjournal.com,jfrog.com,jornaldebrasilia.com.br,jornaldenegocios.pt,jornaldocomercio.com,juvenews.eu,key4biz.it,kipparilehti.fi,kleinezeitung.at,klimahaus.it,kpfa.org,lanazione.it,lanutrition.fr,laopinion.com,laprensafl.com,laraza.com,lavoz.com.ar,legab.it,leidschdagblad.nl,lescienze.it,life.com,linkiesta.it,lintellettualedissidente.it,livability.com,longislandpress.com,lvh.it,maplin.co.uk,maritimejobs.com,massivesci.com,mcsweeneys.net,mediagol.it,meteolive.it,metro-magazine.com,michiganchronicle.com,micura.it,mlb.com,mmajunkie.usatoday.com,mondoudinese.it,moodiedavittreport.com,motorionline.com,muscleandfitness.com,muslimnews.co.uk,mymodernmet.com,nationalgeographic.com.es,nationalgeographic.pt,nationalinterest.org,newbeauty.com,newpittsburghcourier.com,newrepublic.com,news18.com,nieuwrechts.nl,nofilmschool.com,noordhollandsdagblad.nl,nooun.net,noticiasrcn.com,numericalcio.it,offresasaisir.fr,oilcity.news,omelete.com.br,out.com,ozbargain.com.au,padovasport.tv,participaties.nl,passioneinter.com,phillymag.com,phonandroid.com,pianetagenoa1893.net,pianetamilan.it,pitchfork.com,pomade.com,portalinsights.com.br,pride.com,profil.at,prospectmagazine.co.uk,psfk.com,quickanddirtytips.com,quotidiano.net,rainbowplantlife.com,recombu.com,record.pt,redsharknews.com,responsiblestatecraft.org,revealnews.org,reynardsec.com,rivistacontrasti.it,rollingstone.com,sabado.pt,salon.com,sangbadpratidin.in,sapo.pt,sassuolocalcionews.it,saucemagazine.com,sayrodigital.net,schoolbusfleet.com,screencrush.com,secoloditalia.it,serieously.com,servus.com,sfitalianheritage.org,shacknews.com,sheknows.com,silicon.co.uk,silicon.de,silicon.es,slashfilm.com,sourcingjournal.com,speedcafe.com,sportavellino.it,sportico.com,spy.com,stackify.com,startpage.com,startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion,statescoop.com,superfly.fm,surfer.com,swz.it,syria.tv,taste.com.au,tasteofhome.com,tasty.co,tech.trivago.com,tenniscircus.com,testcontainers.com,the-decoder.com,the-decoder.de,the-star.co.ke,theblaze.com,thedp.com,thedrinknation.com,thefulcrum.us,theitaliantimes.it,themeshreport.com,thenevadaindependent.com,theodysseyonline.com,thepointsguy.com,thetruthaboutcars.com,thrillercafe.it,tiempoar.com.ar,time.com,timeslive.co.za,timesofisrael.com,topdocumentaryfilms.com,toronews.net,torresette.news,toutelanutrition.com,transworld.net,travelweekly.com,trendy.letudiant.fr,truthdig.com,tuasaude.com,turkiyetoday.com,tuttobolognaweb.it,tvquran.com,twitchy.com,ukraine-nachrichten.de,undercurrentnews.com,unsolved.com,usatoday.com,usopen.org,utoronto.ca,valori.it,variety.com,verdesmares.com.br,verportugal.net,vibe.com,videogamer.com,violanews.com,voetbalnieuws.be,voxeurop.eu,vtvgujarati.com,wccftech.com,web3wire.news,welivesecurity.com,wielernieuws.be,wikihow.com,wizworkwear.com,workscoop.com,worktruckonline.com,wwd.com,ziarulevenimentul.ro##.newsletter
     → |01net.it##.newsletter
     → |2gb.com##.newsletter
     → |4investors.de##.newsletter
@@ -222986,6 +222989,7 @@
     → |sportavellino.it##.newsletter
     → |sportico.com##.newsletter
     → |spy.com##.newsletter
+    → |stackify.com##.newsletter
     → |startpage.com##.newsletter
     → |startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion##.newsletter
     → |statescoop.com##.newsletter
@@ -227235,9 +227239,9 @@
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: !---------------------------------Allowlists----------------------------------!
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: Zgp85jTTiO8tbmQg4/htjQ
+🚫 去掉注释行: ! Checksum: sMF4KL+Uk8fRGpo2O7RoEg
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Last modified: 2026-09-03 18:00 UTC
+🚫 去掉注释行: ! Last modified: 2026-09-04 08:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
@@ -244298,9 +244302,10 @@
 ✅ 多域名拆分: dictionary.cambridge.org,lovable.dev##[aria-label="Cookie banner"]
     → |dictionary.cambridge.org##[aria-label="Cookie banner"]
     → |lovable.dev##[aria-label="Cookie banner"]
-✅ 多域名拆分: affiliates.kayak.com,europeantechmap.eu,kychub.com,milkeneducatorawards.org,readcomicsonline.lol##[aria-label="Cookie consent"]
+✅ 多域名拆分: affiliates.kayak.com,europeantechmap.eu,gamedev.net,kychub.com,milkeneducatorawards.org,readcomicsonline.lol##[aria-label="Cookie consent"]
     → |affiliates.kayak.com##[aria-label="Cookie consent"]
     → |europeantechmap.eu##[aria-label="Cookie consent"]
+    → |gamedev.net##[aria-label="Cookie consent"]
     → |kychub.com##[aria-label="Cookie consent"]
     → |milkeneducatorawards.org##[aria-label="Cookie consent"]
     → |readcomicsonline.lol##[aria-label="Cookie consent"]
@@ -244423,7 +244428,8 @@
 ✅ 多域名拆分: hype4.academy,opensource.fb.com##div[class^="cookieBanner_"]
     → |hype4.academy##div[class^="cookieBanner_"]
     → |opensource.fb.com##div[class^="cookieBanner_"]
-✅ 多域名拆分: thexh.live,valuexh.life,xhaccess.com,xham.live,xhamster.best,xhamster.com,xhamster.desi,xhamster1.desi,xhamster19.com,xhamster2.com,xhamster3.com,xhamster44.desi,xhamsterlive.com,xhbig.com,xhbranch5.com,xhchannel.com,xhcopy.life,xhdate.world,xhexperience.xyz,xhfuck.com,xhofficial.com,xhopen.com,xhprograms.site,xhsocial.com,xhspot.com,xhtotal.com,xhvid1.com,xhwebsite5.com,xhwide2.com##div[class^="cookiesAnnounce-"]
+✅ 多域名拆分: goxh.today,thexh.live,valuexh.life,xhaccess.com,xham.live,xhamster.best,xhamster.com,xhamster.desi,xhamster1.desi,xhamster19.com,xhamster2.com,xhamster3.com,xhamster44.desi,xhamsterlive.com,xhbig.com,xhbranch5.com,xhchannel.com,xhcopy.life,xhdate.world,xhexperience.xyz,xhfuck.com,xhofficial.com,xhopen.com,xhprograms.site,xhsocial.com,xhspot.com,xhtotal.com,xhvid1.com,xhwebsite5.com,xhwide2.com##div[class^="cookiesAnnounce-"]
+    → |goxh.today##div[class^="cookiesAnnounce-"]
     → |thexh.live##div[class^="cookiesAnnounce-"]
     → |valuexh.life##div[class^="cookiesAnnounce-"]
     → |xhaccess.com##div[class^="cookiesAnnounce-"]
@@ -250247,7 +250253,7 @@
     → |toc-goldratt.eu###policy-ribbon
     → |tocreader.com###policy-ribbon
 🚫 去掉注释行: !! onetrust
-✅ 多域名拆分: aboutyou.de,accor.com,adobe.com,adshnk.com,afd.fr,aljazeera.com,allianz.pt,amtrak.com,apnews.com,arkadium.com,askubuntu.com,autoscout24.ch,avon.uk.com,azcentral.com,bankofhope.com,bluebuffalo.com,booking.com,breitbart.com,brides.com,bruckhaus.at,bt.com,calendly.com,cbs.com,cbssports.com,cleanipedia.com,cnn.com,coinmarketcap.com,comicbook.com,consequence.net,costco.ca,cp.com,cvs.com,darkreading.com,dhl.com,digitaltrends.com,discoveryuk.com,disneyplus.com,doodle.com,eetimes.com,espn.com.sg,ew.com,fifa.com,ford.com,fpf.org,generali.sk,generaliceska.cz,getyourguide.com,gitlab.com,hbomax.com,help.salesforce.com,hm.com,huawei.com,hypebeast.cn,iamexpat.de,ikea.com,ilike-it.ro,indeed.com,informa.com,inkling.com,intl.startrek.com,konami.com,krunker.io,logitech.com,logitechg.com,marketingweek.com,mathoverflow.net,mention.com,metacritic.com,millenniumhotels.com,moccona.sg,motoscout24.ch,msn.com,nba.com,nfl.com,nhl.com,npr.org,okazii.ro,paloaltonetworks.com,panasonic.com,paramountplus.com,people.com,politico.com,popculture.com,prioritypass.com,private-ai.com,professionals.tarkett.com,redbull.com,serverfault.com,skopenow.com,slack.com,slate.com,software.cisco.com,sony.com,sony.pl,soundcloud.com,sparknotes.com,spotify.com,stackexchange.com,stackoverflow.com,stories.com,subway.com,superuser.com,synchrony.com,teliacompany.com,thecloroxcompany.com,theverge.com,ticketmaster.com,tidal.com,time.com,tonybet.ca,unicef.de,unity.com,validity.com,vanityfair.com,vishay.com,vonage.com.ph,weddingbee.com,wetter.at,whoop.com,wired.com,zdnet.com###onetrust-consent-sdk
+✅ 多域名拆分: aboutyou.de,accor.com,adobe.com,adshnk.com,afd.fr,aljazeera.com,allianz.pt,amtrak.com,apnews.com,arkadium.com,askubuntu.com,autoscout24.ch,avon.uk.com,azcentral.com,bankofhope.com,bluebuffalo.com,booking.com,breitbart.com,brides.com,bruckhaus.at,bt.com,calendly.com,cbs.com,cbssports.com,cleanipedia.com,cnn.com,coinmarketcap.com,comicbook.com,consequence.net,costco.ca,cp.com,cvs.com,darkreading.com,dhl.com,digitaltrends.com,discoveryuk.com,disneyplus.com,doodle.com,eetimes.com,espn.com.sg,ew.com,fifa.com,ford.com,fpf.org,generali.sk,generaliceska.cz,getyourguide.com,gitlab.com,hbomax.com,help.salesforce.com,hm.com,huawei.com,hypebeast.cn,iamexpat.de,ikea.com,ilike-it.ro,indeed.com,informa.com,inkling.com,intl.startrek.com,konami.com,krunker.io,logitech.com,logitechg.com,marketingweek.com,mathoverflow.net,mention.com,metacritic.com,millenniumhotels.com,moccona.sg,motoscout24.ch,msn.com,nba.com,nfl.com,nhl.com,npr.org,okazii.ro,paloaltonetworks.com,panasonic.com,paramountplus.com,people.com,politico.com,popculture.com,prioritypass.com,private-ai.com,professionals.tarkett.com,redbull.com,serverfault.com,skopenow.com,slack.com,slate.com,software.cisco.com,sony.com,sony.pl,soundcloud.com,sparknotes.com,spotify.com,stackexchange.com,stackoverflow.com,stories.com,subway.com,superuser.com,synchrony.com,teliacompany.com,thecloroxcompany.com,theverge.com,ticketmaster.com,tidal.com,time.com,tokfm.pl,tonybet.ca,unicef.de,unity.com,validity.com,vanityfair.com,vishay.com,vonage.com.ph,weddingbee.com,wetter.at,whoop.com,wired.com,zdnet.com###onetrust-consent-sdk
     → |aboutyou.de###onetrust-consent-sdk
     → |accor.com###onetrust-consent-sdk
     → |adobe.com###onetrust-consent-sdk
@@ -250357,6 +250363,7 @@
     → |ticketmaster.com###onetrust-consent-sdk
     → |tidal.com###onetrust-consent-sdk
     → |time.com###onetrust-consent-sdk
+    → |tokfm.pl###onetrust-consent-sdk
     → |tonybet.ca###onetrust-consent-sdk
     → |unicef.de###onetrust-consent-sdk
     → |unity.com###onetrust-consent-sdk
@@ -255859,6 +255866,9 @@
 ✅ 多域名拆分: chums.jp,tohoentertainmentonline.com##.block-cookie-consent
     → |chums.jp##.block-cookie-consent
     → |tohoentertainmentonline.com##.block-cookie-consent
+✅ 多域名拆分: animatebookstore.com,pokedora.com##.ccst_area
+    → |animatebookstore.com##.ccst_area
+    → |pokedora.com##.ccst_area
 🚫 去掉注释行: !
 🚫 去掉注释行: ! ---------- Korean ----------
 🚫 去掉注释行: !
@@ -257720,8 +257730,8 @@
 🚫 去掉注释行: #
 🚫 去掉注释行: # For more information about this list, see: https://pgl.yoyo.org/adservers/
 🚫 去掉注释行: # ----
-🚫 去掉注释行: # last updated:   Thu, 03 Sep 2026 10:11:09 GMT
-🚫 去掉注释行: # entries:        3545
+🚫 去掉注释行: # last updated:   Fri, 04 Sep 2026 09:58:01 GMT
+🚫 去掉注释行: # entries:        3540
 🚫 去掉注释行: # format:         hosts (hosts -- in hosts file format)
 🚫 去掉注释行: # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 🚫 去掉注释行: # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
@@ -258255,7 +258265,6 @@
 ✅ HOSTS 转换: 127.0.0.1 ads.reward-hunt.com → |ads.reward-hunt.com^
 ✅ HOSTS 转换: 127.0.0.1 ads.samsung.com → |ads.samsung.com^
 ✅ HOSTS 转换: 127.0.0.1 ads.saymedia.com → |ads.saymedia.com^
-✅ HOSTS 转换: 127.0.0.1 ads.schmoozecom.net → |ads.schmoozecom.net^
 ✅ HOSTS 转换: 127.0.0.1 ads.scifi.com → |ads.scifi.com^
 ✅ HOSTS 转换: 127.0.0.1 ads.seniorfriendfinder.com → |ads.seniorfriendfinder.com^
 ✅ HOSTS 转换: 127.0.0.1 ads.servebom.com → |ads.servebom.com^
@@ -258354,6 +258363,7 @@
 ✅ HOSTS 转换: 127.0.0.1 adsdk.yandex.ru → |adsdk.yandex.ru^
 ✅ HOSTS 转换: 127.0.0.1 adsend.de → |adsend.de^
 ✅ HOSTS 转换: 127.0.0.1 adsensecustomsearchads.com → |adsensecustomsearchads.com^
+✅ HOSTS 转换: 127.0.0.1 adserv.snigelweb.com → |adserv.snigelweb.com^
 ✅ HOSTS 转换: 127.0.0.1 adserve.ams.rhythmxchange.com → |adserve.ams.rhythmxchange.com^
 ✅ HOSTS 转换: 127.0.0.1 adserve.gkeurope.de → |adserve.gkeurope.de^
 ✅ HOSTS 转换: 127.0.0.1 adserve.io → |adserve.io^
@@ -258383,7 +258393,6 @@
 ✅ HOSTS 转换: 127.0.0.1 adserver.industryarena.com → |adserver.industryarena.com^
 ✅ HOSTS 转换: 127.0.0.1 adserver.info7.mx → |adserver.info7.mx^
 ✅ HOSTS 转换: 127.0.0.1 adserver.irishwebmasterforum.com → |adserver.irishwebmasterforum.com^
-✅ HOSTS 转换: 127.0.0.1 adserver.janes.com → |adserver.janes.com^
 ✅ HOSTS 转换: 127.0.0.1 adserver.kontent.com → |adserver.kontent.com^
 ✅ HOSTS 转换: 127.0.0.1 adserver.mobi → |adserver.mobi^
 ✅ HOSTS 转换: 127.0.0.1 adserver.news.com.au → |adserver.news.com.au^
@@ -258480,7 +258489,6 @@
 ✅ HOSTS 转换: 127.0.0.1 adtrk1.com → |adtrk1.com^
 ✅ HOSTS 转换: 127.0.0.1 adultadvertising.com → |adultadvertising.com^
 ✅ HOSTS 转换: 127.0.0.1 adv-adserver.com → |adv-adserver.com^
-✅ HOSTS 转换: 127.0.0.1 adv.donejty.pl → |adv.donejty.pl^
 ✅ HOSTS 转换: 127.0.0.1 adv.freeonline.it → |adv.freeonline.it^
 ✅ HOSTS 转换: 127.0.0.1 adv.hwupgrade.it → |adv.hwupgrade.it^
 ✅ HOSTS 转换: 127.0.0.1 adv.mpvc.it → |adv.mpvc.it^
@@ -259006,7 +259014,6 @@
 ✅ HOSTS 转换: 127.0.0.1 clickedyclick.com → |clickedyclick.com^
 ✅ HOSTS 转换: 127.0.0.1 clickfuse.com → |clickfuse.com^
 ✅ HOSTS 转换: 127.0.0.1 clickhereforcellphones.com → |clickhereforcellphones.com^
-✅ HOSTS 转换: 127.0.0.1 clickngo.pro → |clickngo.pro^
 ✅ HOSTS 转换: 127.0.0.1 clickngo.top → |clickngo.top^
 ✅ HOSTS 转换: 127.0.0.1 clickonometrics.pl → |clickonometrics.pl^
 ✅ HOSTS 转换: 127.0.0.1 clickrtrckr.com → |clickrtrckr.com^
@@ -259332,7 +259339,6 @@
 ✅ HOSTS 转换: 127.0.0.1 everestads.net → |everestads.net^
 ✅ HOSTS 转换: 127.0.0.1 everesttech.net → |everesttech.net^
 ✅ HOSTS 转换: 127.0.0.1 evergage.com → |evergage.com^
-✅ HOSTS 转换: 127.0.0.1 eversales.space → |eversales.space^
 ✅ HOSTS 转换: 127.0.0.1 evs.sgmt.loom.com → |evs.sgmt.loom.com^
 ✅ HOSTS 转换: 127.0.0.1 evyy.net → |evyy.net^
 ✅ HOSTS 转换: 127.0.0.1 exampleshake.com → |exampleshake.com^
@@ -259390,7 +259396,6 @@
 ✅ HOSTS 转换: 127.0.0.1 figurehunter.net → |figurehunter.net^
 ✅ HOSTS 转换: 127.0.0.1 fillthemap.com → |fillthemap.com^
 ✅ HOSTS 转换: 127.0.0.1 fimserve.com → |fimserve.com^
-✅ HOSTS 转换: 127.0.0.1 findcommerce.com → |findcommerce.com^
 ✅ HOSTS 转换: 127.0.0.1 findyourcasino.com → |findyourcasino.com^
 ✅ HOSTS 转换: 127.0.0.1 fireads.online → |fireads.online^
 ✅ HOSTS 转换: 127.0.0.1 fireads.org → |fireads.org^
@@ -259548,7 +259553,6 @@
 ✅ HOSTS 转换: 127.0.0.1 heap.com → |heap.com^
 ✅ HOSTS 转换: 127.0.0.1 hellobar.com → |hellobar.com^
 ✅ HOSTS 转换: 127.0.0.1 helpcollar.com → |helpcollar.com^
-✅ HOSTS 转换: 127.0.0.1 hentaicounter.com → |hentaicounter.com^
 ✅ HOSTS 转换: 127.0.0.1 herbalaffiliateprogram.com → |herbalaffiliateprogram.com^
 ✅ HOSTS 转换: 127.0.0.1 hexcan.com → |hexcan.com^
 ✅ HOSTS 转换: 127.0.0.1 hexusads.fluent.ltd.uk → |hexusads.fluent.ltd.uk^
@@ -259797,6 +259801,7 @@
 ✅ HOSTS 转换: 127.0.0.1 lightstep.medium.systems → |lightstep.medium.systems^
 ✅ HOSTS 转换: 127.0.0.1 lijit.com → |lijit.com^
 ✅ HOSTS 转换: 127.0.0.1 limecodesign.com → |limecodesign.com^
+✅ HOSTS 转换: 127.0.0.1 link-booster.de → |link-booster.de^
 ✅ HOSTS 转换: 127.0.0.1 link.axios.com → |link.axios.com^
 ✅ HOSTS 转换: 127.0.0.1 link.beelivery.com → |link.beelivery.com^
 ✅ HOSTS 转换: 127.0.0.1 link.email.davidlloydclubs.co.uk → |link.email.davidlloydclubs.co.uk^
@@ -260248,7 +260253,6 @@
 ✅ HOSTS 转换: 127.0.0.1 pippio.com → |pippio.com^
 ✅ HOSTS 转换: 127.0.0.1 piquantpigs.com → |piquantpigs.com^
 ✅ HOSTS 转换: 127.0.0.1 pix.spot.im → |pix.spot.im^
-✅ HOSTS 转换: 127.0.0.1 pixel.keywee.co → |pixel.keywee.co^
 ✅ HOSTS 转换: 127.0.0.1 pixel.sojern.com → |pixel.sojern.com^
 ✅ HOSTS 转换: 127.0.0.1 pixel.watch → |pixel.watch^
 ✅ HOSTS 转换: 127.0.0.1 pixel.yabidos.com → |pixel.yabidos.com^
@@ -260525,6 +260529,7 @@
 ✅ HOSTS 转换: 127.0.0.1 ruralrobin.com → |ruralrobin.com^
 ✅ HOSTS 转换: 127.0.0.1 s.adroll.com → |s.adroll.com^
 ✅ HOSTS 转换: 127.0.0.1 s.dmmew.com → |s.dmmew.com^
+✅ HOSTS 转换: 127.0.0.1 s.uuidksinc.net → |s.uuidksinc.net^
 ✅ HOSTS 转换: 127.0.0.1 s20dh7e9dh.com → |s20dh7e9dh.com^
 ✅ HOSTS 转换: 127.0.0.1 s2d6.com → |s2d6.com^
 ✅ HOSTS 转换: 127.0.0.1 sabio.us → |sabio.us^

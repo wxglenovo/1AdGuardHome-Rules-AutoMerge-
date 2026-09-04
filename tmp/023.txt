@@ -6199,6 +6199,7 @@ newrepublic.com##.footer__middleRow
 pastebin.com##.footer__right
 www.opera.com##.footer__social-icons
 infoq.com##.footer__social-wrap
+adguard.com##.footer__socials
 indiatoday.in##.footer__socialshare
 madamasr.com##.footer_icons_container
 shbarcelona.com##.footer_network
@@ -7847,9 +7848,11 @@ lataco.com##ul[class^="SocialSharing_"]
 |son.co.za##.article--top-bar-right:has(.social-sharing)
 foxnews.com##.article-meta-lower:has(.article-social)
 pubs.rsc.org##.fixpadb--xl.c--gap-xs.c:has(.btn--social)
+macys.com##.footer-section:has(> [aria-label="Social Media List"])
 arrow.apache.org##.nav-item:has(> [href="https://bsky.app/profile/arrow.apache.org"])
 arrow.apache.org##.nav-item:has(> [href="https://www.linkedin.com/company/apache-arrow/"])
 microsoft.com##.section-master:has(.socialfollow)
+stackify.com##.widget:has(> .social-links)
 ms.now##.wp-block-group p:has(Share this)
 rule34.xxx##li:has(> [href="https://x.com/slayerduckie"])
 diamondv.jp##main[id] > div.MuiBox-root:has(> ul > li > button.react-share__ShareButton)
@@ -14127,6 +14130,7 @@ jobisjob.co.uk###adevinta_consents_cookies_universal_widget
 vapostore.com###adns_cookies_container
 javlibrary.com###adultwarningmask
 aecom.com###aecomCookieNotificationBar
+playvids.com###ag-cookiebar
 aprtoapy.com###agppp
 spbtv.online###agreeC
 basecamelectronics.com###agreement-alert
@@ -17879,6 +17883,7 @@ pretense.ai##[aria-label="Cookie and privacy notice"]
 |lovable.dev##[aria-label="Cookie banner"]
 |affiliates.kayak.com##[aria-label="Cookie consent"]
 |europeantechmap.eu##[aria-label="Cookie consent"]
+|gamedev.net##[aria-label="Cookie consent"]
 |kychub.com##[aria-label="Cookie consent"]
 |milkeneducatorawards.org##[aria-label="Cookie consent"]
 |readcomicsonline.lol##[aria-label="Cookie consent"]
@@ -17912,6 +17917,7 @@ weedmaps.com##[class*="styles__BannerContainer-"]
 anthropic.com##[class^="ConsentBanner_"]
 donnabskitchen.com##[class^="CookieBanner_positionContainer"]
 sunmi.com##[class^="CookieCard_cookie-card"]
+kupujemprodajem.com##[class^="CookieConsent-module"]
 getunleash.io##[class^="CookieControl"]
 artist.mnetplus.world##[class^="CookieCustomBottomSheet"]
 marineserre.com##[class^="CookiePopin_"]
@@ -18134,6 +18140,7 @@ ifdesign.com##div[class^="cookieBanner-module"]
 |opensource.fb.com##div[class^="cookieBanner_"]
 qwen.ai##div[class^="cookieConfirm"]
 promotions.betfred.com##div[class^="cookie_"]
+|goxh.today##div[class^="cookiesAnnounce-"]
 |thexh.live##div[class^="cookiesAnnounce-"]
 |valuexh.life##div[class^="cookiesAnnounce-"]
 |xhaccess.com##div[class^="cookiesAnnounce-"]
@@ -23571,6 +23578,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |ticketmaster.com###onetrust-consent-sdk
 |tidal.com###onetrust-consent-sdk
 |time.com###onetrust-consent-sdk
+|tokfm.pl###onetrust-consent-sdk
 |tonybet.ca###onetrust-consent-sdk
 |unicef.de###onetrust-consent-sdk
 |unity.com###onetrust-consent-sdk
@@ -41262,7 +41270,8 @@ knb.ne.jp##.atention_cookie
 nhk.or.jp##.bottom_optout_announce
 moresco.co.jp##.box_cookie_allow
 xtech.nikkei.com##.bpPrivacy
-animatebookstore.com##.ccst_area
+|animatebookstore.com##.ccst_area
+|pokedora.com##.ccst_area
 ebarafoods.com##.consent_c
 get-cp.jp##.cookie-agreement
 takarashuzo.co.jp##.cookie-confirm
@@ -41728,6 +41737,7 @@ rejestracja.makro.pl##.layout-mask
 onholidays.pl##.layout_cookiesRule__2QouX
 kuehlschrank.com##.legalAdvice
 albeco.com.pl##.m-cookies
+kunasystem.pl##.m-cookies-modal
 kinomoc.com##.message-alert
 nasz-gabinet.pl##.message-window
 pepper.pl##.messages
@@ -48635,6 +48645,7 @@ cafemom.com##.subscribe-enter-done
 punchline-gloucester.com##.subscribe-footer-container
 euroweeklynews.com##.subscribe-for-news
 memri.org##.subscribe-for-updates
+|abhyrama.com##.subscribe-form
 |allthings.how##.subscribe-form
 |armageddonexpo.com##.subscribe-form
 |businesstech.co.za##.subscribe-form
@@ -49620,6 +49631,7 @@ orizzontescuola.it##.nl-block
 |ultimominuto.news##.suscribe
 |altreconomia.it###newsletter-form
 |coxautoinc.com###newsletter-form
+|destructoid.com###newsletter-form
 |dezeen.com###newsletter-form
 |discogs.com###newsletter-form
 |sbs.com.au###newsletter-form
@@ -50336,6 +50348,7 @@ idealista.pt##.newsletter-subscription-form
 |sportavellino.it##.newsletter
 |sportico.com##.newsletter
 |spy.com##.newsletter
+|stackify.com##.newsletter
 |startpage.com##.newsletter
 |startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion##.newsletter
 |statescoop.com##.newsletter
@@ -55091,6 +55104,7 @@ gemini.google.com##.cdk-overlay-container:has(.get-app-mobile-dialog)
 m.iyf.tv##.container:has(> div.download-title)
 analyticsindiamag.com##.elementor-section-content-middle[data-settings="{\"background_background\":\"classic\"}"]:has(a[href^="https://play.google.com/store/apps"])
 mixch.tv##.modal.show:has(.move-app-title)
+axios.com##.mt-6:has(> [href="https://www.axios.com/newsletters"])
 sp.nicovideo.jp##div[style="height: 56px;"]:has(> a[href^="https://nicovideo.applink.nicovideo.jp/?link"])
 anglers.jp##nav.navbar-expand-sm:has(> a[href^="https://anglers.go.link?deep_link="][style="width: 100%;"])
 channel.rakuten.co.jp##rch-app > div[class]:has(> a[rel][href^="https://rchannel.onelink.me/"])
@@ -55186,6 +55200,7 @@ x.com#?#.r-13qz1uu.r-1xcajam:has-text(See more on)
 ||pushchev.info^$third-party
 ||pushcrew.com^$third-party
 ||pushdealer.com^$third-party
+||pushdeploy.estrema.it^
 ||pushe.co^$third-party
 ||pusherapp.com^$third-party
 ||pushinpage.com^$third-party
