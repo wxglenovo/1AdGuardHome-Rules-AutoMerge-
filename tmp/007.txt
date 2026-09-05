@@ -2716,6 +2716,7 @@ assafirarabi.com##.social-media-link
 inc42.com##.social-media-recommendations
 ojornalextra.com.br##.social-media-share-wrapper
 science.psu.edu##.social-media-sharing
+razer.ai##.social-media-sidebar
 trumparea.com##.social-media-top
 northpennnow.com##.social-media-vertical
 mg.co.za##.social-meks
@@ -3379,6 +3380,7 @@ arrow.apache.org##.nav-item:has(> [href="https://www.linkedin.com/company/apache
 microsoft.com##.section-master:has(.socialfollow)
 stackify.com##.widget:has(> .social-links)
 ms.now##.wp-block-group p:has(Share this)
+bloomberg.com##div:has(> [class*="PreferUs_preferUsTextButton__"])
 rule34.xxx##li:has(> [href="https://x.com/slayerduckie"])
 diamondv.jp##main[id] > div.MuiBox-root:has(> ul > li > button.react-share__ShareButton)
 abc.net.au#?#.Button_root__UZ8td:has-text(Share)
@@ -6099,6 +6101,7 @@ hindustantimes.com##.ln
 |wour.com##.social-links
 |wpdh.com##.social-links
 |wpst.com##.social-links
+|wral.com##.social-links
 |wrkr.com##.social-links
 |wrrv.com##.social-links
 |wsbs.com##.social-links
