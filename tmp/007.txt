@@ -1814,6 +1814,7 @@ news18.com##.gglebtn
 |wionews.com##.gh-post-page__share
 gardinerbryant.com##.gh-share-container
 ghacks.net##.ghacks_share_widget
+usps.com##.global-footer--social
 avaaz.org##.global-footer-connect
 cars.com##.global-footer-social-buttons
 montgomerycollege.edu##.globalFooter__socialMedia
@@ -2119,6 +2120,7 @@ manofmany.com##.mom-entry-meta-buttons
 |news.cn##.more-con
 |xinhuanet.com##.more-con
 pbs.org##.more-from-pbs__social
+mozilla.org##.moz24-footer-socials
 maxpreps.com##.mp-share-widget
 yardbarker.com##.msnfc
 isdown.app##.mt-6.flex.items-center.gap-5
@@ -2432,6 +2434,7 @@ middleeastmonitor.com##.share-link-btn
 |uniladtech.com##.share-link_container__q9th7
 |euronews.rs##.share-media
 |thenewstack.io##.share-media
+imageonline.co##.share-modern
 |fintech.tv##.share-news
 |war.ukraine.ua##.share-news
 thehackernews.com##.share-open-modal
@@ -3257,6 +3260,7 @@ cyprus-mail.com##[class^="_googleNewsContainer_"]
 indiewire.com##[class^="_socialMedia_"]
 techcommunity.microsoft.com##[class^="custom_widget_MicrosoftFooter_social-share_"]
 techcommunity.microsoft.com##[class^="custom_widget_SocialSharing_sharePage_"]
+xhamster.com##[class^="socials-"] > a
 motortrend.com##[data-c="social-share"]
 news.sky.com##[data-component-name="sdc-article-strapline"]
 theguardian.com##[data-component="preferred-source-button-prefer"]
@@ -3271,6 +3275,7 @@ reuters.com##[data-testid="SharingSymbols"]
 sundayworld.com##[data-testid="article-share"]
 stuff.co.nz##[data-testid="body-cta"]
 pcgamer.com##[data-testid="buttons-social"]
+forbes.com##[data-testid="googleCTA"]
 nytimes.com##[data-testid="social-group"]
 codecademy.com##[data-testid="social-share-dropdown"]
 lseg.com##[data-title="Connect with us"]
@@ -4298,6 +4303,7 @@ miruro.*##section[class^="_noticeSection_"]
 |foreca.fi###share
 |hqbabes.com###share
 |hqsluts.com###share
+|imageonline.co###share
 |katholisch.de###share
 |keepone.net###share
 |libsyn.com###share
@@ -5833,6 +5839,7 @@ hindustantimes.com##.ln
 |espnquadcities.com##.social-links
 |espnsiouxfalls.com##.social-links
 |espnwesterncolorado.com##.social-links
+|finance.yahoo.com##.social-links
 |finanzfluss.de##.social-links
 |fortune.com##.social-links
 |foxsports1510.com##.social-links
@@ -6452,6 +6459,7 @@ rtl.fr##.shared-logo
 boursedirect.fr##.slide-share
 gameblog.fr##.social-button:not(.comment-button):not(.heart-button)
 nawaat.org##.social-list-single
+gupy.fr##.social-listing
 agroligne.com##.social-media-inner
 phonandroid.com##.social-networks
 francetvinfo.fr##.social-zone__wrapper
