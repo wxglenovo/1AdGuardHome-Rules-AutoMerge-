@@ -5580,6 +5580,7 @@ miricanvas.com##div[data-f^="CookiePopupContainer"]
 stripe.com##div[data-js-id="CookieSettingsNotification"]
 |cam4.com##div[data-name="CookieConsent"]
 |cam4.eu##div[data-name="CookieConsent"]
+age.yoti.com##div[data-qa="cookie-banner"]
 amazon.jobs##div[data-react-class="CookieBannerVersioned"]
 docs.portainer.io##div[data-rnwr700-1moh23t-e1k2in-tceitz="true"]
 tstheerastourfilm.com##div[data-section="cookies"]
@@ -18317,7 +18318,6 @@ omelete.com.br###lgpd-wrapper
 efacil.com.br###lgpdCookie
 infoescola.com###lgpd_banner
 sistemasca.com###lgpd_upd
-midianews.com.br###lgpdbanner
 bndes.gov.br###lgpddiv
 |fapcom.edu.br###loader-overlay
 |paulinos.org.br###loader-overlay
@@ -18484,8 +18484,6 @@ girolando.com.br##.lgpd-aceite
 |maieutics.ai##.lgpd-cookies
 |triunfodobrasil.com##.lgpd-cookies
 sexlog.com##.lgpd-tooltip
-|consorciocanopus.com.br##.lgpdbanner
-|gazetafmcuiaba.com.br##.lgpdbanner
 apexbrasil.com.br##.lgpdoptin
 revigres.pt##.llSNvP
 obramax.com.br##.lojaobramax-store-components-0-x-cookies-disclaimer
@@ -20122,6 +20120,7 @@ highlights.legaseriea.it#@##cl-consent
 |beerballer.com##cmplz-cookiebanner-container
 |medianordest.it##cmplz-cookiebanner-container
 |muoversiatorino.it##cmplz-cookiebanner-container
+|opendoors.fi##cmplz-cookiebanner-container
 |sii.pl#@##cmplz-cookiebanner-container
 swedbank.se#@##component-cookie-banner
 youtube.com#@##consent-bump
