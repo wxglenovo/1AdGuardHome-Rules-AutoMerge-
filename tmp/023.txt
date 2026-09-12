@@ -14044,7 +14044,7 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 ||teamsimmer.com/wp-content/uploads/klaro/klaro.js
 ||technomedia.com/*/cookies.js$script,~third-party
 ||terencehill.com/modules/hicookielaw/
-||transcend-cdn.com^$domain=1password.com|aibusiness.com|anaconda.com|apollo.io|aviationweek.com|chubbiesshorts.com|classy.org|conan.io|costco.ca|costco.com|costcobusinesscentre.ca|costcobusinessdelivery.com|darkreading.com|digicert.com|etsy.com|eyeconic.com|fanexpohq.com|fashionnova.com|fightingillini.com|forhers.com|gamechoiceawards.com|gamedeveloper.com|gdconf.com|gdcvault.com|gofundme.com|habitburger.com|igf.com|igt.com|indiegogo.com|informa.com|informaconnect.com|jfrog.com|kfc.com|kickstarter.com|later.com|lifetouch.com|mayoclinic.org|mountaineast.org|mutigers.com|ncaa.org|nelnet.studentaid.gov|netapp.com|notion.com|nrn.com|patreon.com|saucelabs.com|shutterfly.com|tacobell.co.uk|tandfonline.com|taylorfrancis.com|theaisummit.com|theordinary.com|vimeo.com|visible.com|vsp.com|vspdirect.com
+||transcend-cdn.com^$domain=1password.com|aibusiness.com|airtable.com|anaconda.com|apollo.io|aviationweek.com|chubbiesshorts.com|classy.org|conan.io|costco.ca|costco.com|costcobusinesscentre.ca|costcobusinessdelivery.com|darkreading.com|digicert.com|etsy.com|eyeconic.com|fanexpohq.com|fashionnova.com|fightingillini.com|forhers.com|gamechoiceawards.com|gamedeveloper.com|gdconf.com|gdcvault.com|gofundme.com|habitburger.com|igf.com|igt.com|indiegogo.com|informa.com|informaconnect.com|jfrog.com|kfc.com|kickstarter.com|later.com|lifetouch.com|mayoclinic.org|mountaineast.org|mutigers.com|ncaa.org|nelnet.studentaid.gov|netapp.com|notion.com|nrn.com|patreon.com|saucelabs.com|shutterfly.com|tacobell.co.uk|tandfonline.com|taylorfrancis.com|theaisummit.com|theordinary.com|vimeo.com|visible.com|vsp.com|vspdirect.com
 ||transcendcdn.eventbrite.com^
 ||tvpworld.com/files/portale-v4/polityka-prywatnosci/js/tvp-tcfapi.js
 ||umich.edu/apis/umcookieconsent/
@@ -23153,6 +23153,7 @@ handandstone.com##.modal-cookie-policy
 |oxfam.org###sliding-popup
 |parkinsons.org.uk###sliding-popup
 |prinspetfoods.com###sliding-popup
+|rbkc.gov.uk###sliding-popup
 |renner-fliesenzubehoer.at###sliding-popup
 |rmg.co.uk###sliding-popup
 |santander.es###sliding-popup
@@ -30367,7 +30368,9 @@ longines.com##+js(set-cookie, longines-cookiesstatus-necessary, true)
 longines.com##+js(set-cookie, longines-cookiesstatus-social, false)
 enac.es##+js(set-cookie, lopd_medicion, 2)
 la31devalladolid.com##+js(set-cookie, lr_cookies_tecnicas, accepted)
-libraries.merton.gov.uk##+js(set-cookie, luci_CookieConsent, true)
+libraries.kingston.gov.uk##+js(set-cookie, luci_CC_21d2ab3d-5676-4eb9-aec5-7703f1e15058, true)
+libraries.merton.gov.uk##+js(set-cookie, luci_CC_95973f7b-6dbc-4dac-a916-ab2cf3b4af11, true)
+libraries.kingston.gov.uk##+js(set-cookie, luci_gaConsent_21d2ab3d-5676-4eb9-aec5-7703f1e15058, false)
 libraries.merton.gov.uk##+js(set-cookie, luci_gaConsent_95973f7b-6dbc-4dac-a916-ab2cf3b4af11, false)
 kafijasdraugs.lv##+js(set-cookie, lvFunctionalCookies, true)
 |grizly.cz##+js(set-cookie, mCs-chk, 1)
@@ -48673,6 +48676,7 @@ unherd.com##.subs-modal
 holyrood.com##.subs-popup
 live-adexchanger.pantheonsite.io##.subsciption
 |advocate.com##.subscribe
+|artisancanvas.com##.subscribe
 |businessairnews.com##.subscribe
 |thesuburbansoapbox.com##.subscribe
 3dprint.com##.subscribe--sidebar
