@@ -18574,6 +18574,7 @@ wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotifi
 |icmarkets.eu##.cookie-popup
 |kinoflex.ru##.cookie-popup
 |lovereading4kids.co.uk##.cookie-popup
+|lunda.ru##.cookie-popup
 |mediathek.lfv-bayern.de##.cookie-popup
 |metro-cc.ru##.cookie-popup
 |mindbox.ru##.cookie-popup
@@ -30063,7 +30064,8 @@ plastischechirurgie-muenchen.info##+js(set-cookie, ff_cookie_notice, 1)
 |scholarship-exchange.open.ac.uk##+js(set-cookie, figshareCookiesAccepted, true)
 |yabelana.ukzn.ac.za##+js(set-cookie, figshareCookiesAccepted, true)
 |zivahub.uct.ac.za##+js(set-cookie, figshareCookiesAccepted, true)
-freemans.com##+js(set-cookie, firstPartyDataPrefSet, true)
+|freemans.com##+js(set-cookie, firstPartyDataPrefSet, true)
+|kaleidoscope.co.uk##+js(set-cookie, firstPartyDataPrefSet, true)
 foxtrail.fjallraven.com##+js(set-cookie, fjallravenCookie, 1)
 myaccount.puffininsurance.com##+js(set-cookie, fm-consent, 1)
 gmr-foto.at##+js(set-cookie, fmalertcookies, true)
