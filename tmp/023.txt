@@ -6201,7 +6201,8 @@ bolavip.com##.footer__footer-top__social-links
 newrepublic.com##.footer__middleRow
 pastebin.com##.footer__right
 www.opera.com##.footer__social-icons
-infoq.com##.footer__social-wrap
+|edubirdie.com##.footer__social-wrap
+|infoq.com##.footer__social-wrap
 adguard.com##.footer__socials
 indiatoday.in##.footer__socialshare
 madamasr.com##.footer_icons_container
@@ -6283,6 +6284,7 @@ goodreturns.in##.gd-newsletter-subscribe-sharelinks
 |railway-technology.com##.gdm-article-share
 |verdict.co.uk##.gdm-article-share
 otakuusamagazine.com##.geekmag-share-buttons
+gematsu.com##.gematsu-footer__social
 news18.com##.gglebtn
 |felixbarbalet.com##.gh-button-share
 |freshfromcache.com##.gh-button-share
@@ -7697,6 +7699,7 @@ vice.com##.wp-block-jetpack-sharing-buttons-wrapper
 |publichealthpolicyjournal.com##.wp-block-outermost-social-sharing
 |theonion.com##.wp-block-outermost-social-sharing
 newsreleases.sandia.gov##.wp-block-snl-blocks-snl-social-share-btns
+techcrunch.com##.wp-block-tc23-author-card-social
 techcrunch.com##.wp-block-techcrunch-social-share
 securityweek.com##.wp-social-link
 washingtonpost.com##.wpds-c-SnBxc
@@ -7869,6 +7872,7 @@ lataco.com##ul[class^="SocialSharing_"]
 |news24.com##.article--top-bar-right:has(.social-sharing)
 |son.co.za##.article--top-bar-right:has(.social-sharing)
 foxnews.com##.article-meta-lower:has(.article-social)
+wordcounter.net##.col-md-2:has(.twitter)
 pubs.rsc.org##.fixpadb--xl.c--gap-xs.c:has(.btn--social)
 macys.com##.footer-section:has(> [aria-label="Social Media List"])
 neowin.net##.footer-top-col:has(> .footer-social)
@@ -8365,6 +8369,7 @@ miruro.*##section[class^="_noticeSection_"]
 |derbyderbyderby.it##.social
 |dererker.it##.social
 |derglaube.online##.social
+|destructoid.com##.social
 |dhakacourier.com.bd##.social
 |diariodelweb.it##.social
 |diarioepoca.com##.social
@@ -15285,6 +15290,7 @@ iflicks.in###welcome
 taiwanplus.com###welcomeMsg
 weverse.io###wevConsentManager
 weverse.io###wevConsentManagerLayer
+winton.com###winton-cookie-consent
 |johnfrederick.co.uk###wp-notification
 |pestdefence.co.uk###wp-notification
 funnyordie.com###wpautoterms-bottom-fixed-container
