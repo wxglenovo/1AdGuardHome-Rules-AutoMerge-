@@ -1151,6 +1151,7 @@ techcommunity.microsoft.com##.ui-widget
 |thebolditalic.com##.ui-widget-overlay
 |underarmour.com##.ui-widget-overlay
 |warrior.com##.ui-widget-overlay
+callmyphone.org##.up
 |imagetwistcams.com##.view-cam-watching-limit
 |strip.chat##.view-cam-watching-limit
 |stripchat.com##.view-cam-watching-limit
@@ -7871,6 +7872,7 @@ foxnews.com##.article-meta-lower:has(.article-social)
 pubs.rsc.org##.fixpadb--xl.c--gap-xs.c:has(.btn--social)
 macys.com##.footer-section:has(> [aria-label="Social Media List"])
 neowin.net##.footer-top-col:has(> .footer-social)
+anthropic.com##.footer_bottom_list:has([href="https://x.com/AnthropicAI"])
 arrow.apache.org##.nav-item:has(> [href="https://bsky.app/profile/arrow.apache.org"])
 arrow.apache.org##.nav-item:has(> [href="https://www.linkedin.com/company/apache-arrow/"])
 microsoft.com##.section-master:has(.socialfollow)
@@ -29482,8 +29484,10 @@ sneltoner.nl##+js(set-cookie, cookieType, 255, , , reload, 1)
 tobroco-giant.com##+js(set-cookie, cookieWall, 1)
 tobroco-giant.com##+js(set-cookie, cookieWallOptIn, 0)
 correosaduanas.es##+js(set-cookie, cookie_ADT_tecnica, true)
-hachettebookgroup.com##+js(set-cookie, cookie__newsletter_popup, seen)
-hachettebookgroup.com##+js(set-cookie, cookie__privacy_policy, 1)
+|dacapopress.com##+js(set-cookie, cookie__newsletter_popup, 1)
+|hachettebookgroup.com##+js(set-cookie, cookie__newsletter_popup, 1)
+|dacapopress.com##+js(set-cookie, cookie__privacy_policy, 1)
+|hachettebookgroup.com##+js(set-cookie, cookie__privacy_policy, 1)
 |brasiltec.ind.br##+js(set-cookie, cookie_accept, 1)
 |valuexh.life##+js(set-cookie, cookie_accept, 1)
 |xhaccess.com##+js(set-cookie, cookie_accept, 1)
