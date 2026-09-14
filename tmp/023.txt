@@ -15318,6 +15318,7 @@ spiceworks.com###zdprivacy-content-new
 |coworker.ai##.--framer-cookie-banner-container
 |daytona.io##.--framer-cookie-banner-container
 |enhanced.com##.--framer-cookie-banner-container
+|etfbook.com##.--framer-cookie-banner-container
 |fitanalytics.com##.--framer-cookie-banner-container
 |framer.com##.--framer-cookie-banner-container
 |gitbook.com##.--framer-cookie-banner-container
@@ -16640,6 +16641,7 @@ cashbackeasy.com##.fixed.bottom-0:has([href="/article/Cashback-Easy-Cookie-Polic
 |bdtickets.com##.fixed.bottom-0:has([href="/privacy-policy"])
 |intl.chronoswiss.com##.fixed.bottom-0:has([href="/privacy-policy"])
 |wecoach.gg##.fixed.bottom-0:has([href="/privacy-policy"])
+help.openai.com##.fixed.bottom-0:has(a[href="https://openai.com/policies/cookie-policy"])
 tomtom.com##.fixed.bottom-24
 thelatinonewsletter.org##.fixed.left-2
 newsbreak.com##.fixed:has([aria-label="Close cookie banner"])
@@ -18263,7 +18265,9 @@ metadefender.com##div[data-testid="banner"]:has(a[href="https://www.opswat.com/l
 |brilliant.org##div[data-testid="cookie-banner"]
 |elsevier.com##div[data-testid="cookie-banner"]
 |regain.us##div[data-testid="cookie-banner"]
-expo.dev##div[data-testid="cookie-banner-root"]
+ssense.com##div[data-testid="cookie-banner-overlay"]
+|expo.dev##div[data-testid="cookie-banner-root"]
+|ssense.com##div[data-testid="cookie-banner-root"]
 link.com##div[data-testid="cookie-consent-cookie-consent-notification"]
 developers.eyeo.com##div[data-testid="cookies-dialog"]
 deepl.com##div[data-testid="dl-cookieBanner"]
@@ -31588,6 +31592,7 @@ rig-flip.com##+js(set-local-storage-item, cookie_consent, declined)
 |go.bkk.hu##+js(set-local-storage-item, cookie_consent, false)
 |happiful.com##+js(set-local-storage-item, cookie_consent, false)
 |moondao.com##+js(set-local-storage-item, cookie_consent, false)
+|tailed.ca##+js(set-local-storage-item, cookie_consent, false)
 |worldlibertyfinancial.com##+js(set-local-storage-item, cookie_consent, false)
 |search.odin.io##+js(set-local-storage-item, cookie_consent, granted)
 |ukrinform.ua##+js(set-local-storage-item, cookie_consent, granted)
