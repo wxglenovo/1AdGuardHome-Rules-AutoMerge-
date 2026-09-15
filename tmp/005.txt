@@ -52234,6 +52234,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||stats.tunt.lv^
 ||tanks.lv/top/stats.php
 ||15min.lt/cached/tgif$~third-party
+||api.lrt.lt/pagd/sirens
 ||g.delfi.lt/g.js
 ||lrytas.lt/counter/
 ||event-tracking.hellohealthgroup.com^
