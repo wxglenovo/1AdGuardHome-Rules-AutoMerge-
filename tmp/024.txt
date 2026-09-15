@@ -5296,6 +5296,7 @@ perlego.com##[aria-label="cookie banner"]
 app.joinknack.com##[aria-label="cookie consent banner"]
 mangooutlet.com##[aria-labelledby="cbanner-title"]
 |app.wooclap.com##[aria-labelledby="cookie-banner-title"]
+|eyesift.com##[aria-labelledby="cookie-banner-title"]
 |iranintl.com##[aria-labelledby="cookie-banner-title"]
 |stopkillinggames.com##[aria-labelledby="cookie-banner-title"]
 footium.club##[aria-labelledby="cookieConsentHeading"]
@@ -5910,6 +5911,7 @@ wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotifi
 |visitseoul.net###cookiePopup
 |analyticsmania.com##.cookie-popup
 |athenaeumscheltema.nl##.cookie-popup
+|bestnetleiloes.com##.cookie-popup
 |biz.chosun.com##.cookie-popup
 |campfimfo.com##.cookie-popup
 |championat.ru##.cookie-popup
@@ -5944,8 +5946,12 @@ wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotifi
 |trt.net.tr##.cookie-popup
 |uwa.edu.au##.cookie-popup
 |veoh.com##.cookie-popup
-|zamnesia.combestnetleiloes.com##.cookie-popup
+|zamnesia.com##.cookie-popup
 |zamnesia.de##.cookie-popup
+|zamnesia.es##.cookie-popup
+|zamnesia.fr##.cookie-popup
+|zamnesia.io##.cookie-popup
+|zamnesia.nl##.cookie-popup
 |ac-mejerimaskiner.dk###cookieNotice
 |amazingfoodmadeeasy.com###cookieNotice
 |bradyunited.org###cookieNotice
@@ -18666,6 +18672,7 @@ solgarvitamin.ru###consent-modal
 gorodperm.ru###cookb
 gazprombank.ru###cookie-accept
 cardiovascular.elpub.ru###cookie-banner-wrapper
+pochta.ru###cookie-consent-pochta
 pobeda.tv###cookie-embed
 ria-m.tv###cookie-msg
 openspeedtest.ru###cookieConsentParams

@@ -17958,6 +17958,7 @@ perlego.com##[aria-label="cookie banner"]
 app.joinknack.com##[aria-label="cookie consent banner"]
 mangooutlet.com##[aria-labelledby="cbanner-title"]
 |app.wooclap.com##[aria-labelledby="cookie-banner-title"]
+|eyesift.com##[aria-labelledby="cookie-banner-title"]
 |iranintl.com##[aria-labelledby="cookie-banner-title"]
 |stopkillinggames.com##[aria-labelledby="cookie-banner-title"]
 footium.club##[aria-labelledby="cookieConsentHeading"]
@@ -18572,6 +18573,7 @@ wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotifi
 |visitseoul.net###cookiePopup
 |analyticsmania.com##.cookie-popup
 |athenaeumscheltema.nl##.cookie-popup
+|bestnetleiloes.com##.cookie-popup
 |biz.chosun.com##.cookie-popup
 |campfimfo.com##.cookie-popup
 |championat.ru##.cookie-popup
@@ -18606,8 +18608,12 @@ wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotifi
 |trt.net.tr##.cookie-popup
 |uwa.edu.au##.cookie-popup
 |veoh.com##.cookie-popup
-|zamnesia.combestnetleiloes.com##.cookie-popup
+|zamnesia.com##.cookie-popup
 |zamnesia.de##.cookie-popup
+|zamnesia.es##.cookie-popup
+|zamnesia.fr##.cookie-popup
+|zamnesia.io##.cookie-popup
+|zamnesia.nl##.cookie-popup
 |ac-mejerimaskiner.dk###cookieNotice
 |amazingfoodmadeeasy.com###cookieNotice
 |bradyunited.org###cookieNotice
@@ -36799,6 +36805,8 @@ conversion-rate-experts.com##+js(set-cookie, user_experience_cookie_consent, fal
 merkur.si##+js(set-cookie, cookie_analytics_allow, no)
 merkur.si##+js(set-cookie, cookie_notice_dismissed, yes)
 merkur.si##+js(set-cookie, mer_cc_dim_rem_allow, no)
+dodl.co.uk###cookie-modal
+dodl.co.uk##body,html:style(overflow: auto !important; position: initial !important;)
 apmnews.com###coConsent
 apmnews.com##body,html:style(overflow: auto !important; position: initial !important;)
 fussballgucken.info##.klaro
@@ -42313,6 +42321,7 @@ solgarvitamin.ru###consent-modal
 gorodperm.ru###cookb
 gazprombank.ru###cookie-accept
 cardiovascular.elpub.ru###cookie-banner-wrapper
+pochta.ru###cookie-consent-pochta
 pobeda.tv###cookie-embed
 ria-m.tv###cookie-msg
 openspeedtest.ru###cookieConsentParams
@@ -46501,6 +46510,7 @@ almanac.com##.block-listraksubscribe-block
 tastesbetterfromscratch.com##.block-meal-plan
 jocooks.com##.block-media-feature-image
 ncronline.org##.block-ncr-api-emailmarketing
+|asianbankingandfinance.net##.block-newsletter
 |averiecooks.com##.block-newsletter
 |carbonbrief.org##.block-newsletter
 |chocolatecoveredkatie.com##.block-newsletter
@@ -47110,6 +47120,7 @@ mybroadband.co.za##.feed-newsletter
 fender.com##.fender-EmailSignup
 outandaboutwithkids.com.au##.ff-63da3514de520bd60dc34604
 freshfromcache.com##.ffc-inline-cta
+iranmilitary.info##.fhn-newsletter
 twitchquotes.com##.financetldr-top-bar
 twitchquotes.com##.financetldr-top-bar-card
 |datamation.com##.fit-omv2-modal
