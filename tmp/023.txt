@@ -1175,7 +1175,8 @@ portableapps.com##[alt="RSS"]
 |xhamster.com##[class*="cam-wgt"]
 |xhamster.desi##[class*="cam-wgt"]
 docs.google.com##div[aria-label*="Get more from Google Workspace"]
-mail.google.com##div[data-is-inner-content-recommendation]
+|drive.google.com##div[data-is-inner-content-recommendation]
+|mail.google.com##div[data-is-inner-content-recommendation]
 |twitter.com##div[data-testid="profileAnalyticsUpsell"]
 |x.com##div[data-testid="profileAnalyticsUpsell"]
 |twitter.com##div[data-testid="verified_profile_upsell"]
@@ -6160,6 +6161,7 @@ dot.la##.foot_bar
 dot.la##.foot_social
 moviemaker.com##.footer-bg
 leisurewheels.co.za##.footer-column-3
+gagadget.com##.footer-content__ext
 |lineageos.org##.footer-icons
 |morbidology.com##.footer-icons
 |topuniversities.com##.footer-icons
@@ -8707,6 +8709,7 @@ miruro.*##section[class^="_noticeSection_"]
 |stardock.com##.social
 |startpage.com##.social
 |startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion##.social
+|steamhype.com##.social
 |sucuri.net##.social
 |sudouest.fr##.social
 |supermacs.ie##.social
@@ -10551,6 +10554,7 @@ hindustantimes.com##.ln
 |squatchrocks.com##.social-links
 |star939.com##.social-links
 |star981.com##.social-links
+|steamhype.com##.social-links
 |supertalk1270.com##.social-links
 |talk1067.com##.social-links
 |talk1470.com##.social-links
@@ -11866,6 +11870,7 @@ grozny.tv##.soc_list
 tvrus.eu##.telegram-banner
 avtoradio.ru##.vk
 avtoradio.ru##.yt
+||sputnik.by/files/tgparser/
 sputnikportal.rs###cta
 glassrpske.com###d-block
 sputnikportal.rs##.article__messengers
@@ -18736,6 +18741,7 @@ sogeti.*###popup-cookieConsent
 |reelrapture.com###cookie-notification
 |retailtrends.nl###cookie-notification
 |southwire.com###cookie-notification
+|sysadminsage.com###cookie-notification
 |tourradar.com###cookie-notification
 |verkkokauppa.mikrokulma.fi###cookie-notification
 |xcom-shop.ru###cookie-notification
@@ -25412,6 +25418,7 @@ newsbreak.com##.py-2.px-2
 |imou.com##.cookie-container
 |kilohintalaskuri.fi##.cookie-container
 |licon.com##.cookie-container
+|lpa.gov.rs##.cookie-container
 |mbelik.com##.cookie-container
 |mbrus-bank.ru##.cookie-container
 |moe-belgorod.ru##.cookie-container
