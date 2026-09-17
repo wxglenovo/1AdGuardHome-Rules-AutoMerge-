@@ -4737,6 +4737,7 @@ vtechkids.com##.popup_privacy
 cnn.com##.popup_tosEdition
 ramsayhealth.co.uk##.popupbox
 thesslstore.com##.popuphome
+everypolitician.org##.position-fixed.bottom-0:has(a[href="https://www.opensanctions.org/docs/privacy/"])
 getitlocaltoday.com##.position-fixed.w-100.z-index-modal
 nationaljeweler.com##.pp
 |md5hashing.net##.pp-footer
@@ -5449,6 +5450,7 @@ my.worldmobile.io##div.fixed:has([href="https://worldmobile.io/en/cookies"])
 |meshnet.nordvpn.com##div.r-1xcajam.css-175oi2r
 |support.saleae.com##div.r-1xcajam.css-175oi2r
 |wiki.valhelsia.net##div.r-1xcajam.css-175oi2r
+simpleswap.io##div:has(> div > div > a[href="/privacy-policy"])
 betmgm.co.uk##div:has(> div > div[bol-component="cookie-consent"])
 realityjunkies.com##div:has(> p > a[href$="/legal/privacy"])
 jingdaily.com##div[aria-label="Cookie consent banner"]
