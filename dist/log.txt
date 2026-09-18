@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-09-18T08:19:45.039Z
+🚫 去掉注释行: ! Last modified: 2026-09-18T14:14:39.454Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -1612,10 +1612,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 93831
-🚫 去掉注释行: ! Checksum: nypJlgFrD3MJIBJ4RRuy0A
-🚫 去掉注释行: ! Version: 202609180942
+🚫 去掉注释行: ! Checksum: 0HahWA7Jq/Os0yEIHZ62yA
+🚫 去掉注释行: ! Version: 202609181422
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 18 Sep 2026 09:42 UTC
+🚫 去掉注释行: ! Last modified: 18 Sep 2026 14:22 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -25331,10 +25331,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: 7JHbFleawrGIhPaKIMXhvw
-🚫 去掉注释行: ! Version: 202609180942
+🚫 去掉注释行: ! Checksum: sYCBR/NYsw+wfO1CL+4iyg
+🚫 去掉注释行: ! Version: 202609181422
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 18 Sep 2026 09:42 UTC
+🚫 去掉注释行: ! Last modified: 18 Sep 2026 14:22 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -26227,6 +26227,7 @@
 🚫 去掉注释行: ##.art-layer-ad
 🚫 去掉注释行: ##._v_ad_container
 🚫 去掉注释行: ##.component-advertises
+🚫 去掉注释行: ##.hg-ssp-slot
 🚫 去掉注释行: !----------------------------------Ads-Union----------------------------------!
 🚫 去掉注释行: ##a[href*="/122.51.121.126:"]
 🚫 去掉注释行: ##a[href*="/137.220.194.105:"]
@@ -29890,10 +29891,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: FHepYfBwzzzAhVSxnUeaaw
-🚫 去掉注释行: ! Version: 202609180942
+🚫 去掉注释行: ! Checksum: lIMSKMl3z1/8/7VUOjAa0Q
+🚫 去掉注释行: ! Version: 202609181422
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 18 Sep 2026 09:42 UTC
+🚫 去掉注释行: ! Last modified: 18 Sep 2026 14:22 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -30569,11 +30570,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202609180943
+🚫 去掉注释行: ! Version: 202609181408
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 18 Sep 2026 09:43 UTC
+🚫 去掉注释行: ! Last modified: 18 Sep 2026 14:08 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: c41f79e0ea20914a2a2a630d25b2b6f7560a4e31
+🚫 去掉注释行: ! Commit: 172fcaf7c5c33537072b9e128580d9cf4bef2236
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -54324,11 +54325,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202609180954
+🚫 去掉注释行: ! Version: 202609181425
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 18 Sep 2026 09:54 UTC
+🚫 去掉注释行: ! Last modified: 18 Sep 2026 14:25 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 116c5a1c56a560077b46f3c788030907ffa4c742
+🚫 去掉注释行: ! Commit: e63e575217971973ea79c49e741223293841d64a
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -70714,8 +70715,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !Generated: 2026-09-18 16:19:56
-🚫 去掉注释行: !RuleCount: 814274
+🚫 去掉注释行: !Generated: 2026-09-18 21:01:23
+🚫 去掉注释行: !RuleCount: 814595
 ✅ HOSTS 转换: 127.0.0.1 0following.com → |0following.com^
 ✅ HOSTS 转换: 127.0.0.1 123.ywxww.net → |123.ywxww.net^
 ✅ HOSTS 转换: 127.0.0.1 1717.1000uc.com → |1717.1000uc.com^
@@ -70723,11 +70724,9 @@
 ✅ HOSTS 转换: 127.0.0.1 198348.gl → |198348.gl^
 ✅ HOSTS 转换: 127.0.0.1 22qq-client.com → |22qq-client.com^
 ✅ HOSTS 转换: 127.0.0.1 4eclient.com → |4eclient.com^
-✅ HOSTS 转换: 127.0.0.1 6ak-tehnik.si → |6ak-tehnik.si^
 ✅ HOSTS 转换: 127.0.0.1 abilityindisabilityindia.org → |abilityindisabilityindia.org^
 ✅ HOSTS 转换: 127.0.0.1 acc.jiangsujiaxue.com → |acc.jiangsujiaxue.com^
 ✅ HOSTS 转换: 127.0.0.1 acms.saleseos.com → |acms.saleseos.com^
-✅ HOSTS 转换: 127.0.0.1 acrilicoporto.pt → |acrilicoporto.pt^
 ✅ HOSTS 转换: 127.0.0.1 addurltogoogle.com → |addurltogoogle.com^
 ✅ HOSTS 转换: 127.0.0.1 admin.byte.in.ua → |admin.byte.in.ua^
 ✅ HOSTS 转换: 127.0.0.1 admin.gestroom.it → |admin.gestroom.it^
@@ -70740,8 +70739,6 @@
 ✅ HOSTS 转换: 127.0.0.1 alphapicaficagency.com → |alphapicaficagency.com^
 ✅ HOSTS 转换: 127.0.0.1 alternativas.ru → |alternativas.ru^
 ✅ HOSTS 转换: 127.0.0.1 amaamn.com → |amaamn.com^
-✅ HOSTS 转换: 127.0.0.1 api-relay.cc → |api-relay.cc^
-✅ HOSTS 转换: 127.0.0.1 api.wipmania.net → |api.wipmania.net^
 ✅ HOSTS 转换: 127.0.0.1 app.appzcvb.com → |app.appzcvb.com^
 ✅ HOSTS 转换: 127.0.0.1 areyouready.co.za → |areyouready.co.za^
 ✅ HOSTS 转换: 127.0.0.1 atasapka.com.tr → |atasapka.com.tr^
@@ -70760,6 +70757,7 @@
 ✅ HOSTS 转换: 127.0.0.1 bridgeroad.maverickpreviews.com → |bridgeroad.maverickpreviews.com^
 ✅ HOSTS 转换: 127.0.0.1 brightworks.cz → |brightworks.cz^
 ✅ HOSTS 转换: 127.0.0.1 bserail.com → |bserail.com^
+✅ HOSTS 转换: 127.0.0.1 c2.mc-live.online → |c2.mc-live.online^
 ✅ HOSTS 转换: 127.0.0.1 cambodiatouristservice.com → |cambodiatouristservice.com^
 ✅ HOSTS 转换: 127.0.0.1 casasmediterraneas.com → |casasmediterraneas.com^
 ✅ HOSTS 转换: 127.0.0.1 cat.dashabi.in → |cat.dashabi.in^
@@ -70796,11 +70794,9 @@
 ✅ HOSTS 转换: 127.0.0.1 data.yhydl.com → |data.yhydl.com^
 ✅ HOSTS 转换: 127.0.0.1 dcfpp.com → |dcfpp.com^
 ✅ HOSTS 转换: 127.0.0.1 dcrun.co.uk → |dcrun.co.uk^
-✅ HOSTS 转换: 127.0.0.1 dcwblida.dz → |dcwblida.dz^
 ✅ HOSTS 转换: 127.0.0.1 deagroup-ks.com → |deagroup-ks.com^
 ✅ HOSTS 转换: 127.0.0.1 debugify.net → |debugify.net^
 ✅ HOSTS 转换: 127.0.0.1 delp-heizungsbau.de → |delp-heizungsbau.de^
-✅ HOSTS 转换: 127.0.0.1 dexios.co.za → |dexios.co.za^
 ✅ HOSTS 转换: 127.0.0.1 dezcom.com → |dezcom.com^
 ✅ HOSTS 转换: 127.0.0.1 dinamikakargo.com → |dinamikakargo.com^
 ✅ HOSTS 转换: 127.0.0.1 disk.accord1key.cn → |disk.accord1key.cn^
@@ -70815,6 +70811,7 @@
 ✅ HOSTS 转换: 127.0.0.1 down.54nb.com → |down.54nb.com^
 ✅ HOSTS 转换: 127.0.0.1 down.fwqlt.com → |down.fwqlt.com^
 ✅ HOSTS 转换: 127.0.0.1 down.pcclear.com → |down.pcclear.com^
+✅ HOSTS 转换: 127.0.0.1 down.qqfarmer.com.cn → |down.qqfarmer.com.cn^
 ✅ HOSTS 转换: 127.0.0.1 download.caihong.com → |download.caihong.com^
 ✅ HOSTS 转换: 127.0.0.1 download.doumaibiji.cn → |download.doumaibiji.cn^
 ✅ HOSTS 转换: 127.0.0.1 download.haozip.com → |download.haozip.com^
@@ -70828,13 +70825,11 @@
 ✅ HOSTS 转换: 127.0.0.1 dynga.pl → |dynga.pl^
 ✅ HOSTS 转换: 127.0.0.1 electri.billregulator.com → |electri.billregulator.com^
 ✅ HOSTS 转换: 127.0.0.1 elisans.novayonetim.com → |elisans.novayonetim.com^
-✅ HOSTS 转换: 127.0.0.1 en.taichuan.com → |en.taichuan.com^
 ✅ HOSTS 转换: 127.0.0.1 endpoint.project0.cc → |endpoint.project0.cc^
 ✅ HOSTS 转换: 127.0.0.1 envs.sh → |envs.sh^
 ✅ HOSTS 转换: 127.0.0.1 epanpano.com → |epanpano.com^
 ✅ HOSTS 转换: 127.0.0.1 epibenie.dz → |epibenie.dz^
 ✅ HOSTS 转换: 127.0.0.1 epsinf.com → |epsinf.com^
-✅ HOSTS 转换: 127.0.0.1 explorer.vg → |explorer.vg^
 ✅ HOSTS 转换: 127.0.0.1 fakers.co.jp → |fakers.co.jp^
 ✅ HOSTS 转换: 127.0.0.1 familyaddons.com → |familyaddons.com^
 ✅ HOSTS 转换: 127.0.0.1 farschid.de → |farschid.de^
@@ -70853,28 +70848,14 @@
 ✅ HOSTS 转换: 127.0.0.1 fz.tiansys.cn → |fz.tiansys.cn^
 ✅ HOSTS 转换: 127.0.0.1 galerisenimutiara.com → |galerisenimutiara.com^
 ✅ HOSTS 转换: 127.0.0.1 gamblerigmod.org → |gamblerigmod.org^
+✅ HOSTS 转换: 127.0.0.1 garogradba.mk → |garogradba.mk^
 ✅ HOSTS 转换: 127.0.0.1 gboutros.howto.rocks → |gboutros.howto.rocks^
 ✅ HOSTS 转换: 127.0.0.1 geoxsecurity.ro → |geoxsecurity.ro^
 ✅ HOSTS 转换: 127.0.0.1 gestionycobranzas.com → |gestionycobranzas.com^
 ✅ HOSTS 转换: 127.0.0.1 gestroom.it → |gestroom.it^
-✅ HOSTS 转换: 127.0.0.1 get.acitvated.win → |get.acitvated.win^
-✅ HOSTS 转换: 127.0.0.1 get.acivated.win → |get.acivated.win^
-✅ HOSTS 转换: 127.0.0.1 get.acrivated.win → |get.acrivated.win^
-✅ HOSTS 转换: 127.0.0.1 get.actiated.win → |get.actiated.win^
-✅ HOSTS 转换: 127.0.0.1 get.activatd.win → |get.activatd.win^
-✅ HOSTS 转换: 127.0.0.1 get.activatedd.win → |get.activatedd.win^
-✅ HOSTS 转换: 127.0.0.1 get.activates.win → |get.activates.win^
-✅ HOSTS 转换: 127.0.0.1 get.activtaed.win → |get.activtaed.win^
-✅ HOSTS 转换: 127.0.0.1 get.actrivated.win → |get.actrivated.win^
-✅ HOSTS 转换: 127.0.0.1 get.acttivated.win → |get.acttivated.win^
-✅ HOSTS 转换: 127.0.0.1 get.ativated.win → |get.ativated.win^
-✅ HOSTS 转换: 127.0.0.1 get.cativated.win → |get.cativated.win^
-✅ HOSTS 转换: 127.0.0.1 get.ctivated.win → |get.ctivated.win^
-✅ HOSTS 转换: 127.0.0.1 get.sctivated.win → |get.sctivated.win^
 ✅ HOSTS 转换: 127.0.0.1 ghostclient.net → |ghostclient.net^
 ✅ HOSTS 转换: 127.0.0.1 glbeletronica.com.br → |glbeletronica.com.br^
 ✅ HOSTS 转换: 127.0.0.1 globalbank.us → |globalbank.us^
-✅ HOSTS 转换: 127.0.0.1 gobiotechpestcontrol.com → |gobiotechpestcontrol.com^
 ✅ HOSTS 转换: 127.0.0.1 gonzaskid-1.paiza-user-free.cloud → |gonzaskid-1.paiza-user-free.cloud^
 ✅ HOSTS 转换: 127.0.0.1 gpsmarocpro.com → |gpsmarocpro.com^
 ✅ HOSTS 转换: 127.0.0.1 grupomcperu.com → |grupomcperu.com^
@@ -70896,12 +70877,10 @@
 ✅ HOSTS 转换: 127.0.0.1 invmove.com → |invmove.com^
 ✅ HOSTS 转换: 127.0.0.1 ircftp.net → |ircftp.net^
 ✅ HOSTS 转换: 127.0.0.1 isiore.com.co → |isiore.com.co^
-✅ HOSTS 转换: 127.0.0.1 ita-airwaysva.com → |ita-airwaysva.com^
 ✅ HOSTS 转换: 127.0.0.1 itssprout.com → |itssprout.com^
 ✅ HOSTS 转换: 127.0.0.1 jawaratekno.com → |jawaratekno.com^
 ✅ HOSTS 转换: 127.0.0.1 jenniferloeffler.com → |jenniferloeffler.com^
 ✅ HOSTS 转换: 127.0.0.1 jessespridecharters.com → |jessespridecharters.com^
-✅ HOSTS 转换: 127.0.0.1 jlwz.cn → |jlwz.cn^
 ✅ HOSTS 转换: 127.0.0.1 jswen.com → |jswen.com^
 ✅ HOSTS 转换: 127.0.0.1 kavacanada.ca → |kavacanada.ca^
 ✅ HOSTS 转换: 127.0.0.1 kenwillzltd.com → |kenwillzltd.com^
@@ -70944,6 +70923,7 @@
 ✅ HOSTS 转换: 127.0.0.1 noamaddons.com → |noamaddons.com^
 ✅ HOSTS 转换: 127.0.0.1 noithaticon.vn → |noithaticon.vn^
 ✅ HOSTS 转换: 127.0.0.1 nova-client.com → |nova-client.com^
+✅ HOSTS 转换: 127.0.0.1 nusatoyota.co.id → |nusatoyota.co.id^
 ✅ HOSTS 转换: 127.0.0.1 ny.lshdw.cc → |ny.lshdw.cc^
 ✅ HOSTS 转换: 127.0.0.1 odinclient.com → |odinclient.com^
 ✅ HOSTS 转换: 127.0.0.1 ojang.pe.kr → |ojang.pe.kr^
@@ -70967,6 +70947,7 @@
 ✅ HOSTS 转换: 127.0.0.1 preciosasjoyitas.com.mx → |preciosasjoyitas.com.mx^
 ✅ HOSTS 转换: 127.0.0.1 prestige-client.org → |prestige-client.org^
 ✅ HOSTS 转换: 127.0.0.1 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev → |profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^
+✅ HOSTS 转换: 127.0.0.1 protherapycenter.com → |protherapycenter.com^
 ✅ HOSTS 转换: 127.0.0.1 public.demo.securecloudsandbox.com → |public.demo.securecloudsandbox.com^
 ✅ HOSTS 转换: 127.0.0.1 pvsa.gxfugy.cn → |pvsa.gxfugy.cn^
 ✅ HOSTS 转换: 127.0.0.1 qiniuyunxz.yxflzs.com → |qiniuyunxz.yxflzs.com^
@@ -70981,7 +70962,6 @@
 ✅ HOSTS 转换: 127.0.0.1 reservphotoinstay.one → |reservphotoinstay.one^
 ✅ HOSTS 转换: 127.0.0.1 reservphotoinstaynow.shop → |reservphotoinstaynow.shop^
 ✅ HOSTS 转换: 127.0.0.1 reutilizemais.co.mz → |reutilizemais.co.mz^
-✅ HOSTS 转换: 127.0.0.1 rmm.smartscreen.lifestyle → |rmm.smartscreen.lifestyle^
 ✅ HOSTS 转换: 127.0.0.1 robertrowe.com → |robertrowe.com^
 ✅ HOSTS 转换: 127.0.0.1 roptik.com → |roptik.com^
 ✅ HOSTS 转换: 127.0.0.1 royalindiancurryclub.com → |royalindiancurryclub.com^
@@ -70995,7 +70975,6 @@
 ✅ HOSTS 转换: 127.0.0.1 scoala1gherla.ro → |scoala1gherla.ro^
 ✅ HOSTS 转换: 127.0.0.1 screenconnect.pro → |screenconnect.pro^
 ✅ HOSTS 转换: 127.0.0.1 scrroeder.com → |scrroeder.com^
-✅ HOSTS 转换: 127.0.0.1 sdufkghdfshds.cfd → |sdufkghdfshds.cfd^
 ✅ HOSTS 转换: 127.0.0.1 sec.dashabi.in → |sec.dashabi.in^
 ✅ HOSTS 转换: 127.0.0.1 sec.xiaojiji.nl → |sec.xiaojiji.nl^
 ✅ HOSTS 转换: 127.0.0.1 sec.xiaoshabi.nl → |sec.xiaoshabi.nl^
@@ -71003,6 +70982,7 @@
 ✅ HOSTS 转换: 127.0.0.1 semencepourlavie.org → |semencepourlavie.org^
 ✅ HOSTS 转换: 127.0.0.1 seputartuban.com → |seputartuban.com^
 ✅ HOSTS 转换: 127.0.0.1 sg123.net → |sg123.net^
+✅ HOSTS 转换: 127.0.0.1 shqdown.ggzuhao.com → |shqdown.ggzuhao.com^
 ✅ HOSTS 转换: 127.0.0.1 sigmaclient.net → |sigmaclient.net^
 ✅ HOSTS 转换: 127.0.0.1 signageinsignia.co.za → |signageinsignia.co.za^
 ✅ HOSTS 转换: 127.0.0.1 sirenasultana.com → |sirenasultana.com^
@@ -71028,7 +71008,6 @@
 ✅ HOSTS 转换: 127.0.0.1 tanscarattorneys.co.tz → |tanscarattorneys.co.tz^
 ✅ HOSTS 转换: 127.0.0.1 tapestryoftruth.com → |tapestryoftruth.com^
 ✅ HOSTS 转换: 127.0.0.1 taunahi.st → |taunahi.st^
-✅ HOSTS 转换: 127.0.0.1 techtattva.in → |techtattva.in^
 ✅ HOSTS 转换: 127.0.0.1 tecunonline.com → |tecunonline.com^
 ✅ HOSTS 转换: 127.0.0.1 tehnomag.rs → |tehnomag.rs^
 ✅ HOSTS 转换: 127.0.0.1 tengfeidn.cn → |tengfeidn.cn^
@@ -71044,7 +71023,6 @@
 ✅ HOSTS 转换: 127.0.0.1 toolshare.com.tr → |toolshare.com.tr^
 ✅ HOSTS 转换: 127.0.0.1 top8onlinegame.com → |top8onlinegame.com^
 ✅ HOSTS 转换: 127.0.0.1 topmark-tuitioncentre.co.uk → |topmark-tuitioncentre.co.uk^
-✅ HOSTS 转换: 127.0.0.1 tpp.om-stock.com → |tpp.om-stock.com^
 ✅ HOSTS 转换: 127.0.0.1 tr.zhzy999.net → |tr.zhzy999.net^
 ✅ HOSTS 转换: 127.0.0.1 transparenciacanaa.com.br → |transparenciacanaa.com.br^
 ✅ HOSTS 转换: 127.0.0.1 trtmyanmar.com → |trtmyanmar.com^
@@ -71088,6 +71066,7 @@
 ✅ HOSTS 转换: 127.0.0.1 www.cutting-edge.in → |www.cutting-edge.in^
 ✅ HOSTS 转换: 127.0.0.1 www.drgenov.com → |www.drgenov.com^
 ✅ HOSTS 转换: 127.0.0.1 www.first-security-verden.de → |www.first-security-verden.de^
+✅ HOSTS 转换: 127.0.0.1 www.gestroom.it → |www.gestroom.it^
 ✅ HOSTS 转换: 127.0.0.1 www.hostingcloud.science → |www.hostingcloud.science^
 ✅ HOSTS 转换: 127.0.0.1 www.hqsblog.com → |www.hqsblog.com^
 ✅ HOSTS 转换: 127.0.0.1 www.hseda.com → |www.hseda.com^
@@ -71120,7 +71099,6 @@
 ✅ HOSTS 转换: 127.0.0.1 www.website.mypetapp.co.za → |www.website.mypetapp.co.za^
 ✅ HOSTS 转换: 127.0.0.1 www.xn--on3b15m2lco2u.com → |www.xn--on3b15m2lco2u.com^
 ✅ HOSTS 转换: 127.0.0.1 www.zamilgroups.com → |www.zamilgroups.com^
-✅ HOSTS 转换: 127.0.0.1 www.zhikey.com → |www.zhikey.com^
 ✅ HOSTS 转换: 127.0.0.1 xenon.studio → |xenon.studio^
 ✅ HOSTS 转换: 127.0.0.1 xn--yh4bx88a.com → |xn--yh4bx88a.com^
 ✅ HOSTS 转换: 127.0.0.1 xshop.com.tr → |xshop.com.tr^
@@ -162120,15 +162098,15 @@
 🚫 去掉注释行: ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 🚫 去掉注释行: ! Homepage: https://github.com/217heidai/adblockfilters
 🚫 去掉注释行: ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-🚫 去掉注释行: ! Version: 20260918120544
-🚫 去掉注释行: ! Last modified: 2026/09/18 12:05:44
-🚫 去掉注释行: ! Blocked domains: 5250
+🚫 去掉注释行: ! Version: 20260918205049
+🚫 去掉注释行: ! Last modified: 2026/09/18 20:50:49
+🚫 去掉注释行: ! Blocked domains: 5265
 🚫 去掉注释行: ! unBlocked domains: 16
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: Za6Vd0UaeBz6P5RcSAbvjA
-🚫 去掉注释行: ! Version: 202609180350
+🚫 去掉注释行: ! Checksum: DjQL+7JS6tiFTHAR9gMIlQ
+🚫 去掉注释行: ! Version: 202609181225
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-09-18 03:50 UTC
+🚫 去掉注释行: ! Last modified: 2026-09-18 12:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -259395,10 +259373,10 @@
 🚫 去掉注释行: # For more information about this list, see: https://pgl.yoyo.org/adservers/
 🚫 去掉注释行: # ----
 🚫 去掉注释行: # last updated:   Wed, 16 Sep 2026 05:05:45 GMT
-🚫 去掉注释行: # entries:        3560
+🚫 去掉注释行: # entries:        3546
 🚫 去掉注释行: # format:         hosts (hosts -- in hosts file format)
 🚫 去掉注释行: # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
-🚫 去掉注释行: # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext&_=12
+🚫 去掉注释行: # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext&_=3
 🚫 去掉注释行: # Patreon:        https://patreon.com/blocklist
 🚫 去掉注释行: # other formats:  https://pgl.yoyo.org/adservers/formats.php
 🚫 去掉注释行: # policy:         https://pgl.yoyo.org/adservers/policy.php
@@ -259512,7 +259490,6 @@
 ✅ HOSTS 转换: 127.0.0.1 ad.digitallook.com → |ad.digitallook.com^
 ✅ HOSTS 转换: 127.0.0.1 ad.dnoticias.pt → |ad.dnoticias.pt^
 ✅ HOSTS 转换: 127.0.0.1 ad.domainfactory.de → |ad.domainfactory.de^
-✅ HOSTS 转换: 127.0.0.1 ad.exyws.org → |ad.exyws.org^
 ✅ HOSTS 转换: 127.0.0.1 ad.grafika.cz → |ad.grafika.cz^
 ✅ HOSTS 转换: 127.0.0.1 ad.gt → |ad.gt^
 ✅ HOSTS 转换: 127.0.0.1 ad.hbv.de → |ad.hbv.de^
@@ -259693,7 +259670,6 @@
 ✅ HOSTS 转换: 127.0.0.1 adnet.biz → |adnet.biz^
 ✅ HOSTS 转换: 127.0.0.1 adnet.de → |adnet.de^
 ✅ HOSTS 转换: 127.0.0.1 adnet.ru → |adnet.ru^
-✅ HOSTS 转换: 127.0.0.1 adnetasia.com → |adnetasia.com^
 ✅ HOSTS 转换: 127.0.0.1 adnetwork.net → |adnetwork.net^
 ✅ HOSTS 转换: 127.0.0.1 adnetworkperformance.com → |adnetworkperformance.com^
 ✅ HOSTS 转换: 127.0.0.1 adnews.maddog2000.de → |adnews.maddog2000.de^
@@ -259730,7 +259706,6 @@
 ✅ HOSTS 转换: 127.0.0.1 ads-dev.pinterest.com → |ads-dev.pinterest.com^
 ✅ HOSTS 转换: 127.0.0.1 ads-game-187f4.firebaseapp.com → |ads-game-187f4.firebaseapp.com^
 ✅ HOSTS 转换: 127.0.0.1 ads-img.mozilla.org → |ads-img.mozilla.org^
-✅ HOSTS 转换: 127.0.0.1 ads-portal-cdn.vidaatv.net → |ads-portal-cdn.vidaatv.net^
 ✅ HOSTS 转换: 127.0.0.1 ads-twitter.com → |ads-twitter.com^
 ✅ HOSTS 转换: 127.0.0.1 ads.365.mk → |ads.365.mk^
 ✅ HOSTS 转换: 127.0.0.1 ads.5ci.lt → |ads.5ci.lt^
@@ -259998,7 +259973,6 @@
 ✅ HOSTS 转换: 127.0.0.1 ads2.contentabc.com → |ads2.contentabc.com^
 ✅ HOSTS 转换: 127.0.0.1 ads2.femmefab.nl → |ads2.femmefab.nl^
 ✅ HOSTS 转换: 127.0.0.1 ads2.gamecity.net → |ads2.gamecity.net^
-✅ HOSTS 转换: 127.0.0.1 ads2.hsoub.com → |ads2.hsoub.com^
 ✅ HOSTS 转换: 127.0.0.1 ads2.virtual-nights.com → |ads2.virtual-nights.com^
 ✅ HOSTS 转换: 127.0.0.1 ads2.xnet.cz → |ads2.xnet.cz^
 ✅ HOSTS 转换: 127.0.0.1 ads2004.treiberupdate.de → |ads2004.treiberupdate.de^
@@ -260867,7 +260841,6 @@
 ✅ HOSTS 转换: 127.0.0.1 deloo.de → |deloo.de^
 ✅ HOSTS 转换: 127.0.0.1 demandbase.com → |demandbase.com^
 ✅ HOSTS 转换: 127.0.0.1 demdex.net → |demdex.net^
-✅ HOSTS 转换: 127.0.0.1 deployads.com → |deployads.com^
 ✅ HOSTS 转换: 127.0.0.1 desertgates.com → |desertgates.com^
 ✅ HOSTS 转换: 127.0.0.1 desiredirt.com → |desiredirt.com^
 ✅ HOSTS 转换: 127.0.0.1 detailedgovernment.com → |detailedgovernment.com^
@@ -260913,7 +260886,6 @@
 ✅ HOSTS 转换: 127.0.0.1 dpbolvw.net → |dpbolvw.net^
 ✅ HOSTS 转换: 127.0.0.1 dpu.samsungelectronics.com → |dpu.samsungelectronics.com^
 ✅ HOSTS 转换: 127.0.0.1 dq95d35.com → |dq95d35.com^
-✅ HOSTS 转换: 127.0.0.1 dragonbats.com → |dragonbats.com^
 ✅ HOSTS 转换: 127.0.0.1 drumcash.com → |drumcash.com^
 ✅ HOSTS 转换: 127.0.0.1 dsp.colpirio.com → |dsp.colpirio.com^
 ✅ HOSTS 转换: 127.0.0.1 dsp.io → |dsp.io^
@@ -261111,7 +261083,6 @@
 ✅ HOSTS 转换: 127.0.0.1 freewheel.com → |freewheel.com^
 ✅ HOSTS 转换: 127.0.0.1 freewheel.tv → |freewheel.tv^
 ✅ HOSTS 转换: 127.0.0.1 freezingbuilding.com → |freezingbuilding.com^
-✅ HOSTS 转换: 127.0.0.1 frequentflesh.com → |frequentflesh.com^
 ✅ HOSTS 转换: 127.0.0.1 freshrelevance.com → |freshrelevance.com^
 ✅ HOSTS 转换: 127.0.0.1 fronttoad.com → |fronttoad.com^
 ✅ HOSTS 转换: 127.0.0.1 frtyj.com → |frtyj.com^
@@ -261171,7 +261142,6 @@
 ✅ HOSTS 转换: 127.0.0.1 go.xlirdr.com → |go.xlirdr.com^
 ✅ HOSTS 转换: 127.0.0.1 go2affise.com → |go2affise.com^
 ✅ HOSTS 转换: 127.0.0.1 go2cloud.org → |go2cloud.org^
-✅ HOSTS 转换: 127.0.0.1 godseedband.com → |godseedband.com^
 ✅ HOSTS 转换: 127.0.0.1 goingplatinum.com → |goingplatinum.com^
 ✅ HOSTS 转换: 127.0.0.1 goldstats.com → |goldstats.com^
 ✅ HOSTS 转换: 127.0.0.1 gondolagnome.com → |gondolagnome.com^
@@ -261211,7 +261181,6 @@
 ✅ HOSTS 转换: 127.0.0.1 hamsterspot.com → |hamsterspot.com^
 ✅ HOSTS 转换: 127.0.0.1 handsomehose.com → |handsomehose.com^
 ✅ HOSTS 转换: 127.0.0.1 handyfireman.com → |handyfireman.com^
-✅ HOSTS 转换: 127.0.0.1 handyincrease.com → |handyincrease.com^
 ✅ HOSTS 转换: 127.0.0.1 haplesshydrant.com → |haplesshydrant.com^
 ✅ HOSTS 转换: 127.0.0.1 harrenmedia.com → |harrenmedia.com^
 ✅ HOSTS 转换: 127.0.0.1 harrenmedianetwork.com → |harrenmedianetwork.com^
@@ -261458,7 +261427,6 @@
 ✅ HOSTS 转换: 127.0.0.1 li.hearstmags.com → |li.hearstmags.com^
 ✅ HOSTS 转换: 127.0.0.1 li.livingsocial.com → |li.livingsocial.com^
 ✅ HOSTS 转换: 127.0.0.1 li.mw.drhinternet.net → |li.mw.drhinternet.net^
-✅ HOSTS 转换: 127.0.0.1 li.onetravel.com → |li.onetravel.com^
 ✅ HOSTS 转换: 127.0.0.1 li.patheos.com → |li.patheos.com^
 ✅ HOSTS 转换: 127.0.0.1 li.pmc.com → |li.pmc.com^
 ✅ HOSTS 转换: 127.0.0.1 li.realtor.com → |li.realtor.com^
@@ -262153,7 +262121,6 @@
 ✅ HOSTS 转换: 127.0.0.1 revive.netriota.hu → |revive.netriota.hu^
 ✅ HOSTS 转换: 127.0.0.1 revive.plays.bg → |revive.plays.bg^
 ✅ HOSTS 转换: 127.0.0.1 revprotect.com → |revprotect.com^
-✅ HOSTS 转换: 127.0.0.1 revstats.com → |revstats.com^
 ✅ HOSTS 转换: 127.0.0.1 rexadvert.xyz → |rexadvert.xyz^
 ✅ HOSTS 转换: 127.0.0.1 reyden-x.com → |reyden-x.com^
 ✅ HOSTS 转换: 127.0.0.1 rhombusads.com → |rhombusads.com^
@@ -262211,7 +262178,6 @@
 ✅ HOSTS 转换: 127.0.0.1 s20dh7e9dh.com → |s20dh7e9dh.com^
 ✅ HOSTS 转换: 127.0.0.1 s2d6.com → |s2d6.com^
 ✅ HOSTS 转换: 127.0.0.1 sabio.us → |sabio.us^
-✅ HOSTS 转换: 127.0.0.1 sadloaf.com → |sadloaf.com^
 ✅ HOSTS 转换: 127.0.0.1 safeoffers.pro → |safeoffers.pro^
 ✅ HOSTS 转换: 127.0.0.1 sail-horizon.com → |sail-horizon.com^
 ✅ HOSTS 转换: 127.0.0.1 samplesamba.com → |samplesamba.com^
@@ -262285,7 +262251,6 @@
 ✅ HOSTS 转换: 127.0.0.1 shockinggrass.com → |shockinggrass.com^
 ✅ HOSTS 转换: 127.0.0.1 shoppingads.com → |shoppingads.com^
 ✅ HOSTS 转换: 127.0.0.1 showads.pubmatic.com → |showads.pubmatic.com^
-✅ HOSTS 转换: 127.0.0.1 shredform.com → |shredform.com^
 ✅ HOSTS 转换: 127.0.0.1 shrillspoon.com → |shrillspoon.com^
 ✅ HOSTS 转换: 127.0.0.1 shxtrk.com → |shxtrk.com^
 ✅ HOSTS 转换: 127.0.0.1 sicksmash.com → |sicksmash.com^
@@ -262350,7 +262315,6 @@
 ✅ HOSTS 转换: 127.0.0.1 somniture.stuff.co.nz → |somniture.stuff.co.nz^
 ✅ HOSTS 转换: 127.0.0.1 somoaudience.com → |somoaudience.com^
 ✅ HOSTS 转换: 127.0.0.1 sonobi.com → |sonobi.com^
-✅ HOSTS 转换: 127.0.0.1 sortable.com → |sortable.com^
 ✅ HOSTS 转换: 127.0.0.1 sourcepoint.vice.com → |sourcepoint.vice.com^
 ✅ HOSTS 转换: 127.0.0.1 sovrn.com → |sovrn.com^
 ✅ HOSTS 转换: 127.0.0.1 sp-a-q-f.ib-game.jp → |sp-a-q-f.ib-game.jp^
