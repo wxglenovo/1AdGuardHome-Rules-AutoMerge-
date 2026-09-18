@@ -36724,6 +36724,7 @@ cosmote.gr##+js(set-cookie, cookie_consent_set, 1)
 |documentation.insp.gouv.fr##body,html:style(overflow: auto !important; position: initial !important;)
 |e-mediatheque.sqy.fr##body,html:style(overflow: auto !important; position: initial !important;)
 |portaildocumentaire.inrs.fr##body,html:style(overflow: auto !important; position: initial !important;)
+snippet.finance##+js(set, realCookieBanner, {})
 journal.hr##+js(set-cookie, jour_analytics, false)
 journal.hr##+js(set-cookie, jour_cookies, 1)
 journal.hr##+js(set-cookie, jour_functional, true)
@@ -45024,6 +45025,7 @@ yoigo.com#@#thor-cookies
 @@||group.vig/assets/js/modules/cookieconsent/cookieconsent.js$~third-party
 @@||gstatic.com/brandstudio/kato/cookie_choice_component/$script,domain=blog.google
 @@||gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.js
+@@||gus.etsmtl.ca/c2atom/Scripts/Atom/Managers/CookiesManager.js$script,~third-party
 @@||hellenicbank.com/portalserver/*/cookies-consent.js$script
 @@||help-center-cdn.oaistatic.com/assets/cookie-consent-banner-$script,domain=help.openai.com
 @@||herzum.com/node_modules/.vite/deps/react-cookie-consent.js$~third-party
@@ -45594,6 +45596,7 @@ torontoguardian.com###custom_html-24
 |torontoguardian.com###custom_html-29
 |codeur.com###custom_html-3
 |palestinechronicle.com###custom_html-3
+|snippet.finance###custom_html-3
 |techguide.com.au###custom_html-3
 newsbtc.com###custom_html-30
 torontoguardian.com###custom_html-4
