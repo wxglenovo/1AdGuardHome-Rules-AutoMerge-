@@ -1697,6 +1697,7 @@ yopmail.com###cons-pop
 agoda.com###consent-banner-container
 |aspose.com###consent-banner-main
 |chessshop.eu###consent-banner-main
+|shop.pulltaps.com###consent-banner-main
 |theonion.com###consent-banner-main
 products.aspose.com###consent-banner-wall
 fitnesssf.com###consent-click-shield
@@ -3927,6 +3928,7 @@ oshwlab.com##.en_cookie-policy__OVMHR
 engagebay.com##.engagebay-gdpr-dialog
 shop.elsevier.com##.enq2el0
 audi.com##.ensPrivacyManager
+crunchyroll.com##.erc-anonymous-consent
 communitymarkethub.com##.et-cookies-popup-wrapper
 ml-quant.com##.ettof6h4
 airproducts.co.uk##.eu-dp
@@ -6277,6 +6279,7 @@ sogeti.*###popup-cookieConsent
 |ganassa.com##.wt-cli-cookie-bar-container
 |kd.fi##.wt-cli-cookie-bar-container
 |lindipendente.online##.wt-cli-cookie-bar-container
+|pulltaps.com##.wt-cli-cookie-bar-container
 |taskus.com##.wt-cli-cookie-bar-container
 |105.net###iubenda-cs-banner
 |all3dp.com###iubenda-cs-banner
@@ -8517,6 +8520,7 @@ dryg.pl##div[class^="CookiesNoti"]
 |maspethfederal.com##.cookie-notice
 |matchtv.ru##.cookie-notice
 |mct.co.il##.cookie-notice
+|millers.ch##.cookie-notice
 |monnik-dranken.nl##.cookie-notice
 |motocard.com##.cookie-notice
 |nbtc.go.th##.cookie-notice
@@ -18083,6 +18087,7 @@ gerlach.org.pl###top0info
 |dacter.pl###topbar
 |uni-tech.pl###topbar
 libra.com.pl###under_footer
+eko.katywroclawskie.com.pl###wiadomosccookiekontener
 greatone.pl###zamknij_cookies
 |gliwice-ginekolog.pl###zgoda
 |ortodoncja-brewczynska.pl###zgoda
@@ -18128,6 +18133,7 @@ itaka.pl##.cky-modal
 itaka.pl##.cky-overlay
 aterima-work.pl##.cm-popup-wrapper
 pracuj.pl##.cmulq7z
+tauronliga.pl##.cokie-manager-dialog
 sklep.szprychy.com##.config-messages
 rozetka.pl##.consent-layout
 gonet.tv##.consent_form_basic
@@ -21369,6 +21375,7 @@ yoigo.com#@#thor-cookies
 @@||group.vig/assets/js/modules/cookieconsent/cookieconsent.js$~third-party
 @@||gstatic.com/brandstudio/kato/cookie_choice_component/$script,domain=blog.google
 @@||gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.js
+@@||gus.etsmtl.ca/c2atom/Scripts/Atom/Managers/CookiesManager.js$script,~third-party
 @@||hellenicbank.com/portalserver/*/cookies-consent.js$script
 @@||help-center-cdn.oaistatic.com/assets/cookie-consent-banner-$script,domain=help.openai.com
 @@||herzum.com/node_modules/.vite/deps/react-cookie-consent.js$~third-party
