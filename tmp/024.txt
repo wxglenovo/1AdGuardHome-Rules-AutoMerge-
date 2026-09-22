@@ -3333,6 +3333,7 @@ computercity.com##.cky-box-top-right
 |soundshine.co.il##.cky-consent-container
 |staples.ca##.cky-consent-container
 |techcentral.ie##.cky-consent-container
+|thehawksmoor.com##.cky-consent-container
 |vertaa.fi##.cky-consent-container
 |adresowo.pl##.cky-overlay
 |becleverwithyourcash.com##.cky-overlay
@@ -3355,6 +3356,7 @@ computercity.com##.cky-box-top-right
 |rendeljkinait.hu##.cky-overlay
 |scuffers.com##.cky-overlay
 |staples.ca##.cky-overlay
+|thehawksmoor.com##.cky-overlay
 |vertaa.fi##.cky-overlay
 jackjones.com##.cky-overlay-custom
 clineva.com##.clineva-cookies-info
@@ -4738,6 +4740,7 @@ nationaljeweler.com##.pp
 |muse.mu##.pp-footer
 tapatalk.com##.pp-p
 ppg.com##.ppg-c-cookie-container
+phoenixpeptide.com##.ppi-cookie-banner
 thefamouspeople.com##.ppreloaded_lightbox
 vesselfinder.com##.pprem
 makingyourmoneysimple.com##.pps-popup
@@ -5348,7 +5351,8 @@ abc.net.au##[data-component="CookieBanner"]
 uidaho.edu##[data-component="CookieConsent"]
 jdslabs.com##[data-component="cookieBanner"]
 koenigsegg.com##[data-component="n3-cookie-notice"]
-fygonas.com##[data-cookie-banner="true"]
+|fygonas.com##[data-cookie-banner="true"]
+|prohumandeclaration.com##[data-cookie-banner="true"]
 plasma.org##[data-cookie-consent-banner="true"]
 pixilart.com##[data-cookie-number]
 insider.razer.com##[data-css-anchor="cookie-banner"]
@@ -5461,6 +5465,7 @@ my.worldmobile.io##div.fixed:has([href="https://worldmobile.io/en/cookies"])
 |wiki.valhelsia.net##div.r-1xcajam.css-175oi2r
 simpleswap.io##div:has(> div > div > a[href="/privacy-policy"])
 betmgm.co.uk##div:has(> div > div[bol-component="cookie-consent"])
+orbitscraper.com##div:has(> div > p > a[href="/privacy"])
 realityjunkies.com##div:has(> p > a[href$="/legal/privacy"])
 jingdaily.com##div[aria-label="Cookie consent banner"]
 |38-0.app##div[aria-label="Cookie consent"]
@@ -5597,6 +5602,7 @@ mhthemes.com##div[consent-skip-blocker="1"]
 gitpod.io##div[data-analytics*="cookie"]
 bcs-express.ru##div[data-component="cookie-agreement"]
 cookpad.com##div[data-controller*="cookies-consent"]
+en.community.sonos.com##div[data-css-anchor="cookie-banner"]
 betjets.co.za##div[data-cy^="cookiespolicybar-"]
 miricanvas.com##div[data-f^="CookiePopupContainer"]
 |cammodels.com##div[data-fedmod="userpolicy"]
@@ -8795,6 +8801,7 @@ dryg.pl##div[class^="CookiesNoti"]
 |cheynecapital.com##.disclaimer-overlay
 |community.hero-wars.com##.disclaimer-overlay
 |bario-neal.com##.consent-banner
+|bswhealth.com##.consent-banner
 |busbud.com##.consent-banner
 |businessofapps.com##.consent-banner
 |chase.com##.consent-banner
@@ -11716,6 +11723,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |taplink.cc##.cookie-banner
 |tc2000.com##.cookie-banner
 |thefly.com##.cookie-banner
+|thefounderfest.com##.cookie-banner
 |tiktok.com##.cookie-banner
 |tudogostoso.com.br##.cookie-banner
 |tus.ac.jp##.cookie-banner
@@ -19288,6 +19296,8 @@ atlex.ru##.terms-popup
 credistory.ru##.toast-message
 vplaboratory.ru##.top-message
 tproger.ru##.tp-cookie-notify
+|lenta.news##.trusted-sources-notification
+|lenta.ru##.trusted-sources-notification
 test-help.com##.ui-pnotify
 dvige.ru##.uk-panel
 tv21.ru##.use-site-agreement
