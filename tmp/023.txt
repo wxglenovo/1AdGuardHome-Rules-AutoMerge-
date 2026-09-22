@@ -18615,6 +18615,7 @@ wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotifi
 |evraz.com##.cookie-popup
 |ewines.co.il##.cookie-popup
 |goalhanger.shop##.cookie-popup
+|gymsblog.com##.cookie-popup
 |hampers.com##.cookie-popup
 |hashomer.org.il##.cookie-popup
 |htcinc.com##.cookie-popup
@@ -52146,10 +52147,13 @@ fxstreet.com##body,html:style(overflow: auto !important; position: initial !impo
 mediadump.com##.g1-newsletter
 mediadump.com##body,html:style(overflow: auto !important; position: initial !important;)
 |grocerydive.com##.simplemodal-container
+|smartcitiesdive.com##.simplemodal-container
 |socialmediatoday.com##.simplemodal-container
 |grocerydive.com##.simplemodal-overlay
+|smartcitiesdive.com##.simplemodal-overlay
 |socialmediatoday.com##.simplemodal-overlay
 |grocerydive.com##body:style(overflow: auto !important; position: initial !important;)
+|smartcitiesdive.com##body:style(overflow: auto !important; position: initial !important;)
 |socialmediatoday.com##body:style(overflow: auto !important; position: initial !important;)
 awardsradar.com##+js(set-cookie, g1_popup_disabled, 1)
 scaleofuniverse.com##+js(set-local-storage-item, email-subscribe-check-41be04a9, false)
