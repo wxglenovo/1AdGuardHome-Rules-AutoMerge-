@@ -51420,6 +51420,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||ouest-france.fr/v1/javascripts/*-googletag-
 ||ouest-france.fr/v1/javascripts/*-prebid-
 ||p.pagesjaunes.fr^
+||p3ter.fr/modules/statistics/
 ||pagesjaunes.fr/pmp/
 ||paruvendu.fr/*/stats/
 ||pixel.dugwood.com^
