@@ -7044,6 +7044,7 @@ cnn59.com##.sharepost
 cointelegraph.com##.shares-list__list
 citizensforethics.org##.shares-simple
 streetinsider.com##.sharesection
+apple.com##.sharesheet
 thenation.com##.sharethis-menu
 proofpoint.com##.sharethis_toolbox
 12tomatoes.com##.sharetocare-popup
@@ -19231,6 +19232,7 @@ sogeti.*###popup-cookieConsent
 |galeykor.co.il###cookie-consent-popup
 |gevaram.co.il###cookie-consent-popup
 |halalit.co.il###cookie-consent-popup
+|hameir.co.il###cookie-consent-popup
 |harishon-labinyan.co.il###cookie-consent-popup
 |imatrix.co.il###cookie-consent-popup
 |justmotor.co.il###cookie-consent-popup
@@ -20876,6 +20878,7 @@ tomtom.com##.cookie_bar
 |littleworldtv.com###cookie-consent
 |lottostar.co.za###cookie-consent
 |ma-hsh.de###cookie-consent
+|matzbernow.co.il###cookie-consent
 |mk-amur.ru###cookie-consent
 |mk-belgorod.ru###cookie-consent
 |mk-chukotka.ru###cookie-consent
@@ -26509,6 +26512,7 @@ royalpanda.com##.MuiContainer-maxWidthMd
 |fiebach-minninger.com##.modal-cacsp-position
 |flordeesgueva.es##.modal-cacsp-position
 |fmpack.com##.modal-cacsp-position
+|fratelli.co.il##.modal-cacsp-position
 |funtechadventures.com##.modal-cacsp-position
 |gamacisa.com##.modal-cacsp-position
 |gemeinde-nordharz.de##.modal-cacsp-position
@@ -26524,6 +26528,7 @@ royalpanda.com##.MuiContainer-maxWidthMd
 |imrvere.com##.modal-cacsp-position
 |intertechnic.sk##.modal-cacsp-position
 |iwareprint.pl##.modal-cacsp-position
+|kamatrails.co.il##.modal-cacsp-position
 |lasalita.org##.modal-cacsp-position
 |lerroux.com##.modal-cacsp-position
 |lineten.com##.modal-cacsp-position
@@ -40947,6 +40952,7 @@ ipo.co.il###rg-privacy-wrap
 |hobby-3.co.il###sb_privacy_policy_notice
 |matov.co.il###sb_privacy_policy_notice
 |matrefa.com###sb_privacy_policy_notice
+|matzberim.co.il###sb_privacy_policy_notice
 |medi-pharm.co.il###sb_privacy_policy_notice
 |mersa.co.il###sb_privacy_policy_notice
 |mishely-art.com###sb_privacy_policy_notice
@@ -41135,6 +41141,7 @@ lastminute.co.il##app-notifications-container
 iec.co.il##app-sticky-banner
 |morfix.co.il##div[aria-label="××¡××× ××©××××© ××¢×××××ª"]
 |on-the-way-two.vercel.app##div[aria-label="××¡××× ××©××××© ××¢×××××ª"]
+nokdimapp.co.il##div[aria-labelledby="cookie-consent-title"]
 azrielimalls.co.il##div[class$="_cookies-banner"]
 hagarin.co.il##div[class^="CookieConsentBar_"]
 assuta.co.il##div[class^="CookieConsent_"]
@@ -52754,6 +52761,9 @@ treblezine.com##body,html:style(height: auto !important; overflow: auto !importa
 |wonkette.com##div[class^="background-"]
 |zeteo.com##div[class^="background-"]
 thefederalist.com##+js(set-cookie, pum-276000, true)
+|avclub.com##+js(set-cookie, pm_email_popup_status, 1)
+|jezebel.com##+js(set-cookie, pm_email_popup_status, 1)
+|pastemagazine.com##+js(set-cookie, pm_email_popup_status, 1)
 tweaktown.com###newsletterModal
 tweaktown.com##+js(rc, modal-open, body, stay)
 30seconds.com##+js(set-cookie, uf_signup_bar, 1)

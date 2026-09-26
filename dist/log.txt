@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-09-25T22:13:49.708Z
+🚫 去掉注释行: ! Last modified: 2026-09-26T04:16:37.140Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -1660,10 +1660,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 95962
-🚫 去掉注释行: ! Checksum: luE4o95I0Oo6y5eqv6YGnw
-🚫 去掉注释行: ! Version: 202609260012
+🚫 去掉注释行: ! Checksum: 3sOoYPdQO8Ni/QkLbEy0uw
+🚫 去掉注释行: ! Version: 202609260503
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 26 Sep 2026 00:12 UTC
+🚫 去掉注释行: ! Last modified: 26 Sep 2026 05:03 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -17523,24 +17523,6 @@
     → |ascopost.com##.ad-text
     → |fermanaghherald.com##.ad-text
     → |sofx.com##.ad-text
-✅ 多域名拆分: kcra.com,kmbc.com,koat.com,koco.com,ksbw.com,mynbc5.com,wapt.com,wbaltv.com,wdsu.com,wgal.com,wlwt.com,wmtw.com,wmur.com,wtae.com,wvtm13.com,wxii12.com,wyff4.com##.ad-track
-    → |kcra.com##.ad-track
-    → |kmbc.com##.ad-track
-    → |koat.com##.ad-track
-    → |koco.com##.ad-track
-    → |ksbw.com##.ad-track
-    → |mynbc5.com##.ad-track
-    → |wapt.com##.ad-track
-    → |wbaltv.com##.ad-track
-    → |wdsu.com##.ad-track
-    → |wgal.com##.ad-track
-    → |wlwt.com##.ad-track
-    → |wmtw.com##.ad-track
-    → |wmur.com##.ad-track
-    → |wtae.com##.ad-track
-    → |wvtm13.com##.ad-track
-    → |wxii12.com##.ad-track
-    → |wyff4.com##.ad-track
 ✅ 多域名拆分: forbes.com,newrepublic.com,sdxcentral.com,windowscentral.com##.ad-unit
     → |forbes.com##.ad-unit
     → |newrepublic.com##.ad-unit
@@ -19010,24 +18992,6 @@
 ✅ 多域名拆分: startpage.com,startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion##.css-1j5r2ie
     → |startpage.com##.css-1j5r2ie
     → |startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion##.css-1j5r2ie
-✅ 多域名拆分: gulfcoastnewsnow.com,kcra.com,ketv.com,kmbc.com,koat.com,koco.com,ksbw.com,mynbc5.com,wapt.com,wbaltv.com,wdsu.com,wisn.com,wjcl.com,wlwt.com,wmtw.com,wtae.com,wvtm13.com##.css-1tumxm:has(.ad-container)
-    → |gulfcoastnewsnow.com##.css-1tumxm:has(.ad-container)
-    → |kcra.com##.css-1tumxm:has(.ad-container)
-    → |ketv.com##.css-1tumxm:has(.ad-container)
-    → |kmbc.com##.css-1tumxm:has(.ad-container)
-    → |koat.com##.css-1tumxm:has(.ad-container)
-    → |koco.com##.css-1tumxm:has(.ad-container)
-    → |ksbw.com##.css-1tumxm:has(.ad-container)
-    → |mynbc5.com##.css-1tumxm:has(.ad-container)
-    → |wapt.com##.css-1tumxm:has(.ad-container)
-    → |wbaltv.com##.css-1tumxm:has(.ad-container)
-    → |wdsu.com##.css-1tumxm:has(.ad-container)
-    → |wisn.com##.css-1tumxm:has(.ad-container)
-    → |wjcl.com##.css-1tumxm:has(.ad-container)
-    → |wlwt.com##.css-1tumxm:has(.ad-container)
-    → |wmtw.com##.css-1tumxm:has(.ad-container)
-    → |wtae.com##.css-1tumxm:has(.ad-container)
-    → |wvtm13.com##.css-1tumxm:has(.ad-container)
 ✅ 多域名拆分: greatist.com,healthline.com,medicalnewstoday.com,psychcentral.com##.css-pp6cpn
     → |greatist.com##.css-pp6cpn
     → |healthline.com##.css-pp6cpn
@@ -21425,6 +21389,24 @@
     → |douglas.si##[class="cms-criteo"]
     → |douglas.sk##[class="cms-criteo"]
     → |nocibe.fr##[class="cms-criteo"]
+✅ 多域名拆分: kcra.com,kmbc.com,koat.com,koco.com,ksbw.com,mynbc5.com,wapt.com,wbaltv.com,wdsu.com,wgal.com,wlwt.com,wmtw.com,wmur.com,wtae.com,wvtm13.com,wxii12.com,wyff4.com##[class]:has(>[data-type])
+    → |kcra.com##[class]:has(>[data-type])
+    → |kmbc.com##[class]:has(>[data-type])
+    → |koat.com##[class]:has(>[data-type])
+    → |koco.com##[class]:has(>[data-type])
+    → |ksbw.com##[class]:has(>[data-type])
+    → |mynbc5.com##[class]:has(>[data-type])
+    → |wapt.com##[class]:has(>[data-type])
+    → |wbaltv.com##[class]:has(>[data-type])
+    → |wdsu.com##[class]:has(>[data-type])
+    → |wgal.com##[class]:has(>[data-type])
+    → |wlwt.com##[class]:has(>[data-type])
+    → |wmtw.com##[class]:has(>[data-type])
+    → |wmur.com##[class]:has(>[data-type])
+    → |wtae.com##[class]:has(>[data-type])
+    → |wvtm13.com##[class]:has(>[data-type])
+    → |wxii12.com##[class]:has(>[data-type])
+    → |wyff4.com##[class]:has(>[data-type])
 ✅ 多域名拆分: androidauthority.com,soundguys.com##[data-ad-type]
     → |androidauthority.com##[data-ad-type]
     → |soundguys.com##[data-ad-type]
@@ -21502,6 +21484,24 @@
 ✅ 多域名拆分: bleacherreport.com,coles.com.au##[data-testid="ad"]
     → |bleacherreport.com##[data-testid="ad"]
     → |coles.com.au##[data-testid="ad"]
+✅ 多域名拆分: kcra.com,kmbc.com,koat.com,koco.com,ksbw.com,mynbc5.com,wapt.com,wbaltv.com,wdsu.com,wgal.com,wlwt.com,wmtw.com,wmur.com,wtae.com,wvtm13.com,wxii12.com,wyff4.com##[data-testid="ad-label"]
+    → |kcra.com##[data-testid="ad-label"]
+    → |kmbc.com##[data-testid="ad-label"]
+    → |koat.com##[data-testid="ad-label"]
+    → |koco.com##[data-testid="ad-label"]
+    → |ksbw.com##[data-testid="ad-label"]
+    → |mynbc5.com##[data-testid="ad-label"]
+    → |wapt.com##[data-testid="ad-label"]
+    → |wbaltv.com##[data-testid="ad-label"]
+    → |wdsu.com##[data-testid="ad-label"]
+    → |wgal.com##[data-testid="ad-label"]
+    → |wlwt.com##[data-testid="ad-label"]
+    → |wmtw.com##[data-testid="ad-label"]
+    → |wmur.com##[data-testid="ad-label"]
+    → |wtae.com##[data-testid="ad-label"]
+    → |wvtm13.com##[data-testid="ad-label"]
+    → |wxii12.com##[data-testid="ad-label"]
+    → |wyff4.com##[data-testid="ad-label"]
 ✅ 多域名拆分: greatist.com,healthline.com,medicalnewstoday.com,psychcentral.com##[data-testid="driver"]
     → |greatist.com##[data-testid="driver"]
     → |healthline.com##[data-testid="driver"]
@@ -25386,10 +25386,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: cGl4w6YyAFXFlUveZdcgQQ
-🚫 去掉注释行: ! Version: 202609260012
+🚫 去掉注释行: ! Checksum: tUnNDvfM2zBVPOhWwx+Jow
+🚫 去掉注释行: ! Version: 202609260503
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 26 Sep 2026 00:12 UTC
+🚫 去掉注释行: ! Last modified: 26 Sep 2026 05:03 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -29929,10 +29929,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: ZJt/Gg+swPO/pbFQHs14ow
-🚫 去掉注释行: ! Version: 202609260012
+🚫 去掉注释行: ! Checksum: k8EeXRd6TKJw+FpMxtl/nw
+🚫 去掉注释行: ! Version: 202609260503
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 26 Sep 2026 00:12 UTC
+🚫 去掉注释行: ! Last modified: 26 Sep 2026 05:03 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -30609,11 +30609,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202609260011
+🚫 去掉注释行: ! Version: 202609260458
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 26 Sep 2026 00:11 UTC
+🚫 去掉注释行: ! Last modified: 26 Sep 2026 04:58 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 05ee47849c300a5a65cbb15aec478791effae175
+🚫 去掉注释行: ! Commit: 4a82581ab2c43f05df965399f9c4ef4adbefcbbb
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -46482,24 +46482,6 @@
     → |ascopost.com##.ad-text
     → |fermanaghherald.com##.ad-text
     → |sofx.com##.ad-text
-✅ 多域名拆分: kcra.com,kmbc.com,koat.com,koco.com,ksbw.com,mynbc5.com,wapt.com,wbaltv.com,wdsu.com,wgal.com,wlwt.com,wmtw.com,wmur.com,wtae.com,wvtm13.com,wxii12.com,wyff4.com##.ad-track
-    → |kcra.com##.ad-track
-    → |kmbc.com##.ad-track
-    → |koat.com##.ad-track
-    → |koco.com##.ad-track
-    → |ksbw.com##.ad-track
-    → |mynbc5.com##.ad-track
-    → |wapt.com##.ad-track
-    → |wbaltv.com##.ad-track
-    → |wdsu.com##.ad-track
-    → |wgal.com##.ad-track
-    → |wlwt.com##.ad-track
-    → |wmtw.com##.ad-track
-    → |wmur.com##.ad-track
-    → |wtae.com##.ad-track
-    → |wvtm13.com##.ad-track
-    → |wxii12.com##.ad-track
-    → |wyff4.com##.ad-track
 ✅ 多域名拆分: forbes.com,newrepublic.com,sdxcentral.com,windowscentral.com##.ad-unit
     → |forbes.com##.ad-unit
     → |newrepublic.com##.ad-unit
@@ -47969,24 +47951,6 @@
 ✅ 多域名拆分: startpage.com,startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion##.css-1j5r2ie
     → |startpage.com##.css-1j5r2ie
     → |startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion##.css-1j5r2ie
-✅ 多域名拆分: gulfcoastnewsnow.com,kcra.com,ketv.com,kmbc.com,koat.com,koco.com,ksbw.com,mynbc5.com,wapt.com,wbaltv.com,wdsu.com,wisn.com,wjcl.com,wlwt.com,wmtw.com,wtae.com,wvtm13.com##.css-1tumxm:has(.ad-container)
-    → |gulfcoastnewsnow.com##.css-1tumxm:has(.ad-container)
-    → |kcra.com##.css-1tumxm:has(.ad-container)
-    → |ketv.com##.css-1tumxm:has(.ad-container)
-    → |kmbc.com##.css-1tumxm:has(.ad-container)
-    → |koat.com##.css-1tumxm:has(.ad-container)
-    → |koco.com##.css-1tumxm:has(.ad-container)
-    → |ksbw.com##.css-1tumxm:has(.ad-container)
-    → |mynbc5.com##.css-1tumxm:has(.ad-container)
-    → |wapt.com##.css-1tumxm:has(.ad-container)
-    → |wbaltv.com##.css-1tumxm:has(.ad-container)
-    → |wdsu.com##.css-1tumxm:has(.ad-container)
-    → |wisn.com##.css-1tumxm:has(.ad-container)
-    → |wjcl.com##.css-1tumxm:has(.ad-container)
-    → |wlwt.com##.css-1tumxm:has(.ad-container)
-    → |wmtw.com##.css-1tumxm:has(.ad-container)
-    → |wtae.com##.css-1tumxm:has(.ad-container)
-    → |wvtm13.com##.css-1tumxm:has(.ad-container)
 ✅ 多域名拆分: greatist.com,healthline.com,medicalnewstoday.com,psychcentral.com##.css-pp6cpn
     → |greatist.com##.css-pp6cpn
     → |healthline.com##.css-pp6cpn
@@ -50384,6 +50348,24 @@
     → |douglas.si##[class="cms-criteo"]
     → |douglas.sk##[class="cms-criteo"]
     → |nocibe.fr##[class="cms-criteo"]
+✅ 多域名拆分: kcra.com,kmbc.com,koat.com,koco.com,ksbw.com,mynbc5.com,wapt.com,wbaltv.com,wdsu.com,wgal.com,wlwt.com,wmtw.com,wmur.com,wtae.com,wvtm13.com,wxii12.com,wyff4.com##[class]:has(>[data-type])
+    → |kcra.com##[class]:has(>[data-type])
+    → |kmbc.com##[class]:has(>[data-type])
+    → |koat.com##[class]:has(>[data-type])
+    → |koco.com##[class]:has(>[data-type])
+    → |ksbw.com##[class]:has(>[data-type])
+    → |mynbc5.com##[class]:has(>[data-type])
+    → |wapt.com##[class]:has(>[data-type])
+    → |wbaltv.com##[class]:has(>[data-type])
+    → |wdsu.com##[class]:has(>[data-type])
+    → |wgal.com##[class]:has(>[data-type])
+    → |wlwt.com##[class]:has(>[data-type])
+    → |wmtw.com##[class]:has(>[data-type])
+    → |wmur.com##[class]:has(>[data-type])
+    → |wtae.com##[class]:has(>[data-type])
+    → |wvtm13.com##[class]:has(>[data-type])
+    → |wxii12.com##[class]:has(>[data-type])
+    → |wyff4.com##[class]:has(>[data-type])
 ✅ 多域名拆分: androidauthority.com,soundguys.com##[data-ad-type]
     → |androidauthority.com##[data-ad-type]
     → |soundguys.com##[data-ad-type]
@@ -50461,6 +50443,24 @@
 ✅ 多域名拆分: bleacherreport.com,coles.com.au##[data-testid="ad"]
     → |bleacherreport.com##[data-testid="ad"]
     → |coles.com.au##[data-testid="ad"]
+✅ 多域名拆分: kcra.com,kmbc.com,koat.com,koco.com,ksbw.com,mynbc5.com,wapt.com,wbaltv.com,wdsu.com,wgal.com,wlwt.com,wmtw.com,wmur.com,wtae.com,wvtm13.com,wxii12.com,wyff4.com##[data-testid="ad-label"]
+    → |kcra.com##[data-testid="ad-label"]
+    → |kmbc.com##[data-testid="ad-label"]
+    → |koat.com##[data-testid="ad-label"]
+    → |koco.com##[data-testid="ad-label"]
+    → |ksbw.com##[data-testid="ad-label"]
+    → |mynbc5.com##[data-testid="ad-label"]
+    → |wapt.com##[data-testid="ad-label"]
+    → |wbaltv.com##[data-testid="ad-label"]
+    → |wdsu.com##[data-testid="ad-label"]
+    → |wgal.com##[data-testid="ad-label"]
+    → |wlwt.com##[data-testid="ad-label"]
+    → |wmtw.com##[data-testid="ad-label"]
+    → |wmur.com##[data-testid="ad-label"]
+    → |wtae.com##[data-testid="ad-label"]
+    → |wvtm13.com##[data-testid="ad-label"]
+    → |wxii12.com##[data-testid="ad-label"]
+    → |wyff4.com##[data-testid="ad-label"]
 ✅ 多域名拆分: greatist.com,healthline.com,medicalnewstoday.com,psychcentral.com##[data-testid="driver"]
     → |greatist.com##[data-testid="driver"]
     → |healthline.com##[data-testid="driver"]
@@ -54371,11 +54371,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202609260011
+🚫 去掉注释行: ! Version: 202609260458
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 26 Sep 2026 00:11 UTC
+🚫 去掉注释行: ! Last modified: 26 Sep 2026 04:58 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 05ee47849c300a5a65cbb15aec478791effae175
+🚫 去掉注释行: ! Commit: 4a82581ab2c43f05df965399f9c4ef4adbefcbbb
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -70773,8 +70773,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !Generated: 2026-09-26 07:20:13
-🚫 去掉注释行: !RuleCount: 817908
+🚫 去掉注释行: !Generated: 2026-09-26 09:42:30
+🚫 去掉注释行: !RuleCount: 817928
 ✅ HOSTS 转换: 127.0.0.1 123.ywxww.net → |123.ywxww.net^
 ✅ HOSTS 转换: 127.0.0.1 1717.1000uc.com → |1717.1000uc.com^
 ✅ HOSTS 转换: 127.0.0.1 198-macros.com → |198-macros.com^
@@ -70803,6 +70803,7 @@
 ✅ HOSTS 转换: 127.0.0.1 audicontadores.com → |audicontadores.com^
 ✅ HOSTS 转换: 127.0.0.1 backupso.com → |backupso.com^
 ✅ HOSTS 转换: 127.0.0.1 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev → |balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^
+✅ HOSTS 转换: 127.0.0.1 beak.in → |beak.in^
 ✅ HOSTS 转换: 127.0.0.1 beoauto.alexion.rs → |beoauto.alexion.rs^
 ✅ HOSTS 转换: 127.0.0.1 blankeyeo.com → |blankeyeo.com^
 ✅ HOSTS 转换: 127.0.0.1 blessdayservices.org → |blessdayservices.org^
@@ -70812,8 +70813,6 @@
 ✅ HOSTS 转换: 127.0.0.1 bnet.playm8ru.win → |bnet.playm8ru.win^
 ✅ HOSTS 转换: 127.0.0.1 book.rollingvideogames.com → |book.rollingvideogames.com^
 ✅ HOSTS 转换: 127.0.0.1 booking.captcha-message-extranet.com → |booking.captcha-message-extranet.com^
-✅ HOSTS 转换: 127.0.0.1 brasilengenhariaecom.store → |brasilengenhariaecom.store^
-✅ HOSTS 转换: 127.0.0.1 bratarfood.com → |bratarfood.com^
 ✅ HOSTS 转换: 127.0.0.1 breezeclient.com → |breezeclient.com^
 ✅ HOSTS 转换: 127.0.0.1 breezeclient.org → |breezeclient.org^
 ✅ HOSTS 转换: 127.0.0.1 bridgeroad.maverickpreviews.com → |bridgeroad.maverickpreviews.com^
@@ -70827,7 +70826,6 @@
 ✅ HOSTS 转换: 127.0.0.1 cat.xiaoshabi.nl → |cat.xiaoshabi.nl^
 ✅ HOSTS 转换: 127.0.0.1 catbaparadisehotel.com.vn → |catbaparadisehotel.com.vn^
 ✅ HOSTS 转换: 127.0.0.1 cdaonline.com.ar → |cdaonline.com.ar^
-✅ HOSTS 转换: 127.0.0.1 cdn.file6.goodid.com → |cdn.file6.goodid.com^
 ✅ HOSTS 转换: 127.0.0.1 celebratingseniors.net → |celebratingseniors.net^
 ✅ HOSTS 转换: 127.0.0.1 chat-server.maverickpreviews.com → |chat-server.maverickpreviews.com^
 ✅ HOSTS 转换: 127.0.0.1 checkfivem.com → |checkfivem.com^
@@ -70839,15 +70837,16 @@
 ✅ HOSTS 转换: 127.0.0.1 cl.ssouy.com → |cl.ssouy.com^
 ✅ HOSTS 转换: 127.0.0.1 cloud.pearlpeel.com → |cloud.pearlpeel.com^
 ✅ HOSTS 转换: 127.0.0.1 clubdetiroelpicarcho.com → |clubdetiroelpicarcho.com^
+✅ HOSTS 转换: 127.0.0.1 cn.unionlever.com → |cn.unionlever.com^
 ✅ HOSTS 转换: 127.0.0.1 compuserviceonline.com.br → |compuserviceonline.com.br^
 ✅ HOSTS 转换: 127.0.0.1 continentalgroup.net.in → |continentalgroup.net.in^
 ✅ HOSTS 转换: 127.0.0.1 coolairesgroup.com → |coolairesgroup.com^
 ✅ HOSTS 转换: 127.0.0.1 coralasargetia.ro → |coralasargetia.ro^
+✅ HOSTS 转换: 127.0.0.1 corzclient.net → |corzclient.net^
 ✅ HOSTS 转换: 127.0.0.1 cpc188.day → |cpc188.day^
 ✅ HOSTS 转换: 127.0.0.1 crazypianoswebshop.nl → |crazypianoswebshop.nl^
 ✅ HOSTS 转换: 127.0.0.1 crystalpvp.ru → |crystalpvp.ru^
 ✅ HOSTS 转换: 127.0.0.1 cs.go.kg → |cs.go.kg^
-✅ HOSTS 转换: 127.0.0.1 cyberleak.top → |cyberleak.top^
 ✅ HOSTS 转换: 127.0.0.1 d.14yaa.com → |d.14yaa.com^
 ✅ HOSTS 转换: 127.0.0.1 d.wanyouxi7.com → |d.wanyouxi7.com^
 ✅ HOSTS 转换: 127.0.0.1 dailyushistory.com → |dailyushistory.com^
@@ -70858,7 +70857,6 @@
 ✅ HOSTS 转换: 127.0.0.1 deagroup-ks.com → |deagroup-ks.com^
 ✅ HOSTS 转换: 127.0.0.1 debugify.net → |debugify.net^
 ✅ HOSTS 转换: 127.0.0.1 delp-heizungsbau.de → |delp-heizungsbau.de^
-✅ HOSTS 转换: 127.0.0.1 delta-canvas.com → |delta-canvas.com^
 ✅ HOSTS 转换: 127.0.0.1 dezcom.com → |dezcom.com^
 ✅ HOSTS 转换: 127.0.0.1 dinamikakargo.com → |dinamikakargo.com^
 ✅ HOSTS 转换: 127.0.0.1 disk.accord1key.cn → |disk.accord1key.cn^
@@ -70866,7 +70864,6 @@
 ✅ HOSTS 转换: 127.0.0.1 dl.dzqzd.com → |dl.dzqzd.com^
 ✅ HOSTS 转换: 127.0.0.1 dl.natgo.cn → |dl.natgo.cn^
 ✅ HOSTS 转换: 127.0.0.1 doc.e-statements.app → |doc.e-statements.app^
-✅ HOSTS 转换: 127.0.0.1 docs.thelobbyx.info → |docs.thelobbyx.info^
 ✅ HOSTS 转换: 127.0.0.1 donkeytourscroatia.com → |donkeytourscroatia.com^
 ✅ HOSTS 转换: 127.0.0.1 down.54nb.com → |down.54nb.com^
 ✅ HOSTS 转换: 127.0.0.1 down.fwqlt.com → |down.fwqlt.com^
@@ -70890,7 +70887,6 @@
 ✅ HOSTS 转换: 127.0.0.1 epanpano.com → |epanpano.com^
 ✅ HOSTS 转换: 127.0.0.1 epsinf.com → |epsinf.com^
 ✅ HOSTS 转换: 127.0.0.1 escrowbank.co → |escrowbank.co^
-✅ HOSTS 转换: 127.0.0.1 eventourarte.cl → |eventourarte.cl^
 ✅ HOSTS 转换: 127.0.0.1 fakers.co.jp → |fakers.co.jp^
 ✅ HOSTS 转换: 127.0.0.1 familyaddons.com → |familyaddons.com^
 ✅ HOSTS 转换: 127.0.0.1 familyaddons.org → |familyaddons.org^
@@ -70906,13 +70902,11 @@
 ✅ HOSTS 转换: 127.0.0.1 floppaclient.org → |floppaclient.org^
 ✅ HOSTS 转换: 127.0.0.1 flyingmutts.com → |flyingmutts.com^
 ✅ HOSTS 转换: 127.0.0.1 fmrio.com → |fmrio.com^
-✅ HOSTS 转换: 127.0.0.1 freeclients.net → |freeclients.net^
 ✅ HOSTS 转换: 127.0.0.1 fukt.link → |fukt.link^
 ✅ HOSTS 转换: 127.0.0.1 fullinstall.sbs → |fullinstall.sbs^
 ✅ HOSTS 转换: 127.0.0.1 fullstacknir.com → |fullstacknir.com^
 ✅ HOSTS 转换: 127.0.0.1 funnymap.net → |funnymap.net^
 ✅ HOSTS 转换: 127.0.0.1 funnymap.org → |funnymap.org^
-✅ HOSTS 转换: 127.0.0.1 funrat.co → |funrat.co^
 ✅ HOSTS 转换: 127.0.0.1 fz.tiansys.cn → |fz.tiansys.cn^
 ✅ HOSTS 转换: 127.0.0.1 galerisenimutiara.com → |galerisenimutiara.com^
 ✅ HOSTS 转换: 127.0.0.1 gamblerigmod.org → |gamblerigmod.org^
@@ -70938,7 +70932,7 @@
 ✅ HOSTS 转换: 127.0.0.1 ignetwork.us → |ignetwork.us^
 ✅ HOSTS 转换: 127.0.0.1 igra123.com → |igra123.com^
 ✅ HOSTS 转换: 127.0.0.1 impectorinternational.com → |impectorinternational.com^
-✅ HOSTS 转换: 127.0.0.1 iniciaonline.com → |iniciaonline.com^
+✅ HOSTS 转换: 127.0.0.1 indonesias.me → |indonesias.me^
 ✅ HOSTS 转换: 127.0.0.1 invmove.com → |invmove.com^
 ✅ HOSTS 转换: 127.0.0.1 ircftp.net → |ircftp.net^
 ✅ HOSTS 转换: 127.0.0.1 isiore.com.co → |isiore.com.co^
@@ -70948,30 +70942,28 @@
 ✅ HOSTS 转换: 127.0.0.1 jessespridecharters.com → |jessespridecharters.com^
 ✅ HOSTS 转换: 127.0.0.1 jlwz.cn → |jlwz.cn^
 ✅ HOSTS 转换: 127.0.0.1 jointaxel.online → |jointaxel.online^
-✅ HOSTS 转换: 127.0.0.1 journeylake11.com → |journeylake11.com^
 ✅ HOSTS 转换: 127.0.0.1 kavacanada.ca → |kavacanada.ca^
 ✅ HOSTS 转换: 127.0.0.1 kenwillzltd.com → |kenwillzltd.com^
 ✅ HOSTS 转换: 127.0.0.1 khavar.com → |khavar.com^
 ✅ HOSTS 转换: 127.0.0.1 kimyen.net → |kimyen.net^
 ✅ HOSTS 转换: 127.0.0.1 konsor.ru → |konsor.ru^
-✅ HOSTS 转换: 127.0.0.1 korexnode.xyz → |korexnode.xyz^
 ✅ HOSTS 转换: 127.0.0.1 kryptonclient-cracked.com → |kryptonclient-cracked.com^
 ✅ HOSTS 转换: 127.0.0.1 kupunasvolpiano.com → |kupunasvolpiano.com^
 ✅ HOSTS 转换: 127.0.0.1 landonirwin.com → |landonirwin.com^
+✅ HOSTS 转换: 127.0.0.1 larpdebug.com → |larpdebug.com^
 ✅ HOSTS 转换: 127.0.0.1 lawfirm.paperbirdtech.com → |lawfirm.paperbirdtech.com^
-✅ HOSTS 转换: 127.0.0.1 letsupconfig.sbs → |letsupconfig.sbs^
 ✅ HOSTS 转换: 127.0.0.1 lindnerelektroanlagen.de → |lindnerelektroanlagen.de^
 ✅ HOSTS 转换: 127.0.0.1 local-update.com → |local-update.com^
 ✅ HOSTS 转换: 127.0.0.1 lomejordesalamanca.es → |lomejordesalamanca.es^
 ✅ HOSTS 转换: 127.0.0.1 loop-lumen.com → |loop-lumen.com^
 ✅ HOSTS 转换: 127.0.0.1 luizmatoso.com.br → |luizmatoso.com.br^
+✅ HOSTS 转换: 127.0.0.1 lumacrea.com → |lumacrea.com^
 ✅ HOSTS 转换: 127.0.0.1 luminexclient.com → |luminexclient.com^
 ✅ HOSTS 转换: 127.0.0.1 luminexclient.net → |luminexclient.net^
 ✅ HOSTS 转换: 127.0.0.1 luminouspower.com.pk → |luminouspower.com.pk^
 ✅ HOSTS 转换: 127.0.0.1 m.jkoa.co.kr → |m.jkoa.co.kr^
 ✅ HOSTS 转换: 127.0.0.1 m.meta-dm.com → |m.meta-dm.com^
 ✅ HOSTS 转换: 127.0.0.1 maidforyou1985.com → |maidforyou1985.com^
-✅ HOSTS 转换: 127.0.0.1 majesticinstruments.ma → |majesticinstruments.ma^
 ✅ HOSTS 转换: 127.0.0.1 makemewin.club → |makemewin.club^
 ✅ HOSTS 转换: 127.0.0.1 malupieng.com.br → |malupieng.com.br^
 ✅ HOSTS 转换: 127.0.0.1 meteorclients.com → |meteorclients.com^
@@ -70991,12 +70983,14 @@
 ✅ HOSTS 转换: 127.0.0.1 nebula-client.org → |nebula-client.org^
 ✅ HOSTS 转换: 127.0.0.1 noamaddons.com → |noamaddons.com^
 ✅ HOSTS 转换: 127.0.0.1 noithaticon.vn → |noithaticon.vn^
+✅ HOSTS 转换: 127.0.0.1 nordertextil.de → |nordertextil.de^
 ✅ HOSTS 转换: 127.0.0.1 nova-client.com → |nova-client.com^
 ✅ HOSTS 转换: 127.0.0.1 nusatoyota.co.id → |nusatoyota.co.id^
 ✅ HOSTS 转换: 127.0.0.1 ny.lshdw.cc → |ny.lshdw.cc^
 ✅ HOSTS 转换: 127.0.0.1 obearo.com → |obearo.com^
 ✅ HOSTS 转换: 127.0.0.1 odinclient.com → |odinclient.com^
 ✅ HOSTS 转换: 127.0.0.1 odinmod.org → |odinmod.org^
+✅ HOSTS 转换: 127.0.0.1 oim.doganltd.com.tr → |oim.doganltd.com.tr^
 ✅ HOSTS 转换: 127.0.0.1 ojang.pe.kr → |ojang.pe.kr^
 ✅ HOSTS 转换: 127.0.0.1 okhan.net → |okhan.net^
 ✅ HOSTS 转换: 127.0.0.1 oknoplastik.sk → |oknoplastik.sk^
@@ -71041,13 +71035,13 @@
 ✅ HOSTS 转换: 127.0.0.1 rxquickpay.com → |rxquickpay.com^
 ✅ HOSTS 转换: 127.0.0.1 sablayan.seasonshotelmindoro.com → |sablayan.seasonshotelmindoro.com^
 ✅ HOSTS 转换: 127.0.0.1 safeifm.com → |safeifm.com^
+✅ HOSTS 转换: 127.0.0.1 sail.autolabsouthgate.com → |sail.autolabsouthgate.com^
 ✅ HOSTS 转换: 127.0.0.1 sales.ifree.page → |sales.ifree.page^
 ✅ HOSTS 转换: 127.0.0.1 samiksha.com.sg → |samiksha.com.sg^
 ✅ HOSTS 转换: 127.0.0.1 scainseto.com.br → |scainseto.com.br^
 ✅ HOSTS 转换: 127.0.0.1 scanbot.me → |scanbot.me^
 ✅ HOSTS 转换: 127.0.0.1 scoala1gherla.ro → |scoala1gherla.ro^
 ✅ HOSTS 转换: 127.0.0.1 screenconnect.pro → |screenconnect.pro^
-✅ HOSTS 转换: 127.0.0.1 scrroeder.com → |scrroeder.com^
 ✅ HOSTS 转换: 127.0.0.1 sdufkghdfshds.cfd → |sdufkghdfshds.cfd^
 ✅ HOSTS 转换: 127.0.0.1 sec.dashabi.in → |sec.dashabi.in^
 ✅ HOSTS 转换: 127.0.0.1 sec.xiaojiji.nl → |sec.xiaojiji.nl^
@@ -71055,6 +71049,7 @@
 ✅ HOSTS 转换: 127.0.0.1 seguranca.versionnova.site → |seguranca.versionnova.site^
 ✅ HOSTS 转换: 127.0.0.1 seismophonic.com → |seismophonic.com^
 ✅ HOSTS 转换: 127.0.0.1 semencepourlavie.org → |semencepourlavie.org^
+✅ HOSTS 转换: 127.0.0.1 seputartuban.com → |seputartuban.com^
 ✅ HOSTS 转换: 127.0.0.1 sg123.net → |sg123.net^
 ✅ HOSTS 转换: 127.0.0.1 shipminttracking.net → |shipminttracking.net^
 ✅ HOSTS 转换: 127.0.0.1 shqdown.ggzuhao.com → |shqdown.ggzuhao.com^
@@ -71067,11 +71062,12 @@
 ✅ HOSTS 转换: 127.0.0.1 smartermail.host → |smartermail.host^
 ✅ HOSTS 转换: 127.0.0.1 soft.110route.com → |soft.110route.com^
 ✅ HOSTS 转换: 127.0.0.1 spgint.com → |spgint.com^
-✅ HOSTS 转换: 127.0.0.1 spitandmalachite.com → |spitandmalachite.com^
 ✅ HOSTS 转换: 127.0.0.1 srsorvete.com.br → |srsorvete.com.br^
+✅ HOSTS 转换: 127.0.0.1 static.ilclock.com → |static.ilclock.com^
 ✅ HOSTS 转换: 127.0.0.1 static.topxgun.com → |static.topxgun.com^
 ✅ HOSTS 转换: 127.0.0.1 static.youdm.cn → |static.youdm.cn^
 ✅ HOSTS 转换: 127.0.0.1 stdown.dinju.com → |stdown.dinju.com^
+✅ HOSTS 转换: 127.0.0.1 streammobs.com → |streammobs.com^
 ✅ HOSTS 转换: 127.0.0.1 support.clz.kr → |support.clz.kr^
 ✅ HOSTS 转换: 127.0.0.1 sutterpoint.com → |sutterpoint.com^
 ✅ HOSTS 转换: 127.0.0.1 svirtual.sanviatorperu.edu.pe → |svirtual.sanviatorperu.edu.pe^
@@ -71140,7 +71136,6 @@
 ✅ HOSTS 转换: 127.0.0.1 www.kenwillzltd.com → |www.kenwillzltd.com^
 ✅ HOSTS 转换: 127.0.0.1 www.khavar.com → |www.khavar.com^
 ✅ HOSTS 转换: 127.0.0.1 www.konsor.ru → |www.konsor.ru^
-✅ HOSTS 转换: 127.0.0.1 www.medises.co.kr → |www.medises.co.kr^
 ✅ HOSTS 转换: 127.0.0.1 www.myvcart.com → |www.myvcart.com^
 ✅ HOSTS 转换: 127.0.0.1 www.namuvpn.com → |www.namuvpn.com^
 ✅ HOSTS 转换: 127.0.0.1 www.newkey.co.kr → |www.newkey.co.kr^
@@ -157939,15 +157934,15 @@
 🚫 去掉注释行: ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 🚫 去掉注释行: ! Homepage: https://github.com/217heidai/adblockfilters
 🚫 去掉注释行: ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-🚫 去掉注释行: ! Version: 20260926035629
-🚫 去掉注释行: ! Last modified: 2026/09/26 03:56:29
+🚫 去掉注释行: ! Version: 20260926122553
+🚫 去掉注释行: ! Last modified: 2026/09/26 12:25:53
 🚫 去掉注释行: ! Blocked domains: 5300
 🚫 去掉注释行: ! unBlocked domains: 16
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: i8Ik7k0l8iSZz0WyOnFiNw
-🚫 去掉注释行: ! Version: 202609252350
+🚫 去掉注释行: ! Checksum: 6oIZnyfqRUH+A+MYacW+mw
+🚫 去掉注释行: ! Version: 202609260350
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-09-25 23:50 UTC
+🚫 去掉注释行: ! Last modified: 2026-09-26 03:50 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -194109,7 +194104,7 @@
     → |hm.com##.cookie-consent-popup
     → |podurama.com##.cookie-consent-popup
 🚫 去掉注释行: !! #cookie-consent-popup
-✅ 多域名拆分: 1800flowers.co.il,aaa-electric.co.il,aargazim.co.il,ameat.co.il,autoparts4u.co.il,bagina.co.il,bialik-mashtelot.com,cell-tec.co.il,citydeal.co.il,coffee4u.co.il,coffeedeals.co.il,coffeeman.co.il,daniel-baby.co.il,daniel-fitness.co.il,danihi.com,dubin.co.il,dyofix1.co.il,electricland.co.il,electricsale.co.il,electricshop.co.il,electroclick.co.il,electroline.co.il,emiliz.com,finam.ru,finambank.ru,focus.co.il,foodappeal-online.com,freshcafe.co.il,galeykor.co.il,gevaram.co.il,halalit.co.il,harishon-labinyan.co.il,imatrix.co.il,justmotor.co.il,kartonimbeclick.co.il,kbmall.co.il,kingelectric.co.il,linberg.nl,locks.co.il,mabatelectric.com,marco-online.co.il,me-electric.co.il,mercavot.co.il,mispar1.co.il,mosheparts.co.il,mozartbakery.co.il,nitecore.co.il,no-risk.co.il,ocha.co.il,onecoffee.co.il,order227.co.il,pccenter.co.il,pisga-shop.co.il,plastelina-ltd.co.il,probox-online.co.il,projector.co.il,r-k.co.il,rsm.co.il,run2gain.co.il,salielectric.co.il,shaboart.co.il,shop-now14.co.il,sportcom.co.il,super-electric.co.il,superelectric.co.il,telepeled.co.il,threesixty.co.il,toolman.co.il,universe.co.il,vero-cafe.co.il,wijnhaven.nl,winprice.co.il,x-press.co.il,zoref.co.il,zulacasino.com###cookie-consent-popup
+✅ 多域名拆分: 1800flowers.co.il,aaa-electric.co.il,aargazim.co.il,ameat.co.il,autoparts4u.co.il,bagina.co.il,bialik-mashtelot.com,cell-tec.co.il,citydeal.co.il,coffee4u.co.il,coffeedeals.co.il,coffeeman.co.il,daniel-baby.co.il,daniel-fitness.co.il,danihi.com,dubin.co.il,dyofix1.co.il,electricland.co.il,electricsale.co.il,electricshop.co.il,electroclick.co.il,electroline.co.il,emiliz.com,finam.ru,finambank.ru,focus.co.il,foodappeal-online.com,freshcafe.co.il,galeykor.co.il,gevaram.co.il,halalit.co.il,hameir.co.il,harishon-labinyan.co.il,imatrix.co.il,justmotor.co.il,kartonimbeclick.co.il,kbmall.co.il,kingelectric.co.il,linberg.nl,locks.co.il,mabatelectric.com,marco-online.co.il,me-electric.co.il,mercavot.co.il,mispar1.co.il,mosheparts.co.il,mozartbakery.co.il,nitecore.co.il,no-risk.co.il,ocha.co.il,onecoffee.co.il,order227.co.il,pccenter.co.il,pisga-shop.co.il,plastelina-ltd.co.il,probox-online.co.il,projector.co.il,r-k.co.il,rsm.co.il,run2gain.co.il,salielectric.co.il,shaboart.co.il,shop-now14.co.il,sportcom.co.il,super-electric.co.il,superelectric.co.il,telepeled.co.il,threesixty.co.il,toolman.co.il,universe.co.il,vero-cafe.co.il,wijnhaven.nl,winprice.co.il,x-press.co.il,zoref.co.il,zulacasino.com###cookie-consent-popup
     → |1800flowers.co.il###cookie-consent-popup
     → |aaa-electric.co.il###cookie-consent-popup
     → |aargazim.co.il###cookie-consent-popup
@@ -194141,6 +194136,7 @@
     → |galeykor.co.il###cookie-consent-popup
     → |gevaram.co.il###cookie-consent-popup
     → |halalit.co.il###cookie-consent-popup
+    → |hameir.co.il###cookie-consent-popup
     → |harishon-labinyan.co.il###cookie-consent-popup
     → |imatrix.co.il###cookie-consent-popup
     → |justmotor.co.il###cookie-consent-popup
@@ -196022,7 +196018,7 @@
     → |mall.sk##.legal-consent
     → |mimovrste.com##.legal-consent
 🚫 去掉注释行: !! #cookie-consent
-✅ 多域名拆分: 9minecraft.net,altman.co.il,anixe.pl,avantlink.com,avtovzglyad.ru,b-kassa.ru,biblesforamerica.org,bilaborg.is,bilas.is,bilasolur.is,boernestar.com,craig-russell.co.uk,druni.es,ecobee.com,erau.edu,flyscoot.com,fontawesome.com,foodsdictionary.co.il,garberhof.com,guffi.is,heictojpg.com,hextom.com,hibiny.ru,hirschpromo.com,hofdahollin.is,hotel-avidea.com,ispot.tv,joomshaper.com,kirov.online,kiwi-kids.co.il,kodansha.us,kranj.si,littleworldtv.com,lottostar.co.za,ma-hsh.de,mk-amur.ru,mk-belgorod.ru,mk-chukotka.ru,mk-donbass.ru,mk-hakasia.ru,mk-kaliningrad.ru,mk-kamchatka.ru,mk-kirov.ru,mk-kolyma.ru,mk-kuzbass.ru,mk-kz.kz,mk-lenobl.ru,mk-lipetsk.ru,mk-mari.ru,mk-mosobl.ru,mk-nao.ru,mk-novgorod.ru,mk-orel.ru,mk-pskov.ru,mk-saransk.ru,mk-smolensk.ru,mk-tuva.ru,mk-yamal.ru,mk-zap.ru,mk.kg,mk.ru,mkbryansk.ru,mkisrael.co.il,mkivanovo.ru,mkkaluga.ru,mknews.de,mkpenza.ru,moe.gov.sa,moe.video,moebel-berning.de,monitorus.ru,mountainproject.com,natali.co.il,notadir.toyotakauptuni.is,nurseryrhymestv.com,ohotniki.ru,openeu.eu,pereirinha.com,perplexity.ai,portalderwirtschaft.de,rulate.ru,samsungknox.com,seehotel.it,soundcore.com,stormware.cz,taseralm.com,touring-artists.info,toyotaselfossi.is,uhrzeit123.de,woman.ru,womanhit.ru,zonneplan.nl###cookie-consent
+✅ 多域名拆分: 9minecraft.net,altman.co.il,anixe.pl,avantlink.com,avtovzglyad.ru,b-kassa.ru,biblesforamerica.org,bilaborg.is,bilas.is,bilasolur.is,boernestar.com,craig-russell.co.uk,druni.es,ecobee.com,erau.edu,flyscoot.com,fontawesome.com,foodsdictionary.co.il,garberhof.com,guffi.is,heictojpg.com,hextom.com,hibiny.ru,hirschpromo.com,hofdahollin.is,hotel-avidea.com,ispot.tv,joomshaper.com,kirov.online,kiwi-kids.co.il,kodansha.us,kranj.si,littleworldtv.com,lottostar.co.za,ma-hsh.de,matzbernow.co.il,mk-amur.ru,mk-belgorod.ru,mk-chukotka.ru,mk-donbass.ru,mk-hakasia.ru,mk-kaliningrad.ru,mk-kamchatka.ru,mk-kirov.ru,mk-kolyma.ru,mk-kuzbass.ru,mk-kz.kz,mk-lenobl.ru,mk-lipetsk.ru,mk-mari.ru,mk-mosobl.ru,mk-nao.ru,mk-novgorod.ru,mk-orel.ru,mk-pskov.ru,mk-saransk.ru,mk-smolensk.ru,mk-tuva.ru,mk-yamal.ru,mk-zap.ru,mk.kg,mk.ru,mkbryansk.ru,mkisrael.co.il,mkivanovo.ru,mkkaluga.ru,mknews.de,mkpenza.ru,moe.gov.sa,moe.video,moebel-berning.de,monitorus.ru,mountainproject.com,natali.co.il,notadir.toyotakauptuni.is,nurseryrhymestv.com,ohotniki.ru,openeu.eu,pereirinha.com,perplexity.ai,portalderwirtschaft.de,rulate.ru,samsungknox.com,seehotel.it,soundcore.com,stormware.cz,taseralm.com,touring-artists.info,toyotaselfossi.is,uhrzeit123.de,woman.ru,womanhit.ru,zonneplan.nl###cookie-consent
     → |9minecraft.net###cookie-consent
     → |altman.co.il###cookie-consent
     → |anixe.pl###cookie-consent
@@ -196058,6 +196054,7 @@
     → |littleworldtv.com###cookie-consent
     → |lottostar.co.za###cookie-consent
     → |ma-hsh.de###cookie-consent
+    → |matzbernow.co.il###cookie-consent
     → |mk-amur.ru###cookie-consent
     → |mk-belgorod.ru###cookie-consent
     → |mk-chukotka.ru###cookie-consent
@@ -202048,7 +202045,7 @@
     → |tisak.hr##.avada-footer-scripts
     → |turkishbank.co.uk##.avada-footer-scripts
 🚫 去掉注释行: !! .modal-cacsp-position
-✅ 多域名拆分: 0mas000.com,3-be.se,aardeboerconsument.nl,acib.es,adler-wolfspark.de,almaqua.com,archon.im,atass.org,beno-zilina.sk,bet-duberseuil.com,bielypotok.com,biometricvox.com,bretislavka.cz,budos.fr,but-konto.de,cekantour.sk,ceoma.org,cero.cz,clg.cz,condohotele.eu,covesa.global,creativeworks.com.mx,cs3marketing.com,delogica.com,derkundschafter.de,digim.pl,dsd-dostal.cz,eisbratislava.org,enredadios.com,epoplast.sk,escolasagrera.cat,eworks.sk,femsinspace.com,fiebach-minninger.com,flordeesgueva.es,fmpack.com,funtechadventures.com,gamacisa.com,gemeinde-nordharz.de,grandhotelgarden.com,growzer.com,grupoicsolutions.com,helsingborg.se,hop-shop.hr,hotelcalina.com,hotelstatt.se,hotelstraznice.cz,ihka.be,imrvere.com,intertechnic.sk,iwareprint.pl,lasalita.org,lerroux.com,lineten.com,lofbergs.fi,macla.eu,mapalomo.com,metaling-jajce.com,odbpaderno.it,orientalysbeaute.com,pallejabcn.com,parimeo.de,perfectagro.pl,productosdieteticos.es,profile.es,proske-sanitaer.de,psicologia-estrategica.com,rbbeautycenter.com,reprogir.cat,sagobygden.se,schweintaal.sk,sgfinanciera.com,signframing.nl,soloducha.es,sortirahaguenau.fr,sosfinance.cz,tendermedia.es,thelondontunnels.com,thequantuminsider.com,totalmar.com,veclaicene.lv,vins-loupiac.com,visitaluksne.lv##.modal-cacsp-position
+✅ 多域名拆分: 0mas000.com,3-be.se,aardeboerconsument.nl,acib.es,adler-wolfspark.de,almaqua.com,archon.im,atass.org,beno-zilina.sk,bet-duberseuil.com,bielypotok.com,biometricvox.com,bretislavka.cz,budos.fr,but-konto.de,cekantour.sk,ceoma.org,cero.cz,clg.cz,condohotele.eu,covesa.global,creativeworks.com.mx,cs3marketing.com,delogica.com,derkundschafter.de,digim.pl,dsd-dostal.cz,eisbratislava.org,enredadios.com,epoplast.sk,escolasagrera.cat,eworks.sk,femsinspace.com,fiebach-minninger.com,flordeesgueva.es,fmpack.com,fratelli.co.il,funtechadventures.com,gamacisa.com,gemeinde-nordharz.de,grandhotelgarden.com,growzer.com,grupoicsolutions.com,helsingborg.se,hop-shop.hr,hotelcalina.com,hotelstatt.se,hotelstraznice.cz,ihka.be,imrvere.com,intertechnic.sk,iwareprint.pl,kamatrails.co.il,lasalita.org,lerroux.com,lineten.com,lofbergs.fi,macla.eu,mapalomo.com,metaling-jajce.com,odbpaderno.it,orientalysbeaute.com,pallejabcn.com,parimeo.de,perfectagro.pl,productosdieteticos.es,profile.es,proske-sanitaer.de,psicologia-estrategica.com,rbbeautycenter.com,reprogir.cat,sagobygden.se,schweintaal.sk,sgfinanciera.com,signframing.nl,soloducha.es,sortirahaguenau.fr,sosfinance.cz,tendermedia.es,thelondontunnels.com,thequantuminsider.com,totalmar.com,veclaicene.lv,vins-loupiac.com,visitaluksne.lv##.modal-cacsp-position
     → |0mas000.com##.modal-cacsp-position
     → |3-be.se##.modal-cacsp-position
     → |aardeboerconsument.nl##.modal-cacsp-position
@@ -202085,6 +202082,7 @@
     → |fiebach-minninger.com##.modal-cacsp-position
     → |flordeesgueva.es##.modal-cacsp-position
     → |fmpack.com##.modal-cacsp-position
+    → |fratelli.co.il##.modal-cacsp-position
     → |funtechadventures.com##.modal-cacsp-position
     → |gamacisa.com##.modal-cacsp-position
     → |gemeinde-nordharz.de##.modal-cacsp-position
@@ -202100,6 +202098,7 @@
     → |imrvere.com##.modal-cacsp-position
     → |intertechnic.sk##.modal-cacsp-position
     → |iwareprint.pl##.modal-cacsp-position
+    → |kamatrails.co.il##.modal-cacsp-position
     → |lasalita.org##.modal-cacsp-position
     → |lerroux.com##.modal-cacsp-position
     → |lineten.com##.modal-cacsp-position
@@ -214204,7 +214203,7 @@
 ✅ 多域名拆分: dunietz-elad.co.il,invoice4u.co.il###privacy_policy_popup
     → |dunietz-elad.co.il###privacy_policy_popup
     → |invoice4u.co.il###privacy_policy_popup
-✅ 多域名拆分: 18comp.co.il,an-cooling.com,autotire.co.il,dpirzul.com,dsfiga.co.il,egopower.co.il,gantim.com,gilcopharm.com,givunim.com,gordonsystem.co.il,gsil.co.il,hobby-3.co.il,matov.co.il,matrefa.com,medi-pharm.co.il,mersa.co.il,mishely-art.com,peimot.com,sjlightcompany.com,skil-israel.co.il,sos365.co.il,sound-world.co.il,tiptop-tire.co.il,tireplus.co.il,yuvalim-sdy.com,zolsefer.co.il###sb_privacy_policy_notice
+✅ 多域名拆分: 18comp.co.il,an-cooling.com,autotire.co.il,dpirzul.com,dsfiga.co.il,egopower.co.il,gantim.com,gilcopharm.com,givunim.com,gordonsystem.co.il,gsil.co.il,hobby-3.co.il,matov.co.il,matrefa.com,matzberim.co.il,medi-pharm.co.il,mersa.co.il,mishely-art.com,peimot.com,sjlightcompany.com,skil-israel.co.il,sos365.co.il,sound-world.co.il,tiptop-tire.co.il,tireplus.co.il,yuvalim-sdy.com,zolsefer.co.il###sb_privacy_policy_notice
     → |18comp.co.il###sb_privacy_policy_notice
     → |an-cooling.com###sb_privacy_policy_notice
     → |autotire.co.il###sb_privacy_policy_notice
@@ -214219,6 +214218,7 @@
     → |hobby-3.co.il###sb_privacy_policy_notice
     → |matov.co.il###sb_privacy_policy_notice
     → |matrefa.com###sb_privacy_policy_notice
+    → |matzberim.co.il###sb_privacy_policy_notice
     → |medi-pharm.co.il###sb_privacy_policy_notice
     → |mersa.co.il###sb_privacy_policy_notice
     → |mishely-art.com###sb_privacy_policy_notice
@@ -222175,6 +222175,11 @@
     → |wonkette.com##div[class^="background-"]
     → |zeteo.com##div[class^="background-"]
 🚫 去掉注释行: ! thefederalist.com
+🚫 去掉注释行: ! jezebel.com
+✅ 多域名拆分: avclub.com,jezebel.com,pastemagazine.com##+js(set-cookie, pm_email_popup_status, 1)
+    → |avclub.com##+js(set-cookie, pm_email_popup_status, 1)
+    → |jezebel.com##+js(set-cookie, pm_email_popup_status, 1)
+    → |pastemagazine.com##+js(set-cookie, pm_email_popup_status, 1)
 🚫 去掉注释行: ! tweaktown.com
 🚫 去掉注释行: ! 30seconds.com
 🚫 去掉注释行: ! macleans.ca
@@ -224898,9 +224903,9 @@
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: !---------------------------------Allowlists----------------------------------!
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: V59TXr+cf0teKSHuvDTc+g
+🚫 去掉注释行: ! Checksum: LK3/I/58YjfxlCS+KxjbbQ
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Last modified: 2026-09-25 23:50 UTC
+🚫 去掉注释行: ! Last modified: 2026-09-26 03:50 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
@@ -243093,7 +243098,7 @@
     → |hm.com##.cookie-consent-popup
     → |podurama.com##.cookie-consent-popup
 🚫 去掉注释行: !! #cookie-consent-popup
-✅ 多域名拆分: 1800flowers.co.il,aaa-electric.co.il,aargazim.co.il,ameat.co.il,autoparts4u.co.il,bagina.co.il,bialik-mashtelot.com,cell-tec.co.il,citydeal.co.il,coffee4u.co.il,coffeedeals.co.il,coffeeman.co.il,daniel-baby.co.il,daniel-fitness.co.il,danihi.com,dubin.co.il,dyofix1.co.il,electricland.co.il,electricsale.co.il,electricshop.co.il,electroclick.co.il,electroline.co.il,emiliz.com,finam.ru,finambank.ru,focus.co.il,foodappeal-online.com,freshcafe.co.il,galeykor.co.il,gevaram.co.il,halalit.co.il,harishon-labinyan.co.il,imatrix.co.il,justmotor.co.il,kartonimbeclick.co.il,kbmall.co.il,kingelectric.co.il,linberg.nl,locks.co.il,mabatelectric.com,marco-online.co.il,me-electric.co.il,mercavot.co.il,mispar1.co.il,mosheparts.co.il,mozartbakery.co.il,nitecore.co.il,no-risk.co.il,ocha.co.il,onecoffee.co.il,order227.co.il,pccenter.co.il,pisga-shop.co.il,plastelina-ltd.co.il,probox-online.co.il,projector.co.il,r-k.co.il,rsm.co.il,run2gain.co.il,salielectric.co.il,shaboart.co.il,shop-now14.co.il,sportcom.co.il,super-electric.co.il,superelectric.co.il,telepeled.co.il,threesixty.co.il,toolman.co.il,universe.co.il,vero-cafe.co.il,wijnhaven.nl,winprice.co.il,x-press.co.il,zoref.co.il,zulacasino.com###cookie-consent-popup
+✅ 多域名拆分: 1800flowers.co.il,aaa-electric.co.il,aargazim.co.il,ameat.co.il,autoparts4u.co.il,bagina.co.il,bialik-mashtelot.com,cell-tec.co.il,citydeal.co.il,coffee4u.co.il,coffeedeals.co.il,coffeeman.co.il,daniel-baby.co.il,daniel-fitness.co.il,danihi.com,dubin.co.il,dyofix1.co.il,electricland.co.il,electricsale.co.il,electricshop.co.il,electroclick.co.il,electroline.co.il,emiliz.com,finam.ru,finambank.ru,focus.co.il,foodappeal-online.com,freshcafe.co.il,galeykor.co.il,gevaram.co.il,halalit.co.il,hameir.co.il,harishon-labinyan.co.il,imatrix.co.il,justmotor.co.il,kartonimbeclick.co.il,kbmall.co.il,kingelectric.co.il,linberg.nl,locks.co.il,mabatelectric.com,marco-online.co.il,me-electric.co.il,mercavot.co.il,mispar1.co.il,mosheparts.co.il,mozartbakery.co.il,nitecore.co.il,no-risk.co.il,ocha.co.il,onecoffee.co.il,order227.co.il,pccenter.co.il,pisga-shop.co.il,plastelina-ltd.co.il,probox-online.co.il,projector.co.il,r-k.co.il,rsm.co.il,run2gain.co.il,salielectric.co.il,shaboart.co.il,shop-now14.co.il,sportcom.co.il,super-electric.co.il,superelectric.co.il,telepeled.co.il,threesixty.co.il,toolman.co.il,universe.co.il,vero-cafe.co.il,wijnhaven.nl,winprice.co.il,x-press.co.il,zoref.co.il,zulacasino.com###cookie-consent-popup
     → |1800flowers.co.il###cookie-consent-popup
     → |aaa-electric.co.il###cookie-consent-popup
     → |aargazim.co.il###cookie-consent-popup
@@ -243125,6 +243130,7 @@
     → |galeykor.co.il###cookie-consent-popup
     → |gevaram.co.il###cookie-consent-popup
     → |halalit.co.il###cookie-consent-popup
+    → |hameir.co.il###cookie-consent-popup
     → |harishon-labinyan.co.il###cookie-consent-popup
     → |imatrix.co.il###cookie-consent-popup
     → |justmotor.co.il###cookie-consent-popup
@@ -245006,7 +245012,7 @@
     → |mall.sk##.legal-consent
     → |mimovrste.com##.legal-consent
 🚫 去掉注释行: !! #cookie-consent
-✅ 多域名拆分: 9minecraft.net,altman.co.il,anixe.pl,avantlink.com,avtovzglyad.ru,b-kassa.ru,biblesforamerica.org,bilaborg.is,bilas.is,bilasolur.is,boernestar.com,craig-russell.co.uk,druni.es,ecobee.com,erau.edu,flyscoot.com,fontawesome.com,foodsdictionary.co.il,garberhof.com,guffi.is,heictojpg.com,hextom.com,hibiny.ru,hirschpromo.com,hofdahollin.is,hotel-avidea.com,ispot.tv,joomshaper.com,kirov.online,kiwi-kids.co.il,kodansha.us,kranj.si,littleworldtv.com,lottostar.co.za,ma-hsh.de,mk-amur.ru,mk-belgorod.ru,mk-chukotka.ru,mk-donbass.ru,mk-hakasia.ru,mk-kaliningrad.ru,mk-kamchatka.ru,mk-kirov.ru,mk-kolyma.ru,mk-kuzbass.ru,mk-kz.kz,mk-lenobl.ru,mk-lipetsk.ru,mk-mari.ru,mk-mosobl.ru,mk-nao.ru,mk-novgorod.ru,mk-orel.ru,mk-pskov.ru,mk-saransk.ru,mk-smolensk.ru,mk-tuva.ru,mk-yamal.ru,mk-zap.ru,mk.kg,mk.ru,mkbryansk.ru,mkisrael.co.il,mkivanovo.ru,mkkaluga.ru,mknews.de,mkpenza.ru,moe.gov.sa,moe.video,moebel-berning.de,monitorus.ru,mountainproject.com,natali.co.il,notadir.toyotakauptuni.is,nurseryrhymestv.com,ohotniki.ru,openeu.eu,pereirinha.com,perplexity.ai,portalderwirtschaft.de,rulate.ru,samsungknox.com,seehotel.it,soundcore.com,stormware.cz,taseralm.com,touring-artists.info,toyotaselfossi.is,uhrzeit123.de,woman.ru,womanhit.ru,zonneplan.nl###cookie-consent
+✅ 多域名拆分: 9minecraft.net,altman.co.il,anixe.pl,avantlink.com,avtovzglyad.ru,b-kassa.ru,biblesforamerica.org,bilaborg.is,bilas.is,bilasolur.is,boernestar.com,craig-russell.co.uk,druni.es,ecobee.com,erau.edu,flyscoot.com,fontawesome.com,foodsdictionary.co.il,garberhof.com,guffi.is,heictojpg.com,hextom.com,hibiny.ru,hirschpromo.com,hofdahollin.is,hotel-avidea.com,ispot.tv,joomshaper.com,kirov.online,kiwi-kids.co.il,kodansha.us,kranj.si,littleworldtv.com,lottostar.co.za,ma-hsh.de,matzbernow.co.il,mk-amur.ru,mk-belgorod.ru,mk-chukotka.ru,mk-donbass.ru,mk-hakasia.ru,mk-kaliningrad.ru,mk-kamchatka.ru,mk-kirov.ru,mk-kolyma.ru,mk-kuzbass.ru,mk-kz.kz,mk-lenobl.ru,mk-lipetsk.ru,mk-mari.ru,mk-mosobl.ru,mk-nao.ru,mk-novgorod.ru,mk-orel.ru,mk-pskov.ru,mk-saransk.ru,mk-smolensk.ru,mk-tuva.ru,mk-yamal.ru,mk-zap.ru,mk.kg,mk.ru,mkbryansk.ru,mkisrael.co.il,mkivanovo.ru,mkkaluga.ru,mknews.de,mkpenza.ru,moe.gov.sa,moe.video,moebel-berning.de,monitorus.ru,mountainproject.com,natali.co.il,notadir.toyotakauptuni.is,nurseryrhymestv.com,ohotniki.ru,openeu.eu,pereirinha.com,perplexity.ai,portalderwirtschaft.de,rulate.ru,samsungknox.com,seehotel.it,soundcore.com,stormware.cz,taseralm.com,touring-artists.info,toyotaselfossi.is,uhrzeit123.de,woman.ru,womanhit.ru,zonneplan.nl###cookie-consent
     → |9minecraft.net###cookie-consent
     → |altman.co.il###cookie-consent
     → |anixe.pl###cookie-consent
@@ -245042,6 +245048,7 @@
     → |littleworldtv.com###cookie-consent
     → |lottostar.co.za###cookie-consent
     → |ma-hsh.de###cookie-consent
+    → |matzbernow.co.il###cookie-consent
     → |mk-amur.ru###cookie-consent
     → |mk-belgorod.ru###cookie-consent
     → |mk-chukotka.ru###cookie-consent
@@ -251032,7 +251039,7 @@
     → |tisak.hr##.avada-footer-scripts
     → |turkishbank.co.uk##.avada-footer-scripts
 🚫 去掉注释行: !! .modal-cacsp-position
-✅ 多域名拆分: 0mas000.com,3-be.se,aardeboerconsument.nl,acib.es,adler-wolfspark.de,almaqua.com,archon.im,atass.org,beno-zilina.sk,bet-duberseuil.com,bielypotok.com,biometricvox.com,bretislavka.cz,budos.fr,but-konto.de,cekantour.sk,ceoma.org,cero.cz,clg.cz,condohotele.eu,covesa.global,creativeworks.com.mx,cs3marketing.com,delogica.com,derkundschafter.de,digim.pl,dsd-dostal.cz,eisbratislava.org,enredadios.com,epoplast.sk,escolasagrera.cat,eworks.sk,femsinspace.com,fiebach-minninger.com,flordeesgueva.es,fmpack.com,funtechadventures.com,gamacisa.com,gemeinde-nordharz.de,grandhotelgarden.com,growzer.com,grupoicsolutions.com,helsingborg.se,hop-shop.hr,hotelcalina.com,hotelstatt.se,hotelstraznice.cz,ihka.be,imrvere.com,intertechnic.sk,iwareprint.pl,lasalita.org,lerroux.com,lineten.com,lofbergs.fi,macla.eu,mapalomo.com,metaling-jajce.com,odbpaderno.it,orientalysbeaute.com,pallejabcn.com,parimeo.de,perfectagro.pl,productosdieteticos.es,profile.es,proske-sanitaer.de,psicologia-estrategica.com,rbbeautycenter.com,reprogir.cat,sagobygden.se,schweintaal.sk,sgfinanciera.com,signframing.nl,soloducha.es,sortirahaguenau.fr,sosfinance.cz,tendermedia.es,thelondontunnels.com,thequantuminsider.com,totalmar.com,veclaicene.lv,vins-loupiac.com,visitaluksne.lv##.modal-cacsp-position
+✅ 多域名拆分: 0mas000.com,3-be.se,aardeboerconsument.nl,acib.es,adler-wolfspark.de,almaqua.com,archon.im,atass.org,beno-zilina.sk,bet-duberseuil.com,bielypotok.com,biometricvox.com,bretislavka.cz,budos.fr,but-konto.de,cekantour.sk,ceoma.org,cero.cz,clg.cz,condohotele.eu,covesa.global,creativeworks.com.mx,cs3marketing.com,delogica.com,derkundschafter.de,digim.pl,dsd-dostal.cz,eisbratislava.org,enredadios.com,epoplast.sk,escolasagrera.cat,eworks.sk,femsinspace.com,fiebach-minninger.com,flordeesgueva.es,fmpack.com,fratelli.co.il,funtechadventures.com,gamacisa.com,gemeinde-nordharz.de,grandhotelgarden.com,growzer.com,grupoicsolutions.com,helsingborg.se,hop-shop.hr,hotelcalina.com,hotelstatt.se,hotelstraznice.cz,ihka.be,imrvere.com,intertechnic.sk,iwareprint.pl,kamatrails.co.il,lasalita.org,lerroux.com,lineten.com,lofbergs.fi,macla.eu,mapalomo.com,metaling-jajce.com,odbpaderno.it,orientalysbeaute.com,pallejabcn.com,parimeo.de,perfectagro.pl,productosdieteticos.es,profile.es,proske-sanitaer.de,psicologia-estrategica.com,rbbeautycenter.com,reprogir.cat,sagobygden.se,schweintaal.sk,sgfinanciera.com,signframing.nl,soloducha.es,sortirahaguenau.fr,sosfinance.cz,tendermedia.es,thelondontunnels.com,thequantuminsider.com,totalmar.com,veclaicene.lv,vins-loupiac.com,visitaluksne.lv##.modal-cacsp-position
     → |0mas000.com##.modal-cacsp-position
     → |3-be.se##.modal-cacsp-position
     → |aardeboerconsument.nl##.modal-cacsp-position
@@ -251069,6 +251076,7 @@
     → |fiebach-minninger.com##.modal-cacsp-position
     → |flordeesgueva.es##.modal-cacsp-position
     → |fmpack.com##.modal-cacsp-position
+    → |fratelli.co.il##.modal-cacsp-position
     → |funtechadventures.com##.modal-cacsp-position
     → |gamacisa.com##.modal-cacsp-position
     → |gemeinde-nordharz.de##.modal-cacsp-position
@@ -251084,6 +251092,7 @@
     → |imrvere.com##.modal-cacsp-position
     → |intertechnic.sk##.modal-cacsp-position
     → |iwareprint.pl##.modal-cacsp-position
+    → |kamatrails.co.il##.modal-cacsp-position
     → |lasalita.org##.modal-cacsp-position
     → |lerroux.com##.modal-cacsp-position
     → |lineten.com##.modal-cacsp-position
@@ -253375,7 +253384,7 @@
 ✅ 多域名拆分: dunietz-elad.co.il,invoice4u.co.il###privacy_policy_popup
     → |dunietz-elad.co.il###privacy_policy_popup
     → |invoice4u.co.il###privacy_policy_popup
-✅ 多域名拆分: 18comp.co.il,an-cooling.com,autotire.co.il,dpirzul.com,dsfiga.co.il,egopower.co.il,gantim.com,gilcopharm.com,givunim.com,gordonsystem.co.il,gsil.co.il,hobby-3.co.il,matov.co.il,matrefa.com,medi-pharm.co.il,mersa.co.il,mishely-art.com,peimot.com,sjlightcompany.com,skil-israel.co.il,sos365.co.il,sound-world.co.il,tiptop-tire.co.il,tireplus.co.il,yuvalim-sdy.com,zolsefer.co.il###sb_privacy_policy_notice
+✅ 多域名拆分: 18comp.co.il,an-cooling.com,autotire.co.il,dpirzul.com,dsfiga.co.il,egopower.co.il,gantim.com,gilcopharm.com,givunim.com,gordonsystem.co.il,gsil.co.il,hobby-3.co.il,matov.co.il,matrefa.com,matzberim.co.il,medi-pharm.co.il,mersa.co.il,mishely-art.com,peimot.com,sjlightcompany.com,skil-israel.co.il,sos365.co.il,sound-world.co.il,tiptop-tire.co.il,tireplus.co.il,yuvalim-sdy.com,zolsefer.co.il###sb_privacy_policy_notice
     → |18comp.co.il###sb_privacy_policy_notice
     → |an-cooling.com###sb_privacy_policy_notice
     → |autotire.co.il###sb_privacy_policy_notice
@@ -253390,6 +253399,7 @@
     → |hobby-3.co.il###sb_privacy_policy_notice
     → |matov.co.il###sb_privacy_policy_notice
     → |matrefa.com###sb_privacy_policy_notice
+    → |matzberim.co.il###sb_privacy_policy_notice
     → |medi-pharm.co.il###sb_privacy_policy_notice
     → |mersa.co.il###sb_privacy_policy_notice
     → |mishely-art.com###sb_privacy_policy_notice
@@ -255634,7 +255644,7 @@
 🚫 去掉注释行: # entries:        3550
 🚫 去掉注释行: # format:         hosts (hosts -- in hosts file format)
 🚫 去掉注释行: # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
-🚫 去掉注释行: # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext&_=0
+🚫 去掉注释行: # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext&_=5
 🚫 去掉注释行: # Patreon:        https://patreon.com/blocklist
 🚫 去掉注释行: # other formats:  https://pgl.yoyo.org/adservers/formats.php
 🚫 去掉注释行: # policy:         https://pgl.yoyo.org/adservers/policy.php
