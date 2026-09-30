@@ -6018,6 +6018,7 @@ euractiv.com##.ea-social
 waterworld.com##.ebm-share-list
 locksmithledger.com##.ebm-share-wrapper
 shkspr.mobi##.edent-share
+sfist.com##.edition-social
 argusdelassurance.com##.editoSocialBar
 newskarnataka.com##.elementor-element-9f47a8f
 newnoisemagazine.com##.elementor-element-c6f7bc9
@@ -6743,6 +6744,7 @@ lawfaremedia.org##.post-detail__share
 getcomics.org##.post-footer-shr
 wccftech.com##.post-google
 theashleysrealityroundup.com##.post-links
+sfist.com##.post-preferred-source
 |androidheadlines.com##.post-share
 |bitcoinworld.co.in##.post-share
 |bukvy.org##.post-share
@@ -18520,6 +18522,7 @@ just-eat.ie##div[data-qa="jet-privacy-settings"]
 |visitkamnik.com###cookieConsent
 |wertachkliniken.de###cookieConsent
 |wplt20.com###cookieConsent
+|xn----itbhkrq3b.xn--p1ai###cookieConsent
 |yenibeygir.com###cookieConsent
 |actie.degoedezaak.org##.cookies-consent
 |ashush-projects.co.il##.cookies-consent
@@ -24364,7 +24367,6 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |liquid.ai##.cookie-banner
 |lokmat.com##.cookie-banner
 |massey.ac.nz##.cookie-banner
-|maxdash.ru##.cookie-banner
 |mcc-9.jp##.cookie-banner
 |medipolis.de##.cookie-banner
 |mega.io##.cookie-banner
@@ -24378,6 +24380,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |mmsportsstore.dk##.cookie-banner
 |modworkshop.net##.cookie-banner
 |momentumdash.com##.cookie-banner
+|mydash.ru##.cookie-banner
 |news.nntp4.net##.cookie-banner
 |news.ru##.cookie-banner
 |niche.com##.cookie-banner
@@ -43088,6 +43091,7 @@ rabota.sber.ru##div[class*="styled__CookieWrapper-"]
 |metaratings.tj##div[class^="CookieAllowance-module-"]
 |sberbank.com##div[class^="CookieWarning-"]
 |sberbank.ru##div[class^="CookieWarning-"]
+sponsr.ru##div[class^="Cookie_container"]
 life.by##div[class^="Cookie_modalRoot_"]
 novayagazeta.eu##div[class^="CookiesInformer_"]
 dom.ria.com##div[class^="GdprComponent"]
@@ -43110,7 +43114,9 @@ smi2.ru##div[data-sentry-component="CookieBtn"]
 |rusradio.ru##div[data-sentry-component="CookiesWindow"]
 russianfield.com##div[data-storage-item^="t886cookiename_"]
 knmoloko.ru##div[data-storage-item^="t887cookiename_"]
+id.sber.ru##div[data-testid="CookiesBanner"]
 litres.ru##div[data-testid="cookieAcceptPopup"]
+id.sber.ru##div[data-testid="cookie_banner"]
 detmir.ru##div[data-testid="notification"]
 7dach.ru##div[style^="background-color:#fff3cd; color: #856404;"]
 chaynikam.info##div[style^="position: fixed; bottom: 0px;"]
