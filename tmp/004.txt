@@ -316,7 +316,6 @@
 /dy_66jjss/*
 /dygg_
 /dzwww/ad_dzw_inner.js
-/e/ecmsshop/zhuanpan/js/*
 /eis/diy/ad/*
 /ettoday/gemini/*
 /ezprice_ad.js
@@ -379,8 +378,6 @@
 /gwunggou/*
 /h/k.php?u=*&l=*&v=$third-party
 /hao123_api/api/cpc/*
-/haojio/images/KF-ZL.jpg
-/haojio/js/scoll_bg.js
 /heituad/*
 /heji/mei00*.js
 /hjstore/system/banner/*.txt
@@ -809,7 +806,6 @@ newduba.cn###jq_youxi
 ~sinaimg.cn##a > img[width="980"][src*=".sinaimg."]
 ~allthingsopen.org##a[href*=".com?aff="]
 ~umeng.com##a[href*=".umeng.com"]:not([href="http://www.umeng.com/"]) > img
-~mgtv.com##a[target="_blank"] > img[src*="hitv.com"]
 ~ix8.la##div[class^="ADTOPLB_"]
 ||107.167.16.*.gif
 ||107.167.22.*.gif
@@ -6573,15 +6569,12 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||alicdn.com/g/mm/afp-cdn/JS/
 ||alicdn.com/img/ibank/*_!!2200581616124-
 ||alicdn.com/img/ibank/*_!!2212029770429-
-||alicdn.com/img/ibank/*_!!4231779133-0-cib.
 ||alicdn.com/img/ibank/*_1082732848.
 ||alicdn.com/img/ibank/*_1085845541.
-||alicdn.com/img/ibank/*_1095372465.
 ||alicdn.com/img/ibank/*_1165462224.
 ||alicdn.com/img/ibank/*_1281922417.
 ||alicdn.com/img/ibank/*_1409595492.
 ||alicdn.com/img/ibank/*_1533190909.
-||alicdn.com/img/ibank/*_1545027917.
 ||alicdn.com/img/ibank/*_1591187313.
 ||alicdn.com/img/ibank/*_1746120392.$domain=~rmdown.com
 ||alicdn.com/img/ibank/*_1776866723.
@@ -6590,7 +6583,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||alicdn.com/img/ibank/*_1995781528.
 ||alicdn.com/img/ibank/*_2021817714.
 ||alicdn.com/img/ibank/*_2114606112.
-||alicdn.com/img/ibank/*_256401016.
 ||alicdn.com/img/ibank/*_330044705.
 ||alicdn.com/img/ibank/*_368737028.
 ||alicdn.com/img/ibank/*_392352300.
@@ -14132,8 +14124,6 @@ jianshen8.com##.index-banner
 |1avlang.com##.index-info > .tac
 |avavl4.com##.index-info > .tac
 |avlang.com##.index-info > .tac
-|kpd122.com##.index-owl-carousel
-|ssp28.pw##.index-owl-carousel
 bilibili.com##.index-promote
 pinggu.org##.index-somelinks
 nanfengyl.com##.index-top-ad1
