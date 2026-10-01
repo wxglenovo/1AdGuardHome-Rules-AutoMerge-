@@ -5304,7 +5304,8 @@ swig.com##[aria-label="Cookie policy banner"]
 |swapped.com##[aria-label="Cookie preferences"]
 |umbc.edu##[aria-label="Cookie preferences"]
 kalkulatory.marciniwuc.com##[aria-label="Cookies i prywatnoÅÄ"]
-docs.nats.io##[aria-label="Cookies"]
+|docs.nats.io##[aria-label="Cookies"]
+|ideal.house##[aria-label="Cookies"]
 khanacademy.org##[aria-label="Notification Banner"]
 |itesco.sk##[aria-label="consent-banner"]
 |tesco.*##[aria-label="consent-banner"]
@@ -5943,6 +5944,7 @@ wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotifi
 |hito.xyz###cookiePopup
 |reklama5.com###cookiePopup
 |visitseoul.net###cookiePopup
+|wijnbaas.nl###cookiePopup
 |analyticsmania.com##.cookie-popup
 |athenaeumscheltema.nl##.cookie-popup
 |bestnetleiloes.com##.cookie-popup
@@ -6149,6 +6151,7 @@ sogeti.*###popup-cookieConsent
 |kennesaw.edu###cookie-notification
 |reelrapture.com###cookie-notification
 |retailtrends.nl###cookie-notification
+|simhim.com###cookie-notification
 |southwire.com###cookie-notification
 |sysadminsage.com###cookie-notification
 |tourradar.com###cookie-notification
@@ -6519,6 +6522,7 @@ sogeti.*###popup-cookieConsent
 |autoparts4u.co.il###cookie-consent-popup
 |bagina.co.il###cookie-consent-popup
 |bialik-mashtelot.com###cookie-consent-popup
+|bneidavid.org###cookie-consent-popup
 |cell-tec.co.il###cookie-consent-popup
 |citydeal.co.il###cookie-consent-popup
 |coffee4u.co.il###cookie-consent-popup
@@ -6567,6 +6571,7 @@ sogeti.*###popup-cookieConsent
 |pccenter.co.il###cookie-consent-popup
 |pisga-shop.co.il###cookie-consent-popup
 |plastelina-ltd.co.il###cookie-consent-popup
+|pool.co.il###cookie-consent-popup
 |probox-online.co.il###cookie-consent-popup
 |projector.co.il###cookie-consent-popup
 |r-k.co.il###cookie-consent-popup
@@ -17183,9 +17188,11 @@ bestie.co.il###bestie-cookie-popup
 myofer.co.il###bottom-toasts-layer
 |albombom.co.il###bottomCookiesContentWrapper
 |keramica.co.il###bottomCookiesContentWrapper
+balons.co.il###cb-cookie-bar
 |dacia.co.il###cc-banner
 |renault.co.il###cc-banner
 lubinskitrade.co.il###ccm-cookie-banner
+coverlam.co.il###cl-cookies
 cmotors.co.il###cm-consent-banner
 ortcolleges.org.il###cookie-alert-dialog
 tambour.co.il###cookie-consent-acf-backdrop
@@ -17204,6 +17211,7 @@ zinger-organic.com###cookie-consent-wrapper
 camera.co.il###cookie-policy-overlay
 madlan.co.il###cookie-root
 globes.co.il###cookiesConfirmDiv
+|bneidavid.org###cookiez-banner
 |djistore.benda.co.il###cookiez-banner
 |ydssound.co.il###cookiez-banner
 nathan-yochel.co.il###cui-banner
@@ -17239,9 +17247,11 @@ wine-eilat.com###mcc-cookie-bar
 smnh.tau.ac.il###nmoCookieBanner
 tekoafarms.co.il###pcm-consent-popup
 pezzi.co.il###pezzi-cookie-popup
+omomflavours.co.il###pl-acg-bar
 |bargad.co.il###privacyPop
 |coi.co.il###privacyPop
 |storemobile.co.il###privacyPop
+inz.org.il###privacyPrompt
 |nabob-lock.co.il###privacy_alert
 |shukhashmal.co.il###privacy_alert
 |dunietz-elad.co.il###privacy_policy_popup
@@ -17260,6 +17270,7 @@ ipo.co.il###rg-privacy-wrap
 |gordonsystem.co.il###sb_privacy_policy_notice
 |gsil.co.il###sb_privacy_policy_notice
 |hobby-3.co.il###sb_privacy_policy_notice
+|hrsena.com###sb_privacy_policy_notice
 |matov.co.il###sb_privacy_policy_notice
 |matrefa.com###sb_privacy_policy_notice
 |matzberim.co.il###sb_privacy_policy_notice
@@ -17297,9 +17308,12 @@ bike.co.il###scn-banner-root
 |derech-eretz.co.il###sp-consent
 |health-comfort.co.il###sp-consent
 brurya.co.il###tera-cookie-consent
+|dan-marble.co.il###tp-cookie-consent
 |israel-extreme.com###tp-cookie-consent
 |la-bama.co.il###tp-cookie-consent
 |paz-merkavim.co.il###tp-cookie-consent
+dan-marble.co.il###tp-cookie-overlay
+ballon.co.il###twg-cookie-bar
 |agrica.co.il###upnext-cookie-notice
 |cts.co.il###upnext-cookie-notice
 |dnaateyelevel.com###upnext-cookie-notice
@@ -17324,7 +17338,9 @@ lastprice.co.il##.PCConsent
 kupat.co.il##.ama-cookie-banner
 guidestar.org.il##.app-cookies-disclaimer-container
 infiniti-cars.co.il##.c_128
+erez-stern.co.il##.cadre_alert_cookies
 |aloni-alum.co.il##.cbox-wrap
+|iballoon.co.il##.cbox-wrap
 |sorag.co.il##.cbox-wrap
 ladaat.co##.ck-cookie-banner
 nooa.co.il##.cmplz-cookiebanner
@@ -17449,6 +17465,7 @@ hillula.co.il##[class^="ai-cookie-popup-"]
 alljobs.co.il##[id^="ZA_CAMP_BUBBLE_CONTAINER_CID_"]
 lastminute.co.il##app-notifications-container
 iec.co.il##app-sticky-banner
+kamazeole.co.il##div[aria-label="××××¢×ª ×©××××© ××§××¦× Cookie"]
 |morfix.co.il##div[aria-label="××¡××× ××©××××© ××¢×××××ª"]
 |on-the-way-two.vercel.app##div[aria-label="××¡××× ××©××××© ××¢×××××ª"]
 nokdimapp.co.il##div[aria-labelledby="cookie-consent-title"]
@@ -17504,6 +17521,7 @@ dutyfree.co.il##div[class^="cookieRestriction-module__root-"]
 |speedio.co.il##div[class^="cookiesPopup"]
 |sportcenter.co.il##div[class^="cookiesPopup"]
 |studioland.co.il##div[class^="cookiesPopup"]
+|sulemastore.co.il##div[class^="cookiesPopup"]
 |taflaya.co.il##div[class^="cookiesPopup"]
 |tapro.co.il##div[class^="cookiesPopup"]
 |technoshlomo.co.il##div[class^="cookiesPopup"]
