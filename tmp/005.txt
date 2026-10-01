@@ -208,6 +208,7 @@
 /akam/11/*
 /akam/13/*
 /alog.min.js
+/alog/dp.min.js
 /amazon_linker.min.js
 /amp-access/cta/*
 /amp-access/cta?
@@ -10420,6 +10421,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||track.btdmp.com^
 ||track.coherentpath.com^
 ||track.contently.com^
+||track.convertfox.com^
 ||track.cordial.io^
 ||track.digitalriver.com^
 ||track.emerse.com^
@@ -12319,6 +12321,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||track.livasoft.com.tr^
 ||tracker.adcluster.com.tr^
 ||traffic.wdc.center^
+||trafik.koopit.ist^
 ||wa.wawlabs.com^
 ||web.tv/analytics/
 ||informers.sinoptik.ua^
@@ -13085,6 +13088,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fansshare.com/t.gif
 ||faphouse.com/collector/
 ||farfetch.net/v1/marketing/trackings
+||faro-collector-*.grafana-ops.net^
 ||faro-collector-prod-*.grafana.net^
 ||fastly.com/metrics/gtm/
 ||fastmail.com/api/event/
@@ -51601,6 +51605,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||log.m.sm.cn^
 ||log.mgtv.com^
 ||log.mix.sina.com.cn^
+||log.news.baidu.com^
 ||log.sina.cn^
 ||log.zcool.com.cn^
 ||log.zongheng.com^
@@ -51709,6 +51714,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||stat.zol.com.cn^
 ||static.funshion.com/*/common/log/
 ||static.qiyi.com/js/pingback/
+||static.ws.126.net/utf8/3g/util/antanalysis.min.js$domain=163.com
 ||statistic.qzone.qq.com^
 ||statwup.huya.com^
 ||steamchina.com/events/
