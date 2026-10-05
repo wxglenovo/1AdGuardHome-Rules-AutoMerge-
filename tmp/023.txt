@@ -36880,6 +36880,9 @@ businesshemden.com##+js(set-cookie, mnd-statistics_cookie, false)
 |szcoportal.sk##body,html:style(overflow: auto !important; position: initial !important;)
 |ucinkovitasola.si##body,html:style(overflow: auto !important; position: initial !important;)
 |varstvo-podatkov.si##body,html:style(overflow: auto !important; position: initial !important;)
+ridan.ru###modal-cookie
+ridan.ru##.modal-backdrop
+ridan.ru##body.modal-open:style(overflow-y: auto !important)
 puzzleyou.at##+js(set-cookie, puzzleyou-at_cookies_consent_allowlist, 0, , reload, 1)
 puzzleyou.be##+js(set-cookie, puzzleyou-be_cookies_consent_allowlist, 0, , reload, 1)
 puzzleyou.com##+js(set-cookie, puzzleyou-ca_cookies_consent_allowlist, 0, , reload, 1)
