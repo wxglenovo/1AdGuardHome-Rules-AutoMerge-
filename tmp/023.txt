@@ -17795,6 +17795,7 @@ tokeninsight.com##.ti-cookie-container
 tonic.com##.ti-pastry--banner
 tiktok.com##.tiktok-sdk-cookie-banner
 tastedive.com##.tk-Footer
+|lacasadipeppe.com##.tm-consent
 |sparhamster.at##.tm-consent
 |stratcann.com##.tm-consent
 truemoney.com##.tmn-cookie
@@ -43889,6 +43890,7 @@ fptshop.com.vn##[data-cookie-consent-modal="true"]
 ||fewostay.de/ccm/public/index.php/app.js
 ||flvw.de/media/plugins/ConsentManager/ConsentManager.min.js
 ||gedk-consent.he-webpack.de/public/app.js
+||glockenklang.de/wp-content/plugins/cookiez/
 ||henryschein.at^*/CookieList.aspx
 ||howatherm.de/frontend/media/cm/
 ||jaloucity.de/skin/frontend/default/jaloucity_rwd/js/jcitycookiepopup.js
@@ -49615,7 +49617,9 @@ sifted.eu##[data-testid="in-house-ad-climatetech"]
 thurrott.com##[data-thurrott-layout-section-footer-section="newsletter"]
 thurrott.com##[data-thurrott-section="inline-form"]
 ft.com##[data-trackable="story:related-promo"]
-townandcountrymag.com##[data-vars-block-type="Newsletter"]
+|caranddriver.com##[data-vars-block-type="Newsletter"]
+|esquire.com##[data-vars-block-type="Newsletter"]
+|townandcountrymag.com##[data-vars-block-type="Newsletter"]
 talkiatry.com##[data-wf--footer-signup-banner--variant]
 torontosun.com##[data-widget="newsletter"]
 oann.com##[href="/alerts"]
