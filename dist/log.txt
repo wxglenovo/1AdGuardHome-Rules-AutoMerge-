@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-10-07T04:18:51.655Z
+🚫 去掉注释行: ! Last modified: 2026-10-07T08:22:26.932Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -1662,10 +1662,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 94567
-🚫 去掉注释行: ! Checksum: 7FKE/H5poESAsu0MRMM0dw
-🚫 去掉注释行: ! Version: 202610070603
+🚫 去掉注释行: ! Checksum: c0oC6jlflg48ABpucrFTkw
+🚫 去掉注释行: ! Version: 202610071323
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 07 Oct 2026 06:03 UTC
+🚫 去掉注释行: ! Last modified: 07 Oct 2026 13:23 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -25406,10 +25406,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: USK+s2nZ+dP5NgP2ddzjGw
-🚫 去掉注释行: ! Version: 202610070603
+🚫 去掉注释行: ! Checksum: 3ouxnQ4dJVdTPs/ufxQowA
+🚫 去掉注释行: ! Version: 202610071323
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 07 Oct 2026 06:03 UTC
+🚫 去掉注释行: ! Last modified: 07 Oct 2026 13:23 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -25810,7 +25810,6 @@
 🚫 去掉注释行: ##.chat-right-ad
 🚫 去掉注释行: ##.chat-sysbroadcast-ad
 🚫 去掉注释行: ##.chat-top-ad
-🚫 去掉注释行: ##.col-md-10 > .banner-table-block
 🚫 去掉注释行: ##.col6 > a[onclick*="横幅"]
 🚫 去掉注释行: ##.comiis_ad
 🚫 去掉注释行: ##.comiis_adbox
@@ -27103,7 +27102,7 @@
     → |tieba.baidu.com##.activity_iframe_container
     → |tieba.com##.activity_iframe_container
     → |xingqu.baidu.com##.activity_iframe_container
-✅ 多域名拆分: panda985.com,qqdsw8.cn,knews.com.tw,shiyrj.top,yalishi.com,guozaoke.com,100ec.cn,159i.com,1905.com,22vd.com,2345.cn,234fang.com,3gsc.com.cn,52youpiao.com,72g.com,8se.me,acg.bz,acg13.cn,acgbenzi.com,baiduyunpan.net,baike.com,bbs-mychat.com,cdyee.com,ce.cn,chinaqking.com,chinatimes.com,chinatruck.org,chinaz.com,cnforex.com,cnsoftnews.com,codepub.com,cq.xinhuanet.com,cxryun.cn,dav01.com,discuss.com.hk,djwma.com,dmzj.com,dmzj1.com,dngz.net,douban.com,dzwww.com,eastday.com,fengniao.com,focus.cn,fx112.com,gongkong.com,henan100.com,honglingjin.co.uk,house.jschina.com.cn,iciba.com,ifeng.com,ipeen.com.tw,isharebest.com,itavcn.com,jojf.cn,jrj.com.cn,kumi.cn,landiannews.com,lawtv.com.cn,lieyunwang.com,lncn.org,loveshang.com,ltn.com.tw,luo8.com,maxpda.com,mm111.net,moxing.net,mvcat.com,ncdiy.com,neotv.com.cn,newsmth.net,njdaily.cn,pc0359.cn,people.com.cn,pharmnet.com.cn,pixnet.net,pptv.com,ptbus.com,qncye.com,sogou.com,sozi.cn,toolfk.com,tv.sohu.com,u-car.com.tw,weather.com.cn,xianbao.fun,yawin.cn,yb983.com,ydss.cn,yesky.com,yiche.com,yqxxs.com,zhihu.com,ziyuanyo.com##.ad
+✅ 多域名拆分: panda985.com,qqdsw8.cn,knews.com.tw,shiyrj.top,yalishi.com,guozaoke.com,100ec.cn,159i.com,1905.com,22vd.com,2345.cn,234fang.com,3gsc.com.cn,52youpiao.com,72g.com,8se.me,acg.bz,acg13.cn,acgbenzi.com,baike.com,bbs-mychat.com,cdyee.com,ce.cn,chinaqking.com,chinatimes.com,chinatruck.org,chinaz.com,cnforex.com,cnsoftnews.com,codepub.com,cq.xinhuanet.com,cxryun.cn,dav01.com,discuss.com.hk,djwma.com,dmzj.com,dmzj1.com,dngz.net,douban.com,dzwww.com,eastday.com,fengniao.com,focus.cn,fx112.com,gongkong.com,henan100.com,honglingjin.co.uk,house.jschina.com.cn,iciba.com,ifeng.com,ipeen.com.tw,isharebest.com,itavcn.com,jojf.cn,jrj.com.cn,kumi.cn,landiannews.com,lawtv.com.cn,lieyunwang.com,lncn.org,loveshang.com,ltn.com.tw,luo8.com,maxpda.com,mm111.net,moxing.net,mvcat.com,ncdiy.com,neotv.com.cn,newsmth.net,njdaily.cn,pc0359.cn,people.com.cn,pharmnet.com.cn,pixnet.net,pptv.com,ptbus.com,qncye.com,sogou.com,sozi.cn,toolfk.com,tv.sohu.com,u-car.com.tw,weather.com.cn,xianbao.fun,yawin.cn,yb983.com,ydss.cn,yesky.com,yiche.com,yqxxs.com,zhihu.com,ziyuanyo.com##.ad
     → |panda985.com##.ad
     → |qqdsw8.cn##.ad
     → |knews.com.tw##.ad
@@ -27123,7 +27122,6 @@
     → |acg.bz##.ad
     → |acg13.cn##.ad
     → |acgbenzi.com##.ad
-    → |baiduyunpan.net##.ad
     → |baike.com##.ad
     → |bbs-mychat.com##.ad
     → |cdyee.com##.ad
@@ -27326,7 +27324,7 @@
 ✅ 多域名拆分: ccoo.cn,hackhome.com##.adn
     → |ccoo.cn##.adn
     → |hackhome.com##.adn
-✅ 多域名拆分: 0594.com,164580.com,2234.cn,appinn.com,appledaily.com.tw,china.com,chinamedevice.cn,cnodejs.org,danyang.com,doyouhike.net,e3zy.com,haokan5.com,hc360.com,helloavgirls.com,hkjunkcall.com,meiyouad.com,moe48.com,qq.com,sina.com,sogou.com,tongren.gov.cn,uc123.com,up01.cc,yeeyi.com##.ads
+✅ 多域名拆分: 0594.com,164580.com,2234.cn,appinn.com,appledaily.com.tw,china.com,chinamedevice.cn,cnodejs.org,danyang.com,doyouhike.net,haokan5.com,hc360.com,helloavgirls.com,hkjunkcall.com,meiyouad.com,moe48.com,qq.com,sina.com,sogou.com,tongren.gov.cn,uc123.com,up01.cc,yeeyi.com##.ads
     → |0594.com##.ads
     → |164580.com##.ads
     → |2234.cn##.ads
@@ -27337,7 +27335,6 @@
     → |cnodejs.org##.ads
     → |danyang.com##.ads
     → |doyouhike.net##.ads
-    → |e3zy.com##.ads
     → |haokan5.com##.ads
     → |hc360.com##.ads
     → |helloavgirls.com##.ads
@@ -27462,13 +27459,13 @@
 ✅ 多域名拆分: 168gamer.com,168gamer.net##.b_tad
     → |168gamer.com##.b_tad
     → |168gamer.net##.b_tad
-✅ 多域名拆分: 0du123.com,100ec.cn,24en.com,3gsc.com.cn,591hx.com,acgnx.net,acgnx.se,aguitar.cn,btzx2017.com,e0514.com,eastmoney.com,guitarchina.com,gz0668.com,hk.on.cc,iguaji.com,iqiyi.com,jia360.com,jojf.cn,junk-call.com,kdnet.net,kumi.cn,netbian.com,qiuziti.com,rain2.top,solarbe.com,tiboo.cn,v2rayssr.com,woniuyulew.com,xingkbjm.com,zyue.com##.banner
+✅ 多域名拆分: 0du123.com,100ec.cn,24en.com,3gsc.com.cn,591hx.com,acgnx.cc,acgnx.se,aguitar.cn,btzx2017.com,e0514.com,eastmoney.com,guitarchina.com,gz0668.com,hk.on.cc,iguaji.com,iqiyi.com,jia360.com,jojf.cn,junk-call.com,kdnet.net,kumi.cn,netbian.com,qiuziti.com,rain2.top,solarbe.com,tiboo.cn,v2rayssr.com,woniuyulew.com,xingkbjm.com,zyue.com##.banner
     → |0du123.com##.banner
     → |100ec.cn##.banner
     → |24en.com##.banner
     → |3gsc.com.cn##.banner
     → |591hx.com##.banner
-    → |acgnx.net##.banner
+    → |acgnx.cc##.banner
     → |acgnx.se##.banner
     → |aguitar.cn##.banner
     → |btzx2017.com##.banner
@@ -27620,9 +27617,6 @@
 ✅ 多域名拆分: 91.com,hao123.com##.cn_banner
     → |91.com##.cn_banner
     → |hao123.com##.cn_banner
-✅ 多域名拆分: big-cup.tv,g-cup.tv##.col-md-12.text-center[style="margin-top: 3px;"]
-    → |big-cup.tv##.col-md-12.text-center[style="margin-top: 3px;"]
-    → |g-cup.tv##.col-md-12.text-center[style="margin-top: 3px;"]
 ✅ 多域名拆分: gamefy.cn,sitv.com.cn##.col-vlist-l > span
     → |gamefy.cn##.col-vlist-l > span
     → |sitv.com.cn##.col-vlist-l > span
@@ -28206,9 +28200,6 @@
 ✅ 多域名拆分: jdwx.info,motobuy.com.tw##.other
     → |jdwx.info##.other
     → |motobuy.com.tw##.other
-✅ 多域名拆分: avsuggest.com,qiaobutang.com##.overlay
-    → |avsuggest.com##.overlay
-    → |qiaobutang.com##.overlay
 ✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.per_list.j_per_list.per_list_frs
     → |1111.baidu.com##.per_list.j_per_list.per_list_frs
     → |bdimg.com##.per_list.j_per_list.per_list_frs
@@ -28419,9 +28410,6 @@
 ✅ 多域名拆分: firefox.com.cn,firefoxchina.cn##.theme-side-bar[trace-key="ad_theme_skin_link"]
     → |firefox.com.cn##.theme-side-bar[trace-key="ad_theme_skin_link"]
     → |firefoxchina.cn##.theme-side-bar[trace-key="ad_theme_skin_link"]
-✅ 多域名拆分: dlemm.cn,isiyuan.net##.themead
-    → |dlemm.cn##.themead
-    → |isiyuan.net##.themead
 ✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.thread_dir_ad
     → |1111.baidu.com##.thread_dir_ad
     → |bdimg.com##.thread_dir_ad
@@ -28605,8 +28593,8 @@
 ✅ 多域名拆分: axutongxue.com,axutongxue.net##[style^="height:58px;"]
     → |axutongxue.com##[style^="height:58px;"]
     → |axutongxue.net##[style^="height:58px;"]
-✅ 多域名拆分: acgnx.net,acgnx.se##a > img[src^="/images/"]
-    → |acgnx.net##a > img[src^="/images/"]
+✅ 多域名拆分: acgnx.cc,acgnx.se##a > img[src^="/images/"]
+    → |acgnx.cc##a > img[src^="/images/"]
     → |acgnx.se##a > img[src^="/images/"]
 ✅ 多域名拆分: tieba.baidu.com,wapp.baidu.com##a.fixed_bar
     → |tieba.baidu.com##a.fixed_bar
@@ -29899,10 +29887,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: T6CjetVYsjAOlJD/PY94jg
-🚫 去掉注释行: ! Version: 202610070603
+🚫 去掉注释行: ! Checksum: 9/StkQ1hybyyOP3I314h4Q
+🚫 去掉注释行: ! Version: 202610071323
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 07 Oct 2026 06:03 UTC
+🚫 去掉注释行: ! Last modified: 07 Oct 2026 13:23 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -30579,11 +30567,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202610070600
+🚫 去掉注释行: ! Version: 202610071315
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 07 Oct 2026 06:00 UTC
+🚫 去掉注释行: ! Last modified: 07 Oct 2026 13:15 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: f75c701583b14ee8ce7f78385fcaad36433a0939
+🚫 去掉注释行: ! Commit: acf1e217f059fdbb3319585e387dacc5c6971044
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -54359,11 +54347,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202610070605
+🚫 去掉注释行: ! Version: 202610071322
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 07 Oct 2026 06:05 UTC
+🚫 去掉注释行: ! Last modified: 07 Oct 2026 13:22 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 878ed9403279122a1294c49965f4823d589a5bc6
+🚫 去掉注释行: ! Commit: c25a475315097bf719b8dc025a6d5430ffe1feb4
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -70743,10 +70731,10 @@
 🚫 去掉注释行: ! Issues: https://github.com/hagezi/dns-blocklists/issues
 🚫 去掉注释行: ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 🚫 去掉注释行: ! Expires: 8 hours
-🚫 去掉注释行: ! Last modified: 06 Oct 2026 23:07 UTC
-🚫 去掉注释行: ! Version: 2026.1006.2307.29
+🚫 去掉注释行: ! Last modified: 07 Oct 2026 09:11 UTC
+🚫 去掉注释行: ! Version: 2026.1007.0911.41
 🚫 去掉注释行: ! Syntax: AdBlock
-🚫 去掉注释行: ! Number of entries: 56604
+🚫 去掉注释行: ! Number of entries: 57232
 🚫 去掉注释行: !
 🚫 去掉注释行: !Title: anti-AD for AdGuard
 🚫 去掉注释行: !Version: 20261004214259652134095
@@ -70767,8 +70755,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !Generated: 2026-10-07 08:20:35
-🚫 去掉注释行: !RuleCount: 798565
+🚫 去掉注释行: !Generated: 2026-10-07 14:24:40
+🚫 去掉注释行: !RuleCount: 801023
 ✅ HOSTS 转换: 127.0.0.1 123.ywxww.net → |123.ywxww.net^
 ✅ HOSTS 转换: 127.0.0.1 1717.1000uc.com → |1717.1000uc.com^
 ✅ HOSTS 转换: 127.0.0.1 198-macros.com → |198-macros.com^
@@ -70776,7 +70764,6 @@
 ✅ HOSTS 转换: 127.0.0.1 22qq-client.com → |22qq-client.com^
 ✅ HOSTS 转换: 127.0.0.1 4eclient.com → |4eclient.com^
 ✅ HOSTS 转换: 127.0.0.1 cn.devglobal.biz → |cn.devglobal.biz^
-✅ HOSTS 转换: 127.0.0.1 abitcoinbull.com → |abitcoinbull.com^
 ✅ HOSTS 转换: 127.0.0.1 acc.jiangsujiaxue.com → |acc.jiangsujiaxue.com^
 ✅ HOSTS 转换: 127.0.0.1 accesstelematics.com → |accesstelematics.com^
 ✅ HOSTS 转换: 127.0.0.1 acms.saleseos.com → |acms.saleseos.com^
@@ -70791,6 +70778,7 @@
 ✅ HOSTS 转换: 127.0.0.1 allendostmen.com → |allendostmen.com^
 ✅ HOSTS 转换: 127.0.0.1 alotic.net → |alotic.net^
 ✅ HOSTS 转换: 127.0.0.1 alternativas.ru → |alternativas.ru^
+✅ HOSTS 转换: 127.0.0.1 aolgepacklng.com → |aolgepacklng.com^
 ✅ HOSTS 转换: 127.0.0.1 api.darkside.cy → |api.darkside.cy^
 ✅ HOSTS 转换: 127.0.0.1 api.wipmania.net → |api.wipmania.net^
 ✅ HOSTS 转换: 127.0.0.1 app.appzcvb.com → |app.appzcvb.com^
@@ -70799,6 +70787,7 @@
 ✅ HOSTS 转换: 127.0.0.1 astroliper.ac → |astroliper.ac^
 ✅ HOSTS 转换: 127.0.0.1 atasapka.com.tr → |atasapka.com.tr^
 ✅ HOSTS 转换: 127.0.0.1 backupso.com → |backupso.com^
+✅ HOSTS 转换: 127.0.0.1 bafdili.com → |bafdili.com^
 ✅ HOSTS 转换: 127.0.0.1 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev → |balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^
 ✅ HOSTS 转换: 127.0.0.1 beak.in → |beak.in^
 ✅ HOSTS 转换: 127.0.0.1 beoauto.alexion.rs → |beoauto.alexion.rs^
@@ -70849,7 +70838,10 @@
 ✅ HOSTS 转换: 127.0.0.1 dl.1003b.56a.com → |dl.1003b.56a.com^
 ✅ HOSTS 转换: 127.0.0.1 dl.dzqzd.com → |dl.dzqzd.com^
 ✅ HOSTS 转换: 127.0.0.1 dl.natgo.cn → |dl.natgo.cn^
+✅ HOSTS 转换: 127.0.0.1 docs.cs-supplements.de → |docs.cs-supplements.de^
 ✅ HOSTS 转换: 127.0.0.1 donkeytourscroatia.com → |donkeytourscroatia.com^
+✅ HOSTS 转换: 127.0.0.1 donutclients.st → |donutclients.st^
+✅ HOSTS 转换: 127.0.0.1 donutdupe.com → |donutdupe.com^
 ✅ HOSTS 转换: 127.0.0.1 donutsmpclient.com → |donutsmpclient.com^
 ✅ HOSTS 转换: 127.0.0.1 donutsmpdupe.com → |donutsmpdupe.com^
 ✅ HOSTS 转换: 127.0.0.1 down.fwqlt.com → |down.fwqlt.com^
@@ -70864,7 +70856,7 @@
 ✅ HOSTS 转换: 127.0.0.1 dynga.pl → |dynga.pl^
 ✅ HOSTS 转换: 127.0.0.1 easycryptos.org → |easycryptos.org^
 ✅ HOSTS 转换: 127.0.0.1 ebullientlife.in → |ebullientlife.in^
-✅ HOSTS 转换: 127.0.0.1 electri.billregulator.com → |electri.billregulator.com^
+✅ HOSTS 转换: 127.0.0.1 eidoss.mx → |eidoss.mx^
 ✅ HOSTS 转换: 127.0.0.1 elisans.novayonetim.com → |elisans.novayonetim.com^
 ✅ HOSTS 转换: 127.0.0.1 embedone.com → |embedone.com^
 ✅ HOSTS 转换: 127.0.0.1 en.taichuan.com → |en.taichuan.com^
@@ -70935,7 +70927,6 @@
 ✅ HOSTS 转换: 127.0.0.1 konsor.ru → |konsor.ru^
 ✅ HOSTS 转换: 127.0.0.1 landonirwin.com → |landonirwin.com^
 ✅ HOSTS 转换: 127.0.0.1 lawfirm.paperbirdtech.com → |lawfirm.paperbirdtech.com^
-✅ HOSTS 转换: 127.0.0.1 likedrink.beer → |likedrink.beer^
 ✅ HOSTS 转换: 127.0.0.1 lindnerelektroanlagen.de → |lindnerelektroanlagen.de^
 ✅ HOSTS 转换: 127.0.0.1 loanoffer.co.in → |loanoffer.co.in^
 ✅ HOSTS 转换: 127.0.0.1 local-update.com → |local-update.com^
@@ -70954,8 +70945,6 @@
 ✅ HOSTS 转换: 127.0.0.1 malupieng.com.br → |malupieng.com.br^
 ✅ HOSTS 转换: 127.0.0.1 manmenduster.online → |manmenduster.online^
 ✅ HOSTS 转换: 127.0.0.1 maple30.com → |maple30.com^
-✅ HOSTS 转换: 127.0.0.1 maverick174.org → |maverick174.org^
-✅ HOSTS 转换: 127.0.0.1 maxxlavalink.cyou → |maxxlavalink.cyou^
 ✅ HOSTS 转换: 127.0.0.1 meteorclients.com → |meteorclients.com^
 ✅ HOSTS 转换: 127.0.0.1 metrics.gocloudmaps.com → |metrics.gocloudmaps.com^
 ✅ HOSTS 转换: 127.0.0.1 mibd.org → |mibd.org^
@@ -70963,6 +70952,7 @@
 ✅ HOSTS 转换: 127.0.0.1 mitreart.com → |mitreart.com^
 ✅ HOSTS 转换: 127.0.0.1 mkconstructions.net → |mkconstructions.net^
 ✅ HOSTS 转换: 127.0.0.1 mnurlogistics.az → |mnurlogistics.az^
+✅ HOSTS 转换: 127.0.0.1 mockupcorporation.com → |mockupcorporation.com^
 ✅ HOSTS 转换: 127.0.0.1 mogimall.com → |mogimall.com^
 ✅ HOSTS 转换: 127.0.0.1 moneylord.org → |moneylord.org^
 ✅ HOSTS 转换: 127.0.0.1 moniquejhingon.com → |moniquejhingon.com^
@@ -70975,21 +70965,19 @@
 ✅ HOSTS 转换: 127.0.0.1 n.vs108.com → |n.vs108.com^
 ✅ HOSTS 转换: 127.0.0.1 ncxps.com → |ncxps.com^
 ✅ HOSTS 转换: 127.0.0.1 new-orleans.pl → |new-orleans.pl^
-✅ HOSTS 转换: 127.0.0.1 nfadealer.top → |nfadealer.top^
 ✅ HOSTS 转换: 127.0.0.1 noithaticon.vn → |noithaticon.vn^
-✅ HOSTS 转换: 127.0.0.1 northernvirginiaeyeassociates.com → |northernvirginiaeyeassociates.com^
 ✅ HOSTS 转换: 127.0.0.1 nusatoyota.co.id → |nusatoyota.co.id^
 ✅ HOSTS 转换: 127.0.0.1 ny.lshdw.cc → |ny.lshdw.cc^
 ✅ HOSTS 转换: 127.0.0.1 obearo.com → |obearo.com^
 ✅ HOSTS 转换: 127.0.0.1 odinclient.com → |odinclient.com^
 ✅ HOSTS 转换: 127.0.0.1 odinclient.st → |odinclient.st^
+✅ HOSTS 转换: 127.0.0.1 ohhhhhmoney.com → |ohhhhhmoney.com^
 ✅ HOSTS 转换: 127.0.0.1 ojang.pe.kr → |ojang.pe.kr^
 ✅ HOSTS 转换: 127.0.0.1 okhan.net → |okhan.net^
 ✅ HOSTS 转换: 127.0.0.1 oknoplastik.sk → |oknoplastik.sk^
 ✅ HOSTS 转换: 127.0.0.1 omskin.org → |omskin.org^
 ✅ HOSTS 转换: 127.0.0.1 onfiltre.com.tr → |onfiltre.com.tr^
 ✅ HOSTS 转换: 127.0.0.1 opsecmod.st → |opsecmod.st^
-✅ HOSTS 转换: 127.0.0.1 outpost.co.ke → |outpost.co.ke^
 ✅ HOSTS 转换: 127.0.0.1 p3.zbjimg.com → |p3.zbjimg.com^
 ✅ HOSTS 转换: 127.0.0.1 pay.aqiu6.com → |pay.aqiu6.com^
 ✅ HOSTS 转换: 127.0.0.1 pcupd.com → |pcupd.com^
@@ -71007,7 +70995,7 @@
 ✅ HOSTS 转换: 127.0.0.1 prestigeclient.st → |prestigeclient.st^
 ✅ HOSTS 转换: 127.0.0.1 primeemberq.cfd → |primeemberq.cfd^
 ✅ HOSTS 转换: 127.0.0.1 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev → |profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^
-✅ HOSTS 转换: 127.0.0.1 project0.cc → |project0.cc^
+✅ HOSTS 转换: 127.0.0.1 protherapycenter.com → |protherapycenter.com^
 ✅ HOSTS 转换: 127.0.0.1 public.demo.securecloudsandbox.com → |public.demo.securecloudsandbox.com^
 ✅ HOSTS 转换: 127.0.0.1 pvsa.gxfugy.cn → |pvsa.gxfugy.cn^
 ✅ HOSTS 转换: 127.0.0.1 qiniuyunxz.yxflzs.com → |qiniuyunxz.yxflzs.com^
@@ -71051,7 +71039,6 @@
 ✅ HOSTS 转换: 127.0.0.1 seputartuban.com → |seputartuban.com^
 ✅ HOSTS 转换: 127.0.0.1 sesdigitalsolutions.com → |sesdigitalsolutions.com^
 ✅ HOSTS 转换: 127.0.0.1 sg123.net → |sg123.net^
-✅ HOSTS 转换: 127.0.0.1 shivsoftwaresolutions.com → |shivsoftwaresolutions.com^
 ✅ HOSTS 转换: 127.0.0.1 shqdown.ggzuhao.com → |shqdown.ggzuhao.com^
 ✅ HOSTS 转换: 127.0.0.1 sk-comtel.com → |sk-comtel.com^
 ✅ HOSTS 转换: 127.0.0.1 skyblock-addons.com → |skyblock-addons.com^
@@ -71065,7 +71052,7 @@
 ✅ HOSTS 转换: 127.0.0.1 static.topxgun.com → |static.topxgun.com^
 ✅ HOSTS 转换: 127.0.0.1 static.youdm.cn → |static.youdm.cn^
 ✅ HOSTS 转换: 127.0.0.1 stdown.dinju.com → |stdown.dinju.com^
-✅ HOSTS 转换: 127.0.0.1 streammobs.com → |streammobs.com^
+✅ HOSTS 转换: 127.0.0.1 stellaspicy.org → |stellaspicy.org^
 ✅ HOSTS 转换: 127.0.0.1 summitcapitalpatners.info → |summitcapitalpatners.info^
 ✅ HOSTS 转换: 127.0.0.1 support.clz.kr → |support.clz.kr^
 ✅ HOSTS 转换: 127.0.0.1 sushiandpoke.pt → |sushiandpoke.pt^
@@ -71094,12 +71081,11 @@
 ✅ HOSTS 转换: 127.0.0.1 top8onlinegame.com → |top8onlinegame.com^
 ✅ HOSTS 转换: 127.0.0.1 tpp.om-stock.com → |tpp.om-stock.com^
 ✅ HOSTS 转换: 127.0.0.1 trtmyanmar.com → |trtmyanmar.com^
+✅ HOSTS 转换: 127.0.0.1 tttkkkssww.com → |tttkkkssww.com^
 ✅ HOSTS 转换: 127.0.0.1 twitch.tj → |twitch.tj^
-✅ HOSTS 转换: 127.0.0.1 twu-hwt.org → |twu-hwt.org^
 ✅ HOSTS 转换: 127.0.0.1 upaicdn.xinmei365.com → |upaicdn.xinmei365.com^
 ✅ HOSTS 转换: 127.0.0.1 upchemicals.co.in → |upchemicals.co.in^
 ✅ HOSTS 转换: 127.0.0.1 update.cg100iii.com → |update.cg100iii.com^
-✅ HOSTS 转换: 127.0.0.1 upload.filehost.lol → |upload.filehost.lol^
 ✅ HOSTS 转换: 127.0.0.1 uu.v2raynapps.com.cn → |uu.v2raynapps.com.cn^
 ✅ HOSTS 转换: 127.0.0.1 veryboys.com → |veryboys.com^
 ✅ HOSTS 转换: 127.0.0.1 visam.info → |visam.info^
@@ -71143,7 +71129,6 @@
 ✅ HOSTS 转换: 127.0.0.1 www.myvcart.com → |www.myvcart.com^
 ✅ HOSTS 转换: 127.0.0.1 www.namuvpn.com → |www.namuvpn.com^
 ✅ HOSTS 转换: 127.0.0.1 www.newkey.co.kr → |www.newkey.co.kr^
-✅ HOSTS 转换: 127.0.0.1 www.notbak.com → |www.notbak.com^
 ✅ HOSTS 转换: 127.0.0.1 www.ojang.pe.kr → |www.ojang.pe.kr^
 ✅ HOSTS 转换: 127.0.0.1 www.okhan.net → |www.okhan.net^
 ✅ HOSTS 转换: 127.0.0.1 www.pointtohealth.com → |www.pointtohealth.com^
@@ -154234,10 +154219,10 @@
 🚫 去掉注释行: ! Blocked domains: 5532
 🚫 去掉注释行: ! unBlocked domains: 16
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: 4NgyHfNHYeaaI4gif2f79A
-🚫 去掉注释行: ! Version: 202610070425
+🚫 去掉注释行: ! Checksum: CuG0ppBjVBENObDmRCeY3A
+🚫 去掉注释行: ! Version: 202610071225
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-10-07 04:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-10-07 12:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -189335,12 +189320,13 @@
 ✅ 多域名拆分: cline.bot,opencollective.com##[data-testid="cookies-dialog"]
     → |cline.bot##[data-testid="cookies-dialog"]
     → |opencollective.com##[data-testid="cookies-dialog"]
-✅ 多域名拆分: apps.db.ripe.net,booking.autopartner.dk,loyalfans.com,navigraph.com,shop.hazi-hinam.co.il##app-cookie-consent
+✅ 多域名拆分: apps.db.ripe.net,booking.autopartner.dk,loyalfans.com,navigraph.com,shop.hazi-hinam.co.il,tbcbank.ge##app-cookie-consent
     → |apps.db.ripe.net##app-cookie-consent
     → |booking.autopartner.dk##app-cookie-consent
     → |loyalfans.com##app-cookie-consent
     → |navigraph.com##app-cookie-consent
     → |shop.hazi-hinam.co.il##app-cookie-consent
+    → |tbcbank.ge##app-cookie-consent
 ✅ 多域名拆分: ball.com,wanakaapp.nz##app-cookie-notice
     → |ball.com##app-cookie-notice
     → |wanakaapp.nz##app-cookie-notice
@@ -221260,9 +221246,9 @@
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: !---------------------------------Allowlists----------------------------------!
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: L9zkTN+gRFGVZfYw7C0rsQ
+🚫 去掉注释行: ! Checksum: GRnKn2PUYvPcQl4u5931/Q
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Last modified: 2026-10-07 04:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-10-07 09:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
@@ -238385,12 +238371,13 @@
 ✅ 多域名拆分: cline.bot,opencollective.com##[data-testid="cookies-dialog"]
     → |cline.bot##[data-testid="cookies-dialog"]
     → |opencollective.com##[data-testid="cookies-dialog"]
-✅ 多域名拆分: apps.db.ripe.net,booking.autopartner.dk,loyalfans.com,navigraph.com,shop.hazi-hinam.co.il##app-cookie-consent
+✅ 多域名拆分: apps.db.ripe.net,booking.autopartner.dk,loyalfans.com,navigraph.com,shop.hazi-hinam.co.il,tbcbank.ge##app-cookie-consent
     → |apps.db.ripe.net##app-cookie-consent
     → |booking.autopartner.dk##app-cookie-consent
     → |loyalfans.com##app-cookie-consent
     → |navigraph.com##app-cookie-consent
     → |shop.hazi-hinam.co.il##app-cookie-consent
+    → |tbcbank.ge##app-cookie-consent
 ✅ 多域名拆分: ball.com,wanakaapp.nz##app-cookie-notice
     → |ball.com##app-cookie-notice
     → |wanakaapp.nz##app-cookie-notice
