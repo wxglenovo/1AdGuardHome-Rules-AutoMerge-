@@ -9119,6 +9119,7 @@ miruro.*##section[class^="_noticeSection_"]
 |nzz.ch##.share
 |obastidor.com.br##.share
 |omglinux.com##.share
+|opensource.googleblog.com##.share
 |otempo.com.br##.share
 |padovasport.tv##.share
 |paginegialle.it##.share
@@ -14100,7 +14101,7 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 ||teamsimmer.com/wp-content/uploads/klaro/klaro.js
 ||technomedia.com/*/cookies.js$script,~third-party
 ||terencehill.com/modules/hicookielaw/
-||transcend-cdn.com^$domain=1password.com|aibusiness.com|airtable.com|anaconda.com|apollo.io|aviationweek.com|chubbiesshorts.com|classy.org|conan.io|costco.ca|costco.com|costcobusinesscentre.ca|costcobusinessdelivery.com|costcopharmacy.ca|darkreading.com|digicert.com|etsy.com|eyeconic.com|fanexpohq.com|fashionnova.com|fightingillini.com|forhers.com|gamechoiceawards.com|gamedeveloper.com|gdconf.com|gdcvault.com|gofundme.com|habitburger.com|igf.com|igt.com|indiegogo.com|informa.com|informaconnect.com|jfrog.com|kfc.com|kickstarter.com|later.com|lifetouch.com|mayoclinic.org|mountaineast.org|mutigers.com|ncaa.org|nelnet.studentaid.gov|netapp.com|notion.com|nrn.com|patreon.com|saucelabs.com|shutterfly.com|tacobell.co.uk|tandfonline.com|taylorfrancis.com|theaisummit.com|theordinary.com|vimeo.com|visible.com|vsp.com|vspdirect.com|wealthmanagement.com
+||transcend-cdn.com^$domain=1password.com|aibusiness.com|airtable.com|anaconda.com|apollo.io|aviationweek.com|chubbiesshorts.com|classy.org|comed.com|conan.io|costco.ca|costco.com|costcobusinesscentre.ca|costcobusinessdelivery.com|costcopharmacy.ca|darkreading.com|digicert.com|etsy.com|eyeconic.com|fanexpohq.com|fashionnova.com|fightingillini.com|forhers.com|gamechoiceawards.com|gamedeveloper.com|gdconf.com|gdcvault.com|gofundme.com|habitburger.com|igf.com|igt.com|indiegogo.com|informa.com|informaconnect.com|jfrog.com|kfc.com|kickstarter.com|later.com|lifetouch.com|mayoclinic.org|mountaineast.org|mutigers.com|ncaa.org|nelnet.studentaid.gov|netapp.com|notion.com|nrn.com|patreon.com|saucelabs.com|shutterfly.com|tacobell.co.uk|tandfonline.com|taylorfrancis.com|theaisummit.com|theordinary.com|vimeo.com|visible.com|vsp.com|vspdirect.com|wealthmanagement.com
 ||transcendcdn.eventbrite.com^
 ||tvpworld.com/files/portale-v4/polityka-prywatnosci/js/tvp-tcfapi.js
 ||umich.edu/apis/umcookieconsent/
@@ -14425,6 +14426,7 @@ netcraft.com###consent-form
 |awesomeagents.ai###consent-notice
 |faktykrakowa.pl###consent-notice
 |pkgs.org###consent-notice
+|wiadomosciolsztyn.pl###consent-notice
 radiomap.world###consent-overlay
 nasdaq.com###consent-placeholder-onetrust
 |audacityteam.org###consent-popup
@@ -15019,6 +15021,7 @@ omegatheme.com###ot-cookie__banner
 |harveynorman.ie###ot-sdk-btn
 |zdnet.com###ot-sdk-btn
 owltutors.co.uk###ot_local_storage_notice
+opportunity-universe.com###ouCookie
 challengethebrain.com###outer-consent
 panasonicproclub.com###over
 nbcnews.com###overaly_dy_message
@@ -15101,7 +15104,8 @@ gonift.com###privacy-compliance-banner
 weather.com###privacy-data-notice
 dnddiceroller.com###privacy-div
 playstation.com###privacy-header
-canalplus.com###privacy-manager
+|canalplus.com###privacy-manager
+|kwsseuren.nl###privacy-manager
 studiocanal.com###privacy-manager-popin
 xceptance.com###privacy-message
 |dailyjournal.com###privacy-modal
@@ -17132,7 +17136,8 @@ optica.org##.maintenance-popup
 drpc.org##.mantine-7726ys
 |adbypass.org##.mantine-Dialog-root
 |bypass.city##.mantine-Dialog-root
-f1store.formula1.com##.marketing-cookies-banner
+|f1store.formula1.com##.marketing-cookies-banner
+|nbastore.eu##.marketing-cookies-banner
 irishstar.com##.marketing-opt-in-enabled
 |kdkcn.com##.mask
 |operanewsapp.com##.mask
@@ -17361,6 +17366,7 @@ endclothing.com##.owra-d
 esignal.com##.p-0.overflow-auto.flex-col
 thekey.academy##.p-dialog-enter-done
 osf.io##.p-message-content
+prezi.com##.p-terms-and-privacy-change-banner
 youronlinechoices.com##.p15
 orientaltrading.com##.p_drawer_wrapper
 onepunchmanworld.com##.page-bg > .wrapper
@@ -17704,7 +17710,8 @@ tricentis.com##.site-banner
 up.ac.za##.site-blur-container
 |newstatesman.com##.site-footer
 |orchardthievescider.ie##.site-footer
-synamedia.com##.site-gdpr
+|sklep.remiza.pl##.site-gdpr
+|synamedia.com##.site-gdpr
 last.fm##.site-message
 myride.lethbridge.ca##.site-message-banner-warning
 preplounge.com##.site-modals-container
@@ -18116,6 +18123,7 @@ backmarket.com##[data-test="banner"]
 workagnt.com##[data-testid="banner-cookie-consent"]
 |fifthrow.com##[data-testid="cookie-banner"]
 |republikamobile.pl##[data-testid="cookie-banner"]
+|tokyopop.app.dealmaker.tech##[data-testid="cookie-banner"]
 pleo.io##[data-testid="cookie-banner-wrapper"]
 |autoindustriya.com##[data-testid="cookie-consent-banner"]
 |techmadesimple.net##[data-testid="cookie-consent-banner"]
@@ -18983,6 +18991,7 @@ sogeti.*###popup-cookieConsent
 |sports-injury-physio.com##.consent-banner-root
 |stimmungsgarten.tv##.consent-banner-root
 |studiobera.it##.consent-banner-root
+|telefericbarcelona.com##.consent-banner-root
 |tgtglas.es##.consent-banner-root
 |thegnet.org##.consent-banner-root
 |viennasoundclub.at##.consent-banner-root
@@ -19372,6 +19381,7 @@ sogeti.*###popup-cookieConsent
 |ausserhofer.bz##.cookie-permission-container
 |ballaro.eu##.cookie-permission-container
 |barax.de##.cookie-permission-container
+|bellaffair.de##.cookie-permission-container
 |biere-aus-franken.de##.cookie-permission-container
 |bieronlineshop.ch##.cookie-permission-container
 |bonsai-auer.com##.cookie-permission-container
@@ -24396,6 +24406,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |holidayworld.com##.cookie-banner
 |hsbc.com.sg##.cookie-banner
 |immigration.govt.nz##.cookie-banner
+|inversoro.es##.cookie-banner
 |isciii.es##.cookie-banner
 |jolyn.com##.cookie-banner
 |kathorusmail.co.za##.cookie-banner
@@ -24412,6 +24423,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |liquid.ai##.cookie-banner
 |lokmat.com##.cookie-banner
 |massey.ac.nz##.cookie-banner
+|maxdash.ru##.cookie-banner
 |mcc-9.jp##.cookie-banner
 |medipolis.de##.cookie-banner
 |mega.io##.cookie-banner
@@ -24569,6 +24581,7 @@ prsformusic.com###cookie__modal
 |etzmaleh.co.il###cookie-consent-banner
 |eurocommercialproperties.com###cookie-consent-banner
 |europa.eu###cookie-consent-banner
+|falcao.org###cookie-consent-banner
 |frisbi24.ru###cookie-consent-banner
 |fundrazr.com###cookie-consent-banner
 |gilsport.co.il###cookie-consent-banner
@@ -24814,6 +24827,7 @@ naylorsfinance.com###gdproverlay
 |stoeger.net##.sqs-announcement-bar
 |040.se###klaro
 |40gold.de###klaro
+|allseasonsuniforms.com###klaro
 |araba.eus###klaro
 |austrianwings.info###klaro
 |barmherzige-brueder.at###klaro
@@ -25371,6 +25385,7 @@ onassis.org##.bottom-0.relative
 |parqet.com##.bottom-0.fixed
 |payplus.co.il##.bottom-0.fixed
 |penger.no##.bottom-0.fixed
+|peoplematters.in##.bottom-0.fixed
 |pepeporn.com##.bottom-0.fixed
 |peppagame.com##.bottom-0.fixed
 |perille.fi##.bottom-0.fixed
@@ -42146,6 +42161,7 @@ hellohr.pl##.css-py4a32
 health-platform.online##.css-um19vb
 orange.pl##.css-yco2eg
 zdzis.com##.dDWWPk
+warsztatmistrza.pl##.dataProtectionSettingsWrapper
 pwpw.pl##.dialogblockrodo
 komornik.pl##.divModalDialog
 upolujebooka.pl##.easy-cookie
@@ -43103,6 +43119,7 @@ tv21.ru##.use-site-agreement
 pfr.gov.ru##.user-data-processing-wrapper
 ticketstour.ru##.using-cookies
 antex-e.ru##.uss_privacy_policy_wrap
+transpizza.ru##.v-app__cookies
 sanremo-pizza.com##.v-cookie-notification
 bimedis.ru##.v-dialog__content
 litnet.com##.view-confirm-cookie
