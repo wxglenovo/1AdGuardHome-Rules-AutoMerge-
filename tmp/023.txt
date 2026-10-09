@@ -7801,6 +7801,7 @@ stuff.co.nz##[data-testid="body-cta"]
 |gamesradar.com##[data-testid="buttons-social"]
 |pcgamer.com##[data-testid="buttons-social"]
 forbes.com##[data-testid="googleCTA"]
+bbc.com##[data-testid="social-follow-us-container"]
 nytimes.com##[data-testid="social-group"]
 codecademy.com##[data-testid="social-share-dropdown"]
 lseg.com##[data-title="Connect with us"]
@@ -7904,6 +7905,7 @@ jagranjosh.com##ul[class^="Details_Social_"]
 lataco.com##ul[class^="SocialSharing_"]
 |dailymail.co.uk##ul[class^="linksHolder-"]
 |thisismoney.co.uk##ul[class^="linksHolder-"]
+bbc.com###popover-wrapper:has([data-testid="socialShareTriggerButton"])
 |netwerk24.com##.article--top-bar-right:has(.social-sharing)
 |news24.com##.article--top-bar-right:has(.social-sharing)
 |son.co.za##.article--top-bar-right:has(.social-sharing)
@@ -41831,6 +41833,8 @@ ngi.no##.bcc-container
 dagbladet.no##.cIwTNh
 seher.no##.cbxMtF
 smakmagasinet.no##.coco-wrapper
+|importpris.no##.consent-container
+|paracord.no##.consent-container
 fotoknudsen.no##.cookie-consent-modal
 dagbladet.no##.css-pp-box
 ruter.no##.fixed-messages

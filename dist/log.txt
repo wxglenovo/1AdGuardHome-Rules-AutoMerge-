@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-10-09T02:29:22.574Z
+🚫 去掉注释行: ! Last modified: 2026-10-09T08:23:02.611Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -1664,10 +1664,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 94567
-🚫 去掉注释行: ! Checksum: j6/pprQOKN+rvSe+/4B+iA
-🚫 去掉注释行: ! Version: 202610090252
+🚫 去掉注释行: ! Checksum: WlkB7XpNmwjaVBTrO9BdQQ
+🚫 去掉注释行: ! Version: 202610090952
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 09 Oct 2026 02:52 UTC
+🚫 去掉注释行: ! Last modified: 09 Oct 2026 09:52 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -25416,10 +25416,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: XJKCdA1mstN9hirc85hDvA
-🚫 去掉注释行: ! Version: 202610090252
+🚫 去掉注释行: ! Checksum: yUgFMutUFBlufzSF82shcQ
+🚫 去掉注释行: ! Version: 202610090952
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 09 Oct 2026 02:52 UTC
+🚫 去掉注释行: ! Last modified: 09 Oct 2026 09:52 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -25612,13 +25612,11 @@
 🚫 去掉注释行: ###piao_div_3[style*="width:140px;"]
 🚫 去掉注释行: ###piao_div_4[style*="width:140px;"]
 🚫 去掉注释行: ###piao_div_5[style*="width:140px;"]
-🚫 去掉注释行: ###play[style="padding: 10px;"] > a[href*=".xmcdn.com"]
 🚫 去掉注释行: ###player-bottom-ads
 🚫 去掉注释行: ###playerAdvLayer
 🚫 去掉注释行: ###player_banner[style*="fixed;"]
 🚫 去掉注释行: ###player_pause > .tip + a[target="_blank"]
 🚫 去掉注释行: ###player_pause[style^="position"] > a[target="_blank"]
-🚫 去掉注释行: ###playlistbtn > a[href$=".html"]
 🚫 去掉注释行: ###popadv_popmask
 🚫 去掉注释行: ###popadv_popmenu
 🚫 去掉注释行: ###popup.t
@@ -25644,7 +25642,6 @@
 🚫 去掉注释行: ###right_float.close_discor
 🚫 去掉注释行: ###right_up_float_ad
 🚫 去掉注释行: ###rip[href*=".taobao.com"]
-🚫 去掉注释行: ###rm-float3
 🚫 去掉注释行: ###sc-superman-ad
 🚫 去掉注释行: ###search > a[href="/top1.html"]
 🚫 去掉注释行: ###sitefocus.focus
@@ -25942,7 +25939,6 @@
 🚫 去掉注释行: ##.jsv > .mobile-adv
 🚫 去掉注释行: ##.jsv-layer > .image > a[href^="http"]
 🚫 去掉注释行: ##.ksads
-🚫 去掉注释行: ##.kuandu > .bottommob
 🚫 去掉注释行: ##.leftadv
 🚫 去掉注释行: ##.leftd + .rightd
 🚫 去掉注释行: ##.leo-container .ssr1
@@ -26057,15 +26053,12 @@
 🚫 去掉注释行: ##.spon-img[src*=".alicdn."]
 🚫 去掉注释行: ##.spot_nav_under_ad
 🚫 去掉注释行: ##.static-a2d
-🚫 去掉注释行: ##.stui-vodlist__thumb.lazyload[href^="http"][target="_blank"]
-🚫 去掉注释行: ##.stui-vodlist__thumb.lazyload[href^="http"][target="_blank"] + .stui-vodlist__detail
 🚫 去掉注释行: ##.svg-icon + #player_pause
 🚫 去掉注释行: ##.sxAdBox
 🚫 去掉注释行: ##.t5[style="border:1px solid #a6cbe7;"] + .t[style="margin-top:8px"]
 🚫 去掉注释行: ##.tab-content + .col-pd
 🚫 去掉注释行: ##.textadlist
 🚫 去掉注释行: ##.theme_custom_slidebox-ad-below
-🚫 去掉注释行: ##.title > .gg
 🚫 去掉注释行: ##.tmall_ad_container
 🚫 去掉注释行: ##.tmall_bg15
 🚫 去掉注释行: ##.top-gg
@@ -26132,7 +26125,6 @@
 🚫 去掉注释行: ##a#wrapper_right_bg
 🚫 去掉注释行: ##a.hengfu > img.hengfu
 🚫 去掉注释行: ##a[clickmode="ad"]
-🚫 去掉注释行: ##a[href$=".cc:8443"]
 🚫 去掉注释行: ##a[href$=".xyz:8443"]
 🚫 去掉注释行: ##a[href*=".bright.cn/?utm_"]
 🚫 去掉注释行: ##a[href*=".com/?Extend="]
@@ -26145,13 +26137,10 @@
 🚫 去掉注释行: ##a[href*="/?Intr="]
 🚫 去掉注释行: ##a[href*="/?aff="][target="_blank"]
 🚫 去掉注释行: ##a[href*="/?intr="]
-🚫 去掉注释行: ##a[href*="/PageRegister?Agent="][target="_blank"]
 🚫 去掉注释行: ##a[href*="/Register?a="]
 🚫 去掉注释行: ##a[href*="/ads/adscenter."]
 🚫 去掉注释行: ##a[href*="/auth/register?code="] > img
 🚫 去掉注释行: ##a[href*="/register/?i_code="] > img
-🚫 去掉注释行: ##a[href*="://2"] > img[src*=".qlogo.cn"]
-🚫 去掉注释行: ##a[href*="://4"][href*="/vod."]
 🚫 去掉注释行: ##a[href*=":10443/"] > img[src$="gif"]
 🚫 去掉注释行: ##a[href*=":7888/?register="]
 🚫 去掉注释行: ##a[href*=":8701/?register="]
@@ -26159,17 +26148,14 @@
 🚫 去掉注释行: ##a[href*="?invite_code="] > img[src*=".com"]
 🚫 去掉注释行: ##a[href*="?register="] > img[src*=".douyinpic.com"]
 🚫 去掉注释行: ##a[href*="?register="] > img[width="100%"]
-🚫 去掉注释行: ##a[href*="bjty"] > img[src*="imgsrc.baidu.com"]
 🚫 去掉注释行: ##a[href*="kdocs.cn"] > img[src*=".ax1x.com/"]
 🚫 去掉注释行: ##a[href*="xchina.click/prepare."]
 🚫 去掉注释行: ##a[href="/goto.php?url=hth"]
-🚫 去掉注释行: ##a[href="/ht.html"]
 🚫 去掉注释行: ##a[href="javascript:GoGd();"]
 🚫 去掉注释行: ##a[href="javascript:GoTp();"]
 🚫 去掉注释行: ##a[href="javascript:window.GoTp();"]
 🚫 去掉注释行: ##a[href^="/ad/"] > img[id][src*="hdslb.com"]
 🚫 去掉注释行: ##a[href^="/hy-"][ontouchstart]
-🚫 去掉注释行: ##a[href^="http"] > img[height="60px"][src*="imgsrc.baidu.com"]
 🚫 去掉注释行: ##a[href^="http"] > img[src*="pic.rmb.bdstatic.com/"][src$=".gif"]
 🚫 去掉注释行: ##a[href^="http://ad.moemoe."]
 🚫 去掉注释行: ##a[href^="javascript:GoDb"]
@@ -26210,7 +26196,7 @@
 🚫 去掉注释行: ##div[style^="position"][onclick^="window.open"]
 🚫 去掉注释行: ##img#GGADIMG
 🚫 去掉注释行: ##img#adv1
-🚫 去掉注释行: ##img[data-link][data-src*="/u/"]:not([data-link*="/i/"])
+🚫 去掉注释行: ##.ftad-ct
 🚫 去掉注释行: ##img[data-src*=".alicdn.com/img/ibank/"][src="/static/images/loadingerror.gif"]
 🚫 去掉注释行: ##img[onclick*=".qq.com/doc/"]
 🚫 去掉注释行: ##img[onclick*="/statics/js/"]
@@ -26233,7 +26219,6 @@
 🚫 去掉注释行: ##.ec-tutu
 🚫 去掉注释行: ##.pop.pop-bottom
 🚫 去掉注释行: ##script + .header_rmb
-🚫 去掉注释行: ##script + a[href] > img[src*="lbsugc.cdn.bcebos.com"]
 🚫 去掉注释行: ##script + a[target="_bank"] > img[src*=".c-ctrip.com"][style="width:100%;height:auto;"]
 🚫 去掉注释行: ##script[src="/js/sy2.js"] + div[align="center"]
 🚫 去掉注释行: ##span[title="neteasefooter"]
@@ -26417,12 +26402,6 @@
 ✅ 多域名拆分: hao.360.cn,hao.360.com###activity
     → |hao.360.cn###activity
     → |hao.360.com###activity
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###activity_countdown_head
-    → |1111.baidu.com###activity_countdown_head
-    → |bdimg.com###activity_countdown_head
-    → |tieba.baidu.com###activity_countdown_head
-    → |tieba.com###activity_countdown_head
-    → |xingqu.baidu.com###activity_countdown_head
 ✅ 多域名拆分: chjtx.com,fooish.com###ad
     → |chjtx.com###ad
     → |fooish.com###ad
@@ -26459,19 +26438,7 @@
     → |baidu.com###aside-ad
     → |bdimg.com###aside-ad
     → |tieba.com###aside-ad
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###attention-game-wraper_dialog
-    → |1111.baidu.com###attention-game-wraper_dialog
-    → |bdimg.com###attention-game-wraper_dialog
-    → |tieba.baidu.com###attention-game-wraper_dialog
-    → |tieba.com###attention-game-wraper_dialog
-    → |xingqu.baidu.com###attention-game-wraper_dialog
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###baiduweishiDown
-    → |1111.baidu.com###baiduweishiDown
-    → |bdimg.com###baiduweishiDown
-    → |tieba.baidu.com###baiduweishiDown
-    → |tieba.com###baiduweishiDown
-    → |xingqu.baidu.com###baiduweishiDown
-✅ 多域名拆分: 18avtube.com,adultwefong.com,aicoin.cn,fsdpp.cn,ip138.com,mm-cg.com,sports.qq.com,suopao.org,timecn.cn,txzqw.me,youxi.baidu.com###banner
+✅ 多域名拆分: 18avtube.com,adultwefong.com,aicoin.cn,fsdpp.cn,ip138.com,mm-cg.com,sports.qq.com,timecn.cn,txzqw.me,youxi.baidu.com###banner
     → |18avtube.com###banner
     → |adultwefong.com###banner
     → |aicoin.cn###banner
@@ -26479,7 +26446,6 @@
     → |ip138.com###banner
     → |mm-cg.com###banner
     → |sports.qq.com###banner
-    → |suopao.org###banner
     → |timecn.cn###banner
     → |txzqw.me###banner
     → |youxi.baidu.com###banner
@@ -26548,11 +26514,10 @@
 ✅ 多域名拆分: chinanews.com,chinanews.com.cn###dingtong
     → |chinanews.com###dingtong
     → |chinanews.com.cn###dingtong
-✅ 多域名拆分: 1x6666.com,528500.com,52jscn.com,5378cc.com,58cam.com,5imx.com,7sqq.com,99nets.com,99nets.me,bbs.52life.cc,bestcclm.com,cm868.com,cnyw.net,discuzlab.com,gebi1.com,hh010.com,im286.net,kugz.com,ld0766.com,luanren.com,mahoupao.com,qinzhou8.com,sh419.net,suizhoushi.com,susongbbs.com,txahz.com,wishct.com,xsool.com,xydai.cn,ybvv.com###diy1
+✅ 多域名拆分: 1x6666.com,528500.com,52jscn.com,58cam.com,5imx.com,7sqq.com,99nets.com,99nets.me,bbs.52life.cc,bestcclm.com,cm868.com,cnyw.net,discuzlab.com,gebi1.com,hh010.com,im286.net,kugz.com,ld0766.com,luanren.com,mahoupao.com,qinzhou8.com,sh419.net,suizhoushi.com,susongbbs.com,txahz.com,wishct.com,xsool.com,xydai.cn,ybvv.com###diy1
     → |1x6666.com###diy1
     → |528500.com###diy1
     → |52jscn.com###diy1
-    → |5378cc.com###diy1
     → |58cam.com###diy1
     → |5imx.com###diy1
     → |7sqq.com###diy1
@@ -26607,18 +26572,6 @@
 ✅ 多域名拆分: ptbus.com,weather.com.cn###duilian
     → |ptbus.com###duilian
     → |weather.com.cn###duilian
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###duoku_servers_list
-    → |1111.baidu.com###duoku_servers_list
-    → |bdimg.com###duoku_servers_list
-    → |tieba.baidu.com###duoku_servers_list
-    → |tieba.com###duoku_servers_list
-    → |xingqu.baidu.com###duoku_servers_list
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###encourage_entry
-    → |1111.baidu.com###encourage_entry
-    → |bdimg.com###encourage_entry
-    → |tieba.baidu.com###encourage_entry
-    → |tieba.com###encourage_entry
-    → |xingqu.baidu.com###encourage_entry
 ✅ 多域名拆分: chinabidding.cn,chinabidding.com.cn###erweima_l
     → |chinabidding.cn###erweima_l
     → |chinabidding.com.cn###erweima_l
@@ -26631,71 +26584,15 @@
 ✅ 多域名拆分: hao.360.cn,hao.360.com###festival_balloon
     → |hao.360.cn###festival_balloon
     → |hao.360.com###festival_balloon
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###fixed_bar
-    → |1111.baidu.com###fixed_bar
-    → |bdimg.com###fixed_bar
-    → |live.baidu.com###fixed_bar
-    → |tieba.baidu.com###fixed_bar
-    → |tieba.com###fixed_bar
-    → |xingqu.baidu.com###fixed_bar
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###fixed_daoliu
-    → |1111.baidu.com###fixed_daoliu
-    → |bdimg.com###fixed_daoliu
-    → |live.baidu.com###fixed_daoliu
-    → |tieba.baidu.com###fixed_daoliu
-    → |tieba.com###fixed_daoliu
-    → |xingqu.baidu.com###fixed_daoliu
 ✅ 多域名拆分: fuliba.net,fuliba2023.net###focusslide
     → |fuliba.net###focusslide
     → |fuliba2023.net###focusslide
 ✅ 多域名拆分: 18avtube.com,mm-cg.com###friendLink
     → |18avtube.com###friendLink
     → |mm-cg.com###friendLink
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###frs-list-game
-    → |1111.baidu.com###frs-list-game
-    → |bdimg.com###frs-list-game
-    → |tieba.baidu.com###frs-list-game
-    → |tieba.com###frs-list-game
-    → |xingqu.baidu.com###frs-list-game
 ✅ 多域名拆分: pornlulu.com,pornbest.org###fullPageModal
     → |pornlulu.com###fullPageModal
     → |pornbest.org###fullPageModal
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###game_cover_head_wrapper
-    → |1111.baidu.com###game_cover_head_wrapper
-    → |bdimg.com###game_cover_head_wrapper
-    → |tieba.baidu.com###game_cover_head_wrapper
-    → |tieba.com###game_cover_head_wrapper
-    → |xingqu.baidu.com###game_cover_head_wrapper
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###game_forum
-    → |1111.baidu.com###game_forum
-    → |bdimg.com###game_forum
-    → |tieba.baidu.com###game_forum
-    → |tieba.com###game_forum
-    → |xingqu.baidu.com###game_forum
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###game_frs_head
-    → |1111.baidu.com###game_frs_head
-    → |bdimg.com###game_frs_head
-    → |tieba.baidu.com###game_frs_head
-    → |tieba.com###game_frs_head
-    → |xingqu.baidu.com###game_frs_head
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###game_live_list
-    → |1111.baidu.com###game_live_list
-    → |bdimg.com###game_live_list
-    → |tieba.baidu.com###game_live_list
-    → |tieba.com###game_live_list
-    → |xingqu.baidu.com###game_live_list
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###game_live_widget
-    → |1111.baidu.com###game_live_widget
-    → |bdimg.com###game_live_widget
-    → |tieba.baidu.com###game_live_widget
-    → |tieba.com###game_live_widget
-    → |xingqu.baidu.com###game_live_widget
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###game_rank
-    → |1111.baidu.com###game_rank
-    → |bdimg.com###game_rank
-    → |tieba.baidu.com###game_rank
-    → |tieba.com###game_rank
-    → |xingqu.baidu.com###game_rank
 ✅ 多域名拆分: 9ht.com,cesafe.com,downcc.com,downyi.com,paopaoche.net,pc0359.cn,pc6.com###gaosuxiazai
     → |9ht.com###gaosuxiazai
     → |cesafe.com###gaosuxiazai
@@ -26710,13 +26607,6 @@
 ✅ 多域名拆分: miniie.com,tisai.com###gg_content
     → |miniie.com###gg_content
     → |tisai.com###gg_content
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###global_notice_wrap
-    → |1111.baidu.com###global_notice_wrap
-    → |bdimg.com###global_notice_wrap
-    → |live.baidu.com###global_notice_wrap
-    → |tieba.baidu.com###global_notice_wrap
-    → |tieba.com###global_notice_wrap
-    → |xingqu.baidu.com###global_notice_wrap
 ✅ 多域名拆分: hackhw.com,ithome.com###hd_float
     → |hackhw.com###hd_float
     → |ithome.com###hd_float
@@ -26738,24 +26628,6 @@
     → |520call.me###inplayer
     → |av99.us###inplayer
     → |yocoolnet.in###inplayer
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###j_star_bus_before
-    → |1111.baidu.com###j_star_bus_before
-    → |bdimg.com###j_star_bus_before
-    → |tieba.baidu.com###j_star_bus_before
-    → |tieba.com###j_star_bus_before
-    → |xingqu.baidu.com###j_star_bus_before
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###j_ten_years
-    → |1111.baidu.com###j_ten_years
-    → |bdimg.com###j_ten_years
-    → |tieba.baidu.com###j_ten_years
-    → |tieba.com###j_ten_years
-    → |xingqu.baidu.com###j_ten_years
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###j_worldcup_info_banner
-    → |1111.baidu.com###j_worldcup_info_banner
-    → |bdimg.com###j_worldcup_info_banner
-    → |tieba.baidu.com###j_worldcup_info_banner
-    → |tieba.com###j_worldcup_info_banner
-    → |xingqu.baidu.com###j_worldcup_info_banner
 ✅ 多域名拆分: axutongxue.com,axutongxue.net###jjjagl
     → |axutongxue.com###jjjagl
     → |axutongxue.net###jjjagl
@@ -26772,26 +26644,6 @@
 ✅ 多域名拆分: cartoon18.com,pornbest.org###links
     → |cartoon18.com###links
     → |pornbest.org###links
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###loan_ad_mod_a
-    → |1111.baidu.com###loan_ad_mod_a
-    → |bdimg.com###loan_ad_mod_a
-    → |tieba.baidu.com###loan_ad_mod_a
-    → |tieba.com###loan_ad_mod_a
-    → |xingqu.baidu.com###loan_ad_mod_a
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###local_pb_top
-    → |1111.baidu.com###local_pb_top
-    → |bdimg.com###local_pb_top
-    → |tieba.baidu.com###local_pb_top
-    → |tieba.com###local_pb_top
-    → |xingqu.baidu.com###local_pb_top
-✅ 多域名拆分: btnull.org,gyg.la,gyg.si,gying.in,gying.net,gying.org,gying.si###ly
-    → |btnull.org###ly
-    → |gyg.la###ly
-    → |gyg.si###ly
-    → |gying.in###ly
-    → |gying.net###ly
-    → |gying.org###ly
-    → |gying.si###ly
 ✅ 多域名拆分: g-years.com,ghoffice.cc,gpsuu.com,mydigit.cn###main > .textMes
     → |g-years.com###main > .textMes
     → |ghoffice.cc###main > .textMes
@@ -26812,96 +26664,15 @@
     → |gd163.cn###msg_win
     → |itavcn.com###msg_win
     → |jmnews.com.cn###msg_win
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_encourage-appforum\/pagelet\/my_app
-    → |1111.baidu.com###pagelet_encourage-appforum\/pagelet\/my_app
-    → |bdimg.com###pagelet_encourage-appforum\/pagelet\/my_app
-    → |tieba.baidu.com###pagelet_encourage-appforum\/pagelet\/my_app
-    → |tieba.com###pagelet_encourage-appforum\/pagelet\/my_app
-    → |xingqu.baidu.com###pagelet_encourage-appforum\/pagelet\/my_app
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_encourage-tbguess\/pagelet\/sidebar
-    → |1111.baidu.com###pagelet_encourage-tbguess\/pagelet\/sidebar
-    → |bdimg.com###pagelet_encourage-tbguess\/pagelet\/sidebar
-    → |live.baidu.com###pagelet_encourage-tbguess\/pagelet\/sidebar
-    → |tieba.baidu.com###pagelet_encourage-tbguess\/pagelet\/sidebar
-    → |tieba.com###pagelet_encourage-tbguess\/pagelet\/sidebar
-    → |xingqu.baidu.com###pagelet_encourage-tbguess\/pagelet\/sidebar
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_frs-aside\/pagelet\/ad
-    → |1111.baidu.com###pagelet_frs-aside\/pagelet\/ad
-    → |bdimg.com###pagelet_frs-aside\/pagelet\/ad
-    → |live.baidu.com###pagelet_frs-aside\/pagelet\/ad
-    → |tieba.baidu.com###pagelet_frs-aside\/pagelet\/ad
-    → |tieba.com###pagelet_frs-aside\/pagelet\/ad
-    → |xingqu.baidu.com###pagelet_frs-aside\/pagelet\/ad
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_frs-aside\/pagelet\/fengchao_ad
-    → |1111.baidu.com###pagelet_frs-aside\/pagelet\/fengchao_ad
-    → |bdimg.com###pagelet_frs-aside\/pagelet\/fengchao_ad
-    → |live.baidu.com###pagelet_frs-aside\/pagelet\/fengchao_ad
-    → |tieba.baidu.com###pagelet_frs-aside\/pagelet\/fengchao_ad
-    → |tieba.com###pagelet_frs-aside\/pagelet\/fengchao_ad
-    → |xingqu.baidu.com###pagelet_frs-aside\/pagelet\/fengchao_ad
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_frs-header\/pagelet\/head_content_middle > div[class]:not([class*="_"]):first-child
-    → |1111.baidu.com###pagelet_frs-header\/pagelet\/head_content_middle > div[class]:not([class*="_"]):first-child
-    → |bdimg.com###pagelet_frs-header\/pagelet\/head_content_middle > div[class]:not([class*="_"]):first-child
-    → |tieba.baidu.com###pagelet_frs-header\/pagelet\/head_content_middle > div[class]:not([class*="_"]):first-child
-    → |tieba.com###pagelet_frs-header\/pagelet\/head_content_middle > div[class]:not([class*="_"]):first-child
-    → |xingqu.baidu.com###pagelet_frs-header\/pagelet\/head_content_middle > div[class]:not([class*="_"]):first-child
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_search\/pagelet\/search_ad
-    → |1111.baidu.com###pagelet_search\/pagelet\/search_ad
-    → |bdimg.com###pagelet_search\/pagelet\/search_ad
-    → |live.baidu.com###pagelet_search\/pagelet\/search_ad
-    → |tieba.baidu.com###pagelet_search\/pagelet\/search_ad
-    → |tieba.com###pagelet_search\/pagelet\/search_ad
-    → |xingqu.baidu.com###pagelet_search\/pagelet\/search_ad
 ✅ 多域名拆分: 18avtube.com,mm-cg.com###partner
     → |18avtube.com###partner
     → |mm-cg.com###partner
-✅ 多域名拆分: bdimg.com,tieba.baidu.com,tieba.com,wapp.baidu.com###pblist > li[class]:not(.j_post_list_item)
-    → |bdimg.com###pblist > li[class]:not(.j_post_list_item)
-    → |tieba.baidu.com###pblist > li[class]:not(.j_post_list_item)
-    → |tieba.com###pblist > li[class]:not(.j_post_list_item)
-    → |wapp.baidu.com###pblist > li[class]:not(.j_post_list_item)
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pc2client
-    → |1111.baidu.com###pc2client
-    → |bdimg.com###pc2client
-    → |tieba.baidu.com###pc2client
-    → |tieba.com###pc2client
-    → |xingqu.baidu.com###pc2client
 ✅ 多域名拆分: hao.360.cn,hao.360.com###plane > .plane-hd
     → |hao.360.cn###plane > .plane-hd
     → |hao.360.com###plane > .plane-hd
 ✅ 多域名拆分: hao.360.cn,hao.360.com###plane-ria
     → |hao.360.cn###plane-ria
     → |hao.360.com###plane-ria
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###plat_order_head
-    → |1111.baidu.com###plat_order_head
-    → |bdimg.com###plat_order_head
-    → |tieba.baidu.com###plat_order_head
-    → |tieba.com###plat_order_head
-    → |xingqu.baidu.com###plat_order_head
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###plat_recom_carousel > .activity_head
-    → |1111.baidu.com###plat_recom_carousel > .activity_head
-    → |bdimg.com###plat_recom_carousel > .activity_head
-    → |tieba.baidu.com###plat_recom_carousel > .activity_head
-    → |tieba.com###plat_recom_carousel > .activity_head
-    → |xingqu.baidu.com###plat_recom_carousel > .activity_head
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###plat_recom_carousel > .tbui_slideshow_list
-    → |1111.baidu.com###plat_recom_carousel > .tbui_slideshow_list
-    → |bdimg.com###plat_recom_carousel > .tbui_slideshow_list
-    → |tieba.baidu.com###plat_recom_carousel > .tbui_slideshow_list
-    → |tieba.com###plat_recom_carousel > .tbui_slideshow_list
-    → |xingqu.baidu.com###plat_recom_carousel > .tbui_slideshow_list
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###platform_left_float
-    → |1111.baidu.com###platform_left_float
-    → |bdimg.com###platform_left_float
-    → |tieba.baidu.com###platform_left_float
-    → |tieba.com###platform_left_float
-    → |xingqu.baidu.com###platform_left_float
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###platform_spread_video
-    → |1111.baidu.com###platform_spread_video
-    → |bdimg.com###platform_spread_video
-    → |tieba.baidu.com###platform_spread_video
-    → |tieba.com###platform_spread_video
-    → |xingqu.baidu.com###platform_spread_video
 ✅ 多域名拆分: ahgame.com,china.com.cn,netbardh.com,pangzitv.com,twoeggz.com###pop
     → |ahgame.com###pop
     → |china.com.cn###pop
@@ -26912,12 +26683,6 @@
     → |apiref.com###popAd
     → |iodraw.com###popAd
     → |matools.com###popAd
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pop_frame
-    → |1111.baidu.com###pop_frame
-    → |bdimg.com###pop_frame
-    → |tieba.baidu.com###pop_frame
-    → |tieba.com###pop_frame
-    → |xingqu.baidu.com###pop_frame
 ✅ 多域名拆分: 2dfan.com,galge.fun###popadv-container
     → |2dfan.com###popadv-container
     → |galge.fun###popadv-container
@@ -26927,16 +26692,9 @@
 ✅ 多域名拆分: duba.com,uu114.cn###redbagRain
     → |duba.com###redbagRain
     → |uu114.cn###redbagRain
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###replyBusinessImg
-    → |1111.baidu.com###replyBusinessImg
-    → |bdimg.com###replyBusinessImg
-    → |tieba.baidu.com###replyBusinessImg
-    → |tieba.com###replyBusinessImg
-    → |xingqu.baidu.com###replyBusinessImg
-✅ 多域名拆分: ca168.com,cs.com.cn,qiannao.com,qinbing.cn,sonimei.cn###rightDiv
+✅ 多域名拆分: ca168.com,cs.com.cn,qinbing.cn,sonimei.cn###rightDiv
     → |ca168.com###rightDiv
     → |cs.com.cn###rightDiv
-    → |qiannao.com###rightDiv
     → |qinbing.cn###rightDiv
     → |sonimei.cn###rightDiv
 ✅ 多域名拆分: discuss.com.hk,uwants.com###right_column
@@ -26948,19 +26706,6 @@
 ✅ 多域名拆分: chyangwa.net,motorfans.com.cn###scrollPics
     → |chyangwa.net###scrollPics
     → |motorfans.com.cn###scrollPics
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###search_baidu_promote
-    → |1111.baidu.com###search_baidu_promote
-    → |bdimg.com###search_baidu_promote
-    → |live.baidu.com###search_baidu_promote
-    → |tieba.baidu.com###search_baidu_promote
-    → |tieba.com###search_baidu_promote
-    → |xingqu.baidu.com###search_baidu_promote
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###search_button_wrapper
-    → |1111.baidu.com###search_button_wrapper
-    → |bdimg.com###search_button_wrapper
-    → |tieba.baidu.com###search_button_wrapper
-    → |tieba.com###search_button_wrapper
-    → |xingqu.baidu.com###search_button_wrapper
 ✅ 多域名拆分: nick18.com,nick20.com###sex
     → |nick18.com###sex
     → |nick20.com###sex
@@ -26983,19 +26728,6 @@
 ✅ 多域名拆分: downbank.cn,greenxf.com###speed-download
     → |downbank.cn###speed-download
     → |greenxf.com###speed-download
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###thread_list > .j_thread_list + li[class]:not(.j_thread_list)
-    → |1111.baidu.com###thread_list > .j_thread_list + li[class]:not(.j_thread_list)
-    → |bdimg.com###thread_list > .j_thread_list + li[class]:not(.j_thread_list)
-    → |live.baidu.com###thread_list > .j_thread_list + li[class]:not(.j_thread_list)
-    → |tieba.baidu.com###thread_list > .j_thread_list + li[class]:not(.j_thread_list)
-    → |tieba.com###thread_list > .j_thread_list + li[class]:not(.j_thread_list)
-    → |xingqu.baidu.com###thread_list > .j_thread_list + li[class]:not(.j_thread_list)
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###thread_list > .j_thread_list:not([data-field])
-    → |1111.baidu.com###thread_list > .j_thread_list:not([data-field])
-    → |bdimg.com###thread_list > .j_thread_list:not([data-field])
-    → |tieba.baidu.com###thread_list > .j_thread_list:not([data-field])
-    → |tieba.com###thread_list > .j_thread_list:not([data-field])
-    → |xingqu.baidu.com###thread_list > .j_thread_list:not([data-field])
 ✅ 多域名拆分: firefox.com.cn,firefoxchina.cn###thside-left-banner
     → |firefox.com.cn###thside-left-banner
     → |firefoxchina.cn###thside-left-banner
@@ -27024,24 +26756,6 @@
 ✅ 多域名拆分: jb51.net,makaidong.com###txtlink
     → |jb51.net###txtlink
     → |makaidong.com###txtlink
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###union_mod
-    → |1111.baidu.com###union_mod
-    → |bdimg.com###union_mod
-    → |tieba.baidu.com###union_mod
-    → |tieba.com###union_mod
-    → |xingqu.baidu.com###union_mod
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###worldcup_guess_frs_wrap
-    → |1111.baidu.com###worldcup_guess_frs_wrap
-    → |bdimg.com###worldcup_guess_frs_wrap
-    → |tieba.baidu.com###worldcup_guess_frs_wrap
-    → |tieba.com###worldcup_guess_frs_wrap
-    → |xingqu.baidu.com###worldcup_guess_frs_wrap
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###worldcup_topic
-    → |1111.baidu.com###worldcup_topic
-    → |bdimg.com###worldcup_topic
-    → |tieba.baidu.com###worldcup_topic
-    → |tieba.com###worldcup_topic
-    → |xingqu.baidu.com###worldcup_topic
 ✅ 多域名拆分: china.com.cn,csdn.net,cyol.net,lenovo.com.cn,liues.cn,wxrb.com##.AD
     → |china.com.cn##.AD
     → |csdn.net##.AD
@@ -27055,23 +26769,16 @@
 ✅ 多域名拆分: chaicp.com,qiuyi.cn##.Advertisement
     → |chaicp.com##.Advertisement
     → |qiuyi.cn##.Advertisement
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.BAIDU_CLB_AD
-    → |1111.baidu.com##.BAIDU_CLB_AD
-    → |bdimg.com##.BAIDU_CLB_AD
-    → |tieba.baidu.com##.BAIDU_CLB_AD
-    → |tieba.com##.BAIDU_CLB_AD
-    → |xingqu.baidu.com##.BAIDU_CLB_AD
 ✅ 多域名拆分: 18avtube.com,mm-cg.com##.CN_qmvtoy
     → |18avtube.com##.CN_qmvtoy
     → |mm-cg.com##.CN_qmvtoy
-✅ 多域名拆分: 52fzwg.com,79tao.com,hqol.cn,k7d.com,kxdao.net,sunwy.org,twunbbs.com,wnflb.com,wnflb2023.com,wnflb66.com,xkeba.com,zn524.cc##.GzList
+✅ 多域名拆分: 52fzwg.com,79tao.com,hqol.cn,k7d.com,kxdao.net,sunwy.org,wnflb.com,wnflb2023.com,wnflb66.com,xkeba.com,zn524.cc##.GzList
     → |52fzwg.com##.GzList
     → |79tao.com##.GzList
     → |hqol.cn##.GzList
     → |k7d.com##.GzList
     → |kxdao.net##.GzList
     → |sunwy.org##.GzList
-    → |twunbbs.com##.GzList
     → |wnflb.com##.GzList
     → |wnflb2023.com##.GzList
     → |wnflb66.com##.GzList
@@ -27090,12 +26797,6 @@
 ✅ 多域名拆分: 159i.com,china.com.cn##.ab
     → |159i.com##.ab
     → |china.com.cn##.ab
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.activity_iframe_container
-    → |1111.baidu.com##.activity_iframe_container
-    → |bdimg.com##.activity_iframe_container
-    → |tieba.baidu.com##.activity_iframe_container
-    → |tieba.com##.activity_iframe_container
-    → |xingqu.baidu.com##.activity_iframe_container
 ✅ 多域名拆分: panda985.com,qqdsw8.cn,knews.com.tw,shiyrj.top,yalishi.com,guozaoke.com,100ec.cn,159i.com,1905.com,22vd.com,2345.cn,234fang.com,3gsc.com.cn,52youpiao.com,72g.com,8se.me,acg.bz,acg13.cn,acgbenzi.com,baike.com,bbs-mychat.com,cdyee.com,ce.cn,chinaqking.com,chinatimes.com,chinatruck.org,chinaz.com,cnforex.com,cnsoftnews.com,codepub.com,cq.xinhuanet.com,cxryun.cn,dav01.com,discuss.com.hk,djwma.com,dmzj.com,dmzj1.com,dngz.net,douban.com,dzwww.com,eastday.com,fengniao.com,focus.cn,fx112.com,gongkong.com,henan100.com,honglingjin.co.uk,house.jschina.com.cn,iciba.com,ifeng.com,ipeen.com.tw,isharebest.com,itavcn.com,jojf.cn,jrj.com.cn,kumi.cn,landiannews.com,lawtv.com.cn,lieyunwang.com,lncn.org,loveshang.com,ltn.com.tw,luo8.com,maxpda.com,mm111.net,moxing.net,mvcat.com,ncdiy.com,neotv.com.cn,newsmth.net,njdaily.cn,pc0359.cn,people.com.cn,pharmnet.com.cn,pixnet.net,pptv.com,ptbus.com,qncye.com,sogou.com,sozi.cn,toolfk.com,tv.sohu.com,u-car.com.tw,weather.com.cn,xianbao.fun,yawin.cn,yb983.com,ydss.cn,yesky.com,yiche.com,yqxxs.com,zhihu.com,ziyuanyo.com##.ad
     → |panda985.com##.ad
     → |qqdsw8.cn##.ad
@@ -27374,16 +27075,9 @@
     → |likefont.com##.advert
     → |shangyexinzhi.com##.advert
     → |zp365.com##.advert
-✅ 多域名拆分: hao123.com,sohu.com,tieba.baidu.com##.advertise
+✅ 多域名拆分: hao123.com,sohu.com##.advertise
     → |hao123.com##.advertise
     → |sohu.com##.advertise
-    → |tieba.baidu.com##.advertise
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.advertise_right_index
-    → |1111.baidu.com##.advertise_right_index
-    → |bdimg.com##.advertise_right_index
-    → |tieba.baidu.com##.advertise_right_index
-    → |tieba.com##.advertise_right_index
-    → |xingqu.baidu.com##.advertise_right_index
 ✅ 多域名拆分: bccn.net,douyuex.com,hkepc.com,iviewui.com,juejin.cn##.advertisement
     → |bccn.net##.advertisement
     → |douyuex.com##.advertisement
@@ -27404,32 +27098,6 @@
     → |gotrip.hk##.ai_widget
     → |nmplus.hk##.ai_widget
     → |weekendhk.com##.ai_widget
-✅ 多域名拆分: 18board.com,18board.net,18p2p.com,18p2p.tv##.altbg2 > td[width="20%"] > a[target="_blank"]
-    → |18board.com##.altbg2 > td[width="20%"] > a[target="_blank"]
-    → |18board.net##.altbg2 > td[width="20%"] > a[target="_blank"]
-    → |18p2p.com##.altbg2 > td[width="20%"] > a[target="_blank"]
-    → |18p2p.tv##.altbg2 > td[width="20%"] > a[target="_blank"]
-✅ 多域名拆分: 18board.com,18board.net,18p2p.com,18p2p.tv##.altbg2 > td[width="25%"]
-    → |18board.com##.altbg2 > td[width="25%"]
-    → |18board.net##.altbg2 > td[width="25%"]
-    → |18p2p.com##.altbg2 > td[width="25%"]
-    → |18p2p.tv##.altbg2 > td[width="25%"]
-✅ 多域名拆分: 18board.com,18board.net,18p2p.com,18p2p.tv##.altbg2 > td[width="33%"]
-    → |18board.com##.altbg2 > td[width="33%"]
-    → |18board.net##.altbg2 > td[width="33%"]
-    → |18p2p.com##.altbg2 > td[width="33%"]
-    → |18p2p.tv##.altbg2 > td[width="33%"]
-✅ 多域名拆分: 18board.com,18board.net,18p2p.com,18p2p.tv##.altbg2 > td[width="50%"]
-    → |18board.com##.altbg2 > td[width="50%"]
-    → |18board.net##.altbg2 > td[width="50%"]
-    → |18p2p.com##.altbg2 > td[width="50%"]
-    → |18p2p.tv##.altbg2 > td[width="50%"]
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.app_forum_top_nav_tab
-    → |1111.baidu.com##.app_forum_top_nav_tab
-    → |bdimg.com##.app_forum_top_nav_tab
-    → |tieba.baidu.com##.app_forum_top_nav_tab
-    → |tieba.com##.app_forum_top_nav_tab
-    → |xingqu.baidu.com##.app_forum_top_nav_tab
 ✅ 多域名拆分: gamefy.cn,sitv.com.cn##.area > div[style="float:left"] > a
     → |gamefy.cn##.area > div[style="float:left"] > a
     → |sitv.com.cn##.area > div[style="float:left"] > a
@@ -27486,12 +27154,6 @@
 ✅ 多域名拆分: fanyi.baidu.com,longzhu.com##.banner-wrap
     → |fanyi.baidu.com##.banner-wrap
     → |longzhu.com##.banner-wrap
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.banner-wrapper
-    → |1111.baidu.com##.banner-wrapper
-    → |bdimg.com##.banner-wrapper
-    → |tieba.baidu.com##.banner-wrapper
-    → |tieba.com##.banner-wrapper
-    → |xingqu.baidu.com##.banner-wrapper
 ✅ 多域名拆分: 91.com,beihaiting.com,guitarchina.com,hao123.com,site.baidu.com,sojson.com##.banner2
     → |91.com##.banner2
     → |beihaiting.com##.banner2
@@ -27567,12 +27229,6 @@
 ✅ 多域名拆分: firefox.com.cn,firefoxchina.cn##.btn-email-show + p
     → |firefox.com.cn##.btn-email-show + p
     → |firefoxchina.cn##.btn-email-show + p
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.bus-top-activity-wrap
-    → |1111.baidu.com##.bus-top-activity-wrap
-    → |bdimg.com##.bus-top-activity-wrap
-    → |tieba.baidu.com##.bus-top-activity-wrap
-    → |tieba.com##.bus-top-activity-wrap
-    → |xingqu.baidu.com##.bus-top-activity-wrap
 ✅ 多域名拆分: brtn.cn,btime.com##.business-box
     → |brtn.cn##.business-box
     → |btime.com##.business-box
@@ -27595,12 +27251,6 @@
     → |36dm.club##.clear.text_center
     → |36dm.com##.clear.text_center
     → |acgsou.com##.clear.text_center
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.close_btn[src*="/adsense/"] + div:last-child
-    → |1111.baidu.com##.close_btn[src*="/adsense/"] + div:last-child
-    → |bdimg.com##.close_btn[src*="/adsense/"] + div:last-child
-    → |tieba.baidu.com##.close_btn[src*="/adsense/"] + div:last-child
-    → |tieba.com##.close_btn[src*="/adsense/"] + div:last-child
-    → |xingqu.baidu.com##.close_btn[src*="/adsense/"] + div:last-child
 ✅ 多域名拆分: 91.com,hao123.com##.cn_banner
     → |91.com##.cn_banner
     → |hao123.com##.cn_banner
@@ -27619,24 +27269,12 @@
 ✅ 多域名拆分: firefox.com.cn,firefoxchina.cn##.cont-promote
     → |firefox.com.cn##.cont-promote
     → |firefoxchina.cn##.cont-promote
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.content_top
-    → |1111.baidu.com##.content_top
-    → |bdimg.com##.content_top
-    → |tieba.baidu.com##.content_top
-    → |tieba.com##.content_top
-    → |xingqu.baidu.com##.content_top
 ✅ 多域名拆分: cnbeta.com.tw,thinkphp.cn##.cooperation
     → |cnbeta.com.tw##.cooperation
     → |thinkphp.cn##.cooperation
 ✅ 多域名拆分: cjw123.com,weike87.com##.copy
     → |cjw123.com##.copy
     → |weike87.com##.copy
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.cps_wrap
-    → |1111.baidu.com##.cps_wrap
-    → |bdimg.com##.cps_wrap
-    → |tieba.baidu.com##.cps_wrap
-    → |tieba.com##.cps_wrap
-    → |xingqu.baidu.com##.cps_wrap
 ✅ 多域名拆分: qq.com,sogou.com##.cs_dropbox[pbflag="xialaresou"]
     → |qq.com##.cs_dropbox[pbflag="xialaresou"]
     → |sogou.com##.cs_dropbox[pbflag="xialaresou"]
@@ -27650,21 +27288,6 @@
 ✅ 多域名拆分: qq.com,sogou.com##.daohang-gamecenter
     → |qq.com##.daohang-gamecenter
     → |sogou.com##.daohang-gamecenter
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.dasense
-    → |1111.baidu.com##.dasense
-    → |bdimg.com##.dasense
-    → |tieba.baidu.com##.dasense
-    → |tieba.com##.dasense
-    → |xingqu.baidu.com##.dasense
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.diamond-mall-aside
-    → |1111.baidu.com##.diamond-mall-aside
-    → |bdimg.com##.diamond-mall-aside
-    → |tieba.baidu.com##.diamond-mall-aside
-    → |tieba.com##.diamond-mall-aside
-    → |xingqu.baidu.com##.diamond-mall-aside
-✅ 多域名拆分: nongjitong.com,typecho.wiki##.div_ad
-    → |nongjitong.com##.div_ad
-    → |typecho.wiki##.div_ad
 ✅ 多域名拆分: boylov.xyz,boylove.cc,boyloves.fun##.div_sticky2
     → |boylov.xyz##.div_sticky2
     → |boylove.cc##.div_sticky2
@@ -27721,18 +27344,6 @@
     → |baidu.com##.fengchao-wrap-feed
     → |bdimg.com##.fengchao-wrap-feed
     → |tieba.com##.fengchao-wrap-feed
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.firework-wrap
-    → |1111.baidu.com##.firework-wrap
-    → |bdimg.com##.firework-wrap
-    → |tieba.baidu.com##.firework-wrap
-    → |tieba.com##.firework-wrap
-    → |xingqu.baidu.com##.firework-wrap
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.firework_sender_wrap
-    → |1111.baidu.com##.firework_sender_wrap
-    → |bdimg.com##.firework_sender_wrap
-    → |tieba.baidu.com##.firework_sender_wrap
-    → |tieba.com##.firework_sender_wrap
-    → |xingqu.baidu.com##.firework_sender_wrap
 ✅ 多域名拆分: jjmmw.com,qq.com##.fixed-ad
     → |jjmmw.com##.fixed-ad
     → |qq.com##.fixed-ad
@@ -27746,60 +27357,12 @@
 ✅ 多域名拆分: bingdou.com.cn,hoteastday.com##.float_ad
     → |bingdou.com.cn##.float_ad
     → |hoteastday.com##.float_ad
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.frs_act_repost_wrapper_outter
-    → |1111.baidu.com##.frs_act_repost_wrapper_outter
-    → |bdimg.com##.frs_act_repost_wrapper_outter
-    → |tieba.baidu.com##.frs_act_repost_wrapper_outter
-    → |tieba.com##.frs_act_repost_wrapper_outter
-    → |xingqu.baidu.com##.frs_act_repost_wrapper_outter
 ✅ 多域名拆分: 126.com,163.com##.gWel-promt
     → |126.com##.gWel-promt
     → |163.com##.gWel-promt
 ✅ 多域名拆分: feeds.qq.com,lenovo.com.cn##.game
     → |feeds.qq.com##.game
     → |lenovo.com.cn##.game
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.game-head-game-info-wrapper
-    → |1111.baidu.com##.game-head-game-info-wrapper
-    → |bdimg.com##.game-head-game-info-wrapper
-    → |tieba.baidu.com##.game-head-game-info-wrapper
-    → |tieba.com##.game-head-game-info-wrapper
-    → |xingqu.baidu.com##.game-head-game-info-wrapper
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.game_banner
-    → |1111.baidu.com##.game_banner
-    → |bdimg.com##.game_banner
-    → |tieba.baidu.com##.game_banner
-    → |tieba.com##.game_banner
-    → |xingqu.baidu.com##.game_banner
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.game_banner_common_wapper
-    → |1111.baidu.com##.game_banner_common_wapper
-    → |bdimg.com##.game_banner_common_wapper
-    → |tieba.baidu.com##.game_banner_common_wapper
-    → |tieba.com##.game_banner_common_wapper
-    → |xingqu.baidu.com##.game_banner_common_wapper
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.game_content
-    → |1111.baidu.com##.game_content
-    → |bdimg.com##.game_content
-    → |tieba.baidu.com##.game_content
-    → |tieba.com##.game_content
-    → |xingqu.baidu.com##.game_content
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.game_list_and_rank
-    → |1111.baidu.com##.game_list_and_rank
-    → |bdimg.com##.game_list_and_rank
-    → |tieba.baidu.com##.game_list_and_rank
-    → |tieba.com##.game_list_and_rank
-    → |xingqu.baidu.com##.game_list_and_rank
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.game_spread_thread
-    → |1111.baidu.com##.game_spread_thread
-    → |bdimg.com##.game_spread_thread
-    → |tieba.baidu.com##.game_spread_thread
-    → |tieba.com##.game_spread_thread
-    → |xingqu.baidu.com##.game_spread_thread
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.game_tab
-    → |1111.baidu.com##.game_tab
-    → |bdimg.com##.game_tab
-    → |tieba.baidu.com##.game_tab
-    → |tieba.com##.game_tab
-    → |xingqu.baidu.com##.game_tab
 ✅ 多域名拆分: 3987.com,drv5.cn,pcsoft.com.cn,win7w.com##.gaosu
     → |3987.com##.gaosu
     → |drv5.cn##.gaosu
@@ -27864,27 +27427,9 @@
     → |123.sogou.com##.guess
     → |daohang.qq.com##.guess
     → |hao.qq.com##.guess
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.head_middle > div[class]:first-child
-    → |1111.baidu.com##.head_middle > div[class]:first-child
-    → |bdimg.com##.head_middle > div[class]:first-child
-    → |tieba.baidu.com##.head_middle > div[class]:first-child
-    → |tieba.com##.head_middle > div[class]:first-child
-    → |xingqu.baidu.com##.head_middle > div[class]:first-child
 ✅ 多域名拆分: aguitar.cn,guitarchina.com##.headerbanner
     → |aguitar.cn##.headerbanner
     → |guitarchina.com##.headerbanner
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.hgame_mod_theme1
-    → |1111.baidu.com##.hgame_mod_theme1
-    → |bdimg.com##.hgame_mod_theme1
-    → |tieba.baidu.com##.hgame_mod_theme1
-    → |tieba.com##.hgame_mod_theme1
-    → |xingqu.baidu.com##.hgame_mod_theme1
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.hgame_mod_theme2
-    → |1111.baidu.com##.hgame_mod_theme2
-    → |bdimg.com##.hgame_mod_theme2
-    → |tieba.baidu.com##.hgame_mod_theme2
-    → |tieba.com##.hgame_mod_theme2
-    → |xingqu.baidu.com##.hgame_mod_theme2
 ✅ 多域名拆分: duba.com,uu114.cn##.hotTitle
     → |duba.com##.hotTitle
     → |uu114.cn##.hotTitle
@@ -27897,9 +27442,6 @@
 ✅ 多域名拆分: skinme.cc,yuntue.com##.huodong
     → |skinme.cc##.huodong
     → |yuntue.com##.huodong
-✅ 多域名拆分: tieba.baidu.com,wapp.baidu.com##.iSlider-wrapper-container-hot-thread
-    → |tieba.baidu.com##.iSlider-wrapper-container-hot-thread
-    → |wapp.baidu.com##.iSlider-wrapper-container-hot-thread
 ✅ 多域名拆分: ldqk.xyz,masuit.com##.ibox-content > .wow[id]
     → |ldqk.xyz##.ibox-content > .wow[id]
     → |masuit.com##.ibox-content > .wow[id]
@@ -27911,12 +27453,6 @@
     → |playallvideos.com##.ima
     → |pron.co##.ima
     → |taporn.com##.ima
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.images_game_container
-    → |1111.baidu.com##.images_game_container
-    → |bdimg.com##.images_game_container
-    → |tieba.baidu.com##.images_game_container
-    → |tieba.com##.images_game_container
-    → |xingqu.baidu.com##.images_game_container
 ✅ 多域名拆分: 5555op.com,router.houzi-blog.top##.img
     → |5555op.com##.img
     → |router.houzi-blog.top##.img
@@ -27943,67 +27479,6 @@
 ✅ 多域名拆分: daohangtx.com,jojf.cn##.indexgg
     → |daohangtx.com##.indexgg
     → |jojf.cn##.indexgg
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.j_banner_post
-    → |1111.baidu.com##.j_banner_post
-    → |bdimg.com##.j_banner_post
-    → |tieba.baidu.com##.j_banner_post
-    → |tieba.com##.j_banner_post
-    → |xingqu.baidu.com##.j_banner_post
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.j_click_stats[href*="adn.baidu.com"]
-    → |1111.baidu.com##.j_click_stats[href*="adn.baidu.com"]
-    → |bdimg.com##.j_click_stats[href*="adn.baidu.com"]
-    → |tieba.baidu.com##.j_click_stats[href*="adn.baidu.com"]
-    → |tieba.com##.j_click_stats[href*="adn.baidu.com"]
-    → |xingqu.baidu.com##.j_click_stats[href*="adn.baidu.com"]
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.j_couplet
-    → |1111.baidu.com##.j_couplet
-    → |bdimg.com##.j_couplet
-    → |tieba.baidu.com##.j_couplet
-    → |tieba.com##.j_couplet
-    → |xingqu.baidu.com##.j_couplet
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.j_df_card
-    → |1111.baidu.com##.j_df_card
-    → |bdimg.com##.j_df_card
-    → |tieba.baidu.com##.j_df_card
-    → |tieba.com##.j_df_card
-    → |xingqu.baidu.com##.j_df_card
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.j_l_post:not([data-field])
-    → |1111.baidu.com##.j_l_post:not([data-field])
-    → |bdimg.com##.j_l_post:not([data-field])
-    → |tieba.baidu.com##.j_l_post:not([data-field])
-    → |tieba.com##.j_l_post:not([data-field])
-    → |xingqu.baidu.com##.j_l_post:not([data-field])
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.j_l_post[data-field*="\"user_name\":\"\\u4e3f\\u5929\\u4e36\\u4e4b\\u6b87\""]:not([data-field*="\"user_id\":1180601200,"])
-    → |1111.baidu.com##.j_l_post[data-field*="\"user_name\":\"\\u4e3f\\u5929\\u4e36\\u4e4b\\u6b87\""]:not([data-field*="\"user_id\":1180601200,"])
-    → |bdimg.com##.j_l_post[data-field*="\"user_name\":\"\\u4e3f\\u5929\\u4e36\\u4e4b\\u6b87\""]:not([data-field*="\"user_id\":1180601200,"])
-    → |live.baidu.com##.j_l_post[data-field*="\"user_name\":\"\\u4e3f\\u5929\\u4e36\\u4e4b\\u6b87\""]:not([data-field*="\"user_id\":1180601200,"])
-    → |tieba.baidu.com##.j_l_post[data-field*="\"user_name\":\"\\u4e3f\\u5929\\u4e36\\u4e4b\\u6b87\""]:not([data-field*="\"user_id\":1180601200,"])
-    → |tieba.com##.j_l_post[data-field*="\"user_name\":\"\\u4e3f\\u5929\\u4e36\\u4e4b\\u6b87\""]:not([data-field*="\"user_id\":1180601200,"])
-    → |xingqu.baidu.com##.j_l_post[data-field*="\"user_name\":\"\\u4e3f\\u5929\\u4e36\\u4e4b\\u6b87\""]:not([data-field*="\"user_id\":1180601200,"])
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.j_listLiveTvCnt
-    → |1111.baidu.com##.j_listLiveTvCnt
-    → |bdimg.com##.j_listLiveTvCnt
-    → |tieba.baidu.com##.j_listLiveTvCnt
-    → |tieba.com##.j_listLiveTvCnt
-    → |xingqu.baidu.com##.j_listLiveTvCnt
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.j_listLiveTvCnt + .listBtnCnt + #listTalkCnt
-    → |1111.baidu.com##.j_listLiveTvCnt + .listBtnCnt + #listTalkCnt
-    → |bdimg.com##.j_listLiveTvCnt + .listBtnCnt + #listTalkCnt
-    → |tieba.baidu.com##.j_listLiveTvCnt + .listBtnCnt + #listTalkCnt
-    → |tieba.com##.j_listLiveTvCnt + .listBtnCnt + #listTalkCnt
-    → |xingqu.baidu.com##.j_listLiveTvCnt + .listBtnCnt + #listTalkCnt
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.j_thread_list[data-field^="\7b \"id\":4419048726,"]
-    → |1111.baidu.com##.j_thread_list[data-field^="\7b \"id\":4419048726,"]
-    → |bdimg.com##.j_thread_list[data-field^="\7b \"id\":4419048726,"]
-    → |tieba.baidu.com##.j_thread_list[data-field^="\7b \"id\":4419048726,"]
-    → |tieba.com##.j_thread_list[data-field^="\7b \"id\":4419048726,"]
-    → |xingqu.baidu.com##.j_thread_list[data-field^="\7b \"id\":4419048726,"]
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.j_thread_list[data-field^="\7b \"id\":4756933479,"]
-    → |1111.baidu.com##.j_thread_list[data-field^="\7b \"id\":4756933479,"]
-    → |bdimg.com##.j_thread_list[data-field^="\7b \"id\":4756933479,"]
-    → |tieba.baidu.com##.j_thread_list[data-field^="\7b \"id\":4756933479,"]
-    → |tieba.com##.j_thread_list[data-field^="\7b \"id\":4756933479,"]
-    → |xingqu.baidu.com##.j_thread_list[data-field^="\7b \"id\":4756933479,"]
 ✅ 多域名拆分: jbtalks.cc,jbtalks.com##.jbt-ad-region
     → |jbtalks.cc##.jbt-ad-region
     → |jbtalks.com##.jbt-ad-region
@@ -28013,54 +27488,6 @@
 ✅ 多域名拆分: hcbbs.com,isiyuan.net##.ke-zeroborder
     → |hcbbs.com##.ke-zeroborder
     → |isiyuan.net##.ke-zeroborder
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.kn_nine_wrap
-    → |1111.baidu.com##.kn_nine_wrap
-    → |bdimg.com##.kn_nine_wrap
-    → |tieba.baidu.com##.kn_nine_wrap
-    → |tieba.com##.kn_nine_wrap
-    → |xingqu.baidu.com##.kn_nine_wrap
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.l_banner
-    → |1111.baidu.com##.l_banner
-    → |bdimg.com##.l_banner
-    → |tieba.baidu.com##.l_banner
-    → |tieba.com##.l_banner
-    → |xingqu.baidu.com##.l_banner
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.l_post + div[class]:not(.l_post)
-    → |1111.baidu.com##.l_post + div[class]:not(.l_post)
-    → |bdimg.com##.l_post + div[class]:not(.l_post)
-    → |tieba.baidu.com##.l_post + div[class]:not(.l_post)
-    → |tieba.com##.l_post + div[class]:not(.l_post)
-    → |xingqu.baidu.com##.l_post + div[class]:not(.l_post)
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1224761005,"]
-    → |1111.baidu.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1224761005,"]
-    → |bdimg.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1224761005,"]
-    → |tieba.baidu.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1224761005,"]
-    → |tieba.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1224761005,"]
-    → |xingqu.baidu.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1224761005,"]
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1480174042,"]
-    → |1111.baidu.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1480174042,"]
-    → |bdimg.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1480174042,"]
-    → |tieba.baidu.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1480174042,"]
-    → |tieba.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1480174042,"]
-    → |xingqu.baidu.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1480174042,"]
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1480194257,"]
-    → |1111.baidu.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1480194257,"]
-    → |bdimg.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1480194257,"]
-    → |tieba.baidu.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1480194257,"]
-    → |tieba.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1480194257,"]
-    → |xingqu.baidu.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1480194257,"]
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1990070693,"]
-    → |1111.baidu.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1990070693,"]
-    → |bdimg.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1990070693,"]
-    → |tieba.baidu.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1990070693,"]
-    → |tieba.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1990070693,"]
-    → |xingqu.baidu.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1990070693,"]
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":50012654,"]
-    → |1111.baidu.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":50012654,"]
-    → |bdimg.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":50012654,"]
-    → |tieba.baidu.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":50012654,"]
-    → |tieba.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":50012654,"]
-    → |xingqu.baidu.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":50012654,"]
 ✅ 多域名拆分: qq.com,yxad.com##.l_qq_com
     → |qq.com##.l_qq_com
     → |yxad.com##.l_qq_com
@@ -28077,27 +27504,9 @@
 ✅ 多域名拆分: 2dfan.com,galge.fun##.leftside-bg
     → |2dfan.com##.leftside-bg
     → |galge.fun##.leftside-bg
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.life_helper
-    → |1111.baidu.com##.life_helper
-    → |bdimg.com##.life_helper
-    → |tieba.baidu.com##.life_helper
-    → |tieba.com##.life_helper
-    → |xingqu.baidu.com##.life_helper
 ✅ 多域名拆分: nick18.com,niko18.com##.list_ads
     → |nick18.com##.list_ads
     → |niko18.com##.list_ads
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.live_show_aside
-    → |1111.baidu.com##.live_show_aside
-    → |bdimg.com##.live_show_aside
-    → |tieba.baidu.com##.live_show_aside
-    → |tieba.com##.live_show_aside
-    → |xingqu.baidu.com##.live_show_aside
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.lot_wrap
-    → |1111.baidu.com##.lot_wrap
-    → |bdimg.com##.lot_wrap
-    → |tieba.baidu.com##.lot_wrap
-    → |tieba.com##.lot_wrap
-    → |xingqu.baidu.com##.lot_wrap
 ✅ 多域名拆分: 123.sogou.com,web.sogou.com##.m-12[pbflag="guess"]
     → |123.sogou.com##.m-12[pbflag="guess"]
     → |web.sogou.com##.m-12[pbflag="guess"]
@@ -28124,13 +27533,6 @@
     → |xchina.site##div[id^="z-extra-"]
     → |xchina.biz##div[id^="z-extra-"]
     → |xchina.co##div[id^="z-extra-"]
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.mediago-ad-wrapper
-    → |1111.baidu.com##.mediago-ad-wrapper
-    → |bdimg.com##.mediago-ad-wrapper
-    → |live.baidu.com##.mediago-ad-wrapper
-    → |tieba.baidu.com##.mediago-ad-wrapper
-    → |tieba.com##.mediago-ad-wrapper
-    → |xingqu.baidu.com##.mediago-ad-wrapper
 ✅ 多域名拆分: galacg.me,unecne.com##.metaslider
     → |galacg.me##.metaslider
     → |unecne.com##.metaslider
@@ -28167,30 +27569,12 @@
 ✅ 多域名拆分: fuliba2021.net,ypojie.com##.orbui-post-footer
     → |fuliba2021.net##.orbui-post-footer
     → |ypojie.com##.orbui-post-footer
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.order_repost_wrap
-    → |1111.baidu.com##.order_repost_wrap
-    → |bdimg.com##.order_repost_wrap
-    → |tieba.baidu.com##.order_repost_wrap
-    → |tieba.com##.order_repost_wrap
-    → |xingqu.baidu.com##.order_repost_wrap
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.per_list.j_per_list.per_list_frs
-    → |1111.baidu.com##.per_list.j_per_list.per_list_frs
-    → |bdimg.com##.per_list.j_per_list.per_list_frs
-    → |tieba.baidu.com##.per_list.j_per_list.per_list_frs
-    → |tieba.com##.per_list.j_per_list.per_list_frs
-    → |xingqu.baidu.com##.per_list.j_per_list.per_list_frs
 ✅ 多域名拆分: down.ali213.net,patch.ali213.net##.picBg
     → |down.ali213.net##.picBg
     → |patch.ali213.net##.picBg
 ✅ 多域名拆分: dealmoon.com,weibo.com##.pic_ad
     → |dealmoon.com##.pic_ad
     → |weibo.com##.pic_ad
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.play_list_panel
-    → |1111.baidu.com##.play_list_panel
-    → |bdimg.com##.play_list_panel
-    → |tieba.baidu.com##.play_list_panel
-    → |tieba.com##.play_list_panel
-    → |xingqu.baidu.com##.play_list_panel
 ✅ 多域名拆分: firefox.com.cn,firefoxchina.cn##.pm-crack
     → |firefox.com.cn##.pm-crack
     → |firefoxchina.cn##.pm-crack
@@ -28223,12 +27607,6 @@
 ✅ 多域名拆分: doudoudm.site,ezdmw.com##.public_ad
     → |doudoudm.site##.public_ad
     → |ezdmw.com##.public_ad
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.qipai_thread
-    → |1111.baidu.com##.qipai_thread
-    → |bdimg.com##.qipai_thread
-    → |tieba.baidu.com##.qipai_thread
-    → |tieba.com##.qipai_thread
-    → |xingqu.baidu.com##.qipai_thread
 ✅ 多域名拆分: singlove.com,whichav.com,whichav.net##.qq
     → |singlove.com##.qq
     → |whichav.com##.qq
@@ -28269,12 +27647,6 @@
 ✅ 多域名拆分: duba.com,newduba.cn##.s11_store_box
     → |duba.com##.s11_store_box
     → |newduba.cn##.s11_store_box
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.score_ecr_wrapper
-    → |1111.baidu.com##.score_ecr_wrapper
-    → |bdimg.com##.score_ecr_wrapper
-    → |tieba.baidu.com##.score_ecr_wrapper
-    → |tieba.com##.score_ecr_wrapper
-    → |xingqu.baidu.com##.score_ecr_wrapper
 ✅ 多域名拆分: firefox.com.cn,firefoxchina.cn##.sd-promote
     → |firefox.com.cn##.sd-promote
     → |firefoxchina.cn##.sd-promote
@@ -28307,15 +27679,6 @@
     → |daniao.org##.sponsor
     → |geekpark.net##.sponsor
     → |speedtest.cn##.sponsor
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.spreadad
-    → |1111.baidu.com##.spreadad
-    → |bdimg.com##.spreadad
-    → |tieba.baidu.com##.spreadad
-    → |tieba.com##.spreadad
-    → |xingqu.baidu.com##.spreadad
-✅ 多域名拆分: acwifi.net,zhain8.com##.ssr
-    → |acwifi.net##.ssr
-    → |zhain8.com##.ssr
 ✅ 多域名拆分: cupfox.love,hcomic.net,olevod.com##.swiper
     → |cupfox.love##.swiper
     → |hcomic.net##.swiper
@@ -28326,12 +27689,6 @@
 ✅ 多域名拆分: 1kkk.com,dm5.com##.swiper-container[style*="760px;"]
     → |1kkk.com##.swiper-container[style*="760px;"]
     → |dm5.com##.swiper-container[style*="760px;"]
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.switch_radios + div[class]
-    → |1111.baidu.com##.switch_radios + div[class]
-    → |bdimg.com##.switch_radios + div[class]
-    → |tieba.baidu.com##.switch_radios + div[class]
-    → |tieba.com##.switch_radios + div[class]
-    → |xingqu.baidu.com##.switch_radios + div[class]
 ✅ 多域名拆分: bcbay.com,creaders.net##.syzx
     → |bcbay.com##.syzx
     → |creaders.net##.syzx
@@ -28347,44 +27704,12 @@
 ✅ 多域名拆分: hlgnet.com,sina.com##.tad
     → |hlgnet.com##.tad
     → |sina.com##.tad
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.tb_poster_info.poster_success
-    → |1111.baidu.com##.tb_poster_info.poster_success
-    → |bdimg.com##.tb_poster_info.poster_success
-    → |tieba.baidu.com##.tb_poster_info.poster_success
-    → |tieba.com##.tb_poster_info.poster_success
-    → |xingqu.baidu.com##.tb_poster_info.poster_success
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.tb_poster_placeholder
-    → |1111.baidu.com##.tb_poster_placeholder
-    → |bdimg.com##.tb_poster_placeholder
-    → |live.baidu.com##.tb_poster_placeholder
-    → |tieba.baidu.com##.tb_poster_placeholder
-    → |tieba.com##.tb_poster_placeholder
-    → |xingqu.baidu.com##.tb_poster_placeholder
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,wefan.baidu.com,xingqu.baidu.com##.tbui_aside_float_bar + .clearfix
-    → |1111.baidu.com##.tbui_aside_float_bar + .clearfix
-    → |bdimg.com##.tbui_aside_float_bar + .clearfix
-    → |tieba.baidu.com##.tbui_aside_float_bar + .clearfix
-    → |tieba.com##.tbui_aside_float_bar + .clearfix
-    → |wefan.baidu.com##.tbui_aside_float_bar + .clearfix
-    → |xingqu.baidu.com##.tbui_aside_float_bar + .clearfix
 ✅ 多域名拆分: firefox.com.cn,firefoxchina.cn##.theme-side-bar-priority
     → |firefox.com.cn##.theme-side-bar-priority
     → |firefoxchina.cn##.theme-side-bar-priority
 ✅ 多域名拆分: firefox.com.cn,firefoxchina.cn##.theme-side-bar[trace-key="ad_theme_skin_link"]
     → |firefox.com.cn##.theme-side-bar[trace-key="ad_theme_skin_link"]
     → |firefoxchina.cn##.theme-side-bar[trace-key="ad_theme_skin_link"]
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.thread_dir_ad
-    → |1111.baidu.com##.thread_dir_ad
-    → |bdimg.com##.thread_dir_ad
-    → |tieba.baidu.com##.thread_dir_ad
-    → |tieba.com##.thread_dir_ad
-    → |xingqu.baidu.com##.thread_dir_ad
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.thread_local_58
-    → |1111.baidu.com##.thread_local_58
-    → |bdimg.com##.thread_local_58
-    → |tieba.baidu.com##.thread_local_58
-    → |tieba.com##.thread_local_58
-    → |xingqu.baidu.com##.thread_local_58
 ✅ 多域名拆分: gamefy.cn,sitv.com.cn##.tit > span[style="float:right; width:285px;"]
     → |gamefy.cn##.tit > span[style="float:right; width:285px;"]
     → |sitv.com.cn##.tit > span[style="float:right; width:285px;"]
@@ -28404,12 +27729,6 @@
     → |baixing.com##.top-banner
     → |leiphone.com##.top-banner
     → |sina.com.cn##.top-banner
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.top-sec + .middle-sec
-    → |1111.baidu.com##.top-sec + .middle-sec
-    → |bdimg.com##.top-sec + .middle-sec
-    → |tieba.baidu.com##.top-sec + .middle-sec
-    → |tieba.com##.top-sec + .middle-sec
-    → |xingqu.baidu.com##.top-sec + .middle-sec
 ✅ 多域名拆分: baidu.com,cntour2.com##.topBanner
     → |baidu.com##.topBanner
     → |cntour2.com##.topBanner
@@ -28421,12 +27740,6 @@
     → |lzep.cn##.top_banner
     → |qudong.com##.top_banner
     → |xitong8.com##.top_banner
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.top_toutu_admarks + .tbui_slideshow_list
-    → |1111.baidu.com##.top_toutu_admarks + .tbui_slideshow_list
-    → |bdimg.com##.top_toutu_admarks + .tbui_slideshow_list
-    → |tieba.baidu.com##.top_toutu_admarks + .tbui_slideshow_list
-    → |tieba.com##.top_toutu_admarks + .tbui_slideshow_list
-    → |xingqu.baidu.com##.top_toutu_admarks + .tbui_slideshow_list
 ✅ 多域名拆分: 163.com,changsha.cn,jrj.com.cn,neotv.com.cn,sina.cn,sina.com.cn##.topad
     → |163.com##.topad
     → |changsha.cn##.topad
@@ -28458,27 +27771,9 @@
     → |qqtn.com##.u-gs-btn
     → |smzy.com##.u-gs-btn
     → |yxdj.com.cn##.u-gs-btn
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.u9_aside
-    → |1111.baidu.com##.u9_aside
-    → |bdimg.com##.u9_aside
-    → |tieba.baidu.com##.u9_aside
-    → |tieba.com##.u9_aside
-    → |xingqu.baidu.com##.u9_aside
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.u9_head
-    → |1111.baidu.com##.u9_head
-    → |bdimg.com##.u9_head
-    → |tieba.baidu.com##.u9_head
-    → |tieba.com##.u9_head
-    → |xingqu.baidu.com##.u9_head
 ✅ 多域名拆分: ilxdh.com,subaibai.com##.v-modal
     → |ilxdh.com##.v-modal
     → |subaibai.com##.v-modal
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.wanle_tab_tip
-    → |1111.baidu.com##.wanle_tab_tip
-    → |bdimg.com##.wanle_tab_tip
-    → |tieba.baidu.com##.wanle_tab_tip
-    → |tieba.com##.wanle_tab_tip
-    → |xingqu.baidu.com##.wanle_tab_tip
 ✅ 多域名拆分: power.baidu.com,zhidao.baidu.com##.wgt-clew[data-type="goods"]
     → |power.baidu.com##.wgt-clew[data-type="goods"]
     → |zhidao.baidu.com##.wgt-clew[data-type="goods"]
@@ -28505,12 +27800,6 @@
     → |fuliba2023.net##.widget_ui_orbui
     → |fuliba2025.net##.widget_ui_orbui
     → |ypojie.com##.widget_ui_orbui
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.worldcup_info_banner_dialog
-    → |1111.baidu.com##.worldcup_info_banner_dialog
-    → |bdimg.com##.worldcup_info_banner_dialog
-    → |tieba.baidu.com##.worldcup_info_banner_dialog
-    → |tieba.com##.worldcup_info_banner_dialog
-    → |xingqu.baidu.com##.worldcup_info_banner_dialog
 ✅ 多域名拆分: cr173.com,itmop.com,jisuxz.com##.xiazaiqi
     → |cr173.com##.xiazaiqi
     → |itmop.com##.xiazaiqi
@@ -28521,34 +27810,12 @@
 ✅ 多域名拆分: 24k99.com,fx168.com##.yy_guangao
     → |24k99.com##.yy_guangao
     → |fx168.com##.yy_guangao
-✅ 多域名拆分: 3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>.openBox-container)
-    → |3g.baidu.com#?#div:-abp-has(>.openBox-container)
-    → |m.baidu.com#?#div:-abp-has(>.openBox-container)
-    → |m5.baidu.com#?#div:-abp-has(>.openBox-container)
-    → |www.baidu.com#?#div:-abp-has(>.openBox-container)
-✅ 多域名拆分: 3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>div[id$="_1"]+div[id$="_5"])
-    → |3g.baidu.com#?#div:-abp-has(>div[id$="_1"]+div[id$="_5"])
-    → |m.baidu.com#?#div:-abp-has(>div[id$="_1"]+div[id$="_5"])
-    → |m5.baidu.com#?#div:-abp-has(>div[id$="_1"]+div[id$="_5"])
-    → |www.baidu.com#?#div:-abp-has(>div[id$="_1"]+div[id$="_5"])
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##:not(.tbui_slideshow_slide) > div[data-daid]
-    → |1111.baidu.com##:not(.tbui_slideshow_slide) > div[data-daid]
-    → |bdimg.com##:not(.tbui_slideshow_slide) > div[data-daid]
-    → |tieba.baidu.com##:not(.tbui_slideshow_slide) > div[data-daid]
-    → |tieba.com##:not(.tbui_slideshow_slide) > div[data-daid]
-    → |xingqu.baidu.com##:not(.tbui_slideshow_slide) > div[data-daid]
 ✅ 多域名拆分: gmgard.com,hggard.com##A[onclick*="Advertisement"]
     → |gmgard.com##A[onclick*="Advertisement"]
     → |hggard.com##A[onclick*="Advertisement"]
 ✅ 多域名拆分: ksbbs.com,kshot.com##[id^="ads_"]
     → |ksbbs.com##[id^="ads_"]
     → |kshot.com##[id^="ads_"]
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##[id^="spreadad_"]
-    → |1111.baidu.com##[id^="spreadad_"]
-    → |bdimg.com##[id^="spreadad_"]
-    → |tieba.baidu.com##[id^="spreadad_"]
-    → |tieba.com##[id^="spreadad_"]
-    → |xingqu.baidu.com##[id^="spreadad_"]
 ✅ 多域名拆分: netfly.fun,netfly.tv,netflytv.xyz##[style^="display: flex;"]
     → |netfly.fun##[style^="display: flex;"]
     → |netfly.tv##[style^="display: flex;"]
@@ -28559,9 +27826,6 @@
 ✅ 多域名拆分: acgnx.cc,acgnx.se##a > img[src^="/images/"]
     → |acgnx.cc##a > img[src^="/images/"]
     → |acgnx.se##a > img[src^="/images/"]
-✅ 多域名拆分: tieba.baidu.com,wapp.baidu.com##a.fixed_bar
-    → |tieba.baidu.com##a.fixed_bar
-    → |wapp.baidu.com##a.fixed_bar
 ✅ 多域名拆分: 163.com,bilibili.com,longzhu.com##a[href*=".admaster."]
     → |163.com##a[href*=".admaster."]
     → |bilibili.com##a[href*=".admaster."]
@@ -28596,13 +27860,12 @@
 ✅ 多域名拆分: mydrivers.com,wmzhe.com##a[href*=".jd.com/"]
     → |mydrivers.com##a[href*=".jd.com/"]
     → |wmzhe.com##a[href*=".jd.com/"]
-✅ 多域名拆分: 52movieba.com,acglala.cc,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cgown.com,cn163.net,comicat.org,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hggard.com,hmoe11.net,ifenpaidy.com,jitapu.com,jitashe.org,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com##a[href*=".taobao.com"]
+✅ 多域名拆分: 52movieba.com,acglala.cc,awaker.cn,bimiacg4.net,bimiacg5.net,cgown.com,cn163.net,comicat.org,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hggard.com,hmoe11.net,ifenpaidy.com,jitapu.com,jitashe.org,kelatv.com,kisssub.org,languang.co,mtrend.cn,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com##a[href*=".taobao.com"]
     → |52movieba.com##a[href*=".taobao.com"]
     → |acglala.cc##a[href*=".taobao.com"]
     → |awaker.cn##a[href*=".taobao.com"]
     → |bimiacg4.net##a[href*=".taobao.com"]
     → |bimiacg5.net##a[href*=".taobao.com"]
-    → |ccav1.com##a[href*=".taobao.com"]
     → |cgown.com##a[href*=".taobao.com"]
     → |cn163.net##a[href*=".taobao.com"]
     → |comicat.org##a[href*=".taobao.com"]
@@ -28620,7 +27883,6 @@
     → |kelatv.com##a[href*=".taobao.com"]
     → |kisssub.org##a[href*=".taobao.com"]
     → |languang.co##a[href*=".taobao.com"]
-    → |llss.bz##a[href*=".taobao.com"]
     → |mtrend.cn##a[href*=".taobao.com"]
     → |mzh.ren##a[href*=".taobao.com"]
     → |nxing.cn##a[href*=".taobao.com"]
@@ -28654,8 +27916,7 @@
 ✅ 多域名拆分: dy2018.com,xiaopian.com##a[href*="/htmlcode/"]
     → |dy2018.com##a[href*="/htmlcode/"]
     → |xiaopian.com##a[href*="/htmlcode/"]
-✅ 多域名拆分: 141jj.com,jumi.su,preface.ai##a[href*="bit.ly"]
-    → |141jj.com##a[href*="bit.ly"]
+✅ 多域名拆分: jumi.su,preface.ai##a[href*="bit.ly"]
     → |jumi.su##a[href*="bit.ly"]
     → |preface.ai##a[href*="bit.ly"]
 ✅ 多域名拆分: editcode.net,itboth.com,itkeyword.com,ruyo.net,zhanzhangb.com##a[href*="cloud.tencent.com"]
@@ -28674,12 +27935,6 @@
 ✅ 多域名拆分: jd.com,~wan.jd.com##a[href*="wan.jd.com/"]
     → |jd.com##a[href*="wan.jd.com/"]
     → |~wan.jd.com##a[href*="wan.jd.com/"]
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##a[href*="www.clinique."]
-    → |1111.baidu.com##a[href*="www.clinique."]
-    → |bdimg.com##a[href*="www.clinique."]
-    → |tieba.baidu.com##a[href*="www.clinique."]
-    → |tieba.com##a[href*="www.clinique."]
-    → |xingqu.baidu.com##a[href*="www.clinique."]
 ✅ 多域名拆分: x6d.com,xiaodao0.com##a[href^="/ad."]
     → |x6d.com##a[href^="/ad."]
     → |xiaodao0.com##a[href^="/ad."]
@@ -28714,36 +27969,6 @@
 ✅ 多域名拆分: chchzhan.com,xxizhan.com##a[style^="position:fixed;z-index:"]
     → |chchzhan.com##a[style^="position:fixed;z-index:"]
     → |xxizhan.com##a[style^="position:fixed;z-index:"]
-✅ 多域名拆分: 18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width="320"]
-    → |18board.com##a[target="_blank"] > img[width="320"]
-    → |18board.net##a[target="_blank"] > img[width="320"]
-    → |18p2p.com##a[target="_blank"] > img[width="320"]
-    → |18p2p.tv##a[target="_blank"] > img[width="320"]
-✅ 多域名拆分: 18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width="330"]
-    → |18board.com##a[target="_blank"] > img[width="330"]
-    → |18board.net##a[target="_blank"] > img[width="330"]
-    → |18p2p.com##a[target="_blank"] > img[width="330"]
-    → |18p2p.tv##a[target="_blank"] > img[width="330"]
-✅ 多域名拆分: 18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width="900"]
-    → |18board.com##a[target="_blank"] > img[width="900"]
-    → |18board.net##a[target="_blank"] > img[width="900"]
-    → |18p2p.com##a[target="_blank"] > img[width="900"]
-    → |18p2p.tv##a[target="_blank"] > img[width="900"]
-✅ 多域名拆分: 18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width="920"]
-    → |18board.com##a[target="_blank"] > img[width="920"]
-    → |18board.net##a[target="_blank"] > img[width="920"]
-    → |18p2p.com##a[target="_blank"] > img[width="920"]
-    → |18p2p.tv##a[target="_blank"] > img[width="920"]
-✅ 多域名拆分: 18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width="950"]
-    → |18board.com##a[target="_blank"] > img[width="950"]
-    → |18board.net##a[target="_blank"] > img[width="950"]
-    → |18p2p.com##a[target="_blank"] > img[width="950"]
-    → |18p2p.tv##a[target="_blank"] > img[width="950"]
-✅ 多域名拆分: 18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width^="72"]
-    → |18board.com##a[target="_blank"] > img[width^="72"]
-    → |18board.net##a[target="_blank"] > img[width^="72"]
-    → |18p2p.com##a[target="_blank"] > img[width^="72"]
-    → |18p2p.tv##a[target="_blank"] > img[width^="72"]
 ✅ 多域名拆分: baidu.com,bdimg.com,tieba.com#?#.l_post:-abp-has(div[class*=" fc-"])
     → |baidu.com#?#.l_post:-abp-has(div[class*=" fc-"])
     → |bdimg.com#?#.l_post:-abp-has(div[class*=" fc-"])
@@ -28752,19 +27977,9 @@
     → |baidu.com#?#.thread_item_box:-abp-has(div[class*=" fc-"])
     → |bdimg.com#?#.thread_item_box:-abp-has(div[class*=" fc-"])
     → |tieba.com#?#.thread_item_box:-abp-has(div[class*=" fc-"])
-✅ 多域名拆分: bdimg.com,tieba.baidu.com,tieba.com#?#.tl_shadow:-abp-has(> .ti_item > .ti_infos > .label_text_tag:-abp-contains(广告))
-    → |bdimg.com#?#.tl_shadow:-abp-has(> .ti_item > .ti_infos > .label_text_tag:-abp-contains(广告))
-    → |tieba.baidu.com#?#.tl_shadow:-abp-has(> .ti_item > .ti_infos > .label_text_tag:-abp-contains(广告))
-    → |tieba.com#?#.tl_shadow:-abp-has(> .ti_item > .ti_infos > .label_text_tag:-abp-contains(广告))
 ✅ 多域名拆分: api.so.lianmeng.360.cn,pos.baidu.com##body
     → |api.so.lianmeng.360.cn##body
     → |pos.baidu.com##body
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##body > div[ad-dom-img]
-    → |1111.baidu.com##body > div[ad-dom-img]
-    → |bdimg.com##body > div[ad-dom-img]
-    → |tieba.baidu.com##body > div[ad-dom-img]
-    → |tieba.com##body > div[ad-dom-img]
-    → |xingqu.baidu.com##body > div[ad-dom-img]
 ✅ 多域名拆分: 7itv.com,fengchedmp.com,hdwan.net##body > div[style]
     → |7itv.com##body > div[style]
     → |fengchedmp.com##body > div[style]
@@ -28788,10 +28003,6 @@
 ✅ 多域名拆分: keylol.com,steamcn.com##div[class*="rnd_"]
     → |keylol.com##div[class*="rnd_"]
     → |steamcn.com##div[class*="rnd_"]
-✅ 多域名拆分: bdimg.com,tieba.baidu.com,tieba.com##div[class][lgoinprompt="prompt"]
-    → |bdimg.com##div[class][lgoinprompt="prompt"]
-    → |tieba.baidu.com##div[class][lgoinprompt="prompt"]
-    → |tieba.com##div[class][lgoinprompt="prompt"]
 ✅ 多域名拆分: cyol.com,hc360.com##div[class^="AD"]
     → |cyol.com##div[class^="AD"]
     → |hc360.com##div[class^="AD"]
@@ -28869,12 +28080,6 @@
 ✅ 多域名拆分: v.baidu.com,v.duba.com##div[id*="categoryPageColumn"]
     → |v.baidu.com##div[id*="categoryPageColumn"]
     → |v.duba.com##div[id*="categoryPageColumn"]
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##div[id*="lottery"]
-    → |1111.baidu.com##div[id*="lottery"]
-    → |bdimg.com##div[id*="lottery"]
-    → |tieba.baidu.com##div[id*="lottery"]
-    → |tieba.com##div[id*="lottery"]
-    → |xingqu.baidu.com##div[id*="lottery"]
 ✅ 多域名拆分: fengniao.com,zhiding.cn##div[id^="AD"]
     → |fengniao.com##div[id^="AD"]
     → |zhiding.cn##div[id^="AD"]
@@ -28936,9 +28141,6 @@
 ✅ 多域名拆分: a-i-l-s-a.com,buscodepto.com##div[style^="position: fixed;"]
     → |a-i-l-s-a.com##div[style^="position: fixed;"]
     → |buscodepto.com##div[style^="position: fixed;"]
-✅ 多域名拆分: tvyun07.com,zkk78.com##div[style^="position:fixed;"]
-    → |tvyun07.com##div[style^="position:fixed;"]
-    → |zkk78.com##div[style^="position:fixed;"]
 ✅ 多域名拆分: doubiuser.github.io,doubibackup.com#?#.custom-html-widget:-abp-has(div[style^="position"])
     → |doubiuser.github.io#?#.custom-html-widget:-abp-has(div[style^="position"])
     → |doubibackup.com#?#.custom-html-widget:-abp-has(div[style^="position"])
@@ -28962,12 +28164,6 @@
 ✅ 多域名拆分: ldqk.xyz,masuit.com#?#.panel:-abp-has(>.panel-body>a>img)
     → |ldqk.xyz#?#.panel:-abp-has(>.panel-body>a>img)
     → |masuit.com#?#.panel:-abp-has(>.panel-body>a>img)
-✅ 多域名拆分: 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##li[data-daid]
-    → |1111.baidu.com##li[data-daid]
-    → |bdimg.com##li[data-daid]
-    → |tieba.baidu.com##li[data-daid]
-    → |tieba.com##li[data-daid]
-    → |xingqu.baidu.com##li[data-daid]
 ✅ 多域名拆分: news.sohu.com,www.sohu.com#?#.list16 > ul > li:-abp-contains(广告)
     → |news.sohu.com#?#.list16 > ul > li:-abp-contains(广告)
     → |www.sohu.com#?#.list16 > ul > li:-abp-contains(广告)
@@ -29732,25 +28928,6 @@
 🚫 去掉注释行: ##.heg > .partner-list
 🚫 去掉注释行: ##a[href^="/dasp.php?a="]
 🚫 去掉注释行: !#sihu
-🚫 去掉注释行: !#T66y.com
-✅ 多域名拆分: rvlev.com,t66y.com#?#.tpc_content:-abp-has(>b:nth-child(n+40)>span>a[onmouseover="this.style.background='#DEF5CD';"]:-abp-contains(91TV)) > :nth-child(-n+45)
-    → |rvlev.com#?#.tpc_content:-abp-has(>b:nth-child(n+40)>span>a[onmouseover="this.style.background='#DEF5CD';"]:-abp-contains(91TV)) > :nth-child(-n+45)
-    → |t66y.com#?#.tpc_content:-abp-has(>b:nth-child(n+40)>span>a[onmouseover="this.style.background='#DEF5CD';"]:-abp-contains(91TV)) > :nth-child(-n+45)
-✅ 多域名拆分: rvlev.com,t66y.com#?#.tpc_content:-abp-has(>b:nth-child(n+50)>span>a[onmouseover="this.style.background='#DEF5CD';"]:-abp-contains(91TV)) > :nth-child(-n+55)
-    → |rvlev.com#?#.tpc_content:-abp-has(>b:nth-child(n+50)>span>a[onmouseover="this.style.background='#DEF5CD';"]:-abp-contains(91TV)) > :nth-child(-n+55)
-    → |t66y.com#?#.tpc_content:-abp-has(>b:nth-child(n+50)>span>a[onmouseover="this.style.background='#DEF5CD';"]:-abp-contains(91TV)) > :nth-child(-n+55)
-✅ 多域名拆分: rvlev.com,t66y.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(n+150):-abp-contains(/赌|娱|澳/)) > :nth-child(-n+155)
-    → |rvlev.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(n+150):-abp-contains(/赌|娱|澳/)) > :nth-child(-n+155)
-    → |t66y.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(n+150):-abp-contains(/赌|娱|澳/)) > :nth-child(-n+155)
-✅ 多域名拆分: rvlev.com,t66y.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(n+160):-abp-contains(/赌|娱|澳/)) > :nth-child(-n+170)
-    → |rvlev.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(n+160):-abp-contains(/赌|娱|澳/)) > :nth-child(-n+170)
-    → |t66y.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(n+160):-abp-contains(/赌|娱|澳/)) > :nth-child(-n+170)
-✅ 多域名拆分: rvlev.com,t66y.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(n+180):-abp-contains(/赌|娱|澳/)) > :nth-child(-n+188)
-    → |rvlev.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(n+180):-abp-contains(/赌|娱|澳/)) > :nth-child(-n+188)
-    → |t66y.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(n+180):-abp-contains(/赌|娱|澳/)) > :nth-child(-n+188)
-✅ 多域名拆分: rvlev.com,t66y.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(n+190):-abp-contains(/赌|娱|澳/)) > :nth-child(-n+195)
-    → |rvlev.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(n+190):-abp-contains(/赌|娱|澳/)) > :nth-child(-n+195)
-    → |t66y.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(n+190):-abp-contains(/赌|娱|澳/)) > :nth-child(-n+195)
 🚫 去掉注释行: !#Taohuazu
 🚫 去掉注释行: ###toptb + div[align="center"]
 🚫 去掉注释行: ##.it618_firstad_flex
@@ -29846,10 +29023,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: IFM7kaXKSrh9kUDMXbfLmg
-🚫 去掉注释行: ! Version: 202610090252
+🚫 去掉注释行: ! Checksum: NFgSfSJJ2xqnY5T4/82ugA
+🚫 去掉注释行: ! Version: 202610090952
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 09 Oct 2026 02:52 UTC
+🚫 去掉注释行: ! Last modified: 09 Oct 2026 09:52 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -30526,11 +29703,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202610090245
+🚫 去掉注释行: ! Version: 202610090957
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 09 Oct 2026 02:45 UTC
+🚫 去掉注释行: ! Last modified: 09 Oct 2026 09:57 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 4c5551daf0eee179ae4ff3aefff3bd296c3c47dd
+🚫 去掉注释行: ! Commit: ad23a96433a932f0cc8da810649f001da2c37335
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -54314,11 +53491,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202610090245
+🚫 去掉注释行: ! Version: 202610090957
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 09 Oct 2026 02:45 UTC
+🚫 去掉注释行: ! Last modified: 09 Oct 2026 09:57 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 4c5551daf0eee179ae4ff3aefff3bd296c3c47dd
+🚫 去掉注释行: ! Commit: ad23a96433a932f0cc8da810649f001da2c37335
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -70699,10 +69876,10 @@
 🚫 去掉注释行: ! Issues: https://github.com/hagezi/dns-blocklists/issues
 🚫 去掉注释行: ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 🚫 去掉注释行: ! Expires: 8 hours
-🚫 去掉注释行: ! Last modified: 08 Oct 2026 08:48 UTC
-🚫 去掉注释行: ! Version: 2026.1008.0848.42
+🚫 去掉注释行: ! Last modified: 09 Oct 2026 08:29 UTC
+🚫 去掉注释行: ! Version: 2026.1009.0829.27
 🚫 去掉注释行: ! Syntax: AdBlock
-🚫 去掉注释行: ! Number of entries: 54269
+🚫 去掉注释行: ! Number of entries: 54700
 🚫 去掉注释行: !
 🚫 去掉注释行: !Title: anti-AD for AdGuard
 🚫 去掉注释行: !Version: 20261007231316447245049
@@ -70723,17 +69900,18 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !Generated: 2026-10-09 07:46:13
-🚫 去掉注释行: !RuleCount: 804753
+🚫 去掉注释行: !Generated: 2026-10-09 12:27:26
+🚫 去掉注释行: !RuleCount: 806045
 ✅ HOSTS 转换: 127.0.0.1 123.ywxww.net → |123.ywxww.net^
 ✅ HOSTS 转换: 127.0.0.1 1717.1000uc.com → |1717.1000uc.com^
 ✅ HOSTS 转换: 127.0.0.1 198-macros.com → |198-macros.com^
 ✅ HOSTS 转换: 127.0.0.1 22qq-client.com → |22qq-client.com^
 ✅ HOSTS 转换: 127.0.0.1 3.zhzy999.net → |3.zhzy999.net^
+✅ HOSTS 转换: 127.0.0.1 3.zhzy999.net3.zhzy999.net → |3.zhzy999.net3.zhzy999.net^
+✅ HOSTS 转换: 127.0.0.1 31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net → |31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net^
 ✅ HOSTS 转换: 127.0.0.1 4eclient.com → |4eclient.com^
 ✅ HOSTS 转换: 127.0.0.1 acc.jiangsujiaxue.com → |acc.jiangsujiaxue.com^
 ✅ HOSTS 转换: 127.0.0.1 acms.saleseos.com → |acms.saleseos.com^
-✅ HOSTS 转换: 127.0.0.1 adcentral.com.mx → |adcentral.com.mx^
 ✅ HOSTS 转换: 127.0.0.1 admin.byte.in.ua → |admin.byte.in.ua^
 ✅ HOSTS 转换: 127.0.0.1 admin.gestroom.it → |admin.gestroom.it^
 ✅ HOSTS 转换: 127.0.0.1 aetherius.live → |aetherius.live^
@@ -70743,10 +69921,8 @@
 ✅ HOSTS 转换: 127.0.0.1 alarmline.com.br → |alarmline.com.br^
 ✅ HOSTS 转换: 127.0.0.1 alineeleuterio.com.br → |alineeleuterio.com.br^
 ✅ HOSTS 转换: 127.0.0.1 allendostmen.com → |allendostmen.com^
-✅ HOSTS 转换: 127.0.0.1 alotic.net → |alotic.net^
 ✅ HOSTS 转换: 127.0.0.1 alternativas.ru → |alternativas.ru^
 ✅ HOSTS 转换: 127.0.0.1 andbake.cam → |andbake.cam^
-✅ HOSTS 转换: 127.0.0.1 aolgepacklng.com → |aolgepacklng.com^
 ✅ HOSTS 转换: 127.0.0.1 api.wipmania.net → |api.wipmania.net^
 ✅ HOSTS 转换: 127.0.0.1 app.appzcvb.com → |app.appzcvb.com^
 ✅ HOSTS 转换: 127.0.0.1 areyouready.co.za → |areyouready.co.za^
@@ -70770,7 +69946,7 @@
 ✅ HOSTS 转换: 127.0.0.1 bridgeroad.maverickpreviews.com → |bridgeroad.maverickpreviews.com^
 ✅ HOSTS 转换: 127.0.0.1 bserail.com → |bserail.com^
 ✅ HOSTS 转换: 127.0.0.1 bumcoinc.site → |bumcoinc.site^
-✅ HOSTS 转换: 127.0.0.1 c2.mc-live.online → |c2.mc-live.online^
+✅ HOSTS 转换: 127.0.0.1 c23c1b-fa77-48e0-8272-692b579a574c.gorsefield.cc → |c23c1b-fa77-48e0-8272-692b579a574c.gorsefield.cc^
 ✅ HOSTS 转换: 127.0.0.1 cambodiatouristservice.com → |cambodiatouristservice.com^
 ✅ HOSTS 转换: 127.0.0.1 casasmediterraneas.com → |casasmediterraneas.com^
 ✅ HOSTS 转换: 127.0.0.1 cat.dashabi.in → |cat.dashabi.in^
@@ -70778,7 +69954,6 @@
 ✅ HOSTS 转换: 127.0.0.1 cat.xiaoshabi.nl → |cat.xiaoshabi.nl^
 ✅ HOSTS 转换: 127.0.0.1 catbaparadisehotel.com.vn → |catbaparadisehotel.com.vn^
 ✅ HOSTS 转换: 127.0.0.1 cdaonline.com.ar → |cdaonline.com.ar^
-✅ HOSTS 转换: 127.0.0.1 cdn.file6.goodid.com → |cdn.file6.goodid.com^
 ✅ HOSTS 转换: 127.0.0.1 celebratingseniors.net → |celebratingseniors.net^
 ✅ HOSTS 转换: 127.0.0.1 cepde.org → |cepde.org^
 ✅ HOSTS 转换: 127.0.0.1 chat-server.maverickpreviews.com → |chat-server.maverickpreviews.com^
@@ -70787,8 +69962,10 @@
 ✅ HOSTS 转换: 127.0.0.1 chuguadventures.co.tz → |chuguadventures.co.tz^
 ✅ HOSTS 转换: 127.0.0.1 cid.gov.so → |cid.gov.so^
 ✅ HOSTS 转换: 127.0.0.1 cl.ssouy.com → |cl.ssouy.com^
+✅ HOSTS 转换: 127.0.0.1 clownguard.us → |clownguard.us^
 ✅ HOSTS 转换: 127.0.0.1 clubdetiroelpicarcho.com → |clubdetiroelpicarcho.com^
 ✅ HOSTS 转换: 127.0.0.1 cn.unionlever.com → |cn.unionlever.com^
+✅ HOSTS 转换: 127.0.0.1 compuserviceonline.com.br → |compuserviceonline.com.br^
 ✅ HOSTS 转换: 127.0.0.1 continentalgroup.net.in → |continentalgroup.net.in^
 ✅ HOSTS 转换: 127.0.0.1 coolairesgroup.com → |coolairesgroup.com^
 ✅ HOSTS 转换: 127.0.0.1 cpc188.day → |cpc188.day^
@@ -70804,6 +69981,7 @@
 ✅ HOSTS 转换: 127.0.0.1 debugify.net → |debugify.net^
 ✅ HOSTS 转换: 127.0.0.1 deffnelreports.bramblequarz.ru → |deffnelreports.bramblequarz.ru^
 ✅ HOSTS 转换: 127.0.0.1 delp-heizungsbau.de → |delp-heizungsbau.de^
+✅ HOSTS 转换: 127.0.0.1 delta-canvas.com → |delta-canvas.com^
 ✅ HOSTS 转换: 127.0.0.1 dezcom.com → |dezcom.com^
 ✅ HOSTS 转换: 127.0.0.1 dfd.zhzy999.net → |dfd.zhzy999.net^
 ✅ HOSTS 转换: 127.0.0.1 dinamikakargo.com → |dinamikakargo.com^
@@ -70819,7 +69997,6 @@
 ✅ HOSTS 转换: 127.0.0.1 donutsmpclient.com → |donutsmpclient.com^
 ✅ HOSTS 转换: 127.0.0.1 down.fwqlt.com → |down.fwqlt.com^
 ✅ HOSTS 转换: 127.0.0.1 down.pcclear.com → |down.pcclear.com^
-✅ HOSTS 转换: 127.0.0.1 down.qqfarmer.com.cn → |down.qqfarmer.com.cn^
 ✅ HOSTS 转换: 127.0.0.1 download.caihong.com → |download.caihong.com^
 ✅ HOSTS 转换: 127.0.0.1 download.doumaibiji.cn → |download.doumaibiji.cn^
 ✅ HOSTS 转换: 127.0.0.1 download.haozip.com → |download.haozip.com^
@@ -70848,7 +70025,6 @@
 ✅ HOSTS 转换: 127.0.0.1 flyingmutts.com → |flyingmutts.com^
 ✅ HOSTS 转换: 127.0.0.1 fmrio.com → |fmrio.com^
 ✅ HOSTS 转换: 127.0.0.1 fucktermedfir.st → |fucktermedfir.st^
-✅ HOSTS 转换: 127.0.0.1 fujeigroup.com → |fujeigroup.com^
 ✅ HOSTS 转换: 127.0.0.1 fukt.link → |fukt.link^
 ✅ HOSTS 转换: 127.0.0.1 fullstacknir.com → |fullstacknir.com^
 ✅ HOSTS 转换: 127.0.0.1 fz.tiansys.cn → |fz.tiansys.cn^
@@ -70880,13 +70056,12 @@
 ✅ HOSTS 转换: 127.0.0.1 igra123.com → |igra123.com^
 ✅ HOSTS 转换: 127.0.0.1 ikovrsps.com → |ikovrsps.com^
 ✅ HOSTS 转换: 127.0.0.1 impectorinternational.com → |impectorinternational.com^
-✅ HOSTS 转换: 127.0.0.1 indonesias.me → |indonesias.me^
 ✅ HOSTS 转换: 127.0.0.1 invmove.com → |invmove.com^
 ✅ HOSTS 转换: 127.0.0.1 ircftp.net → |ircftp.net^
 ✅ HOSTS 转换: 127.0.0.1 isiore.com.co → |isiore.com.co^
+✅ HOSTS 转换: 127.0.0.1 ita-airwaysva.com → |ita-airwaysva.com^
 ✅ HOSTS 转换: 127.0.0.1 itco.pe → |itco.pe^
 ✅ HOSTS 转换: 127.0.0.1 itssprout.com → |itssprout.com^
-✅ HOSTS 转换: 127.0.0.1 jawaratekno.com → |jawaratekno.com^
 ✅ HOSTS 转换: 127.0.0.1 jenniferloeffler.com → |jenniferloeffler.com^
 ✅ HOSTS 转换: 127.0.0.1 jessespridecharters.com → |jessespridecharters.com^
 ✅ HOSTS 转换: 127.0.0.1 jlwz.cn → |jlwz.cn^
@@ -70910,7 +70085,6 @@
 ✅ HOSTS 转换: 127.0.0.1 maidforyou1985.com → |maidforyou1985.com^
 ✅ HOSTS 转换: 127.0.0.1 makemewin.club → |makemewin.club^
 ✅ HOSTS 转换: 127.0.0.1 malupieng.com.br → |malupieng.com.br^
-✅ HOSTS 转换: 127.0.0.1 manmenduster.online → |manmenduster.online^
 ✅ HOSTS 转换: 127.0.0.1 maple30.com → |maple30.com^
 ✅ HOSTS 转换: 127.0.0.1 marlowclient.com → |marlowclient.com^
 ✅ HOSTS 转换: 127.0.0.1 meteorclients.com → |meteorclients.com^
@@ -70935,7 +70109,6 @@
 ✅ HOSTS 转换: 127.0.0.1 nusatoyota.co.id → |nusatoyota.co.id^
 ✅ HOSTS 转换: 127.0.0.1 obearo.com → |obearo.com^
 ✅ HOSTS 转换: 127.0.0.1 odinclient.st → |odinclient.st^
-✅ HOSTS 转换: 127.0.0.1 ohhhhhmoney.com → |ohhhhhmoney.com^
 ✅ HOSTS 转换: 127.0.0.1 ojang.pe.kr → |ojang.pe.kr^
 ✅ HOSTS 转换: 127.0.0.1 okhan.net → |okhan.net^
 ✅ HOSTS 转换: 127.0.0.1 oknoplastik.sk → |oknoplastik.sk^
@@ -70958,11 +70131,9 @@
 ✅ HOSTS 转换: 127.0.0.1 preciosasjoyitas.com.mx → |preciosasjoyitas.com.mx^
 ✅ HOSTS 转换: 127.0.0.1 prestigeclient.st → |prestigeclient.st^
 ✅ HOSTS 转换: 127.0.0.1 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev → |profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^
-✅ HOSTS 转换: 127.0.0.1 project0.cc → |project0.cc^
 ✅ HOSTS 转换: 127.0.0.1 public.demo.securecloudsandbox.com → |public.demo.securecloudsandbox.com^
 ✅ HOSTS 转换: 127.0.0.1 pvsa.gxfugy.cn → |pvsa.gxfugy.cn^
 ✅ HOSTS 转换: 127.0.0.1 qiniuyunxz.yxflzs.com → |qiniuyunxz.yxflzs.com^
-✅ HOSTS 转换: 127.0.0.1 qpwot.cfd → |qpwot.cfd^
 ✅ HOSTS 转换: 127.0.0.1 quillchant14.com → |quillchant14.com^
 ✅ HOSTS 转换: 127.0.0.1 qv.co.ke → |qv.co.ke^
 ✅ HOSTS 转换: 127.0.0.1 rabbids.cc → |rabbids.cc^
@@ -70986,10 +70157,12 @@
 ✅ HOSTS 转换: 127.0.0.1 sales.ifree.page → |sales.ifree.page^
 ✅ HOSTS 转换: 127.0.0.1 samiksha.com.sg → |samiksha.com.sg^
 ✅ HOSTS 转换: 127.0.0.1 sandybeachesandsunsets.com → |sandybeachesandsunsets.com^
+✅ HOSTS 转换: 127.0.0.1 sayosay.cc → |sayosay.cc^
 ✅ HOSTS 转换: 127.0.0.1 scanbot.me → |scanbot.me^
 ✅ HOSTS 转换: 127.0.0.1 scoala1gherla.ro → |scoala1gherla.ro^
 ✅ HOSTS 转换: 127.0.0.1 screenconnect.pro → |screenconnect.pro^
 ✅ HOSTS 转换: 127.0.0.1 scrroeder.com → |scrroeder.com^
+✅ HOSTS 转换: 127.0.0.1 sdufkghdfshds.cfd → |sdufkghdfshds.cfd^
 ✅ HOSTS 转换: 127.0.0.1 sec.dashabi.in → |sec.dashabi.in^
 ✅ HOSTS 转换: 127.0.0.1 sec.xiaojiji.nl → |sec.xiaojiji.nl^
 ✅ HOSTS 转换: 127.0.0.1 sec.xiaoshabi.nl → |sec.xiaoshabi.nl^
@@ -71013,9 +70186,7 @@
 ✅ HOSTS 转换: 127.0.0.1 static.youdm.cn → |static.youdm.cn^
 ✅ HOSTS 转换: 127.0.0.1 stdown.dinju.com → |stdown.dinju.com^
 ✅ HOSTS 转换: 127.0.0.1 stellaspicy.org → |stellaspicy.org^
-✅ HOSTS 转换: 127.0.0.1 streammobs.com → |streammobs.com^
 ✅ HOSTS 转换: 127.0.0.1 sugarfreedcup.co.za → |sugarfreedcup.co.za^
-✅ HOSTS 转换: 127.0.0.1 summitcapitalpatners.info → |summitcapitalpatners.info^
 ✅ HOSTS 转换: 127.0.0.1 support.clz.kr → |support.clz.kr^
 ✅ HOSTS 转换: 127.0.0.1 sushiandpoke.pt → |sushiandpoke.pt^
 ✅ HOSTS 转换: 127.0.0.1 sutterpoint.com → |sutterpoint.com^
@@ -71043,9 +70214,9 @@
 ✅ HOSTS 转换: 127.0.0.1 toolshare.com.tr → |toolshare.com.tr^
 ✅ HOSTS 转换: 127.0.0.1 top8onlinegame.com → |top8onlinegame.com^
 ✅ HOSTS 转换: 127.0.0.1 tpp.om-stock.com → |tpp.om-stock.com^
+✅ HOSTS 转换: 127.0.0.1 tr.zhzy999.net → |tr.zhzy999.net^
 ✅ HOSTS 转换: 127.0.0.1 transparenciacanaa.com.br → |transparenciacanaa.com.br^
 ✅ HOSTS 转换: 127.0.0.1 trtmyanmar.com → |trtmyanmar.com^
-✅ HOSTS 转换: 127.0.0.1 tttkkkssww.com → |tttkkkssww.com^
 ✅ HOSTS 转换: 127.0.0.1 twitch.tj → |twitch.tj^
 ✅ HOSTS 转换: 127.0.0.1 twu-hwt.org → |twu-hwt.org^
 ✅ HOSTS 转换: 127.0.0.1 upaicdn.xinmei365.com → |upaicdn.xinmei365.com^
@@ -71057,6 +70228,8 @@
 ✅ HOSTS 转换: 127.0.0.1 vizyonuniversitesi.com.tr → |vizyonuniversitesi.com.tr^
 ✅ HOSTS 转换: 127.0.0.1 vizyonuniversitesi.web.tr → |vizyonuniversitesi.web.tr^
 ✅ HOSTS 转换: 127.0.0.1 vrajras.com → |vrajras.com^
+✅ HOSTS 转换: 127.0.0.1 w.zhzy999.net → |w.zhzy999.net^
+✅ HOSTS 转换: 127.0.0.1 webcstore.pw → |webcstore.pw^
 ✅ HOSTS 转换: 127.0.0.1 website.mypetapp.co.za → |website.mypetapp.co.za^
 ✅ HOSTS 转换: 127.0.0.1 wicresetconnect.com → |wicresetconnect.com^
 ✅ HOSTS 转换: 127.0.0.1 widexenmexico.com.mx → |widexenmexico.com.mx^
@@ -71080,14 +70253,17 @@
 ✅ HOSTS 转换: 127.0.0.1 www.cutting-edge.in → |www.cutting-edge.in^
 ✅ HOSTS 转换: 127.0.0.1 www.drgenov.com → |www.drgenov.com^
 ✅ HOSTS 转换: 127.0.0.1 www.duelvalenza.it → |www.duelvalenza.it^
+✅ HOSTS 转换: 127.0.0.1 www.epibenie.dz → |www.epibenie.dz^
 ✅ HOSTS 转换: 127.0.0.1 www.first-security-verden.de → |www.first-security-verden.de^
+✅ HOSTS 转换: 127.0.0.1 www.gestroom.it → |www.gestroom.it^
 ✅ HOSTS 转换: 127.0.0.1 www.hostingcloud.science → |www.hostingcloud.science^
 ✅ HOSTS 转换: 127.0.0.1 www.hqsblog.com → |www.hqsblog.com^
+✅ HOSTS 转换: 127.0.0.1 www.hseda.com → |www.hseda.com^
 ✅ HOSTS 转换: 127.0.0.1 www.intelligradeeducation.vicentecisnerospub.com → |www.intelligradeeducation.vicentecisnerospub.com^
-✅ HOSTS 转换: 127.0.0.1 www.jozefinskiatelje.si → |www.jozefinskiatelje.si^
 ✅ HOSTS 转换: 127.0.0.1 www.kenwillzltd.com → |www.kenwillzltd.com^
 ✅ HOSTS 转换: 127.0.0.1 www.khavar.com → |www.khavar.com^
 ✅ HOSTS 转换: 127.0.0.1 www.konsor.ru → |www.konsor.ru^
+✅ HOSTS 转换: 127.0.0.1 www.lasmelosas.cl → |www.lasmelosas.cl^
 ✅ HOSTS 转换: 127.0.0.1 www.medises.co.kr → |www.medises.co.kr^
 ✅ HOSTS 转换: 127.0.0.1 www.myvcart.com → |www.myvcart.com^
 ✅ HOSTS 转换: 127.0.0.1 www.namuvpn.com → |www.namuvpn.com^
@@ -71105,7 +70281,6 @@
 ✅ HOSTS 转换: 127.0.0.1 www.tdejb.com → |www.tdejb.com^
 ✅ HOSTS 转换: 127.0.0.1 www.tecunonline.com → |www.tecunonline.com^
 ✅ HOSTS 转换: 127.0.0.1 www.test.peperoncinochepassione.it → |www.test.peperoncinochepassione.it^
-✅ HOSTS 转换: 127.0.0.1 www.tmcksa.com → |www.tmcksa.com^
 ✅ HOSTS 转换: 127.0.0.1 www.vuelaviajero.com → |www.vuelaviajero.com^
 ✅ HOSTS 转换: 127.0.0.1 www.website.mypetapp.co.za → |www.website.mypetapp.co.za^
 ✅ HOSTS 转换: 127.0.0.1 www.xn--on3b15m2lco2u.com → |www.xn--on3b15m2lco2u.com^
@@ -154470,15 +153645,15 @@
 🚫 去掉注释行: ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 🚫 去掉注释行: ! Homepage: https://github.com/217heidai/adblockfilters
 🚫 去掉注释行: ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-🚫 去掉注释行: ! Version: 20261009051222
-🚫 去掉注释行: ! Last modified: 2026/10/09 05:12:22
+🚫 去掉注释行: ! Version: 20261009133226
+🚫 去掉注释行: ! Last modified: 2026/10/09 13:32:26
 🚫 去掉注释行: ! Blocked domains: 5555
 🚫 去掉注释行: ! unBlocked domains: 16
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: SDyO9706+Am8sA7EZcCFvQ
-🚫 去掉注释行: ! Version: 202610090125
+🚫 去掉注释行: ! Checksum: 3yBzgfGGvsvMigRFPBhgUw
+🚫 去掉注释行: ! Version: 202610090425
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-10-09 01:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-10-09 04:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -211226,6 +210401,9 @@
 ✅ 多域名拆分: eiendomsmegler1.no,sparebank1.no###opt-in
     → |eiendomsmegler1.no###opt-in
     → |sparebank1.no###opt-in
+✅ 多域名拆分: importpris.no,paracord.no##.consent-container
+    → |importpris.no##.consent-container
+    → |paracord.no##.consent-container
 🚫 去掉注释行: !
 🚫 去掉注释行: ! ---------- Philippines -----
 🚫 去掉注释行: !
@@ -221521,9 +220699,9 @@
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: !---------------------------------Allowlists----------------------------------!
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: 0hk5esi9Y/cN7yTwp7KqGQ
+🚫 去掉注释行: ! Checksum: 7TWx+aql7/cUs1zMWKZGeQ
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Last modified: 2026-10-09 01:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-10-09 04:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
@@ -250481,6 +249659,9 @@
 ✅ 多域名拆分: eiendomsmegler1.no,sparebank1.no###opt-in
     → |eiendomsmegler1.no###opt-in
     → |sparebank1.no###opt-in
+✅ 多域名拆分: importpris.no,paracord.no##.consent-container
+    → |importpris.no##.consent-container
+    → |paracord.no##.consent-container
 🚫 去掉注释行: !
 🚫 去掉注释行: ! ---------- Philippines -----
 🚫 去掉注释行: !
