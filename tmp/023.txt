@@ -19216,6 +19216,7 @@ sogeti.*###popup-cookieConsent
 |wikov.com##.cookies-policy
 |firstvds.ru###cookies-policy
 |libre-media.com###cookies-policy
+|medvestnik.ru###cookies-policy
 |nationalsewingcircle.com###cookies-policy
 |pharmacyclub.net###cookies-policy
 |upad.hr###cookies-policy
@@ -42684,7 +42685,8 @@ bankinform.ru###bisCookieCompliance
 |earth-chronicles.ru###bottomInfoBar
 |vip-tv.online###bottomInfoBar
 yvid.ru###cbb
-keenetic.ru###cc-banner
+|keenetic.ru###cc-banner
+|netcraze.ru###cc-banner
 mamba.ru###closeCookieBanner
 solgarvitamin.ru###consent-modal
 gorodperm.ru###cookb
@@ -42930,6 +42932,9 @@ rutube.ru##.eu-cookie-popup-module__eu_cookie_popup
 ru.4game.ru##.fcw-wrap-ru
 finuslugi.ru##.finkit-widgets-sc-cookies-plate__wrapper
 wildberries.ru##.fixed-block__cookies
+|hitfm.ru##.fixed:has([href="/page/license-agreement"])
+|montecarlo.ru##.fixed:has([href="/page/license-agreement"])
+|rusradio.ru##.fixed:has([href="/page/license-agreement"])
 xn--80aaaajaqedvetnzbddl5dfpg6ilw8c.xn--p1ai##.flex.flex-row.items-center.z-50.p-1.pl-3.rounded-full.bg-white.drop-shadow-lg.text-10px.fixed.bottom-\[20px\].left-\[90px\]
 servermall.ru##.float-cookie-wrapper
 chodb.ru##.foobar-wrapper
@@ -43201,10 +43206,7 @@ yoomoney.ru##div[data-qa="gdpr"]
 youdo.com##div[data-sentry-component="AccessCookies"]
 smi2.ru##div[data-sentry-component="CookieBtn"]
 |dfm.ru##div[data-sentry-component="CookiesWindow"]
-|hitfm.ru##div[data-sentry-component="CookiesWindow"]
 |maximum.ru##div[data-sentry-component="CookiesWindow"]
-|montecarlo.ru##div[data-sentry-component="CookiesWindow"]
-|rusradio.ru##div[data-sentry-component="CookiesWindow"]
 russianfield.com##div[data-storage-item^="t886cookiename_"]
 knmoloko.ru##div[data-storage-item^="t887cookiename_"]
 id.sber.ru##div[data-testid="CookiesBanner"]
@@ -47146,6 +47148,7 @@ neowin.net##.category-bar
 |retail-insight-network.com##.catfish
 |ttjonline.com##.catfish
 |verdict.co.uk##.catfish
+|boxlifemagazine.com##.cb-box__wrapper-center_modal
 |crazyforcrust.com##.cb-box__wrapper-center_modal
 |easypeasyfoodie.com##.cb-box__wrapper-center_modal
 |thetinylife.com##.cb-box__wrapper-center_modal
