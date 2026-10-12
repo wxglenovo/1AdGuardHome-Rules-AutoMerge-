@@ -775,6 +775,12 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||6px1vsaq0h.com^
+||2mlt7jkbob.com^
+||dmlenpksrndflu.com^
+||ventriloquist46.com^
+||k56y7oxb3x.com^
+||irgo28nc8b.com^
 ||7istqn6fh.com^
 ||1736js66.com^
 ||xwpmbxdwlkrfzo.com^
@@ -784,7 +790,6 @@ newduba.cn###jq_youxi
 ||odzfjvbsd.com^
 ||t2f3pqd40.com^
 ||pbeldhnbk.com^
-||odzfjvbsd.com^
 ||vvs0eu66z.com^
 ||wcu79k85a.com^
 ||bcmbmedbqx.icu^
@@ -17203,6 +17208,8 @@ guailie.com#@#.google-ad
 ||alicdn.com^$domain=99re.com
 ||sinaimg.cn^$domain=99re.com
 ||upload.cc^$domain=99re.com
+acgcbk55.vip#?#.post:-abp-has(a[title*="广告"])
+acgcbk55.vip#?#.ajax-post:-abp-has(a[href*="/tag/%e5%b9%bf%e5%91%8a"])
 $domain=ads.adxadserv.com|adserver.juicyads.com|cs.adxpansion.com|olmsoneenh.info|static.javhd.com|syndication.exosrv.com
 @@||avgle.com/embed/$genericblock,generichide
 ||adxxx.info^$domain=avgle.com
@@ -18735,6 +18742,8 @@ $script,third-party,domain=torkitty.net|torkitty.com|torrentkitty.app|torrentkit
 |torrentkitty.net##a[href*="/aff_"]
 |torrentkitty.se##a[href*="/aff_"]
 |torrentkitty.tv##a[href*="/aff_"]
+vikacg.com##div[role="link"] > img[src*="/assets/moonlight/"]
+vikacg.com##a[href^="http"] > img[src*="/assets/moonlight/"]
 |vikacg.com##a.w-full[data-ad-index]
 |vikacg.cc##a.w-full[data-ad-index]
 webkaka.com##.pNavigateAd
@@ -18746,6 +18755,7 @@ webkaka.com##td[id$="_SPONSOR"]
 ||webkaka.com/info/script/articleAd.js
 ||webkaka.com/script/cp.js
 ||webkaka.com^*x50.
+.in^$domain=wnacg.com|wn001.cfd|wn002.cfd|wnacg.ru
 ||wnacg.com/game/
 ||wnimg2.cfd/data/t/*.gif
 wnacg.com#@#.pcgg
