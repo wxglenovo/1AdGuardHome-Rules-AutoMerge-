@@ -18370,6 +18370,7 @@ patreon.com##div[data-tag="cookie-disclosure"]
 app.lickd.co##div[data-test-app-cookie-notification]
 pinnacle.com##div[data-test-id="Cookie-PolicyBanner"]
 lego.com##div[data-test="age-gate-disclaimer"]
+deeppersonality.app##div[data-testid="analytics-consent-banner"]
 metadefender.com##div[data-testid="banner"]:has(a[href="https://www.opswat.com/legal/cookies-policy"])
 |athenegpt.ai##div[data-testid="cookie-banner"]
 |betterhelp.com##div[data-testid="cookie-banner"]
@@ -19142,6 +19143,7 @@ sogeti.*###popup-cookieConsent
 |scienceinsport.com##.amgdprjs-bar-template
 |sparkfun.com##.amgdprjs-bar-template
 |theraband.com##.amgdprjs-bar-template
+|vortexoptics.com##.amgdprjs-bar-template
 |carletonvillemall.co.za##.cookie-notification
 |ccdcoe.org##.cookie-notification
 |cosmomall.co.za##.cookie-notification
@@ -54944,6 +54946,7 @@ cricbuzz.com##.cbz-leaderboard-banner
 |apkpure.net##.chrome-install-pop
 clayandbuck.com##.cnb-download-app-at-mobile
 coinpaprika.com##.coins-mobile-banner
+www.reddit.com##.configured-xpromo-bottom-sheet
 kijiji.ca##.container-3757608091
 cbsnews.com##.content__cta
 gumtree.com.au##.continueInApp__container
