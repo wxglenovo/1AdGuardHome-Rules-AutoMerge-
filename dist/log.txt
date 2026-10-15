@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-10-15T04:16:42.035Z
+🚫 去掉注释行: ! Last modified: 2026-10-15T08:20:23.313Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -1664,10 +1664,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 96379
-🚫 去掉注释行: ! Checksum: 42k3YMKRzGuRsDSdMOluvw
-🚫 去掉注释行: ! Version: 202610150452
+🚫 去掉注释行: ! Checksum: v1RLUEWjC1HdcsPBDFmJ1g
+🚫 去掉注释行: ! Version: 202610150952
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 15 Oct 2026 04:52 UTC
+🚫 去掉注释行: ! Last modified: 15 Oct 2026 09:52 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -25465,10 +25465,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: wZr6Hvt1NxVK0QQi81HxYg
-🚫 去掉注释行: ! Version: 202610150452
+🚫 去掉注释行: ! Checksum: nYqX2e4aTCiCEZb7pcAGlA
+🚫 去掉注释行: ! Version: 202610150952
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 15 Oct 2026 04:52 UTC
+🚫 去掉注释行: ! Last modified: 15 Oct 2026 09:52 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -25507,9 +25507,11 @@
 🚫 去掉注释行: ###aatop[class^="top_box"]
 🚫 去掉注释行: ###ad > #h2_player_prevideo
 🚫 去掉注释行: ###ad-SNSSplashAd
+🚫 去掉注释行: ###ad-float.kyty
 🚫 去掉注释行: ###ad-floatwin
 🚫 去掉注释行: ###ad1[onclick="window.open(this.url)"]
 🚫 去掉注释行: ###adBody07
+🚫 去掉注释行: ###adFloat
 🚫 去掉注释行: ###adLeftFloat
 🚫 去掉注释行: ###adRightFloat
 🚫 去掉注释行: ###adUrl
@@ -25537,6 +25539,7 @@
 🚫 去掉注释行: ###asdw
 🚫 去掉注释行: ###asdw2
 🚫 去掉注释行: ###asdw2 + img
+🚫 去掉注释行: ###banner_links.banner-container
 🚫 去掉注释行: ###bfad
 🚫 去掉注释行: ###bfad1
 🚫 去掉注释行: ###bfad2
@@ -25546,23 +25549,18 @@
 🚫 去掉注释行: ###bfad6
 🚫 去掉注释行: ###body > #left-promotion
 🚫 去掉注释行: ###body > #right-promotion
-🚫 去掉注释行: ###bottom-gg1
 🚫 去掉注释行: ###bottomAD
 🚫 去掉注释行: ###bottomNavad
 🚫 去掉注释行: ###bottombanner
 🚫 去掉注释行: ###bottommob.bottommob
-🚫 去掉注释行: ###breadCrumb + .c + .t[style="margin-top:8px"]
-🚫 去掉注释行: ###breadCrumb + .t[style="margin-top:8px"]
 🚫 去掉注释行: ###chs_bannerArea
 🚫 去掉注释行: ###comiis_xizi_gg02
 🚫 去掉注释行: ###container > #main.site-main > div > div > a[href^="/"][href$="/"] > img
-🚫 去掉注释行: ###container > .sectionBanner
 🚫 去掉注释行: ###crazy_ad_float
 🚫 去掉注释行: ###crazy_ad_layer
 🚫 去掉注释行: ###cs_left_couplet
 🚫 去掉注释行: ###cs_right_couplet
 🚫 去掉注释行: ###dbgg
-🚫 去掉注释行: ##.main-content > .ad-shell
 🚫 去掉注释行: ###diads
 🚫 去掉注释行: ###div_top_ads
 🚫 去掉注释行: ###duilian_left
@@ -25574,10 +25572,13 @@
 🚫 去掉注释行: ###fc_foot > #f_skyf
 🚫 去掉注释行: ###fixed-bottom-modal[style^="right:"][style$="px; display: block;"]
 🚫 去掉注释行: ###fk_faiVisitStateAd
+🚫 去掉注释行: ###float-ad
 🚫 去掉注释行: ###floatad-winpop
 🚫 去掉注释行: ###fnbt
+🚫 去掉注释行: ###foot > #btmBox
 🚫 去掉注释行: ###footer_fix_ggw
 🚫 去掉注释行: ###frameS8CyqB
+🚫 去掉注释行: ###fucku.col-md-8
 🚫 去掉注释行: ###fuo_top_float
 🚫 去掉注释行: ###fwin_popad_7ree
 🚫 去掉注释行: ###fwin_popad_7ree + #fwin_dialog
@@ -25587,6 +25588,8 @@
 🚫 去掉注释行: ###googleAD2
 🚫 去掉注释行: ###googleAD3
 🚫 去掉注释行: ###googleAdIndexTop
+🚫 去掉注释行: ###gridAdvContent
+🚫 去掉注释行: ###gridAdvoOerlay
 🚫 去掉注释行: ###haoxinqing_me_img
 🚫 去掉注释行: ###header-top + .advertisement
 🚫 去掉注释行: ###header_global_ad
@@ -25594,9 +25597,12 @@
 🚫 去掉注释行: ###hj-right-aside[style="float: right;"]
 🚫 去掉注释行: ###imgad
 🚫 去掉注释行: ###imgs5[height="60px"]
+🚫 去掉注释行: ###index-ad-banner
 🚫 去掉注释行: ###index_aside_ad
+🚫 去掉注释行: ###index_banner[src*=".imgdd.com"]
 🚫 去掉注释行: ###index_banner[src*=".meituan.net"]
 🚫 去掉注释行: ###index_content_ad
+🚫 去掉注释行: ###interstitial_fade[style^="display: block"]
 🚫 去掉注释行: ###js-ad-map
 🚫 去掉注释行: ###js-ysjpp
 🚫 去掉注释行: ###js_ads_banner_top
@@ -25626,6 +25632,7 @@
 🚫 去掉注释行: ###lovexin2
 🚫 去掉注释行: ###lt-ad-radio
 🚫 去掉注释行: ###magneturlpost + .movie + .movie[style="padding:12px; margin-top:15px"]
+🚫 去掉注释行: ###main > .nv-ad
 🚫 去掉注释行: ###mainbody:nth-child(5) > .mylist
 🚫 去掉注释行: ###menu + #topBox
 🚫 去掉注释行: ###menu + script + #topBox
@@ -25664,7 +25671,6 @@
 🚫 去掉注释行: ###qinav_a1
 🚫 去掉注释行: ###qj960a
 🚫 去掉注释行: ###qj960b
-🚫 去掉注释行: ###reportPop
 🚫 去掉注释行: ###results.content-main > .eLeft
 🚫 去掉注释行: ###rightCouple
 🚫 去掉注释行: ###rightCouple + #leftFloat
@@ -25681,6 +25687,7 @@
 🚫 去掉注释行: ###rip[href*=".taobao.com"]
 🚫 去掉注释行: ###sc-superman-ad
 🚫 去掉注释行: ###search > a[href="/top1.html"]
+🚫 去掉注释行: ###side_promo.bc_dp
 🚫 去掉注释行: ###sitefocus.focus
 🚫 去掉注释行: ###snActive-wrap
 🚫 去掉注释行: ###sponsorAdDiv2
@@ -25699,7 +25706,6 @@
 🚫 去掉注释行: ###tanx-con-1
 🚫 去掉注释行: ###tanx-fold-main
 🚫 去掉注释行: ###taotaole
-🚫 去掉注释行: ###td_tpc > .ads
 🚫 去掉注释行: ###textggs
 🚫 去掉注释行: ###timedfuo
 🚫 去掉注释行: ###top-gg-container
@@ -25717,7 +25723,6 @@
 🚫 去掉注释行: ###xqad1
 🚫 去掉注释行: ###xqad2
 🚫 去掉注释行: ###xqad3
-🚫 去掉注释行: ##.AD_TAC_BOX
 🚫 去掉注释行: ##.Flagrow-Ads-under-header
 🚫 去掉注释行: ##.MacPlayer > #play-pause
 🚫 去掉注释行: ##.RMss1
@@ -25727,6 +25732,8 @@
 🚫 去掉注释行: ##._300x250.item
 🚫 去掉注释行: ##._cggp
 🚫 去掉注释行: ##._ggs
+🚫 去掉注释行: ##._v_ad_container
+🚫 去掉注释行: ##.a-media.ex-728-90
 🚫 去掉注释行: ##.a_2mu
 🚫 去掉注释行: ##.a_cn
 🚫 去掉注释行: ##.a_fl
@@ -25739,9 +25746,9 @@
     → |~yswc1.xyz##.a_mu
 🚫 去掉注释行: ##.a_oscar1
 🚫 去掉注释行: ##.a_pb
-✅ 多域名拆分: ~fishmsg.net,~briian.com##.a_pt
-    → |~fishmsg.net##.a_pt
+✅ 多域名拆分: ~briian.com,~fishmsg.net##.a_pt
     → |~briian.com##.a_pt
+    → |~fishmsg.net##.a_pt
 🚫 去掉注释行: ##.a_sxc
 🚫 去掉注释行: ##.a_xsfl
 🚫 去掉注释行: ##.aab-post
@@ -25758,6 +25765,10 @@
 🚫 去掉注释行: ##.ad-pc
 🚫 去掉注释行: ##.ad-right-down
 🚫 去掉注释行: ##.ad-right-top
+🚫 去掉注释行: ##.ad-s2-card
+🚫 去掉注释行: ##.ad-s3-block
+🚫 去掉注释行: ##.ad-s4-block
+🚫 去掉注释行: ##.ad-s5-block
 🚫 去掉注释行: ##.ad-shine-panel
 🚫 去掉注释行: ##.ad-site
 🚫 去掉注释行: ##.ad.mi_btcon
@@ -25785,12 +25796,15 @@
 🚫 去掉注释行: ##.adpc
 🚫 去掉注释行: ##.adpcc
 🚫 去掉注释行: ##.adppc
+🚫 去掉注释行: ##.adpvc
+🚫 去掉注释行: ##.adpwc
 🚫 去掉注释行: ##.ads > #video_playr_sider
 🚫 去掉注释行: ##.ads > a > img[src*=".sinaimg."]
 🚫 去掉注释行: ##.ads-after-content
 🚫 去掉注释行: ##.ads-after-header
 🚫 去掉注释行: ##.ads-all
 🚫 去掉注释行: ##.ads-before-content
+🚫 去掉注释行: ##.ads.flex
 🚫 去掉注释行: ##.ads100
 🚫 去掉注释行: ##.ads200
 🚫 去掉注释行: ##.ads_all > .ads_w
@@ -25814,6 +25828,7 @@
 🚫 去掉注释行: ##.apd-right
 🚫 去掉注释行: ##.archive > a[ontouchstart="this.click();"]
 🚫 去掉注释行: ##.area > .tuiguang
+🚫 去掉注释行: ##.art-layer-ad
 🚫 去掉注释行: ##.artad
 🚫 去掉注释行: ##.article-pop-up-ad
 🚫 去掉注释行: ##.artplayer-plugin-ads
@@ -25826,6 +25841,7 @@
 🚫 去掉注释行: ##.b300 > .h100 > a[href^="http"]
 🚫 去掉注释行: ##.baiduad
 🚫 去掉注释行: ##.banner-ad-section
+🚫 去掉注释行: ##.banner-adv-new
 🚫 去掉注释行: ##.banner-cctv-A2
 🚫 去掉注释行: ##.banner-cctv-Topping
 🚫 去掉注释行: ##.bdyp-sygg-ul
@@ -25836,11 +25852,13 @@
 🚫 去掉注释行: ##.bm.a_c
 🚫 去掉注释行: ##.bn728-100
 🚫 去掉注释行: ##.bn728-93
+🚫 去掉注释行: ##.body-adblock
 🚫 去掉注释行: ##.bottomSponsor
 🚫 去掉注释行: ##.bottom_mengcheng_ad_wrap
 🚫 去掉注释行: ##.broadcastMe[style="width: 1200px;"]
 🚫 去掉注释行: ##.bus_adsbox
 🚫 去掉注释行: ##.cari-ads
+🚫 去掉注释行: ##.ceo_ads
 🚫 去掉注释行: ##.chat-ad
 🚫 去掉注释行: ##.chat-right-ad
 🚫 去掉注释行: ##.chat-sysbroadcast-ad
@@ -25852,14 +25870,19 @@
 🚫 去掉注释行: ##.comiis_guanggao_tit
 🚫 去掉注释行: ##.common-topad
 🚫 去掉注释行: ##.common_ad
+🚫 去掉注释行: ##.component-advertises
 🚫 去掉注释行: ##.con_search + #carousel-example-generic[style^="max-width: 1170px;"]
 🚫 去掉注释行: ##.conch-ads-box
+🚫 去掉注释行: ##.container .t-img-box:first-child
 🚫 去掉注释行: ##.container > #dhshtml
 🚫 去掉注释行: ##.container > .index-ad
 🚫 去掉注释行: ##.container > .slide-baidu
-🚫 去掉注释行: ##.container .t-img-box:first-child
 🚫 去掉注释行: ##.containeradvertising
 🚫 去掉注释行: ##.content > #dhxhtml
+🚫 去掉注释行: ##.content > .dds_w
+🚫 去掉注释行: ##.content > .module > .small-icon-container > a.small-icon-div[target="_blank"]
+🚫 去掉注释行: ##.content > .myads
+🚫 去掉注释行: ##.content > .small-icon-container > a.small-icon-div[target="_blank"]
 🚫 去掉注释行: ##.content > a > .topline
 🚫 去掉注释行: ##.content-video > .ads
 🚫 去掉注释行: ##.content-video > .ads-player
@@ -25876,6 +25899,7 @@
 🚫 去掉注释行: ##.dipiao
 🚫 去掉注释行: ##.dplayer > .tips
 🚫 去掉注释行: ##.ec-ad
+🚫 去掉注释行: ##.ec-tutu
 🚫 去掉注释行: ##.edtj
 🚫 去掉注释行: ##.eis_muad
 🚫 去掉注释行: ##.error > #qqs
@@ -25892,23 +25916,24 @@
 🚫 去掉注释行: ##.float-adv-right-top
 🚫 去掉注释行: ##.floatAd
 🚫 去掉注释行: ##.float_bot_right
+🚫 去掉注释行: ##.floating-ad
 🚫 去掉注释行: ##.fnwehjnc12
 🚫 去掉注释行: ##.frAd
 🚫 去掉注释行: ##.frontpageAdvM
+🚫 去掉注释行: ##.ftad-ct
 🚫 去掉注释行: ##.full.banners12
 🚫 去掉注释行: ##.getads
 🚫 去掉注释行: ##.gg-box
 🚫 去掉注释行: ##.gg-one
 🚫 去掉注释行: ##.gg1000
 🚫 去掉注释行: ##.gg430
-🚫 去掉注释行: ##.content > .myads
 🚫 去掉注释行: ##.gg_1
 🚫 去掉注释行: ##.gg_2
 🚫 去掉注释行: ##.gg_3
+🚫 去掉注释行: ##.gg_300
 🚫 去掉注释行: ##.gg_4
 🚫 去掉注释行: ##.gg_5
 🚫 去掉注释行: ##.gg_6
-🚫 去掉注释行: ##.gg_300
 🚫 去掉注释行: ##.gg_728
 🚫 去掉注释行: ##.gg_950
 🚫 去掉注释行: ##.gg_960
@@ -25931,15 +25956,22 @@
 🚫 去掉注释行: ##.guruin-ads
 🚫 去掉注释行: ##.hao123-unionad-pic
 🚫 去掉注释行: ##.hbp > .wp_banner
+🚫 去掉注释行: ##.head-adblock
 🚫 去掉注释行: ##.heg > .div-list
+🚫 去掉注释行: ##.hg-ssp-slot
+🚫 去掉注释行: ##.hidden-text + .ad-container
 🚫 去掉注释行: ##.his-sign-cont[data-dysign-adid]
 🚫 去掉注释行: ##.hlol_ad
+🚫 去掉注释行: ##.home-qf > div[class*="img-ad"]
+🚫 去掉注释行: ##.home-qf > div[class*="img-qf"]
 🚫 去掉注释行: ##.homepage > .wp-none1
 🚫 去掉注释行: ##.hongbao_hd
 🚫 去掉注释行: ##.horizontal-banner
+🚫 去掉注释行: ##.horizontal-banner + .post-content
 🚫 去掉注释行: ##.hzxld
 🚫 去掉注释行: ##.iHead960x90
 🚫 去掉注释行: ##.ibtad
+🚫 去掉注释行: ##.image-container > a[href*=".yangkeduo.com"]
 🚫 去掉注释行: ##.imagegg-container
 🚫 去掉注释行: ##.imgBox > div[class^="ad"]
 🚫 去掉注释行: ##.index-top-aassd
@@ -25974,6 +26006,7 @@
 🚫 去掉注释行: ##.main-ad-r
 🚫 去掉注释行: ##.main-ad-r + .topad
 🚫 去掉注释行: ##.main-container > #dhxhtml
+🚫 去掉注释行: ##.main-content > .ad-shell
 🚫 去掉注释行: ##.mainbg > #s11navtop
 🚫 去掉注释行: ##.maomi-content > #main-container > .row.mob40 + .row
 🚫 去掉注释行: ##.maomi-content > .section-banner
@@ -25991,6 +26024,7 @@
 🚫 去掉注释行: ##.mod + #bottomBox
 🚫 去掉注释行: ##.module-adslist
 🚫 去掉注释行: ##.module-adslists
+🚫 去掉注释行: ##.module-player > .dds_w
 🚫 去掉注释行: ##.module-tglist > .tg-normal-box
 🚫 去掉注释行: ##.module-ttlist.tt_w-2
 🚫 去掉注释行: ##.module-yylist.tg_w
@@ -26000,9 +26034,13 @@
 🚫 去掉注释行: ##.myui-extra + .noticetext
 🚫 去掉注释行: ##.nav-ads
 🚫 去掉注释行: ##.nav-area + .wrapper .tuiguang
+🚫 去掉注释行: ##.newsAD
 🚫 去掉注释行: ##.newstyle > .container > a[target="_blank"]
 🚫 去掉注释行: ##.newstyle > a > img[src*="img.com/i/"]
 🚫 去掉注释行: ##.no-mobile[style="position: fixed;right:0px;bottom: 0px;"]
+🚫 去掉注释行: ##.notice-ad-wrapper
+🚫 去掉注释行: ##.notice-ad-wrapper + .app-abk
+🚫 去掉注释行: ##.notice-ad-wrapper + .app-abk + .app-text
 🚫 去掉注释行: ##.opt > a[target="_blank"] > img[src*=".360buyimg.com"]
 🚫 去掉注释行: ##.orbui-post
 🚫 去掉注释行: ##.orbui-site
@@ -26017,24 +26055,28 @@
 🚫 去掉注释行: ##.pccb > .ng-star-inserted
 🚫 去掉注释行: ##.pcd_ad
 🚫 去掉注释行: ##.pcgg
+🚫 去掉注释行: ##.pg-body > div[class^="gg_"]
 🚫 去掉注释行: ##.pggb > .ng-star-inserted
 🚫 去掉注释行: ##.pggc > .ng-star-inserted
 🚫 去掉注释行: ##.pggd > .ng-star-inserted
 🚫 去掉注释行: ##.pggf > .ng-star-inserted
 🚫 去掉注释行: ##.player + .sponsor
 🚫 去掉注释行: ##.player-bottom-gg
+🚫 去掉注释行: ##.player-box > .rm-two > a[target="_blank"]
 🚫 去掉注释行: ##.player-box > [style*="flex; justify"]
 🚫 去掉注释行: ##.player-box-main > .rm-one > a[start-time]
-🚫 去掉注释行: ##.player-box > .rm-two > a[target="_blank"]
 🚫 去掉注释行: ##.player-info > .recommend-two.recommend-list
 🚫 去掉注释行: ##.player-news > .news-list
 🚫 去掉注释行: ##.player-rm > a[href*="/ad.html?url="]
 🚫 去掉注释行: ##.player-rm-float
+🚫 去掉注释行: ##.player-rma > a[target="_blank"]
+🚫 去掉注释行: ##.player-tl > a[target="_blank"]
 🚫 去掉注释行: ##.player-tt-rm.rm-list
 🚫 去掉注释行: ##.player-tt-rmm
 🚫 去掉注释行: ##.playtop.col-pd
 🚫 去掉注释行: ##.playtopad
 🚫 去掉注释行: ##.plc > .a_p
+🚫 去掉注释行: ##.pop.pop-bottom
 🚫 去掉注释行: ##.pop[style="right: 10px;"]
 🚫 去掉注释行: ##.popup + .shortcuts-m-overlay
 🚫 去掉注释行: ##.postmessage > #googleFirst
@@ -26044,14 +26086,16 @@
 🚫 去掉注释行: ##.pro1-molnk
 🚫 去掉注释行: ##.prom-olnk
 🚫 去掉注释行: ##.promlnk[style="position:relative;width:100%;height:100%;"]
-🚫 去掉注释行: ##.push-top[clickmode="cpt"]
 🚫 去掉注释行: ##.push-bottom-container[clickmode="cpt"]
 🚫 去掉注释行: ##.push-slider[clickmode="cpt"]
+🚫 去掉注释行: ##.push-top[clickmode="cpt"]
 🚫 去掉注释行: ##.qpdb + a[href]
 🚫 去掉注释行: ##.qzdhf
 🚫 去掉注释行: ##.qzhfaaa
 🚫 去掉注释行: ##.readmidad
 🚫 去掉注释行: ##.right > .content > .ads
+🚫 去掉注释行: ##.ripro_gg_wrap
+🚫 去掉注释行: ##.rm-twoa > a[href*=".umtrack.com"]
 🚫 去掉注释行: ##.room-ad-bottom
 🚫 去掉注释行: ##.room-ad-top
 🚫 去掉注释行: ##.room-ad-video-down
@@ -26060,17 +26104,21 @@
 🚫 去掉注释行: ##.samBannerUnit
 🚫 去掉注释行: ##.scupioadslot
 🚫 去掉注释行: ##.self-gg
+🚫 去掉注释行: ##.single-ad-banner
 🚫 去掉注释行: ##.slider-ad[adid]
+🚫 去掉注释行: ##.socialmedia > #middletextbanner
 🚫 去掉注释行: ##.space-y-6 > .advertising
 🚫 去掉注释行: ##.spon-img[src*=".alicdn."]
 🚫 去掉注释行: ##.spot_nav_under_ad
 🚫 去掉注释行: ##.static-a2d
 🚫 去掉注释行: ##.svg-icon + #player_pause
 🚫 去掉注释行: ##.sxAdBox
-🚫 去掉注释行: ##.t5[style="border:1px solid #a6cbe7;"] + .t[style="margin-top:8px"]
 🚫 去掉注释行: ##.tab-content + .col-pd
 🚫 去掉注释行: ##.textadlist
+🚫 去掉注释行: ##.tg-m.tg-site
+🚫 去掉注释行: ##.tg-pc.tg-site
 🚫 去掉注释行: ##.theme_custom_slidebox-ad-below
+🚫 去掉注释行: ##.tjtagmanager[data-ad_id]
 🚫 去掉注释行: ##.tmall_ad_container
 🚫 去掉注释行: ##.tmall_bg15
 🚫 去掉注释行: ##.top-gg
@@ -26085,6 +26133,7 @@
 🚫 去掉注释行: ##.txp_ad[data-role="txpad-interact-pause"]
 🚫 去掉注释行: ##.uk-width-1-1.adbox
 🚫 去掉注释行: ##.vg-overlay-pause
+🚫 去掉注释行: ##.video-ad-item
 🚫 去掉注释行: ##.video-holder > a[target="_blank"] > img[src*=".360buyimg.com"]
 🚫 去掉注释行: ##.video-info-aux + div[style^="border-radius: 5px;"]
 🚫 去掉注释行: ##.video-item-ads
@@ -26124,17 +26173,22 @@
 🚫 去掉注释行: ##.xzbox-gh
 🚫 去掉注释行: ##.y.mtw[style="padding: 0px 10px;"]
 🚫 去掉注释行: ##.ya-normal-box-done
+🚫 去掉注释行: ##.yalayi_box
+🚫 去掉注释行: ##.yt-ad-com
 🚫 去掉注释行: ##.yueduad1
 🚫 去掉注释行: ##.zhanzhang_tuijian_btn
 🚫 去掉注释行: ##.zone_wap_banner2
 🚫 去掉注释行: ##A[href*=".com/?Agent="]
 🚫 去掉注释行: ##A[href^="/e/public/ClickAd?adid="]
+🚫 去掉注释行: ##IMG[onclick*="bucd.lol"]
 🚫 去掉注释行: ##[style*="mi-img.com"][style*="calc"]
 🚫 去掉注释行: ##a#wrapper_left_bg
 🚫 去掉注释行: ##a#wrapper_left_bg\ llll
 🚫 去掉注释行: ##a#wrapper_right_bg
 🚫 去掉注释行: ##a.hengfu > img.hengfu
 🚫 去掉注释行: ##a[clickmode="ad"]
+🚫 去掉注释行: ##a[clickmode="cpt"]
+🚫 去掉注释行: ##a[data-ad_type="1"]
 🚫 去掉注释行: ##a[href$=".xyz:8443"]
 🚫 去掉注释行: ##a[href*=".bright.cn/?utm_"]
 🚫 去掉注释行: ##a[href*=".com/?Extend="]
@@ -26142,6 +26196,7 @@
 🚫 去掉注释行: ##a[href*=".com/Register/?a="]
 🚫 去掉注释行: ##a[href*=".com?intr="]
 🚫 去掉注释行: ##a[href*=".gaimin.gg/cn"]
+🚫 去掉注释行: ##a[href*=".hongguotuiguang."]
 🚫 去掉注释行: ##a[href*=".taobao.com"] > img[src*=".tucao."]
 🚫 去掉注释行: ##a[href*="/?INTR="]
 🚫 去掉注释行: ##a[href*="/?Intr="]
@@ -26161,18 +26216,22 @@
 🚫 去掉注释行: ##a[href*="kdocs.cn"] > img[src*=".ax1x.com/"]
 🚫 去掉注释行: ##a[href*="xchina.click/prepare."]
 🚫 去掉注释行: ##a[href="/goto.php?url=hth"]
+🚫 去掉注释行: ##a[href="/iwagbwfiwehaeyh"]
+🚫 去掉注释行: ##a[href="https://t.me/bokaiyunwujiankaiyun"]
 🚫 去掉注释行: ##a[href="javascript:GoGd();"]
 🚫 去掉注释行: ##a[href="javascript:GoTp();"]
 🚫 去掉注释行: ##a[href="javascript:window.GoTp();"]
 🚫 去掉注释行: ##a[href^="/ad/"] > img[id][src*="hdslb.com"]
+🚫 去掉注释行: ##a[href^="/archives/"] > .post-card > .blog-background[style*="gif;base64"]
 🚫 去掉注释行: ##a[href^="/hy-"][ontouchstart]
 🚫 去掉注释行: ##a[href^="http://ad.moemoe."]
+🚫 去掉注释行: ##a[href^="https://l.erodalabs.com"]
+🚫 去掉注释行: ##a[href^="java"][onclick^="gogogoto"]
 🚫 去掉注释行: ##a[href^="javascript:GoDb"]
 🚫 去掉注释行: ##a[href^="javascript:gl012"]
 🚫 去掉注释行: ##a[href^="javascript:gl012"] + img
 🚫 去掉注释行: ##a[id][href*="/?aff="]
 🚫 去掉注释行: ##a[id][href*="/?register="]
-🚫 去掉注释行: ##a[href="/iwagbwfiwehaeyh"]
 🚫 去掉注释行: ##a[onclick$="'clicked', 'ad');"]
 🚫 去掉注释行: ##a[onclick*="open"] > img[src*=".dailygn.com/"]
 🚫 去掉注释行: ##a[onclick^="javascript:pc_"] > img[src*=".alicdn.com"]
@@ -26180,6 +26239,8 @@
 🚫 去掉注释行: ##a[target="_blank"] > img.king
 🚫 去掉注释行: ##a[target="_blank"] > img[src*=".ikstatic.cn"][style="width:100%;height:100%"]
 🚫 去掉注释行: ##body .has-ad
+🚫 去掉注释行: ##body > div.container[style="margin-bottom: 10px;"] > script:first-child ~ div[style="height:60px;width:100%;"]
+🚫 去掉注释行: ##body > div[style=" max-width:990px; margin:0 auto;"] > a[target="_blank"]
 🚫 去掉注释行: ##body.desktop[style^="-"] span[class*=" "] > a[href^="http"][rel="nofollow"][target="_blank"]
 🚫 去掉注释行: ##body[onload*="u()"] > #x
 🚫 去掉注释行: ##div#ad_id
@@ -26188,102 +26249,34 @@
 🚫 去掉注释行: ##div[class^="ps_"][value="20"]
 🚫 去掉注释行: ##div[id^="a-loading-"] > span
 🚫 去掉注释行: ##div[id^="ad_thread"]
-🚫 去掉注释行: ##.image-container > a[href*=".yangkeduo.com"]
 🚫 去掉注释行: ##div[id^="adv-"].adv
 🚫 去掉注释行: ##div[id^="photo-header-title-content-text-dall"]
 🚫 去掉注释行: ##div[onclick*=".open"][onclick*="leyu"]
 🚫 去掉注释行: ##div[onclick*="/ky"][onclick*="open"]
 🚫 去掉注释行: ##div[onclick*="?i_code="]
-🚫 去掉注释行: ##body > div[style=" max-width:990px; margin:0 auto;"] > a[target="_blank"]
+🚫 去掉注释行: ##div[role="listitem"] .bannerliststyle
 🚫 去掉注释行: ##div[style="margin:10px auto;width: 930px;height: 250px;"]
 🚫 去掉注释行: ##div[style="position: fixed;top: 60px;right:0;z-index:999;width:250px"]
 🚫 去掉注释行: ##div[style^="position"][onclick^="window.open"]
 🚫 去掉注释行: ##img#GGADIMG
 🚫 去掉注释行: ##img#adv1
-🚫 去掉注释行: ##.ftad-ct
 🚫 去掉注释行: ##img[onclick*=".qq.com/doc/"]
 🚫 去掉注释行: ##img[onclick*="/statics/js/"]
 🚫 去掉注释行: ##img[onclick="window.open(this.url)"][src*="qq.com"]
 🚫 去掉注释行: ##img[onclick^="window.open"][src*=".360buyimg.com"]
 🚫 去掉注释行: ##img[onclick^="window.open"][src*="pc.qq.com"]
-🚫 去掉注释行: ##IMG[onclick*="bucd.lol"]
 🚫 去掉注释行: ##img[src*=".qpic.cn"][width="980"][height="80"]
 🚫 去掉注释行: ##img[src*=".sinaimg."][style="width:1025px;height:80px"]
 🚫 去掉注释行: ##img[src*=".sinaimg."][style="width:150px;height:300px"]
 🚫 去掉注释行: ##script + #coupletBox
 🚫 去掉注释行: ##script + #rbbox
-🚫 去掉注释行: ##.adpvc
-🚫 去掉注释行: ##.adpwc
-🚫 去掉注释行: ##.ec-tutu
-🚫 去掉注释行: ##.pop.pop-bottom
 🚫 去掉注释行: ##script + .header_rmb
 🚫 去掉注释行: ##script[src="/js/sy2.js"] + div[align="center"]
 🚫 去掉注释行: ##span[title="neteasefooter"]
 🚫 去掉注释行: ##style + .a-loading
-🚫 去掉注释行: ##.horizontal-banner + .post-content
-🚫 去掉注释行: ##.rm-twoa > a[href*=".umtrack.com"]
 🚫 去掉注释行: ##style + .vdgdo
-🚫 去掉注释行: ##.tg-m.tg-site
-🚫 去掉注释行: ##.tg-pc.tg-site
-🚫 去掉注释行: ##.single-ad-banner
-🚫 去掉注释行: ##.ads.flex
-🚫 去掉注释行: ##.hidden-text + .ad-container
-🚫 去掉注释行: ##.notice-ad-wrapper
-🚫 去掉注释行: ##.notice-ad-wrapper + .app-abk
-🚫 去掉注释行: ##.notice-ad-wrapper + .app-abk + .app-text
-🚫 去掉注释行: ##.yt-ad-com
-🚫 去掉注释行: ##.content > .small-icon-container > a.small-icon-div[target="_blank"]
-🚫 去掉注释行: ##.content > .module > .small-icon-container > a.small-icon-div[target="_blank"]
-🚫 去掉注释行: ##.video-ad-item
-🚫 去掉注释行: ##.ceo_ads
-🚫 去掉注释行: ##.yalayi_box
-🚫 去掉注释行: ###side_promo.bc_dp
-🚫 去掉注释行: ###fucku.col-md-8
-🚫 去掉注释行: ###index_banner[src*=".imgdd.com"]
-🚫 去掉注释行: ###ad-float.kyty
-🚫 去掉注释行: ##.banner-adv-new
-🚫 去掉注释行: ##a[href^="/archives/"] > .post-card > .blog-background[style*="gif;base64"]
-🚫 去掉注释行: ###banner_links.banner-container
-🚫 去掉注释行: ##.a-media.ex-728-90
-🚫 去掉注释行: ##a[clickmode="cpt"]
-🚫 去掉注释行: ###foot > #btmBox
-🚫 去掉注释行: ##.player-rma > a[target="_blank"]
-🚫 去掉注释行: ##.player-tl > a[target="_blank"]
-🚫 去掉注释行: ##.home-qf > div[class*="img-qf"]
-🚫 去掉注释行: ##.home-qf > div[class*="img-ad"]
-🚫 去掉注释行: ##.module-player > .dds_w
-🚫 去掉注释行: ##.content > .dds_w
-🚫 去掉注释行: ##.tjtagmanager[data-ad_id]
-🚫 去掉注释行: ##a[href^="https://l.erodalabs.com"]
-🚫 去掉注释行: ###interstitial_fade[style^="display: block"]
-🚫 去掉注释行: ##body > div.container[style="margin-bottom: 10px;"] > script:first-child ~ div[style="height:60px;width:100%;"]
-🚫 去掉注释行: ##a[href="https://t.me/bokaiyunwujiankaiyun"]
 🚫 去掉注释行: ##td[id^="td_"] > a[href^="/htmm/"]
-🚫 去掉注释行: ##a[href*=".hongguotuiguang."]
-🚫 去掉注释行: ##.floating-ad
-🚫 去掉注释行: ##.ripro_gg_wrap
-🚫 去掉注释行: ###gridAdvoOerlay
-🚫 去掉注释行: ###gridAdvContent
-🚫 去掉注释行: ##.ad-s5-block
-🚫 去掉注释行: ##.ad-s4-block
-🚫 去掉注释行: ##.ad-s3-block
-🚫 去掉注释行: ##.ad-s2-card
-🚫 去掉注释行: ##.pg-body > div[class^="gg_"]
-🚫 去掉注释行: ##div[role="listitem"] .bannerliststyle
-🚫 去掉注释行: ##.socialmedia > #middletextbanner
-🚫 去掉注释行: ##a[href^="java"][onclick^="gogogoto"]
-🚫 去掉注释行: ##a[data-ad_type="1"]
-🚫 去掉注释行: ###float-ad
-🚫 去掉注释行: ###index-ad-banner
-🚫 去掉注释行: ##.newsAD
-🚫 去掉注释行: ##.art-layer-ad
-🚫 去掉注释行: ##._v_ad_container
-🚫 去掉注释行: ##.component-advertises
-🚫 去掉注释行: ##.hg-ssp-slot
-🚫 去掉注释行: ###main > .nv-ad
-🚫 去掉注释行: ###adFloat
-🚫 去掉注释行: ##.body-adblock
-🚫 去掉注释行: ##.head-adblock
+🚫 去掉注释行: ##.nav-link[name="temp_ad_adcontrol"]
 🚫 去掉注释行: !----------------------------------Ads-Union----------------------------------!
 🚫 去掉注释行: ##a[href*="/122.51.121.126:"]
 🚫 去掉注释行: ##a[href*="/137.220.194.105:"]
@@ -26291,11 +26284,8 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !
 🚫 去掉注释行: ##a[href*=".1699ai.top"]
-🚫 去掉注释行: ##a[href*=".holesg.xyz"]
 🚫 去掉注释行: ##a[href*=".6666ai.top"]
-🚫 去掉注释行: ##a[href*="/vv88.life"]
-🚫 去掉注释行: ##a[href*="/lesi151.cc"]
-🚫 去掉注释行: ##a[href*="/lesi198.com"]
+🚫 去掉注释行: ##a[href*=".holesg.xyz"]
 🚫 去掉注释行: ##a[href*="/2e9c9aa9.com/"]
 🚫 去掉注释行: ##a[href*="/33hth.cn"]
 🚫 去掉注释行: ##a[href*="/445.ee/"]
@@ -26303,7 +26293,10 @@
 🚫 去掉注释行: ##a[href*="/h91.tv"]
 🚫 去掉注释行: ##a[href*="/kt169.com"]
 🚫 去掉注释行: ##a[href*="/l1y9.com"]
+🚫 去掉注释行: ##a[href*="/lesi151.cc"]
+🚫 去掉注释行: ##a[href*="/lesi198.com"]
 🚫 去掉注释行: ##a[href*="/uu5566.cn.com/"]
+🚫 去掉注释行: ##a[href*="/vv88.life"]
 🚫 去掉注释行: ##a[href*="/yigeyuming3880.top"]
 🚫 去掉注释行: ##img[onclick*="/2e9c9aa9.com"]
 🚫 去掉注释行: !long-term
@@ -26314,59 +26307,6 @@
 🚫 去掉注释行: ! Contains domain names
 🚫 去掉注释行: !----------------------Specific advert blocking filters-----------------------!
 🚫 去掉注释行: !------------------------Specific element hiding rules------------------------!
-✅ 多域名拆分: fuliba2023.net,fuliba2025.net,fuliba.net##.article-topbanner
-    → |fuliba2023.net##.article-topbanner
-    → |fuliba2025.net##.article-topbanner
-    → |fuliba.net##.article-topbanner
-✅ 多域名拆分: novel543.com,thisiscm.com##.gadBlock
-    → |novel543.com##.gadBlock
-    → |thisiscm.com##.gadBlock
-✅ 多域名拆分: mgsfhw.com,mgsgirls.com##.widget_media_image
-    → |mgsfhw.com##.widget_media_image
-    → |mgsgirls.com##.widget_media_image
-✅ 多域名拆分: mgsfhw.com,mgsgirls.com##.affs
-    → |mgsfhw.com##.affs
-    → |mgsgirls.com##.affs
-✅ 多域名拆分: mgsfhw.com,mgsgirls.com##blockquote > blockquote
-    → |mgsfhw.com##blockquote > blockquote
-    → |mgsgirls.com##blockquote > blockquote
-✅ 多域名拆分: jmsnode.com,linuxsss.com,linuxssr.com,linuxtrojan.com,linuxv2ray.com,linuxxray.com,tizidajian.com,dailijichang.com,qv2ray.org##.elementor-popup-modal
-    → |jmsnode.com##.elementor-popup-modal
-    → |linuxsss.com##.elementor-popup-modal
-    → |linuxssr.com##.elementor-popup-modal
-    → |linuxtrojan.com##.elementor-popup-modal
-    → |linuxv2ray.com##.elementor-popup-modal
-    → |linuxxray.com##.elementor-popup-modal
-    → |tizidajian.com##.elementor-popup-modal
-    → |dailijichang.com##.elementor-popup-modal
-    → |qv2ray.org##.elementor-popup-modal
-✅ 多域名拆分: jmsnode.com,linuxsss.com,linuxssr.com,linuxtrojan.com,linuxv2ray.com,linuxxray.com,tizidajian.com,dailijichang.com,qv2ray.org##.elementor-sticky--active[data-settings*="bottom"]
-    → |jmsnode.com##.elementor-sticky--active[data-settings*="bottom"]
-    → |linuxsss.com##.elementor-sticky--active[data-settings*="bottom"]
-    → |linuxssr.com##.elementor-sticky--active[data-settings*="bottom"]
-    → |linuxtrojan.com##.elementor-sticky--active[data-settings*="bottom"]
-    → |linuxv2ray.com##.elementor-sticky--active[data-settings*="bottom"]
-    → |linuxxray.com##.elementor-sticky--active[data-settings*="bottom"]
-    → |tizidajian.com##.elementor-sticky--active[data-settings*="bottom"]
-    → |dailijichang.com##.elementor-sticky--active[data-settings*="bottom"]
-    → |qv2ray.org##.elementor-sticky--active[data-settings*="bottom"]
-✅ 多域名拆分: 1lou.vip,1lou.info,1lou.icu,1lou.me,1lou.one,1lou.pro###advert > :not(.card)
-    → |1lou.vip###advert > :not(.card)
-    → |1lou.info###advert > :not(.card)
-    → |1lou.icu###advert > :not(.card)
-    → |1lou.me###advert > :not(.card)
-    → |1lou.one###advert > :not(.card)
-    → |1lou.pro###advert > :not(.card)
-✅ 多域名拆分: 178.com,nga.cn,ngabbs.com##[style^="background"][style*="vertical-align"]
-    → |178.com##[style^="background"][style*="vertical-align"]
-    → |nga.cn##[style^="background"][style*="vertical-align"]
-    → |ngabbs.com##[style^="background"][style*="vertical-align"]
-✅ 多域名拆分: g-mh.org,godamh.com##.adshow
-    → |g-mh.org##.adshow
-    → |godamh.com##.adshow
-✅ 多域名拆分: iduba.com,newduba.cn##.m_nav_top
-    → |iduba.com##.m_nav_top
-    → |newduba.cn##.m_nav_top
 ✅ 多域名拆分: esu.moe,esu.wiki###ASSPC
     → |esu.moe###ASSPC
     → |esu.wiki###ASSPC
@@ -26394,11 +26334,10 @@
 ✅ 多域名拆分: chjtx.com,fooish.com###ad
     → |chjtx.com###ad
     → |fooish.com###ad
-✅ 多域名拆分: 90oo.com,p9.com.tw,price.com.hk,ttww22.com,xinhuanet.com###ad1
+✅ 多域名拆分: 90oo.com,p9.com.tw,price.com.hk,xinhuanet.com###ad1
     → |90oo.com###ad1
     → |p9.com.tw###ad1
     → |price.com.hk###ad1
-    → |ttww22.com###ad1
     → |xinhuanet.com###ad1
 ✅ 多域名拆分: booklink.me,p9.com.tw###ad2
     → |booklink.me###ad2
@@ -26420,6 +26359,13 @@
 ✅ 多域名拆分: ifeng.com,qq.com###advert
     → |ifeng.com###advert
     → |qq.com###advert
+✅ 多域名拆分: 1lou.icu,1lou.info,1lou.me,1lou.one,1lou.pro,1lou.vip###advert > :not(.card)
+    → |1lou.icu###advert > :not(.card)
+    → |1lou.info###advert > :not(.card)
+    → |1lou.me###advert > :not(.card)
+    → |1lou.one###advert > :not(.card)
+    → |1lou.pro###advert > :not(.card)
+    → |1lou.vip###advert > :not(.card)
 ✅ 多域名拆分: anjian.com,qq.com###advertisement
     → |anjian.com###advertisement
     → |qq.com###advertisement
@@ -26570,15 +26516,16 @@
 ✅ 多域名拆分: hao.360.cn,hao.360.com###festival_balloon
     → |hao.360.cn###festival_balloon
     → |hao.360.com###festival_balloon
-✅ 多域名拆分: fuliba.net,fuliba2023.net###focusslide
+✅ 多域名拆分: sasadown.cn,ydwgame.net###float_mask
+    → |sasadown.cn###float_mask
+    → |ydwgame.net###float_mask
+✅ 多域名拆分: fuliba.net,fuliba2023.net,laozuo.org###focusslide
     → |fuliba.net###focusslide
     → |fuliba2023.net###focusslide
+    → |laozuo.org###focusslide
 ✅ 多域名拆分: 18avtube.com,mm-cg.com###friendLink
     → |18avtube.com###friendLink
     → |mm-cg.com###friendLink
-✅ 多域名拆分: pornlulu.com,pornbest.org###fullPageModal
-    → |pornlulu.com###fullPageModal
-    → |pornbest.org###fullPageModal
 ✅ 多域名拆分: 9ht.com,cesafe.com,downcc.com,downyi.com,paopaoche.net,pc0359.cn,pc6.com###gaosuxiazai
     → |9ht.com###gaosuxiazai
     → |cesafe.com###gaosuxiazai
@@ -26627,9 +26574,6 @@
 ✅ 多域名拆分: hao.360.cn,hao.360.com###left_float
     → |hao.360.cn###left_float
     → |hao.360.com###left_float
-✅ 多域名拆分: cartoon18.com,pornbest.org###links
-    → |cartoon18.com###links
-    → |pornbest.org###links
 ✅ 多域名拆分: g-years.com,ghoffice.cc,gpsuu.com,mydigit.cn###main > .textMes
     → |g-years.com###main > .textMes
     → |ghoffice.cc###main > .textMes
@@ -26659,6 +26603,10 @@
 ✅ 多域名拆分: hao.360.cn,hao.360.com###plane-ria
     → |hao.360.cn###plane-ria
     → |hao.360.com###plane-ria
+✅ 多域名拆分: bljiex.com,cnys.tv,staticfile.link###player_pause
+    → |bljiex.com###player_pause
+    → |cnys.tv###player_pause
+    → |staticfile.link###player_pause
 ✅ 多域名拆分: ahgame.com,china.com.cn,netbardh.com,pangzitv.com,twoeggz.com###pop
     → |ahgame.com###pop
     → |china.com.cn###pop
@@ -26783,13 +26731,7 @@
 ✅ 多域名拆分: 159i.com,china.com.cn##.ab
     → |159i.com##.ab
     → |china.com.cn##.ab
-✅ 多域名拆分: panda985.com,qqdsw8.cn,knews.com.tw,shiyrj.top,yalishi.com,guozaoke.com,100ec.cn,159i.com,1905.com,22vd.com,2345.cn,234fang.com,3gsc.com.cn,52youpiao.com,72g.com,8se.me,acg.bz,acg13.cn,acgbenzi.com,baike.com,bbs-mychat.com,cdyee.com,ce.cn,chinaqking.com,chinatimes.com,chinatruck.org,chinaz.com,cnforex.com,cnsoftnews.com,codepub.com,cq.xinhuanet.com,cxryun.cn,dav01.com,discuss.com.hk,djwma.com,dmzj.com,dmzj1.com,dngz.net,douban.com,dzwww.com,eastday.com,fengniao.com,focus.cn,fx112.com,gongkong.com,henan100.com,honglingjin.co.uk,house.jschina.com.cn,iciba.com,ifeng.com,ipeen.com.tw,isharebest.com,itavcn.com,jojf.cn,jrj.com.cn,kumi.cn,landiannews.com,lawtv.com.cn,lieyunwang.com,lncn.org,loveshang.com,ltn.com.tw,luo8.com,maxpda.com,mm111.net,moxing.net,mvcat.com,ncdiy.com,neotv.com.cn,newsmth.net,njdaily.cn,pc0359.cn,people.com.cn,pharmnet.com.cn,pixnet.net,pptv.com,ptbus.com,qncye.com,sogou.com,sozi.cn,toolfk.com,tv.sohu.com,u-car.com.tw,weather.com.cn,xianbao.fun,yawin.cn,yb983.com,ydss.cn,yesky.com,yiche.com,yqxxs.com,zhihu.com,ziyuanyo.com##.ad
-    → |panda985.com##.ad
-    → |qqdsw8.cn##.ad
-    → |knews.com.tw##.ad
-    → |shiyrj.top##.ad
-    → |yalishi.com##.ad
-    → |guozaoke.com##.ad
+✅ 多域名拆分: 100ec.cn,159i.com,1905.com,22vd.com,2345.cn,234fang.com,3gsc.com.cn,52youpiao.com,72g.com,8se.me,acg.bz,acg13.cn,acgbenzi.com,baike.com,bbs-mychat.com,cdyee.com,ce.cn,chinaqking.com,chinatimes.com,chinatruck.org,chinaz.com,cnforex.com,cnsoftnews.com,codepub.com,cq.xinhuanet.com,cxryun.cn,dav01.com,discuss.com.hk,djwma.com,dmzj.com,dmzj1.com,dngz.net,douban.com,dzwww.com,eastday.com,fengniao.com,focus.cn,fx112.com,gongkong.com,guozaoke.com,henan100.com,honglingjin.co.uk,house.jschina.com.cn,iciba.com,ifeng.com,ipeen.com.tw,isharebest.com,itavcn.com,jojf.cn,jrj.com.cn,knews.com.tw,kumi.cn,landiannews.com,lawtv.com.cn,lieyunwang.com,lncn.org,loveshang.com,ltn.com.tw,luo8.com,maxpda.com,mm111.net,moxing.net,mvcat.com,ncdiy.com,neotv.com.cn,newsmth.net,njdaily.cn,panda985.com,pc0359.cn,people.com.cn,pharmnet.com.cn,pixnet.net,pptv.com,ptbus.com,qncye.com,qqdsw8.cn,shiyrj.top,sogou.com,sozi.cn,toolfk.com,tv.sohu.com,u-car.com.tw,weather.com.cn,xianbao.fun,yalishi.com,yawin.cn,yb983.com,ydss.cn,yesky.com,yiche.com,yqxxs.com,zhihu.com,ziyuanyo.com##.ad
     → |100ec.cn##.ad
     → |159i.com##.ad
     → |1905.com##.ad
@@ -26829,6 +26771,7 @@
     → |focus.cn##.ad
     → |fx112.com##.ad
     → |gongkong.com##.ad
+    → |guozaoke.com##.ad
     → |henan100.com##.ad
     → |honglingjin.co.uk##.ad
     → |house.jschina.com.cn##.ad
@@ -26839,6 +26782,7 @@
     → |itavcn.com##.ad
     → |jojf.cn##.ad
     → |jrj.com.cn##.ad
+    → |knews.com.tw##.ad
     → |kumi.cn##.ad
     → |landiannews.com##.ad
     → |lawtv.com.cn##.ad
@@ -26855,6 +26799,7 @@
     → |neotv.com.cn##.ad
     → |newsmth.net##.ad
     → |njdaily.cn##.ad
+    → |panda985.com##.ad
     → |pc0359.cn##.ad
     → |people.com.cn##.ad
     → |pharmnet.com.cn##.ad
@@ -26862,6 +26807,8 @@
     → |pptv.com##.ad
     → |ptbus.com##.ad
     → |qncye.com##.ad
+    → |qqdsw8.cn##.ad
+    → |shiyrj.top##.ad
     → |sogou.com##.ad
     → |sozi.cn##.ad
     → |toolfk.com##.ad
@@ -26869,6 +26816,7 @@
     → |u-car.com.tw##.ad
     → |weather.com.cn##.ad
     → |xianbao.fun##.ad
+    → |yalishi.com##.ad
     → |yawin.cn##.ad
     → |yb983.com##.ad
     → |ydss.cn##.ad
@@ -27030,6 +26978,9 @@
 ✅ 多域名拆分: 199it.com,softwarebrother.com##.adsbygoogle
     → |199it.com##.adsbygoogle
     → |softwarebrother.com##.adsbygoogle
+✅ 多域名拆分: g-mh.org,godamh.com##.adshow
+    → |g-mh.org##.adshow
+    → |godamh.com##.adshow
 ✅ 多域名拆分: chinaz.com,ofweek.com,yawin.cn##.adtext
     → |chinaz.com##.adtext
     → |ofweek.com##.adtext
@@ -27050,7 +27001,7 @@
     → |autohome.com.cn##.advbox
     → |jdzj.com##.advbox
     → |loveshang.com##.advbox
-✅ 多域名拆分: ce.cn,chenjiayu.cn,chinabidding.com.cn,eastmoney.com,ieforex.com,laod.cn,likefont.com,shangyexinzhi.com,zp365.com##.advert
+✅ 多域名拆分: ce.cn,chenjiayu.cn,chinabidding.com.cn,eastmoney.com,ieforex.com,laod.cn,likefont.com,qqdsw8.cn,shangyexinzhi.com,zp365.com##.advert
     → |ce.cn##.advert
     → |chenjiayu.cn##.advert
     → |chinabidding.com.cn##.advert
@@ -27058,6 +27009,7 @@
     → |ieforex.com##.advert
     → |laod.cn##.advert
     → |likefont.com##.advert
+    → |qqdsw8.cn##.advert
     → |shangyexinzhi.com##.advert
     → |zp365.com##.advert
 ✅ 多域名拆分: hao123.com,sohu.com##.advertise
@@ -27079,6 +27031,9 @@
 ✅ 多域名拆分: 123.sogou.com,web.sogou.com##.adword > a
     → |123.sogou.com##.adword > a
     → |web.sogou.com##.adword > a
+✅ 多域名拆分: mgsfhw.com,mgsgirls.com##.affs
+    → |mgsfhw.com##.affs
+    → |mgsgirls.com##.affs
 ✅ 多域名拆分: gotrip.hk,nmplus.hk,weekendhk.com##.ai_widget
     → |gotrip.hk##.ai_widget
     → |nmplus.hk##.ai_widget
@@ -27090,9 +27045,10 @@
     → |6fzd.com##.area1
     → |eyy5.cn##.area1
     → |fzd3.com##.area1
-✅ 多域名拆分: acgking.com,dbtmn.com##.asst
-    → |acgking.com##.asst
-    → |dbtmn.com##.asst
+✅ 多域名拆分: fuliba.net,fuliba2023.net,fuliba2025.net##.article-topbanner
+    → |fuliba.net##.article-topbanner
+    → |fuliba2023.net##.article-topbanner
+    → |fuliba2025.net##.article-topbanner
 ✅ 多域名拆分: gamefy.cn,sitv.com.cn##.att-bar
     → |gamefy.cn##.att-bar
     → |sitv.com.cn##.att-bar
@@ -27304,6 +27260,26 @@
     → |silver.org.cn##.duilian
     → |wendu.cn##.duilian
     → |y1118.com##.duilian
+✅ 多域名拆分: dailijichang.com,jmsnode.com,linuxssr.com,linuxsss.com,linuxtrojan.com,linuxv2ray.com,linuxxray.com,qv2ray.org,tizidajian.com##.elementor-popup-modal
+    → |dailijichang.com##.elementor-popup-modal
+    → |jmsnode.com##.elementor-popup-modal
+    → |linuxssr.com##.elementor-popup-modal
+    → |linuxsss.com##.elementor-popup-modal
+    → |linuxtrojan.com##.elementor-popup-modal
+    → |linuxv2ray.com##.elementor-popup-modal
+    → |linuxxray.com##.elementor-popup-modal
+    → |qv2ray.org##.elementor-popup-modal
+    → |tizidajian.com##.elementor-popup-modal
+✅ 多域名拆分: dailijichang.com,jmsnode.com,linuxssr.com,linuxsss.com,linuxtrojan.com,linuxv2ray.com,linuxxray.com,qv2ray.org,tizidajian.com##.elementor-sticky--active[data-settings*="bottom"]
+    → |dailijichang.com##.elementor-sticky--active[data-settings*="bottom"]
+    → |jmsnode.com##.elementor-sticky--active[data-settings*="bottom"]
+    → |linuxssr.com##.elementor-sticky--active[data-settings*="bottom"]
+    → |linuxsss.com##.elementor-sticky--active[data-settings*="bottom"]
+    → |linuxtrojan.com##.elementor-sticky--active[data-settings*="bottom"]
+    → |linuxv2ray.com##.elementor-sticky--active[data-settings*="bottom"]
+    → |linuxxray.com##.elementor-sticky--active[data-settings*="bottom"]
+    → |qv2ray.org##.elementor-sticky--active[data-settings*="bottom"]
+    → |tizidajian.com##.elementor-sticky--active[data-settings*="bottom"]
 ✅ 多域名拆分: reaff.com,yangmaodang.org##.entry-content > p[style="text-indent:0"]
     → |reaff.com##.entry-content > p[style="text-indent:0"]
     → |yangmaodang.org##.entry-content > p[style="text-indent:0"]
@@ -27329,9 +27305,10 @@
     → |baidu.com##.fengchao-wrap-feed
     → |bdimg.com##.fengchao-wrap-feed
     → |tieba.com##.fengchao-wrap-feed
-✅ 多域名拆分: jjmmw.com,qq.com##.fixed-ad
+✅ 多域名拆分: jjmmw.com,qq.com,udn.com##.fixed-ad
     → |jjmmw.com##.fixed-ad
     → |qq.com##.fixed-ad
+    → |udn.com##.fixed-ad
 ✅ 多域名拆分: 19lou.com,cqmmgo.com,ihome99.com##.float-ad-wrap
     → |19lou.com##.float-ad-wrap
     → |cqmmgo.com##.float-ad-wrap
@@ -27345,6 +27322,10 @@
 ✅ 多域名拆分: 126.com,163.com##.gWel-promt
     → |126.com##.gWel-promt
     → |163.com##.gWel-promt
+✅ 多域名拆分: novel543.com,thisiscm.com,twword.com##.gadBlock
+    → |novel543.com##.gadBlock
+    → |thisiscm.com##.gadBlock
+    → |twword.com##.gadBlock
 ✅ 多域名拆分: feeds.qq.com,lenovo.com.cn##.game
     → |feeds.qq.com##.game
     → |lenovo.com.cn##.game
@@ -27402,12 +27383,13 @@
 ✅ 多域名拆分: doubibackup.com,github.io##.guangg
     → |doubibackup.com##.guangg
     → |github.io##.guangg
-✅ 多域名拆分: baoliny.com,gasaq.com,hgitv.com,ifooday.cn,nen.com.cn##.guanggao
+✅ 多域名拆分: baoliny.com,gasaq.com,hgitv.com,ifooday.cn,nen.com.cn,weather.com.cn##.guanggao
     → |baoliny.com##.guanggao
     → |gasaq.com##.guanggao
     → |hgitv.com##.guanggao
     → |ifooday.cn##.guanggao
     → |nen.com.cn##.guanggao
+    → |weather.com.cn##.guanggao
 ✅ 多域名拆分: 123.sogou.com,daohang.qq.com,hao.qq.com##.guess
     → |123.sogou.com##.guess
     → |daohang.qq.com##.guess
@@ -27502,6 +27484,9 @@
 ✅ 多域名拆分: qq.com,sogou.com##.m[pbflag="bt_mai"]
     → |qq.com##.m[pbflag="bt_mai"]
     → |sogou.com##.m[pbflag="bt_mai"]
+✅ 多域名拆分: iduba.com,newduba.cn##.m_nav_top
+    → |iduba.com##.m_nav_top
+    → |newduba.cn##.m_nav_top
 ✅ 多域名拆分: firefox.com.cn,firefoxchina.cn##.main-huo
     → |firefox.com.cn##.main-huo
     → |firefoxchina.cn##.main-huo
@@ -27511,20 +27496,14 @@
 ✅ 多域名拆分: hao.360.cn,hao.360.com##.mbar-bd
     → |hao.360.cn##.mbar-bd
     → |hao.360.com##.mbar-bd
-✅ 多域名拆分: 1909.me,8se.me,crxs.me,xchina.site,xchina.biz,xchina.co##div[id^="z-extra-"]
-    → |1909.me##div[id^="z-extra-"]
-    → |8se.me##div[id^="z-extra-"]
-    → |crxs.me##div[id^="z-extra-"]
-    → |xchina.site##div[id^="z-extra-"]
-    → |xchina.biz##div[id^="z-extra-"]
-    → |xchina.co##div[id^="z-extra-"]
 ✅ 多域名拆分: galacg.me,unecne.com##.metaslider
     → |galacg.me##.metaslider
     → |unecne.com##.metaslider
 ✅ 多域名拆分: cnr.cn,jxcn.cn##.min-news-box
     → |cnr.cn##.min-news-box
     → |jxcn.cn##.min-news-box
-✅ 多域名拆分: json.cn,pianyuan.org,qixingquan.com##.modal-backdrop
+✅ 多域名拆分: 91porna.com,json.cn,pianyuan.org,qixingquan.com##.modal-backdrop
+    → |91porna.com##.modal-backdrop
     → |json.cn##.modal-backdrop
     → |pianyuan.org##.modal-backdrop
     → |qixingquan.com##.modal-backdrop
@@ -27534,9 +27513,6 @@
 ✅ 多域名拆分: mitbbs.ca,mitbbs.com##.newskuang2
     → |mitbbs.ca##.newskuang2
     → |mitbbs.com##.newskuang2
-✅ 多域名拆分: pornbest.org,pornlulu.com##.no-gutters
-    → |pornbest.org##.no-gutters
-    → |pornlulu.com##.no-gutters
 ✅ 多域名拆分: 24k99.com,fx168.com##.ny2018_txtLink
     → |24k99.com##.ny2018_txtLink
     → |fx168.com##.ny2018_txtLink
@@ -27750,6 +27726,9 @@
 ✅ 多域名拆分: megatime.com.tw,pchome.com.tw##.tripplead
     → |megatime.com.tw##.tripplead
     → |pchome.com.tw##.tripplead
+✅ 多域名拆分: ttks.tw,twkan.com##.txtcenter
+    → |ttks.tw##.txtcenter
+    → |twkan.com##.txtcenter
 ✅ 多域名拆分: kkpan.com,qqtn.com,smzy.com,yxdj.com.cn##.u-gs-btn
     → |kkpan.com##.u-gs-btn
     → |qqtn.com##.u-gs-btn
@@ -27761,27 +27740,31 @@
 ✅ 多域名拆分: power.baidu.com,zhidao.baidu.com##.wgt-clew[data-type="goods"]
     → |power.baidu.com##.wgt-clew[data-type="goods"]
     → |zhidao.baidu.com##.wgt-clew[data-type="goods"]
-✅ 多域名拆分: laoliublog.cn,ruyo.net,winandmac.com,zhujiceping.com,zouaw.com##.widget_custom_html
+✅ 多域名拆分: laoliublog.cn,ruyo.net,sixyin.com,winandmac.com,zhujiceping.com,zouaw.com##.widget_custom_html
     → |laoliublog.cn##.widget_custom_html
     → |ruyo.net##.widget_custom_html
+    → |sixyin.com##.widget_custom_html
     → |winandmac.com##.widget_custom_html
     → |zhujiceping.com##.widget_custom_html
     → |zouaw.com##.widget_custom_html
-✅ 多域名拆分: abmedia.io,appinn.com,carrotchou.blog,landiannews.com,laoliublog.cn,woniuyulew.com##.widget_media_image
+✅ 多域名拆分: abmedia.io,appinn.com,carrotchou.blog,landiannews.com,laoliublog.cn,mgsfhw.com,mgsgirls.com,woniuyulew.com##.widget_media_image
     → |abmedia.io##.widget_media_image
     → |appinn.com##.widget_media_image
     → |carrotchou.blog##.widget_media_image
     → |landiannews.com##.widget_media_image
     → |laoliublog.cn##.widget_media_image
+    → |mgsfhw.com##.widget_media_image
+    → |mgsgirls.com##.widget_media_image
     → |woniuyulew.com##.widget_media_image
 ✅ 多域名拆分: codeceo.com,fuli8.net##.widget_text:first-child
     → |codeceo.com##.widget_text:first-child
     → |fuli8.net##.widget_text:first-child
-✅ 多域名拆分: 4spaces.org,fuliba.net,fuliba2023.net,fuliba2025.net,ypojie.com##.widget_ui_orbui
+✅ 多域名拆分: 4spaces.org,fuliba.net,fuliba2023.net,fuliba2025.net,laozuo.org,ypojie.com##.widget_ui_orbui
     → |4spaces.org##.widget_ui_orbui
     → |fuliba.net##.widget_ui_orbui
     → |fuliba2023.net##.widget_ui_orbui
     → |fuliba2025.net##.widget_ui_orbui
+    → |laozuo.org##.widget_ui_orbui
     → |ypojie.com##.widget_ui_orbui
 ✅ 多域名拆分: cr173.com,itmop.com,jisuxz.com##.xiazaiqi
     → |cr173.com##.xiazaiqi
@@ -27799,6 +27782,10 @@
 ✅ 多域名拆分: ksbbs.com,kshot.com##[id^="ads_"]
     → |ksbbs.com##[id^="ads_"]
     → |kshot.com##[id^="ads_"]
+✅ 多域名拆分: 178.com,nga.cn,ngabbs.com##[style^="background"][style*="vertical-align"]
+    → |178.com##[style^="background"][style*="vertical-align"]
+    → |nga.cn##[style^="background"][style*="vertical-align"]
+    → |ngabbs.com##[style^="background"][style*="vertical-align"]
 ✅ 多域名拆分: netfly.fun,netfly.tv,netflytv.xyz##[style^="display: flex;"]
     → |netfly.fun##[style^="display: flex;"]
     → |netfly.tv##[style^="display: flex;"]
@@ -27843,7 +27830,7 @@
 ✅ 多域名拆分: mydrivers.com,wmzhe.com##a[href*=".jd.com/"]
     → |mydrivers.com##a[href*=".jd.com/"]
     → |wmzhe.com##a[href*=".jd.com/"]
-✅ 多域名拆分: 52movieba.com,acglala.cc,awaker.cn,bimiacg4.net,bimiacg5.net,cgown.com,cn163.net,comicat.org,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hggard.com,ifenpaidy.com,jitapu.com,jitashe.org,kelatv.com,kisssub.org,languang.co,mtrend.cn,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com##a[href*=".taobao.com"]
+✅ 多域名拆分: 52movieba.com,acglala.cc,awaker.cn,bimiacg4.net,bimiacg5.net,cgown.com,cn163.net,comicat.org,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,happymh.com,hggard.com,ifenpaidy.com,jitapu.com,jitashe.org,kelatv.com,kisssub.org,languang.co,mtrend.cn,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com##a[href*=".taobao.com"]
     → |52movieba.com##a[href*=".taobao.com"]
     → |acglala.cc##a[href*=".taobao.com"]
     → |awaker.cn##a[href*=".taobao.com"]
@@ -27858,6 +27845,7 @@
     → |galacg.me##a[href*=".taobao.com"]
     → |gmgard.com##a[href*=".taobao.com"]
     → |haochi123.com##a[href*=".taobao.com"]
+    → |happymh.com##a[href*=".taobao.com"]
     → |hggard.com##a[href*=".taobao.com"]
     → |ifenpaidy.com##a[href*=".taobao.com"]
     → |jitapu.com##a[href*=".taobao.com"]
@@ -27901,6 +27889,10 @@
 ✅ 多域名拆分: jumi.su,preface.ai##a[href*="bit.ly"]
     → |jumi.su##a[href*="bit.ly"]
     → |preface.ai##a[href*="bit.ly"]
+✅ 多域名拆分: chinaz.com,mydrivers.com,oschina.net##a[href*="click.aliyun.com"]
+    → |chinaz.com##a[href*="click.aliyun.com"]
+    → |mydrivers.com##a[href*="click.aliyun.com"]
+    → |oschina.net##a[href*="click.aliyun.com"]
 ✅ 多域名拆分: editcode.net,itboth.com,itkeyword.com,ruyo.net,zhanzhangb.com##a[href*="cloud.tencent.com"]
     → |editcode.net##a[href*="cloud.tencent.com"]
     → |itboth.com##a[href*="cloud.tencent.com"]
@@ -27920,10 +27912,6 @@
 ✅ 多域名拆分: x6d.com,xiaodao0.com##a[href^="/ad."]
     → |x6d.com##a[href^="/ad."]
     → |xiaodao0.com##a[href^="/ad."]
-✅ 多域名拆分: chinaz.com,mydrivers.com,oschina.net##a[href*="click.aliyun.com"]
-    → |chinaz.com##a[href*="click.aliyun.com"]
-    → |mydrivers.com##a[href*="click.aliyun.com"]
-    → |oschina.net##a[href*="click.aliyun.com"]
 ✅ 多域名拆分: boke112.com,ruanyifeng.com##a[href^="http://t.cn/"]
     → |boke112.com##a[href^="http://t.cn/"]
     → |ruanyifeng.com##a[href^="http://t.cn/"]
@@ -27956,6 +27944,9 @@
     → |baidu.com#?#.thread_item_box:-abp-has(div[class*=" fc-"])
     → |bdimg.com#?#.thread_item_box:-abp-has(div[class*=" fc-"])
     → |tieba.com#?#.thread_item_box:-abp-has(div[class*=" fc-"])
+✅ 多域名拆分: mgsfhw.com,mgsgirls.com##blockquote > blockquote
+    → |mgsfhw.com##blockquote > blockquote
+    → |mgsgirls.com##blockquote > blockquote
 ✅ 多域名拆分: api.so.lianmeng.360.cn,pos.baidu.com##body
     → |api.so.lianmeng.360.cn##body
     → |pos.baidu.com##body
@@ -28028,9 +28019,7 @@
 ✅ 多域名拆分: qq.com,sogou.com##div[class^="page-top-banner"]
     → |qq.com##div[class^="page-top-banner"]
     → |sogou.com##div[class^="page-top-banner"]
-✅ 多域名拆分: 4rzxy.net,kzs1w.com,sehuatang.net,sehuatang.org##div[class^="show-text"]
-    → |4rzxy.net##div[class^="show-text"]
-    → |kzs1w.com##div[class^="show-text"]
+✅ 多域名拆分: sehuatang.net,sehuatang.org##div[class^="show-text"]
     → |sehuatang.net##div[class^="show-text"]
     → |sehuatang.org##div[class^="show-text"]
 ✅ 多域名拆分: mail.126.com,mail.163.com##div[id$="_AdDiv"]
@@ -28099,6 +28088,13 @@
 ✅ 多域名拆分: freedidi.com,ottawazine.com##div[id^="text-"]
     → |freedidi.com##div[id^="text-"]
     → |ottawazine.com##div[id^="text-"]
+✅ 多域名拆分: 1909.me,8se.me,crxs.me,xchina.biz,xchina.co,xchina.site##div[id^="z-extra-"]
+    → |1909.me##div[id^="z-extra-"]
+    → |8se.me##div[id^="z-extra-"]
+    → |crxs.me##div[id^="z-extra-"]
+    → |xchina.biz##div[id^="z-extra-"]
+    → |xchina.co##div[id^="z-extra-"]
+    → |xchina.site##div[id^="z-extra-"]
 ✅ 多域名拆分: qq.com,sogou.com##div[pbflag="bt_newsb_ad"]
     → |qq.com##div[pbflag="bt_newsb_ad"]
     → |sogou.com##div[pbflag="bt_newsb_ad"]
@@ -28120,9 +28116,9 @@
 ✅ 多域名拆分: a-i-l-s-a.com,buscodepto.com##div[style^="position: fixed;"]
     → |a-i-l-s-a.com##div[style^="position: fixed;"]
     → |buscodepto.com##div[style^="position: fixed;"]
-✅ 多域名拆分: doubiuser.github.io,doubibackup.com#?#.custom-html-widget:-abp-has(div[style^="position"])
-    → |doubiuser.github.io#?#.custom-html-widget:-abp-has(div[style^="position"])
+✅ 多域名拆分: doubibackup.com,doubiuser.github.io#?#.custom-html-widget:-abp-has(div[style^="position"])
     → |doubibackup.com#?#.custom-html-widget:-abp-has(div[style^="position"])
+    → |doubiuser.github.io#?#.custom-html-widget:-abp-has(div[style^="position"])
 ✅ 多域名拆分: hall123.com,hi.people.com.cn##img[width="1000"]
     → |hall123.com##img[width="1000"]
     → |hi.people.com.cn##img[width="1000"]
@@ -28140,9 +28136,9 @@
 ✅ 多域名拆分: chyangwa.net,motorfans.com.cn##img[width^="1200"]
     → |chyangwa.net##img[width^="1200"]
     → |motorfans.com.cn##img[width^="1200"]
-✅ 多域名拆分: ldqk.xyz,masuit.com#?#.panel:-abp-has(>.panel-body>a>img)
-    → |ldqk.xyz#?#.panel:-abp-has(>.panel-body>a>img)
-    → |masuit.com#?#.panel:-abp-has(>.panel-body>a>img)
+✅ 多域名拆分: ldqk.xyz,masuit.com#?#.panel:-abp-has(> .panel-body > a>img)
+    → |ldqk.xyz#?#.panel:-abp-has(> .panel-body > a>img)
+    → |masuit.com#?#.panel:-abp-has(> .panel-body > a>img)
 ✅ 多域名拆分: news.sohu.com,www.sohu.com#?#.list16 > ul > li:-abp-contains(广告)
     → |news.sohu.com#?#.list16 > ul > li:-abp-contains(广告)
     → |www.sohu.com#?#.list16 > ul > li:-abp-contains(广告)
@@ -28272,98 +28268,98 @@
 🚫 去掉注释行: !#0
 🚫 去掉注释行: !#17ce.com
 🚫 去掉注释行: !#18comic.org
-✅ 多域名拆分: jm18c-oec.club,18comic.org,18comic.vip,18comic.ink###guide-modal
-    → |jm18c-oec.club###guide-modal
+✅ 多域名拆分: 18comic.ink,18comic.org,18comic.vip,comic18j-ada.work###guide-modal
+    → |18comic.ink###guide-modal
     → |18comic.org###guide-modal
     → |18comic.vip###guide-modal
-    → |18comic.ink###guide-modal
-✅ 多域名拆分: jm18c-oec.club,18comic.org,18comic.vip,18comic.ink##.div_sticky2
-    → |jm18c-oec.club##.div_sticky2
+    → |comic18j-ada.work###guide-modal
+✅ 多域名拆分: 18comic.ink,18comic.org,18comic.vip,comic18j-ada.work##.div_sticky2
+    → |18comic.ink##.div_sticky2
     → |18comic.org##.div_sticky2
     → |18comic.vip##.div_sticky2
-    → |18comic.ink##.div_sticky2
-✅ 多域名拆分: jm18c-oec.club,18comic.org,18comic.vip,18comic.ink##.modal-backdrop
-    → |jm18c-oec.club##.modal-backdrop
+    → |comic18j-ada.work##.div_sticky2
+✅ 多域名拆分: 18comic.ink,18comic.org,18comic.vip,comic18j-ada.work##.modal-backdrop
+    → |18comic.ink##.modal-backdrop
     → |18comic.org##.modal-backdrop
     → |18comic.vip##.modal-backdrop
-    → |18comic.ink##.modal-backdrop
-✅ 多域名拆分: jm18c-oec.club,18comic.org,18comic.vip,18comic.ink##.row[style="display: flex;flex-wrap: wrap;"]
-    → |jm18c-oec.club##.row[style="display: flex;flex-wrap: wrap;"]
+    → |comic18j-ada.work##.modal-backdrop
+✅ 多域名拆分: 18comic.ink,18comic.org,18comic.vip,comic18j-ada.work##.row[style="display: flex;flex-wrap: wrap;"]
+    → |18comic.ink##.row[style="display: flex;flex-wrap: wrap;"]
     → |18comic.org##.row[style="display: flex;flex-wrap: wrap;"]
     → |18comic.vip##.row[style="display: flex;flex-wrap: wrap;"]
-    → |18comic.ink##.row[style="display: flex;flex-wrap: wrap;"]
-✅ 多域名拆分: jm18c-oec.club,18comic.org,18comic.vip,18comic.ink##a[href*="//"]:not([href*="18c"]) > [style*="back"]
-    → |jm18c-oec.club##a[href*="//"]:not([href*="18c"]) > [style*="back"]
-    → |18comic.org##a[href*="//"]:not([href*="18c"]) > [style*="back"]
-    → |18comic.vip##a[href*="//"]:not([href*="18c"]) > [style*="back"]
-    → |18comic.ink##a[href*="//"]:not([href*="18c"]) > [style*="back"]
-✅ 多域名拆分: jm18c-oec.club,18comic.org,18comic.vip,18comic.ink##a[href*="//"]:not([href*="18c"]) > div[style]
-    → |jm18c-oec.club##a[href*="//"]:not([href*="18c"]) > div[style]
-    → |18comic.org##a[href*="//"]:not([href*="18c"]) > div[style]
-    → |18comic.vip##a[href*="//"]:not([href*="18c"]) > div[style]
-    → |18comic.ink##a[href*="//"]:not([href*="18c"]) > div[style]
-✅ 多域名拆分: jm18c-oec.club,18comic.org,18comic.vip,18comic.ink##a[herf*="//"]:not([href*="18c"]) > img
-    → |jm18c-oec.club##a[herf*="//"]:not([href*="18c"]) > img
+    → |comic18j-ada.work##.row[style="display: flex;flex-wrap: wrap;"]
+✅ 多域名拆分: 18comic.ink,18comic.org,18comic.vip,comic18j-ada.work#?#:-abp-has(> ins + div)
+    → |18comic.ink#?#:-abp-has(> ins + div)
+    → |18comic.org#?#:-abp-has(> ins + div)
+    → |18comic.vip#?#:-abp-has(> ins + div)
+    → |comic18j-ada.work#?#:-abp-has(> ins + div)
+✅ 多域名拆分: 18comic.ink,18comic.org,18comic.vip,comic18j-ada.work#?#:-abp-has(> ins + script)
+    → |18comic.ink#?#:-abp-has(> ins + script)
+    → |18comic.org#?#:-abp-has(> ins + script)
+    → |18comic.vip#?#:-abp-has(> ins + script)
+    → |comic18j-ada.work#?#:-abp-has(> ins + script)
+✅ 多域名拆分: 18comic.ink,18comic.org,18comic.vip,comic18j-ada.work#?#:-abp-has(> ins + style)
+    → |18comic.ink#?#:-abp-has(> ins + style)
+    → |18comic.org#?#:-abp-has(> ins + style)
+    → |18comic.vip#?#:-abp-has(> ins + style)
+    → |comic18j-ada.work#?#:-abp-has(> ins + style)
+✅ 多域名拆分: 18comic.ink,18comic.org,18comic.vip,comic18j-ada.work#?#:-abp-has(> script + ins)
+    → |18comic.ink#?#:-abp-has(> script + ins)
+    → |18comic.org#?#:-abp-has(> script + ins)
+    → |18comic.vip#?#:-abp-has(> script + ins)
+    → |comic18j-ada.work#?#:-abp-has(> script + ins)
+✅ 多域名拆分: 18comic.ink,18comic.org,18comic.vip,comic18j-ada.work#?#:not(body):-abp-has(> script[src*=".realsrv.com"])
+    → |18comic.ink#?#:not(body):-abp-has(> script[src*=".realsrv.com"])
+    → |18comic.org#?#:not(body):-abp-has(> script[src*=".realsrv.com"])
+    → |18comic.vip#?#:not(body):-abp-has(> script[src*=".realsrv.com"])
+    → |comic18j-ada.work#?#:not(body):-abp-has(> script[src*=".realsrv.com"])
+✅ 多域名拆分: 18comic.ink,18comic.org,18comic.vip,comic18j-ada.work#?#div[data-group]:-abp-has(> .group-notice)
+    → |18comic.ink#?#div[data-group]:-abp-has(> .group-notice)
+    → |18comic.org#?#div[data-group]:-abp-has(> .group-notice)
+    → |18comic.vip#?#div[data-group]:-abp-has(> .group-notice)
+    → |comic18j-ada.work#?#div[data-group]:-abp-has(> .group-notice)
+✅ 多域名拆分: 18comic.ink,18comic.org,18comic.vip,comic18j-ada.work##a[herf*="//"]:not([href*="18c"]) > img
+    → |18comic.ink##a[herf*="//"]:not([href*="18c"]) > img
     → |18comic.org##a[herf*="//"]:not([href*="18c"]) > img
     → |18comic.vip##a[herf*="//"]:not([href*="18c"]) > img
-    → |18comic.ink##a[herf*="//"]:not([href*="18c"]) > img
-✅ 多域名拆分: jm18c-oec.club,18comic.org,18comic.vip,18comic.ink##a[href*="//"]:not([href*="18c"]) > img
-    → |jm18c-oec.club##a[href*="//"]:not([href*="18c"]) > img
+    → |comic18j-ada.work##a[herf*="//"]:not([href*="18c"]) > img
+✅ 多域名拆分: 18comic.ink,18comic.org,18comic.vip,comic18j-ada.work##a[href*="//"]:not([href*="18c"]) > [style*="back"]
+    → |18comic.ink##a[href*="//"]:not([href*="18c"]) > [style*="back"]
+    → |18comic.org##a[href*="//"]:not([href*="18c"]) > [style*="back"]
+    → |18comic.vip##a[href*="//"]:not([href*="18c"]) > [style*="back"]
+    → |comic18j-ada.work##a[href*="//"]:not([href*="18c"]) > [style*="back"]
+✅ 多域名拆分: 18comic.ink,18comic.org,18comic.vip,comic18j-ada.work##a[href*="//"]:not([href*="18c"]) > div[style]
+    → |18comic.ink##a[href*="//"]:not([href*="18c"]) > div[style]
+    → |18comic.org##a[href*="//"]:not([href*="18c"]) > div[style]
+    → |18comic.vip##a[href*="//"]:not([href*="18c"]) > div[style]
+    → |comic18j-ada.work##a[href*="//"]:not([href*="18c"]) > div[style]
+✅ 多域名拆分: 18comic.ink,18comic.org,18comic.vip,comic18j-ada.work##a[href*="//"]:not([href*="18c"]) > img
+    → |18comic.ink##a[href*="//"]:not([href*="18c"]) > img
     → |18comic.org##a[href*="//"]:not([href*="18c"]) > img
     → |18comic.vip##a[href*="//"]:not([href*="18c"]) > img
-    → |18comic.ink##a[href*="//"]:not([href*="18c"]) > img
-✅ 多域名拆分: jm18c-oec.club,18comic.org,18comic.vip,18comic.ink##a[href*="//"]:not([href*="18c"]) > img + [style]
-    → |jm18c-oec.club##a[href*="//"]:not([href*="18c"]) > img + [style]
+    → |comic18j-ada.work##a[href*="//"]:not([href*="18c"]) > img
+✅ 多域名拆分: 18comic.ink,18comic.org,18comic.vip,comic18j-ada.work##a[href*="//"]:not([href*="18c"]) > img + [style]
+    → |18comic.ink##a[href*="//"]:not([href*="18c"]) > img + [style]
     → |18comic.org##a[href*="//"]:not([href*="18c"]) > img + [style]
     → |18comic.vip##a[href*="//"]:not([href*="18c"]) > img + [style]
-    → |18comic.ink##a[href*="//"]:not([href*="18c"]) > img + [style]
-✅ 多域名拆分: jm18c-oec.club,18comic.org,18comic.vip,18comic.ink##div[data-group][data-width="300"]
-    → |jm18c-oec.club##div[data-group][data-width="300"]
+    → |comic18j-ada.work##a[href*="//"]:not([href*="18c"]) > img + [style]
+✅ 多域名拆分: 18comic.ink,18comic.org,18comic.vip,comic18j-ada.work##div[data-group][data-width="300"]
+    → |18comic.ink##div[data-group][data-width="300"]
     → |18comic.org##div[data-group][data-width="300"]
     → |18comic.vip##div[data-group][data-width="300"]
-    → |18comic.ink##div[data-group][data-width="300"]
-✅ 多域名拆分: jm18c-oec.club,18comic.org,18comic.vip,18comic.ink##style + div[style="cursor: pointer; position: relative;"]
-    → |jm18c-oec.club##style + div[style="cursor: pointer; position: relative;"]
+    → |comic18j-ada.work##div[data-group][data-width="300"]
+✅ 多域名拆分: 18comic.ink,18comic.org,18comic.vip,comic18j-ada.work##style + div[style="cursor: pointer; position: relative;"]
+    → |18comic.ink##style + div[style="cursor: pointer; position: relative;"]
     → |18comic.org##style + div[style="cursor: pointer; position: relative;"]
     → |18comic.vip##style + div[style="cursor: pointer; position: relative;"]
-    → |18comic.ink##style + div[style="cursor: pointer; position: relative;"]
-✅ 多域名拆分: jm18c-oec.club,18comic.org,18comic.vip,18comic.ink#?#:-abp-has(>ins+div)
-    → |jm18c-oec.club#?#:-abp-has(>ins+div)
-    → |18comic.org#?#:-abp-has(>ins+div)
-    → |18comic.vip#?#:-abp-has(>ins+div)
-    → |18comic.ink#?#:-abp-has(>ins+div)
-✅ 多域名拆分: jm18c-oec.club,18comic.org,18comic.vip,18comic.ink#?#:-abp-has(>ins+script)
-    → |jm18c-oec.club#?#:-abp-has(>ins+script)
-    → |18comic.org#?#:-abp-has(>ins+script)
-    → |18comic.vip#?#:-abp-has(>ins+script)
-    → |18comic.ink#?#:-abp-has(>ins+script)
-✅ 多域名拆分: jm18c-oec.club,18comic.org,18comic.vip,18comic.ink#?#:-abp-has(>ins+style)
-    → |jm18c-oec.club#?#:-abp-has(>ins+style)
-    → |18comic.org#?#:-abp-has(>ins+style)
-    → |18comic.vip#?#:-abp-has(>ins+style)
-    → |18comic.ink#?#:-abp-has(>ins+style)
-✅ 多域名拆分: jm18c-oec.club,18comic.org,18comic.vip,18comic.ink#?#:-abp-has(>script+ins)
-    → |jm18c-oec.club#?#:-abp-has(>script+ins)
-    → |18comic.org#?#:-abp-has(>script+ins)
-    → |18comic.vip#?#:-abp-has(>script+ins)
-    → |18comic.ink#?#:-abp-has(>script+ins)
-✅ 多域名拆分: jm18c-oec.club,18comic.org,18comic.vip,18comic.ink#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
-    → |jm18c-oec.club#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
-    → |18comic.org#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
-    → |18comic.vip#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
-    → |18comic.ink#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
-✅ 多域名拆分: jm18c-oec.club,18comic.org,18comic.vip,18comic.ink#?#div[data-group]:-abp-has(>.group-notice)
-    → |jm18c-oec.club#?#div[data-group]:-abp-has(>.group-notice)
-    → |18comic.org#?#div[data-group]:-abp-has(>.group-notice)
-    → |18comic.vip#?#div[data-group]:-abp-has(>.group-notice)
-    → |18comic.ink#?#div[data-group]:-abp-has(>.group-notice)
+    → |comic18j-ada.work##style + div[style="cursor: pointer; position: relative;"]
 🚫 去掉注释行: !#2
 🚫 去掉注释行: !#3
 🚫 去掉注释行: !#4hu.tv
-🚫 去掉注释行: ##body > #__nuxt:first-child ~ div[class] > div > div > button[aria-label] + div[class]
-🚫 去掉注释行: ##body > #__nuxt:first-child > div > .container > div[class^="pg-"] > div[style*="important"]
 🚫 去掉注释行: ##body > #__nuxt:first-child > div > .container > .top-menu + div[class]
+🚫 去掉注释行: ##body > #__nuxt:first-child > div > .container > div[class^="pg-"] > div[style*="important"]
 🚫 去掉注释行: ##body > #__nuxt:first-child > div > .footer > .floatWindow + div[data-tag]
+🚫 去掉注释行: ##body > #__nuxt:first-child ~ div[class] > div > div > button[aria-label] + div[class]
 🚫 去掉注释行: !#58.com
 🚫 去掉注释行: !#69tang
 🚫 去掉注释行: ###guanggao1[style^="position"]
@@ -28371,32 +28367,32 @@
 🚫 去掉注释行: !#7
 🚫 去掉注释行: !#8
 🚫 去掉注释行: !#91porny.com
-✅ 多域名拆分: 91porny.com,91porn.fans,91porny.org,jiuse704.com,jiuse705.com,xn--sjqr38j.com#?##main > div[class][id]:-abp-has(.video-elem>a[rel="noopener nofollow"])
-    → |91porny.com##main > div[class][id]:-abp-has(.video-elem>a[rel="noopener nofollow"])
-    → |91porn.fans##main > div[class][id]:-abp-has(.video-elem>a[rel="noopener nofollow"])
-    → |91porny.org##main > div[class][id]:-abp-has(.video-elem>a[rel="noopener nofollow"])
-    → |jiuse704.com##main > div[class][id]:-abp-has(.video-elem>a[rel="noopener nofollow"])
-    → |jiuse705.com##main > div[class][id]:-abp-has(.video-elem>a[rel="noopener nofollow"])
-    → |xn--sjqr38j.com#?##main > div[class][id]:-abp-has(.video-elem>a[rel="noopener nofollow"])
-✅ 多域名拆分: 91porny.com,91porn.fans,91porny.org,jiuse704.com,jiuse705.com,xn--sjqr38j.com#?#.colVideoList:-abp-has(>.video-elem>.display[href^="http"])
-    → |91porny.com#?#.colVideoList:-abp-has(>.video-elem>.display[href^="http"])
-    → |91porn.fans#?#.colVideoList:-abp-has(>.video-elem>.display[href^="http"])
-    → |91porny.org#?#.colVideoList:-abp-has(>.video-elem>.display[href^="http"])
-    → |jiuse704.com#?#.colVideoList:-abp-has(>.video-elem>.display[href^="http"])
-    → |jiuse705.com#?#.colVideoList:-abp-has(>.video-elem>.display[href^="http"])
-    → |xn--sjqr38j.com#?#.colVideoList:-abp-has(>.video-elem>.display[href^="http"])
-✅ 多域名拆分: 91porny.com,91porn.fans,91porny.org,jiuse704.com,jiuse705.com,xn--sjqr38j.com#?##main > div[class][id]:-abp-has(>div>style)
-    → |91porny.com##main > div[class][id]:-abp-has(>div>style)
-    → |91porn.fans##main > div[class][id]:-abp-has(>div>style)
-    → |91porny.org##main > div[class][id]:-abp-has(>div>style)
-    → |jiuse704.com##main > div[class][id]:-abp-has(>div>style)
-    → |jiuse705.com##main > div[class][id]:-abp-has(>div>style)
-    → |xn--sjqr38j.com#?##main > div[class][id]:-abp-has(>div>style)
+✅ 多域名拆分: 91porn.fans,91porny.com,91porny.org,jiuse704.com,jiuse705.com,xn--sjqr38j.com#?#.colVideoList:-abp-has(> .video-elem > .display[href^="http"])
+    → |91porn.fans#?#.colVideoList:-abp-has(> .video-elem > .display[href^="http"])
+    → |91porny.com#?#.colVideoList:-abp-has(> .video-elem > .display[href^="http"])
+    → |91porny.org#?#.colVideoList:-abp-has(> .video-elem > .display[href^="http"])
+    → |jiuse704.com#?#.colVideoList:-abp-has(> .video-elem > .display[href^="http"])
+    → |jiuse705.com#?#.colVideoList:-abp-has(> .video-elem > .display[href^="http"])
+    → |xn--sjqr38j.com#?#.colVideoList:-abp-has(> .video-elem > .display[href^="http"])
+✅ 多域名拆分: 91porn.fans,91porny.com,91porny.org,jiuse704.com,jiuse705.com,xn--sjqr38j.com#?##main > div[class][id]:-abp-has(.video-elem > a[rel="noopener nofollow"])
+    → |91porn.fans##main > div[class][id]:-abp-has(.video-elem > a[rel="noopener nofollow"])
+    → |91porny.com##main > div[class][id]:-abp-has(.video-elem > a[rel="noopener nofollow"])
+    → |91porny.org##main > div[class][id]:-abp-has(.video-elem > a[rel="noopener nofollow"])
+    → |jiuse704.com##main > div[class][id]:-abp-has(.video-elem > a[rel="noopener nofollow"])
+    → |jiuse705.com##main > div[class][id]:-abp-has(.video-elem > a[rel="noopener nofollow"])
+    → |xn--sjqr38j.com#?##main > div[class][id]:-abp-has(.video-elem > a[rel="noopener nofollow"])
+✅ 多域名拆分: 91porn.fans,91porny.com,91porny.org,jiuse704.com,jiuse705.com,xn--sjqr38j.com#?##main > div[class][id]:-abp-has(> div > style)
+    → |91porn.fans##main > div[class][id]:-abp-has(> div > style)
+    → |91porny.com##main > div[class][id]:-abp-has(> div > style)
+    → |91porny.org##main > div[class][id]:-abp-has(> div > style)
+    → |jiuse704.com##main > div[class][id]:-abp-has(> div > style)
+    → |jiuse705.com##main > div[class][id]:-abp-has(> div > style)
+    → |xn--sjqr38j.com#?##main > div[class][id]:-abp-has(> div > style)
 🚫 去掉注释行: !#99re.com
 🚫 去掉注释行: !#acgcbk55.vip
+🚫 去掉注释行: ##.acg-adv-show
 🚫 去掉注释行: ##.popup-banner-ad
 🚫 去掉注释行: ##.ttgg
-🚫 去掉注释行: ##.acg-adv-show
 🚫 去掉注释行: !#Avgle.com
 🚫 去掉注释行: !#BaiduPromotion
 ✅ 多域名拆分: ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com#?##content_left > [class]:-abp-has(span[data-tuiguang])
@@ -28424,11 +28420,11 @@
     → |www.baidu.com##content_right > div:-abp-has(.ec-tuiguang)
     → |www1.baidu.com##content_right > div:-abp-has(.ec-tuiguang)
     → |xueshu.baidu.com#?##content_right > div:-abp-has(.ec-tuiguang)
-✅ 多域名拆分: ipv6.baidu.com,xueshu.baidu.com,www.baidu.com,www1.baidu.com#?#.c-container:-abp-has(.t > a[data-landurl])
+✅ 多域名拆分: ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com#?#.c-container:-abp-has(.t > a[data-landurl])
     → |ipv6.baidu.com#?#.c-container:-abp-has(.t > a[data-landurl])
-    → |xueshu.baidu.com#?#.c-container:-abp-has(.t > a[data-landurl])
     → |www.baidu.com#?#.c-container:-abp-has(.t > a[data-landurl])
     → |www1.baidu.com#?#.c-container:-abp-has(.t > a[data-landurl])
+    → |xueshu.baidu.com#?#.c-container:-abp-has(.t > a[data-landurl])
 🚫 去掉注释行: !
 ✅ 多域名拆分: ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > [class] > [id*="00"] > div
     → |ipv6.baidu.com###content_left > [class] > [id*="00"] > div
@@ -28758,10 +28754,10 @@
     → |boylove.cc##.swiper-wrapper
     → |boyloves.fun##.swiper-wrapper
 🚫 去掉注释行: ##a[href*="/yfj8159.com"]
-✅ 多域名拆分: boylov.xyz,boylove.cc,boyloves.fun#?#:-abp-has(>.adsbyexoclick)
-    → |boylov.xyz#?#:-abp-has(>.adsbyexoclick)
-    → |boylove.cc#?#:-abp-has(>.adsbyexoclick)
-    → |boyloves.fun#?#:-abp-has(>.adsbyexoclick)
+✅ 多域名拆分: boylov.xyz,boylove.cc,boyloves.fun#?#:-abp-has(> .adsbyexoclick)
+    → |boylov.xyz#?#:-abp-has(> .adsbyexoclick)
+    → |boylove.cc#?#:-abp-has(> .adsbyexoclick)
+    → |boyloves.fun#?#:-abp-has(> .adsbyexoclick)
 ✅ 多域名拆分: boylov.xyz,boylove.cc,boyloves.fun##div[data-type="1"]
     → |boylov.xyz##div[data-type="1"]
     → |boylove.cc##div[data-type="1"]
@@ -28822,8 +28818,8 @@
 🚫 去掉注释行: !#k
 🚫 去掉注释行: !#l
 🚫 去掉注释行: !#maomiav.com
-🚫 去掉注释行: ##body > noscript + #root > div > div > .grid + div[role] + div + div[class]
 🚫 去掉注释行: ##body > noscript + #root > div > div > .grid + div[role] + div
+🚫 去掉注释行: ##body > noscript + #root > div > div > .grid + div[role] + div + div[class]
 🚫 去掉注释行: ##body > noscript + #root > div > div > .grid > .m0auto > div > div:last-child
 🚫 去掉注释行: !#Mining
 🚫 去掉注释行: !#Mmvip
@@ -28834,6 +28830,7 @@
 🚫 去掉注释行: ###gudingweiDiv
 🚫 去掉注释行: ###my_dp_a
 🚫 去掉注释行: ###my_gd_a
+🚫 去掉注释行: ##.app > .app_tj
 🚫 去掉注释行: ##.appguide-wrap[onclick*="bcebos.com"]
 🚫 去掉注释行: ##.box_con[style="border-radius:10px;background-color:#ff0000;padding:15px;"]
 🚫 去掉注释行: ##.callApp_fl_btn[onclick^="open_app"]
@@ -28853,15 +28850,14 @@
 🚫 去掉注释行: ##a[href*=".xxmh"][href*="?u="]
 🚫 去掉注释行: ##a[href*="://mgzs.cdn.bcebos.com/"]
 🚫 去掉注释行: ##a[href^="http"][onclick^="setCookie"][style^="width:100%;height:100"]
+🚫 去掉注释行: ##body > .app + #htmlContenthtml
+🚫 去掉注释行: ##body > .dbfh
+🚫 去掉注释行: ##body > .zdhf
+🚫 去掉注释行: ##body > div[style$=";background: #000;opacity:0.01;"]
 🚫 去掉注释行: ##div[onclick^="window.location.href"][onclick*=".bcebos."]
 🚫 去掉注释行: ##div[style^="line-height"][style*="http"][style$="fixed;"]
 🚫 去掉注释行: ##iframe[src*=".xxmh"][src*="?u="]
-🚫 去掉注释行: ##body > .app + #htmlContenthtml
-🚫 去掉注释行: ##.app > .app_tj
-🚫 去掉注释行: ##body > .zdhf
-🚫 去掉注释行: ##body > .dbfh
 🚫 去掉注释行: ##script + .dbfh
-🚫 去掉注释行: ##body > div[style$=";background: #000;opacity:0.01;"]
 🚫 去掉注释行: !
 🚫 去掉注释行: !#Novels
 🚫 去掉注释行: !
@@ -28909,16 +28905,16 @@
 🚫 去掉注释行: !#theporn.cc
 🚫 去掉注释行: ###__ads_dp
 🚫 去掉注释行: ###video_playr_side.video_playr_sider.videoplayerside
-✅ 多域名拆分: 69xx.one,69xx487.xyz,8mav.cc,av411.xyz,cable2055.cc,theav.xyz,thep178.com,theporn.cc,weav.xyz#?#[class]:-abp-has(>a>.q-responsive)
-    → |69xx.one#?#[class]:-abp-has(>a>.q-responsive)
-    → |69xx487.xyz#?#[class]:-abp-has(>a>.q-responsive)
-    → |8mav.cc#?#[class]:-abp-has(>a>.q-responsive)
-    → |av411.xyz#?#[class]:-abp-has(>a>.q-responsive)
-    → |cable2055.cc#?#[class]:-abp-has(>a>.q-responsive)
-    → |theav.xyz#?#[class]:-abp-has(>a>.q-responsive)
-    → |thep178.com#?#[class]:-abp-has(>a>.q-responsive)
-    → |theporn.cc#?#[class]:-abp-has(>a>.q-responsive)
-    → |weav.xyz#?#[class]:-abp-has(>a>.q-responsive)
+✅ 多域名拆分: 69xx.one,69xx487.xyz,8mav.cc,av411.xyz,cable2055.cc,theav.xyz,thep178.com,theporn.cc,weav.xyz#?#[class]:-abp-has(> a>.q-responsive)
+    → |69xx.one#?#[class]:-abp-has(> a>.q-responsive)
+    → |69xx487.xyz#?#[class]:-abp-has(> a>.q-responsive)
+    → |8mav.cc#?#[class]:-abp-has(> a>.q-responsive)
+    → |av411.xyz#?#[class]:-abp-has(> a>.q-responsive)
+    → |cable2055.cc#?#[class]:-abp-has(> a>.q-responsive)
+    → |theav.xyz#?#[class]:-abp-has(> a>.q-responsive)
+    → |thep178.com#?#[class]:-abp-has(> a>.q-responsive)
+    → |theporn.cc#?#[class]:-abp-has(> a>.q-responsive)
+    → |weav.xyz#?#[class]:-abp-has(> a>.q-responsive)
 🚫 去掉注释行: ##a[href$="/hjdt9.com"]
 🚫 去掉注释行: ##a[href$="/xha77.com"]
 🚫 去掉注释行: !#torrentkitty
@@ -28934,13 +28930,13 @@
     → |torrentkitty.tv##a[href*="/aff_"]
 🚫 去掉注释行: !#u
 🚫 去掉注释行: !#vikacg.com
-✅ 多域名拆分: vikacg.com,vikacg.cc##a.w-full[data-ad-index]
-    → |vikacg.com##a.w-full[data-ad-index]
+✅ 多域名拆分: vikacg.cc,vikacg.com##a.w-full[data-ad-index]
     → |vikacg.cc##a.w-full[data-ad-index]
+    → |vikacg.com##a.w-full[data-ad-index]
 🚫 去掉注释行: !#webkaka.com
 🚫 去掉注释行: !#wnacg.com
-🚫 去掉注释行: ##a[href^="/link-index-aid-"] > img[src*=".wnimg2.cfd"]
 🚫 去掉注释行: ##a[href*=".labsda.com"] > img[src^="/game/20"]
+🚫 去掉注释行: ##a[href^="/link-index-aid-"] > img[src*=".wnimg2.cfd"]
 🚫 去掉注释行: !#W
 🚫 去掉注释行: !#x
 🚫 去掉注释行: !#Y
@@ -28963,6 +28959,9 @@
     → |fotor.com.cn#@#.icon-share
     → |weiyun.com#@#.icon-share
     → |youdao.com#@#.icon-share
+✅ 多域名拆分: quark.cn,youdao.com#@#.open-share
+    → |quark.cn#@#.open-share
+    → |youdao.com#@#.open-share
 ✅ 多域名拆分: baidu.com,youdao.com,yun.cn#@#.share-content
     → |baidu.com#@#.share-content
     → |youdao.com#@#.share-content
@@ -28998,10 +28997,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: rGZa4FhFTgcPa9j1plxZlQ
-🚫 去掉注释行: ! Version: 202610150452
+🚫 去掉注释行: ! Checksum: Sorpea3Icg30C/8jVGxndQ
+🚫 去掉注释行: ! Version: 202610150952
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 15 Oct 2026 04:52 UTC
+🚫 去掉注释行: ! Last modified: 15 Oct 2026 09:52 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29678,11 +29677,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202610150500
+🚫 去掉注释行: ! Version: 202610150951
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 15 Oct 2026 05:00 UTC
+🚫 去掉注释行: ! Last modified: 15 Oct 2026 09:51 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 7f3252a08be1d6e817ada8c6a0a292dfc983152b
+🚫 去掉注释行: ! Commit: 2f0787d514840fa2117c8de8d27e1ff820b576cd
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -53515,11 +53514,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202610150500
+🚫 去掉注释行: ! Version: 202610150951
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 15 Oct 2026 05:00 UTC
+🚫 去掉注释行: ! Last modified: 15 Oct 2026 09:51 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 7f3252a08be1d6e817ada8c6a0a292dfc983152b
+🚫 去掉注释行: ! Commit: 2f0787d514840fa2117c8de8d27e1ff820b576cd
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -69901,10 +69900,10 @@
 🚫 去掉注释行: ! Issues: https://github.com/hagezi/dns-blocklists/issues
 🚫 去掉注释行: ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 🚫 去掉注释行: ! Expires: 8 hours
-🚫 去掉注释行: ! Last modified: 14 Oct 2026 20:43 UTC
-🚫 去掉注释行: ! Version: 2026.1014.2043.36
+🚫 去掉注释行: ! Last modified: 15 Oct 2026 08:55 UTC
+🚫 去掉注释行: ! Version: 2026.1015.0855.40
 🚫 去掉注释行: ! Syntax: AdBlock
-🚫 去掉注释行: ! Number of entries: 58181
+🚫 去掉注释行: ! Number of entries: 59614
 🚫 去掉注释行: !
 🚫 去掉注释行: !Title: anti-AD for AdGuard
 🚫 去掉注释行: !Version: 20261013225817355277005
@@ -69925,11 +69924,10 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !Generated: 2026-10-15 08:50:24
-🚫 去掉注释行: !RuleCount: 845299
+🚫 去掉注释行: !Generated: 2026-10-15 13:31:55
+🚫 去掉注释行: !RuleCount: 844694
 ✅ HOSTS 转换: 127.0.0.1 123.ywxww.net → |123.ywxww.net^
 ✅ HOSTS 转换: 127.0.0.1 1717.1000uc.com → |1717.1000uc.com^
-✅ HOSTS 转换: 127.0.0.1 198-macros.com → |198-macros.com^
 ✅ HOSTS 转换: 127.0.0.1 22qq-client.com → |22qq-client.com^
 ✅ HOSTS 转换: 127.0.0.1 3.zhzy999.net → |3.zhzy999.net^
 ✅ HOSTS 转换: 127.0.0.1 3.zhzy999.net3.zhzy999.net → |3.zhzy999.net3.zhzy999.net^
@@ -69940,6 +69938,7 @@
 ✅ HOSTS 转换: 127.0.0.1 aafesorder.com → |aafesorder.com^
 ✅ HOSTS 转换: 127.0.0.1 acc.jiangsujiaxue.com → |acc.jiangsujiaxue.com^
 ✅ HOSTS 转换: 127.0.0.1 acms.saleseos.com → |acms.saleseos.com^
+✅ HOSTS 转换: 127.0.0.1 acrilicoporto.pt → |acrilicoporto.pt^
 ✅ HOSTS 转换: 127.0.0.1 adcentral.com.mx → |adcentral.com.mx^
 ✅ HOSTS 转换: 127.0.0.1 admin.byte.in.ua → |admin.byte.in.ua^
 ✅ HOSTS 转换: 127.0.0.1 admin.gestroom.it → |admin.gestroom.it^
@@ -69957,6 +69956,7 @@
 ✅ HOSTS 转换: 127.0.0.1 audicontadores.com → |audicontadores.com^
 ✅ HOSTS 转换: 127.0.0.1 backupso.com → |backupso.com^
 ✅ HOSTS 转换: 127.0.0.1 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev → |balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^
+✅ HOSTS 转换: 127.0.0.1 beak.in → |beak.in^
 ✅ HOSTS 转换: 127.0.0.1 beamtechmacros.com → |beamtechmacros.com^
 ✅ HOSTS 转换: 127.0.0.1 benzinclick.live → |benzinclick.live^
 ✅ HOSTS 转换: 127.0.0.1 beoauto.alexion.rs → |beoauto.alexion.rs^
@@ -70018,7 +70018,6 @@
 ✅ HOSTS 转换: 127.0.0.1 dcrun.co.uk → |dcrun.co.uk^
 ✅ HOSTS 转换: 127.0.0.1 dcwblida.dz → |dcwblida.dz^
 ✅ HOSTS 转换: 127.0.0.1 deagroup-ks.com → |deagroup-ks.com^
-✅ HOSTS 转换: 127.0.0.1 debugify.net → |debugify.net^
 ✅ HOSTS 转换: 127.0.0.1 delp-heizungsbau.de → |delp-heizungsbau.de^
 ✅ HOSTS 转换: 127.0.0.1 delta-canvas.com → |delta-canvas.com^
 ✅ HOSTS 转换: 127.0.0.1 devs.kantales.life → |devs.kantales.life^
@@ -70052,10 +70051,10 @@
 ✅ HOSTS 转换: 127.0.0.1 fable-shine.com → |fable-shine.com^
 ✅ HOSTS 转换: 127.0.0.1 fairsexsecutor.xyz → |fairsexsecutor.xyz^
 ✅ HOSTS 转换: 127.0.0.1 fakers.co.jp → |fakers.co.jp^
-✅ HOSTS 转换: 127.0.0.1 familyaddons.com → |familyaddons.com^
 ✅ HOSTS 转换: 127.0.0.1 farschid.de → |farschid.de^
 ✅ HOSTS 转换: 127.0.0.1 fd.v2downf.shop → |fd.v2downf.shop^
 ✅ HOSTS 转换: 127.0.0.1 file.blackint3.com → |file.blackint3.com^
+✅ HOSTS 转换: 127.0.0.1 file.uhsea.com → |file.uhsea.com^
 ✅ HOSTS 转换: 127.0.0.1 filerit.com → |filerit.com^
 ✅ HOSTS 转换: 127.0.0.1 filezilla.cc → |filezilla.cc^
 ✅ HOSTS 转换: 127.0.0.1 first-security-verden.de → |first-security-verden.de^
@@ -70072,7 +70071,6 @@
 ✅ HOSTS 转换: 127.0.0.1 galerisenimutiara.com → |galerisenimutiara.com^
 ✅ HOSTS 转换: 127.0.0.1 gboutros.howto.rocks → |gboutros.howto.rocks^
 ✅ HOSTS 转换: 127.0.0.1 geoxsecurity.ro → |geoxsecurity.ro^
-✅ HOSTS 转换: 127.0.0.1 gestroom.it → |gestroom.it^
 ✅ HOSTS 转换: 127.0.0.1 getoutofthebackseat.com → |getoutofthebackseat.com^
 ✅ HOSTS 转换: 127.0.0.1 ghost-new-live.ink → |ghost-new-live.ink^
 ✅ HOSTS 转换: 127.0.0.1 globalbank.us → |globalbank.us^
@@ -70097,7 +70095,6 @@
 ✅ HOSTS 转换: 127.0.0.1 igra123.com → |igra123.com^
 ✅ HOSTS 转换: 127.0.0.1 ikovrsps.com → |ikovrsps.com^
 ✅ HOSTS 转换: 127.0.0.1 impectorinternational.com → |impectorinternational.com^
-✅ HOSTS 转换: 127.0.0.1 intelli-sys.co.zw → |intelli-sys.co.zw^
 ✅ HOSTS 转换: 127.0.0.1 invmove.com → |invmove.com^
 ✅ HOSTS 转换: 127.0.0.1 ircftp.net → |ircftp.net^
 ✅ HOSTS 转换: 127.0.0.1 isiore.com.co → |isiore.com.co^
@@ -70105,7 +70102,6 @@
 ✅ HOSTS 转换: 127.0.0.1 itssprout.com → |itssprout.com^
 ✅ HOSTS 转换: 127.0.0.1 java.omsules.life → |java.omsules.life^
 ✅ HOSTS 转换: 127.0.0.1 javb.omsules.life → |javb.omsules.life^
-✅ HOSTS 转换: 127.0.0.1 jawaratekno.com → |jawaratekno.com^
 ✅ HOSTS 转换: 127.0.0.1 jenniferloeffler.com → |jenniferloeffler.com^
 ✅ HOSTS 转换: 127.0.0.1 jessespridecharters.com → |jessespridecharters.com^
 ✅ HOSTS 转换: 127.0.0.1 jlwz.cn → |jlwz.cn^
@@ -70115,16 +70111,15 @@
 ✅ HOSTS 转换: 127.0.0.1 kimyen.net → |kimyen.net^
 ✅ HOSTS 转换: 127.0.0.1 konsor.ru → |konsor.ru^
 ✅ HOSTS 转换: 127.0.0.1 krause-fahrzeuge.de → |krause-fahrzeuge.de^
-✅ HOSTS 转换: 127.0.0.1 kryptonclient-cracked.com → |kryptonclient-cracked.com^
 ✅ HOSTS 转换: 127.0.0.1 landonirwin.com → |landonirwin.com^
 ✅ HOSTS 转换: 127.0.0.1 lawfirm.paperbirdtech.com → |lawfirm.paperbirdtech.com^
 ✅ HOSTS 转换: 127.0.0.1 lindnerelektroanlagen.de → |lindnerelektroanlagen.de^
 ✅ HOSTS 转换: 127.0.0.1 livinginpurpose.co.za → |livinginpurpose.co.za^
 ✅ HOSTS 转换: 127.0.0.1 local-update.com → |local-update.com^
 ✅ HOSTS 转换: 127.0.0.1 lomejordesalamanca.es → |lomejordesalamanca.es^
+✅ HOSTS 转换: 127.0.0.1 loop-lumen.com → |loop-lumen.com^
 ✅ HOSTS 转换: 127.0.0.1 luizmatoso.com.br → |luizmatoso.com.br^
 ✅ HOSTS 转换: 127.0.0.1 luminexclient.com → |luminexclient.com^
-✅ HOSTS 转换: 127.0.0.1 luminexclient.net → |luminexclient.net^
 ✅ HOSTS 转换: 127.0.0.1 luminouspower.com.pk → |luminouspower.com.pk^
 ✅ HOSTS 转换: 127.0.0.1 m.jkoa.co.kr → |m.jkoa.co.kr^
 ✅ HOSTS 转换: 127.0.0.1 m.meta-dm.com → |m.meta-dm.com^
@@ -70133,7 +70128,6 @@
 ✅ HOSTS 转换: 127.0.0.1 malupieng.com.br → |malupieng.com.br^
 ✅ HOSTS 转换: 127.0.0.1 mandarin.net.au → |mandarin.net.au^
 ✅ HOSTS 转换: 127.0.0.1 maple30.com → |maple30.com^
-✅ HOSTS 转换: 127.0.0.1 marlowclient.com → |marlowclient.com^
 ✅ HOSTS 转换: 127.0.0.1 meteorclients.com → |meteorclients.com^
 ✅ HOSTS 转换: 127.0.0.1 meteorrejects.net → |meteorrejects.net^
 ✅ HOSTS 转换: 127.0.0.1 metrics.gocloudmaps.com → |metrics.gocloudmaps.com^
@@ -70148,13 +70142,13 @@
 ✅ HOSTS 转换: 127.0.0.1 muledo.com → |muledo.com^
 ✅ HOSTS 转换: 127.0.0.1 multiplay.at → |multiplay.at^
 ✅ HOSTS 转换: 127.0.0.1 munihuacho.gob.pe → |munihuacho.gob.pe^
+✅ HOSTS 转换: 127.0.0.1 mx9x.com → |mx9x.com^
 ✅ HOSTS 转换: 127.0.0.1 mysura.it → |mysura.it^
 ✅ HOSTS 转换: 127.0.0.1 n.vs108.com → |n.vs108.com^
 ✅ HOSTS 转换: 127.0.0.1 ncxps.com → |ncxps.com^
 ✅ HOSTS 转换: 127.0.0.1 nd.tdpqnf.com → |nd.tdpqnf.com^
 ✅ HOSTS 转换: 127.0.0.1 nebula-client.com → |nebula-client.com^
 ✅ HOSTS 转换: 127.0.0.1 noithaticon.vn → |noithaticon.vn^
-✅ HOSTS 转换: 127.0.0.1 nova-client.com → |nova-client.com^
 ✅ HOSTS 转换: 127.0.0.1 novagames.cc → |novagames.cc^
 ✅ HOSTS 转换: 127.0.0.1 nusatoyota.co.id → |nusatoyota.co.id^
 ✅ HOSTS 转换: 127.0.0.1 obearo.com → |obearo.com^
@@ -70167,14 +70161,13 @@
 ✅ HOSTS 转换: 127.0.0.1 opsecmod.st → |opsecmod.st^
 ✅ HOSTS 转换: 127.0.0.1 outpost.co.ke → |outpost.co.ke^
 ✅ HOSTS 转换: 127.0.0.1 p3.zbjimg.com → |p3.zbjimg.com^
+✅ HOSTS 转换: 127.0.0.1 palharesinformatica.com.br → |palharesinformatica.com.br^
 ✅ HOSTS 转换: 127.0.0.1 pay.aqiu6.com → |pay.aqiu6.com^
 ✅ HOSTS 转换: 127.0.0.1 pcupd.com → |pcupd.com^
 ✅ HOSTS 转换: 127.0.0.1 pfatrivandrum.org → |pfatrivandrum.org^
-✅ HOSTS 转换: 127.0.0.1 phantom-client.com → |phantom-client.com^
 ✅ HOSTS 转换: 127.0.0.1 photolivebook.pro → |photolivebook.pro^
 ✅ HOSTS 转换: 127.0.0.1 polarclient.net → |polarclient.net^
 ✅ HOSTS 转换: 127.0.0.1 polinex.org → |polinex.org^
-✅ HOSTS 转换: 127.0.0.1 polinexclient.org → |polinexclient.org^
 ✅ HOSTS 转换: 127.0.0.1 porterneuman.mx → |porterneuman.mx^
 ✅ HOSTS 转换: 127.0.0.1 postelnini.mk → |postelnini.mk^
 ✅ HOSTS 转换: 127.0.0.1 preciosasjoyitas.com.mx → |preciosasjoyitas.com.mx^
@@ -70221,9 +70214,7 @@
 ✅ HOSTS 转换: 127.0.0.1 seputartuban.com → |seputartuban.com^
 ✅ HOSTS 转换: 127.0.0.1 sg123.net → |sg123.net^
 ✅ HOSTS 转换: 127.0.0.1 shqdown.ggzuhao.com → |shqdown.ggzuhao.com^
-✅ HOSTS 转换: 127.0.0.1 sigmaclient.net → |sigmaclient.net^
 ✅ HOSTS 转换: 127.0.0.1 sk-comtel.com → |sk-comtel.com^
-✅ HOSTS 转换: 127.0.0.1 skyblock-addons.com → |skyblock-addons.com^
 ✅ HOSTS 转换: 127.0.0.1 skyblock-qol.com → |skyblock-qol.com^
 ✅ HOSTS 转换: 127.0.0.1 smartermail.host → |smartermail.host^
 ✅ HOSTS 转换: 127.0.0.1 soft.110route.com → |soft.110route.com^
@@ -70236,7 +70227,6 @@
 ✅ HOSTS 转换: 127.0.0.1 stanarcservice.com → |stanarcservice.com^
 ✅ HOSTS 转换: 127.0.0.1 star.zcnet.net → |star.zcnet.net^
 ✅ HOSTS 转换: 127.0.0.1 stat.bestcompliance.net → |stat.bestcompliance.net^
-✅ HOSTS 转换: 127.0.0.1 static.ilclock.com → |static.ilclock.com^
 ✅ HOSTS 转换: 127.0.0.1 static.topxgun.com → |static.topxgun.com^
 ✅ HOSTS 转换: 127.0.0.1 static.youdm.cn → |static.youdm.cn^
 ✅ HOSTS 转换: 127.0.0.1 stdown.dinju.com → |stdown.dinju.com^
@@ -70247,6 +70237,7 @@
 ✅ HOSTS 转换: 127.0.0.1 sushiandpoke.pt → |sushiandpoke.pt^
 ✅ HOSTS 转换: 127.0.0.1 sutterpoint.com → |sutterpoint.com^
 ✅ HOSTS 转换: 127.0.0.1 svirtual.sanviatorperu.edu.pe → |svirtual.sanviatorperu.edu.pe^
+✅ HOSTS 转换: 127.0.0.1 swiftfusion.tech → |swiftfusion.tech^
 ✅ HOSTS 转换: 127.0.0.1 talkandtypeapp.com → |talkandtypeapp.com^
 ✅ HOSTS 转换: 127.0.0.1 tangentwaves.com → |tangentwaves.com^
 ✅ HOSTS 转换: 127.0.0.1 tanscarattorneys.co.tz → |tanscarattorneys.co.tz^
@@ -70267,6 +70258,7 @@
 ✅ HOSTS 转换: 127.0.0.1 tmcksa.com → |tmcksa.com^
 ✅ HOSTS 转换: 127.0.0.1 toolshare.com.tr → |toolshare.com.tr^
 ✅ HOSTS 转换: 127.0.0.1 top8onlinegame.com → |top8onlinegame.com^
+✅ HOSTS 转换: 127.0.0.1 totemstudios.xyz → |totemstudios.xyz^
 ✅ HOSTS 转换: 127.0.0.1 tpp.om-stock.com → |tpp.om-stock.com^
 ✅ HOSTS 转换: 127.0.0.1 tr.zhzy999.net → |tr.zhzy999.net^
 ✅ HOSTS 转换: 127.0.0.1 transparenciacanaa.com.br → |transparenciacanaa.com.br^
@@ -70278,7 +70270,6 @@
 ✅ HOSTS 转换: 127.0.0.1 upchemicals.co.in → |upchemicals.co.in^
 ✅ HOSTS 转换: 127.0.0.1 update.cg100iii.com → |update.cg100iii.com^
 ✅ HOSTS 转换: 127.0.0.1 uu.v2raynapps.com.cn → |uu.v2raynapps.com.cn^
-✅ HOSTS 转换: 127.0.0.1 vdsina.vg → |vdsina.vg^
 ✅ HOSTS 转换: 127.0.0.1 veryboys.com → |veryboys.com^
 ✅ HOSTS 转换: 127.0.0.1 visam.info → |visam.info^
 ✅ HOSTS 转换: 127.0.0.1 vizyonuniversitesi.com.tr → |vizyonuniversitesi.com.tr^
@@ -70287,8 +70278,6 @@
 ✅ HOSTS 转换: 127.0.0.1 w.zhzy999.net → |w.zhzy999.net^
 ✅ HOSTS 转换: 127.0.0.1 website.mypetapp.co.za → |website.mypetapp.co.za^
 ✅ HOSTS 转换: 127.0.0.1 widexenmexico.com.mx → |widexenmexico.com.mx^
-✅ HOSTS 转换: 127.0.0.1 wielixclient.com → |wielixclient.com^
-✅ HOSTS 转换: 127.0.0.1 wielixclient.net → |wielixclient.net^
 ✅ HOSTS 转换: 127.0.0.1 willow-13.com → |willow-13.com^
 ✅ HOSTS 转换: 127.0.0.1 windomstatetheater.com → |windomstatetheater.com^
 ✅ HOSTS 转换: 127.0.0.1 wittenhorst.eu → |wittenhorst.eu^
@@ -70308,6 +70297,7 @@
 ✅ HOSTS 转换: 127.0.0.1 www.duelvalenza.it → |www.duelvalenza.it^
 ✅ HOSTS 转换: 127.0.0.1 www.elitecheatsx.live → |www.elitecheatsx.live^
 ✅ HOSTS 转换: 127.0.0.1 www.first-security-verden.de → |www.first-security-verden.de^
+✅ HOSTS 转换: 127.0.0.1 www.gestroom.it → |www.gestroom.it^
 ✅ HOSTS 转换: 127.0.0.1 www.hostingcloud.science → |www.hostingcloud.science^
 ✅ HOSTS 转换: 127.0.0.1 www.hqsblog.com → |www.hqsblog.com^
 ✅ HOSTS 转换: 127.0.0.1 www.hseda.com → |www.hseda.com^
@@ -70342,7 +70332,6 @@
 ✅ HOSTS 转换: 127.0.0.1 www.xn--on3b15m2lco2u.com → |www.xn--on3b15m2lco2u.com^
 ✅ HOSTS 转换: 127.0.0.1 www.zamilgroups.com → |www.zamilgroups.com^
 ✅ HOSTS 转换: 127.0.0.1 xenon.studio → |xenon.studio^
-✅ HOSTS 转换: 127.0.0.1 xenonclient.com → |xenonclient.com^
 ✅ HOSTS 转换: 127.0.0.1 xn--yh4bx88a.com → |xn--yh4bx88a.com^
 ✅ HOSTS 转换: 127.0.0.1 xshop.com.tr → |xshop.com.tr^
 ✅ HOSTS 转换: 127.0.0.1 yakult-hk.com → |yakult-hk.com^
@@ -154813,10 +154802,10 @@
 🚫 去掉注释行: ! Blocked domains: 8171
 🚫 去掉注释行: ! unBlocked domains: 17
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: JIwCozgBspCjBOuabslYoQ
-🚫 去掉注释行: ! Version: 202610150050
+🚫 去掉注释行: ! Checksum: LS5sl0N6MeAPjSemKEt2VQ
+🚫 去掉注释行: ! Version: 202610150825
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-10-15 00:50 UTC
+🚫 去掉注释行: ! Last modified: 2026-10-15 08:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -190166,6 +190155,12 @@
 ✅ 多域名拆分: bonprix.ee,bonprix.lv##.google-consent-mode-popup-container
     → |bonprix.ee##.google-consent-mode-popup-container
     → |bonprix.lv##.google-consent-mode-popup-container
+🚫 去掉注释行: ! https://github.com/uBlockOrigin/uAssets/issues/34864
+✅ 多域名拆分: masante.belgique.be,meinegesundheit.belgien.be,mijngezondheid.belgie.be,myhealth.belgium.be##mh-cookie-banner
+    → |masante.belgique.be##mh-cookie-banner
+    → |meinegesundheit.belgien.be##mh-cookie-banner
+    → |mijngezondheid.belgie.be##mh-cookie-banner
+    → |myhealth.belgium.be##mh-cookie-banner
 🚫 去掉注释行: ! Just Eat
 ✅ 多域名拆分: just-eat.co.uk,just-eat.es,justeat.it##div[data-cookie-consent-overlay]
     → |just-eat.co.uk##div[data-cookie-consent-overlay]
@@ -197879,7 +197874,7 @@
     → |platoboost.app##.bottom-8
     → |vecer.com##.bottom-8
 🚫 去掉注释行: !! .bottom-4
-✅ 多域名拆分: airlineratings.com,annuaire-du-ecommerce.com,blog.smithsecurity.biz,bodegacatsofnewyork.com,boo.world,brightwork.com,canyouhack.org,convex.dev,desenio.se,docs.earthly.dev,downornot.net,foodhubforbusiness.com,freetv.tv,getmerlin.in,gitverse.ru,herzindagi.com,justo.ca,letsdatascience.com,media.halvacard.ru,moises.ai,my.openbb.co,progorod62.ru,promobit.com.br,pump.fun,remnote.com,shuttle.rs,sllm.cloud,snead.app,thinglink.com,topisrael.co.il,trychatgpt.ru,urlcast.io,zerofox.com##.bottom-4
+✅ 多域名拆分: airlineratings.com,annuaire-du-ecommerce.com,blog.smithsecurity.biz,bodegacatsofnewyork.com,boo.world,brightwork.com,canyouhack.org,convex.dev,desenio.se,docs.earthly.dev,downornot.net,foodhubforbusiness.com,freetv.tv,getmerlin.in,gitverse.ru,herzindagi.com,justo.ca,letsdatascience.com,liquid.ai,media.halvacard.ru,moises.ai,my.openbb.co,progorod62.ru,promobit.com.br,pump.fun,remnote.com,shuttle.rs,sllm.cloud,snead.app,thinglink.com,topisrael.co.il,trychatgpt.ru,urlcast.io,zerofox.com##.bottom-4
     → |airlineratings.com##.bottom-4
     → |annuaire-du-ecommerce.com##.bottom-4
     → |blog.smithsecurity.biz##.bottom-4
@@ -197898,6 +197893,7 @@
     → |herzindagi.com##.bottom-4
     → |justo.ca##.bottom-4
     → |letsdatascience.com##.bottom-4
+    → |liquid.ai##.bottom-4
     → |media.halvacard.ru##.bottom-4
     → |moises.ai##.bottom-4
     → |my.openbb.co##.bottom-4
@@ -221885,9 +221881,9 @@
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: !---------------------------------Allowlists----------------------------------!
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: HpEJS5m235ujBVvljKOrbA
+🚫 去掉注释行: ! Checksum: 7oKWTc9GD9fQWaiw+dIu3A
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Last modified: 2026-10-15 00:50 UTC
+🚫 去掉注释行: ! Last modified: 2026-10-15 08:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
@@ -239257,6 +239253,12 @@
 ✅ 多域名拆分: bonprix.ee,bonprix.lv##.google-consent-mode-popup-container
     → |bonprix.ee##.google-consent-mode-popup-container
     → |bonprix.lv##.google-consent-mode-popup-container
+🚫 去掉注释行: ! https://github.com/uBlockOrigin/uAssets/issues/34864
+✅ 多域名拆分: masante.belgique.be,meinegesundheit.belgien.be,mijngezondheid.belgie.be,myhealth.belgium.be##mh-cookie-banner
+    → |masante.belgique.be##mh-cookie-banner
+    → |meinegesundheit.belgien.be##mh-cookie-banner
+    → |mijngezondheid.belgie.be##mh-cookie-banner
+    → |myhealth.belgium.be##mh-cookie-banner
 🚫 去掉注释行: ! Just Eat
 ✅ 多域名拆分: just-eat.co.uk,just-eat.es,justeat.it##div[data-cookie-consent-overlay]
     → |just-eat.co.uk##div[data-cookie-consent-overlay]
@@ -246970,7 +246972,7 @@
     → |platoboost.app##.bottom-8
     → |vecer.com##.bottom-8
 🚫 去掉注释行: !! .bottom-4
-✅ 多域名拆分: airlineratings.com,annuaire-du-ecommerce.com,blog.smithsecurity.biz,bodegacatsofnewyork.com,boo.world,brightwork.com,canyouhack.org,convex.dev,desenio.se,docs.earthly.dev,downornot.net,foodhubforbusiness.com,freetv.tv,getmerlin.in,gitverse.ru,herzindagi.com,justo.ca,letsdatascience.com,media.halvacard.ru,moises.ai,my.openbb.co,progorod62.ru,promobit.com.br,pump.fun,remnote.com,shuttle.rs,sllm.cloud,snead.app,thinglink.com,topisrael.co.il,trychatgpt.ru,urlcast.io,zerofox.com##.bottom-4
+✅ 多域名拆分: airlineratings.com,annuaire-du-ecommerce.com,blog.smithsecurity.biz,bodegacatsofnewyork.com,boo.world,brightwork.com,canyouhack.org,convex.dev,desenio.se,docs.earthly.dev,downornot.net,foodhubforbusiness.com,freetv.tv,getmerlin.in,gitverse.ru,herzindagi.com,justo.ca,letsdatascience.com,liquid.ai,media.halvacard.ru,moises.ai,my.openbb.co,progorod62.ru,promobit.com.br,pump.fun,remnote.com,shuttle.rs,sllm.cloud,snead.app,thinglink.com,topisrael.co.il,trychatgpt.ru,urlcast.io,zerofox.com##.bottom-4
     → |airlineratings.com##.bottom-4
     → |annuaire-du-ecommerce.com##.bottom-4
     → |blog.smithsecurity.biz##.bottom-4
@@ -246989,6 +246991,7 @@
     → |herzindagi.com##.bottom-4
     → |justo.ca##.bottom-4
     → |letsdatascience.com##.bottom-4
+    → |liquid.ai##.bottom-4
     → |media.halvacard.ru##.bottom-4
     → |moises.ai##.bottom-4
     → |my.openbb.co##.bottom-4
