@@ -6586,6 +6586,7 @@ analyticsinsight.net##.loftocean-social-share-icon
 consumerfinance.gov##.m-social-media
 |insideevs.com##.m1-article-meta_share
 |motor1.uol.com.br##.m1-article-meta_share
+frankforce.com##.martanda-social-bar
 odditycentral.com##.mashsb-container
 breakingnews.ie##.mb-1.pt-4
 inquisitr.com##.mb10
@@ -18386,6 +18387,7 @@ metadefender.com##div[data-testid="banner"]:has(a[href="https://www.opswat.com/l
 ssense.com##div[data-testid="cookie-banner-overlay"]
 |expo.dev##div[data-testid="cookie-banner-root"]
 |ssense.com##div[data-testid="cookie-banner-root"]
+theinfinitebookshelf.com##div[data-testid="cookie-consent"]
 link.com##div[data-testid="cookie-consent-cookie-consent-notification"]
 developers.eyeo.com##div[data-testid="cookies-dialog"]
 deepl.com##div[data-testid="dl-cookieBanner"]
@@ -30318,6 +30320,7 @@ eurowings.com##+js(set-cookie, ew_cookieconsent_optin_b, true)
 ti.com##+js(set-cookie, explicit_consent, true)
 gdi-sh.de##+js(set-cookie, externalVideosEnabled, true)
 feature.fm##+js(set-cookie, featureConsent, false, , reload, 1)
+minfin.fgov.be##+js(set-cookie, fedconsent, 1)
 plastischechirurgie-muenchen.info##+js(set-cookie, ff_cookie_notice, 1)
 |aura.american.edu##+js(set-cookie, figshare-cookies-essential, true)
 |curate.nd.edu##+js(set-cookie, figshare-cookies-essential, true)
@@ -46413,6 +46416,7 @@ history.com###sticky-email-updates
 columbian.com###sticky-footer-cta
 bondvigilantes.com###sticky-signup
 sheets.works###stickyEmailBar
+not-ship.com###sub-box
 |bamsmackpow.com###sub-footer
 |gamesided.com###sub-footer
 |gojoebruin.com###sub-footer
@@ -48898,6 +48902,7 @@ gcaptain.com##.sidebar-email-outer
 |invisibleoranges.com##.sidebar-form
 hamodia.com##.sidebar-form-wrap
 youcouldtravel.com##.sidebar-item-subscribe-form
+|gearjunkie.com##.sidebar-newsletter
 |happymoneysaver.com##.sidebar-newsletter
 |sugarandsoul.co##.sidebar-newsletter
 |thebuckeyeflame.com##.sidebar-newsletter
@@ -49611,6 +49616,7 @@ blog.youtube##.yt-newsletter-toast
 |bodyweightwarrior.co.uk##.yui-popup-container-node
 |brucelee.com##.yui-popup-container-node
 |clereviewofbooks.com##.yui-popup-container-node
+|dataforprogress.org##.yui-popup-container-node
 |eli.org.nz##.yui-popup-container-node
 |fridaythings.com##.yui-popup-container-node
 |genelmag.com##.yui-popup-container-node
