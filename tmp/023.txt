@@ -28476,8 +28476,10 @@ gasolinapromociones.bridgestone.es##+js(set-cookie, G-SYB3DEBSY1, 1)
 seller.samsungapps.com##+js(set-cookie, GA_CONSENT, FALSE)
 lektury.gov.pl##+js(set-cookie, GA_COOKIE_READINGS, false)
 esa.nask.pl##+js(set-cookie, GA_COOKIE_SMOG, accepted)
-turvakilvet.fi##+js(set-cookie, GBaseConsent, 0)
-turvakilvet.fi##+js(set-cookie, GBaseConsentToAnalytics, 0)
+|turvakilvet.fi##+js(set-cookie, GBaseConsent, 0)
+|variaine.fi##+js(set-cookie, GBaseConsent, 0)
+|turvakilvet.fi##+js(set-cookie, GBaseConsentToAnalytics, 0)
+|variaine.fi##+js(set-cookie, GBaseConsentToAnalytics, 0)
 marinelink.com##+js(set-cookie, GDPR, 9)
 warrenjames.co.uk##+js(set-cookie, GDPR.CONSENT.ANALYTICS, false)
 warrenjames.co.uk##+js(set-cookie, GDPR.CONSENT.MARKETING, false)
@@ -48847,8 +48849,10 @@ therealmediang.com##.rm-newsletter-banner
 aol.com##.rmp-module__newsletter-signup
 religionnews.com##.rns-newsletter-embed-content
 religionnews.com##.rns-pop-up-wrapper
+niemanlab.org##.roscoe-newsletter-box
 notthebee.com##.rounded-lg.px-6
 kqed.org##.routes-Site-routes-Post-EmailSignup-__EmailSignup__postEmailSignup
+niemanlab.org##.rsc-header-subscribe
 recipetips.com##.rtJqibox
 readwrite.com##.rw-subscribe-sec
 niemanlab.org##.s2-bottom-emailpromo
@@ -48903,6 +48907,7 @@ ianvisits.co.uk##.sendysubscribe
 |notthathardtohomeschool.com##.seva-form
 |passiveincomemd.com##.seva-form
 |retrogamecoders.com##.seva-form
+|righto.com##.seva-form
 |sallysbakingaddiction.com##.seva-form
 |sofx.com##.seva-form
 |sundaysuppermovement.com##.seva-form
@@ -52977,6 +52982,8 @@ treblezine.com##body,html:style(height: auto !important; overflow: auto !importa
 |wonkette.com##div[class^="background-"]
 |zeteo.com##div[class^="background-"]
 thefederalist.com##+js(set-cookie, pum-276000, true)
+niemanlab.org###nlep
+niemanlab.org##body:style(overflow: auto !important; position: initial !important;)
 |avclub.com##+js(set-cookie, pm_email_popup_status, 1)
 |jezebel.com##+js(set-cookie, pm_email_popup_status, 1)
 |pastemagazine.com##+js(set-cookie, pm_email_popup_status, 1)
