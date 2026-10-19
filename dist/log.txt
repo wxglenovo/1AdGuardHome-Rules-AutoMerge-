@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-10-19T06:32:50.367Z
+🚫 去掉注释行: ! Last modified: 2026-10-19T14:15:15.587Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -1664,10 +1664,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 96738
-🚫 去掉注释行: ! Checksum: Q7zTJhuYlBL72VG/rveORw
-🚫 去掉注释行: ! Version: 202610190812
+🚫 去掉注释行: ! Checksum: uldjDvFPv9aDE6prXKobcw
+🚫 去掉注释行: ! Version: 202610191542
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 19 Oct 2026 08:12 UTC
+🚫 去掉注释行: ! Last modified: 19 Oct 2026 15:42 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -21442,6 +21442,12 @@
     → |seattlepi.com##[data-block-type="ad"]
     → |sfchronicle.com##[data-block-type="ad"]
     → |timesunion.com##[data-block-type="ad"]
+✅ 多域名拆分: androidcentral.com,pcgamer.com,tomsguide.com,tomshardware.com,whathifi.com##[data-bordeaux-hook-loaded]
+    → |androidcentral.com##[data-bordeaux-hook-loaded]
+    → |pcgamer.com##[data-bordeaux-hook-loaded]
+    → |tomsguide.com##[data-bordeaux-hook-loaded]
+    → |tomshardware.com##[data-bordeaux-hook-loaded]
+    → |whathifi.com##[data-bordeaux-hook-loaded]
 ✅ 多域名拆分: arrowheadpride.com,badlefthook.com,barcablaugranes.com,bavarianfootballworks.com,bleedinggreennation.com,bloggingtheboys.com,bloodyelbow.com,brightsideofthesun.com,cagesideseats.com,celticsblog.com,eater.com,goldenstateofmind.com,libertyballers.com,managingmadrid.com,mmafighting.com,mmamania.com,sbnation.com##[data-concert="desktop_leaderboard_variable"]
     → |arrowheadpride.com##[data-concert="desktop_leaderboard_variable"]
     → |badlefthook.com##[data-concert="desktop_leaderboard_variable"]
@@ -25469,10 +25475,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: d7YAyPo+wGkpjMzFPgqRSg
-🚫 去掉注释行: ! Version: 202610190812
+🚫 去掉注释行: ! Checksum: 5RIO228wnpj4gdduAzSv9g
+🚫 去掉注释行: ! Version: 202610191542
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 19 Oct 2026 08:12 UTC
+🚫 去掉注释行: ! Last modified: 19 Oct 2026 15:42 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -25835,7 +25841,6 @@
 🚫 去掉注释行: ##.content-video > .ads-player
 🚫 去掉注释行: ##.content_ad_300
 🚫 去掉注释行: ##.corner-gg
-🚫 去掉注释行: ##.couplet_9cb0d
 🚫 去掉注释行: ##.coupletad
 🚫 去掉注释行: ##.ctm_ad
 🚫 去掉注释行: ##.cui-pt-item[data-qhb]
@@ -25999,8 +26004,6 @@
 🚫 去掉注释行: ##.pop.pop-bottom
 🚫 去掉注释行: ##.pop[style="right: 10px;"]
 🚫 去掉注释行: ##.popup + .shortcuts-m-overlay
-🚫 去掉注释行: ##.postmessage > #googleFirst
-🚫 去掉注释行: ##.postmessage > #googleSecond
 🚫 去掉注释行: ##.privilege-promote
 🚫 去掉注释行: ##.pro-molnk
 🚫 去掉注释行: ##.pro1-molnk
@@ -27625,9 +27628,6 @@
     → |mgsfhw.com##.widget_media_image
     → |mgsgirls.com##.widget_media_image
     → |woniuyulew.com##.widget_media_image
-✅ 多域名拆分: codeceo.com,fuli8.net##.widget_text:first-child
-    → |codeceo.com##.widget_text:first-child
-    → |fuli8.net##.widget_text:first-child
 ✅ 多域名拆分: 4spaces.org,fuliba.net,fuliba2023.net,fuliba2025.net,laozuo.org,ypojie.com##.widget_ui_orbui
     → |4spaces.org##.widget_ui_orbui
     → |fuliba.net##.widget_ui_orbui
@@ -28840,10 +28840,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: cwbuBqlRMvMd36Tq51KG0w
-🚫 去掉注释行: ! Version: 202610190812
+🚫 去掉注释行: ! Checksum: EJqDjfH04pCUU7ESV2U87w
+🚫 去掉注释行: ! Version: 202610191542
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 19 Oct 2026 08:12 UTC
+🚫 去掉注释行: ! Last modified: 19 Oct 2026 15:42 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29520,11 +29520,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202610190810
+🚫 去掉注释行: ! Version: 202610191532
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 19 Oct 2026 08:10 UTC
+🚫 去掉注释行: ! Last modified: 19 Oct 2026 15:32 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: f3a7ba6cec6328641841b78752e109622bc81a99
+🚫 去掉注释行: ! Commit: de66c20960e7978a7cbb84f967cc7474d9fe1e7b
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -49308,6 +49308,12 @@
     → |seattlepi.com##[data-block-type="ad"]
     → |sfchronicle.com##[data-block-type="ad"]
     → |timesunion.com##[data-block-type="ad"]
+✅ 多域名拆分: androidcentral.com,pcgamer.com,tomsguide.com,tomshardware.com,whathifi.com##[data-bordeaux-hook-loaded]
+    → |androidcentral.com##[data-bordeaux-hook-loaded]
+    → |pcgamer.com##[data-bordeaux-hook-loaded]
+    → |tomsguide.com##[data-bordeaux-hook-loaded]
+    → |tomshardware.com##[data-bordeaux-hook-loaded]
+    → |whathifi.com##[data-bordeaux-hook-loaded]
 ✅ 多域名拆分: arrowheadpride.com,badlefthook.com,barcablaugranes.com,bavarianfootballworks.com,bleedinggreennation.com,bloggingtheboys.com,bloodyelbow.com,brightsideofthesun.com,cagesideseats.com,celticsblog.com,eater.com,goldenstateofmind.com,libertyballers.com,managingmadrid.com,mmafighting.com,mmamania.com,sbnation.com##[data-concert="desktop_leaderboard_variable"]
     → |arrowheadpride.com##[data-concert="desktop_leaderboard_variable"]
     → |badlefthook.com##[data-concert="desktop_leaderboard_variable"]
@@ -53361,11 +53367,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202610190816
+🚫 去掉注释行: ! Version: 202610191532
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 19 Oct 2026 08:16 UTC
+🚫 去掉注释行: ! Last modified: 19 Oct 2026 15:32 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 96748c794a263ca80da132095d545cbf71674247
+🚫 去掉注释行: ! Commit: de66c20960e7978a7cbb84f967cc7474d9fe1e7b
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -69749,10 +69755,10 @@
 🚫 去掉注释行: ! Issues: https://github.com/hagezi/dns-blocklists/issues
 🚫 去掉注释行: ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 🚫 去掉注释行: ! Expires: 8 hours
-🚫 去掉注释行: ! Last modified: 18 Oct 2026 08:53 UTC
-🚫 去掉注释行: ! Version: 2026.1018.0853.55
+🚫 去掉注释行: ! Last modified: 19 Oct 2026 08:59 UTC
+🚫 去掉注释行: ! Version: 2026.1019.0859.37
 🚫 去掉注释行: ! Syntax: AdBlock
-🚫 去掉注释行: ! Number of entries: 64140
+🚫 去掉注释行: ! Number of entries: 65249
 🚫 去掉注释行: !
 🚫 去掉注释行: !Title: anti-AD for AdGuard
 🚫 去掉注释行: !Version: 20261016212712173397476
@@ -69773,8 +69779,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL 3.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA 4.0
-🚫 去掉注释行: !Generated: 2026-10-19 14:48:20
-🚫 去掉注释行: !RuleCount: 839961
+🚫 去掉注释行: !Generated: 2026-10-19 22:18:06
+🚫 去掉注释行: !RuleCount: 840059
 ✅ HOSTS 转换: 127.0.0.1 123.ywxww.net → |123.ywxww.net^
 ✅ HOSTS 转换: 127.0.0.1 1717.1000uc.com → |1717.1000uc.com^
 ✅ HOSTS 转换: 127.0.0.1 198-macros.com → |198-macros.com^
@@ -69853,7 +69859,6 @@
 ✅ HOSTS 转换: 127.0.0.1 continentalgroup.net.in → |continentalgroup.net.in^
 ✅ HOSTS 转换: 127.0.0.1 coolairesgroup.com → |coolairesgroup.com^
 ✅ HOSTS 转换: 127.0.0.1 cpc188.day → |cpc188.day^
-✅ HOSTS 转换: 127.0.0.1 cpxlt.cn → |cpxlt.cn^
 ✅ HOSTS 转换: 127.0.0.1 crystalpvp.ru → |crystalpvp.ru^
 ✅ HOSTS 转换: 127.0.0.1 cs.go.kg → |cs.go.kg^
 ✅ HOSTS 转换: 127.0.0.1 d.14yaa.com → |d.14yaa.com^
@@ -69920,6 +69925,7 @@
 ✅ HOSTS 转换: 127.0.0.1 fullstacknir.com → |fullstacknir.com^
 ✅ HOSTS 转换: 127.0.0.1 funnymap.net → |funnymap.net^
 ✅ HOSTS 转换: 127.0.0.1 fz.tiansys.cn → |fz.tiansys.cn^
+✅ HOSTS 转换: 127.0.0.1 gabyagozetim.com → |gabyagozetim.com^
 ✅ HOSTS 转换: 127.0.0.1 galerisenimutiara.com → |galerisenimutiara.com^
 ✅ HOSTS 转换: 127.0.0.1 gboutros.howto.rocks → |gboutros.howto.rocks^
 ✅ HOSTS 转换: 127.0.0.1 geoxsecurity.ro → |geoxsecurity.ro^
@@ -69941,7 +69947,6 @@
 ✅ HOSTS 转换: 127.0.0.1 helpdesk09-26.com → |helpdesk09-26.com^
 ✅ HOSTS 转换: 127.0.0.1 hitman-pro.ru → |hitman-pro.ru^
 ✅ HOSTS 转换: 127.0.0.1 hitstation.nl → |hitstation.nl^
-✅ HOSTS 转换: 127.0.0.1 horno-rafelet.es → |horno-rafelet.es^
 ✅ HOSTS 转换: 127.0.0.1 hotelhungry.com → |hotelhungry.com^
 ✅ HOSTS 转换: 127.0.0.1 hseda.com → |hseda.com^
 ✅ HOSTS 转换: 127.0.0.1 htdentshop.com → |htdentshop.com^
@@ -69961,6 +69966,7 @@
 ✅ HOSTS 转换: 127.0.0.1 jenniferloeffler.com → |jenniferloeffler.com^
 ✅ HOSTS 转换: 127.0.0.1 jessespridecharters.com → |jessespridecharters.com^
 ✅ HOSTS 转换: 127.0.0.1 jlwz.cn → |jlwz.cn^
+✅ HOSTS 转换: 127.0.0.1 jumalputty.com → |jumalputty.com^
 ✅ HOSTS 转换: 127.0.0.1 kavacanada.ca → |kavacanada.ca^
 ✅ HOSTS 转换: 127.0.0.1 khavar.com → |khavar.com^
 ✅ HOSTS 转换: 127.0.0.1 kimyen.net → |kimyen.net^
@@ -69969,13 +69975,13 @@
 ✅ HOSTS 转换: 127.0.0.1 kryptonclient-cracked.com → |kryptonclient-cracked.com^
 ✅ HOSTS 转换: 127.0.0.1 landonirwin.com → |landonirwin.com^
 ✅ HOSTS 转换: 127.0.0.1 lawfirm.paperbirdtech.com → |lawfirm.paperbirdtech.com^
+✅ HOSTS 转换: 127.0.0.1 leafdraft18.com → |leafdraft18.com^
 ✅ HOSTS 转换: 127.0.0.1 lindnerelektroanlagen.de → |lindnerelektroanlagen.de^
 ✅ HOSTS 转换: 127.0.0.1 livinginpurpose.co.za → |livinginpurpose.co.za^
 ✅ HOSTS 转换: 127.0.0.1 local-update.com → |local-update.com^
 ✅ HOSTS 转换: 127.0.0.1 lomejordesalamanca.es → |lomejordesalamanca.es^
 ✅ HOSTS 转换: 127.0.0.1 londonairportstransfer.co.uk → |londonairportstransfer.co.uk^
 ✅ HOSTS 转换: 127.0.0.1 luizmatoso.com.br → |luizmatoso.com.br^
-✅ HOSTS 转换: 127.0.0.1 lumacrea.com → |lumacrea.com^
 ✅ HOSTS 转换: 127.0.0.1 luminexclient.com → |luminexclient.com^
 ✅ HOSTS 转换: 127.0.0.1 luminexclient.net → |luminexclient.net^
 ✅ HOSTS 转换: 127.0.0.1 luminouspower.com.pk → |luminouspower.com.pk^
@@ -70006,6 +70012,7 @@
 ✅ HOSTS 转换: 127.0.0.1 ncxps.com → |ncxps.com^
 ✅ HOSTS 转换: 127.0.0.1 nd.tdpqnf.com → |nd.tdpqnf.com^
 ✅ HOSTS 转换: 127.0.0.1 noithaticon.vn → |noithaticon.vn^
+✅ HOSTS 转换: 127.0.0.1 northernvirginiaeyeassociates.com → |northernvirginiaeyeassociates.com^
 ✅ HOSTS 转换: 127.0.0.1 nova-75.com → |nova-75.com^
 ✅ HOSTS 转换: 127.0.0.1 nova-client.com → |nova-client.com^
 ✅ HOSTS 转换: 127.0.0.1 obearo.com → |obearo.com^
@@ -70030,9 +70037,11 @@
 ✅ HOSTS 转换: 127.0.0.1 polinexclient.org → |polinexclient.org^
 ✅ HOSTS 转换: 127.0.0.1 porterneuman.mx → |porterneuman.mx^
 ✅ HOSTS 转换: 127.0.0.1 postelnini.mk → |postelnini.mk^
+✅ HOSTS 转换: 127.0.0.1 power-shell.cc → |power-shell.cc^
 ✅ HOSTS 转换: 127.0.0.1 prestigeclient.st → |prestigeclient.st^
 ✅ HOSTS 转换: 127.0.0.1 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev → |profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^
 ✅ HOSTS 转换: 127.0.0.1 project0.cc → |project0.cc^
+✅ HOSTS 转换: 127.0.0.1 ps-ps.cc → |ps-ps.cc^
 ✅ HOSTS 转换: 127.0.0.1 public.demo.securecloudsandbox.com → |public.demo.securecloudsandbox.com^
 ✅ HOSTS 转换: 127.0.0.1 pvsa.gxfugy.cn → |pvsa.gxfugy.cn^
 ✅ HOSTS 转换: 127.0.0.1 qiniuyunxz.yxflzs.com → |qiniuyunxz.yxflzs.com^
@@ -70054,6 +70063,7 @@
 ✅ HOSTS 转换: 127.0.0.1 riderspin.com → |riderspin.com^
 ✅ HOSTS 转换: 127.0.0.1 robertrowe.com → |robertrowe.com^
 ✅ HOSTS 转换: 127.0.0.1 royalindiancurryclub.com → |royalindiancurryclub.com^
+✅ HOSTS 转换: 127.0.0.1 runelight.net → |runelight.net^
 ✅ HOSTS 转换: 127.0.0.1 runelite.cc → |runelite.cc^
 ✅ HOSTS 转换: 127.0.0.1 safeifm.com → |safeifm.com^
 ✅ HOSTS 转换: 127.0.0.1 sales.ifree.page → |sales.ifree.page^
@@ -70092,7 +70102,6 @@
 ✅ HOSTS 转换: 127.0.0.1 sutterpoint.com → |sutterpoint.com^
 ✅ HOSTS 转换: 127.0.0.1 svirtual.sanviatorperu.edu.pe → |svirtual.sanviatorperu.edu.pe^
 ✅ HOSTS 转换: 127.0.0.1 swiftfusion.tech → |swiftfusion.tech^
-✅ HOSTS 转换: 127.0.0.1 talkandtypeapp.com → |talkandtypeapp.com^
 ✅ HOSTS 转换: 127.0.0.1 tangentwaves.com → |tangentwaves.com^
 ✅ HOSTS 转换: 127.0.0.1 tanscarattorneys.co.tz → |tanscarattorneys.co.tz^
 ✅ HOSTS 转换: 127.0.0.1 tapestryoftruth.com → |tapestryoftruth.com^
@@ -70125,6 +70134,7 @@
 ✅ HOSTS 转换: 127.0.0.1 uu.v2raynapps.com.cn → |uu.v2raynapps.com.cn^
 ✅ HOSTS 转换: 127.0.0.1 veryboys.com → |veryboys.com^
 ✅ HOSTS 转换: 127.0.0.1 viewgit.sbs → |viewgit.sbs^
+✅ HOSTS 转换: 127.0.0.1 vine-linen.com → |vine-linen.com^
 ✅ HOSTS 转换: 127.0.0.1 visam.info → |visam.info^
 ✅ HOSTS 转换: 127.0.0.1 vizyonuniversitesi.com.tr → |vizyonuniversitesi.com.tr^
 ✅ HOSTS 转换: 127.0.0.1 vizyonuniversitesi.web.tr → |vizyonuniversitesi.web.tr^
@@ -70192,11 +70202,11 @@
 ✅ HOSTS 转换: 127.0.0.1 xn--yh4bx88a.com → |xn--yh4bx88a.com^
 ✅ HOSTS 转换: 127.0.0.1 xshop.com.tr → |xshop.com.tr^
 ✅ HOSTS 转换: 127.0.0.1 yakult-hk.com → |yakult-hk.com^
-✅ HOSTS 转换: 127.0.0.1 yokobd.com → |yokobd.com^
 ✅ HOSTS 转换: 127.0.0.1 youtransfer.net → |youtransfer.net^
 ✅ HOSTS 转换: 127.0.0.1 zamatours.net → |zamatours.net^
 ✅ HOSTS 转换: 127.0.0.1 zamilgroups.com → |zamilgroups.com^
 ✅ HOSTS 转换: 127.0.0.1 zhigao5191.com → |zhigao5191.com^
+✅ HOSTS 转换: 127.0.0.1 zimzar.site → |zimzar.site^
 ✅ HOSTS 转换: 127.0.0.1 zycdjz.com → |zycdjz.com^
 ✅ HOSTS 转换: 127.0.0.1 0ce3c-1fd43.api.pushwoosh.com → |0ce3c-1fd43.api.pushwoosh.com^
 ✅ HOSTS 转换: 127.0.0.1 100016075.collect.igodigital.com → |100016075.collect.igodigital.com^
@@ -152515,15 +152525,15 @@
 🚫 去掉注释行: ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 🚫 去掉注释行: ! Homepage: https://github.com/217heidai/adblockfilters
 🚫 去掉注释行: ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-🚫 去掉注释行: ! Version: 20261019120519
-🚫 去掉注释行: ! Last modified: 2026/10/19 12:05:19
-🚫 去掉注释行: ! Blocked domains: 8088
-🚫 去掉注释行: ! unBlocked domains: 15
+🚫 去掉注释行: ! Version: 20261019232507
+🚫 去掉注释行: ! Last modified: 2026/10/19 23:25:07
+🚫 去掉注释行: ! Blocked domains: 7909
+🚫 去掉注释行: ! unBlocked domains: 16
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: 8VgsZ6bxOdjKqdSAJuNzSw
-🚫 去掉注释行: ! Version: 202610190800
+🚫 去掉注释行: ! Checksum: vtsIdluK2MKgo/ktjAZD4Q
+🚫 去掉注释行: ! Version: 202610191425
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-10-19 08:00 UTC
+🚫 去掉注释行: ! Last modified: 2026-10-19 14:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -186964,9 +186974,10 @@
 ✅ 多域名拆分: keralanotes.com,rockmods.net##.cookies-show
     → |keralanotes.com##.cookies-show
     → |rockmods.net##.cookies-show
-✅ 多域名拆分: freesmsgateway.com,germanospalhasitalianas.com.br,shop.rgnywine.com,ucoin.net##.cookies-warning
+✅ 多域名拆分: freesmsgateway.com,germanospalhasitalianas.com.br,otokrypto.pl,shop.rgnywine.com,ucoin.net##.cookies-warning
     → |freesmsgateway.com##.cookies-warning
     → |germanospalhasitalianas.com.br##.cookies-warning
+    → |otokrypto.pl##.cookies-warning
     → |shop.rgnywine.com##.cookies-warning
     → |ucoin.net##.cookies-warning
 ✅ 多域名拆分: billups.com,eupersonalfinance.eu##.cookies_component
@@ -186989,6 +187000,9 @@
     → |hockeystack.com##.cw-cookies
     → |sogni.ai##.cw-cookies
     → |thesignalgroup.com##.cw-cookies
+✅ 多域名拆分: help.pcloud.com,my.pcloud.com##.data-consent-animation-container
+    → |help.pcloud.com##.data-consent-animation-container
+    → |my.pcloud.com##.data-consent-animation-container
 ✅ 多域名拆分: glamourdresser.com,lightlife.com,liquid.tech,segpay.com##.dialog-message
     → |glamourdresser.com##.dialog-message
     → |lightlife.com##.dialog-message
@@ -188175,11 +188189,12 @@
     → |wsg-fussball.at###cookieNotice
     → |zabilo.com###cookieNotice
 🚫 去掉注释行: !! #notice-cookie-block
-✅ 多域名拆分: aescripts.com,all4running.nl,apteekkisydan.fi,chillyhilversum.be,electroworld.nl,hakkousa.com,laurenbjewelry.com,lempiapteekki.fi,lpscreen.com,mossberg.com,strandbooks.com,verkkoapteekit.fi###notice-cookie-block
+✅ 多域名拆分: aescripts.com,all4running.nl,apteekkisydan.fi,chillyhilversum.be,e-horyzont.pl,electroworld.nl,hakkousa.com,laurenbjewelry.com,lempiapteekki.fi,lpscreen.com,mossberg.com,strandbooks.com,verkkoapteekit.fi###notice-cookie-block
     → |aescripts.com###notice-cookie-block
     → |all4running.nl###notice-cookie-block
     → |apteekkisydan.fi###notice-cookie-block
     → |chillyhilversum.be###notice-cookie-block
+    → |e-horyzont.pl###notice-cookie-block
     → |electroworld.nl###notice-cookie-block
     → |hakkousa.com###notice-cookie-block
     → |laurenbjewelry.com###notice-cookie-block
@@ -188904,7 +188919,7 @@
     → |tv8.com.tr###cookie-policy
     → |ucla.edu###cookie-policy
 🚫 去掉注释行: !! .cookie-permission-container
-✅ 多域名拆分: 11teamsports.com,agrar-fachversand.com,akkuline.de,alorelia.de,altabadialat.it,ausserhofer.bz,ballaro.eu,barax.de,bellaffair.de,biere-aus-franken.de,bieronlineshop.ch,bonsai-auer.com,bzheartbeat.it,coding4kids.it,consoles4you.ch,doriskaradar.com,e-biker.de,ebike24.com,ecomove.cc,europa-shop-apotheke.de,fleurop.nl,folioverlag.com,global-messer.shop,glutenfrei-bier.com,hanako-koi.de,interaquaristik.de,kdshop.it,koi-company.de,koifuttershop.de,korodrogerie.de,leguano.eu,max-hamster.de,miavitas.com,mountainshop.online,muehldorfer.com,pharmasana.de,pircher24.it,prantner.it,preisteufel.at,rudi-delago.com,schildkroet.de,sportsonline.ch,svsound.de,swords-and-more.com,thermal-grizzly.com,tieroase-lorsch.de,trauttmansdorff.it,tropical-deutschland.de,vinumpetri.com,viologic.com,wbv.de,webshop.asus.com,xn--schildkrt-sport-gtb.com##.cookie-permission-container
+✅ 多域名拆分: 11teamsports.com,agrar-fachversand.com,akkuline.de,alorelia.de,altabadialat.it,ausserhofer.bz,ballaro.eu,barax.de,bellaffair.de,biere-aus-franken.de,bieronlineshop.ch,bonsai-auer.com,bzheartbeat.it,coding4kids.it,consoles4you.ch,cosmeticexpress.com,doriskaradar.com,e-biker.de,ebike24.com,ecomove.cc,europa-shop-apotheke.de,fleurop.nl,folioverlag.com,global-messer.shop,glutenfrei-bier.com,hanako-koi.de,interaquaristik.de,kdshop.it,koi-company.de,koifuttershop.de,korodrogerie.de,leguano.eu,max-hamster.de,miavitas.com,mountainshop.online,muehldorfer.com,pharmasana.de,pircher24.it,prantner.it,preisteufel.at,rudi-delago.com,schildkroet.de,sportsonline.ch,svsound.de,swords-and-more.com,thermal-grizzly.com,tieroase-lorsch.de,trauttmansdorff.it,tropical-deutschland.de,vinumpetri.com,viologic.com,wbv.de,webshop.asus.com,xn--schildkrt-sport-gtb.com##.cookie-permission-container
     → |11teamsports.com##.cookie-permission-container
     → |agrar-fachversand.com##.cookie-permission-container
     → |akkuline.de##.cookie-permission-container
@@ -188920,6 +188935,7 @@
     → |bzheartbeat.it##.cookie-permission-container
     → |coding4kids.it##.cookie-permission-container
     → |consoles4you.ch##.cookie-permission-container
+    → |cosmeticexpress.com##.cookie-permission-container
     → |doriskaradar.com##.cookie-permission-container
     → |e-biker.de##.cookie-permission-container
     → |ebike24.com##.cookie-permission-container
@@ -189109,9 +189125,10 @@
     → |rotenberg1929.co.il##.cookie-consent-container
     → |underthehammer.com##.cookie-consent-container
 🚫 去掉注释行: !! #cookie-overlay
-✅ 多域名拆分: designbycreative.co.uk,gateshead.gov.uk,lagerkoning.nl,mezzabarba.com,parks.org.il###cookie-overlay
+✅ 多域名拆分: designbycreative.co.uk,gateshead.gov.uk,isitpatched.com,lagerkoning.nl,mezzabarba.com,parks.org.il###cookie-overlay
     → |designbycreative.co.uk###cookie-overlay
     → |gateshead.gov.uk###cookie-overlay
+    → |isitpatched.com###cookie-overlay
     → |lagerkoning.nl###cookie-overlay
     → |mezzabarba.com###cookie-overlay
     → |parks.org.il###cookie-overlay
@@ -190610,7 +190627,7 @@
     → |talon.by##.cookie-panel
     → |timeweb.com##.cookie-panel
 🚫 去掉注释行: !! .cookie-bar
-✅ 多域名拆分: amateurtvx.com,ansell.com.cn,bakkersonline.be,bierlinie-shop.de,bootstrapmade.com,bulupoint.de,bushido-shop.com,campusfesztival.hu,dadcrush.com,debenhamsottaway.co.uk,devonalds.co.uk,domgate.com,e-kiosk.pl,egazety.pl,epochtimes.kr,f6s.com,familystrokes.com,gonser.ch,inovamar.pt,kb.cz,kirkusreviews.com,manilatimes.net,mastername.ru,meuhedet.co.il,milftvx.com,mylf.com,nocibe.fr,nordicpond.shop,pervmom.com,pervz.com,proex2000.cz,schuhparadiso.de,sextvx.com,shoplyfter.com,siamsport.co.th,smartocto.com,swappz.com,teamskeet.com,teentvx.com,thenationalherald.com,titstvx.com,triodos.co.uk,um.suwalki.pl,umbler.com,wohntextilien4you.de,zerounoweb.it##.cookie-bar
+✅ 多域名拆分: amateurtvx.com,ansell.com.cn,bakkersonline.be,bierlinie-shop.de,bootstrapmade.com,bulupoint.de,bushido-shop.com,campusfesztival.hu,dadcrush.com,debenhamsottaway.co.uk,devonalds.co.uk,domgate.com,e-kiosk.pl,egazety.pl,epochtimes.kr,f6s.com,familystrokes.com,gonser.ch,inovamar.pt,kb.cz,kirkusreviews.com,manilatimes.net,mastername.ru,meuhedet.co.il,milftvx.com,mylf.com,nocibe.fr,nordicpond.shop,pervmom.com,pervz.com,proex2000.cz,schuhparadiso.de,sextvx.com,shoplyfter.com,siamsport.co.th,smartocto.com,swappz.com,teamskeet.com,teentvx.com,thenationalherald.com,titstvx.com,triodos.co.uk,tuning-art.com,um.suwalki.pl,umbler.com,wohntextilien4you.de,zerounoweb.it##.cookie-bar
     → |amateurtvx.com##.cookie-bar
     → |ansell.com.cn##.cookie-bar
     → |bakkersonline.be##.cookie-bar
@@ -190653,6 +190670,7 @@
     → |thenationalherald.com##.cookie-bar
     → |titstvx.com##.cookie-bar
     → |triodos.co.uk##.cookie-bar
+    → |tuning-art.com##.cookie-bar
     → |um.suwalki.pl##.cookie-bar
     → |umbler.com##.cookie-bar
     → |wohntextilien4you.de##.cookie-bar
@@ -194878,7 +194896,7 @@
     → |records.team##.sqs-announcement-bar
     → |stoeger.net##.sqs-announcement-bar
 🚫 去掉注释行: !! #klaro / .klaro
-✅ 多域名拆分: 040.se,40gold.de,allseasonsuniforms.com,araba.eus,austrianwings.info,barmherzige-brueder.at,belfortinternational.be,berghotel-sudelfeld.de,book-n-drive.de,bsvs.at,buecher.de,cd-cc.si,cgiar.org,childrenshospital.org,christ-sucht-christ.de,comet-cine-center.de,deskmodder.de,dnca-investments.com,druck-pirmasens.de,dundee.ac.uk,duracell.co.uk,duracell.com.au,duracell.de,duracell.dk,duracell.es,duracell.fr,duracell.it,duracell.nl,duracell.pl,dv.is,eden-seefeld.at,elte.hu,enercoop.fr,erzdioezese-wien.at,escholarship.org,estudiografenno.com.br,eukanuba.eu,evemaps.dotlan.net,flooring.regupol.de,gipuzkoa.eus,handicap-love.de,hechingen.zollernalb-kinos.de,honest-rare.de,hotelaster.com,htgf.de,husqvarna-events.com,iucn.org,kathpress.at,kaufbei.de,kinopalast-neuburg.de,kirchenzeitung.at,klaro.org,klu.org,kth.se,kubi-online.de,kug.ac.at,lex24.at,lfvbz.it,linz.at,lumos-kino-nidda.de,mansuetoqueseria.com,martinus.at,mateco-chile.cl,mateco.de,mateco.eu,mateco.lu,mateco.mx,mateco.pa,mateco.pl,mewo-mm.de,mischgastauchen.de,mises.org,muehlhausen.filmpalast.de,muesliswap.com,nunido.de,oelwechsel-muenchen.de,osteopathiepraxis-hamburg.de,palettecad.it,papier-mettler.com,pasts.lv,petermachtpause.de,phv.si,pitt.edu,pohjanmaan.fi,politepaul.com,pqacademy.com,publicidadconcursal.es,radldiscount.de,rebreather-ccr.de,redaktionsbuero-niemuth.de,reviderm.com,roman-graf.ch,saldus.lv,salesviewer.com,salk.at,schachermayer.at,schrack-seconet.com,sid.si,sklepopon.com,suedtirol.com,supplementa.com,tarif4you.de,tauchen-richtig-lernen.de,trendingtopics.eu,triaswestland.nl,trimix-tauchen.de,ucanr.edu,uiowa.edu,ujaen.es,uni-frankfurt.de,unicef.org,unlv.edu,upperaustria.at,valzner-weiher.de,veranojoven.transportes.gob.es,volksmusik-notenshop.de,volksmusiknoten.de,westerhofcafe-im-stielerhaus.de,xunta.gal,youkando.it###klaro
+✅ 多域名拆分: 040.se,40gold.de,allseasonsuniforms.com,araba.eus,austrianwings.info,barmherzige-brueder.at,belfortinternational.be,berghotel-sudelfeld.de,book-n-drive.de,bsvs.at,buecher.de,cd-cc.si,cgiar.org,childrenshospital.org,christ-sucht-christ.de,comet-cine-center.de,crystl.dev,deskmodder.de,dnca-investments.com,druck-pirmasens.de,dundee.ac.uk,duracell.co.uk,duracell.com.au,duracell.de,duracell.dk,duracell.es,duracell.fr,duracell.it,duracell.nl,duracell.pl,dv.is,eden-seefeld.at,elte.hu,enercoop.fr,erzdioezese-wien.at,escholarship.org,estudiografenno.com.br,eukanuba.eu,evemaps.dotlan.net,flooring.regupol.de,gipuzkoa.eus,handicap-love.de,hechingen.zollernalb-kinos.de,honest-rare.de,hotelaster.com,htgf.de,husqvarna-events.com,iucn.org,kathpress.at,kaufbei.de,kinopalast-neuburg.de,kirchenzeitung.at,klaro.org,klu.org,kth.se,kubi-online.de,kug.ac.at,lex24.at,lfvbz.it,linz.at,lumos-kino-nidda.de,mansuetoqueseria.com,martinus.at,mateco-chile.cl,mateco.de,mateco.eu,mateco.lu,mateco.mx,mateco.pa,mateco.pl,mewo-mm.de,mischgastauchen.de,mises.org,muehlhausen.filmpalast.de,muesliswap.com,nunido.de,oelwechsel-muenchen.de,osteopathiepraxis-hamburg.de,palettecad.it,papier-mettler.com,pasts.lv,petermachtpause.de,phv.si,pitt.edu,pohjanmaan.fi,politepaul.com,pqacademy.com,publicidadconcursal.es,radldiscount.de,rebreather-ccr.de,redaktionsbuero-niemuth.de,reviderm.com,roman-graf.ch,saldus.lv,salesviewer.com,salk.at,schachermayer.at,schrack-seconet.com,sid.si,sklepopon.com,suedtirol.com,supplementa.com,tarif4you.de,tauchen-richtig-lernen.de,trendingtopics.eu,triaswestland.nl,trimix-tauchen.de,ucanr.edu,uiowa.edu,ujaen.es,uni-frankfurt.de,unicef.org,unlv.edu,upperaustria.at,valzner-weiher.de,veranojoven.transportes.gob.es,volksmusik-notenshop.de,volksmusiknoten.de,westerhofcafe-im-stielerhaus.de,xunta.gal,youkando.it###klaro
     → |040.se###klaro
     → |40gold.de###klaro
     → |allseasonsuniforms.com###klaro
@@ -194895,6 +194913,7 @@
     → |childrenshospital.org###klaro
     → |christ-sucht-christ.de###klaro
     → |comet-cine-center.de###klaro
+    → |crystl.dev###klaro
     → |deskmodder.de###klaro
     → |dnca-investments.com###klaro
     → |druck-pirmasens.de###klaro
@@ -197009,10 +197028,11 @@
     → |sellpy.nl##.gUbXEK
     → |sellpy.se##.gUbXEK
 🚫 去掉注释行: !! .cm-overlay
-✅ 多域名拆分: agora.pl,blik.com,landkreis-mittelsachsen.de,viennapte.pl##.cm-overlay
+✅ 多域名拆分: agora.pl,blik.com,landkreis-mittelsachsen.de,modivoplatform.com,viennapte.pl##.cm-overlay
     → |agora.pl##.cm-overlay
     → |blik.com##.cm-overlay
     → |landkreis-mittelsachsen.de##.cm-overlay
+    → |modivoplatform.com##.cm-overlay
     → |viennapte.pl##.cm-overlay
 🚫 去掉注释行: ! .z-50
 ✅ 多域名拆分: bairesdev.com,bootstrap.academy,doppelherz.com,energydashboard.co.uk,freelway.com,help.adjust.com,livecounts.io,natron.energy,new.adotat.com,perspectives.plus##.z-50
@@ -212680,11 +212700,12 @@
 ✅ 多域名拆分: amazingfoodmadeeasy.com,businesstimes.com.sg###signup-wrapper
     → |amazingfoodmadeeasy.com###signup-wrapper
     → |businesstimes.com.sg###signup-wrapper
-✅ 多域名拆分: gamesradar.com,guitarworld.com,pcgamer.com,techradar.com,windowscentral.com###signupForm
+✅ 多域名拆分: gamesradar.com,guitarworld.com,pcgamer.com,techradar.com,tomshardware.com,windowscentral.com###signupForm
     → |gamesradar.com###signupForm
     → |guitarworld.com###signupForm
     → |pcgamer.com###signupForm
     → |techradar.com###signupForm
+    → |tomshardware.com###signupForm
     → |windowscentral.com###signupForm
 ✅ 多域名拆分: groupon.co.uk,groupon.ie,livingsocial.com###spotlight
     → |groupon.co.uk###spotlight
@@ -214054,7 +214075,8 @@
 ✅ 多域名拆分: ccjdigital.com,equipmentworld.com##.site-newsletter-menu
     → |ccjdigital.com##.site-newsletter-menu
     → |equipmentworld.com##.site-newsletter-menu
-✅ 多域名拆分: gamesradar.com,tomsguide.com##.slice-container-newsletterForm
+✅ 多域名拆分: androidcentral.com,gamesradar.com,tomsguide.com##.slice-container-newsletterForm
+    → |androidcentral.com##.slice-container-newsletterForm
     → |gamesradar.com##.slice-container-newsletterForm
     → |tomsguide.com##.slice-container-newsletterForm
 ✅ 多域名拆分: cookiesfordays.com,cookthestory.com,downshiftology.com,girlgonegourmet.com,halfbakedharvest.com,healthyrecipesblogs.com,itdoesnttastelikechicken.com,momontimeout.com,momsdish.com,mygorgeousrecipes.com,myquietkitchen.com,preppykitchen.com,spendwithpennies.com,theflavorbender.com,toriavey.com##.slick-on-page
@@ -219647,9 +219669,9 @@
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: !---------------------------------Allowlists----------------------------------!
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: pw+7GoR8/++HyWFcuWZhSA
+🚫 去掉注释行: ! Checksum: DTC4OZTWfbLC+kdWJxEcXg
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Last modified: 2026-10-19 08:00 UTC
+🚫 去掉注释行: ! Last modified: 2026-10-19 13:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
@@ -236108,9 +236130,10 @@
 ✅ 多域名拆分: keralanotes.com,rockmods.net##.cookies-show
     → |keralanotes.com##.cookies-show
     → |rockmods.net##.cookies-show
-✅ 多域名拆分: freesmsgateway.com,germanospalhasitalianas.com.br,shop.rgnywine.com,ucoin.net##.cookies-warning
+✅ 多域名拆分: freesmsgateway.com,germanospalhasitalianas.com.br,otokrypto.pl,shop.rgnywine.com,ucoin.net##.cookies-warning
     → |freesmsgateway.com##.cookies-warning
     → |germanospalhasitalianas.com.br##.cookies-warning
+    → |otokrypto.pl##.cookies-warning
     → |shop.rgnywine.com##.cookies-warning
     → |ucoin.net##.cookies-warning
 ✅ 多域名拆分: billups.com,eupersonalfinance.eu##.cookies_component
@@ -236133,6 +236156,9 @@
     → |hockeystack.com##.cw-cookies
     → |sogni.ai##.cw-cookies
     → |thesignalgroup.com##.cw-cookies
+✅ 多域名拆分: help.pcloud.com,my.pcloud.com##.data-consent-animation-container
+    → |help.pcloud.com##.data-consent-animation-container
+    → |my.pcloud.com##.data-consent-animation-container
 ✅ 多域名拆分: glamourdresser.com,lightlife.com,liquid.tech,segpay.com##.dialog-message
     → |glamourdresser.com##.dialog-message
     → |lightlife.com##.dialog-message
@@ -237319,11 +237345,12 @@
     → |wsg-fussball.at###cookieNotice
     → |zabilo.com###cookieNotice
 🚫 去掉注释行: !! #notice-cookie-block
-✅ 多域名拆分: aescripts.com,all4running.nl,apteekkisydan.fi,chillyhilversum.be,electroworld.nl,hakkousa.com,laurenbjewelry.com,lempiapteekki.fi,lpscreen.com,mossberg.com,strandbooks.com,verkkoapteekit.fi###notice-cookie-block
+✅ 多域名拆分: aescripts.com,all4running.nl,apteekkisydan.fi,chillyhilversum.be,e-horyzont.pl,electroworld.nl,hakkousa.com,laurenbjewelry.com,lempiapteekki.fi,lpscreen.com,mossberg.com,strandbooks.com,verkkoapteekit.fi###notice-cookie-block
     → |aescripts.com###notice-cookie-block
     → |all4running.nl###notice-cookie-block
     → |apteekkisydan.fi###notice-cookie-block
     → |chillyhilversum.be###notice-cookie-block
+    → |e-horyzont.pl###notice-cookie-block
     → |electroworld.nl###notice-cookie-block
     → |hakkousa.com###notice-cookie-block
     → |laurenbjewelry.com###notice-cookie-block
@@ -238048,7 +238075,7 @@
     → |tv8.com.tr###cookie-policy
     → |ucla.edu###cookie-policy
 🚫 去掉注释行: !! .cookie-permission-container
-✅ 多域名拆分: 11teamsports.com,agrar-fachversand.com,akkuline.de,alorelia.de,altabadialat.it,ausserhofer.bz,ballaro.eu,barax.de,bellaffair.de,biere-aus-franken.de,bieronlineshop.ch,bonsai-auer.com,bzheartbeat.it,coding4kids.it,consoles4you.ch,doriskaradar.com,e-biker.de,ebike24.com,ecomove.cc,europa-shop-apotheke.de,fleurop.nl,folioverlag.com,global-messer.shop,glutenfrei-bier.com,hanako-koi.de,interaquaristik.de,kdshop.it,koi-company.de,koifuttershop.de,korodrogerie.de,leguano.eu,max-hamster.de,miavitas.com,mountainshop.online,muehldorfer.com,pharmasana.de,pircher24.it,prantner.it,preisteufel.at,rudi-delago.com,schildkroet.de,sportsonline.ch,svsound.de,swords-and-more.com,thermal-grizzly.com,tieroase-lorsch.de,trauttmansdorff.it,tropical-deutschland.de,vinumpetri.com,viologic.com,wbv.de,webshop.asus.com,xn--schildkrt-sport-gtb.com##.cookie-permission-container
+✅ 多域名拆分: 11teamsports.com,agrar-fachversand.com,akkuline.de,alorelia.de,altabadialat.it,ausserhofer.bz,ballaro.eu,barax.de,bellaffair.de,biere-aus-franken.de,bieronlineshop.ch,bonsai-auer.com,bzheartbeat.it,coding4kids.it,consoles4you.ch,cosmeticexpress.com,doriskaradar.com,e-biker.de,ebike24.com,ecomove.cc,europa-shop-apotheke.de,fleurop.nl,folioverlag.com,global-messer.shop,glutenfrei-bier.com,hanako-koi.de,interaquaristik.de,kdshop.it,koi-company.de,koifuttershop.de,korodrogerie.de,leguano.eu,max-hamster.de,miavitas.com,mountainshop.online,muehldorfer.com,pharmasana.de,pircher24.it,prantner.it,preisteufel.at,rudi-delago.com,schildkroet.de,sportsonline.ch,svsound.de,swords-and-more.com,thermal-grizzly.com,tieroase-lorsch.de,trauttmansdorff.it,tropical-deutschland.de,vinumpetri.com,viologic.com,wbv.de,webshop.asus.com,xn--schildkrt-sport-gtb.com##.cookie-permission-container
     → |11teamsports.com##.cookie-permission-container
     → |agrar-fachversand.com##.cookie-permission-container
     → |akkuline.de##.cookie-permission-container
@@ -238064,6 +238091,7 @@
     → |bzheartbeat.it##.cookie-permission-container
     → |coding4kids.it##.cookie-permission-container
     → |consoles4you.ch##.cookie-permission-container
+    → |cosmeticexpress.com##.cookie-permission-container
     → |doriskaradar.com##.cookie-permission-container
     → |e-biker.de##.cookie-permission-container
     → |ebike24.com##.cookie-permission-container
@@ -238253,9 +238281,10 @@
     → |rotenberg1929.co.il##.cookie-consent-container
     → |underthehammer.com##.cookie-consent-container
 🚫 去掉注释行: !! #cookie-overlay
-✅ 多域名拆分: designbycreative.co.uk,gateshead.gov.uk,lagerkoning.nl,mezzabarba.com,parks.org.il###cookie-overlay
+✅ 多域名拆分: designbycreative.co.uk,gateshead.gov.uk,isitpatched.com,lagerkoning.nl,mezzabarba.com,parks.org.il###cookie-overlay
     → |designbycreative.co.uk###cookie-overlay
     → |gateshead.gov.uk###cookie-overlay
+    → |isitpatched.com###cookie-overlay
     → |lagerkoning.nl###cookie-overlay
     → |mezzabarba.com###cookie-overlay
     → |parks.org.il###cookie-overlay
@@ -239754,7 +239783,7 @@
     → |talon.by##.cookie-panel
     → |timeweb.com##.cookie-panel
 🚫 去掉注释行: !! .cookie-bar
-✅ 多域名拆分: amateurtvx.com,ansell.com.cn,bakkersonline.be,bierlinie-shop.de,bootstrapmade.com,bulupoint.de,bushido-shop.com,campusfesztival.hu,dadcrush.com,debenhamsottaway.co.uk,devonalds.co.uk,domgate.com,e-kiosk.pl,egazety.pl,epochtimes.kr,f6s.com,familystrokes.com,gonser.ch,inovamar.pt,kb.cz,kirkusreviews.com,manilatimes.net,mastername.ru,meuhedet.co.il,milftvx.com,mylf.com,nocibe.fr,nordicpond.shop,pervmom.com,pervz.com,proex2000.cz,schuhparadiso.de,sextvx.com,shoplyfter.com,siamsport.co.th,smartocto.com,swappz.com,teamskeet.com,teentvx.com,thenationalherald.com,titstvx.com,triodos.co.uk,um.suwalki.pl,umbler.com,wohntextilien4you.de,zerounoweb.it##.cookie-bar
+✅ 多域名拆分: amateurtvx.com,ansell.com.cn,bakkersonline.be,bierlinie-shop.de,bootstrapmade.com,bulupoint.de,bushido-shop.com,campusfesztival.hu,dadcrush.com,debenhamsottaway.co.uk,devonalds.co.uk,domgate.com,e-kiosk.pl,egazety.pl,epochtimes.kr,f6s.com,familystrokes.com,gonser.ch,inovamar.pt,kb.cz,kirkusreviews.com,manilatimes.net,mastername.ru,meuhedet.co.il,milftvx.com,mylf.com,nocibe.fr,nordicpond.shop,pervmom.com,pervz.com,proex2000.cz,schuhparadiso.de,sextvx.com,shoplyfter.com,siamsport.co.th,smartocto.com,swappz.com,teamskeet.com,teentvx.com,thenationalherald.com,titstvx.com,triodos.co.uk,tuning-art.com,um.suwalki.pl,umbler.com,wohntextilien4you.de,zerounoweb.it##.cookie-bar
     → |amateurtvx.com##.cookie-bar
     → |ansell.com.cn##.cookie-bar
     → |bakkersonline.be##.cookie-bar
@@ -239797,6 +239826,7 @@
     → |thenationalherald.com##.cookie-bar
     → |titstvx.com##.cookie-bar
     → |triodos.co.uk##.cookie-bar
+    → |tuning-art.com##.cookie-bar
     → |um.suwalki.pl##.cookie-bar
     → |umbler.com##.cookie-bar
     → |wohntextilien4you.de##.cookie-bar
@@ -244022,7 +244052,7 @@
     → |records.team##.sqs-announcement-bar
     → |stoeger.net##.sqs-announcement-bar
 🚫 去掉注释行: !! #klaro / .klaro
-✅ 多域名拆分: 040.se,40gold.de,allseasonsuniforms.com,araba.eus,austrianwings.info,barmherzige-brueder.at,belfortinternational.be,berghotel-sudelfeld.de,book-n-drive.de,bsvs.at,buecher.de,cd-cc.si,cgiar.org,childrenshospital.org,christ-sucht-christ.de,comet-cine-center.de,deskmodder.de,dnca-investments.com,druck-pirmasens.de,dundee.ac.uk,duracell.co.uk,duracell.com.au,duracell.de,duracell.dk,duracell.es,duracell.fr,duracell.it,duracell.nl,duracell.pl,dv.is,eden-seefeld.at,elte.hu,enercoop.fr,erzdioezese-wien.at,escholarship.org,estudiografenno.com.br,eukanuba.eu,evemaps.dotlan.net,flooring.regupol.de,gipuzkoa.eus,handicap-love.de,hechingen.zollernalb-kinos.de,honest-rare.de,hotelaster.com,htgf.de,husqvarna-events.com,iucn.org,kathpress.at,kaufbei.de,kinopalast-neuburg.de,kirchenzeitung.at,klaro.org,klu.org,kth.se,kubi-online.de,kug.ac.at,lex24.at,lfvbz.it,linz.at,lumos-kino-nidda.de,mansuetoqueseria.com,martinus.at,mateco-chile.cl,mateco.de,mateco.eu,mateco.lu,mateco.mx,mateco.pa,mateco.pl,mewo-mm.de,mischgastauchen.de,mises.org,muehlhausen.filmpalast.de,muesliswap.com,nunido.de,oelwechsel-muenchen.de,osteopathiepraxis-hamburg.de,palettecad.it,papier-mettler.com,pasts.lv,petermachtpause.de,phv.si,pitt.edu,pohjanmaan.fi,politepaul.com,pqacademy.com,publicidadconcursal.es,radldiscount.de,rebreather-ccr.de,redaktionsbuero-niemuth.de,reviderm.com,roman-graf.ch,saldus.lv,salesviewer.com,salk.at,schachermayer.at,schrack-seconet.com,sid.si,sklepopon.com,suedtirol.com,supplementa.com,tarif4you.de,tauchen-richtig-lernen.de,trendingtopics.eu,triaswestland.nl,trimix-tauchen.de,ucanr.edu,uiowa.edu,ujaen.es,uni-frankfurt.de,unicef.org,unlv.edu,upperaustria.at,valzner-weiher.de,veranojoven.transportes.gob.es,volksmusik-notenshop.de,volksmusiknoten.de,westerhofcafe-im-stielerhaus.de,xunta.gal,youkando.it###klaro
+✅ 多域名拆分: 040.se,40gold.de,allseasonsuniforms.com,araba.eus,austrianwings.info,barmherzige-brueder.at,belfortinternational.be,berghotel-sudelfeld.de,book-n-drive.de,bsvs.at,buecher.de,cd-cc.si,cgiar.org,childrenshospital.org,christ-sucht-christ.de,comet-cine-center.de,crystl.dev,deskmodder.de,dnca-investments.com,druck-pirmasens.de,dundee.ac.uk,duracell.co.uk,duracell.com.au,duracell.de,duracell.dk,duracell.es,duracell.fr,duracell.it,duracell.nl,duracell.pl,dv.is,eden-seefeld.at,elte.hu,enercoop.fr,erzdioezese-wien.at,escholarship.org,estudiografenno.com.br,eukanuba.eu,evemaps.dotlan.net,flooring.regupol.de,gipuzkoa.eus,handicap-love.de,hechingen.zollernalb-kinos.de,honest-rare.de,hotelaster.com,htgf.de,husqvarna-events.com,iucn.org,kathpress.at,kaufbei.de,kinopalast-neuburg.de,kirchenzeitung.at,klaro.org,klu.org,kth.se,kubi-online.de,kug.ac.at,lex24.at,lfvbz.it,linz.at,lumos-kino-nidda.de,mansuetoqueseria.com,martinus.at,mateco-chile.cl,mateco.de,mateco.eu,mateco.lu,mateco.mx,mateco.pa,mateco.pl,mewo-mm.de,mischgastauchen.de,mises.org,muehlhausen.filmpalast.de,muesliswap.com,nunido.de,oelwechsel-muenchen.de,osteopathiepraxis-hamburg.de,palettecad.it,papier-mettler.com,pasts.lv,petermachtpause.de,phv.si,pitt.edu,pohjanmaan.fi,politepaul.com,pqacademy.com,publicidadconcursal.es,radldiscount.de,rebreather-ccr.de,redaktionsbuero-niemuth.de,reviderm.com,roman-graf.ch,saldus.lv,salesviewer.com,salk.at,schachermayer.at,schrack-seconet.com,sid.si,sklepopon.com,suedtirol.com,supplementa.com,tarif4you.de,tauchen-richtig-lernen.de,trendingtopics.eu,triaswestland.nl,trimix-tauchen.de,ucanr.edu,uiowa.edu,ujaen.es,uni-frankfurt.de,unicef.org,unlv.edu,upperaustria.at,valzner-weiher.de,veranojoven.transportes.gob.es,volksmusik-notenshop.de,volksmusiknoten.de,westerhofcafe-im-stielerhaus.de,xunta.gal,youkando.it###klaro
     → |040.se###klaro
     → |40gold.de###klaro
     → |allseasonsuniforms.com###klaro
@@ -244039,6 +244069,7 @@
     → |childrenshospital.org###klaro
     → |christ-sucht-christ.de###klaro
     → |comet-cine-center.de###klaro
+    → |crystl.dev###klaro
     → |deskmodder.de###klaro
     → |dnca-investments.com###klaro
     → |druck-pirmasens.de###klaro
@@ -246153,10 +246184,11 @@
     → |sellpy.nl##.gUbXEK
     → |sellpy.se##.gUbXEK
 🚫 去掉注释行: !! .cm-overlay
-✅ 多域名拆分: agora.pl,blik.com,landkreis-mittelsachsen.de,viennapte.pl##.cm-overlay
+✅ 多域名拆分: agora.pl,blik.com,landkreis-mittelsachsen.de,modivoplatform.com,viennapte.pl##.cm-overlay
     → |agora.pl##.cm-overlay
     → |blik.com##.cm-overlay
     → |landkreis-mittelsachsen.de##.cm-overlay
+    → |modivoplatform.com##.cm-overlay
     → |viennapte.pl##.cm-overlay
 🚫 去掉注释行: ! .z-50
 ✅ 多域名拆分: bairesdev.com,bootstrap.academy,doppelherz.com,energydashboard.co.uk,freelway.com,help.adjust.com,livecounts.io,natron.energy,new.adotat.com,perspectives.plus##.z-50
