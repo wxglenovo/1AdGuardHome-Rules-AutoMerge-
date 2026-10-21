@@ -14518,6 +14518,7 @@ store.azeron.eu###cookie-consent-background
 jigsy.com###cookie-consent-dialog
 store.azeron.eu###cookie-consent-foreground
 |givingwhatwecan.org###cookie-consent-modal
+|instytutsprawobywatelskich.pl###cookie-consent-modal
 |rettie.co.uk###cookie-consent-modal
 laspalmerasapartments.com###cookie-consent-notification
 |123fresh.co.il###cookie-consent-wrapper
@@ -14756,7 +14757,8 @@ daveandbustershalloween.com###fevertrust-consent-sdk
 aitopics.org###fixed-footer
 toffeeweb.com###fixedFooter
 metatrader4.com###float-vertical-panel
-deriv.com###flowappz-cookie-consent
+|deriv.com###flowappz-cookie-consent
+|memos.work###flowappz-cookie-consent
 financesonline.com###fodp-cookies-consent
 yodiz.com###footMsgYodiz
 |alternative.me###footer
@@ -14986,6 +14988,7 @@ metal-shop.eu###nextcreBotDialog
 |skyremotecodes.co.uk###nfaModal
 |plotz.co.uk###nfaPopup
 |skyremotecodes.co.uk###nfaPopup
+digitalfracture.co.uk###ng-banner
 lycoschat.com###nomnom
 statefarm.com###notice-container
 bydautomotive.com.au###noticeModal
@@ -18195,6 +18198,7 @@ journalofdigitalhistory.org##[style*="position: fixed; bottom: 0px;"]
 courthousenews.com##[style="padding: 16px; background-color: rgb(12, 56, 89); color: rgb(255, 255, 255); font-size: 15px; text-align: center; border-radius: 6px; position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); z-index: 10000; max-width: 600px; box-shadow: rgba(0, 0, 0, 0.2) 0px -2px 6px; display: flex; justify-content: space-between; align-items: center; gap: 12px; width: 90%;"]
 scripterswar.com##[style="z-index: 10000; pointer-events: none; position: fixed; left: 0px; bottom: 0px; text-align: center; width: 100%;"]
 tascaly.com##[style^="position: fixed; left: 3%; right: 3%;"]
+vegkit.com##[x-data="cookiesConsent"]
 skopje1.mk##[x-show="showCookies"]
 acretrader.com##acre-cookie-consent
 aa.com##adc-cookie-banner
@@ -19406,6 +19410,7 @@ sogeti.*###popup-cookieConsent
 |mahle-aftermarket.com##.cookiebar
 |mega-monheim.de##.cookiebar
 |nautadutilh.com##.cookiebar
+|phoenicia-ltd.com##.cookiebar
 |purejingles.com##.cookiebar
 |sigmanet.lv##.cookiebar
 |trtcocuk.net.tr##.cookiebar
@@ -20502,7 +20507,6 @@ stokrotka.pl###cboxWrapper
 |jaeger-hausbetreuung.at###BorlabsCookieBox
 |reinhold-keller.com###BorlabsCookieBox
 |techtest.org###BorlabsCookieBox
-liamgoodyear.co.uk###cc--main
 |14000.cz###cc-main
 |1twente.nl###cc-main
 |3daistudio.com###cc-main
@@ -20669,6 +20673,7 @@ liamgoodyear.co.uk###cc--main
 |garfidi.it###cc--main
 |gatehousebank.com###cc--main
 |gls-group.com###cc--main
+|gvalim.co.il###cc--main
 |hc-slavia.cz###cc--main
 |hc-vsetin.cz###cc--main
 |hcdukla.cz###cc--main
@@ -20688,6 +20693,7 @@ liamgoodyear.co.uk###cc--main
 |lajairadeana.com###cc--main
 |lataco.com###cc--main
 |levior.cz###cc--main
+|liamgoodyear.co.uk###cc--main
 |libcat.csglasgow.org###cc--main
 |linaro.org###cc--main
 |login.mercedes-benz.com###cc--main
@@ -42218,6 +42224,7 @@ poznanairport.pl##.alertBoxes
 |partsimple.com##.amgdprjs-bar-template
 tvporno.pl##.avwp-av
 tvporno.pl##.avwp-av-overlay
+perfumeriaonlyone.pl##.awolg-consent-mode
 foodjobs.pl##.b-modal
 castorama.pl##.background-overlay
 merida.com.pl##.ball-cookie
@@ -42332,6 +42339,7 @@ mojbrzuch.pl##.monit
 ikp.uw.edu.pl##.mszcookies
 |advatus.com##.myModal-box
 |advatus.pl##.myModal-box
+kartamiejska.um.gorzow.pl##.new-cp
 |dlapacjenta.pl##.notice_bar
 |lomixshop.pl##.notice_bar
 urbancity.pl##.notification-alert-wrapper
@@ -43988,7 +43996,7 @@ supergra.ua##.noty-container
 get-app.com.ua##.panel--bottom
 today.ua##.politic_confidel
 kanaldim.tv##.privacy-policy-block
-styler.rbc.ua##.s-cookie
+rbc.ua##.s-cookie
 |forklog.com##.terms_popup
 |forklog.com.ua##.terms_popup
 tabletki.ua##.user-agreement-backdrop
@@ -48245,6 +48253,7 @@ digg.com##.md\:p-4.p-2.rounded-md
 thisoldhouse.com##.mdcr-home-popup-container
 themedialine.org##.mdl-fixed-informer
 themedialine.org##.mdl-section-subscribe
+maritime-executive.com##.med-signup
 chronicle.com##.media-width-half
 kissanadu.com##.member-register
 middleeastmonitor.com##.memo-newsletter-wrap
