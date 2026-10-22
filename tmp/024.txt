@@ -2946,6 +2946,7 @@ presta-module.com##.acbBackdrop
 reviewjournal.com##.accept-cookie
 nwslsoccer.com##.accept-cookies-snackbar
 njtransit.com##.accept-cookies-tip
+cert.europa.eu##.accept_cookies
 plugins.jetbrains.com##.acceptance-popup
 ibuypower.com##.acceptcookie_contain__JVvcU
 blogs.gwu.edu##.admin-message-footer-bar-holder
@@ -3635,8 +3636,6 @@ cloud.vmware.com##.cookie-usage-banner
 |chatspin.com##.cookie-use-notice
 |flingster.com##.cookie-use-notice
 rebeltech.co.za##.cookie-wall
-|pl.jura.com##.cookie-warning
-|theopen.com##.cookie-warning
 |fishermap.org##.cookie-window
 |ittelo.ru##.cookie-window
 |xn--90aivcdt6dxbc.xn--p1ai##.cookie-window
@@ -4481,6 +4480,7 @@ mercusys.com##.mercusys-cookie-eu
 |timesofisrael.com##.message
 bladehq.com##.message-accept-container
 heedbook.com##.message-alert
+larose.care##.message-popup-background-ui:has(> .cookie-notice-ui)
 gametwist.com##.message__container
 ibei.org##.messages
 foreignaffairs.com##.messages--container--bottom
@@ -11022,8 +11022,11 @@ cambiarredo.com##.backdrop-cookie
 |threadstone.eu##.cookie-wall
 |wembleypark.com##.cookie-wall
 |chromehearts.com##.cookie-warning
+|garlyn.ru##.cookie-warning
 |nahb.org##.cookie-warning
 |nespresso.com##.cookie-warning
+|pl.jura.com##.cookie-warning
+|theopen.com##.cookie-warning
 boromir.ro##.gdpr-body
 |commentcoder.com##[class^="gdpr_"]
 |eanews.ru##[class^="gdpr_"]
