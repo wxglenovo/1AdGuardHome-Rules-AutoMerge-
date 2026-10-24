@@ -18271,7 +18271,8 @@ facebook.com##body:not([style^="margin-bottom"]) div[data-testid="cookie-policy-
 community.nexthink.com##c-community-cookie-consent-banner
 success.trendmicro.com##c-dcx-cookie
 criticalsoftware.com##c15t-ui-bannerVisible-pYYY9
-order.maxburgers.com##consent-banner.ng-scope
+zohorecruit.*##career-cookie-consent
+order.maxburgers.com##consent-banner
 qualified.io##consent-cookie-popup
 23degrees.io##consent-toast
 |axis.com##cookie-consent
@@ -20948,6 +20949,7 @@ flexiti.com##.z-999
 |gemini.pl##.z-100
 |sallys-shop.de##.z-100
 |1cbit.ru##.cookie-panel
+|1pc.co.il##.cookie-panel
 |schools.by##.cookie-panel
 |talon.by##.cookie-panel
 |timeweb.com##.cookie-panel
@@ -28438,7 +28440,6 @@ jku.at##+js(set-cookie, CookieConsent, required)
 |pricewise.nl##+js(set-cookie, CookieConsent, true)
 |secfi.com##+js(set-cookie, CookieConsent, true)
 |softlist.com.ua##+js(set-cookie, CookieConsent, true)
-|criticalsoftware.com##+js(set-cookie, CookieConsent, true, , reload, 1)
 |melee.gg##+js(set-cookie, CookieConsent, true, , reload, 1)
 |openbookpublishers.com##+js(set-cookie, CookieConsent, true, , reload, 1)
 |roxi.tv##+js(set-cookie, CookieConsent, true, , reload, 1)
@@ -31900,6 +31901,7 @@ businessclass.com##+js(set-local-storage-item, bcCookieAccepted, true)
 web.bunq.com##+js(set-local-storage-item, bunq:CookieConsentStore:isBannerVisible, false)
 byfood.com##+js(set-local-storage-item, byFoodCookiePolicyRequire, false)
 telemetr.io##+js(set-local-storage-item, c, false)
+criticalsoftware.com##+js(set-local-storage-item, c15t, 1)
 zeglins.com##+js(set-local-storage-item, canada-cookie-acknowledge, 1)
 cuba-buddy.de##+js(set-local-storage-item, cb-accept-cookie, true)
 mein-osttirol.rocks##+js(set-local-storage-item, ccb_contao_token_1, 1)
@@ -41155,10 +41157,13 @@ ortcolleges.org.il###cookie-alert-dialog
 tambour.co.il###cookie-consent-acf-backdrop
 |impress-stores.co.il###cookie-consent-acf-modal
 |tambour.co.il###cookie-consent-acf-modal
+|ertzcamping.co.il###cookie-consent-popup
+|graphor87.co.il###cookie-consent-popup
 |house-design.shop###cookie-consent-popup
 |kerenby.co.il###cookie-consent-popup
 |korenelectric.co.il###cookie-consent-popup
 |koretzki.co.il###cookie-consent-popup
+|leensknit.co.il###cookie-consent-popup
 |peerlocks.com###cookie-consent-popup
 |soragit.co.il###cookie-consent-popup
 |sporty.co.il###cookie-consent-popup
@@ -41189,6 +41194,7 @@ mizraney-olympia.co.il###flexiblecookies_container
 kleibait.com###floating_privacy_notice
 jfc.org.il###footer_cookies_message_wrap
 car-keys.co.il###fzcn-banner
+hanson-israel.com###gdpr-modal-overlay
 bigelectric.co.il###gdprCookieBar
 andjoy.co.il###hpPrivacyPopup
 idan88.co.il###idan-cookie-banner
@@ -41205,6 +41211,8 @@ kupatbravo.co.il###ii-consent-root
 |zmaneshkol.co.il###ilp-consent-banner
 jppi.org.il###jppi-cc-banner
 lizlol.co.il###lz-consent
+maven-group.co.il###maven-cookie
+maven-group.co.il###maven-cookie-overlay
 wine-eilat.com###mcc-cookie-bar
 smnh.tau.ac.il###nmoCookieBanner
 tekoafarms.co.il###pcm-consent-popup
@@ -41215,6 +41223,7 @@ momflavours.co.il###pl-acg-bar
 |storemobile.co.il###privacyPop
 inz.org.il###privacyPrompt
 |nabob-lock.co.il###privacy_alert
+|ronitek.co.il###privacy_alert
 |shukhashmal.co.il###privacy_alert
 |dunietz-elad.co.il###privacy_policy_popup
 |invoice4u.co.il###privacy_policy_popup
@@ -41313,6 +41322,7 @@ israelpost.co.il##.cookie-agreement
 yad2.co.il##.cookie-implementation-disclaimer_popupRoot__CLI1m
 |deasy.co.il##.cookieMessage
 |easygo.co.il##.cookieMessage
+icomp.co.il##.cookieagry
 novelsat.com##.cookiepopup
 gesher-theatre.co.il##.cookies-approval-strip-wrapper
 bug.co.il##.cookies-policy-modal-container
@@ -41340,6 +41350,7 @@ tel-aviv.gov.il##.customerAgreement
 |medic-center-sport.co.il##.digita-privacy-popup
 |winehouse.co.il##.digita-privacy-popup
 drushim.co.il##.dr-cookie-banner
+digitall.co.il##.dt-cookie
 mtoys.co.il##.e2w-cookie-popup
 booknet.co.il##.ec_modal-cover
 |bcommunications.co.il##.ecl-banner
@@ -41423,6 +41434,7 @@ my.mor.org.il##.shadow-consent-banner
 |jspca.org.il##.site-consent-banner
 |letlive.org.il##.site-consent-banner
 l-s.co.il##.sogo-pc-banner
+israelprintcenter.co.il##.sux-cb-backdrop
 htrl.co.il##.w3d-cb-banner
 mgweb.co.il##.widget_privacy_alert
 sancar.co.il##.xtra-cookie
@@ -41481,6 +41493,7 @@ dutyfree.co.il##div[class^="cookieRestriction-module__root-"]
 |musicworld.co.il##div[class^="cookiesPopup"]
 |orpc.co.il##div[class^="cookiesPopup"]
 |out-of-the-box.co.il##div[class^="cookiesPopup"]
+|owlmarket.co.il##div[class^="cookiesPopup"]
 |pascale.co.il##div[class^="cookiesPopup"]
 |pokito.co.il##div[class^="cookiesPopup"]
 |pro-safety.co.il##div[class^="cookiesPopup"]
@@ -41509,6 +41522,7 @@ hb2.bankleumi.co.il##div[data-tid="cookies-banner"]
 |shkedya.co.il##flashy-popup
 |tooleden.com##flashy-popup
 postalfinance.co.il##float-window-alert
+shilav.co.il##popup-message[data-cookie-duration]
 solar-portal.co.il##section[aria-label="××××¢×ª ×¤×¨××××ª ××§×××¦× Cookie"]
 tase.co.il##tase-cookies-policy
 |alpinbike.hu###CLayer
@@ -42331,6 +42345,7 @@ itaka.pl##.cky-modal
 itaka.pl##.cky-overlay
 aterima-work.pl##.cm-popup-wrapper
 pracuj.pl##.cmulq7z
+|mezczyzni.mistrzostwapolskimasters.pl##.cokie-manager-dialog
 |pls.pl##.cokie-manager-dialog
 |tauronliga.pl##.cokie-manager-dialog
 sklep.szprychy.com##.config-messages
