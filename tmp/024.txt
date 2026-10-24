@@ -1872,6 +1872,7 @@ semiconductor.samsung.com###cookie_component_emea
 |mkchulin.cz###cookie_consent
 |mzanzisolutions.co.za###cookie_consent
 |uscareerinstitute.edu###cookie_consent
+think.ing.com###cookie_consent_modal
 khronos.org###cookie_decline
 sendgb.com###cookie_disabled
 |halcyon.net###cookie_info
@@ -2232,6 +2233,7 @@ life.wolt.com###modal-root
 whenavailable.com###modalConsent
 umm.nordpoolgroup.com###modalMain
 shellsmart.com###modal_container
+genium360.ca###modal_cookie_consent_manager
 eclipso.eu###modalmsg
 momentumgroupltd.co.za###motion-cookies-notice
 msn.com###mscmp-banner-container
@@ -2628,6 +2630,7 @@ dompe.com###warning-popup
 rehva.eu###wb-cookie-policy
 wealthfront.com###wcm-container
 waterdropfilter.com###wd-cookie-consent-popup
+|aeropayouts.com###website_cookies_bar
 |artemes.org###website_cookies_bar
 |asviva.de###website_cookies_bar
 |datenpol.at###website_cookies_bar
@@ -2957,6 +2960,7 @@ svitla.com##.agree-popup
 ticketmaster.ca##.agree-terms
 hedonism.com##.agreedPP
 factory.pixiv.net##.agreement-to-last-term
+genium360.ca##.agreement_message_block
 festival-fabula.org##.agreetop
 itvmedia.co.uk##.alert--active
 espn.com##.alert--fixed
@@ -3626,7 +3630,8 @@ lenovo.com##.cookie-remind-warpper
 |fielmann.lt##.cookie-section
 |finejas.lt##.cookie-section
 mymetpolicepension.equiniti.com##.cookie-section-fixed-top
-crossy-road.io##.cookie-setting
+|crossy-road.io##.cookie-setting
+|hsparts.pl##.cookie-setting
 |loods5.nl##.cookie-settings
 |outfit7.com##.cookie-settings
 |tkhgroup.com##.cookie-settings
@@ -3834,6 +3839,7 @@ unitedpets.com##.cupjma
 greats.com##.custom-onetrust-banner
 princetonreview.com##.customer-cookie-container
 tannoy.com##.cv2-wrapper
+|freecords.com##.cw-cookies
 |grassfeld.com##.cw-cookies
 |hockeystack.com##.cw-cookies
 |sogni.ai##.cw-cookies
@@ -4839,6 +4845,7 @@ genesis.com##.privacy-dialog
 danawhitinglaw.com##.privacy-first-visit
 edmunds.com##.privacy-global-disclaimer
 araviscapital.com##.privacy-holder
+files-tech.com##.privacy-info-banner
 flysaa.com##.privacy-info-message
 businessinsider.com##.privacy-link
 petalmaps.com##.privacy-menu
@@ -6067,6 +6074,7 @@ wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotifi
 |amazingfoodmadeeasy.com###cookieNotice
 |bradyunited.org###cookieNotice
 |chetak.com###cookieNotice
+|defenderpolska.pl###cookieNotice
 |dks.at###cookieNotice
 |dochas.ie###cookieNotice
 |ecuavisa.com###cookieNotice
@@ -6578,6 +6586,7 @@ sogeti.*###popup-cookieConsent
 |curvo.eu##.cookie-consent-banner
 |delfortgroup.com##.cookie-consent-banner
 |dtf.ru##.cookie-consent-banner
+|fabletoapp.com##.cookie-consent-banner
 |flying.co.il##.cookie-consent-banner
 |githubstatus.com##.cookie-consent-banner
 |goldaglida.co.il##.cookie-consent-banner
@@ -7156,6 +7165,7 @@ brothers-graphics.com##.cc-window-wrapper
 |rareseeds.com###cookie-bar
 |ryxy.online###cookie-bar
 |searchenginewatch.com###cookie-bar
+|sharkrobot.com###cookie-bar
 |shinden.pl###cookie-bar
 |sklep.stamarpoznan.pl###cookie-bar
 |svpressa.ru###cookie-bar
@@ -9874,6 +9884,7 @@ clarochile.cl##.cookieModal
 |mci.gov.sg##.cookie
 |mclaren.com##.cookie
 |mcnallycontractors.com##.cookie
+|mdregion.com##.cookie
 |medianauka.pl##.cookie
 |mediobancapremier.com##.cookie
 |meetingselection.se##.cookie
@@ -9991,6 +10002,7 @@ clarochile.cl##.cookieModal
 |safaco.pl##.cookie
 |safedns.com##.cookie
 |samsunghealthcare.com##.cookie
+|sber.ru##.cookie
 |sbh-ausbau.de##.cookie
 |schwarz-horn.de##.cookie
 |scotchwhisky.com##.cookie
@@ -10033,6 +10045,7 @@ clarochile.cl##.cookieModal
 |stammzellen-verstehen.de##.cookie
 |starcar.de##.cookie
 |statusbrew.com##.cookie
+|stbank.by##.cookie
 |strive4.bg##.cookie
 |student.is##.cookie
 |suedtirol-tirol.com##.cookie
@@ -10130,6 +10143,7 @@ clarochile.cl##.cookieModal
 |x-lam.it##.cookie
 |xn--80ahmohdapg.xn--80asehdb##.cookie
 |xo-securite.com##.cookie
+|xplode.ru##.cookie
 |yachtclubgames.com##.cookie
 |yalladisco.co.il##.cookie
 |yavitrina.ru##.cookie
@@ -11576,6 +11590,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |fsacessorios.com.br##.modal-backdrop
 |galleria.com.pl##.modal-backdrop
 |gearsay.com##.modal-backdrop
+|genium360.ca##.modal-backdrop
 |gezond.nl##.modal-backdrop
 |godbolt.org##.modal-backdrop
 |golvprofilshop.se##.modal-backdrop
@@ -11724,6 +11739,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |aptekiplus.ru##.cookie-banner
 |artfund.org##.cookie-banner
 |asia.nikkei.com##.cookie-banner
+|astrum-entertainment.ru##.cookie-banner
 |banco.bradesco##.cookie-banner
 |barkeepersfriend.com##.cookie-banner
 |bedfordviewedenvalenews.co.za##.cookie-banner
@@ -17344,6 +17360,7 @@ tambour.co.il###cookie-consent-acf-backdrop
 |house-design.shop###cookie-consent-popup
 |kerenby.co.il###cookie-consent-popup
 |korenelectric.co.il###cookie-consent-popup
+|koretzki.co.il###cookie-consent-popup
 |peerlocks.com###cookie-consent-popup
 |soragit.co.il###cookie-consent-popup
 |sporty.co.il###cookie-consent-popup
@@ -17446,6 +17463,7 @@ ipo.co.il###rg-privacy-wrap
 |nyga.co.il###scb-banner
 |peledlocks.co.il###scb-banner
 |trucksmuseum.org.il###scb-banner
+|wlight.co.il###scb-banner
 |yad-sarah.net###scb-banner
 |rozi-arizot.co.il###scm-banner
 |willi-food.co.il###scm-banner
@@ -17608,6 +17626,7 @@ my.mor.org.il##.shadow-consent-banner
 |letlive.org.il##.site-consent-banner
 l-s.co.il##.sogo-pc-banner
 htrl.co.il##.w3d-cb-banner
+mgweb.co.il##.widget_privacy_alert
 sancar.co.il##.xtra-cookie
 dominos.co.il##[class^="CloseableDisclaimer_"]
 hillula.co.il##[class^="ai-cookie-popup-"]
@@ -18343,6 +18362,7 @@ strefabiznesu.pl###cross-dialog
 portfeo.pl###data-processing-popup
 redbullmobile.pl###didomiBlockNavigation
 kinonh.pl###div_ac
+acana.com.pl###ext_advancedcookie_overlay
 |asc-pro.pl###flexiblecookies_container
 |maciej.je###flexiblecookies_container
 |ria.com.pl###flexiblecookies_container
@@ -18408,6 +18428,7 @@ omcar.pl###policy
 |basketzone.pl###polityka
 |getem.pl###polityka
 |kosmetykizameryki.pl###polityka
+polon.nauka.gov.pl###polon-system-cookie-notice
 pkspolonus.pl###popek
 poznan.pl###popup-peka
 erhem.pl###popupContact
@@ -18620,6 +18641,7 @@ mein-schauinsland.de##.popup-top-header
 masz.eu##.popupContent
 toczeniewdrewnie.pl##.position-bottom
 webprojekt.biz##.ppc
+insert.com.pl##.privacyAndCookiePolicy_wrapper
 kp.pl##.privacyModal
 hejto.pl##.py-4.px-6.items-center
 rankomat.pl##.rank-cookie-bar
@@ -19065,6 +19087,7 @@ actualitati-arad.ro##.viral-pro-privacy-policy
 altex.ro##.z-1050
 pressone.ro##[style="position: fixed; top: 0px; left: 0px; width: 100%; height: 100%; z-index: 1040;"]
 abekker.ru###GDPR-container
+developers.sber.ru###GDPRBanner
 videosmile.ru###accept_q
 startsmile.ru###access_cookie
 spbtvonline.ru###agreeC
@@ -19236,6 +19259,7 @@ darina.su##.container-coocke
 rshb.ru##.container.fixed
 tastycoffee.ru##.container__content
 esplus.ru##.coo-poly
+eridon.ua##.cook
 2x2tv.ru##.cook-web
 mnogo.ru##.cook_LFPnK
 propb.ru##.cooke
@@ -19245,6 +19269,7 @@ spbu.ru##.cookie-block
 akit.ru##.cookie-consent-banner
 supersamsev.ru##.cookie-consent-container-wrap
 4ege.ru##.cookie-consent-mini
+bsb.by##.cookie-fix-wrapper
 lk-new.vtbnpf.ru##.cookie-layout
 theblueprint.ru##.cookie-line
 rutube.ru##.cookie-message-module__cookie-consent
