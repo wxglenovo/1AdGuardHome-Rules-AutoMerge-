@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-10-28T06:18:16.256Z
+🚫 去掉注释行: ! Last modified: 2026-10-28T14:11:22.272Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -1672,10 +1672,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 99035
-🚫 去掉注释行: ! Checksum: gLJ4GQeeX1Dm5EMDmKGBIQ
-🚫 去掉注释行: ! Version: 202610280751
+🚫 去掉注释行: ! Checksum: 6SIS5LYftuDjEGBWCwJnnA
+🚫 去掉注释行: ! Version: 202610281452
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 28 Oct 2026 07:51 UTC
+🚫 去掉注释行: ! Last modified: 28 Oct 2026 14:52 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -15586,7 +15586,8 @@
 ✅ 多域名拆分: bilinovel.com,linovelib.com#@#.ads_box
     → |bilinovel.com#@#.ads_box
     → |linovelib.com#@#.ads_box
-✅ 多域名拆分: ifate.com,ycp.synk-casualgames.com#@#.adsbygoogle-noablate
+✅ 多域名拆分: extractpics.com,ifate.com,ycp.synk-casualgames.com#@#.adsbygoogle-noablate
+    → |extractpics.com#@#.adsbygoogle-noablate
     → |ifate.com#@#.adsbygoogle-noablate
     → |ycp.synk-casualgames.com#@#.adsbygoogle-noablate
 ✅ 多域名拆分: zalora.co.id,zalora.co.th,zalora.com.hk,zalora.com.my,zalora.com.ph,zalora.com.tw,zalora.sg#@#.advertisement-block
@@ -16612,6 +16613,9 @@
     → |taskandpurpose.com###pw-top-right-sidebar-aib
     → |thedrive.com###pw-top-right-sidebar-aib
     → |twz.com###pw-top-right-sidebar-aib
+✅ 多域名拆分: d4builds.gg,tftactics.gg###pwParentContainer
+    → |d4builds.gg###pwParentContainer
+    → |tftactics.gg###pwParentContainer
 ✅ 多域名拆分: homedepot.com,nordstrom.com###revjet_container
     → |homedepot.com###revjet_container
     → |nordstrom.com###revjet_container
@@ -25533,10 +25537,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: j18GG5bhks4rKGS022C9uA
-🚫 去掉注释行: ! Version: 202610280751
+🚫 去掉注释行: ! Checksum: eDvTTlPzIetiq8YY40djpA
+🚫 去掉注释行: ! Version: 202610281452
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 28 Oct 2026 07:51 UTC
+🚫 去掉注释行: ! Last modified: 28 Oct 2026 14:52 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -28272,6 +28276,9 @@
 🚫 去掉注释行: !#2
 🚫 去掉注释行: !#3
 🚫 去掉注释行: !#4hu.tv
+🚫 去掉注释行: ##body > #__nuxt + #teleports ~ div[class] > span[aria-hidden="true"] + div[class] + div[class]
+🚫 去掉注释行: ##body > #__nuxt + #teleports ~ div[class] > span[aria-hidden="true"] + div[class]
+🚫 去掉注释行: ##body > #__nuxt > div > .container > div[class^="menu-"] + div + div[class^="pg-v-sec-"][style*="important"]
 🚫 去掉注释行: ##body > #__nuxt:first-child > div > .container > .top-menu + div[class]
 🚫 去掉注释行: ##body > #__nuxt:first-child > div > .container > div[class^="pg-"] > div[style*="important"]
 🚫 去掉注释行: ##body > #__nuxt:first-child > div > .footer > .floatWindow + div[data-tag]
@@ -28898,10 +28905,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: e5CVv4NsqesiA3aD5iA6yQ
-🚫 去掉注释行: ! Version: 202610280751
+🚫 去掉注释行: ! Checksum: NB6ILQd9no+jNk0DiAOMeQ
+🚫 去掉注释行: ! Version: 202610281452
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 28 Oct 2026 07:51 UTC
+🚫 去掉注释行: ! Last modified: 28 Oct 2026 14:52 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29578,11 +29585,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202610280740
+🚫 去掉注释行: ! Version: 202610281452
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 28 Oct 2026 07:40 UTC
+🚫 去掉注释行: ! Last modified: 28 Oct 2026 14:52 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: dad27c40d501eac9a2448817c85b13bd71762195
+🚫 去掉注释行: ! Commit: 4b50231f82b87b3ce79bde1e8fa93a40902bc987
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -43497,7 +43504,8 @@
 ✅ 多域名拆分: bilinovel.com,linovelib.com#@#.ads_box
     → |bilinovel.com#@#.ads_box
     → |linovelib.com#@#.ads_box
-✅ 多域名拆分: ifate.com,ycp.synk-casualgames.com#@#.adsbygoogle-noablate
+✅ 多域名拆分: extractpics.com,ifate.com,ycp.synk-casualgames.com#@#.adsbygoogle-noablate
+    → |extractpics.com#@#.adsbygoogle-noablate
     → |ifate.com#@#.adsbygoogle-noablate
     → |ycp.synk-casualgames.com#@#.adsbygoogle-noablate
 ✅ 多域名拆分: zalora.co.id,zalora.co.th,zalora.com.hk,zalora.com.my,zalora.com.ph,zalora.com.tw,zalora.sg#@#.advertisement-block
@@ -44528,6 +44536,9 @@
     → |taskandpurpose.com###pw-top-right-sidebar-aib
     → |thedrive.com###pw-top-right-sidebar-aib
     → |twz.com###pw-top-right-sidebar-aib
+✅ 多域名拆分: d4builds.gg,tftactics.gg###pwParentContainer
+    → |d4builds.gg###pwParentContainer
+    → |tftactics.gg###pwParentContainer
 ✅ 多域名拆分: homedepot.com,nordstrom.com###revjet_container
     → |homedepot.com###revjet_container
     → |nordstrom.com###revjet_container
@@ -53475,11 +53486,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202610280740
+🚫 去掉注释行: ! Version: 202610281503
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 28 Oct 2026 07:40 UTC
+🚫 去掉注释行: ! Last modified: 28 Oct 2026 15:03 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: dad27c40d501eac9a2448817c85b13bd71762195
+🚫 去掉注释行: ! Commit: 0ef3ea29d6c6c4dc92de61f7080a4d208cfe31be
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -69897,10 +69908,10 @@
 🚫 去掉注释行: ! Issues: https://github.com/hagezi/dns-blocklists/issues
 🚫 去掉注释行: ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 🚫 去掉注释行: ! Expires: 8 hours
-🚫 去掉注释行: ! Last modified: 27 Oct 2026 09:45 UTC
-🚫 去掉注释行: ! Version: 2026.1027.0945.32
+🚫 去掉注释行: ! Last modified: 28 Oct 2026 09:26 UTC
+🚫 去掉注释行: ! Version: 2026.1028.0926.19
 🚫 去掉注释行: ! Syntax: AdBlock
-🚫 去掉注释行: ! Number of entries: 72304
+🚫 去掉注释行: ! Number of entries: 73103
 🚫 去掉注释行: !
 🚫 去掉注释行: !Title: anti-AD for AdGuard
 🚫 去掉注释行: !Version: 20261025210101111831399
@@ -69921,8 +69932,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL%203.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA%204.0
-🚫 去掉注释行: !Generated: 2026-10-28 10:34:27 +08
-🚫 去掉注释行: !RuleCount: 795024
+🚫 去掉注释行: !Generated: 2026-10-28 16:58:09 +08
+🚫 去掉注释行: !RuleCount: 795105
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
@@ -150149,15 +150160,15 @@
 🚫 去掉注释行: ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 🚫 去掉注释行: ! Homepage: https://github.com/217heidai/adblockfilters
 🚫 去掉注释行: ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-🚫 去掉注释行: ! Version: 20261028125943
-🚫 去掉注释行: ! Last modified: 2026/10/28 12:59:43
-🚫 去掉注释行: ! Blocked domains: 8466
+🚫 去掉注释行: ! Version: 20261028225906
+🚫 去掉注释行: ! Last modified: 2026/10/28 22:59:06
+🚫 去掉注释行: ! Blocked domains: 8482
 🚫 去掉注释行: ! unBlocked domains: 16
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: lQsIuBD13w4I6RFq6EhnXQ
-🚫 去掉注释行: ! Version: 202610272025
+🚫 去掉注释行: ! Checksum: Oa1eqVprOLUw6j3Wk1T83Q
+🚫 去掉注释行: ! Version: 202610280900
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-10-27 20:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-10-28 09:00 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -217434,9 +217445,9 @@
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: !---------------------------------Allowlists----------------------------------!
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: xWGeyepUDtENMmAiKfUGOA
+🚫 去掉注释行: ! Checksum: XIFTC8li3c6NLR9H9x6IZg
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Last modified: 2026-10-27 20:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-10-28 09:00 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
@@ -248383,8 +248394,8 @@
 🚫 去掉注释行: #
 🚫 去掉注释行: # For more information about this list, see: https://pgl.yoyo.org/adservers/
 🚫 去掉注释行: # ----
-🚫 去掉注释行: # last updated:   Tue, 27 Oct 2026 22:43:45 GMT
-🚫 去掉注释行: # entries:        3566
+🚫 去掉注释行: # last updated:   Wed, 28 Oct 2026 08:11:13 GMT
+🚫 去掉注释行: # entries:        3567
 🚫 去掉注释行: # format:         hosts (hosts -- in hosts file format)
 🚫 去掉注释行: # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 🚫 去掉注释行: # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
@@ -248611,6 +248622,7 @@
 ✅ HOSTS 转换: 127.0.0.1 adform.com → |adform.com^
 ✅ HOSTS 转换: 127.0.0.1 adform.net → |adform.net^
 ✅ HOSTS 转换: 127.0.0.1 adformdsp.net → |adformdsp.net^
+✅ HOSTS 转换: 127.0.0.1 adfox.cam → |adfox.cam^
 ✅ HOSTS 转换: 127.0.0.1 adhaven.com → |adhaven.com^
 ✅ HOSTS 转换: 127.0.0.1 adhese.be → |adhese.be^
 ✅ HOSTS 转换: 127.0.0.1 adhese.com → |adhese.com^
