@@ -6427,6 +6427,7 @@ japan.go.jp##.gov_sns
 ethanzuckerman.com##.group-1
 gadgets360.com##.gsocialbar
 atlanticcouncil.org##.gta-hover-share-container
+united24media.com##.gtm-bottom-popup-article
 |publicradiotulsa.org##.gtm_share
 |stlpr.org##.gtm_share
 theprint.in##.gw-follow-button
@@ -7969,6 +7970,8 @@ microsoft.com##.section-master:has(.socialfollow)
 siliconera.com##.site-footer__section:has(.social-list)
 stackify.com##.widget:has(> .social-links)
 ms.now##.wp-block-group p:has(Share this)
+nytimes.com##[data-testid="floating-button"]:has([aria-label="More sharing options ..."])
+nytimes.com##[data-testid="share-tools-list"] > li:has([aria-label="More sharing options ..."])
 bloomberg.com##div:has(> [class*="PreferUs_preferUsTextButton__"])
 rule34.xxx##li:has(> [href="https://x.com/slayerduckie"])
 diamondv.jp##main[id] > div.MuiBox-root:has(> ul > li > button.react-share__ShareButton)
@@ -15773,6 +15776,7 @@ codesignal.com##.analytics-banner
 videotextremover.net##.analytics-consent-banner
 ems.press##.analytics-consent-popup
 eggflow.com##.analytics-info
+malibujacksquadcities.com##.analytics-notice
 tipranks.com##.anchorbottomLeft
 |headforpoints.com##.ancr-pos-bottom
 |sudlisboa.com##.ancr-pos-bottom
@@ -21046,6 +21050,7 @@ tomtom.com##.cookie_bar
 |9minecraft.net###cookie-consent
 |altman.co.il###cookie-consent
 |anixe.pl###cookie-consent
+|anvelope.md###cookie-consent
 |avantlink.com###cookie-consent
 |avtovzglyad.ru###cookie-consent
 |b-kassa.ru###cookie-consent
@@ -21062,6 +21067,7 @@ tomtom.com##.cookie_bar
 |fontawesome.com###cookie-consent
 |foodsdictionary.co.il###cookie-consent
 |garberhof.com###cookie-consent
+|gostynin24.pl###cookie-consent
 |guffi.is###cookie-consent
 |heictojpg.com###cookie-consent
 |hextom.com###cookie-consent
@@ -21130,6 +21136,7 @@ tomtom.com##.cookie_bar
 |soundcore.com###cookie-consent
 |sp-kapusta.ru###cookie-consent
 |stormware.cz###cookie-consent
+|swedbank.lv###cookie-consent
 |taseralm.com###cookie-consent
 |touring-artists.info###cookie-consent
 |toyotaselfossi.is###cookie-consent
@@ -38049,6 +38056,7 @@ la-becanerie.com##+js(set-cookie, cookieconsent2_dismissed, yes)
 |giovaniemedia.ch##body,html:style(overflow: auto !important; position: initial !important;)
 |jeunesetmedias.ch##body,html:style(overflow: auto !important; position: initial !important;)
 |jugendundmedien.ch##body,html:style(overflow: auto !important; position: initial !important;)
+cnn.com##+js(rc, onetrust-banner-open, , stay)
 globalcitizensolutions.com###moove_gdpr_cookie_info_bar
 globalcitizensolutions.com##+js(remove-class, gcs-cc-lock, html, stay)
 |gemeinsam-klasse-sein.de##.g-consentmanager
@@ -43034,6 +43042,7 @@ vsemayki.ru##._gTi8L8k
 2gis.ru##._n1367pl
 |2gis.ru##._nlniiu
 |2gis.uz##._nlniiu
+astrum-play.ru##._root_1fhto_1
 gastronom.ru##._root_24byp_2
 bankprav.ru##.a-warning
 oreluniver.ru##.accept
@@ -44593,7 +44602,6 @@ ing.jobs#@##gdprconsent
 |cbslocal.com##onetrust-banner-sdk
 |chvnoticias.cl##onetrust-banner-sdk
 |cmore.fi##onetrust-banner-sdk
-|cnn.com##onetrust-banner-sdk
 |coca-cola.co.za##onetrust-banner-sdk
 |computerbase.de##onetrust-banner-sdk
 |cosplaycentral.com##onetrust-banner-sdk
@@ -44778,7 +44786,6 @@ ing.jobs#@##gdprconsent
 |cbslocal.com##onetrust-consent-sdk
 |chvnoticias.cl##onetrust-consent-sdk
 |cmore.fi##onetrust-consent-sdk
-|cnn.com##onetrust-consent-sdk
 |coca-cola.co.za##onetrust-consent-sdk
 |computerbase.de##onetrust-consent-sdk
 |cosplaycentral.com##onetrust-consent-sdk
@@ -48979,6 +48986,7 @@ slate.com##.prudie-google-form
 |planetrugby.com##.ps-email-subscription
 |teamtalk.com##.ps-email-subscription
 |tennis365.com##.ps-email-subscription
+pridesource.com##.psnl
 techrepublic.com##.pt-\[20px\]
 |campblessing.org##.pum-overlay
 |canaleenergia.com##.pum-overlay
@@ -50061,6 +50069,7 @@ eposaudio.com##.grid__item:has(> .newsletter-sign-up)
 tryterra.co##.lg\:px-24:has(#email-container)
 thehill.com##.menu-item:has(> [data-link-label="Newsletters"])
 emobilityplus.com##.sharedaddy
+pridesource.com##.sub:has(> .psnl)
 hyrax.dev##.w-full.lg\:max-w-sm.lg\:text-right:has(#newsletter-email-hero)
 |androidpolice.com##.w-promotion-offer:has(.newsletter-promotion-large)
 |backyardboss.net##.w-promotion-offer:has(.newsletter-promotion-large)
@@ -55484,6 +55493,7 @@ chess.com##.ready-to-play-banner-component
 agoda.com##.redirectToAppBar
 medscape.com##.rel-links-media
 speedtest.net##.result-area-ad
+sfgate.com##.row1:has([aria-label="Get our ad-free app"])
 rekhta.org##.rt_AppBtn
 geekdashboard.com##.section--download
 fdownload.app##.section-app-fb
