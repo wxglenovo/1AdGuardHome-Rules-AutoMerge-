@@ -6530,6 +6530,7 @@ businessday.ng##.join-whatsapp
 moneycontrol.com##.join_follow
 euronews.com##.js-c-article-partage-commentaire-share
 buzzfeed.com##.js-inline-share-bar
+lrt.lt##.js-modal-share
 guide.michelin.com##.js-share-sticky
 myanimelist.net##.js-sns-icon-container
 aap.com.au##.js-sticky-top
@@ -7222,6 +7223,7 @@ complex.com##.social-links-top
 denofgeek.com##.social-links__anchor--sharing
 |adn.com##.social-list
 |casino.org##.social-list
+|lrt.lt##.social-list
 newsroom.ucla.edu##.social-list-links
 wionews.com##.social-logo-section
 gastrojournal.ch##.social-media-blocks
@@ -50483,11 +50485,13 @@ orizzontescuola.it##.nl-block
 |designersbrasileiros.com.br##.ml-subscribe-form
 |fosspost.org##.ml-subscribe-form
 |justrunlah.com##.ml-subscribe-form
+|lrt.lt##.ml-subscribe-form
 |michaelwest.com.au##.ml-subscribe-form
 |nanowerk.com##.ml-subscribe-form
 |osxdaily.com##.ml-subscribe-form
 |roadiscalling.com##.ml-subscribe-form
 |serversfor.dev##.ml-subscribe-form
+|techpolicy.press##.ml-subscribe-form
 |upinthesky.nl##.ml-subscribe-form
 |6sqft.com##.subscription
 |alhayat.tv##.subscription
@@ -53184,6 +53188,9 @@ treblezine.com##body,html:style(height: auto !important; overflow: auto !importa
 |wonkette.com##div[class^="background-"]
 |zeteo.com##div[class^="background-"]
 thefederalist.com##+js(set-cookie, pum-276000, true)
+techpolicy.press###ml-webforms-popup-6050079
+techpolicy.press##.ml-webforms-popup-overlay
+techpolicy.press##body:style(overflow: auto !important; position: initial !important;)
 niemanlab.org###nlep
 niemanlab.org##body:style(overflow: auto !important; position: initial !important;)
 |avclub.com##+js(set-cookie, pm_email_popup_status, 1)
