@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-11-01T08:11:38.724Z
+🚫 去掉注释行: ! Last modified: 2026-11-01T14:08:14.385Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -1672,10 +1672,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 95370
-🚫 去掉注释行: ! Checksum: rkB87V4ueGuTCNHE/nz2Tw
-🚫 去掉注释行: ! Version: 202611010821
+🚫 去掉注释行: ! Checksum: cSIipVDKmmpcmoWmDATnMg
+🚫 去掉注释行: ! Version: 202611011512
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 01 Nov 2026 08:21 UTC
+🚫 去掉注释行: ! Last modified: 01 Nov 2026 15:12 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -21828,6 +21828,10 @@
 ✅ 多域名拆分: bestbuy.ca,bestbuy.com##[id^="atwb-ninja-carousel"]
     → |bestbuy.ca##[id^="atwb-ninja-carousel"]
     → |bestbuy.com##[id^="atwb-ninja-carousel"]
+✅ 多域名拆分: filecrypt.cc,filecrypt.co,filecrypt.to##[onclick*="/linkonclick.com/"]
+    → |filecrypt.cc##[onclick*="/linkonclick.com/"]
+    → |filecrypt.co##[onclick*="/linkonclick.com/"]
+    → |filecrypt.to##[onclick*="/linkonclick.com/"]
 ✅ 多域名拆分: haxmac.cc,haxnode.net##[onclick^="window.open"]
     → |haxmac.cc##[onclick^="window.open"]
     → |haxnode.net##[onclick^="window.open"]
@@ -25537,10 +25541,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: ghJ0xEPvpjELYPQB1A8kcw
-🚫 去掉注释行: ! Version: 202611010821
+🚫 去掉注释行: ! Checksum: TfZx4W+A0Pk7FHdDdm/yVw
+🚫 去掉注释行: ! Version: 202611011512
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 01 Nov 2026 08:21 UTC
+🚫 去掉注释行: ! Last modified: 01 Nov 2026 15:12 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -28905,10 +28909,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: m7HnQAs2fU3u31VEPTyYbQ
-🚫 去掉注释行: ! Version: 202611010821
+🚫 去掉注释行: ! Checksum: fTYNkNsuk1hLoTiiH+NktA
+🚫 去掉注释行: ! Version: 202611011512
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 01 Nov 2026 08:21 UTC
+🚫 去掉注释行: ! Last modified: 01 Nov 2026 15:12 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29585,11 +29589,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202611010807
+🚫 去掉注释行: ! Version: 202611011512
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 01 Nov 2026 08:07 UTC
+🚫 去掉注释行: ! Last modified: 01 Nov 2026 15:12 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 8852f5438c1227c0d6bcea95d1e6ec3a3416e4c7
+🚫 去掉注释行: ! Commit: afefc373317b1eaaa3b925b051260676c49aa12a
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -49751,6 +49755,10 @@
 ✅ 多域名拆分: bestbuy.ca,bestbuy.com##[id^="atwb-ninja-carousel"]
     → |bestbuy.ca##[id^="atwb-ninja-carousel"]
     → |bestbuy.com##[id^="atwb-ninja-carousel"]
+✅ 多域名拆分: filecrypt.cc,filecrypt.co,filecrypt.to##[onclick*="/linkonclick.com/"]
+    → |filecrypt.cc##[onclick*="/linkonclick.com/"]
+    → |filecrypt.co##[onclick*="/linkonclick.com/"]
+    → |filecrypt.to##[onclick*="/linkonclick.com/"]
 ✅ 多域名拆分: haxmac.cc,haxnode.net##[onclick^="window.open"]
     → |haxmac.cc##[onclick^="window.open"]
     → |haxnode.net##[onclick^="window.open"]
@@ -53486,11 +53494,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202611010807
+🚫 去掉注释行: ! Version: 202611011512
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 01 Nov 2026 08:07 UTC
+🚫 去掉注释行: ! Last modified: 01 Nov 2026 15:12 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 8852f5438c1227c0d6bcea95d1e6ec3a3416e4c7
+🚫 去掉注释行: ! Commit: afefc373317b1eaaa3b925b051260676c49aa12a
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -69908,10 +69916,10 @@
 🚫 去掉注释行: ! Issues: https://github.com/hagezi/dns-blocklists/issues
 🚫 去掉注释行: ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 🚫 去掉注释行: ! Expires: 8 hours
-🚫 去掉注释行: ! Last modified: 31 Oct 2026 15:45 UTC
-🚫 去掉注释行: ! Version: 2026.1031.1545.53
+🚫 去掉注释行: ! Last modified: 01 Nov 2026 09:45 UTC
+🚫 去掉注释行: ! Version: 2026.1101.0945.55
 🚫 去掉注释行: ! Syntax: AdBlock
-🚫 去掉注释行: ! Number of entries: 77813
+🚫 去掉注释行: ! Number of entries: 78564
 🚫 去掉注释行: !
 🚫 去掉注释行: !Title: anti-AD for AdGuard
 🚫 去掉注释行: !Version: 20261031214604549375001
@@ -69932,8 +69940,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL%203.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA%204.0
-🚫 去掉注释行: !Generated: 2026-11-01 14:25:46 +08
-🚫 去掉注释行: !RuleCount: 792971
+🚫 去掉注释行: !Generated: 2026-11-01 21:47:44 +08
+🚫 去掉注释行: !RuleCount: 793079
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
@@ -150952,10 +150960,10 @@
 🚫 去掉注释行: ! Blocked domains: 8480
 🚫 去掉注释行: ! unBlocked domains: 16
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: DVF7QGTsOgGahkEzut80LQ
-🚫 去掉注释行: ! Version: 202610311550
+🚫 去掉注释行: ! Checksum: tOosc1IN3rj5t7lKK5G3Bw
+🚫 去掉注释行: ! Version: 202611011025
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-10-31 15:50 UTC
+🚫 去掉注释行: ! Last modified: 2026-11-01 10:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -193335,7 +193343,7 @@
     → |realcanadiansuperstore.ca###privacy-policy
     → |wccaviation.com###privacy-policy
 🚫 去掉注释行: !! cdk-overlay-container
-✅ 多域名拆分: afiklmem.com,antenne.at,betsafe.ee,betsafe.lv,biblio.cyldigital.es,booking.autopartner.dk,casino.dk,educont.ru,ekuriren.se,eprimego.com,eqmac.app,flyingblue.us,fr.vanguard,iconnectfx.com,inforomawebtv.comune.roma.it,inshared.nl,it.vanguard,jobsforgeek.com,jobware.de,kauppakeskuswilla.fi,kkuriren.se,mediaportal.regione.lombardia.it,nl.vanguard,nordicbet.dk,nordpoolgroup.com,rekonise.com,shopstyle.co.uk,skiclub-villingen.de,spedition.de,szukajwarchiwach.gov.pl,tacobot.tf,townsmith.de,vanguardmexico.com,xm.com##.cdk-overlay-container
+✅ 多域名拆分: afiklmem.com,antenne.at,betsafe.ee,betsafe.lv,biblio.cyldigital.es,booking.autopartner.dk,casino.dk,educont.ru,ekuriren.se,eprimego.com,eqmac.app,flyingblue.us,fr.vanguard,hiopos.com,iconnectfx.com,inforomawebtv.comune.roma.it,inshared.nl,it.vanguard,jobsforgeek.com,jobware.de,kauppakeskuswilla.fi,kkuriren.se,mediaportal.regione.lombardia.it,nl.vanguard,nordicbet.dk,nordpoolgroup.com,rekonise.com,shopstyle.co.uk,skiclub-villingen.de,spedition.de,szukajwarchiwach.gov.pl,tacobot.tf,townsmith.de,vanguardmexico.com,xm.com##.cdk-overlay-container
     → |afiklmem.com##.cdk-overlay-container
     → |antenne.at##.cdk-overlay-container
     → |betsafe.ee##.cdk-overlay-container
@@ -193349,6 +193357,7 @@
     → |eqmac.app##.cdk-overlay-container
     → |flyingblue.us##.cdk-overlay-container
     → |fr.vanguard##.cdk-overlay-container
+    → |hiopos.com##.cdk-overlay-container
     → |iconnectfx.com##.cdk-overlay-container
     → |inforomawebtv.comune.roma.it##.cdk-overlay-container
     → |inshared.nl##.cdk-overlay-container
@@ -218249,9 +218258,9 @@
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: !---------------------------------Allowlists----------------------------------!
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: YvorjcnMV711C7ccq+THPw
+🚫 去掉注释行: ! Checksum: InNouIg/I6wA82RXb/Z0Rg
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Last modified: 2026-10-31 15:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-11-01 10:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
@@ -242614,7 +242623,7 @@
     → |realcanadiansuperstore.ca###privacy-policy
     → |wccaviation.com###privacy-policy
 🚫 去掉注释行: !! cdk-overlay-container
-✅ 多域名拆分: afiklmem.com,antenne.at,betsafe.ee,betsafe.lv,biblio.cyldigital.es,booking.autopartner.dk,casino.dk,educont.ru,ekuriren.se,eprimego.com,eqmac.app,flyingblue.us,fr.vanguard,iconnectfx.com,inforomawebtv.comune.roma.it,inshared.nl,it.vanguard,jobsforgeek.com,jobware.de,kauppakeskuswilla.fi,kkuriren.se,mediaportal.regione.lombardia.it,nl.vanguard,nordicbet.dk,nordpoolgroup.com,rekonise.com,shopstyle.co.uk,skiclub-villingen.de,spedition.de,szukajwarchiwach.gov.pl,tacobot.tf,townsmith.de,vanguardmexico.com,xm.com##.cdk-overlay-container
+✅ 多域名拆分: afiklmem.com,antenne.at,betsafe.ee,betsafe.lv,biblio.cyldigital.es,booking.autopartner.dk,casino.dk,educont.ru,ekuriren.se,eprimego.com,eqmac.app,flyingblue.us,fr.vanguard,hiopos.com,iconnectfx.com,inforomawebtv.comune.roma.it,inshared.nl,it.vanguard,jobsforgeek.com,jobware.de,kauppakeskuswilla.fi,kkuriren.se,mediaportal.regione.lombardia.it,nl.vanguard,nordicbet.dk,nordpoolgroup.com,rekonise.com,shopstyle.co.uk,skiclub-villingen.de,spedition.de,szukajwarchiwach.gov.pl,tacobot.tf,townsmith.de,vanguardmexico.com,xm.com##.cdk-overlay-container
     → |afiklmem.com##.cdk-overlay-container
     → |antenne.at##.cdk-overlay-container
     → |betsafe.ee##.cdk-overlay-container
@@ -242628,6 +242637,7 @@
     → |eqmac.app##.cdk-overlay-container
     → |flyingblue.us##.cdk-overlay-container
     → |fr.vanguard##.cdk-overlay-container
+    → |hiopos.com##.cdk-overlay-container
     → |iconnectfx.com##.cdk-overlay-container
     → |inforomawebtv.comune.roma.it##.cdk-overlay-container
     → |inshared.nl##.cdk-overlay-container
