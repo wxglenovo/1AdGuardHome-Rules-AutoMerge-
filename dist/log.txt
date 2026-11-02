@@ -3,13 +3,24 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-11-02T08:14:59.792Z
+🚫 去掉注释行: ! Last modified: 2026-11-02T18:11:49.687Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Source name: AdGuard Base filter ad servers
 🚫 去掉注释行: ! Source: https://adguardteam.github.io/AdguardFilters/BaseFilter/sections/adservers.txt
+🚫 去掉注释行: !
+🚫 去掉注释行: !
+🚫 去掉注释行: ! This section contains the list of third-party advertising networks domains.
+🚫 去掉注释行: ! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
+🚫 去掉注释行: ! The rules with hints are at the end of file.
+🚫 去掉注释行: !
+🚫 去掉注释行: ! Good: ||doubleclick.net^$third-party
+🚫 去掉注释行: ! Bad: /banner.jpg (should be in general_url.txt)
+🚫 去掉注释行: ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
+🚫 去掉注释行: !
+🚫 去掉注释行: !
 🚫 去掉注释行: !
 🚫 去掉注释行: !+ PLATFORM(ios, ext_safari)
 🚫 去掉注释行: !+ NOT_OPTIMIZED
@@ -1661,10 +1672,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 95638
-🚫 去掉注释行: ! Checksum: iEDe+Blnxb5ww2PvxuuytA
-🚫 去掉注释行: ! Version: 202611020942
+🚫 去掉注释行: ! Checksum: XC1CvXU7/NmVgBS2Yr+Caw
+🚫 去掉注释行: ! Version: 202611021942
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 02 Nov 2026 09:42 UTC
+🚫 去掉注释行: ! Last modified: 02 Nov 2026 19:42 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -22126,6 +22137,9 @@
     → |techcrunch.com##div[class*="ad-unit"]
     → |tomsguide.com##div[class*="ad-unit"]
     → |tomshardware.com##div[class*="ad-unit"]
+✅ 多域名拆分: dailymotion.com,thingiverse.com##div[class^="AdBanner"]
+    → |dailymotion.com##div[class^="AdBanner"]
+    → |thingiverse.com##div[class^="AdBanner"]
 ✅ 多域名拆分: breastcancer.org,emojipedia.org##div[class^="AdContainer"]
     → |breastcancer.org##div[class^="AdContainer"]
     → |emojipedia.org##div[class^="AdContainer"]
@@ -25531,10 +25545,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: s2RUz26QjwxwNaTMTFaorQ
-🚫 去掉注释行: ! Version: 202611020942
+🚫 去掉注释行: ! Checksum: k5N0HUUdkQL3LjDHL4VhNg
+🚫 去掉注释行: ! Version: 202611021942
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 02 Nov 2026 09:42 UTC
+🚫 去掉注释行: ! Last modified: 02 Nov 2026 19:42 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -28899,10 +28913,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: Nqd16qhn8ZpWJhEaSsIxaw
-🚫 去掉注释行: ! Version: 202611020942
+🚫 去掉注释行: ! Checksum: 62dF9f0dhZG/1llZS2XmGQ
+🚫 去掉注释行: ! Version: 202611021942
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 02 Nov 2026 09:42 UTC
+🚫 去掉注释行: ! Last modified: 02 Nov 2026 19:42 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29579,11 +29593,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202611020943
+🚫 去掉注释行: ! Version: 202611021948
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 02 Nov 2026 09:43 UTC
+🚫 去掉注释行: ! Last modified: 02 Nov 2026 19:48 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 88b5def75e2af322493fdbaffd60d9cc92fb075b
+🚫 去掉注释行: ! Commit: 97c01cbb3031179b0ad6d46d680d1f202dc8c4b3
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -50054,6 +50068,9 @@
     → |techcrunch.com##div[class*="ad-unit"]
     → |tomsguide.com##div[class*="ad-unit"]
     → |tomshardware.com##div[class*="ad-unit"]
+✅ 多域名拆分: dailymotion.com,thingiverse.com##div[class^="AdBanner"]
+    → |dailymotion.com##div[class^="AdBanner"]
+    → |thingiverse.com##div[class^="AdBanner"]
 ✅ 多域名拆分: breastcancer.org,emojipedia.org##div[class^="AdContainer"]
     → |breastcancer.org##div[class^="AdContainer"]
     → |emojipedia.org##div[class^="AdContainer"]
@@ -53485,11 +53502,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202611020943
+🚫 去掉注释行: ! Version: 202611021948
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 02 Nov 2026 09:43 UTC
+🚫 去掉注释行: ! Last modified: 02 Nov 2026 19:48 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 88b5def75e2af322493fdbaffd60d9cc92fb075b
+🚫 去掉注释行: ! Commit: 97c01cbb3031179b0ad6d46d680d1f202dc8c4b3
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -69907,10 +69924,10 @@
 🚫 去掉注释行: ! Issues: https://github.com/hagezi/dns-blocklists/issues
 🚫 去掉注释行: ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 🚫 去掉注释行: ! Expires: 8 hours
-🚫 去掉注释行: ! Last modified: 01 Nov 2026 09:45 UTC
-🚫 去掉注释行: ! Version: 2026.1101.0945.55
+🚫 去掉注释行: ! Last modified: 02 Nov 2026 10:02 UTC
+🚫 去掉注释行: ! Version: 2026.1102.1002.06
 🚫 去掉注释行: ! Syntax: AdBlock
-🚫 去掉注释行: ! Number of entries: 78564
+🚫 去掉注释行: ! Number of entries: 79665
 🚫 去掉注释行: !
 🚫 去掉注释行: !Title: anti-AD for AdGuard
 🚫 去掉注释行: !Version: 20261101221401960566672
@@ -69931,8 +69948,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL%203.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA%204.0
-🚫 去掉注释行: !Generated: 2026-11-02 17:01:53 +08
-🚫 去掉注释行: !RuleCount: 792560
+🚫 去掉注释行: !Generated: 2026-11-03 03:37:20 +08
+🚫 去掉注释行: !RuleCount: 817177
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
@@ -151973,10 +151990,10 @@
 🚫 去掉注释行: ! Blocked domains: 8480
 🚫 去掉注释行: ! unBlocked domains: 16
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: JZGheUIXMN4GxEvtLl4XmQ
-🚫 去掉注释行: ! Version: 202611012050
+🚫 去掉注释行: ! Checksum: vCJw1MW/8g8JH9fgwbrKjA
+🚫 去掉注释行: ! Version: 202611021500
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-11-01 20:50 UTC
+🚫 去掉注释行: ! Last modified: 2026-11-02 15:00 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -219271,9 +219288,9 @@
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: !---------------------------------Allowlists----------------------------------!
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: InNouIg/I6wA82RXb/Z0Rg
+🚫 去掉注释行: ! Checksum: +m3UxEVGIdJi2f9zrqyjTQ
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Last modified: 2026-11-01 10:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-11-02 15:00 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
@@ -250253,8 +250270,8 @@
 🚫 去掉注释行: #
 🚫 去掉注释行: # For more information about this list, see: https://pgl.yoyo.org/adservers/
 🚫 去掉注释行: # ----
-🚫 去掉注释行: # last updated:   Thu, 29 Oct 2026 21:57:19 GMT
-🚫 去掉注释行: # entries:        3562
+🚫 去掉注释行: # last updated:   Mon, 02 Nov 2026 11:13:01 GMT
+🚫 去掉注释行: # entries:        3563
 🚫 去掉注释行: # format:         hosts (hosts -- in hosts file format)
 🚫 去掉注释行: # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 🚫 去掉注释行: # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
@@ -251233,6 +251250,7 @@
 ✅ HOSTS 转换: 127.0.0.1 ba.afl.rakuten.co.jp → |ba.afl.rakuten.co.jp^
 ✅ HOSTS 转换: 127.0.0.1 backbeatmedia.com → |backbeatmedia.com^
 ✅ HOSTS 转换: 127.0.0.1 backtension.com → |backtension.com^
+✅ HOSTS 转换: 127.0.0.1 bagave.com → |bagave.com^
 ✅ HOSTS 转换: 127.0.0.1 bagsurprise.com → |bagsurprise.com^
 ✅ HOSTS 转换: 127.0.0.1 banik.redigy.cz → |banik.redigy.cz^
 ✅ HOSTS 转换: 127.0.0.1 banner.ambercoastcasino.com → |banner.ambercoastcasino.com^
