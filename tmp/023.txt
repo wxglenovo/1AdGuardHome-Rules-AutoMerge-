@@ -5372,6 +5372,7 @@ labex.io###tutorial-detail-sidebar > .mb-10
 |pcgamer.com###utility-bar
 |tomshardware.com###utility-bar
 |gamesradar.com###utilitybar__button--share
+|techradar.com###utilitybar__button--share
 |tomsguide.com###utilitybar__button--share
 |windowscentral.com###utilitybar__button--share
 videocardz.com###vc-index-google-follow
@@ -5579,6 +5580,8 @@ amgreatness.com##.ag-social
 gatewayhispanic.com##.aiovg-social
 mp1st.com##.aji-social-items-wrapper
 alchetron.com##.alchetronShareCard
+|foxbusiness.com##.amp-share
+|foxnews.com##.amp-share
 |federprivacy.org##.ampz_container
 |ilovezuidoost.nl##.ampz_container
 cbn.com##.analytics-cta
@@ -8051,6 +8054,8 @@ miruro.*##section[class^="_noticeSection_"]
 |betakit.com##.social-sharing
 |byjus.com##.social-sharing
 |commentpicker.com##.social-sharing
+|foxbusiness.com##.social-sharing
+|foxnews.com##.social-sharing
 |hakaimagazine.com##.social-sharing
 |hollywoodlife.com##.social-sharing
 |homemark.co.za##.social-sharing
@@ -9501,6 +9506,7 @@ miruro.*##section[class^="_noticeSection_"]
 |dreambigtravelfarblog.com##.social-icons
 |esquerdaonline.com.br##.social-icons
 |foxnews.com##.social-icons
+|foxweather.com##.social-icons
 |frankenpost.de##.social-icons
 |frommers.com##.social-icons
 |futurity.org##.social-icons
@@ -10637,6 +10643,7 @@ hindustantimes.com##.ln
 |rock1041.com##.social-links
 |rock967online.com##.social-links
 |rocketbeans.tv##.social-links
+|salzburg24.at##.social-links
 |san.com##.social-links
 |saturdayeveningpost.com##.social-links
 |screencrush.com##.social-links
@@ -10999,6 +11006,8 @@ urlaubsguru.de##.smeShare
 flashbackfm.ch##.social-bar-wof-wrapper
 goldinvest.de##.social-block
 formel1.de##.social-buttons_container
+sn.at##.social-detail
+salzburg24.at##.social-details
 deutsche-wirtschafts-nachrichten.de##.social-line
 autohaus.de##.social-list
 lt1.at##.social-listing
@@ -17748,6 +17757,7 @@ repovive.com##.rounded-lg.max-w-3xl
 smallpdf.com##.rplgd-0
 totalserversolutions.com##.rplm-alert
 ramseysolutions.com##.rs-CookieBanner
+rudderstack.com##.rs-cookie
 seamless.ai##.rs-message-info
 rsc.org##.rsc-onetrust-cookie-footer
 limaeasy.com##.rstbox
@@ -21019,6 +21029,7 @@ flexiti.com##.z-999
 |shoplyfter.com##.cookie-bar
 |siamsport.co.th##.cookie-bar
 |smartocto.com##.cookie-bar
+|spiky.co.il##.cookie-bar
 |swappz.com##.cookie-bar
 |teamskeet.com##.cookie-bar
 |teentvx.com##.cookie-bar
@@ -24536,6 +24547,7 @@ cancerfonden.se##div[class^="CookieDisclaimer"]
 |albertonrecord.co.za##.cookie-banner
 |app.deriv.com##.cookie-banner
 |aptekiplus.ru##.cookie-banner
+|araba.nl##.cookie-banner
 |artfund.org##.cookie-banner
 |asia.nikkei.com##.cookie-banner
 |astrum-entertainment.ru##.cookie-banner
@@ -30405,6 +30417,7 @@ zuerilaufcup.ch##+js(set-cookie, disclaimeragreed, true)
 octopus.energy##+js(set-cookie, dismissCookiePreferencesMessage, 1)
 ovpay.nl##+js(set-cookie, dismissed_cookie_banner_recaptcha, true)
 cloud.aeolservice.es##+js(set-cookie, doSomethingOnlyOnce, true)
+doctordle.org##+js(set-cookie, doctordle_cookies_accepted, true)
 dominospizza.pl##+js(set-cookie, dominos_cookies_accepted, 1)
 qatarairways.com##+js(set-cookie, drcookie, true)
 votegroup.de##+js(set-cookie, dsgvo-mark, no)
@@ -41472,6 +41485,7 @@ ksp.co.il##.rtl-1075xo6
 mazda.co.il##.sc-26e57d0b-0.hsLpSr
 |bleeckerbakery.co.il##.sgcc-main-wrapper
 |million-kisot.co.il##.sgcc-main-wrapper
+|podiumil.co.il##.sgcc-main-wrapper
 my.mor.org.il##.shadow-consent-banner
 |jspca.org.il##.site-consent-banner
 |letlive.org.il##.site-consent-banner
@@ -41485,6 +41499,7 @@ hillula.co.il##[class^="ai-cookie-popup-"]
 alljobs.co.il##[id^="ZA_CAMP_BUBBLE_CONTAINER_CID_"]
 lastminute.co.il##app-notifications-container
 iec.co.il##app-sticky-banner
+walla.co.il##div[aria-label="××××¢× ×¢× ×©××××© ××¢×××××ª"]
 kamazeole.co.il##div[aria-label="××××¢×ª ×©××××© ××§××¦× Cookie"]
 |morfix.co.il##div[aria-label="××¡××× ××©××××© ××¢×××××ª"]
 |on-the-way-two.vercel.app##div[aria-label="××¡××× ××©××××© ××¢×××××ª"]
@@ -41567,6 +41582,7 @@ postalfinance.co.il##float-window-alert
 |shilav.co.il##popup-message[data-cookie-duration]
 |zurmarket.co.il##popup-message[data-cookie-duration]
 solar-portal.co.il##section[aria-label="××××¢×ª ×¤×¨××××ª ××§×××¦× Cookie"]
+tv10.co.il##section[aria-label="××¡××× ××©××××© ××¢×××××ª"]
 tase.co.il##tase-cookies-policy
 |alpinbike.hu###CLayer
 |belteriajtok.hu###CLayer
@@ -53362,6 +53378,7 @@ ifixit.com##.z-dialog-overlay
 ifixit.com##html,body:style(overflow: auto !important; position: initial !important;)
 ||bnamic.com/newsletter-subscription.js
 ||ibspot.com/klaviyo_form
+||link.box.blick.ch/join/7m4/signup-shopping-tipps
 ||listrakbi.com/scripts/$script,domain=ninjakitchen.com
 ||ping.contactpigeon.com^
 alldayshirts.com###GeneralSaleBanner
