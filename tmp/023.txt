@@ -512,6 +512,7 @@ dashboard.razorpay.com#@##credential_picker_container
 ||usablenet.com^$third-party
 ||usefomo.com^$third-party
 ||userdatatrust.com^$third-party
+||vaticannews.va/widget.js
 ||vhmengine.com^$third-party
 ||vicomi.com^$third-party
 ||volomedia.com^$third-party
@@ -8696,6 +8697,7 @@ miruro.*##section[class^="_noticeSection_"]
 |nationalgeographic.it##.social
 |naturalborngamers.it##.social
 |nbcolympics.com##.social
+|ndmais.com.br##.social
 |neowin.net##.social
 |nextplatform.com##.social
 |nintendolife.com##.social
@@ -11421,8 +11423,11 @@ navigaweb.net###social3
 biografieonline.it###ss-floating-bar
 bancadipiacenza.it###vimeo
 iolecal.it###whatsapp
+lastampausa.com##.Footer-module__SfUiJG__footer-social
+lastampausa.com##.HeaderToolbar-module__ofzsGq__socials
 leganerd.com##.LNPocket
 focusjunior.it##.SATover
+lastampausa.com##.Share-module__8Fg7qW__share
 leganerd.com##._share_wrapper
 dissapore.com##._social-share
 skuola.net##.actions
@@ -11747,6 +11752,7 @@ engeplus.com.br###redes-sociais-footer
 noticias.cancaonova.com###share-widget-horizontal
 superesportes.com.br###shareitens
 tatarada.com.br###single-compartilhe
+ndmais.com.br###single-whatsapp-action
 spinoff.com.br###sociaisnk
 gazetadigital.com.br###social-line-right
 bomdia.eu###social-menu
@@ -11808,6 +11814,7 @@ estrelando.com.br##.compartilhar-noticia
 |uai.com.br##.compartilhe
 gazetaweb.com##.content-share
 meiahora.com.br##.content-shares
+ndmais.com.br##.cta-discover
 jovempan.com.br##.cta-model
 ndmais.com.br##.cta-whatsapp
 correiodoestado.com.br##.custom-link-container
@@ -11871,6 +11878,7 @@ suno.com.br##.newsContent__article__meta__socials
 |noticiasaominuto.com.br##.nm-fb-share
 noataque.com.br##.noticia-share
 tnh1.com.br##.noticias-single-header__share__list
+olx.com.br##.olx-static-footer__social-container
 vermelho.org.br##.page--share-wrapper
 cmjornal.pt##.partilhas
 jcconcursos.com.br##.pl-1
@@ -14175,6 +14183,7 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 ||propcom.co.uk/cookie/
 ||purevpn.com/loadGdprView
 ||push-content.springernature.io^$script
+||radio.cmc.com.hr/wp-content/plugins/complianz-gdpr/cookiebanner$script
 ||route-fifty.com/cookie-policy
 ||rtx.com/-/media/base-themes/scroll-lock/
 ||scache-ws.vzw.com/vendor/transcend/vcg/airgapWrapper.js$domain=verizon.com
@@ -43526,6 +43535,7 @@ rabota.sber.ru##div[class*="styled__CookieWrapper-"]
 |metaratings.by##div[class^="CookieAllowance-module-"]
 |metaratings.ru##div[class^="CookieAllowance-module-"]
 |metaratings.tj##div[class^="CookieAllowance-module-"]
+ggsel.net##div[class^="CookieBanner-module"]
 |sberbank.com##div[class^="CookieWarning-"]
 |sberbank.ru##div[class^="CookieWarning-"]
 sponsr.ru##div[class^="Cookie_container"]
@@ -52064,6 +52074,7 @@ portalprzedszkolny.pl###newsletterOnline-68
 komerso.pl##.newsletter-post
 metropoles.com###m-newsletter
 neofeed.com.br###modalNewsletter
+ndmais.com.br###ndmais-newsletter-widget
 publico.pt###newsletter-subscription
 a12.com##.LeadNewsletterA
 infomoney.com.br##.ad-aside
