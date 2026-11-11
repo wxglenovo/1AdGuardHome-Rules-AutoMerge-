@@ -18337,6 +18337,7 @@ duelz.com##app-tiny-alert
 chochko.com##aside[data-role="gdpr-cookie-container"]
 thomasnet.com##aside[data-sentry-component="CookieBanner"]
 essential.gg##banner-content
+begiant.ca#?#.z-1300.inset-0:has-text(Your Privacy)
 |cherytr.com##body .cc-nb-main-container
 |cine-max.sk##body .cc-nb-main-container
 facebook.com##body:not([style^="margin-bottom"]) div[data-testid="cookie-policy-banner"]
@@ -47253,6 +47254,7 @@ mypenndentist.org##.bg-navylightblue.padding-v20
 |bobvila.com##.bg-newsletter
 biblegateway.com##.bg-popup-root
 sciencealert.com##.bg-sciencealert-yellow
+begiant.ca##.bg-surface-cream
 axios.com##.bg-tertiary.gtmView
 thebudgetsavvybride.com##.bg-turquoise-500
 thepostmillennial.com##.bg-warning
@@ -48386,6 +48388,7 @@ the-londoner.co.uk##.kg-cta-content
 |ppc.land##.kg-signup-card
 |scarletink.com##.kg-signup-card
 |simone.org##.kg-signup-card
+|this.weekinsecurity.com##.kg-signup-card
 |disconnect.blog##.kg-signup-card-content
 |the-londoner.co.uk##.kg-signup-card-content
 digitalocean.com##.khfYvn
@@ -48476,7 +48479,6 @@ psu.edu##.mailinglist-form
 ndtvprofit.com##.mailmodo-news-letter-m__card-wrapper__o-Dst
 niemanlab.org##.mailmunch-overlay
 niemanlab.org##.mailmunch-popover
-firethering.com##.mailpoet_form
 |consummateathlete.com##.mailpoet_form_popup_overlay
 |pstribune.com##.mailpoet_form_popup_overlay
 |leadership.ng##.mailster-form
@@ -50485,8 +50487,10 @@ edmontonjournal.com##.newsletter-widget
 |etfworld.co.uk##.mailpoet_form
 |europeantimes.news##.mailpoet_form
 |exputer.com##.mailpoet_form
+|firethering.com##.mailpoet_form
 |hedgenordic.com##.mailpoet_form
 |logitheque.com##.mailpoet_form
+|lpeproject.org##.mailpoet_form
 |mixed-news.com##.mailpoet_form
 |notionthings.com##.mailpoet_form
 |phonandroid.com##.mailpoet_form
@@ -53321,6 +53325,8 @@ techpolicy.press###ml-webforms-popup-6050079
 techpolicy.press##.ml-webforms-popup-overlay
 techpolicy.press##body:style(overflow: auto !important; position: initial !important;)
 gtaservers.org##+js(set-local-storage-item, np-west-signup-seen-2, 1)
+begiant.ca#?#.z-1200.inset-0.fixed:has-text(Get a free book!)
+begiant.ca##body:style(overflow: auto !important; position: initial !important;)
 niemanlab.org###nlep
 niemanlab.org##body:style(overflow: auto !important; position: initial !important;)
 |avclub.com##+js(set-cookie, pm_email_popup_status, 1)
