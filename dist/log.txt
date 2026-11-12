@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-11-11T22:09:04.110Z
+🚫 去掉注释行: ! Last modified: 2026-11-12T02:13:02.219Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -1679,10 +1679,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 95486
-🚫 去掉注释行: ! Checksum: 03/jvI+1pGoN28o45YqYNg
-🚫 去掉注释行: ! Version: 202611112252
+🚫 去掉注释行: ! Checksum: jTAfgWA7k1uEufCG4ZFBUg
+🚫 去掉注释行: ! Version: 202611120332
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 11 Nov 2026 22:52 UTC
+🚫 去掉注释行: ! Last modified: 12 Nov 2026 03:32 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -16845,6 +16845,68 @@
 ✅ 多域名拆分: gogetaroomie.com,snafu-comics.com###top-space
     → |gogetaroomie.com###top-space
     → |snafu-comics.com###top-space
+✅ 多域名拆分: 3addedminutes.com,anguscountyworld.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,blackpoolgazette.co.uk,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,chad.co.uk,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,falkirkherald.co.uk,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,lep.co.uk,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,lutontoday.co.uk,manchesterworld.uk,meltontimes.co.uk,miltonkeynes.co.uk,newcastleworld.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,peterboroughtoday.co.uk,portsmouth.co.uk,rotherhamadvertiser.co.uk,scotsman.com,shieldsgazette.com,stornowaygazette.co.uk,sunderlandecho.com,surreyworld.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,totallysnookered.com,wakefieldexpress.co.uk,warwickshireworld.com,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk###topBanner
+    → |3addedminutes.com###topBanner
+    → |anguscountyworld.co.uk###topBanner
+    → |banburyguardian.co.uk###topBanner
+    → |bedfordtoday.co.uk###topBanner
+    → |biggleswadetoday.co.uk###topBanner
+    → |blackpoolgazette.co.uk###topBanner
+    → |bucksherald.co.uk###topBanner
+    → |burnleyexpress.net###topBanner
+    → |buxtonadvertiser.co.uk###topBanner
+    → |chad.co.uk###topBanner
+    → |daventryexpress.co.uk###topBanner
+    → |derbyshiretimes.co.uk###topBanner
+    → |derbyworld.co.uk###topBanner
+    → |derryjournal.com###topBanner
+    → |dewsburyreporter.co.uk###topBanner
+    → |doncasterfreepress.co.uk###topBanner
+    → |falkirkherald.co.uk###topBanner
+    → |fifetoday.co.uk###topBanner
+    → |glasgowworld.com###topBanner
+    → |halifaxcourier.co.uk###topBanner
+    → |harboroughmail.co.uk###topBanner
+    → |harrogateadvertiser.co.uk###topBanner
+    → |hartlepoolmail.co.uk###topBanner
+    → |hemeltoday.co.uk###topBanner
+    → |hucknalldispatch.co.uk###topBanner
+    → |lancasterguardian.co.uk###topBanner
+    → |leightonbuzzardonline.co.uk###topBanner
+    → |lep.co.uk###topBanner
+    → |lincolnshireworld.com###topBanner
+    → |liverpoolworld.uk###topBanner
+    → |londonworld.com###topBanner
+    → |lutontoday.co.uk###topBanner
+    → |manchesterworld.uk###topBanner
+    → |meltontimes.co.uk###topBanner
+    → |miltonkeynes.co.uk###topBanner
+    → |newcastleworld.com###topBanner
+    → |newryreporter.com###topBanner
+    → |newsletter.co.uk###topBanner
+    → |northamptonchron.co.uk###topBanner
+    → |northantstelegraph.co.uk###topBanner
+    → |northernirelandworld.com###topBanner
+    → |northumberlandgazette.co.uk###topBanner
+    → |nottinghamworld.com###topBanner
+    → |peterboroughtoday.co.uk###topBanner
+    → |portsmouth.co.uk###topBanner
+    → |rotherhamadvertiser.co.uk###topBanner
+    → |scotsman.com###topBanner
+    → |shieldsgazette.com###topBanner
+    → |stornowaygazette.co.uk###topBanner
+    → |sunderlandecho.com###topBanner
+    → |surreyworld.co.uk###topBanner
+    → |thescarboroughnews.co.uk###topBanner
+    → |thesouthernreporter.co.uk###topBanner
+    → |thestar.co.uk###topBanner
+    → |totallysnookered.com###topBanner
+    → |wakefieldexpress.co.uk###topBanner
+    → |warwickshireworld.com###topBanner
+    → |wigantoday.net###topBanner
+    → |worksopguardian.co.uk###topBanner
+    → |yorkshireeveningpost.co.uk###topBanner
+    → |yorkshirepost.co.uk###topBanner
 ✅ 多域名拆分: indy100.com,tarladalal.com###top_banner
     → |indy100.com###top_banner
     → |tarladalal.com###top_banner
@@ -17385,7 +17447,7 @@
     → |home-designing.com##.ad-block
     → |inc.com##.ad-block
     → |trustpilot.com##.ad-block
-✅ 多域名拆分: 12news.com,8gwifi.org,9news.com,9to5google.com,9to5mac.com,aad.org,advfn.com,all3dp.com,allaboutcookies.org,allnovel.net,amny.com,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,bolavip.com,bonappetit.com,breakingac.com,britishheritage.com,businessday.ng,businessinsider.com,capemaynjdaily.com,cbs8.com,cc.com,ccjdigital.com,centralbucksnews.com,dailytrust.com,delish.com,downbeach.com,dutchnews.nl,ecr.co.za,electrek.co,engineeringnews.co.za,equipmentworld.com,euromaidanpress.com,fastcompany.com,fishermap.org,footyheadlines.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,globalspec.com,gmanetwork.com,grammarbook.com,greatbritishchefs.com,greatitalianchefs.com,hbr.org,highdefdigest.com,historynet.com,horshamnow.com,howstuffworks.com,huffpost.com,ibtimes.sg,inc.com,insidehook.com,intouchweekly.com,irishcentral.com,karanpc.com,khou.com,koat.com,ktvu.com,lifeandstylemag.com,longislandpress.com,macstories.net,mail.com,memuplay.com,metro.us,metrophiladelphia.com,minecraftforum.net,miningweekly.com,mixed-news.com,mobilesyrup.com,modernhealthcare.com,namemc.com,nbcnews.com,newrepublic.com,northpennnow.com,nzherald.co.nz,ocnjdaily.com,oneesports.gg,opb.org,outkick.com,papermag.com,perkvalleynow.com,phillydaily.com,physiology.org,pixiv.net,podcastaddict.com,punchng.com,qns.com,realsport101.com,reason.com,refinery29.com,ringsidenews.com,roadandtrack.com,scroll.in,seaislenews.com,seattletimes.com,songkick.com,sportskeeda.com,storyboard18.com,techrepublic.com,the-decoder.com,thedailybeast.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,thenationonlineng.net,thenewstack.io,thepost.co.nz,thetimes.com,tmz.com,toofab.com,tuasaude.com,uploadvr.com,usmagazine.com,vanguardngr.com,wildtangent.com,willowgrovenow.com,wired.com,wogx.com,worldsoccertalk.com,wral.com,yahoo.com##.ad-container
+✅ 多域名拆分: 12news.com,8gwifi.org,9news.com,9to5google.com,9to5mac.com,aad.org,advfn.com,all3dp.com,allaboutcookies.org,allnovel.net,amny.com,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,bolavip.com,bonappetit.com,breakingac.com,britishheritage.com,businessday.ng,businessinsider.com,capemaynjdaily.com,cbs8.com,cc.com,ccjdigital.com,centralbucksnews.com,dailytrust.com,delish.com,downbeach.com,dutchnews.nl,ecr.co.za,electrek.co,engineeringnews.co.za,equipmentworld.com,euromaidanpress.com,fastcompany.com,fishermap.org,footyheadlines.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,globalspec.com,gmanetwork.com,grammarbook.com,greatbritishchefs.com,greatitalianchefs.com,hbr.org,highdefdigest.com,historynet.com,horshamnow.com,howstuffworks.com,huffpost.com,ibtimes.sg,inc.com,insidehook.com,intouchweekly.com,irishcentral.com,karanpc.com,khou.com,koat.com,ktvu.com,lifeandstylemag.com,longislandpress.com,macstories.net,mail.com,memuplay.com,metro.us,metrophiladelphia.com,minecraftforum.net,miningweekly.com,mixed-news.com,mobilesyrup.com,modernhealthcare.com,namemc.com,nbcnews.com,newrepublic.com,northpennnow.com,nzherald.co.nz,ocnjdaily.com,oneesports.gg,opb.org,outkick.com,papermag.com,perkvalleynow.com,phillydaily.com,physiology.org,pixiv.net,podcastaddict.com,punchng.com,qns.com,realsport101.com,reason.com,refinery29.com,ringsidenews.com,roadandtrack.com,runguides.com,scroll.in,seaislenews.com,seattletimes.com,songkick.com,sportskeeda.com,storyboard18.com,techrepublic.com,the-decoder.com,thedailybeast.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,thenationonlineng.net,thenewstack.io,thepost.co.nz,thetimes.com,tmz.com,toofab.com,tuasaude.com,uploadvr.com,usmagazine.com,vanguardngr.com,wildtangent.com,willowgrovenow.com,wired.com,wogx.com,worldsoccertalk.com,wral.com,yahoo.com##.ad-container
     → |12news.com##.ad-container
     → |8gwifi.org##.ad-container
     → |9news.com##.ad-container
@@ -17497,6 +17559,7 @@
     → |refinery29.com##.ad-container
     → |ringsidenews.com##.ad-container
     → |roadandtrack.com##.ad-container
+    → |runguides.com##.ad-container
     → |scroll.in##.ad-container
     → |seaislenews.com##.ad-container
     → |seattletimes.com##.ad-container
@@ -18351,37 +18414,26 @@
     → |clavecd.es##.background-link-right
     → |goclecd.fr##.background-link-right
     → |keyforsteam.de##.background-link-right
-✅ 多域名拆分: 1001games.com,3addedminutes.com,4rfv.co.uk,808fubo808.com,alistapart.com,anguscountyworld.co.uk,antrimnow.co.uk,arcadebomb.com,armageddonexpo.com,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,bikechatforums.com,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bsc.news,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,ca-flyers.com,caixinglobal.com,caribvision.tv,chad.co.uk,cinemadeck.com,coryarcangel.com,csstats.gg,daventryexpress.co.uk,deathbycaptcha.com,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,diffordsguide.com,dominicantoday.com,doncasterfreepress.co.uk,elyricsworld.com,euobserver.com,eurochannel.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,filmmakermagazine.com,foojay.io,footballtradedirectory.com,forexpeacearmy.com,funpic.hu,gartic.io,garticphone.com,gizmodo.com,glasgowworld.com,gr8.cc,gridinsoft.com,gsprating.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hiphopdx.com,hortidaily.com,hucknalldispatch.co.uk,hyipexplorer.com,ibtimes.co.in,ibtimes.co.uk,imgsli.com,insidefutbol.com,ipwatchdog.com,irishpost.com,israelnationalnews.com,japantimes.co.jp,jpost.com,kissasians.org,koreaherald.com,kotaku.com,lancasterguardian.co.uk,laserpointerforums.com,leightonbuzzardonline.co.uk,lep.co.uk,lincolnshireworld.com,liverpoolworld.uk,livescore.in,londonworld.com,lutontoday.co.uk,manchesterworld.uk,marinelink.com,meltontimes.co.uk,mercopress.com,meteoradar.co.uk,miltonkeynes.co.uk,mmorpg.com,mob.org,myflr.org,nationalworld.com,newcastleworld.com,newryreporter.com,news.am,news.net,news12.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,oncyprus.com,onlineconvertfree.com,overclock3d.net,peterboroughtoday.co.uk,pharmatimes.com,photofilters.com,portsmouth.co.uk,powerboat.world,pulsesports.co.ke,pulsesports.ng,pulsesports.ug,roblox.com,rotherhamadvertiser.co.uk,rvtrader.com,sat24.com,scientificamerican.com,scotsman.com,shieldsgazette.com,slidescorner.com,speedcafe.com,starradionortheast.co.uk,stornowaygazette.co.uk,subscene.com,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,sweeting.org,swzz.xyz,tass.com,theconsensus.dev,thefringepodcast.com,theoldreader.com,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,timeslive.co.za,totallysnookered.com,townhall.com,toyworldmag.co.uk,unblockstreaming.com,vibilagare.se,vloot.io,vnexpress.net,wakefieldexpress.co.uk,warwickshireworld.com,weatheronline.co.uk,weekly-ads.us,wigantoday.net,worksopguardian.co.uk,worldtimeserver.com,xbiz.com,ynetnews.com,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yuntrack.com##.banner
+✅ 多域名拆分: 1001games.com,4rfv.co.uk,808fubo808.com,alistapart.com,antrimnow.co.uk,arcadebomb.com,armageddonexpo.com,bikechatforums.com,birminghamworld.uk,bristolworld.com,bsc.news,bucksherald.co.uk,ca-flyers.com,caixinglobal.com,caribvision.tv,cinemadeck.com,coryarcangel.com,csstats.gg,deathbycaptcha.com,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,diffordsguide.com,dominicantoday.com,doncasterfreepress.co.uk,elyricsworld.com,euobserver.com,eurochannel.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,filmmakermagazine.com,foojay.io,footballtradedirectory.com,forexpeacearmy.com,funpic.hu,gartic.io,garticphone.com,gizmodo.com,glasgowworld.com,gr8.cc,gridinsoft.com,gsprating.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hiphopdx.com,hortidaily.com,hyipexplorer.com,ibtimes.co.in,ibtimes.co.uk,imgsli.com,insidefutbol.com,ipwatchdog.com,irishpost.com,israelnationalnews.com,japantimes.co.jp,jpost.com,kissasians.org,koreaherald.com,kotaku.com,laserpointerforums.com,livescore.in,marinelink.com,mercopress.com,meteoradar.co.uk,miltonkeynes.co.uk,mmorpg.com,mob.org,myflr.org,nationalworld.com,newryreporter.com,news.am,news.net,news12.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,nottinghamworld.com,oncyprus.com,onlineconvertfree.com,overclock3d.net,peterboroughtoday.co.uk,pharmatimes.com,photofilters.com,portsmouth.co.uk,powerboat.world,pulsesports.co.ke,pulsesports.ng,pulsesports.ug,roblox.com,rotherhamadvertiser.co.uk,rvtrader.com,sat24.com,scientificamerican.com,slidescorner.com,speedcafe.com,starradionortheast.co.uk,subscene.com,sussexexpress.co.uk,sweeting.org,swzz.xyz,tass.com,theconsensus.dev,thefringepodcast.com,theoldreader.com,timeslive.co.za,totallysnookered.com,townhall.com,toyworldmag.co.uk,unblockstreaming.com,vibilagare.se,vloot.io,vnexpress.net,warwickshireworld.com,weatheronline.co.uk,weekly-ads.us,wigantoday.net,worldtimeserver.com,xbiz.com,ynetnews.com,yuntrack.com##.banner
     → |1001games.com##.banner
-    → |3addedminutes.com##.banner
     → |4rfv.co.uk##.banner
     → |808fubo808.com##.banner
     → |alistapart.com##.banner
-    → |anguscountyworld.co.uk##.banner
     → |antrimnow.co.uk##.banner
     → |arcadebomb.com##.banner
     → |armageddonexpo.com##.banner
-    → |banburyguardian.co.uk##.banner
-    → |bedfordtoday.co.uk##.banner
-    → |biggleswadetoday.co.uk##.banner
     → |bikechatforums.com##.banner
     → |birminghamworld.uk##.banner
-    → |blackpoolgazette.co.uk##.banner
     → |bristolworld.com##.banner
     → |bsc.news##.banner
     → |bucksherald.co.uk##.banner
-    → |burnleyexpress.net##.banner
-    → |buxtonadvertiser.co.uk##.banner
     → |ca-flyers.com##.banner
     → |caixinglobal.com##.banner
     → |caribvision.tv##.banner
-    → |chad.co.uk##.banner
     → |cinemadeck.com##.banner
     → |coryarcangel.com##.banner
     → |csstats.gg##.banner
-    → |daventryexpress.co.uk##.banner
     → |deathbycaptcha.com##.banner
-    → |derbyshiretimes.co.uk##.banner
     → |derbyworld.co.uk##.banner
     → |derryjournal.com##.banner
     → |dewsburyreporter.co.uk##.banner
@@ -18413,7 +18465,6 @@
     → |hemeltoday.co.uk##.banner
     → |hiphopdx.com##.banner
     → |hortidaily.com##.banner
-    → |hucknalldispatch.co.uk##.banner
     → |hyipexplorer.com##.banner
     → |ibtimes.co.in##.banner
     → |ibtimes.co.uk##.banner
@@ -18427,18 +18478,9 @@
     → |kissasians.org##.banner
     → |koreaherald.com##.banner
     → |kotaku.com##.banner
-    → |lancasterguardian.co.uk##.banner
     → |laserpointerforums.com##.banner
-    → |leightonbuzzardonline.co.uk##.banner
-    → |lep.co.uk##.banner
-    → |lincolnshireworld.com##.banner
-    → |liverpoolworld.uk##.banner
     → |livescore.in##.banner
-    → |londonworld.com##.banner
-    → |lutontoday.co.uk##.banner
-    → |manchesterworld.uk##.banner
     → |marinelink.com##.banner
-    → |meltontimes.co.uk##.banner
     → |mercopress.com##.banner
     → |meteoradar.co.uk##.banner
     → |miltonkeynes.co.uk##.banner
@@ -18446,7 +18488,6 @@
     → |mob.org##.banner
     → |myflr.org##.banner
     → |nationalworld.com##.banner
-    → |newcastleworld.com##.banner
     → |newryreporter.com##.banner
     → |news.am##.banner
     → |news.net##.banner
@@ -18455,7 +18496,6 @@
     → |northamptonchron.co.uk##.banner
     → |northantstelegraph.co.uk##.banner
     → |northernirelandworld.com##.banner
-    → |northumberlandgazette.co.uk##.banner
     → |nottinghamworld.com##.banner
     → |oncyprus.com##.banner
     → |onlineconvertfree.com##.banner
@@ -18473,15 +18513,10 @@
     → |rvtrader.com##.banner
     → |sat24.com##.banner
     → |scientificamerican.com##.banner
-    → |scotsman.com##.banner
-    → |shieldsgazette.com##.banner
     → |slidescorner.com##.banner
     → |speedcafe.com##.banner
     → |starradionortheast.co.uk##.banner
-    → |stornowaygazette.co.uk##.banner
     → |subscene.com##.banner
-    → |sunderlandecho.com##.banner
-    → |surreyworld.co.uk##.banner
     → |sussexexpress.co.uk##.banner
     → |sweeting.org##.banner
     → |swzz.xyz##.banner
@@ -18489,9 +18524,6 @@
     → |theconsensus.dev##.banner
     → |thefringepodcast.com##.banner
     → |theoldreader.com##.banner
-    → |thescarboroughnews.co.uk##.banner
-    → |thesouthernreporter.co.uk##.banner
-    → |thestar.co.uk##.banner
     → |timeslive.co.za##.banner
     → |totallysnookered.com##.banner
     → |townhall.com##.banner
@@ -18500,17 +18532,13 @@
     → |vibilagare.se##.banner
     → |vloot.io##.banner
     → |vnexpress.net##.banner
-    → |wakefieldexpress.co.uk##.banner
     → |warwickshireworld.com##.banner
     → |weatheronline.co.uk##.banner
     → |weekly-ads.us##.banner
     → |wigantoday.net##.banner
-    → |worksopguardian.co.uk##.banner
     → |worldtimeserver.com##.banner
     → |xbiz.com##.banner
     → |ynetnews.com##.banner
-    → |yorkshireeveningpost.co.uk##.banner
-    → |yorkshirepost.co.uk##.banner
     → |yuntrack.com##.banner
 ✅ 多域名拆分: kingmods.net,tappedout.net,tvinsider.com##.banner-ad
     → |kingmods.net##.banner-ad
@@ -18620,7 +18648,7 @@
 ✅ 多域名拆分: ipolitics.ca,qpbriefing.com##.big-box
     → |ipolitics.ca##.big-box
     → |qpbriefing.com##.big-box
-✅ 多域名拆分: 9gag.com,aerotime.aero,autotrader.ca,blackpoolgazette.co.uk,bundesliga.com,dev.to,farminglife.com,hotstar.com,ipolitics.ca,lep.co.uk,northamptonchron.co.uk,qpbriefing.com,scotsman.com,shieldsgazette.com,talksport.com,the-sun.com,thescottishsun.co.uk,thestar.co.uk,thesun.co.uk,thesun.ie##.billboard
+✅ 多域名拆分: 9gag.com,aerotime.aero,autotrader.ca,blackpoolgazette.co.uk,bundesliga.com,dev.to,farminglife.com,hotstar.com,ipolitics.ca,lep.co.uk,northamptonchron.co.uk,qpbriefing.com,scotsman.com,talksport.com,the-sun.com,thescottishsun.co.uk,thestar.co.uk,thesun.co.uk,thesun.ie##.billboard
     → |9gag.com##.billboard
     → |aerotime.aero##.billboard
     → |autotrader.ca##.billboard
@@ -18634,7 +18662,6 @@
     → |northamptonchron.co.uk##.billboard
     → |qpbriefing.com##.billboard
     → |scotsman.com##.billboard
-    → |shieldsgazette.com##.billboard
     → |talksport.com##.billboard
     → |the-sun.com##.billboard
     → |thescottishsun.co.uk##.billboard
@@ -18818,7 +18845,7 @@
     → |goodreturns.in##.cmscontent-right1
     → |nativeplanet.com##.cmscontent-right1
     → |oneindia.com##.cmscontent-right1
-✅ 多域名拆分: 100percentfedup.com,academicful.com,addapinch.com,aiarticlespinner.co,allaboutfpl.com,alltechnerd.com,americanmilitarynews.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,australiangeographic.com.au,autodaily.com.au,bakeitwithlove.com,bioinformant.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,celtsarehere.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,cjr.org,coincodecap.com,conservativebrief.com,conservativefiringline.com,corrosionhour.com,cricfy.net,crimereads.com,cryptobriefing.com,cryptointelligence.co.uk,cryptopotato.com,cryptoreporter.info,cryptoslate.com,cryptotimes.io,dafontfree.io,dailynewshungary.com,digitalreg.net,dorohedoro.online,dramacool.com.my,ecoportal.net,ecoticias.com,emobilityplus.com,engineering-designer.com,epicdope.com,eurweb.com,fandomwire.com,firstcuriosity.com,firstsportz.com,flashbak.com,flickeringmyth.com,flowmountainbike.com,flyingmag.com,freemagazines.top,gadgetinsiders.com,gamebyte.com,gameinfinitus.com,gamertweak.com,gamingdeputy.com,gatewayhispanic.com,gatewaynews.co.za,geekdashboard.com,geekzag.com,glassalmanac.com,goodyfeed.com,greekreporter.com,hard-drive.net,harrowonline.org,haxmac.cc,healthinfo.healthengine.com.au,helihub.com,hollywoodinsider.com,hollywoodunlocked.com,hotcelebshome.com,ifoodreal.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,jardineriaon.com,jessicagavin.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,libertyunlocked.com,linuxfordevices.com,lithub.com,londonlovesbusiness.com,mangaread.org,mb.com.ph,meaningfulspaces.com,medicotopics.com,medievalists.net,mpost.io,mycariboonow.com,mymodernmet.com,mymotherlode.com,nationalfile.com,nexdrive.lol,nexusgames.to,nintendoeverything.com,noahreport.com,nokiapoweruser.com,notalwaysright.com,nxbrew.com,nxbrew.net,organicfacts.net,orlandoweekly.com,patriotfetch.com,pcoptimizedsettings.com,politizoom.com,premiumtimesng.com,primeaudio.org,protrumpnews.com,psu.com,pureinfotech.com,pwmania.com,redrightvideos.com,religionnews.com,reneweconomy.com.au,reptilesmagazine.com,retrohandhelds.gg,rightwingnews.com,roadaheadonline.co.za,rok.guide,romsworlds.com,saabplanet.com,sacurrent.com,sciencenotes.org,simscommunity.info,slaynews.com,small-screen.co.uk,snipercentral.com,snowbrains.com,statisticsbyjim.com,storypick.com,streamingbetter.com,suggest.com,superwatchman.com,talkandroid.com,talkers.com,tech-latest.com,techaeris.com,technobaboy.com,techpp.com,techrounder.com,techviral.net,the-gadgeteer.com,thebeaverton.com,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedailysight.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,theoilrig.ca,thepeoplesvoice.tv,theprint.in,thewincentral.com,thisquality.com,trendingpoliticsnews.com,troypoint.com,tvtonight.com.au,twistedvoxel.com,vice.com,walletinvestor.com,washingtonblade.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,whynow.co.uk,win.gg,windowslatest.com,wisden.com,wltreport.com,wnd.com,wrestlingheadlines.com,wrestlingnews.co,wtmj.com,zerohanger.com,ziperto.com##.code-block
+✅ 多域名拆分: 100percentfedup.com,academicful.com,addapinch.com,aiarticlespinner.co,allaboutfpl.com,alltechnerd.com,americanmilitarynews.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,australiangeographic.com.au,autodaily.com.au,bakeitwithlove.com,bioinformant.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,celtsarehere.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,cjr.org,coincodecap.com,conservativebrief.com,conservativefiringline.com,corrosionhour.com,cricfy.net,crimereads.com,cryptobriefing.com,cryptointelligence.co.uk,cryptopotato.com,cryptoreporter.info,cryptoslate.com,cryptotimes.io,dafontfree.io,dailynewshungary.com,digitalreg.net,dorohedoro.online,dramacool.com.my,ecoportal.net,ecoticias.com,emobilityplus.com,engineering-designer.com,epicdope.com,eurweb.com,fandomwire.com,firstcuriosity.com,firstsportz.com,flashbak.com,flickeringmyth.com,flowmountainbike.com,flyingmag.com,freemagazines.top,gadgetinsiders.com,gamebyte.com,gameinfinitus.com,gamertweak.com,gamingdeputy.com,gatewayhispanic.com,gatewaynews.co.za,geekdashboard.com,geekzag.com,glassalmanac.com,goodyfeed.com,greekreporter.com,hard-drive.net,harrowonline.org,haxmac.cc,healthinfo.healthengine.com.au,helihub.com,hollywoodinsider.com,hollywoodunlocked.com,hotcelebshome.com,ifoodreal.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,jardineriaon.com,jessicagavin.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,libertyunlocked.com,linuxfordevices.com,lithub.com,londonlovesbusiness.com,mangaread.org,mb.com.ph,meaningfulspaces.com,medicotopics.com,medievalists.net,mpost.io,mycariboonow.com,mymodernmet.com,mymotherlode.com,nationalfile.com,nexdrive.lol,nexusgames.to,nintendoeverything.com,noahreport.com,nokiapoweruser.com,notalwaysright.com,nxbrew.com,nxbrew.net,organicfacts.net,orlandoweekly.com,patriotfetch.com,pcoptimizedsettings.com,politizoom.com,premiumtimesng.com,primeaudio.org,protrumpnews.com,psu.com,pureinfotech.com,pwmania.com,redrightvideos.com,religionnews.com,reneweconomy.com.au,reptilesmagazine.com,retrohandhelds.gg,rightwingnews.com,roadaheadonline.co.za,rok.guide,romsworlds.com,saabplanet.com,sacurrent.com,sciencenotes.org,simscommunity.info,slaynews.com,small-screen.co.uk,snipercentral.com,snowbrains.com,statisticsbyjim.com,storypick.com,streamingbetter.com,suggest.com,superwatchman.com,talkandroid.com,talkers.com,tech-latest.com,techaeris.com,technobaboy.com,techpp.com,techrounder.com,techviral.net,the-gadgeteer.com,theautopian.com,thebeaverton.com,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedailysight.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,theoilrig.ca,thepeoplesvoice.tv,theprint.in,thewincentral.com,thisquality.com,trendingpoliticsnews.com,troypoint.com,tvtonight.com.au,twistedvoxel.com,vice.com,walletinvestor.com,washingtonblade.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,whynow.co.uk,win.gg,windowslatest.com,wisden.com,wltreport.com,wnd.com,wrestlingheadlines.com,wrestlingnews.co,wtmj.com,zerohanger.com,ziperto.com##.code-block
     → |100percentfedup.com##.code-block
     → |academicful.com##.code-block
     → |addapinch.com##.code-block
@@ -18968,6 +18995,7 @@
     → |techrounder.com##.code-block
     → |techviral.net##.code-block
     → |the-gadgeteer.com##.code-block
+    → |theautopian.com##.code-block
     → |thebeaverton.com##.code-block
     → |theblueoceansgroup.com##.code-block
     → |thecinemaholic.com##.code-block
@@ -19455,9 +19483,6 @@
 ✅ 多域名拆分: 247wallst.com,cubdomain.com##.hello-bar
     → |247wallst.com##.hello-bar
     → |cubdomain.com##.hello-bar
-✅ 多域名拆分: lincolnshireworld.com,nationalworld.com##.helper__AdContainer-sc-12ggaoi-0
-    → |lincolnshireworld.com##.helper__AdContainer-sc-12ggaoi-0
-    → |nationalworld.com##.helper__AdContainer-sc-12ggaoi-0
 ✅ 多域名拆分: antrimnow.co.uk,farminglife.com,newcastleworld.com##.helper__DesktopAdContainer-sc-12ggaoi-1
     → |antrimnow.co.uk##.helper__DesktopAdContainer-sc-12ggaoi-1
     → |farminglife.com##.helper__DesktopAdContainer-sc-12ggaoi-1
@@ -21601,68 +21626,6 @@
     → |dailystar.co.uk##[data-tmdatatrack-type="commercial"]
     → |mirror.co.uk##[data-tmdatatrack-type="commercial"]
     → |themirror.com##[data-tmdatatrack-type="commercial"]
-✅ 多域名拆分: 3addedminutes.com,anguscountyworld.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,blackpoolgazette.co.uk,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,chad.co.uk,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,falkirkherald.co.uk,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,lep.co.uk,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,lutontoday.co.uk,manchesterworld.uk,meltontimes.co.uk,miltonkeynes.co.uk,newcastleworld.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,peterboroughtoday.co.uk,portsmouth.co.uk,rotherhamadvertiser.co.uk,scotsman.com,shieldsgazette.com,stornowaygazette.co.uk,sunderlandecho.com,surreyworld.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,totallysnookered.com,wakefieldexpress.co.uk,warwickshireworld.com,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk##[data-type="AdRowBillboard"]
-    → |3addedminutes.com##[data-type="AdRowBillboard"]
-    → |anguscountyworld.co.uk##[data-type="AdRowBillboard"]
-    → |banburyguardian.co.uk##[data-type="AdRowBillboard"]
-    → |bedfordtoday.co.uk##[data-type="AdRowBillboard"]
-    → |biggleswadetoday.co.uk##[data-type="AdRowBillboard"]
-    → |blackpoolgazette.co.uk##[data-type="AdRowBillboard"]
-    → |bucksherald.co.uk##[data-type="AdRowBillboard"]
-    → |burnleyexpress.net##[data-type="AdRowBillboard"]
-    → |buxtonadvertiser.co.uk##[data-type="AdRowBillboard"]
-    → |chad.co.uk##[data-type="AdRowBillboard"]
-    → |daventryexpress.co.uk##[data-type="AdRowBillboard"]
-    → |derbyshiretimes.co.uk##[data-type="AdRowBillboard"]
-    → |derbyworld.co.uk##[data-type="AdRowBillboard"]
-    → |derryjournal.com##[data-type="AdRowBillboard"]
-    → |dewsburyreporter.co.uk##[data-type="AdRowBillboard"]
-    → |doncasterfreepress.co.uk##[data-type="AdRowBillboard"]
-    → |falkirkherald.co.uk##[data-type="AdRowBillboard"]
-    → |fifetoday.co.uk##[data-type="AdRowBillboard"]
-    → |glasgowworld.com##[data-type="AdRowBillboard"]
-    → |halifaxcourier.co.uk##[data-type="AdRowBillboard"]
-    → |harboroughmail.co.uk##[data-type="AdRowBillboard"]
-    → |harrogateadvertiser.co.uk##[data-type="AdRowBillboard"]
-    → |hartlepoolmail.co.uk##[data-type="AdRowBillboard"]
-    → |hemeltoday.co.uk##[data-type="AdRowBillboard"]
-    → |hucknalldispatch.co.uk##[data-type="AdRowBillboard"]
-    → |lancasterguardian.co.uk##[data-type="AdRowBillboard"]
-    → |leightonbuzzardonline.co.uk##[data-type="AdRowBillboard"]
-    → |lep.co.uk##[data-type="AdRowBillboard"]
-    → |lincolnshireworld.com##[data-type="AdRowBillboard"]
-    → |liverpoolworld.uk##[data-type="AdRowBillboard"]
-    → |londonworld.com##[data-type="AdRowBillboard"]
-    → |lutontoday.co.uk##[data-type="AdRowBillboard"]
-    → |manchesterworld.uk##[data-type="AdRowBillboard"]
-    → |meltontimes.co.uk##[data-type="AdRowBillboard"]
-    → |miltonkeynes.co.uk##[data-type="AdRowBillboard"]
-    → |newcastleworld.com##[data-type="AdRowBillboard"]
-    → |newryreporter.com##[data-type="AdRowBillboard"]
-    → |newsletter.co.uk##[data-type="AdRowBillboard"]
-    → |northamptonchron.co.uk##[data-type="AdRowBillboard"]
-    → |northantstelegraph.co.uk##[data-type="AdRowBillboard"]
-    → |northernirelandworld.com##[data-type="AdRowBillboard"]
-    → |northumberlandgazette.co.uk##[data-type="AdRowBillboard"]
-    → |nottinghamworld.com##[data-type="AdRowBillboard"]
-    → |peterboroughtoday.co.uk##[data-type="AdRowBillboard"]
-    → |portsmouth.co.uk##[data-type="AdRowBillboard"]
-    → |rotherhamadvertiser.co.uk##[data-type="AdRowBillboard"]
-    → |scotsman.com##[data-type="AdRowBillboard"]
-    → |shieldsgazette.com##[data-type="AdRowBillboard"]
-    → |stornowaygazette.co.uk##[data-type="AdRowBillboard"]
-    → |sunderlandecho.com##[data-type="AdRowBillboard"]
-    → |surreyworld.co.uk##[data-type="AdRowBillboard"]
-    → |thescarboroughnews.co.uk##[data-type="AdRowBillboard"]
-    → |thesouthernreporter.co.uk##[data-type="AdRowBillboard"]
-    → |thestar.co.uk##[data-type="AdRowBillboard"]
-    → |totallysnookered.com##[data-type="AdRowBillboard"]
-    → |wakefieldexpress.co.uk##[data-type="AdRowBillboard"]
-    → |warwickshireworld.com##[data-type="AdRowBillboard"]
-    → |wigantoday.net##[data-type="AdRowBillboard"]
-    → |worksopguardian.co.uk##[data-type="AdRowBillboard"]
-    → |yorkshireeveningpost.co.uk##[data-type="AdRowBillboard"]
-    → |yorkshirepost.co.uk##[data-type="AdRowBillboard"]
 ✅ 多域名拆分: search.brave.com,thesportsrush.com##[data-type="ad"]
     → |search.brave.com##[data-type="ad"]
     → |thesportsrush.com##[data-type="ad"]
@@ -22164,136 +22127,12 @@
 ✅ 多域名拆分: breastcancer.org,emojipedia.org##div[class^="AdContainer"]
     → |breastcancer.org##div[class^="AdContainer"]
     → |emojipedia.org##div[class^="AdContainer"]
-✅ 多域名拆分: 3addedminutes.com,anguscountyworld.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,blackpoolgazette.co.uk,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,chad.co.uk,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,falkirkherald.co.uk,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,lep.co.uk,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,lutontoday.co.uk,manchesterworld.uk,meltontimes.co.uk,miltonkeynes.co.uk,newcastleworld.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,peterboroughtoday.co.uk,portsmouth.co.uk,rotherhamadvertiser.co.uk,scotsman.com,shieldsgazette.com,stornowaygazette.co.uk,sunderlandecho.com,surreyworld.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,totallysnookered.com,wakefieldexpress.co.uk,warwickshireworld.com,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk##div[class^="AdLoadingText"]
-    → |3addedminutes.com##div[class^="AdLoadingText"]
-    → |anguscountyworld.co.uk##div[class^="AdLoadingText"]
-    → |banburyguardian.co.uk##div[class^="AdLoadingText"]
-    → |bedfordtoday.co.uk##div[class^="AdLoadingText"]
-    → |biggleswadetoday.co.uk##div[class^="AdLoadingText"]
-    → |blackpoolgazette.co.uk##div[class^="AdLoadingText"]
-    → |bucksherald.co.uk##div[class^="AdLoadingText"]
-    → |burnleyexpress.net##div[class^="AdLoadingText"]
-    → |buxtonadvertiser.co.uk##div[class^="AdLoadingText"]
-    → |chad.co.uk##div[class^="AdLoadingText"]
-    → |daventryexpress.co.uk##div[class^="AdLoadingText"]
-    → |derbyshiretimes.co.uk##div[class^="AdLoadingText"]
-    → |derbyworld.co.uk##div[class^="AdLoadingText"]
-    → |derryjournal.com##div[class^="AdLoadingText"]
-    → |dewsburyreporter.co.uk##div[class^="AdLoadingText"]
-    → |doncasterfreepress.co.uk##div[class^="AdLoadingText"]
-    → |falkirkherald.co.uk##div[class^="AdLoadingText"]
-    → |fifetoday.co.uk##div[class^="AdLoadingText"]
-    → |glasgowworld.com##div[class^="AdLoadingText"]
-    → |halifaxcourier.co.uk##div[class^="AdLoadingText"]
-    → |harboroughmail.co.uk##div[class^="AdLoadingText"]
-    → |harrogateadvertiser.co.uk##div[class^="AdLoadingText"]
-    → |hartlepoolmail.co.uk##div[class^="AdLoadingText"]
-    → |hemeltoday.co.uk##div[class^="AdLoadingText"]
-    → |hucknalldispatch.co.uk##div[class^="AdLoadingText"]
-    → |lancasterguardian.co.uk##div[class^="AdLoadingText"]
-    → |leightonbuzzardonline.co.uk##div[class^="AdLoadingText"]
-    → |lep.co.uk##div[class^="AdLoadingText"]
-    → |lincolnshireworld.com##div[class^="AdLoadingText"]
-    → |liverpoolworld.uk##div[class^="AdLoadingText"]
-    → |londonworld.com##div[class^="AdLoadingText"]
-    → |lutontoday.co.uk##div[class^="AdLoadingText"]
-    → |manchesterworld.uk##div[class^="AdLoadingText"]
-    → |meltontimes.co.uk##div[class^="AdLoadingText"]
-    → |miltonkeynes.co.uk##div[class^="AdLoadingText"]
-    → |newcastleworld.com##div[class^="AdLoadingText"]
-    → |newryreporter.com##div[class^="AdLoadingText"]
-    → |newsletter.co.uk##div[class^="AdLoadingText"]
-    → |northamptonchron.co.uk##div[class^="AdLoadingText"]
-    → |northantstelegraph.co.uk##div[class^="AdLoadingText"]
-    → |northernirelandworld.com##div[class^="AdLoadingText"]
-    → |northumberlandgazette.co.uk##div[class^="AdLoadingText"]
-    → |nottinghamworld.com##div[class^="AdLoadingText"]
-    → |peterboroughtoday.co.uk##div[class^="AdLoadingText"]
-    → |portsmouth.co.uk##div[class^="AdLoadingText"]
-    → |rotherhamadvertiser.co.uk##div[class^="AdLoadingText"]
-    → |scotsman.com##div[class^="AdLoadingText"]
-    → |shieldsgazette.com##div[class^="AdLoadingText"]
-    → |stornowaygazette.co.uk##div[class^="AdLoadingText"]
-    → |sunderlandecho.com##div[class^="AdLoadingText"]
-    → |surreyworld.co.uk##div[class^="AdLoadingText"]
-    → |thescarboroughnews.co.uk##div[class^="AdLoadingText"]
-    → |thesouthernreporter.co.uk##div[class^="AdLoadingText"]
-    → |thestar.co.uk##div[class^="AdLoadingText"]
-    → |totallysnookered.com##div[class^="AdLoadingText"]
-    → |wakefieldexpress.co.uk##div[class^="AdLoadingText"]
-    → |warwickshireworld.com##div[class^="AdLoadingText"]
-    → |wigantoday.net##div[class^="AdLoadingText"]
-    → |worksopguardian.co.uk##div[class^="AdLoadingText"]
-    → |yorkshireeveningpost.co.uk##div[class^="AdLoadingText"]
-    → |yorkshirepost.co.uk##div[class^="AdLoadingText"]
 ✅ 多域名拆分: pricespy.co.nz,pricespy.co.uk##div[class^="AdPlacement"]
     → |pricespy.co.nz##div[class^="AdPlacement"]
     → |pricespy.co.uk##div[class^="AdPlacement"]
 ✅ 多域名拆分: games.dailymail.co.uk,nba.com##div[class^="DisplayAd_"]
     → |games.dailymail.co.uk##div[class^="DisplayAd_"]
     → |nba.com##div[class^="DisplayAd_"]
-✅ 多域名拆分: 3addedminutes.com,anguscountyworld.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,blackpoolgazette.co.uk,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,chad.co.uk,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,falkirkherald.co.uk,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,lep.co.uk,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,lutontoday.co.uk,manchesterworld.uk,meltontimes.co.uk,miltonkeynes.co.uk,newcastleworld.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,peterboroughtoday.co.uk,portsmouth.co.uk,rotherhamadvertiser.co.uk,scotsman.com,shieldsgazette.com,stornowaygazette.co.uk,sunderlandecho.com,surreyworld.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,totallysnookered.com,wakefieldexpress.co.uk,warwickshireworld.com,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk##div[class^="SidebarAds_"]
-    → |3addedminutes.com##div[class^="SidebarAds_"]
-    → |anguscountyworld.co.uk##div[class^="SidebarAds_"]
-    → |banburyguardian.co.uk##div[class^="SidebarAds_"]
-    → |bedfordtoday.co.uk##div[class^="SidebarAds_"]
-    → |biggleswadetoday.co.uk##div[class^="SidebarAds_"]
-    → |blackpoolgazette.co.uk##div[class^="SidebarAds_"]
-    → |bucksherald.co.uk##div[class^="SidebarAds_"]
-    → |burnleyexpress.net##div[class^="SidebarAds_"]
-    → |buxtonadvertiser.co.uk##div[class^="SidebarAds_"]
-    → |chad.co.uk##div[class^="SidebarAds_"]
-    → |daventryexpress.co.uk##div[class^="SidebarAds_"]
-    → |derbyshiretimes.co.uk##div[class^="SidebarAds_"]
-    → |derbyworld.co.uk##div[class^="SidebarAds_"]
-    → |derryjournal.com##div[class^="SidebarAds_"]
-    → |dewsburyreporter.co.uk##div[class^="SidebarAds_"]
-    → |doncasterfreepress.co.uk##div[class^="SidebarAds_"]
-    → |falkirkherald.co.uk##div[class^="SidebarAds_"]
-    → |fifetoday.co.uk##div[class^="SidebarAds_"]
-    → |glasgowworld.com##div[class^="SidebarAds_"]
-    → |halifaxcourier.co.uk##div[class^="SidebarAds_"]
-    → |harboroughmail.co.uk##div[class^="SidebarAds_"]
-    → |harrogateadvertiser.co.uk##div[class^="SidebarAds_"]
-    → |hartlepoolmail.co.uk##div[class^="SidebarAds_"]
-    → |hemeltoday.co.uk##div[class^="SidebarAds_"]
-    → |hucknalldispatch.co.uk##div[class^="SidebarAds_"]
-    → |lancasterguardian.co.uk##div[class^="SidebarAds_"]
-    → |leightonbuzzardonline.co.uk##div[class^="SidebarAds_"]
-    → |lep.co.uk##div[class^="SidebarAds_"]
-    → |lincolnshireworld.com##div[class^="SidebarAds_"]
-    → |liverpoolworld.uk##div[class^="SidebarAds_"]
-    → |londonworld.com##div[class^="SidebarAds_"]
-    → |lutontoday.co.uk##div[class^="SidebarAds_"]
-    → |manchesterworld.uk##div[class^="SidebarAds_"]
-    → |meltontimes.co.uk##div[class^="SidebarAds_"]
-    → |miltonkeynes.co.uk##div[class^="SidebarAds_"]
-    → |newcastleworld.com##div[class^="SidebarAds_"]
-    → |newryreporter.com##div[class^="SidebarAds_"]
-    → |newsletter.co.uk##div[class^="SidebarAds_"]
-    → |northamptonchron.co.uk##div[class^="SidebarAds_"]
-    → |northantstelegraph.co.uk##div[class^="SidebarAds_"]
-    → |northernirelandworld.com##div[class^="SidebarAds_"]
-    → |northumberlandgazette.co.uk##div[class^="SidebarAds_"]
-    → |nottinghamworld.com##div[class^="SidebarAds_"]
-    → |peterboroughtoday.co.uk##div[class^="SidebarAds_"]
-    → |portsmouth.co.uk##div[class^="SidebarAds_"]
-    → |rotherhamadvertiser.co.uk##div[class^="SidebarAds_"]
-    → |scotsman.com##div[class^="SidebarAds_"]
-    → |shieldsgazette.com##div[class^="SidebarAds_"]
-    → |stornowaygazette.co.uk##div[class^="SidebarAds_"]
-    → |sunderlandecho.com##div[class^="SidebarAds_"]
-    → |surreyworld.co.uk##div[class^="SidebarAds_"]
-    → |thescarboroughnews.co.uk##div[class^="SidebarAds_"]
-    → |thesouthernreporter.co.uk##div[class^="SidebarAds_"]
-    → |thestar.co.uk##div[class^="SidebarAds_"]
-    → |totallysnookered.com##div[class^="SidebarAds_"]
-    → |wakefieldexpress.co.uk##div[class^="SidebarAds_"]
-    → |warwickshireworld.com##div[class^="SidebarAds_"]
-    → |wigantoday.net##div[class^="SidebarAds_"]
-    → |worksopguardian.co.uk##div[class^="SidebarAds_"]
-    → |yorkshireeveningpost.co.uk##div[class^="SidebarAds_"]
-    → |yorkshirepost.co.uk##div[class^="SidebarAds_"]
 ✅ 多域名拆分: fox11online.com,weartv.com##div[class^="StoryPage_taboolaDeeperDive"]
     → |fox11online.com##div[class^="StoryPage_taboolaDeeperDive"]
     → |weartv.com##div[class^="StoryPage_taboolaDeeperDive"]
@@ -22320,134 +22159,10 @@
     → |pdftoimage.com##div[class^="ha"]
     → |topdf.com##div[class^="ha"]
     → |webpconverter.com##div[class^="ha"]
-✅ 多域名拆分: 3addedminutes.com,anguscountyworld.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,blackpoolgazette.co.uk,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,chad.co.uk,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,falkirkherald.co.uk,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,lep.co.uk,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,lutontoday.co.uk,manchesterworld.uk,meltontimes.co.uk,miltonkeynes.co.uk,newcastleworld.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,peterboroughtoday.co.uk,portsmouth.co.uk,rotherhamadvertiser.co.uk,scotsman.com,shieldsgazette.com,stornowaygazette.co.uk,sunderlandecho.com,surreyworld.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,totallysnookered.com,wakefieldexpress.co.uk,warwickshireworld.com,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk##div[class^="helper__AdContainer"]
-    → |3addedminutes.com##div[class^="helper__AdContainer"]
-    → |anguscountyworld.co.uk##div[class^="helper__AdContainer"]
-    → |banburyguardian.co.uk##div[class^="helper__AdContainer"]
-    → |bedfordtoday.co.uk##div[class^="helper__AdContainer"]
-    → |biggleswadetoday.co.uk##div[class^="helper__AdContainer"]
-    → |blackpoolgazette.co.uk##div[class^="helper__AdContainer"]
-    → |bucksherald.co.uk##div[class^="helper__AdContainer"]
-    → |burnleyexpress.net##div[class^="helper__AdContainer"]
-    → |buxtonadvertiser.co.uk##div[class^="helper__AdContainer"]
-    → |chad.co.uk##div[class^="helper__AdContainer"]
-    → |daventryexpress.co.uk##div[class^="helper__AdContainer"]
-    → |derbyshiretimes.co.uk##div[class^="helper__AdContainer"]
-    → |derbyworld.co.uk##div[class^="helper__AdContainer"]
-    → |derryjournal.com##div[class^="helper__AdContainer"]
-    → |dewsburyreporter.co.uk##div[class^="helper__AdContainer"]
-    → |doncasterfreepress.co.uk##div[class^="helper__AdContainer"]
-    → |falkirkherald.co.uk##div[class^="helper__AdContainer"]
-    → |fifetoday.co.uk##div[class^="helper__AdContainer"]
-    → |glasgowworld.com##div[class^="helper__AdContainer"]
-    → |halifaxcourier.co.uk##div[class^="helper__AdContainer"]
-    → |harboroughmail.co.uk##div[class^="helper__AdContainer"]
-    → |harrogateadvertiser.co.uk##div[class^="helper__AdContainer"]
-    → |hartlepoolmail.co.uk##div[class^="helper__AdContainer"]
-    → |hemeltoday.co.uk##div[class^="helper__AdContainer"]
-    → |hucknalldispatch.co.uk##div[class^="helper__AdContainer"]
-    → |lancasterguardian.co.uk##div[class^="helper__AdContainer"]
-    → |leightonbuzzardonline.co.uk##div[class^="helper__AdContainer"]
-    → |lep.co.uk##div[class^="helper__AdContainer"]
-    → |lincolnshireworld.com##div[class^="helper__AdContainer"]
-    → |liverpoolworld.uk##div[class^="helper__AdContainer"]
-    → |londonworld.com##div[class^="helper__AdContainer"]
-    → |lutontoday.co.uk##div[class^="helper__AdContainer"]
-    → |manchesterworld.uk##div[class^="helper__AdContainer"]
-    → |meltontimes.co.uk##div[class^="helper__AdContainer"]
-    → |miltonkeynes.co.uk##div[class^="helper__AdContainer"]
-    → |newcastleworld.com##div[class^="helper__AdContainer"]
-    → |newryreporter.com##div[class^="helper__AdContainer"]
-    → |newsletter.co.uk##div[class^="helper__AdContainer"]
-    → |northamptonchron.co.uk##div[class^="helper__AdContainer"]
-    → |northantstelegraph.co.uk##div[class^="helper__AdContainer"]
-    → |northernirelandworld.com##div[class^="helper__AdContainer"]
-    → |northumberlandgazette.co.uk##div[class^="helper__AdContainer"]
-    → |nottinghamworld.com##div[class^="helper__AdContainer"]
-    → |peterboroughtoday.co.uk##div[class^="helper__AdContainer"]
-    → |portsmouth.co.uk##div[class^="helper__AdContainer"]
-    → |rotherhamadvertiser.co.uk##div[class^="helper__AdContainer"]
-    → |scotsman.com##div[class^="helper__AdContainer"]
-    → |shieldsgazette.com##div[class^="helper__AdContainer"]
-    → |stornowaygazette.co.uk##div[class^="helper__AdContainer"]
-    → |sunderlandecho.com##div[class^="helper__AdContainer"]
-    → |surreyworld.co.uk##div[class^="helper__AdContainer"]
-    → |thescarboroughnews.co.uk##div[class^="helper__AdContainer"]
-    → |thesouthernreporter.co.uk##div[class^="helper__AdContainer"]
-    → |thestar.co.uk##div[class^="helper__AdContainer"]
-    → |totallysnookered.com##div[class^="helper__AdContainer"]
-    → |wakefieldexpress.co.uk##div[class^="helper__AdContainer"]
-    → |warwickshireworld.com##div[class^="helper__AdContainer"]
-    → |wigantoday.net##div[class^="helper__AdContainer"]
-    → |worksopguardian.co.uk##div[class^="helper__AdContainer"]
-    → |yorkshireeveningpost.co.uk##div[class^="helper__AdContainer"]
-    → |yorkshirepost.co.uk##div[class^="helper__AdContainer"]
 ✅ 多域名拆分: nationalmemo.com,spectrum.ieee.org,theodysseyonline.com##div[class^="rblad-"]
     → |nationalmemo.com##div[class^="rblad-"]
     → |spectrum.ieee.org##div[class^="rblad-"]
     → |theodysseyonline.com##div[class^="rblad-"]
-✅ 多域名拆分: 3addedminutes.com,anguscountyworld.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,blackpoolgazette.co.uk,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,chad.co.uk,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,falkirkherald.co.uk,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,lep.co.uk,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,lutontoday.co.uk,manchesterworld.uk,meltontimes.co.uk,miltonkeynes.co.uk,newcastleworld.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,peterboroughtoday.co.uk,portsmouth.co.uk,rotherhamadvertiser.co.uk,scotsman.com,shieldsgazette.com,stornowaygazette.co.uk,sunderlandecho.com,surreyworld.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,totallysnookered.com,wakefieldexpress.co.uk,warwickshireworld.com,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk##div[data-ads-params]
-    → |3addedminutes.com##div[data-ads-params]
-    → |anguscountyworld.co.uk##div[data-ads-params]
-    → |banburyguardian.co.uk##div[data-ads-params]
-    → |bedfordtoday.co.uk##div[data-ads-params]
-    → |biggleswadetoday.co.uk##div[data-ads-params]
-    → |blackpoolgazette.co.uk##div[data-ads-params]
-    → |bucksherald.co.uk##div[data-ads-params]
-    → |burnleyexpress.net##div[data-ads-params]
-    → |buxtonadvertiser.co.uk##div[data-ads-params]
-    → |chad.co.uk##div[data-ads-params]
-    → |daventryexpress.co.uk##div[data-ads-params]
-    → |derbyshiretimes.co.uk##div[data-ads-params]
-    → |derbyworld.co.uk##div[data-ads-params]
-    → |derryjournal.com##div[data-ads-params]
-    → |dewsburyreporter.co.uk##div[data-ads-params]
-    → |doncasterfreepress.co.uk##div[data-ads-params]
-    → |falkirkherald.co.uk##div[data-ads-params]
-    → |fifetoday.co.uk##div[data-ads-params]
-    → |glasgowworld.com##div[data-ads-params]
-    → |halifaxcourier.co.uk##div[data-ads-params]
-    → |harboroughmail.co.uk##div[data-ads-params]
-    → |harrogateadvertiser.co.uk##div[data-ads-params]
-    → |hartlepoolmail.co.uk##div[data-ads-params]
-    → |hemeltoday.co.uk##div[data-ads-params]
-    → |hucknalldispatch.co.uk##div[data-ads-params]
-    → |lancasterguardian.co.uk##div[data-ads-params]
-    → |leightonbuzzardonline.co.uk##div[data-ads-params]
-    → |lep.co.uk##div[data-ads-params]
-    → |lincolnshireworld.com##div[data-ads-params]
-    → |liverpoolworld.uk##div[data-ads-params]
-    → |londonworld.com##div[data-ads-params]
-    → |lutontoday.co.uk##div[data-ads-params]
-    → |manchesterworld.uk##div[data-ads-params]
-    → |meltontimes.co.uk##div[data-ads-params]
-    → |miltonkeynes.co.uk##div[data-ads-params]
-    → |newcastleworld.com##div[data-ads-params]
-    → |newryreporter.com##div[data-ads-params]
-    → |newsletter.co.uk##div[data-ads-params]
-    → |northamptonchron.co.uk##div[data-ads-params]
-    → |northantstelegraph.co.uk##div[data-ads-params]
-    → |northernirelandworld.com##div[data-ads-params]
-    → |northumberlandgazette.co.uk##div[data-ads-params]
-    → |nottinghamworld.com##div[data-ads-params]
-    → |peterboroughtoday.co.uk##div[data-ads-params]
-    → |portsmouth.co.uk##div[data-ads-params]
-    → |rotherhamadvertiser.co.uk##div[data-ads-params]
-    → |scotsman.com##div[data-ads-params]
-    → |shieldsgazette.com##div[data-ads-params]
-    → |stornowaygazette.co.uk##div[data-ads-params]
-    → |sunderlandecho.com##div[data-ads-params]
-    → |surreyworld.co.uk##div[data-ads-params]
-    → |thescarboroughnews.co.uk##div[data-ads-params]
-    → |thesouthernreporter.co.uk##div[data-ads-params]
-    → |thestar.co.uk##div[data-ads-params]
-    → |totallysnookered.com##div[data-ads-params]
-    → |wakefieldexpress.co.uk##div[data-ads-params]
-    → |warwickshireworld.com##div[data-ads-params]
-    → |wigantoday.net##div[data-ads-params]
-    → |worksopguardian.co.uk##div[data-ads-params]
-    → |yorkshireeveningpost.co.uk##div[data-ads-params]
-    → |yorkshirepost.co.uk##div[data-ads-params]
 ✅ 多域名拆分: gamingbible.com,unilad.com##div[data-cypress^="sticky-header"]
     → |gamingbible.com##div[data-cypress^="sticky-header"]
     → |unilad.com##div[data-cypress^="sticky-header"]
@@ -23510,6 +23225,68 @@
     → |thespun.com##.exco-player-wrapper
     → |thestreet.com##.exco-player-wrapper
     → |travelhost.com##.exco-player-wrapper
+✅ 多域名拆分: 3addedminutes.com,anguscountyworld.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,blackpoolgazette.co.uk,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,chad.co.uk,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,falkirkherald.co.uk,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,lep.co.uk,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,lutontoday.co.uk,manchesterworld.uk,meltontimes.co.uk,miltonkeynes.co.uk,newcastleworld.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,peterboroughtoday.co.uk,portsmouth.co.uk,rotherhamadvertiser.co.uk,scotsman.com,shieldsgazette.com,stornowaygazette.co.uk,sunderlandecho.com,surreyworld.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,totallysnookered.com,wakefieldexpress.co.uk,warwickshireworld.com,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk##.exco-video-player
+    → |3addedminutes.com##.exco-video-player
+    → |anguscountyworld.co.uk##.exco-video-player
+    → |banburyguardian.co.uk##.exco-video-player
+    → |bedfordtoday.co.uk##.exco-video-player
+    → |biggleswadetoday.co.uk##.exco-video-player
+    → |blackpoolgazette.co.uk##.exco-video-player
+    → |bucksherald.co.uk##.exco-video-player
+    → |burnleyexpress.net##.exco-video-player
+    → |buxtonadvertiser.co.uk##.exco-video-player
+    → |chad.co.uk##.exco-video-player
+    → |daventryexpress.co.uk##.exco-video-player
+    → |derbyshiretimes.co.uk##.exco-video-player
+    → |derbyworld.co.uk##.exco-video-player
+    → |derryjournal.com##.exco-video-player
+    → |dewsburyreporter.co.uk##.exco-video-player
+    → |doncasterfreepress.co.uk##.exco-video-player
+    → |falkirkherald.co.uk##.exco-video-player
+    → |fifetoday.co.uk##.exco-video-player
+    → |glasgowworld.com##.exco-video-player
+    → |halifaxcourier.co.uk##.exco-video-player
+    → |harboroughmail.co.uk##.exco-video-player
+    → |harrogateadvertiser.co.uk##.exco-video-player
+    → |hartlepoolmail.co.uk##.exco-video-player
+    → |hemeltoday.co.uk##.exco-video-player
+    → |hucknalldispatch.co.uk##.exco-video-player
+    → |lancasterguardian.co.uk##.exco-video-player
+    → |leightonbuzzardonline.co.uk##.exco-video-player
+    → |lep.co.uk##.exco-video-player
+    → |lincolnshireworld.com##.exco-video-player
+    → |liverpoolworld.uk##.exco-video-player
+    → |londonworld.com##.exco-video-player
+    → |lutontoday.co.uk##.exco-video-player
+    → |manchesterworld.uk##.exco-video-player
+    → |meltontimes.co.uk##.exco-video-player
+    → |miltonkeynes.co.uk##.exco-video-player
+    → |newcastleworld.com##.exco-video-player
+    → |newryreporter.com##.exco-video-player
+    → |newsletter.co.uk##.exco-video-player
+    → |northamptonchron.co.uk##.exco-video-player
+    → |northantstelegraph.co.uk##.exco-video-player
+    → |northernirelandworld.com##.exco-video-player
+    → |northumberlandgazette.co.uk##.exco-video-player
+    → |nottinghamworld.com##.exco-video-player
+    → |peterboroughtoday.co.uk##.exco-video-player
+    → |portsmouth.co.uk##.exco-video-player
+    → |rotherhamadvertiser.co.uk##.exco-video-player
+    → |scotsman.com##.exco-video-player
+    → |shieldsgazette.com##.exco-video-player
+    → |stornowaygazette.co.uk##.exco-video-player
+    → |sunderlandecho.com##.exco-video-player
+    → |surreyworld.co.uk##.exco-video-player
+    → |thescarboroughnews.co.uk##.exco-video-player
+    → |thesouthernreporter.co.uk##.exco-video-player
+    → |thestar.co.uk##.exco-video-player
+    → |totallysnookered.com##.exco-video-player
+    → |wakefieldexpress.co.uk##.exco-video-player
+    → |warwickshireworld.com##.exco-video-player
+    → |wigantoday.net##.exco-video-player
+    → |worksopguardian.co.uk##.exco-video-player
+    → |yorkshireeveningpost.co.uk##.exco-video-player
+    → |yorkshirepost.co.uk##.exco-video-player
 ✅ 多域名拆分: foodbible.com,gamingbible.com,ladbible.com,sportbible.com,tyla.com,unilad.com,uniladtech.com##.floating-video-player_container__u4D9_
     → |foodbible.com##.floating-video-player_container__u4D9_
     → |gamingbible.com##.floating-video-player_container__u4D9_
@@ -23525,6 +23302,12 @@
 ✅ 多域名拆分: communitychickens.com,keepingbackyardbees.com##.jumbo-ad
     → |communitychickens.com##.jumbo-ad
     → |keepingbackyardbees.com##.jumbo-ad
+✅ 多域名拆分: pickleball.com,pickleballclubs.com,pickleballleagues.com,pickleballteamleagues.com,pickleballtournaments.com##.justify-center.flex.w-full:has([name])
+    → |pickleball.com##.justify-center.flex.w-full:has([name])
+    → |pickleballclubs.com##.justify-center.flex.w-full:has([name])
+    → |pickleballleagues.com##.justify-center.flex.w-full:has([name])
+    → |pickleballteamleagues.com##.justify-center.flex.w-full:has([name])
+    → |pickleballtournaments.com##.justify-center.flex.w-full:has([name])
 ✅ 多域名拆分: evoke.ie,extra.ie##.jw-player-video-widget
     → |evoke.ie##.jw-player-video-widget
     → |extra.ie##.jw-player-video-widget
@@ -25567,10 +25350,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: 6hEaah8DkWk8OdBxFNc1fg
-🚫 去掉注释行: ! Version: 202611112252
+🚫 去掉注释行: ! Checksum: hiR4AQsZ1T2Oe0SwPbYI0A
+🚫 去掉注释行: ! Version: 202611120332
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 11 Nov 2026 22:52 UTC
+🚫 去掉注释行: ! Last modified: 12 Nov 2026 03:32 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -28918,10 +28701,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: 9jqklLdlvqSbeTeRxwJW9A
-🚫 去掉注释行: ! Version: 202611112252
+🚫 去掉注释行: ! Checksum: 4cGLyhbZOillbOgEvKeXBA
+🚫 去掉注释行: ! Version: 202611120332
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 11 Nov 2026 22:52 UTC
+🚫 去掉注释行: ! Last modified: 12 Nov 2026 03:32 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29159,8 +28942,6 @@
 🚫 去掉注释行: ! a8.net https://github.com/AdguardTeam/cname-trackers/blob/master/data/trackers/a8_net.txt
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Disabled
-🚫 去掉注释行: ! ||cart.matsuzaka-steak.com^
-🚫 去掉注释行: ! remove dube: ||www.a8clk.kanagawa-zero.com^
 🚫 去掉注释行: ! ||www.a8clk.amelia.ne.jp^
 🚫 去掉注释行: ! *** easylist:easyprivacy/easyprivacy_specific_cname_plausible.txt ***
 🚫 去掉注释行: ! easyprivacy_specific_cname_plausible.txt
@@ -29599,11 +29380,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202611112244
+🚫 去掉注释行: ! Version: 202611120338
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 11 Nov 2026 22:44 UTC
+🚫 去掉注释行: ! Last modified: 12 Nov 2026 03:38 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: de2e5a10629847c68a493dadcc214f3f9adb65a0
+🚫 去掉注释行: ! Commit: 5619444016a7f341388b331ebaffaf6741a503c9
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -44775,6 +44556,68 @@
 ✅ 多域名拆分: gogetaroomie.com,snafu-comics.com###top-space
     → |gogetaroomie.com###top-space
     → |snafu-comics.com###top-space
+✅ 多域名拆分: 3addedminutes.com,anguscountyworld.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,blackpoolgazette.co.uk,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,chad.co.uk,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,falkirkherald.co.uk,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,lep.co.uk,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,lutontoday.co.uk,manchesterworld.uk,meltontimes.co.uk,miltonkeynes.co.uk,newcastleworld.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,peterboroughtoday.co.uk,portsmouth.co.uk,rotherhamadvertiser.co.uk,scotsman.com,shieldsgazette.com,stornowaygazette.co.uk,sunderlandecho.com,surreyworld.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,totallysnookered.com,wakefieldexpress.co.uk,warwickshireworld.com,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk###topBanner
+    → |3addedminutes.com###topBanner
+    → |anguscountyworld.co.uk###topBanner
+    → |banburyguardian.co.uk###topBanner
+    → |bedfordtoday.co.uk###topBanner
+    → |biggleswadetoday.co.uk###topBanner
+    → |blackpoolgazette.co.uk###topBanner
+    → |bucksherald.co.uk###topBanner
+    → |burnleyexpress.net###topBanner
+    → |buxtonadvertiser.co.uk###topBanner
+    → |chad.co.uk###topBanner
+    → |daventryexpress.co.uk###topBanner
+    → |derbyshiretimes.co.uk###topBanner
+    → |derbyworld.co.uk###topBanner
+    → |derryjournal.com###topBanner
+    → |dewsburyreporter.co.uk###topBanner
+    → |doncasterfreepress.co.uk###topBanner
+    → |falkirkherald.co.uk###topBanner
+    → |fifetoday.co.uk###topBanner
+    → |glasgowworld.com###topBanner
+    → |halifaxcourier.co.uk###topBanner
+    → |harboroughmail.co.uk###topBanner
+    → |harrogateadvertiser.co.uk###topBanner
+    → |hartlepoolmail.co.uk###topBanner
+    → |hemeltoday.co.uk###topBanner
+    → |hucknalldispatch.co.uk###topBanner
+    → |lancasterguardian.co.uk###topBanner
+    → |leightonbuzzardonline.co.uk###topBanner
+    → |lep.co.uk###topBanner
+    → |lincolnshireworld.com###topBanner
+    → |liverpoolworld.uk###topBanner
+    → |londonworld.com###topBanner
+    → |lutontoday.co.uk###topBanner
+    → |manchesterworld.uk###topBanner
+    → |meltontimes.co.uk###topBanner
+    → |miltonkeynes.co.uk###topBanner
+    → |newcastleworld.com###topBanner
+    → |newryreporter.com###topBanner
+    → |newsletter.co.uk###topBanner
+    → |northamptonchron.co.uk###topBanner
+    → |northantstelegraph.co.uk###topBanner
+    → |northernirelandworld.com###topBanner
+    → |northumberlandgazette.co.uk###topBanner
+    → |nottinghamworld.com###topBanner
+    → |peterboroughtoday.co.uk###topBanner
+    → |portsmouth.co.uk###topBanner
+    → |rotherhamadvertiser.co.uk###topBanner
+    → |scotsman.com###topBanner
+    → |shieldsgazette.com###topBanner
+    → |stornowaygazette.co.uk###topBanner
+    → |sunderlandecho.com###topBanner
+    → |surreyworld.co.uk###topBanner
+    → |thescarboroughnews.co.uk###topBanner
+    → |thesouthernreporter.co.uk###topBanner
+    → |thestar.co.uk###topBanner
+    → |totallysnookered.com###topBanner
+    → |wakefieldexpress.co.uk###topBanner
+    → |warwickshireworld.com###topBanner
+    → |wigantoday.net###topBanner
+    → |worksopguardian.co.uk###topBanner
+    → |yorkshireeveningpost.co.uk###topBanner
+    → |yorkshirepost.co.uk###topBanner
 ✅ 多域名拆分: indy100.com,tarladalal.com###top_banner
     → |indy100.com###top_banner
     → |tarladalal.com###top_banner
@@ -45315,7 +45158,7 @@
     → |home-designing.com##.ad-block
     → |inc.com##.ad-block
     → |trustpilot.com##.ad-block
-✅ 多域名拆分: 12news.com,8gwifi.org,9news.com,9to5google.com,9to5mac.com,aad.org,advfn.com,all3dp.com,allaboutcookies.org,allnovel.net,amny.com,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,bolavip.com,bonappetit.com,breakingac.com,britishheritage.com,businessday.ng,businessinsider.com,capemaynjdaily.com,cbs8.com,cc.com,ccjdigital.com,centralbucksnews.com,dailytrust.com,delish.com,downbeach.com,dutchnews.nl,ecr.co.za,electrek.co,engineeringnews.co.za,equipmentworld.com,euromaidanpress.com,fastcompany.com,fishermap.org,footyheadlines.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,globalspec.com,gmanetwork.com,grammarbook.com,greatbritishchefs.com,greatitalianchefs.com,hbr.org,highdefdigest.com,historynet.com,horshamnow.com,howstuffworks.com,huffpost.com,ibtimes.sg,inc.com,insidehook.com,intouchweekly.com,irishcentral.com,karanpc.com,khou.com,koat.com,ktvu.com,lifeandstylemag.com,longislandpress.com,macstories.net,mail.com,memuplay.com,metro.us,metrophiladelphia.com,minecraftforum.net,miningweekly.com,mixed-news.com,mobilesyrup.com,modernhealthcare.com,namemc.com,nbcnews.com,newrepublic.com,northpennnow.com,nzherald.co.nz,ocnjdaily.com,oneesports.gg,opb.org,outkick.com,papermag.com,perkvalleynow.com,phillydaily.com,physiology.org,pixiv.net,podcastaddict.com,punchng.com,qns.com,realsport101.com,reason.com,refinery29.com,ringsidenews.com,roadandtrack.com,scroll.in,seaislenews.com,seattletimes.com,songkick.com,sportskeeda.com,storyboard18.com,techrepublic.com,the-decoder.com,thedailybeast.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,thenationonlineng.net,thenewstack.io,thepost.co.nz,thetimes.com,tmz.com,toofab.com,tuasaude.com,uploadvr.com,usmagazine.com,vanguardngr.com,wildtangent.com,willowgrovenow.com,wired.com,wogx.com,worldsoccertalk.com,wral.com,yahoo.com##.ad-container
+✅ 多域名拆分: 12news.com,8gwifi.org,9news.com,9to5google.com,9to5mac.com,aad.org,advfn.com,all3dp.com,allaboutcookies.org,allnovel.net,amny.com,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,bolavip.com,bonappetit.com,breakingac.com,britishheritage.com,businessday.ng,businessinsider.com,capemaynjdaily.com,cbs8.com,cc.com,ccjdigital.com,centralbucksnews.com,dailytrust.com,delish.com,downbeach.com,dutchnews.nl,ecr.co.za,electrek.co,engineeringnews.co.za,equipmentworld.com,euromaidanpress.com,fastcompany.com,fishermap.org,footyheadlines.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,globalspec.com,gmanetwork.com,grammarbook.com,greatbritishchefs.com,greatitalianchefs.com,hbr.org,highdefdigest.com,historynet.com,horshamnow.com,howstuffworks.com,huffpost.com,ibtimes.sg,inc.com,insidehook.com,intouchweekly.com,irishcentral.com,karanpc.com,khou.com,koat.com,ktvu.com,lifeandstylemag.com,longislandpress.com,macstories.net,mail.com,memuplay.com,metro.us,metrophiladelphia.com,minecraftforum.net,miningweekly.com,mixed-news.com,mobilesyrup.com,modernhealthcare.com,namemc.com,nbcnews.com,newrepublic.com,northpennnow.com,nzherald.co.nz,ocnjdaily.com,oneesports.gg,opb.org,outkick.com,papermag.com,perkvalleynow.com,phillydaily.com,physiology.org,pixiv.net,podcastaddict.com,punchng.com,qns.com,realsport101.com,reason.com,refinery29.com,ringsidenews.com,roadandtrack.com,runguides.com,scroll.in,seaislenews.com,seattletimes.com,songkick.com,sportskeeda.com,storyboard18.com,techrepublic.com,the-decoder.com,thedailybeast.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,thenationonlineng.net,thenewstack.io,thepost.co.nz,thetimes.com,tmz.com,toofab.com,tuasaude.com,uploadvr.com,usmagazine.com,vanguardngr.com,wildtangent.com,willowgrovenow.com,wired.com,wogx.com,worldsoccertalk.com,wral.com,yahoo.com##.ad-container
     → |12news.com##.ad-container
     → |8gwifi.org##.ad-container
     → |9news.com##.ad-container
@@ -45427,6 +45270,7 @@
     → |refinery29.com##.ad-container
     → |ringsidenews.com##.ad-container
     → |roadandtrack.com##.ad-container
+    → |runguides.com##.ad-container
     → |scroll.in##.ad-container
     → |seaislenews.com##.ad-container
     → |seattletimes.com##.ad-container
@@ -46281,37 +46125,26 @@
     → |clavecd.es##.background-link-right
     → |goclecd.fr##.background-link-right
     → |keyforsteam.de##.background-link-right
-✅ 多域名拆分: 1001games.com,3addedminutes.com,4rfv.co.uk,808fubo808.com,alistapart.com,anguscountyworld.co.uk,antrimnow.co.uk,arcadebomb.com,armageddonexpo.com,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,bikechatforums.com,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bsc.news,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,ca-flyers.com,caixinglobal.com,caribvision.tv,chad.co.uk,cinemadeck.com,coryarcangel.com,csstats.gg,daventryexpress.co.uk,deathbycaptcha.com,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,diffordsguide.com,dominicantoday.com,doncasterfreepress.co.uk,elyricsworld.com,euobserver.com,eurochannel.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,filmmakermagazine.com,foojay.io,footballtradedirectory.com,forexpeacearmy.com,funpic.hu,gartic.io,garticphone.com,gizmodo.com,glasgowworld.com,gr8.cc,gridinsoft.com,gsprating.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hiphopdx.com,hortidaily.com,hucknalldispatch.co.uk,hyipexplorer.com,ibtimes.co.in,ibtimes.co.uk,imgsli.com,insidefutbol.com,ipwatchdog.com,irishpost.com,israelnationalnews.com,japantimes.co.jp,jpost.com,kissasians.org,koreaherald.com,kotaku.com,lancasterguardian.co.uk,laserpointerforums.com,leightonbuzzardonline.co.uk,lep.co.uk,lincolnshireworld.com,liverpoolworld.uk,livescore.in,londonworld.com,lutontoday.co.uk,manchesterworld.uk,marinelink.com,meltontimes.co.uk,mercopress.com,meteoradar.co.uk,miltonkeynes.co.uk,mmorpg.com,mob.org,myflr.org,nationalworld.com,newcastleworld.com,newryreporter.com,news.am,news.net,news12.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,oncyprus.com,onlineconvertfree.com,overclock3d.net,peterboroughtoday.co.uk,pharmatimes.com,photofilters.com,portsmouth.co.uk,powerboat.world,pulsesports.co.ke,pulsesports.ng,pulsesports.ug,roblox.com,rotherhamadvertiser.co.uk,rvtrader.com,sat24.com,scientificamerican.com,scotsman.com,shieldsgazette.com,slidescorner.com,speedcafe.com,starradionortheast.co.uk,stornowaygazette.co.uk,subscene.com,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,sweeting.org,swzz.xyz,tass.com,theconsensus.dev,thefringepodcast.com,theoldreader.com,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,timeslive.co.za,totallysnookered.com,townhall.com,toyworldmag.co.uk,unblockstreaming.com,vibilagare.se,vloot.io,vnexpress.net,wakefieldexpress.co.uk,warwickshireworld.com,weatheronline.co.uk,weekly-ads.us,wigantoday.net,worksopguardian.co.uk,worldtimeserver.com,xbiz.com,ynetnews.com,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yuntrack.com##.banner
+✅ 多域名拆分: 1001games.com,4rfv.co.uk,808fubo808.com,alistapart.com,antrimnow.co.uk,arcadebomb.com,armageddonexpo.com,bikechatforums.com,birminghamworld.uk,bristolworld.com,bsc.news,bucksherald.co.uk,ca-flyers.com,caixinglobal.com,caribvision.tv,cinemadeck.com,coryarcangel.com,csstats.gg,deathbycaptcha.com,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,diffordsguide.com,dominicantoday.com,doncasterfreepress.co.uk,elyricsworld.com,euobserver.com,eurochannel.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,filmmakermagazine.com,foojay.io,footballtradedirectory.com,forexpeacearmy.com,funpic.hu,gartic.io,garticphone.com,gizmodo.com,glasgowworld.com,gr8.cc,gridinsoft.com,gsprating.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hiphopdx.com,hortidaily.com,hyipexplorer.com,ibtimes.co.in,ibtimes.co.uk,imgsli.com,insidefutbol.com,ipwatchdog.com,irishpost.com,israelnationalnews.com,japantimes.co.jp,jpost.com,kissasians.org,koreaherald.com,kotaku.com,laserpointerforums.com,livescore.in,marinelink.com,mercopress.com,meteoradar.co.uk,miltonkeynes.co.uk,mmorpg.com,mob.org,myflr.org,nationalworld.com,newryreporter.com,news.am,news.net,news12.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,nottinghamworld.com,oncyprus.com,onlineconvertfree.com,overclock3d.net,peterboroughtoday.co.uk,pharmatimes.com,photofilters.com,portsmouth.co.uk,powerboat.world,pulsesports.co.ke,pulsesports.ng,pulsesports.ug,roblox.com,rotherhamadvertiser.co.uk,rvtrader.com,sat24.com,scientificamerican.com,slidescorner.com,speedcafe.com,starradionortheast.co.uk,subscene.com,sussexexpress.co.uk,sweeting.org,swzz.xyz,tass.com,theconsensus.dev,thefringepodcast.com,theoldreader.com,timeslive.co.za,totallysnookered.com,townhall.com,toyworldmag.co.uk,unblockstreaming.com,vibilagare.se,vloot.io,vnexpress.net,warwickshireworld.com,weatheronline.co.uk,weekly-ads.us,wigantoday.net,worldtimeserver.com,xbiz.com,ynetnews.com,yuntrack.com##.banner
     → |1001games.com##.banner
-    → |3addedminutes.com##.banner
     → |4rfv.co.uk##.banner
     → |808fubo808.com##.banner
     → |alistapart.com##.banner
-    → |anguscountyworld.co.uk##.banner
     → |antrimnow.co.uk##.banner
     → |arcadebomb.com##.banner
     → |armageddonexpo.com##.banner
-    → |banburyguardian.co.uk##.banner
-    → |bedfordtoday.co.uk##.banner
-    → |biggleswadetoday.co.uk##.banner
     → |bikechatforums.com##.banner
     → |birminghamworld.uk##.banner
-    → |blackpoolgazette.co.uk##.banner
     → |bristolworld.com##.banner
     → |bsc.news##.banner
     → |bucksherald.co.uk##.banner
-    → |burnleyexpress.net##.banner
-    → |buxtonadvertiser.co.uk##.banner
     → |ca-flyers.com##.banner
     → |caixinglobal.com##.banner
     → |caribvision.tv##.banner
-    → |chad.co.uk##.banner
     → |cinemadeck.com##.banner
     → |coryarcangel.com##.banner
     → |csstats.gg##.banner
-    → |daventryexpress.co.uk##.banner
     → |deathbycaptcha.com##.banner
-    → |derbyshiretimes.co.uk##.banner
     → |derbyworld.co.uk##.banner
     → |derryjournal.com##.banner
     → |dewsburyreporter.co.uk##.banner
@@ -46343,7 +46176,6 @@
     → |hemeltoday.co.uk##.banner
     → |hiphopdx.com##.banner
     → |hortidaily.com##.banner
-    → |hucknalldispatch.co.uk##.banner
     → |hyipexplorer.com##.banner
     → |ibtimes.co.in##.banner
     → |ibtimes.co.uk##.banner
@@ -46357,18 +46189,9 @@
     → |kissasians.org##.banner
     → |koreaherald.com##.banner
     → |kotaku.com##.banner
-    → |lancasterguardian.co.uk##.banner
     → |laserpointerforums.com##.banner
-    → |leightonbuzzardonline.co.uk##.banner
-    → |lep.co.uk##.banner
-    → |lincolnshireworld.com##.banner
-    → |liverpoolworld.uk##.banner
     → |livescore.in##.banner
-    → |londonworld.com##.banner
-    → |lutontoday.co.uk##.banner
-    → |manchesterworld.uk##.banner
     → |marinelink.com##.banner
-    → |meltontimes.co.uk##.banner
     → |mercopress.com##.banner
     → |meteoradar.co.uk##.banner
     → |miltonkeynes.co.uk##.banner
@@ -46376,7 +46199,6 @@
     → |mob.org##.banner
     → |myflr.org##.banner
     → |nationalworld.com##.banner
-    → |newcastleworld.com##.banner
     → |newryreporter.com##.banner
     → |news.am##.banner
     → |news.net##.banner
@@ -46385,7 +46207,6 @@
     → |northamptonchron.co.uk##.banner
     → |northantstelegraph.co.uk##.banner
     → |northernirelandworld.com##.banner
-    → |northumberlandgazette.co.uk##.banner
     → |nottinghamworld.com##.banner
     → |oncyprus.com##.banner
     → |onlineconvertfree.com##.banner
@@ -46403,15 +46224,10 @@
     → |rvtrader.com##.banner
     → |sat24.com##.banner
     → |scientificamerican.com##.banner
-    → |scotsman.com##.banner
-    → |shieldsgazette.com##.banner
     → |slidescorner.com##.banner
     → |speedcafe.com##.banner
     → |starradionortheast.co.uk##.banner
-    → |stornowaygazette.co.uk##.banner
     → |subscene.com##.banner
-    → |sunderlandecho.com##.banner
-    → |surreyworld.co.uk##.banner
     → |sussexexpress.co.uk##.banner
     → |sweeting.org##.banner
     → |swzz.xyz##.banner
@@ -46419,9 +46235,6 @@
     → |theconsensus.dev##.banner
     → |thefringepodcast.com##.banner
     → |theoldreader.com##.banner
-    → |thescarboroughnews.co.uk##.banner
-    → |thesouthernreporter.co.uk##.banner
-    → |thestar.co.uk##.banner
     → |timeslive.co.za##.banner
     → |totallysnookered.com##.banner
     → |townhall.com##.banner
@@ -46430,17 +46243,13 @@
     → |vibilagare.se##.banner
     → |vloot.io##.banner
     → |vnexpress.net##.banner
-    → |wakefieldexpress.co.uk##.banner
     → |warwickshireworld.com##.banner
     → |weatheronline.co.uk##.banner
     → |weekly-ads.us##.banner
     → |wigantoday.net##.banner
-    → |worksopguardian.co.uk##.banner
     → |worldtimeserver.com##.banner
     → |xbiz.com##.banner
     → |ynetnews.com##.banner
-    → |yorkshireeveningpost.co.uk##.banner
-    → |yorkshirepost.co.uk##.banner
     → |yuntrack.com##.banner
 ✅ 多域名拆分: kingmods.net,tappedout.net,tvinsider.com##.banner-ad
     → |kingmods.net##.banner-ad
@@ -46550,7 +46359,7 @@
 ✅ 多域名拆分: ipolitics.ca,qpbriefing.com##.big-box
     → |ipolitics.ca##.big-box
     → |qpbriefing.com##.big-box
-✅ 多域名拆分: 9gag.com,aerotime.aero,autotrader.ca,blackpoolgazette.co.uk,bundesliga.com,dev.to,farminglife.com,hotstar.com,ipolitics.ca,lep.co.uk,northamptonchron.co.uk,qpbriefing.com,scotsman.com,shieldsgazette.com,talksport.com,the-sun.com,thescottishsun.co.uk,thestar.co.uk,thesun.co.uk,thesun.ie##.billboard
+✅ 多域名拆分: 9gag.com,aerotime.aero,autotrader.ca,blackpoolgazette.co.uk,bundesliga.com,dev.to,farminglife.com,hotstar.com,ipolitics.ca,lep.co.uk,northamptonchron.co.uk,qpbriefing.com,scotsman.com,talksport.com,the-sun.com,thescottishsun.co.uk,thestar.co.uk,thesun.co.uk,thesun.ie##.billboard
     → |9gag.com##.billboard
     → |aerotime.aero##.billboard
     → |autotrader.ca##.billboard
@@ -46564,7 +46373,6 @@
     → |northamptonchron.co.uk##.billboard
     → |qpbriefing.com##.billboard
     → |scotsman.com##.billboard
-    → |shieldsgazette.com##.billboard
     → |talksport.com##.billboard
     → |the-sun.com##.billboard
     → |thescottishsun.co.uk##.billboard
@@ -46748,7 +46556,7 @@
     → |goodreturns.in##.cmscontent-right1
     → |nativeplanet.com##.cmscontent-right1
     → |oneindia.com##.cmscontent-right1
-✅ 多域名拆分: 100percentfedup.com,academicful.com,addapinch.com,aiarticlespinner.co,allaboutfpl.com,alltechnerd.com,americanmilitarynews.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,australiangeographic.com.au,autodaily.com.au,bakeitwithlove.com,bioinformant.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,celtsarehere.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,cjr.org,coincodecap.com,conservativebrief.com,conservativefiringline.com,corrosionhour.com,cricfy.net,crimereads.com,cryptobriefing.com,cryptointelligence.co.uk,cryptopotato.com,cryptoreporter.info,cryptoslate.com,cryptotimes.io,dafontfree.io,dailynewshungary.com,digitalreg.net,dorohedoro.online,dramacool.com.my,ecoportal.net,ecoticias.com,emobilityplus.com,engineering-designer.com,epicdope.com,eurweb.com,fandomwire.com,firstcuriosity.com,firstsportz.com,flashbak.com,flickeringmyth.com,flowmountainbike.com,flyingmag.com,freemagazines.top,gadgetinsiders.com,gamebyte.com,gameinfinitus.com,gamertweak.com,gamingdeputy.com,gatewayhispanic.com,gatewaynews.co.za,geekdashboard.com,geekzag.com,glassalmanac.com,goodyfeed.com,greekreporter.com,hard-drive.net,harrowonline.org,haxmac.cc,healthinfo.healthengine.com.au,helihub.com,hollywoodinsider.com,hollywoodunlocked.com,hotcelebshome.com,ifoodreal.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,jardineriaon.com,jessicagavin.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,libertyunlocked.com,linuxfordevices.com,lithub.com,londonlovesbusiness.com,mangaread.org,mb.com.ph,meaningfulspaces.com,medicotopics.com,medievalists.net,mpost.io,mycariboonow.com,mymodernmet.com,mymotherlode.com,nationalfile.com,nexdrive.lol,nexusgames.to,nintendoeverything.com,noahreport.com,nokiapoweruser.com,notalwaysright.com,nxbrew.com,nxbrew.net,organicfacts.net,orlandoweekly.com,patriotfetch.com,pcoptimizedsettings.com,politizoom.com,premiumtimesng.com,primeaudio.org,protrumpnews.com,psu.com,pureinfotech.com,pwmania.com,redrightvideos.com,religionnews.com,reneweconomy.com.au,reptilesmagazine.com,retrohandhelds.gg,rightwingnews.com,roadaheadonline.co.za,rok.guide,romsworlds.com,saabplanet.com,sacurrent.com,sciencenotes.org,simscommunity.info,slaynews.com,small-screen.co.uk,snipercentral.com,snowbrains.com,statisticsbyjim.com,storypick.com,streamingbetter.com,suggest.com,superwatchman.com,talkandroid.com,talkers.com,tech-latest.com,techaeris.com,technobaboy.com,techpp.com,techrounder.com,techviral.net,the-gadgeteer.com,thebeaverton.com,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedailysight.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,theoilrig.ca,thepeoplesvoice.tv,theprint.in,thewincentral.com,thisquality.com,trendingpoliticsnews.com,troypoint.com,tvtonight.com.au,twistedvoxel.com,vice.com,walletinvestor.com,washingtonblade.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,whynow.co.uk,win.gg,windowslatest.com,wisden.com,wltreport.com,wnd.com,wrestlingheadlines.com,wrestlingnews.co,wtmj.com,zerohanger.com,ziperto.com##.code-block
+✅ 多域名拆分: 100percentfedup.com,academicful.com,addapinch.com,aiarticlespinner.co,allaboutfpl.com,alltechnerd.com,americanmilitarynews.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,australiangeographic.com.au,autodaily.com.au,bakeitwithlove.com,bioinformant.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,celtsarehere.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,cjr.org,coincodecap.com,conservativebrief.com,conservativefiringline.com,corrosionhour.com,cricfy.net,crimereads.com,cryptobriefing.com,cryptointelligence.co.uk,cryptopotato.com,cryptoreporter.info,cryptoslate.com,cryptotimes.io,dafontfree.io,dailynewshungary.com,digitalreg.net,dorohedoro.online,dramacool.com.my,ecoportal.net,ecoticias.com,emobilityplus.com,engineering-designer.com,epicdope.com,eurweb.com,fandomwire.com,firstcuriosity.com,firstsportz.com,flashbak.com,flickeringmyth.com,flowmountainbike.com,flyingmag.com,freemagazines.top,gadgetinsiders.com,gamebyte.com,gameinfinitus.com,gamertweak.com,gamingdeputy.com,gatewayhispanic.com,gatewaynews.co.za,geekdashboard.com,geekzag.com,glassalmanac.com,goodyfeed.com,greekreporter.com,hard-drive.net,harrowonline.org,haxmac.cc,healthinfo.healthengine.com.au,helihub.com,hollywoodinsider.com,hollywoodunlocked.com,hotcelebshome.com,ifoodreal.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,jardineriaon.com,jessicagavin.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,libertyunlocked.com,linuxfordevices.com,lithub.com,londonlovesbusiness.com,mangaread.org,mb.com.ph,meaningfulspaces.com,medicotopics.com,medievalists.net,mpost.io,mycariboonow.com,mymodernmet.com,mymotherlode.com,nationalfile.com,nexdrive.lol,nexusgames.to,nintendoeverything.com,noahreport.com,nokiapoweruser.com,notalwaysright.com,nxbrew.com,nxbrew.net,organicfacts.net,orlandoweekly.com,patriotfetch.com,pcoptimizedsettings.com,politizoom.com,premiumtimesng.com,primeaudio.org,protrumpnews.com,psu.com,pureinfotech.com,pwmania.com,redrightvideos.com,religionnews.com,reneweconomy.com.au,reptilesmagazine.com,retrohandhelds.gg,rightwingnews.com,roadaheadonline.co.za,rok.guide,romsworlds.com,saabplanet.com,sacurrent.com,sciencenotes.org,simscommunity.info,slaynews.com,small-screen.co.uk,snipercentral.com,snowbrains.com,statisticsbyjim.com,storypick.com,streamingbetter.com,suggest.com,superwatchman.com,talkandroid.com,talkers.com,tech-latest.com,techaeris.com,technobaboy.com,techpp.com,techrounder.com,techviral.net,the-gadgeteer.com,theautopian.com,thebeaverton.com,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedailysight.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,theoilrig.ca,thepeoplesvoice.tv,theprint.in,thewincentral.com,thisquality.com,trendingpoliticsnews.com,troypoint.com,tvtonight.com.au,twistedvoxel.com,vice.com,walletinvestor.com,washingtonblade.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,whynow.co.uk,win.gg,windowslatest.com,wisden.com,wltreport.com,wnd.com,wrestlingheadlines.com,wrestlingnews.co,wtmj.com,zerohanger.com,ziperto.com##.code-block
     → |100percentfedup.com##.code-block
     → |academicful.com##.code-block
     → |addapinch.com##.code-block
@@ -46898,6 +46706,7 @@
     → |techrounder.com##.code-block
     → |techviral.net##.code-block
     → |the-gadgeteer.com##.code-block
+    → |theautopian.com##.code-block
     → |thebeaverton.com##.code-block
     → |theblueoceansgroup.com##.code-block
     → |thecinemaholic.com##.code-block
@@ -47385,9 +47194,6 @@
 ✅ 多域名拆分: 247wallst.com,cubdomain.com##.hello-bar
     → |247wallst.com##.hello-bar
     → |cubdomain.com##.hello-bar
-✅ 多域名拆分: lincolnshireworld.com,nationalworld.com##.helper__AdContainer-sc-12ggaoi-0
-    → |lincolnshireworld.com##.helper__AdContainer-sc-12ggaoi-0
-    → |nationalworld.com##.helper__AdContainer-sc-12ggaoi-0
 ✅ 多域名拆分: antrimnow.co.uk,farminglife.com,newcastleworld.com##.helper__DesktopAdContainer-sc-12ggaoi-1
     → |antrimnow.co.uk##.helper__DesktopAdContainer-sc-12ggaoi-1
     → |farminglife.com##.helper__DesktopAdContainer-sc-12ggaoi-1
@@ -49531,68 +49337,6 @@
     → |dailystar.co.uk##[data-tmdatatrack-type="commercial"]
     → |mirror.co.uk##[data-tmdatatrack-type="commercial"]
     → |themirror.com##[data-tmdatatrack-type="commercial"]
-✅ 多域名拆分: 3addedminutes.com,anguscountyworld.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,blackpoolgazette.co.uk,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,chad.co.uk,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,falkirkherald.co.uk,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,lep.co.uk,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,lutontoday.co.uk,manchesterworld.uk,meltontimes.co.uk,miltonkeynes.co.uk,newcastleworld.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,peterboroughtoday.co.uk,portsmouth.co.uk,rotherhamadvertiser.co.uk,scotsman.com,shieldsgazette.com,stornowaygazette.co.uk,sunderlandecho.com,surreyworld.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,totallysnookered.com,wakefieldexpress.co.uk,warwickshireworld.com,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk##[data-type="AdRowBillboard"]
-    → |3addedminutes.com##[data-type="AdRowBillboard"]
-    → |anguscountyworld.co.uk##[data-type="AdRowBillboard"]
-    → |banburyguardian.co.uk##[data-type="AdRowBillboard"]
-    → |bedfordtoday.co.uk##[data-type="AdRowBillboard"]
-    → |biggleswadetoday.co.uk##[data-type="AdRowBillboard"]
-    → |blackpoolgazette.co.uk##[data-type="AdRowBillboard"]
-    → |bucksherald.co.uk##[data-type="AdRowBillboard"]
-    → |burnleyexpress.net##[data-type="AdRowBillboard"]
-    → |buxtonadvertiser.co.uk##[data-type="AdRowBillboard"]
-    → |chad.co.uk##[data-type="AdRowBillboard"]
-    → |daventryexpress.co.uk##[data-type="AdRowBillboard"]
-    → |derbyshiretimes.co.uk##[data-type="AdRowBillboard"]
-    → |derbyworld.co.uk##[data-type="AdRowBillboard"]
-    → |derryjournal.com##[data-type="AdRowBillboard"]
-    → |dewsburyreporter.co.uk##[data-type="AdRowBillboard"]
-    → |doncasterfreepress.co.uk##[data-type="AdRowBillboard"]
-    → |falkirkherald.co.uk##[data-type="AdRowBillboard"]
-    → |fifetoday.co.uk##[data-type="AdRowBillboard"]
-    → |glasgowworld.com##[data-type="AdRowBillboard"]
-    → |halifaxcourier.co.uk##[data-type="AdRowBillboard"]
-    → |harboroughmail.co.uk##[data-type="AdRowBillboard"]
-    → |harrogateadvertiser.co.uk##[data-type="AdRowBillboard"]
-    → |hartlepoolmail.co.uk##[data-type="AdRowBillboard"]
-    → |hemeltoday.co.uk##[data-type="AdRowBillboard"]
-    → |hucknalldispatch.co.uk##[data-type="AdRowBillboard"]
-    → |lancasterguardian.co.uk##[data-type="AdRowBillboard"]
-    → |leightonbuzzardonline.co.uk##[data-type="AdRowBillboard"]
-    → |lep.co.uk##[data-type="AdRowBillboard"]
-    → |lincolnshireworld.com##[data-type="AdRowBillboard"]
-    → |liverpoolworld.uk##[data-type="AdRowBillboard"]
-    → |londonworld.com##[data-type="AdRowBillboard"]
-    → |lutontoday.co.uk##[data-type="AdRowBillboard"]
-    → |manchesterworld.uk##[data-type="AdRowBillboard"]
-    → |meltontimes.co.uk##[data-type="AdRowBillboard"]
-    → |miltonkeynes.co.uk##[data-type="AdRowBillboard"]
-    → |newcastleworld.com##[data-type="AdRowBillboard"]
-    → |newryreporter.com##[data-type="AdRowBillboard"]
-    → |newsletter.co.uk##[data-type="AdRowBillboard"]
-    → |northamptonchron.co.uk##[data-type="AdRowBillboard"]
-    → |northantstelegraph.co.uk##[data-type="AdRowBillboard"]
-    → |northernirelandworld.com##[data-type="AdRowBillboard"]
-    → |northumberlandgazette.co.uk##[data-type="AdRowBillboard"]
-    → |nottinghamworld.com##[data-type="AdRowBillboard"]
-    → |peterboroughtoday.co.uk##[data-type="AdRowBillboard"]
-    → |portsmouth.co.uk##[data-type="AdRowBillboard"]
-    → |rotherhamadvertiser.co.uk##[data-type="AdRowBillboard"]
-    → |scotsman.com##[data-type="AdRowBillboard"]
-    → |shieldsgazette.com##[data-type="AdRowBillboard"]
-    → |stornowaygazette.co.uk##[data-type="AdRowBillboard"]
-    → |sunderlandecho.com##[data-type="AdRowBillboard"]
-    → |surreyworld.co.uk##[data-type="AdRowBillboard"]
-    → |thescarboroughnews.co.uk##[data-type="AdRowBillboard"]
-    → |thesouthernreporter.co.uk##[data-type="AdRowBillboard"]
-    → |thestar.co.uk##[data-type="AdRowBillboard"]
-    → |totallysnookered.com##[data-type="AdRowBillboard"]
-    → |wakefieldexpress.co.uk##[data-type="AdRowBillboard"]
-    → |warwickshireworld.com##[data-type="AdRowBillboard"]
-    → |wigantoday.net##[data-type="AdRowBillboard"]
-    → |worksopguardian.co.uk##[data-type="AdRowBillboard"]
-    → |yorkshireeveningpost.co.uk##[data-type="AdRowBillboard"]
-    → |yorkshirepost.co.uk##[data-type="AdRowBillboard"]
 ✅ 多域名拆分: search.brave.com,thesportsrush.com##[data-type="ad"]
     → |search.brave.com##[data-type="ad"]
     → |thesportsrush.com##[data-type="ad"]
@@ -49744,9 +49488,6 @@
 ✅ 多域名拆分: cloutgist.com,codesnse.com##[href^="https://app.adjust.com/"]
     → |cloutgist.com##[href^="https://app.adjust.com/"]
     → |codesnse.com##[href^="https://app.adjust.com/"]
-✅ 多域名拆分: artificialintelligence-news.com,mangakakalot.gg##[href^="https://bit.ly/"]
-    → |artificialintelligence-news.com##[href^="https://bit.ly/"]
-    → |mangakakalot.gg##[href^="https://bit.ly/"]
 ✅ 多域名拆分: ahaan.co.uk,emailnator.com,myip.is,scrolller.com,whereto.stream##[href^="https://go.nordvpn.net/"]
     → |ahaan.co.uk##[href^="https://go.nordvpn.net/"]
     → |emailnator.com##[href^="https://go.nordvpn.net/"]
@@ -50094,136 +49835,12 @@
 ✅ 多域名拆分: breastcancer.org,emojipedia.org##div[class^="AdContainer"]
     → |breastcancer.org##div[class^="AdContainer"]
     → |emojipedia.org##div[class^="AdContainer"]
-✅ 多域名拆分: 3addedminutes.com,anguscountyworld.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,blackpoolgazette.co.uk,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,chad.co.uk,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,falkirkherald.co.uk,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,lep.co.uk,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,lutontoday.co.uk,manchesterworld.uk,meltontimes.co.uk,miltonkeynes.co.uk,newcastleworld.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,peterboroughtoday.co.uk,portsmouth.co.uk,rotherhamadvertiser.co.uk,scotsman.com,shieldsgazette.com,stornowaygazette.co.uk,sunderlandecho.com,surreyworld.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,totallysnookered.com,wakefieldexpress.co.uk,warwickshireworld.com,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk##div[class^="AdLoadingText"]
-    → |3addedminutes.com##div[class^="AdLoadingText"]
-    → |anguscountyworld.co.uk##div[class^="AdLoadingText"]
-    → |banburyguardian.co.uk##div[class^="AdLoadingText"]
-    → |bedfordtoday.co.uk##div[class^="AdLoadingText"]
-    → |biggleswadetoday.co.uk##div[class^="AdLoadingText"]
-    → |blackpoolgazette.co.uk##div[class^="AdLoadingText"]
-    → |bucksherald.co.uk##div[class^="AdLoadingText"]
-    → |burnleyexpress.net##div[class^="AdLoadingText"]
-    → |buxtonadvertiser.co.uk##div[class^="AdLoadingText"]
-    → |chad.co.uk##div[class^="AdLoadingText"]
-    → |daventryexpress.co.uk##div[class^="AdLoadingText"]
-    → |derbyshiretimes.co.uk##div[class^="AdLoadingText"]
-    → |derbyworld.co.uk##div[class^="AdLoadingText"]
-    → |derryjournal.com##div[class^="AdLoadingText"]
-    → |dewsburyreporter.co.uk##div[class^="AdLoadingText"]
-    → |doncasterfreepress.co.uk##div[class^="AdLoadingText"]
-    → |falkirkherald.co.uk##div[class^="AdLoadingText"]
-    → |fifetoday.co.uk##div[class^="AdLoadingText"]
-    → |glasgowworld.com##div[class^="AdLoadingText"]
-    → |halifaxcourier.co.uk##div[class^="AdLoadingText"]
-    → |harboroughmail.co.uk##div[class^="AdLoadingText"]
-    → |harrogateadvertiser.co.uk##div[class^="AdLoadingText"]
-    → |hartlepoolmail.co.uk##div[class^="AdLoadingText"]
-    → |hemeltoday.co.uk##div[class^="AdLoadingText"]
-    → |hucknalldispatch.co.uk##div[class^="AdLoadingText"]
-    → |lancasterguardian.co.uk##div[class^="AdLoadingText"]
-    → |leightonbuzzardonline.co.uk##div[class^="AdLoadingText"]
-    → |lep.co.uk##div[class^="AdLoadingText"]
-    → |lincolnshireworld.com##div[class^="AdLoadingText"]
-    → |liverpoolworld.uk##div[class^="AdLoadingText"]
-    → |londonworld.com##div[class^="AdLoadingText"]
-    → |lutontoday.co.uk##div[class^="AdLoadingText"]
-    → |manchesterworld.uk##div[class^="AdLoadingText"]
-    → |meltontimes.co.uk##div[class^="AdLoadingText"]
-    → |miltonkeynes.co.uk##div[class^="AdLoadingText"]
-    → |newcastleworld.com##div[class^="AdLoadingText"]
-    → |newryreporter.com##div[class^="AdLoadingText"]
-    → |newsletter.co.uk##div[class^="AdLoadingText"]
-    → |northamptonchron.co.uk##div[class^="AdLoadingText"]
-    → |northantstelegraph.co.uk##div[class^="AdLoadingText"]
-    → |northernirelandworld.com##div[class^="AdLoadingText"]
-    → |northumberlandgazette.co.uk##div[class^="AdLoadingText"]
-    → |nottinghamworld.com##div[class^="AdLoadingText"]
-    → |peterboroughtoday.co.uk##div[class^="AdLoadingText"]
-    → |portsmouth.co.uk##div[class^="AdLoadingText"]
-    → |rotherhamadvertiser.co.uk##div[class^="AdLoadingText"]
-    → |scotsman.com##div[class^="AdLoadingText"]
-    → |shieldsgazette.com##div[class^="AdLoadingText"]
-    → |stornowaygazette.co.uk##div[class^="AdLoadingText"]
-    → |sunderlandecho.com##div[class^="AdLoadingText"]
-    → |surreyworld.co.uk##div[class^="AdLoadingText"]
-    → |thescarboroughnews.co.uk##div[class^="AdLoadingText"]
-    → |thesouthernreporter.co.uk##div[class^="AdLoadingText"]
-    → |thestar.co.uk##div[class^="AdLoadingText"]
-    → |totallysnookered.com##div[class^="AdLoadingText"]
-    → |wakefieldexpress.co.uk##div[class^="AdLoadingText"]
-    → |warwickshireworld.com##div[class^="AdLoadingText"]
-    → |wigantoday.net##div[class^="AdLoadingText"]
-    → |worksopguardian.co.uk##div[class^="AdLoadingText"]
-    → |yorkshireeveningpost.co.uk##div[class^="AdLoadingText"]
-    → |yorkshirepost.co.uk##div[class^="AdLoadingText"]
 ✅ 多域名拆分: pricespy.co.nz,pricespy.co.uk##div[class^="AdPlacement"]
     → |pricespy.co.nz##div[class^="AdPlacement"]
     → |pricespy.co.uk##div[class^="AdPlacement"]
 ✅ 多域名拆分: games.dailymail.co.uk,nba.com##div[class^="DisplayAd_"]
     → |games.dailymail.co.uk##div[class^="DisplayAd_"]
     → |nba.com##div[class^="DisplayAd_"]
-✅ 多域名拆分: 3addedminutes.com,anguscountyworld.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,blackpoolgazette.co.uk,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,chad.co.uk,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,falkirkherald.co.uk,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,lep.co.uk,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,lutontoday.co.uk,manchesterworld.uk,meltontimes.co.uk,miltonkeynes.co.uk,newcastleworld.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,peterboroughtoday.co.uk,portsmouth.co.uk,rotherhamadvertiser.co.uk,scotsman.com,shieldsgazette.com,stornowaygazette.co.uk,sunderlandecho.com,surreyworld.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,totallysnookered.com,wakefieldexpress.co.uk,warwickshireworld.com,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk##div[class^="SidebarAds_"]
-    → |3addedminutes.com##div[class^="SidebarAds_"]
-    → |anguscountyworld.co.uk##div[class^="SidebarAds_"]
-    → |banburyguardian.co.uk##div[class^="SidebarAds_"]
-    → |bedfordtoday.co.uk##div[class^="SidebarAds_"]
-    → |biggleswadetoday.co.uk##div[class^="SidebarAds_"]
-    → |blackpoolgazette.co.uk##div[class^="SidebarAds_"]
-    → |bucksherald.co.uk##div[class^="SidebarAds_"]
-    → |burnleyexpress.net##div[class^="SidebarAds_"]
-    → |buxtonadvertiser.co.uk##div[class^="SidebarAds_"]
-    → |chad.co.uk##div[class^="SidebarAds_"]
-    → |daventryexpress.co.uk##div[class^="SidebarAds_"]
-    → |derbyshiretimes.co.uk##div[class^="SidebarAds_"]
-    → |derbyworld.co.uk##div[class^="SidebarAds_"]
-    → |derryjournal.com##div[class^="SidebarAds_"]
-    → |dewsburyreporter.co.uk##div[class^="SidebarAds_"]
-    → |doncasterfreepress.co.uk##div[class^="SidebarAds_"]
-    → |falkirkherald.co.uk##div[class^="SidebarAds_"]
-    → |fifetoday.co.uk##div[class^="SidebarAds_"]
-    → |glasgowworld.com##div[class^="SidebarAds_"]
-    → |halifaxcourier.co.uk##div[class^="SidebarAds_"]
-    → |harboroughmail.co.uk##div[class^="SidebarAds_"]
-    → |harrogateadvertiser.co.uk##div[class^="SidebarAds_"]
-    → |hartlepoolmail.co.uk##div[class^="SidebarAds_"]
-    → |hemeltoday.co.uk##div[class^="SidebarAds_"]
-    → |hucknalldispatch.co.uk##div[class^="SidebarAds_"]
-    → |lancasterguardian.co.uk##div[class^="SidebarAds_"]
-    → |leightonbuzzardonline.co.uk##div[class^="SidebarAds_"]
-    → |lep.co.uk##div[class^="SidebarAds_"]
-    → |lincolnshireworld.com##div[class^="SidebarAds_"]
-    → |liverpoolworld.uk##div[class^="SidebarAds_"]
-    → |londonworld.com##div[class^="SidebarAds_"]
-    → |lutontoday.co.uk##div[class^="SidebarAds_"]
-    → |manchesterworld.uk##div[class^="SidebarAds_"]
-    → |meltontimes.co.uk##div[class^="SidebarAds_"]
-    → |miltonkeynes.co.uk##div[class^="SidebarAds_"]
-    → |newcastleworld.com##div[class^="SidebarAds_"]
-    → |newryreporter.com##div[class^="SidebarAds_"]
-    → |newsletter.co.uk##div[class^="SidebarAds_"]
-    → |northamptonchron.co.uk##div[class^="SidebarAds_"]
-    → |northantstelegraph.co.uk##div[class^="SidebarAds_"]
-    → |northernirelandworld.com##div[class^="SidebarAds_"]
-    → |northumberlandgazette.co.uk##div[class^="SidebarAds_"]
-    → |nottinghamworld.com##div[class^="SidebarAds_"]
-    → |peterboroughtoday.co.uk##div[class^="SidebarAds_"]
-    → |portsmouth.co.uk##div[class^="SidebarAds_"]
-    → |rotherhamadvertiser.co.uk##div[class^="SidebarAds_"]
-    → |scotsman.com##div[class^="SidebarAds_"]
-    → |shieldsgazette.com##div[class^="SidebarAds_"]
-    → |stornowaygazette.co.uk##div[class^="SidebarAds_"]
-    → |sunderlandecho.com##div[class^="SidebarAds_"]
-    → |surreyworld.co.uk##div[class^="SidebarAds_"]
-    → |thescarboroughnews.co.uk##div[class^="SidebarAds_"]
-    → |thesouthernreporter.co.uk##div[class^="SidebarAds_"]
-    → |thestar.co.uk##div[class^="SidebarAds_"]
-    → |totallysnookered.com##div[class^="SidebarAds_"]
-    → |wakefieldexpress.co.uk##div[class^="SidebarAds_"]
-    → |warwickshireworld.com##div[class^="SidebarAds_"]
-    → |wigantoday.net##div[class^="SidebarAds_"]
-    → |worksopguardian.co.uk##div[class^="SidebarAds_"]
-    → |yorkshireeveningpost.co.uk##div[class^="SidebarAds_"]
-    → |yorkshirepost.co.uk##div[class^="SidebarAds_"]
 ✅ 多域名拆分: fox11online.com,weartv.com##div[class^="StoryPage_taboolaDeeperDive"]
     → |fox11online.com##div[class^="StoryPage_taboolaDeeperDive"]
     → |weartv.com##div[class^="StoryPage_taboolaDeeperDive"]
@@ -50250,134 +49867,10 @@
     → |pdftoimage.com##div[class^="ha"]
     → |topdf.com##div[class^="ha"]
     → |webpconverter.com##div[class^="ha"]
-✅ 多域名拆分: 3addedminutes.com,anguscountyworld.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,blackpoolgazette.co.uk,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,chad.co.uk,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,falkirkherald.co.uk,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,lep.co.uk,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,lutontoday.co.uk,manchesterworld.uk,meltontimes.co.uk,miltonkeynes.co.uk,newcastleworld.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,peterboroughtoday.co.uk,portsmouth.co.uk,rotherhamadvertiser.co.uk,scotsman.com,shieldsgazette.com,stornowaygazette.co.uk,sunderlandecho.com,surreyworld.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,totallysnookered.com,wakefieldexpress.co.uk,warwickshireworld.com,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk##div[class^="helper__AdContainer"]
-    → |3addedminutes.com##div[class^="helper__AdContainer"]
-    → |anguscountyworld.co.uk##div[class^="helper__AdContainer"]
-    → |banburyguardian.co.uk##div[class^="helper__AdContainer"]
-    → |bedfordtoday.co.uk##div[class^="helper__AdContainer"]
-    → |biggleswadetoday.co.uk##div[class^="helper__AdContainer"]
-    → |blackpoolgazette.co.uk##div[class^="helper__AdContainer"]
-    → |bucksherald.co.uk##div[class^="helper__AdContainer"]
-    → |burnleyexpress.net##div[class^="helper__AdContainer"]
-    → |buxtonadvertiser.co.uk##div[class^="helper__AdContainer"]
-    → |chad.co.uk##div[class^="helper__AdContainer"]
-    → |daventryexpress.co.uk##div[class^="helper__AdContainer"]
-    → |derbyshiretimes.co.uk##div[class^="helper__AdContainer"]
-    → |derbyworld.co.uk##div[class^="helper__AdContainer"]
-    → |derryjournal.com##div[class^="helper__AdContainer"]
-    → |dewsburyreporter.co.uk##div[class^="helper__AdContainer"]
-    → |doncasterfreepress.co.uk##div[class^="helper__AdContainer"]
-    → |falkirkherald.co.uk##div[class^="helper__AdContainer"]
-    → |fifetoday.co.uk##div[class^="helper__AdContainer"]
-    → |glasgowworld.com##div[class^="helper__AdContainer"]
-    → |halifaxcourier.co.uk##div[class^="helper__AdContainer"]
-    → |harboroughmail.co.uk##div[class^="helper__AdContainer"]
-    → |harrogateadvertiser.co.uk##div[class^="helper__AdContainer"]
-    → |hartlepoolmail.co.uk##div[class^="helper__AdContainer"]
-    → |hemeltoday.co.uk##div[class^="helper__AdContainer"]
-    → |hucknalldispatch.co.uk##div[class^="helper__AdContainer"]
-    → |lancasterguardian.co.uk##div[class^="helper__AdContainer"]
-    → |leightonbuzzardonline.co.uk##div[class^="helper__AdContainer"]
-    → |lep.co.uk##div[class^="helper__AdContainer"]
-    → |lincolnshireworld.com##div[class^="helper__AdContainer"]
-    → |liverpoolworld.uk##div[class^="helper__AdContainer"]
-    → |londonworld.com##div[class^="helper__AdContainer"]
-    → |lutontoday.co.uk##div[class^="helper__AdContainer"]
-    → |manchesterworld.uk##div[class^="helper__AdContainer"]
-    → |meltontimes.co.uk##div[class^="helper__AdContainer"]
-    → |miltonkeynes.co.uk##div[class^="helper__AdContainer"]
-    → |newcastleworld.com##div[class^="helper__AdContainer"]
-    → |newryreporter.com##div[class^="helper__AdContainer"]
-    → |newsletter.co.uk##div[class^="helper__AdContainer"]
-    → |northamptonchron.co.uk##div[class^="helper__AdContainer"]
-    → |northantstelegraph.co.uk##div[class^="helper__AdContainer"]
-    → |northernirelandworld.com##div[class^="helper__AdContainer"]
-    → |northumberlandgazette.co.uk##div[class^="helper__AdContainer"]
-    → |nottinghamworld.com##div[class^="helper__AdContainer"]
-    → |peterboroughtoday.co.uk##div[class^="helper__AdContainer"]
-    → |portsmouth.co.uk##div[class^="helper__AdContainer"]
-    → |rotherhamadvertiser.co.uk##div[class^="helper__AdContainer"]
-    → |scotsman.com##div[class^="helper__AdContainer"]
-    → |shieldsgazette.com##div[class^="helper__AdContainer"]
-    → |stornowaygazette.co.uk##div[class^="helper__AdContainer"]
-    → |sunderlandecho.com##div[class^="helper__AdContainer"]
-    → |surreyworld.co.uk##div[class^="helper__AdContainer"]
-    → |thescarboroughnews.co.uk##div[class^="helper__AdContainer"]
-    → |thesouthernreporter.co.uk##div[class^="helper__AdContainer"]
-    → |thestar.co.uk##div[class^="helper__AdContainer"]
-    → |totallysnookered.com##div[class^="helper__AdContainer"]
-    → |wakefieldexpress.co.uk##div[class^="helper__AdContainer"]
-    → |warwickshireworld.com##div[class^="helper__AdContainer"]
-    → |wigantoday.net##div[class^="helper__AdContainer"]
-    → |worksopguardian.co.uk##div[class^="helper__AdContainer"]
-    → |yorkshireeveningpost.co.uk##div[class^="helper__AdContainer"]
-    → |yorkshirepost.co.uk##div[class^="helper__AdContainer"]
 ✅ 多域名拆分: nationalmemo.com,spectrum.ieee.org,theodysseyonline.com##div[class^="rblad-"]
     → |nationalmemo.com##div[class^="rblad-"]
     → |spectrum.ieee.org##div[class^="rblad-"]
     → |theodysseyonline.com##div[class^="rblad-"]
-✅ 多域名拆分: 3addedminutes.com,anguscountyworld.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,blackpoolgazette.co.uk,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,chad.co.uk,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,falkirkherald.co.uk,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,lep.co.uk,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,lutontoday.co.uk,manchesterworld.uk,meltontimes.co.uk,miltonkeynes.co.uk,newcastleworld.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,peterboroughtoday.co.uk,portsmouth.co.uk,rotherhamadvertiser.co.uk,scotsman.com,shieldsgazette.com,stornowaygazette.co.uk,sunderlandecho.com,surreyworld.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,totallysnookered.com,wakefieldexpress.co.uk,warwickshireworld.com,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk##div[data-ads-params]
-    → |3addedminutes.com##div[data-ads-params]
-    → |anguscountyworld.co.uk##div[data-ads-params]
-    → |banburyguardian.co.uk##div[data-ads-params]
-    → |bedfordtoday.co.uk##div[data-ads-params]
-    → |biggleswadetoday.co.uk##div[data-ads-params]
-    → |blackpoolgazette.co.uk##div[data-ads-params]
-    → |bucksherald.co.uk##div[data-ads-params]
-    → |burnleyexpress.net##div[data-ads-params]
-    → |buxtonadvertiser.co.uk##div[data-ads-params]
-    → |chad.co.uk##div[data-ads-params]
-    → |daventryexpress.co.uk##div[data-ads-params]
-    → |derbyshiretimes.co.uk##div[data-ads-params]
-    → |derbyworld.co.uk##div[data-ads-params]
-    → |derryjournal.com##div[data-ads-params]
-    → |dewsburyreporter.co.uk##div[data-ads-params]
-    → |doncasterfreepress.co.uk##div[data-ads-params]
-    → |falkirkherald.co.uk##div[data-ads-params]
-    → |fifetoday.co.uk##div[data-ads-params]
-    → |glasgowworld.com##div[data-ads-params]
-    → |halifaxcourier.co.uk##div[data-ads-params]
-    → |harboroughmail.co.uk##div[data-ads-params]
-    → |harrogateadvertiser.co.uk##div[data-ads-params]
-    → |hartlepoolmail.co.uk##div[data-ads-params]
-    → |hemeltoday.co.uk##div[data-ads-params]
-    → |hucknalldispatch.co.uk##div[data-ads-params]
-    → |lancasterguardian.co.uk##div[data-ads-params]
-    → |leightonbuzzardonline.co.uk##div[data-ads-params]
-    → |lep.co.uk##div[data-ads-params]
-    → |lincolnshireworld.com##div[data-ads-params]
-    → |liverpoolworld.uk##div[data-ads-params]
-    → |londonworld.com##div[data-ads-params]
-    → |lutontoday.co.uk##div[data-ads-params]
-    → |manchesterworld.uk##div[data-ads-params]
-    → |meltontimes.co.uk##div[data-ads-params]
-    → |miltonkeynes.co.uk##div[data-ads-params]
-    → |newcastleworld.com##div[data-ads-params]
-    → |newryreporter.com##div[data-ads-params]
-    → |newsletter.co.uk##div[data-ads-params]
-    → |northamptonchron.co.uk##div[data-ads-params]
-    → |northantstelegraph.co.uk##div[data-ads-params]
-    → |northernirelandworld.com##div[data-ads-params]
-    → |northumberlandgazette.co.uk##div[data-ads-params]
-    → |nottinghamworld.com##div[data-ads-params]
-    → |peterboroughtoday.co.uk##div[data-ads-params]
-    → |portsmouth.co.uk##div[data-ads-params]
-    → |rotherhamadvertiser.co.uk##div[data-ads-params]
-    → |scotsman.com##div[data-ads-params]
-    → |shieldsgazette.com##div[data-ads-params]
-    → |stornowaygazette.co.uk##div[data-ads-params]
-    → |sunderlandecho.com##div[data-ads-params]
-    → |surreyworld.co.uk##div[data-ads-params]
-    → |thescarboroughnews.co.uk##div[data-ads-params]
-    → |thesouthernreporter.co.uk##div[data-ads-params]
-    → |thestar.co.uk##div[data-ads-params]
-    → |totallysnookered.com##div[data-ads-params]
-    → |wakefieldexpress.co.uk##div[data-ads-params]
-    → |warwickshireworld.com##div[data-ads-params]
-    → |wigantoday.net##div[data-ads-params]
-    → |worksopguardian.co.uk##div[data-ads-params]
-    → |yorkshireeveningpost.co.uk##div[data-ads-params]
-    → |yorkshirepost.co.uk##div[data-ads-params]
 ✅ 多域名拆分: gamingbible.com,unilad.com##div[data-cypress^="sticky-header"]
     → |gamingbible.com##div[data-cypress^="sticky-header"]
     → |unilad.com##div[data-cypress^="sticky-header"]
@@ -51441,6 +50934,68 @@
     → |thespun.com##.exco-player-wrapper
     → |thestreet.com##.exco-player-wrapper
     → |travelhost.com##.exco-player-wrapper
+✅ 多域名拆分: 3addedminutes.com,anguscountyworld.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,blackpoolgazette.co.uk,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,chad.co.uk,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,falkirkherald.co.uk,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,lep.co.uk,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,lutontoday.co.uk,manchesterworld.uk,meltontimes.co.uk,miltonkeynes.co.uk,newcastleworld.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,peterboroughtoday.co.uk,portsmouth.co.uk,rotherhamadvertiser.co.uk,scotsman.com,shieldsgazette.com,stornowaygazette.co.uk,sunderlandecho.com,surreyworld.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,totallysnookered.com,wakefieldexpress.co.uk,warwickshireworld.com,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk##.exco-video-player
+    → |3addedminutes.com##.exco-video-player
+    → |anguscountyworld.co.uk##.exco-video-player
+    → |banburyguardian.co.uk##.exco-video-player
+    → |bedfordtoday.co.uk##.exco-video-player
+    → |biggleswadetoday.co.uk##.exco-video-player
+    → |blackpoolgazette.co.uk##.exco-video-player
+    → |bucksherald.co.uk##.exco-video-player
+    → |burnleyexpress.net##.exco-video-player
+    → |buxtonadvertiser.co.uk##.exco-video-player
+    → |chad.co.uk##.exco-video-player
+    → |daventryexpress.co.uk##.exco-video-player
+    → |derbyshiretimes.co.uk##.exco-video-player
+    → |derbyworld.co.uk##.exco-video-player
+    → |derryjournal.com##.exco-video-player
+    → |dewsburyreporter.co.uk##.exco-video-player
+    → |doncasterfreepress.co.uk##.exco-video-player
+    → |falkirkherald.co.uk##.exco-video-player
+    → |fifetoday.co.uk##.exco-video-player
+    → |glasgowworld.com##.exco-video-player
+    → |halifaxcourier.co.uk##.exco-video-player
+    → |harboroughmail.co.uk##.exco-video-player
+    → |harrogateadvertiser.co.uk##.exco-video-player
+    → |hartlepoolmail.co.uk##.exco-video-player
+    → |hemeltoday.co.uk##.exco-video-player
+    → |hucknalldispatch.co.uk##.exco-video-player
+    → |lancasterguardian.co.uk##.exco-video-player
+    → |leightonbuzzardonline.co.uk##.exco-video-player
+    → |lep.co.uk##.exco-video-player
+    → |lincolnshireworld.com##.exco-video-player
+    → |liverpoolworld.uk##.exco-video-player
+    → |londonworld.com##.exco-video-player
+    → |lutontoday.co.uk##.exco-video-player
+    → |manchesterworld.uk##.exco-video-player
+    → |meltontimes.co.uk##.exco-video-player
+    → |miltonkeynes.co.uk##.exco-video-player
+    → |newcastleworld.com##.exco-video-player
+    → |newryreporter.com##.exco-video-player
+    → |newsletter.co.uk##.exco-video-player
+    → |northamptonchron.co.uk##.exco-video-player
+    → |northantstelegraph.co.uk##.exco-video-player
+    → |northernirelandworld.com##.exco-video-player
+    → |northumberlandgazette.co.uk##.exco-video-player
+    → |nottinghamworld.com##.exco-video-player
+    → |peterboroughtoday.co.uk##.exco-video-player
+    → |portsmouth.co.uk##.exco-video-player
+    → |rotherhamadvertiser.co.uk##.exco-video-player
+    → |scotsman.com##.exco-video-player
+    → |shieldsgazette.com##.exco-video-player
+    → |stornowaygazette.co.uk##.exco-video-player
+    → |sunderlandecho.com##.exco-video-player
+    → |surreyworld.co.uk##.exco-video-player
+    → |thescarboroughnews.co.uk##.exco-video-player
+    → |thesouthernreporter.co.uk##.exco-video-player
+    → |thestar.co.uk##.exco-video-player
+    → |totallysnookered.com##.exco-video-player
+    → |wakefieldexpress.co.uk##.exco-video-player
+    → |warwickshireworld.com##.exco-video-player
+    → |wigantoday.net##.exco-video-player
+    → |worksopguardian.co.uk##.exco-video-player
+    → |yorkshireeveningpost.co.uk##.exco-video-player
+    → |yorkshirepost.co.uk##.exco-video-player
 ✅ 多域名拆分: foodbible.com,gamingbible.com,ladbible.com,sportbible.com,tyla.com,unilad.com,uniladtech.com##.floating-video-player_container__u4D9_
     → |foodbible.com##.floating-video-player_container__u4D9_
     → |gamingbible.com##.floating-video-player_container__u4D9_
@@ -51456,6 +51011,12 @@
 ✅ 多域名拆分: communitychickens.com,keepingbackyardbees.com##.jumbo-ad
     → |communitychickens.com##.jumbo-ad
     → |keepingbackyardbees.com##.jumbo-ad
+✅ 多域名拆分: pickleball.com,pickleballclubs.com,pickleballleagues.com,pickleballteamleagues.com,pickleballtournaments.com##.justify-center.flex.w-full:has([name])
+    → |pickleball.com##.justify-center.flex.w-full:has([name])
+    → |pickleballclubs.com##.justify-center.flex.w-full:has([name])
+    → |pickleballleagues.com##.justify-center.flex.w-full:has([name])
+    → |pickleballteamleagues.com##.justify-center.flex.w-full:has([name])
+    → |pickleballtournaments.com##.justify-center.flex.w-full:has([name])
 ✅ 多域名拆分: evoke.ie,extra.ie##.jw-player-video-widget
     → |evoke.ie##.jw-player-video-widget
     → |extra.ie##.jw-player-video-widget
@@ -53523,11 +53084,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202611112244
+🚫 去掉注释行: ! Version: 202611120338
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 11 Nov 2026 22:44 UTC
+🚫 去掉注释行: ! Last modified: 12 Nov 2026 03:38 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: de2e5a10629847c68a493dadcc214f3f9adb65a0
+🚫 去掉注释行: ! Commit: 5619444016a7f341388b331ebaffaf6741a503c9
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -70000,8 +69561,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL%203.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA%204.0
-🚫 去掉注释行: !Generated: 2026-11-12 06:16:46 +08
-🚫 去掉注释行: !RuleCount: 837800
+🚫 去掉注释行: !Generated: 2026-11-12 11:09:34 +08
+🚫 去掉注释行: !RuleCount: 837910
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
@@ -152499,10 +152060,10 @@
 🚫 去掉注释行: ! Blocked domains: 8480
 🚫 去掉注释行: ! unBlocked domains: 16
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: +KBj5PhcxgOdzr+80oVmDQ
-🚫 去掉注释行: ! Version: 202611112050
+🚫 去掉注释行: ! Checksum: iP/PNnbGPkr5J3qgIA7vfg
+🚫 去掉注释行: ! Version: 202611120225
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-11-11 20:50 UTC
+🚫 去掉注释行: ! Last modified: 2026-11-12 02:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -186987,6 +186548,9 @@
     → |vevor.mx##.cookieConfirm
     → |vevor.nl##.cookieConfirm
     → |vevor.pl##.cookieConfirm
+✅ 多域名拆分: premid.app,vulncheck.com##.cookieControl
+    → |premid.app##.cookieControl
+    → |vulncheck.com##.cookieControl
 ✅ 多域名拆分: autopilot.ru,kommersant.ru,myweekend.ru,sasa.co.id##.cookie_consent
     → |autopilot.ru##.cookie_consent
     → |kommersant.ru##.cookie_consent
@@ -195737,13 +195301,14 @@
     → |platoboost.app##.bottom-8
     → |vecer.com##.bottom-8
 🚫 去掉注释行: !! .bottom-4
-✅ 多域名拆分: airlineratings.com,annuaire-du-ecommerce.com,blog.smithsecurity.biz,bodegacatsofnewyork.com,boo.world,brightwork.com,canyouhack.org,convex.dev,desenio.se,docs.earthly.dev,downornot.net,foodhubforbusiness.com,freetv.tv,getmerlin.in,gitverse.ru,herzindagi.com,justo.ca,letsdatascience.com,liquid.ai,media.halvacard.ru,moises.ai,my.openbb.co,progorod62.ru,promobit.com.br,pump.fun,remnote.com,shuttle.rs,sllm.cloud,snead.app,thinglink.com,topisrael.co.il,trychatgpt.ru,urlcast.io,zerofox.com##.bottom-4
+✅ 多域名拆分: airlineratings.com,annuaire-du-ecommerce.com,blog.smithsecurity.biz,bodegacatsofnewyork.com,boo.world,brightwork.com,browser-use.com,canyouhack.org,convex.dev,desenio.se,docs.earthly.dev,downornot.net,foodhubforbusiness.com,freetv.tv,getmerlin.in,gitverse.ru,herzindagi.com,justo.ca,letsdatascience.com,liquid.ai,media.halvacard.ru,moises.ai,my.openbb.co,progorod62.ru,promobit.com.br,pump.fun,remnote.com,shuttle.rs,sllm.cloud,snead.app,thinglink.com,topisrael.co.il,trychatgpt.ru,urlcast.io,zerofox.com##.bottom-4
     → |airlineratings.com##.bottom-4
     → |annuaire-du-ecommerce.com##.bottom-4
     → |blog.smithsecurity.biz##.bottom-4
     → |bodegacatsofnewyork.com##.bottom-4
     → |boo.world##.bottom-4
     → |brightwork.com##.bottom-4
+    → |browser-use.com##.bottom-4
     → |canyouhack.org##.bottom-4
     → |convex.dev##.bottom-4
     → |desenio.se##.bottom-4
@@ -213609,6 +213174,9 @@
     → |inc42.com##.home-subscribe
     → |thechunkychef.com##.home-subscribe
     → |yesmagazine.org##.home-subscribe
+✅ 多域名拆分: agweb.com,lbbonline.com##.hs-cta-embed
+    → |agweb.com##.hs-cta-embed
+    → |lbbonline.com##.hs-cta-embed
 ✅ 多域名拆分: evreporter.com,mustsharenews.com##.hustle-inline
     → |evreporter.com##.hustle-inline
     → |mustsharenews.com##.hustle-inline
@@ -217148,6 +216716,7 @@
 🚫 去掉注释行: ! magnolia.com
 🚫 去掉注释行: ! core.app (newsletter)
 🚫 去掉注释行: ! lazycatkitchen.com
+🚫 去掉注释行: ! culturealberta.com
 🚫 去掉注释行: ! campaignlive.co.uk popup https://github.com/uBlockOrigin/uAssets/issues/29102
 🚫 去掉注释行: ! similarweb.com login wall
 🚫 去掉注释行: ! newsletter splash
@@ -219859,9 +219428,9 @@
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: !---------------------------------Allowlists----------------------------------!
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: 8adJJBI6+vQgtEk7w0dHlw
+🚫 去掉注释行: ! Checksum: suI3X5hL8OCQruIpRkBgtw
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Last modified: 2026-11-11 20:50 UTC
+🚫 去掉注释行: ! Last modified: 2026-11-12 02:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
@@ -236297,6 +235866,9 @@
     → |vevor.mx##.cookieConfirm
     → |vevor.nl##.cookieConfirm
     → |vevor.pl##.cookieConfirm
+✅ 多域名拆分: premid.app,vulncheck.com##.cookieControl
+    → |premid.app##.cookieControl
+    → |vulncheck.com##.cookieControl
 ✅ 多域名拆分: autopilot.ru,kommersant.ru,myweekend.ru,sasa.co.id##.cookie_consent
     → |autopilot.ru##.cookie_consent
     → |kommersant.ru##.cookie_consent
@@ -245047,13 +244619,14 @@
     → |platoboost.app##.bottom-8
     → |vecer.com##.bottom-8
 🚫 去掉注释行: !! .bottom-4
-✅ 多域名拆分: airlineratings.com,annuaire-du-ecommerce.com,blog.smithsecurity.biz,bodegacatsofnewyork.com,boo.world,brightwork.com,canyouhack.org,convex.dev,desenio.se,docs.earthly.dev,downornot.net,foodhubforbusiness.com,freetv.tv,getmerlin.in,gitverse.ru,herzindagi.com,justo.ca,letsdatascience.com,liquid.ai,media.halvacard.ru,moises.ai,my.openbb.co,progorod62.ru,promobit.com.br,pump.fun,remnote.com,shuttle.rs,sllm.cloud,snead.app,thinglink.com,topisrael.co.il,trychatgpt.ru,urlcast.io,zerofox.com##.bottom-4
+✅ 多域名拆分: airlineratings.com,annuaire-du-ecommerce.com,blog.smithsecurity.biz,bodegacatsofnewyork.com,boo.world,brightwork.com,browser-use.com,canyouhack.org,convex.dev,desenio.se,docs.earthly.dev,downornot.net,foodhubforbusiness.com,freetv.tv,getmerlin.in,gitverse.ru,herzindagi.com,justo.ca,letsdatascience.com,liquid.ai,media.halvacard.ru,moises.ai,my.openbb.co,progorod62.ru,promobit.com.br,pump.fun,remnote.com,shuttle.rs,sllm.cloud,snead.app,thinglink.com,topisrael.co.il,trychatgpt.ru,urlcast.io,zerofox.com##.bottom-4
     → |airlineratings.com##.bottom-4
     → |annuaire-du-ecommerce.com##.bottom-4
     → |blog.smithsecurity.biz##.bottom-4
     → |bodegacatsofnewyork.com##.bottom-4
     → |boo.world##.bottom-4
     → |brightwork.com##.bottom-4
+    → |browser-use.com##.bottom-4
     → |canyouhack.org##.bottom-4
     → |convex.dev##.bottom-4
     → |desenio.se##.bottom-4

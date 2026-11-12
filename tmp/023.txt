@@ -16502,7 +16502,8 @@ bigfishgames.com##.cookieConsentBanner-root-1Ic
 allcleartravel.co.uk##.cookieConsentContainer
 bikesales.com.au##.cookieConsentRoot
 dpdiva.com##.cookieConsentWindow
-premid.app##.cookieControl
+|premid.app##.cookieControl
+|vulncheck.com##.cookieControl
 hockeycanada.ca##.cookieInfo
 lunajets.com##.cookieLayer_root__2RmDg
 bott-workplace.co.uk##.cookieMain
@@ -17990,6 +17991,7 @@ odeoncinemasgroup.smg.com##.toast-info
 studee.com##.toast-notification
 |cmocro.com##.toastify-bottom
 |toptests.co.uk##.toastify-bottom
+culturealberta.com##.top-0.fixed
 xxlnutrition.com##.top-0.left-0
 laurentianbank.ca##.top-0.sticky
 siila.com##.top-banner
@@ -25779,6 +25781,7 @@ onassis.org##.bottom-0.relative
 |bodegacatsofnewyork.com##.bottom-4
 |boo.world##.bottom-4
 |brightwork.com##.bottom-4
+|browser-use.com##.bottom-4
 |canyouhack.org##.bottom-4
 |convex.dev##.bottom-4
 |desenio.se##.bottom-4
@@ -48239,7 +48242,8 @@ grist.org##.hp-topper-newsletter
 citizensforethics.org##.hp_signup__container
 money.com##.hpv2-newsletter
 topgear.com##.hrWTog
-lbbonline.com##.hs-cta-embed
+|agweb.com##.hs-cta-embed
+|lbbonline.com##.hs-cta-embed
 currentaffairs.org##.hs-cta-simple-placeholder
 thehustle.co##.hs-cta-wrapper
 koi.ai##.hs-form_inside-article
@@ -53344,6 +53348,7 @@ magnolia.com##+js(set-local-storage-item, EMAIL_CAPTURE_MODAL_STOP, 1)
 core.app##+js(set-local-storage-item, show-email-intake-form, false)
 lazycatkitchen.com##.wppopups-whole
 lazycatkitchen.com##body:style(overflow: auto !important; position: initial !important;)
+culturealberta.com##+js(set-session-storage-item, newsletter_shown, true)
 campaignlive.co.uk##+js(set-session-storage-item, articleModalShown, true)
 similarweb.com##+js(remove-cookie, sgID)
 seattletimes.com##+js(set-cookie, st_newsletter_splash_desktop_seen, true)
