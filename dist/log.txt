@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-11-16T02:14:18.393Z
+🚫 去掉注释行: ! Last modified: 2026-11-16T10:12:07.515Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -1679,10 +1679,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 96508
-🚫 去掉注释行: ! Checksum: U/TS+4I5ZuH5auhWxWtMAw
-🚫 去掉注释行: ! Version: 202611160242
+🚫 去掉注释行: ! Checksum: jtnwCxtX1l/ydBTb+R0rEg
+🚫 去掉注释行: ! Version: 202611161023
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 16 Nov 2026 02:42 UTC
+🚫 去掉注释行: ! Last modified: 16 Nov 2026 10:23 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -14918,6 +14918,7 @@
 🚫 去掉注释行: ##img[src^="https://images.purevpnaffiliates.com"]
 🚫 去掉注释行: ##img[src^="https://s-img.adskeeper.com/"]
 🚫 去掉注释行: ##ps-connatix-module
+🚫 去掉注释行: ##sellwild-widget
 🚫 去掉注释行: ##span[data-ez-ph-id]
 🚫 去掉注释行: ##span[id^="ezoic-pub-ad-placeholder-"]
 🚫 去掉注释行: ##topadblock
@@ -21812,13 +21813,14 @@
 ✅ 多域名拆分: haxmac.cc,haxnode.net##[onclick^="window.open"]
     → |haxmac.cc##[onclick^="window.open"]
     → |haxnode.net##[onclick^="window.open"]
-✅ 多域名拆分: appleinsider.com,dappradar.com,euroweeklynews.com,metro.co.uk,tld-list.com,twitch-tools.rootonline.de,wccftech.com##[rel*="sponsored"]
+✅ 多域名拆分: appleinsider.com,dappradar.com,euroweeklynews.com,metro.co.uk,tld-list.com,twitch-tools.rootonline.de,videocardz.com,wccftech.com##[rel*="sponsored"]
     → |appleinsider.com##[rel*="sponsored"]
     → |dappradar.com##[rel*="sponsored"]
     → |euroweeklynews.com##[rel*="sponsored"]
     → |metro.co.uk##[rel*="sponsored"]
     → |tld-list.com##[rel*="sponsored"]
     → |twitch-tools.rootonline.de##[rel*="sponsored"]
+    → |videocardz.com##[rel*="sponsored"]
     → |wccftech.com##[rel*="sponsored"]
 ✅ 多域名拆分: warecracks.com,websiteoutlook.com##[rel="nofollow"]
     → |warecracks.com##[rel="nofollow"]
@@ -25350,10 +25352,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: /EgXbzSSC9QwBtGPxqu5jQ
-🚫 去掉注释行: ! Version: 202611160242
+🚫 去掉注释行: ! Checksum: 3n/0GjaLCu4yU7SH/pxr4w
+🚫 去掉注释行: ! Version: 202611161023
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 16 Nov 2026 02:42 UTC
+🚫 去掉注释行: ! Last modified: 16 Nov 2026 10:23 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -28701,10 +28703,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: g2tJc2ZbX/+qL4qhEqAFXg
-🚫 去掉注释行: ! Version: 202611160242
+🚫 去掉注释行: ! Checksum: KxeEek0NBhhFJOrJYpZfiQ
+🚫 去掉注释行: ! Version: 202611161023
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 16 Nov 2026 02:42 UTC
+🚫 去掉注释行: ! Last modified: 16 Nov 2026 10:23 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29380,11 +29382,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202611160232
+🚫 去掉注释行: ! Version: 202611161018
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 16 Nov 2026 02:32 UTC
+🚫 去掉注释行: ! Last modified: 16 Nov 2026 10:18 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 9750f9463b839a3c4af36b7364fc787298bc40ae
+🚫 去掉注释行: ! Commit: 5b60f9a9a0aeb9fc5fc5d5e7ecd3e22dc87a84db
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -42623,6 +42625,7 @@
 🚫 去掉注释行: ##img[src^="https://images.purevpnaffiliates.com"]
 🚫 去掉注释行: ##img[src^="https://s-img.adskeeper.com/"]
 🚫 去掉注释行: ##ps-connatix-module
+🚫 去掉注释行: ##sellwild-widget
 🚫 去掉注释行: ##span[data-ez-ph-id]
 🚫 去掉注释行: ##span[id^="ezoic-pub-ad-placeholder-"]
 🚫 去掉注释行: ##topadblock
@@ -49523,13 +49526,14 @@
 ✅ 多域名拆分: haxmac.cc,haxnode.net##[onclick^="window.open"]
     → |haxmac.cc##[onclick^="window.open"]
     → |haxnode.net##[onclick^="window.open"]
-✅ 多域名拆分: appleinsider.com,dappradar.com,euroweeklynews.com,metro.co.uk,tld-list.com,twitch-tools.rootonline.de,wccftech.com##[rel*="sponsored"]
+✅ 多域名拆分: appleinsider.com,dappradar.com,euroweeklynews.com,metro.co.uk,tld-list.com,twitch-tools.rootonline.de,videocardz.com,wccftech.com##[rel*="sponsored"]
     → |appleinsider.com##[rel*="sponsored"]
     → |dappradar.com##[rel*="sponsored"]
     → |euroweeklynews.com##[rel*="sponsored"]
     → |metro.co.uk##[rel*="sponsored"]
     → |tld-list.com##[rel*="sponsored"]
     → |twitch-tools.rootonline.de##[rel*="sponsored"]
+    → |videocardz.com##[rel*="sponsored"]
     → |wccftech.com##[rel*="sponsored"]
 ✅ 多域名拆分: warecracks.com,websiteoutlook.com##[rel="nofollow"]
     → |warecracks.com##[rel="nofollow"]
@@ -53087,11 +53091,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202611160240
+🚫 去掉注释行: ! Version: 202611161025
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 16 Nov 2026 02:40 UTC
+🚫 去掉注释行: ! Last modified: 16 Nov 2026 10:25 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 5cb0bebca5b1a81ce7e8f55c40e52ba747901d74
+🚫 去掉注释行: ! Commit: 031421428a297941906f7ff8f866550fcb722074
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -69541,10 +69545,10 @@
 🚫 去掉注释行: ! Issues: https://github.com/hagezi/dns-blocklists/issues
 🚫 去掉注释行: ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 🚫 去掉注释行: ! Expires: 8 hours
-🚫 去掉注释行: ! Last modified: 15 Nov 2026 23:25 UTC
-🚫 去掉注释行: ! Version: 2026.1115.2325.32
+🚫 去掉注释行: ! Last modified: 16 Nov 2026 08:36 UTC
+🚫 去掉注释行: ! Version: 2026.1116.0836.15
 🚫 去掉注释行: ! Syntax: AdBlock
-🚫 去掉注释行: ! Number of entries: 91530
+🚫 去掉注释行: ! Number of entries: 92184
 🚫 去掉注释行: !
 🚫 去掉注释行: !Title: anti-AD for AdGuard
 🚫 去掉注释行: !Version: 20261113234500327358010
@@ -69565,8 +69569,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL%203.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA%204.0
-🚫 去掉注释行: !Generated: 2026-11-16 07:51:22 +08
-🚫 去掉注释行: !RuleCount: 836831
+🚫 去掉注释行: !Generated: 2026-11-16 13:29:41 +08
+🚫 去掉注释行: !RuleCount: 836947
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
@@ -149954,10 +149958,10 @@
 🚫 去掉注释行: ! Blocked domains: 8480
 🚫 去掉注释行: ! unBlocked domains: 16
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: 7uJ6hxPc5yBl2UHNMg7V3Q
-🚫 去掉注释行: ! Version: 202611141225
+🚫 去掉注释行: ! Checksum: i78JyEAas2tPC3Vqjc9RvA
+🚫 去掉注释行: ! Version: 202611160825
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-11-14 12:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-11-16 08:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -186784,7 +186788,7 @@
     → |favoptic.fi##.cookie_consent_alert
     → |favoptic.no##.cookie_consent_alert
 🚫 去掉注释行: !! #cookiePolicy
-✅ 多域名拆分: absa.co.za,bdonline.co.uk,eutelsat.com,fieldsofskibbereen.ie,fullraces.com,gamesontvtoday.com,librariaonline.ro,sciencelink.net,support.tresorit.com,thegrocer.co.uk,torrents.ws,wifikaernten.at,worldfishing.net###cookiePolicy
+✅ 多域名拆分: absa.co.za,bdonline.co.uk,eutelsat.com,fieldsofskibbereen.ie,fullraces.com,gamesontvtoday.com,librariaonline.ro,revistas.uptc.edu.co,sciencelink.net,support.tresorit.com,thegrocer.co.uk,torrents.ws,wifikaernten.at,worldfishing.net###cookiePolicy
     → |absa.co.za###cookiePolicy
     → |bdonline.co.uk###cookiePolicy
     → |eutelsat.com###cookiePolicy
@@ -186792,6 +186796,7 @@
     → |fullraces.com###cookiePolicy
     → |gamesontvtoday.com###cookiePolicy
     → |librariaonline.ro###cookiePolicy
+    → |revistas.uptc.edu.co###cookiePolicy
     → |sciencelink.net###cookiePolicy
     → |support.tresorit.com###cookiePolicy
     → |thegrocer.co.uk###cookiePolicy
@@ -193236,9 +193241,10 @@
     → |zerofox.com##.bottom-4
 🚫 去掉注释行: !! .bottom-40
 🚫 去掉注释行: !! .bottom-3
-✅ 多域名拆分: accu-components.com,accu.co.uk,faivelo.com,knock.app,smartreplypro.ai##.bottom-3
+✅ 多域名拆分: accu-components.com,accu.co.uk,clashreport.com,faivelo.com,knock.app,smartreplypro.ai##.bottom-3
     → |accu-components.com##.bottom-3
     → |accu.co.uk##.bottom-3
+    → |clashreport.com##.bottom-3
     → |faivelo.com##.bottom-3
     → |knock.app##.bottom-3
     → |smartreplypro.ai##.bottom-3
@@ -217326,9 +217332,9 @@
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: !---------------------------------Allowlists----------------------------------!
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: M2mFMPKskGrpCVfsadajwA
+🚫 去掉注释行: ! Checksum: ET++p+Vly45pMzA/Q9TWew
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Last modified: 2026-11-14 12:25 UTC
+🚫 去掉注释行: ! Last modified: 2026-11-16 08:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
@@ -236105,7 +236111,7 @@
     → |favoptic.fi##.cookie_consent_alert
     → |favoptic.no##.cookie_consent_alert
 🚫 去掉注释行: !! #cookiePolicy
-✅ 多域名拆分: absa.co.za,bdonline.co.uk,eutelsat.com,fieldsofskibbereen.ie,fullraces.com,gamesontvtoday.com,librariaonline.ro,sciencelink.net,support.tresorit.com,thegrocer.co.uk,torrents.ws,wifikaernten.at,worldfishing.net###cookiePolicy
+✅ 多域名拆分: absa.co.za,bdonline.co.uk,eutelsat.com,fieldsofskibbereen.ie,fullraces.com,gamesontvtoday.com,librariaonline.ro,revistas.uptc.edu.co,sciencelink.net,support.tresorit.com,thegrocer.co.uk,torrents.ws,wifikaernten.at,worldfishing.net###cookiePolicy
     → |absa.co.za###cookiePolicy
     → |bdonline.co.uk###cookiePolicy
     → |eutelsat.com###cookiePolicy
@@ -236113,6 +236119,7 @@
     → |fullraces.com###cookiePolicy
     → |gamesontvtoday.com###cookiePolicy
     → |librariaonline.ro###cookiePolicy
+    → |revistas.uptc.edu.co###cookiePolicy
     → |sciencelink.net###cookiePolicy
     → |support.tresorit.com###cookiePolicy
     → |thegrocer.co.uk###cookiePolicy
@@ -242557,9 +242564,10 @@
     → |zerofox.com##.bottom-4
 🚫 去掉注释行: !! .bottom-40
 🚫 去掉注释行: !! .bottom-3
-✅ 多域名拆分: accu-components.com,accu.co.uk,faivelo.com,knock.app,smartreplypro.ai##.bottom-3
+✅ 多域名拆分: accu-components.com,accu.co.uk,clashreport.com,faivelo.com,knock.app,smartreplypro.ai##.bottom-3
     → |accu-components.com##.bottom-3
     → |accu.co.uk##.bottom-3
+    → |clashreport.com##.bottom-3
     → |faivelo.com##.bottom-3
     → |knock.app##.bottom-3
     → |smartreplypro.ai##.bottom-3
