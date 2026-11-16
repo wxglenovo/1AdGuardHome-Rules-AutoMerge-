@@ -3022,6 +3022,7 @@ tipranks.com##.anchorbottomLeft
 playngo.com##.anim-banner-enter-done
 mnetplus.world##.anim__cookie__box-bg
 giraffe360.com##.animate-privacy-policy-show
+alpian.com##.animate-slide-up-cookies-banner
 |equiti.com##.announcement
 |wowhead.com##.announcement
 civilsociety.co.uk##.announcement-banner
@@ -5399,6 +5400,7 @@ mangooutlet.com##[aria-labelledby="cbanner-title"]
 |doctoralia.com.mx##[aria-labelledby="cookie-banner-title"]
 |eyesift.com##[aria-labelledby="cookie-banner-title"]
 |iranintl.com##[aria-labelledby="cookie-banner-title"]
+|piknova.com##[aria-labelledby="cookie-banner-title"]
 |stopkillinggames.com##[aria-labelledby="cookie-banner-title"]
 pandastack.ai##[aria-labelledby="cookie-consent-title"]
 footium.club##[aria-labelledby="cookieConsentHeading"]
@@ -5726,6 +5728,7 @@ pinnacle.com##div[data-test-id="Cookie-PolicyBanner"]
 lego.com##div[data-test="age-gate-disclaimer"]
 deeppersonality.app##div[data-testid="analytics-consent-banner"]
 metadefender.com##div[data-testid="banner"]:has(a[href="https://www.opswat.com/legal/cookies-policy"])
+context.dev##div[data-testid="consent-banner-root"]
 |athenegpt.ai##div[data-testid="cookie-banner"]
 |betterhelp.com##div[data-testid="cookie-banner"]
 |brilliant.org##div[data-testid="cookie-banner"]
