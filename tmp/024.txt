@@ -15249,7 +15249,7 @@ mixcloud.com#?#[style^="--x-backgroundColor"] > [class]:has-text(Cookies)
 |rimon.net.il#?#.elementor-popup-modal:has-text(cookies)
 |spectracities.com#?#.elementor-popup-modal:has-text(cookies)
 news.abs-cbn.com#?#.MuiBox-root:has-text(Welcome,)
-noon.com#?#._wrapper_nlm9m_28:has-text(/We use cookies|ÙØ³ØªØ®Ø¯Ù
+noon.com#?#div[class^="_wrapper_"]:has-text(/We use cookies|ÙØ³ØªØ®Ø¯Ù
 Ù
 ÙÙØ§Øª ØªØ¹Ø±ÙÙ/)
 payermax.com#?#.dialog:has-text(Cookies on PayerMax Website)
