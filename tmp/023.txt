@@ -818,6 +818,7 @@ protrumpnews.com##.affiliate-disclaimer
 worldhistory.org##.ahe-ad
 screamingfrog.co.uk##.animate-fly
 soundcloud.com##.announcement
+acode.app##.announcement-banner
 tutsplus.com##.announcement-bar
 deeditor.com##.ant-alert
 careerkarma.com##.ant-modal-root
@@ -5930,6 +5931,8 @@ chaser.com.au##.chaser-share-buttons
 progressive.org##.chicklets
 sqmagazine.co.uk##.child-theme-cta
 gatewayhispanic.com##.chromenews_social_contacts_widget
+cheezburger.com##.chz-no-shrink
+cheezburger.com##.chz-round.chz-icon-btn
 thecinemaholic.com##.cinemaholic-share
 khmertimeskh.com##.cisc-box
 chesskid.com##.ck-share-buttons
@@ -6547,6 +6550,7 @@ business2community.com##.join-tg
 businessday.ng##.join-whatsapp
 moneycontrol.com##.join_follow
 euronews.com##.js-c-article-partage-commentaire-share
+cheezburger.com##.js-chz-google-preferred
 buzzfeed.com##.js-inline-share-bar
 lrt.lt##.js-modal-share
 guide.michelin.com##.js-share-sticky
@@ -6680,6 +6684,7 @@ outlookindia.com##.nav-socials
 hnn.us##.nav__socialz
 triblive.com##.navbar-right
 chess.com##.navigation-footer-platforms-component
+politico.eu##.navigation-simple__list
 thesouthafrican.com##.navigator-share
 newsbusters.org##.nb-twitter-block
 ncaa.com##.ncaa-share-hanger
@@ -6770,6 +6775,7 @@ lifezette.com##.parler
 mondediplo.com##.partage
 playbuzz.com##.pb-share-bar
 playbuzz.com##.pb-site-social
+pcguide.com##.pcg-follow
 theyucatantimes.com##.penci_social_counter
 theenergymix.com##.pf-button
 news18.com##.pht-artcl-shr2
@@ -6823,6 +6829,7 @@ volexity.com##.post-single-social
 |tribuna.com.mx##.post-social-share
 blockclubchicago.org##.post-social-sharing__list
 hakaimagazine.com##.post-story-social-sharing
+technastic.com##.post__share-div
 eurointegration.com.ua##.post__social
 cointelegraph.com##.post__socials-block
 |captainaltcoin.com##.post_share
@@ -6922,6 +6929,7 @@ startupfortune.com##.sf-hero-share
 startupfortune.com##.sf-hero-share-btn
 mpost.io##.sfsi_centered_icon
 bravotube.net##.sh
+shattered.io##.sh-preferred-sources
 dailysabah.com##.shB
 sleepfoundation.org##.sh_space.share
 onlinelibrary.wiley.com##.share-access__ctrl
@@ -6965,6 +6973,7 @@ news.artnet.com##.share-header
 newsnow.co.uk##.share-highlight
 |cgtn.com##.share-icon
 |citynews.ca##.share-icon
+shattered.io##.share-icons
 knowablemagazine.org##.share-icons-box
 builder.io##.share-icons-column
 picsart.com##.share-icons-single-icons-0-2-82
@@ -7349,6 +7358,7 @@ iflscience.com##.social-share-elements
 techwalla.com##.social-share-icons
 |nashvillescene.com##.social-share-links
 |stltoday.com##.social-share-links
+technastic.com##.social-share-mobile__wrap
 plantbasednews.org##.social-share-partial
 thenationalnews.com##.social-share-rail__sticky
 computerworld.com##.social-share-sticky-men
@@ -13705,6 +13715,7 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 /snap-popup.js
 /sncmp.min.js
 /sni_cookie_privacy/js/cookie_consent.js
+/snigel-consent.
 /soygtmcontrolcookies/ajaxGtmCookies
 /sp-config.min.js
 /sp-dsgvo-public.min.js
@@ -15533,6 +15544,7 @@ rns.id##.AgreeCookiePolicy_cookiePolicy__OUbeU
 port.ac.uk##.Alert
 opensanctions.org##.Analytics-module-scss-module__VyoQAG__consentBox
 meteum.ai##.AppGdprPanel_wrapper__yfoGb
+aiplusstore.com##.Avada-CookiesBar__OuterWrapper
 cryptokitties.co##.Banner
 giphy.com##.Banner-sc-iopojr
 tesco.com##.BannerContainer__Container-mfe-header__sc-1aw43yw-0
@@ -18166,6 +18178,7 @@ pizzahut.co.uk##.z-600
 careers.team.blue##.z-cookie-alert
 tapas.io##.z-cookiePopup
 dropstab.com##.z-gdpr
+iloveimg.pro##.z11-consent
 docs.nordicsemi.com##.zDocsPopupBox
 starlingbank.com##.zYsLEJxzmfBA2Jbfgv8V
 dnb.com##.za43bb12b864a3f8d_privacyBanner
@@ -21938,6 +21951,7 @@ dryg.pl##div[class^="CookiesNoti"]
 |ukenr.no###gdpr-consent
 |veckonr.se###gdpr-consent
 |cbc.ca###didomi-host
+|ertflix.gr###didomi-host
 |festo.com###didomi-host
 |frandroid.com###didomi-host
 |giphy.com###didomi-host
@@ -25719,6 +25733,7 @@ onassis.org##.bottom-0.relative
 |symphony.is##.bottom-0.fixed
 |synapse.patsnap.com##.bottom-0.fixed
 |tekninen.fi##.bottom-0.fixed
+|telescoped.com##.bottom-0.fixed
 |teltonika-gps.com##.bottom-0.fixed
 |teltonika-networks.com##.bottom-0.fixed
 |tempgbox.net##.bottom-0.fixed
@@ -45899,7 +45914,7 @@ yoigo.com#@#thor-cookies
 @@||santepubliquefrance.fr/rgpd/smarttag.js$script,~third-party
 @@||schibsted.io^*/gdpr-bundle.js
 @@||scr.expert.cz/script/cookieconsent.js$~third-party
-@@||sdk.privacy-center.org^$script,domain=20minutos.es|24sata.hr|abc.es|allocine.fr|as.com|atresplayer.com|aukro.cz|auto.it|autopista.es|beinsports.com|belfasttelegraph.co.uk|bfmtv.com|bonduelle.it|cas.sk|ciclismoafondo.es|cnews.fr|corrieredellosport.it|decathlon.pl|dnevnik.hr|dumpert.nl|dziennikwschodni.pl|dziennikzachodni.pl|ebuyclub.com|edreams.de|edreams.net|elcomercio.es|elconfidencial.com|elespanol.com|eltiempo.es|euronews.com|europe1.fr|filmweb.pl|fip.fr|flair.be|france24.com|franceculture.fr|franceinfo.fr|franceinter.fr|francetvinfo.fr|frandroid.com|funradio.fr|futurezone.at|fyndiq.dk|fyndiq.fi|fyndiq.no|fyndiq.se|gamepro.de|gamestar.de|giphy.com|gloswielkopolski.pl|gofeminin.de|goplay.be|gva.be|hablandoenplata.es|hbvl.be|idealista.it|independent.ie|index.hr|ivoox.com|jeanmarcmorandini.com|jeuxvideo.com|jofogas.hu|kotimikro.fi|krone.at|kurier.at|ladepeche.fr|lalibre.be|lasexta.com|lasprovincias.es|lavanguardia.com|leboncoin.fr|leparisien.fr|lequipe.fr|letelegramme.fr|libellud.com|marca.com|marianne.net|maxjeune-tgvinoui.sncf|mein-mmo.de|melty.fr|metronieuws.nl|mitula.pt|motociclismo.es|mountainbike.es|movilzona.es|mundo-geo.es|mundodeportivo.com|mundogravel.es|na.se|naszemiasto.pl|nicematin.com|nieuwsblad.be|numerama.com|ondacero.es|onmeda.de|opodo.ch|opodo.co.uk|opodo.com|opodo.com.au|opodo.de|opodo.dk|opodo.es|opodo.fi|opodo.fr|opodo.it|opodo.nl|opodo.no|opodo.pl|opodo.se|opto.sic.pt|orpi.com|otempo.pt|profil.at|publicsenat.fr|rainberrytv.com|recup.paylib.fr|revistaoxigeno.es|rfi.fr|rmcbfmplay.com|rtbf.be|rtl.be|rtl.fr|science-et-vie.com|sensacine.com|serially.it|sfgame.net|sncf-connect.com|softonic.com|softonic.ru|soycorredor.es|sportlife.es|standaard.be|strefabiznesu.pl|telegraaf.nl|tf1.fr|theweathernetwork.com|tportal.hr|trailrun.es|triatlonweb.es|tuttosport.com|vecernji.hr|video-streaming.orange.fr|xataka.com
+@@||sdk.privacy-center.org^$script,domain=20minutos.es|24sata.hr|abc.es|allocine.fr|as.com|atresplayer.com|aukro.cz|auto.it|autopista.es|beinsports.com|belfasttelegraph.co.uk|bfmtv.com|bonduelle.it|cas.sk|ciclismoafondo.es|cnews.fr|corrieredellosport.it|decathlon.pl|dnevnik.hr|dumpert.nl|dziennikwschodni.pl|dziennikzachodni.pl|ebuyclub.com|edreams.de|edreams.net|elcomercio.es|elconfidencial.com|elespanol.com|eltiempo.es|ertflix.gr|euronews.com|europe1.fr|filmweb.pl|fip.fr|flair.be|france24.com|franceculture.fr|franceinfo.fr|franceinter.fr|francetvinfo.fr|frandroid.com|funradio.fr|futurezone.at|fyndiq.dk|fyndiq.fi|fyndiq.no|fyndiq.se|gamepro.de|gamestar.de|giphy.com|gloswielkopolski.pl|gofeminin.de|goplay.be|gva.be|hablandoenplata.es|hbvl.be|idealista.it|independent.ie|index.hr|ivoox.com|jeanmarcmorandini.com|jeuxvideo.com|jofogas.hu|kotimikro.fi|krone.at|kurier.at|ladepeche.fr|lalibre.be|lasexta.com|lasprovincias.es|lavanguardia.com|leboncoin.fr|leparisien.fr|lequipe.fr|letelegramme.fr|libellud.com|marca.com|marianne.net|maxjeune-tgvinoui.sncf|mein-mmo.de|melty.fr|metronieuws.nl|mitula.pt|motociclismo.es|mountainbike.es|movilzona.es|mundo-geo.es|mundodeportivo.com|mundogravel.es|na.se|naszemiasto.pl|nicematin.com|nieuwsblad.be|numerama.com|ondacero.es|onmeda.de|opodo.ch|opodo.co.uk|opodo.com|opodo.com.au|opodo.de|opodo.dk|opodo.es|opodo.fi|opodo.fr|opodo.it|opodo.nl|opodo.no|opodo.pl|opodo.se|opto.sic.pt|orpi.com|otempo.pt|profil.at|publicsenat.fr|rainberrytv.com|recup.paylib.fr|revistaoxigeno.es|rfi.fr|rmcbfmplay.com|rtbf.be|rtl.be|rtl.fr|science-et-vie.com|sensacine.com|serially.it|sfgame.net|sncf-connect.com|softonic.com|softonic.ru|soycorredor.es|sportlife.es|standaard.be|strefabiznesu.pl|telegraaf.nl|tf1.fr|theweathernetwork.com|tportal.hr|trailrun.es|triatlonweb.es|tuttosport.com|vecernji.hr|video-streaming.orange.fr|xataka.com
 @@||se.com/myschneider/assets/onetrust.$~third-party
 @@||securiti.ai^$script,xmlhttprequest,domain=alaskaair.com|hertz.at|hertz.co.uk|hertz.de|hertz.es|hertz.fi|hertz.fr|hertz.ie|hertz.it|hertz.no|hertz.pt|hertz.se|michaels.com
 @@||shop.bora-sauna.de/components/cookieconsent2/build/cookieconsent.min.js
@@ -48979,6 +48994,7 @@ missionlocal.org##.np-campaign--newsletter--mid-post
 audubon.org##.np-search-form-widget
 thepeoplesvoice.tv##.np_signup_container
 theglossarymagazine.com##.ns-buttons
+ai-tldr.dev##.ns-sub
 nowtoronto.com##.nt-sidebar-newsletter
 advisor.ca##.nua-newsletter
 the-ken.com##.nudge-band-container
@@ -49279,6 +49295,8 @@ webmd.com##.sf-nls-wrapper
 |prescouter.com##.sgpb-popup-overlay
 |reasonstobecheerful.world##.sgpb-popup-overlay
 |thefullpint.com##.sgpb-popup-overlay
+shattered.io##.sh-bar
+shattered.io##.sh-nl
 |airdriecityview.com##.share-mailing
 |cochraneeagle.ca##.share-mailing
 |lakelandtoday.ca##.share-mailing
@@ -49558,6 +49576,7 @@ live-adexchanger.pantheonsite.io##.subsciption
 |advocate.com##.subscribe
 |artisancanvas.com##.subscribe
 |businessairnews.com##.subscribe
+|the-ai-beat.com##.subscribe
 |thesuburbansoapbox.com##.subscribe
 3dprint.com##.subscribe--sidebar
 bookforum.com##.subscribe-ad__corner
