@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-11-19T08:12:52.103Z
+🚫 去掉注释行: ! Last modified: 2026-11-19T16:10:27.324Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -1679,11 +1679,11 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 95688
-🚫 去掉注释行: ! Checksum: DJ6GSiFQ2OXkzwq518Ey+A
-🚫 去掉注释行: ! Version: 202611190843
+🚫 去掉注释行: ! Checksum: 9B8J5La9GJIDGcESfiDq4A
+🚫 去掉注释行: ! Version: 202611191742
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 19 Nov 2026 08:43 UTC
-🚫 去掉注释行: ! Expires: 1 days (update frequency)
+🚫 去掉注释行: ! Last modified: 19 Nov 2026 17:42 UTC
+🚫 去掉注释行: ! Expires: 12 hours (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
 🚫 去掉注释行: !
@@ -17753,6 +17753,9 @@
     → |pricespy.co.nz##.adbox
     → |sourcedigit.com##.adbox
     → |telegraphindia.com##.adbox
+✅ 多域名拆分: mobile57.com,moviechat.org##.adc
+    → |mobile57.com##.adc
+    → |moviechat.org##.adc
 ✅ 多域名拆分: dailycaller.com,fanatix.com,gamertweak.com,gematsu.com,politicalcompass.org,videogamemods.com,videogameschronicle.com,worldhistory.org##.adcontainer
     → |dailycaller.com##.adcontainer
     → |fanatix.com##.adcontainer
@@ -21034,6 +21037,9 @@
 ✅ 多域名拆分: golflink.com,yourdictionary.com##.ui-advertisement
     → |golflink.com##.ui-advertisement
     → |yourdictionary.com##.ui-advertisement
+✅ 多域名拆分: venturebeat.com,victoriabuzz.com##.vb-ad-slot
+    → |venturebeat.com##.vb-ad-slot
+    → |victoriabuzz.com##.vb-ad-slot
 ✅ 多域名拆分: battlefordsnow.com,cfjctoday.com,everythinggp.com,filmdaily.co,huskiefan.ca,larongenow.com,meadowlakenow.com,nanaimonewsnow.com,northeastnow.com,panow.com,rdnewsnow.com,sasknow.com,vernonmatters.ca##.vc_single_image-wrapper
     → |battlefordsnow.com##.vc_single_image-wrapper
     → |cfjctoday.com##.vc_single_image-wrapper
@@ -24254,7 +24260,8 @@
     → |mature.community##.happy-footer
     → |milf.community##.happy-footer
     → |milf.plus##.happy-footer
-✅ 多域名拆分: hdporn92.com,javflix.net,ofansleaks.com##.happy-header
+✅ 多域名拆分: fulltaboo.tv,hdporn92.com,javflix.net,ofansleaks.com##.happy-header
+    → |fulltaboo.tv##.happy-header
     → |hdporn92.com##.happy-header
     → |javflix.net##.happy-header
     → |ofansleaks.com##.happy-header
@@ -24273,10 +24280,11 @@
 ✅ 多域名拆分: sexseeimage.com,thisav.me##.happy-section
     → |sexseeimage.com##.happy-section
     → |thisav.me##.happy-section
-✅ 多域名拆分: deepfake-porn.com,deepfucks.com,faply.cc,hdpornflix.com,hentaisexclub.com,sexkbj.com,vpornhd.com,x-picture.com##.happy-sidebar
+✅ 多域名拆分: deepfake-porn.com,deepfucks.com,faply.cc,fulltaboo.tv,hdpornflix.com,hentaisexclub.com,sexkbj.com,vpornhd.com,x-picture.com##.happy-sidebar
     → |deepfake-porn.com##.happy-sidebar
     → |deepfucks.com##.happy-sidebar
     → |faply.cc##.happy-sidebar
+    → |fulltaboo.tv##.happy-sidebar
     → |hdpornflix.com##.happy-sidebar
     → |hentaisexclub.com##.happy-sidebar
     → |sexkbj.com##.happy-sidebar
@@ -25351,10 +25359,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: EYI0k8ww5wJJAIJrTgpQFw
-🚫 去掉注释行: ! Version: 202611190843
+🚫 去掉注释行: ! Checksum: UO2xqzGsImQ5UeTyiJF2Fg
+🚫 去掉注释行: ! Version: 202611191742
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 19 Nov 2026 08:43 UTC
+🚫 去掉注释行: ! Last modified: 19 Nov 2026 17:42 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -28702,10 +28710,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: D1sffdYut46MBMQHkzA73Q
-🚫 去掉注释行: ! Version: 202611190843
+🚫 去掉注释行: ! Checksum: GPZMdENoBNWX7rVIVfWLig
+🚫 去掉注释行: ! Version: 202611191742
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 19 Nov 2026 08:43 UTC
+🚫 去掉注释行: ! Last modified: 19 Nov 2026 17:42 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29383,11 +29391,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202611190840
+🚫 去掉注释行: ! Version: 202611191747
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 19 Nov 2026 08:40 UTC
+🚫 去掉注释行: ! Last modified: 19 Nov 2026 17:47 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 249f26e382342d73c4ab2b00b9a20ac292826300
+🚫 去掉注释行: ! Commit: 4ba93e9fb0a49dd5f9aec1d84ff0193f25c39d37
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -45467,6 +45475,9 @@
     → |pricespy.co.nz##.adbox
     → |sourcedigit.com##.adbox
     → |telegraphindia.com##.adbox
+✅ 多域名拆分: mobile57.com,moviechat.org##.adc
+    → |mobile57.com##.adc
+    → |moviechat.org##.adc
 ✅ 多域名拆分: dailycaller.com,fanatix.com,gamertweak.com,gematsu.com,politicalcompass.org,videogamemods.com,videogameschronicle.com,worldhistory.org##.adcontainer
     → |dailycaller.com##.adcontainer
     → |fanatix.com##.adcontainer
@@ -48748,6 +48759,9 @@
 ✅ 多域名拆分: golflink.com,yourdictionary.com##.ui-advertisement
     → |golflink.com##.ui-advertisement
     → |yourdictionary.com##.ui-advertisement
+✅ 多域名拆分: venturebeat.com,victoriabuzz.com##.vb-ad-slot
+    → |venturebeat.com##.vb-ad-slot
+    → |victoriabuzz.com##.vb-ad-slot
 ✅ 多域名拆分: battlefordsnow.com,cfjctoday.com,everythinggp.com,filmdaily.co,huskiefan.ca,larongenow.com,meadowlakenow.com,nanaimonewsnow.com,northeastnow.com,panow.com,rdnewsnow.com,sasknow.com,vernonmatters.ca##.vc_single_image-wrapper
     → |battlefordsnow.com##.vc_single_image-wrapper
     → |cfjctoday.com##.vc_single_image-wrapper
@@ -51969,7 +51983,8 @@
     → |mature.community##.happy-footer
     → |milf.community##.happy-footer
     → |milf.plus##.happy-footer
-✅ 多域名拆分: hdporn92.com,javflix.net,ofansleaks.com##.happy-header
+✅ 多域名拆分: fulltaboo.tv,hdporn92.com,javflix.net,ofansleaks.com##.happy-header
+    → |fulltaboo.tv##.happy-header
     → |hdporn92.com##.happy-header
     → |javflix.net##.happy-header
     → |ofansleaks.com##.happy-header
@@ -51988,10 +52003,11 @@
 ✅ 多域名拆分: sexseeimage.com,thisav.me##.happy-section
     → |sexseeimage.com##.happy-section
     → |thisav.me##.happy-section
-✅ 多域名拆分: deepfake-porn.com,deepfucks.com,faply.cc,hdpornflix.com,hentaisexclub.com,sexkbj.com,vpornhd.com,x-picture.com##.happy-sidebar
+✅ 多域名拆分: deepfake-porn.com,deepfucks.com,faply.cc,fulltaboo.tv,hdpornflix.com,hentaisexclub.com,sexkbj.com,vpornhd.com,x-picture.com##.happy-sidebar
     → |deepfake-porn.com##.happy-sidebar
     → |deepfucks.com##.happy-sidebar
     → |faply.cc##.happy-sidebar
+    → |fulltaboo.tv##.happy-sidebar
     → |hdpornflix.com##.happy-sidebar
     → |hentaisexclub.com##.happy-sidebar
     → |sexkbj.com##.happy-sidebar
@@ -53091,11 +53107,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202611190845
+🚫 去掉注释行: ! Version: 202611191750
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 19 Nov 2026 08:45 UTC
+🚫 去掉注释行: ! Last modified: 19 Nov 2026 17:50 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 52f0e3bfbef94ebcb4d14c09d2ccaeac2611e505
+🚫 去掉注释行: ! Commit: 8bd1318df323470b5f797e4b19854ace88515740
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -69553,10 +69569,10 @@
 🚫 去掉注释行: ! Issues: https://github.com/hagezi/dns-blocklists/issues
 🚫 去掉注释行: ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 🚫 去掉注释行: ! Expires: 8 hours
-🚫 去掉注释行: ! Last modified: 18 Nov 2026 23:42 UTC
-🚫 去掉注释行: ! Version: 2026.1118.2342.47
+🚫 去掉注释行: ! Last modified: 19 Nov 2026 15:29 UTC
+🚫 去掉注释行: ! Version: 2026.1119.1529.57
 🚫 去掉注释行: ! Syntax: AdBlock
-🚫 去掉注释行: ! Number of entries: 91291
+🚫 去掉注释行: ! Number of entries: 92176
 🚫 去掉注释行: !
 🚫 去掉注释行: !Title: anti-AD for AdGuard
 🚫 去掉注释行: !Version: 20261117015534856955325
@@ -69577,8 +69593,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL%203.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA%204.0
-🚫 去掉注释行: !Generated: 2026-11-19 15:32:07 +08
-🚫 去掉注释行: !RuleCount: 834383
+🚫 去掉注释行: !Generated: 2026-11-19 23:41:03 +08
+🚫 去掉注释行: !RuleCount: 816542
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
@@ -149966,10 +149982,10 @@
 🚫 去掉注释行: ! Blocked domains: 8480
 🚫 去掉注释行: ! unBlocked domains: 16
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: WrWRCS6T5p4ZdceU1zGAlA
-🚫 去掉注释行: ! Version: 202611190100
+🚫 去掉注释行: ! Checksum: /rRGjYserzIAmT50YFQuow
+🚫 去掉注释行: ! Version: 202611191050
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-11-19 01:00 UTC
+🚫 去掉注释行: ! Last modified: 2026-11-19 10:50 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -184007,12 +184023,14 @@
 ✅ 多域名拆分: johnfrederick.co.uk,pestdefence.co.uk###wp-notification
     → |johnfrederick.co.uk###wp-notification
     → |pestdefence.co.uk###wp-notification
-✅ 多域名拆分: acoup.blog,candidcyber.com,commonplacefacts.com,maxstock.co.il,pokespecial.com.pl,sciencebasedmedicine.org###wpconsent-root
+✅ 多域名拆分: acoup.blog,candidcyber.com,commonplacefacts.com,decorado.co.il,maxstock.co.il,pokespecial.com.pl,sahisaudavel.com.br,sciencebasedmedicine.org###wpconsent-root
     → |acoup.blog###wpconsent-root
     → |candidcyber.com###wpconsent-root
     → |commonplacefacts.com###wpconsent-root
+    → |decorado.co.il###wpconsent-root
     → |maxstock.co.il###wpconsent-root
     → |pokespecial.com.pl###wpconsent-root
+    → |sahisaudavel.com.br###wpconsent-root
     → |sciencebasedmedicine.org###wpconsent-root
 ✅ 多域名拆分: 1kosmos.com,avaloniaui.net,brside.com,buildship.com,bunq.com,coworker.ai,daytona.io,enhanced.com,etfbook.com,fitanalytics.com,framer.com,gitbook.com,iverify.io,juliahub.com,localculture.org,luckyorange.com,meetkevin.com,neon-free.ch,netcraft.com,podspace.com,rollbar.com,site.trasti.pl,snoutcover.com,splx.ai,stirling.com,strongcloud.online,syncly.app,walllet.com##.--framer-cookie-banner-container
     → |1kosmos.com##.--framer-cookie-banner-container
@@ -184466,8 +184484,9 @@
 ✅ 多域名拆分: premid.app,vulncheck.com##.cookieControl
     → |premid.app##.cookieControl
     → |vulncheck.com##.cookieControl
-✅ 多域名拆分: autopilot.ru,kommersant.ru,myweekend.ru,sasa.co.id##.cookie_consent
+✅ 多域名拆分: autopilot.ru,fullyst.com,kommersant.ru,myweekend.ru,sasa.co.id##.cookie_consent
     → |autopilot.ru##.cookie_consent
+    → |fullyst.com##.cookie_consent
     → |kommersant.ru##.cookie_consent
     → |myweekend.ru##.cookie_consent
     → |sasa.co.id##.cookie_consent
@@ -184498,6 +184517,9 @@
 ✅ 多域名拆分: keralanotes.com,rockmods.net##.cookies-show
     → |keralanotes.com##.cookies-show
     → |rockmods.net##.cookies-show
+✅ 多域名拆分: lightpdf.com,picwish.com##.cookies-tip-v1-consent-container
+    → |lightpdf.com##.cookies-tip-v1-consent-container
+    → |picwish.com##.cookies-tip-v1-consent-container
 ✅ 多域名拆分: freesmsgateway.com,germanospalhasitalianas.com.br,otokrypto.pl,shop.rgnywine.com,ucoin.net##.cookies-warning
     → |freesmsgateway.com##.cookies-warning
     → |germanospalhasitalianas.com.br##.cookies-warning
@@ -188748,7 +188770,7 @@
     → |scite.ai##div[class^="CookieNoti"]
 🚫 去掉注释行: !! CookiesNoti
 🚫 去掉注释行: !! .cookie-notice
-✅ 多域名拆分: 21group.at,acidcow.com,allangray.co.za,almayadeen.net,amaze.org,artdentis.com,autosolar.co,autosolar.pe,backaldrin.com,bankofengland.co.uk,bestlawyers.com,binary.transparency.dev,breadandbutter.ru,camgo.com,candaceowens.com,castlefineart.com,cls-computer.de,dio-center.info,direct2u.co.uk,drgerard.eu,ecosia.org,estately.com,freevpnplanet.com,getbring.com,greenhouseseeds.nl,greenpeace.org,gvtc.com,harveynichols.com,iamcook.ru,ifo.de,iihf.com,isubqo.com,jetset-hairextensions.nl,kappahl.com,lehigh.edu,lightspeed.com,mageba-group.com,manpower.com.ar,manpowergroup.com.ar,mashable.com,maspethfederal.com,matchtv.ru,mct.co.il,millers.ch,monnik-dranken.nl,motocard.com,nbtc.go.th,nc-planica.si,ncfu.ru,news.sportbox.ru,oakville.ca,onlinedrugtraining.com,outfit7.com,pagetiger.com,podomatic.com,portfoliobox.com,pryor.com,psychiatryonline.org,rex-royal.ch,schweizermonat.ch,scotworkusa.com,security.mozwik.com,spartanien.de,threadless.com,toolbox.googleapps.com,topmarket.co.il,trustsig.eu,ucbi.com,ucrazy.org,underbelly.is,viboom.com,vidal.ru,vixx.nl,wine-searcher.com,xtreme.pt,zonstudio.nl##.cookie-notice
+✅ 多域名拆分: 21group.at,acidcow.com,allangray.co.za,almayadeen.net,amaze.org,artdentis.com,autosolar.co,autosolar.pe,backaldrin.com,bankofengland.co.uk,bestlawyers.com,binary.transparency.dev,breadandbutter.ru,camgo.com,candaceowens.com,castlefineart.com,cls-computer.de,dio-center.info,direct2u.co.uk,drgerard.eu,ecosia.org,emailnator.com,estately.com,freevpnplanet.com,getbring.com,greenhouseseeds.nl,greenpeace.org,gvtc.com,harveynichols.com,iamcook.ru,ifo.de,iihf.com,isubqo.com,jetset-hairextensions.nl,kappahl.com,lehigh.edu,lightspeed.com,mageba-group.com,manpower.com.ar,manpowergroup.com.ar,mashable.com,maspethfederal.com,matchtv.ru,mct.co.il,millers.ch,monnik-dranken.nl,motocard.com,nbtc.go.th,nc-planica.si,ncfu.ru,news.sportbox.ru,oakville.ca,onlinedrugtraining.com,outfit7.com,pagetiger.com,podomatic.com,portfoliobox.com,pryor.com,psychiatryonline.org,rex-royal.ch,schweizermonat.ch,scotworkusa.com,security.mozwik.com,spartanien.de,threadless.com,toolbox.googleapps.com,topmarket.co.il,trustsig.eu,ucbi.com,ucrazy.org,underbelly.is,viboom.com,vidal.ru,vixx.nl,wine-searcher.com,xtreme.pt,zonstudio.nl##.cookie-notice
     → |21group.at##.cookie-notice
     → |acidcow.com##.cookie-notice
     → |allangray.co.za##.cookie-notice
@@ -188770,6 +188792,7 @@
     → |direct2u.co.uk##.cookie-notice
     → |drgerard.eu##.cookie-notice
     → |ecosia.org##.cookie-notice
+    → |emailnator.com##.cookie-notice
     → |estately.com##.cookie-notice
     → |freevpnplanet.com##.cookie-notice
     → |getbring.com##.cookie-notice
@@ -189222,7 +189245,7 @@
     → |myhealth.bg###cookiebannerModal
     → |qinn.es###cookiebannerModal
 🚫 去掉注释行: !! .cookies
-✅ 多域名拆分: 2x2.su,4-72.com.co,4kdownload.com,4memail.com,7.wan.com,acaplast-group.com,acaplast.com,adscompass.com,advstreet.ru,aegeanbalticbank.com,agerip.com.br,agugiarofigna.com,aislamientostrapaga.com,akado.ru,aliorbank.pl,alty.co,amikado.com,and-rus.ru,angolodelregalo.it,angora.com.pl,aoc.com,apcloud.es,aphome.es,appaddict.org,aquasain.com,aragon.es,arbiton.com,asda.com,aslimnica.lv,asmcf.org,astra-mag.com,autempoeuropie.pl,auto1.fi,auto10.com,avanga.org,bacelic.hr,bahianoticias.com.br,bandainamcostudios.my,bandainamcostudios.sg,base.garant.ru,baza.io,bbva.mx,bcm.marketing,belarus24.by,belenus.com.br,belivehotels.com,bemob.com,bfc.pl,bim-bike.hr,binomo.com,biofoodolbia.com,blog.nubank.com.br,blomedry.com,bogazici.edu.tr,bokadirekt.se,bolagsverket.se,boomverzorgingmichiel.be,botrix.live,brandmake.nl,bubble-ecoworking.com,bubok.com.ar,caaquebec.com,calltouch.ru,carowall.com,cashconverters.es,cavex.co.uk,cdnnow.pro,cdnnow.ru,cebupacificair.com,centromaiez.com,certafarmacia.com.br,ch1ef.ru,chemistdirect.co.uk,chiavalon.hr,chilexpress.cl,chophytol.ru,ciar.london,cienpalacios.com,cineworld.co.uk,city-story.ru,classen.pl,colaboraread.com.br,compendium.com.ua,conquistainternet.com,consultant.net.ua,corporate.it,cp.pt,creatica.com.ar,creditural.ru,creotech.pl,crytek.com,custplace.com,cutterbrooks.com,cvat.ai,cyberctm.com,danwood.de,darking.cz,data.gov.hr,depintxopote.com,desirebutik.pl,dhosting.pl,diamantea.com,diariodelaribera.net,dille-kamille.de,dimply.ai,divinity.game,dobro.hr,doctoralilianamarrero.com,doit.software,domarket.ru,dorotheum.com,duplicatephotosfixer.com,dur.ac.uk,dvdmax.pl,e-bebek.com,e-glossa.it,ebschool.cz,edifier.com,egyptair.com,egzaminy.edu.pl,elmachips.com.br,emall.by,emea.com.tr,enable-javascript.com,equall.gr,espariga.lv,estudiotextilcolor.com,etymon-solutions.com,eudita.es,euromedictorun.pl,eurozine.com,everybody-s.com,evisa.express,evropochta.by,fair.bg,fannatic.be,fastpersonal.ru,fileink.com,filtrosfera.pl,firmaelectronica.gob.es,fitpatrol.pl,flatironsquare.co.uk,fluid.co.uk,fnsea.fr,folklore-society.com,fondazionehenraux.it,food.vkusvill.ru,foodforsoul.it,forsettlement.com,fortressbp.com,fotomatonia.com,free3dbase.com,freevpnplanet.com,friendsfit.cz,friendsofeurope.org,fuegodevida.com,gamdias.com,game-game.com,game-game.com.ua,game-game.ee,gandalf.com.pl,garajecentrobilbao.com,gartic.io,gdplegal.es,generator-rus.ru,geschenking.de,gindih.co.il,glavred.info,gmzp.pl,goboony.be,golfdondurma.com.tr,gorealtravel.com,gorodn.ru,gramota.ru,graneleiro.com.br,graspop.be,guggenheim-bilbao.eus,gumenadom.si,gurutzekogurasoak.eus,hartfordbusiness.com,hemocentroriopreto.com.br,heyzine.com,hi-fi.ru,hmv.com,hondadealers.com,hopdoddy.com,hospitaldebase.com.br,hotel-merlin.cz,hotel-spider.com,hotelbellaire.com,hotelhaven.fi,hotelskeppsholmen.se,houkesloot.nl,hp-store.hr,hse.ru,huntshowdown.com,iamhungry.fr,iasgp.org,iden.team,idiomaster-arrasate.com,igsoft.be,ileanafundi.com,ilmainensanakirja.fi,imaginanet.com,imq.es,inagrm.com,indepth.dev,ingrad.ru,intendit.se,intergameonline.com,invb.ru,itkkit.com,iwp.be,izhlife.ru,jefferson-hifi-video.fr,jkef.co.il,jobs.lenovo.com,justicaeleitoral.jus.br,kabola.hr,kaitseliit.ee,keporn.com,kiauto.fr,kituramirus.com,laboratoriohlab.com.br,lama-media.com,larepublica.co,laskort.com,latiendadelaspegatinas.com,lavardi.ru,ldavinci.edu.pe,lelieuunique.com,lenovostore.hr,les33.ru,lfv.se,ligaforty.com.br,litostroj.si,login.bankhapoalim.co.il,lvsas.sk,m.brettspielwelt.de,mabanque.bnpparibas,macpaw.com,madalinliviu.ro,mailjet.com,makandracards.com,mannheimerswartling.se,marchecentral.com,markups.kdanmobile.com,marsgaming.eu,martinrandall.com,maschinenportal24.de,maxhub.com,mcc.live,media-sense.com,meintierdiscount.de,melag.com,metaflux-ts.cz,metalomarao.pt,meteopodaci.dhz.hr,mikronis.hr,milanowek.pl,mindshareworld.com,mindswarms.com,mir-tema.ru,mlp-advokat.ru,mm.ck.ua,mmk.ru,mnemonic.io,mobilephonemuseum.com,moby.it,mobylines.com,mobylines.de,mobylines.fr,modirum.com,monetizze.com.br,monterail.com,moongamestudios.com,mpccreative.io,muastore.pl,mute.design,myinvestor.es,mzk.zgora.pl,najlepszemeble.pl,nanocad.com,nascentdesign.com,naszefutrzaki.eu,nedbank.co.za,nederlandsebrouwers.nl,netify.ai,neumaticoszorroza.com,nextmillennium.com,niedziela.pl,nobis.se,nobishotel.se,northmagnetic.com,nowports.com,o-ma-god.com,okocrm.com,omaweetraad.nl,onas.org.pl,onderdelenlijn.nl,oneticket.cz,onpoint.ru,onwelo.com,operakallaren.se,orientalmart.co.uk,ostrog.com,otkritkiok.ru,oxfloormultistep.com,panamaamerica.com.pa,panfasad.com,parfumsclub.de,patek.com,paysale.com,pearos.xyz,peporn.com,perfumesclub.co.uk,perfumesclub.com,perfumesclub.fr,perfumesclub.it,perfumesclub.nl,perfumesclub.pt,permak.com.tr,pho.to,photonengine.com,picnic.app,pics.io,pildorasdefe.net,pkpcargo.com,playgwent.com,podmaz.sk,poolboy.eu,portalnovosti.com,portovivosru.pt,previssima.fr,pribram.cz,privatbank.ua,prof53.ru,propertygem.pl,proton.com,proxyparts.com,proxyparts.de,proxyparts.es,proxyparts.fr,proxyparts.pl,puntodepartida.com,radio-ecuador.com,referendum.gov.pl,reinbold-entsorgungstechnik.com,renaultbryanston.co.za,renaultfourways.co.za,renaultretailgroup.es,resumebuild.eu,rktbns.de,rowery-indiana.pl,royalparks.org.uk,rskrf.ru,rss.com,rti.org.tw,rtl.hr,rubyroidlabs.com,rusvpn.com,samsonite.ro,santiment.net,sapphiretech.com,satdl.com,sbsjager.sk,scamner.com,scobel.pasaz24.pl,screenflanders.be,sejmsenat2019.pkw.gov.pl,selfhost.de,selo-zelenoe.ru,sgu.se,sharafdg.com,shimmer.care,shoker.ru,showroomcinema.org.uk,sikera.com,singulart.com,sino-hotels.com,sisjointressenter.se,sistic.com.sg,skillbox.ru,sklif.mos.ru,sky.com.mx,slicethepie.com,sosbernuciemati.lv,spensen.com,sport5.by,sprawdzonyfizjoterapeuta.pl,sprinter-avto.com,srazenazver.cz,stallmastaregarden.se,staltrans.ru,stanumamoy.com,stary.pl,stb.com.tn,stratoflow.com,streetfootballworld.org,strefawalut.pl,stuttafordvanlines.co.za,sudzibas.lv,summa.es,supercast.com,svww.de,swood.pl,sylan.pl,systeme.ru,taylorandfrancis.com,tdsexport.com,technolove.ru,teen21.com,teknikdelar.se,telsu.fi,temp-image.com,terilogy.com,tescomobile.ie,testeri.fi,thea-nordic.dk,thenottingham.com,thisisplayground.com,thomas-elliott.co.uk,threadreaderapp.com,tireshop.ua,tirrenia.it,todomecanica.com,topographic-map.com,topvintage.com,topwayschool.com,trempak.co.za,trend-russia.ru,tripster.ru,tse.jus.br,tsmodelstube.com,tuplus.com.co,twinings.co.uk,uanal.com,udruga-gradova.hr,ukcisa.org.uk,umicore.com,unian.info,unian.net,unian.ua,universiteitleiden.nl,unknownphone.com,unpoly.com,uob.edu.om,uptodown.com,userinyerface.com,ustavprava.cz,uxfocus.cz,valledeelda.com,veb.net,ver-tv.online,vertabelo.com,vestaconsultores.com,vfs.cz,vips.com.mx,visolit.net,vizologi.com,vocesmexico.com,volvocars.com,vuz24.ru,vvdntools.com,webawards.com.ua,webdock.dk,webdock.io,welfarepartners.ie,westpandi.com,wesur.fr,weweler.eu,wid.com.pl,wilko.com,wizards.com,wkruk.pl,worldeducation.hr,wybory.gov.pl,wyylde.com,xmobi.co,xn--h1alcedd.xn--d1aqf.xn--p1ai,youareinapp.com,zelena-akcija.hr,zerolives.com,zieduveikals.lv,zoom.earth##.cookies
+✅ 多域名拆分: 2x2.su,4-72.com.co,4kdownload.com,4memail.com,7.wan.com,acaplast-group.com,acaplast.com,adscompass.com,advstreet.ru,aegeanbalticbank.com,agerip.com.br,agugiarofigna.com,aislamientostrapaga.com,akado.ru,aliorbank.pl,alty.co,amikado.com,and-rus.ru,angolodelregalo.it,angora.com.pl,aoc.com,apcloud.es,aphome.es,appaddict.org,aquasain.com,aragon.es,arbiton.com,asda.com,aslimnica.lv,asmcf.org,astra-mag.com,autempoeuropie.pl,auto1.fi,auto10.com,avanga.org,bacelic.hr,bahianoticias.com.br,bandainamcostudios.my,bandainamcostudios.sg,base.garant.ru,baza.io,bbva.mx,bcm.marketing,belarus24.by,belenus.com.br,belivehotels.com,bemob.com,bfc.pl,bim-bike.hr,binomo.com,biofoodolbia.com,blog.nubank.com.br,blomedry.com,bogazici.edu.tr,bokadirekt.se,bolagsverket.se,boomverzorgingmichiel.be,botrix.live,brandmake.nl,bubble-ecoworking.com,bubok.com.ar,caaquebec.com,calltouch.ru,carowall.com,cashconverters.es,cavex.co.uk,cdnnow.pro,cdnnow.ru,cebupacificair.com,centromaiez.com,certafarmacia.com.br,ch1ef.ru,chemistdirect.co.uk,chiavalon.hr,chilexpress.cl,chophytol.ru,ciar.london,cienpalacios.com,cineworld.co.uk,city-story.ru,classen.pl,colaboraread.com.br,compendium.com.ua,conquistainternet.com,consultant.net.ua,corporate.it,cp.pt,creatica.com.ar,creditural.ru,creotech.pl,crytek.com,custplace.com,cutterbrooks.com,cvat.ai,cyberctm.com,danwood.de,darking.cz,data.gov.hr,depintxopote.com,desirebutik.pl,dhosting.pl,diamantea.com,diariodelaribera.net,dille-kamille.de,dimply.ai,divinity.game,dobro.hr,doctoralilianamarrero.com,doit.software,domarket.ru,dorotheum.com,duplicatephotosfixer.com,dur.ac.uk,dvdmax.pl,e-bebek.com,e-glossa.it,ebschool.cz,edifier.com,egyptair.com,egzaminy.edu.pl,elmachips.com.br,emall.by,emea.com.tr,enable-javascript.com,equall.gr,espariga.lv,estudiotextilcolor.com,etymon-solutions.com,eudita.es,euromedictorun.pl,eurozine.com,everybody-s.com,evisa.express,evropochta.by,fair.bg,fannatic.be,fastpersonal.ru,fileink.com,filtrosfera.pl,firmaelectronica.gob.es,fitpatrol.pl,flatironsquare.co.uk,fluid.co.uk,fnsea.fr,folklore-society.com,fondazionehenraux.it,food.vkusvill.ru,foodforsoul.it,forsettlement.com,fortressbp.com,fotomatonia.com,free3dbase.com,freevpnplanet.com,friendsfit.cz,friendsofeurope.org,fuegodevida.com,gamdias.com,game-game.com,game-game.com.ua,game-game.ee,gandalf.com.pl,garajecentrobilbao.com,gartic.io,gdplegal.es,generator-rus.ru,geschenking.de,gindih.co.il,glavred.info,gmzp.pl,goboony.be,golfdondurma.com.tr,gorealtravel.com,gorodn.ru,gramota.ru,graneleiro.com.br,graspop.be,guggenheim-bilbao.eus,gumenadom.si,gurutzekogurasoak.eus,hartfordbusiness.com,hemocentroriopreto.com.br,heyzine.com,hi-fi.ru,hmv.com,hondadealers.com,hopdoddy.com,hospitaldebase.com.br,hotel-merlin.cz,hotel-spider.com,hotelbellaire.com,hotelhaven.fi,hotelskeppsholmen.se,houkesloot.nl,hp-store.hr,hse.ru,huntshowdown.com,iamhungry.fr,iasgp.org,iden.team,idiomaster-arrasate.com,igsoft.be,ileanafundi.com,ilmainensanakirja.fi,imaginanet.com,imq.es,inagrm.com,indepth.dev,ingrad.ru,intendit.se,intergameonline.com,invb.ru,itkkit.com,iwp.be,izhlife.ru,jefferson-hifi-video.fr,jkef.co.il,jobs.lenovo.com,justicaeleitoral.jus.br,kabola.hr,kaitseliit.ee,keporn.com,kiauto.fr,kituramirus.com,laboratoriohlab.com.br,lama-media.com,larepublica.co,laskort.com,latiendadelaspegatinas.com,lavardi.ru,ldavinci.edu.pe,lelieuunique.com,lenovostore.hr,les33.ru,lfv.se,ligaforty.com.br,litostroj.si,login.bankhapoalim.co.il,lvsas.sk,m.brettspielwelt.de,mabanque.bnpparibas,macpaw.com,madalinliviu.ro,mailjet.com,makandracards.com,mannheimerswartling.se,marchecentral.com,markups.kdanmobile.com,marsgaming.eu,martinrandall.com,maschinenportal24.de,maxhub.com,mcc.live,media-sense.com,meintierdiscount.de,melag.com,metaflux-ts.cz,metalomarao.pt,meteopodaci.dhz.hr,mikronis.hr,milanowek.pl,mindshareworld.com,mindswarms.com,mir-tema.ru,mlp-advokat.ru,mm.ck.ua,mmk.ru,mnemonic.io,mobilephonemuseum.com,moby.it,mobylines.com,mobylines.de,mobylines.fr,modirum.com,monetizze.com.br,monterail.com,moongamestudios.com,mpccreative.io,muastore.pl,mute.design,myinvestor.es,mzk.zgora.pl,najlepszemeble.pl,nanocad.com,nascentdesign.com,naszefutrzaki.eu,nedbank.co.za,nederlandsebrouwers.nl,netify.ai,neumaticoszorroza.com,nextmillennium.com,niedziela.pl,nobis.se,nobishotel.se,northmagnetic.com,nowports.com,o-ma-god.com,okocrm.com,omaweetraad.nl,onas.org.pl,onderdelenlijn.nl,oneticket.cz,onpoint.ru,onwelo.com,operakallaren.se,orientalmart.co.uk,ostrog.com,otkritkiok.ru,oxfloormultistep.com,panamaamerica.com.pa,panfasad.com,parfumsclub.de,patek.com,paysale.com,pearos.xyz,peporn.com,perfumesclub.co.uk,perfumesclub.com,perfumesclub.fr,perfumesclub.it,perfumesclub.nl,perfumesclub.pt,permak.com.tr,pho.to,photonengine.com,picnic.app,pics.io,pildorasdefe.net,pkpcargo.com,playgwent.com,podmaz.sk,poolboy.eu,portalnovosti.com,portovivosru.pt,previssima.fr,pribram.cz,privatbank.ua,prof53.ru,propertygem.pl,proton.com,proxyparts.com,proxyparts.de,proxyparts.es,proxyparts.fr,proxyparts.pl,puntodepartida.com,radio-ecuador.com,referendum.gov.pl,reinbold-entsorgungstechnik.com,renaultbryanston.co.za,renaultfourways.co.za,renaultretailgroup.es,resumebuild.eu,rktbns.de,rowery-indiana.pl,royalparks.org.uk,rskrf.ru,rss.com,rti.org.tw,rtl.hr,rubyroidlabs.com,rusvpn.com,samsonite.ro,santiment.net,sapphiretech.com,satdl.com,sbsjager.sk,scamner.com,scobel.pasaz24.pl,screenflanders.be,sejmsenat2019.pkw.gov.pl,selfhost.de,selo-zelenoe.ru,sgu.se,sharafdg.com,shimmer.care,shoker.ru,showroomcinema.org.uk,sikera.com,singulart.com,sino-hotels.com,sisjointressenter.se,sistic.com.sg,skillbox.ru,sklif.mos.ru,sky.com.mx,slicethepie.com,sosbernuciemati.lv,spensen.com,sport5.by,sprawdzonyfizjoterapeuta.pl,sprinter-avto.com,srazenazver.cz,stallmastaregarden.se,staltrans.ru,stanumamoy.com,stary.pl,stb.com.tn,stratoflow.com,streetfootballworld.org,strefawalut.pl,stuttafordvanlines.co.za,sudzibas.lv,summa.es,supercast.com,svww.de,swood.pl,sylan.pl,systeme.ru,taylorandfrancis.com,tdsexport.com,technolove.ru,teen21.com,teknikdelar.se,telsu.fi,temp-image.com,tempmailg.com,terilogy.com,tescomobile.ie,testeri.fi,thea-nordic.dk,thenottingham.com,thisisplayground.com,thomas-elliott.co.uk,threadreaderapp.com,tireshop.ua,tirrenia.it,todomecanica.com,topographic-map.com,topvintage.com,topwayschool.com,trempak.co.za,trend-russia.ru,tripster.ru,tse.jus.br,tsmodelstube.com,tuplus.com.co,twinings.co.uk,uanal.com,udruga-gradova.hr,ukcisa.org.uk,umicore.com,unian.info,unian.net,unian.ua,universiteitleiden.nl,unknownphone.com,unpoly.com,uob.edu.om,uptodown.com,userinyerface.com,ustavprava.cz,uxfocus.cz,valledeelda.com,veb.net,ver-tv.online,vertabelo.com,vestaconsultores.com,vfs.cz,vips.com.mx,visolit.net,vizologi.com,vocesmexico.com,volvocars.com,vuz24.ru,vvdntools.com,webawards.com.ua,webdock.dk,webdock.io,welfarepartners.ie,westpandi.com,wesur.fr,weweler.eu,wid.com.pl,wilko.com,wizards.com,wkruk.pl,worldeducation.hr,wybory.gov.pl,wyylde.com,xmobi.co,xn--h1alcedd.xn--d1aqf.xn--p1ai,youareinapp.com,zelena-akcija.hr,zerolives.com,zieduveikals.lv,zoom.earth##.cookies
     → |2x2.su##.cookies
     → |4-72.com.co##.cookies
     → |4kdownload.com##.cookies
@@ -189638,6 +189661,7 @@
     → |teknikdelar.se##.cookies
     → |telsu.fi##.cookies
     → |temp-image.com##.cookies
+    → |tempmailg.com##.cookies
     → |terilogy.com##.cookies
     → |tescomobile.ie##.cookies
     → |testeri.fi##.cookies
@@ -192167,7 +192191,7 @@
     → |dahlhaus-leuchten.de##.cc-layer
     → |poenvoorgroen.nl##.cc-layer
 🚫 去掉注释行: !! #cookie-consent-banner
-✅ 多域名拆分: absonline.co.il,alarm.com,albar.co.il,alislamy.co.il,am-oved.co.il,amrusi.co.il,anglo-saxon.co.il,april.co.il,armyinform.com.ua,bigassfans.com,bsmart.co.il,caratx.com,chicagobooth.edu,city-garden.co.il,cliffwater.com,crypton.sh,doesitplay.org,etzmaleh.co.il,eurocommercialproperties.com,europa.eu,falcao.org,frisbi24.ru,fundrazr.com,gilsport.co.il,globalcallforwarding.com,gocase.com.br,ibjjf.com,interdiscount.ch,joinstellar.ai,keter-books.co.il,kibutz-poalim.co.il,kley-zemer.co.il,kzpro.co.il,ladaat.co,lgdisplay.com,lightyear.com,liveagent.com,mashtelaadhabait.com,matzman-merutz.co.il,meiami.co.il,miok.co.il,modan.co.il,motohurt.com,mrclab.co.il,multitool.co.il,mundoperfecto.net,news.stanford.edu,notaly.co.il,orioninnovation.com,panet.com,parks.org.il,pedalim.co.il,pepper.ru,rcbalance.com,rfdtvcanada.ca,shekel4u.co.il,shop.harim.co.il,softexia.com,stateofsurveillance.org,suger.io,tainio-mania.online,tfgm.com,thecowboychannelcanada.ca,thetadata.net,thewaterchannel.ca,webdunia.com,wheretowatch.stream,wildtv.ca,yagurgan.co.il,zer4u.co.il###cookie-consent-banner
+✅ 多域名拆分: absonline.co.il,alarm.com,albar.co.il,alislamy.co.il,am-oved.co.il,amrusi.co.il,anglo-saxon.co.il,april.co.il,armyinform.com.ua,bigassfans.com,bsmart.co.il,caratx.com,chefdepot.co.il,chicagobooth.edu,city-garden.co.il,cliffwater.com,crypton.sh,doesitplay.org,etzmaleh.co.il,eurocommercialproperties.com,europa.eu,falcao.org,frisbi24.ru,fundrazr.com,gilsport.co.il,globalcallforwarding.com,gocase.com.br,ibjjf.com,interdiscount.ch,joinstellar.ai,keter-books.co.il,kibutz-poalim.co.il,kley-zemer.co.il,kzpro.co.il,ladaat.co,lgdisplay.com,lightyear.com,liveagent.com,mashtelaadhabait.com,matzman-merutz.co.il,meiami.co.il,miok.co.il,modan.co.il,motohurt.com,mrclab.co.il,multitool.co.il,mundoperfecto.net,news.stanford.edu,notaly.co.il,orioninnovation.com,panet.com,parks.org.il,pedalim.co.il,pepper.ru,rcbalance.com,rfdtvcanada.ca,shekel4u.co.il,shop.harim.co.il,softexia.com,stateofsurveillance.org,suger.io,tainio-mania.online,tfgm.com,thecowboychannelcanada.ca,thetadata.net,thewaterchannel.ca,webdunia.com,wheretowatch.stream,wildtv.ca,yagurgan.co.il,zer4u.co.il###cookie-consent-banner
     → |absonline.co.il###cookie-consent-banner
     → |alarm.com###cookie-consent-banner
     → |albar.co.il###cookie-consent-banner
@@ -192180,6 +192204,7 @@
     → |bigassfans.com###cookie-consent-banner
     → |bsmart.co.il###cookie-consent-banner
     → |caratx.com###cookie-consent-banner
+    → |chefdepot.co.il###cookie-consent-banner
     → |chicagobooth.edu###cookie-consent-banner
     → |city-garden.co.il###cookie-consent-banner
     → |cliffwater.com###cookie-consent-banner
@@ -203583,6 +203608,7 @@
     → |unavidadeviaje.com##body,html:style(overflow: auto !important; position: initial !important;)
     → |vesely-drak.cz##body,html:style(overflow: auto !important; position: initial !important;)
 🚫 去掉注释行: ! conversion-rate-experts.com
+🚫 去掉注释行: ! history.com
 🚫 去掉注释行: ! merkur.si
 🚫 去掉注释行: ! autobedrijfnaessens.be
 🚫 去掉注释行: ! dodl.co.uk
@@ -204062,24 +204088,22 @@
     → |yazio.com##body,html:style(overflow: auto !important; position: initial !important;)
     → |zaugg.swiss##body,html:style(overflow: auto !important; position: initial !important;)
 🚫 去掉注释行: !! #cc-main
-✅ 多域名拆分: analytics-debugger.com,bliink.io,coros.com,istories.media,point.md,racius.com,shipoffoolsgame.com,thestraight.com.au,topnatur.cz,wdp.eu,zomaplast.cz###cc-main
+✅ 多域名拆分: analytics-debugger.com,bliink.io,coros.com,istories.media,racius.com,shipoffoolsgame.com,thestraight.com.au,topnatur.cz,wdp.eu,zomaplast.cz###cc-main
     → |analytics-debugger.com###cc-main
     → |bliink.io###cc-main
     → |coros.com###cc-main
     → |istories.media###cc-main
-    → |point.md###cc-main
     → |racius.com###cc-main
     → |shipoffoolsgame.com###cc-main
     → |thestraight.com.au###cc-main
     → |topnatur.cz###cc-main
     → |wdp.eu###cc-main
     → |zomaplast.cz###cc-main
-✅ 多域名拆分: analytics-debugger.com,bliink.io,coros.com,istories.media,point.md,racius.com,shipoffoolsgame.com,thestraight.com.au,topnatur.cz,wdp.eu,zomaplast.cz##body,html:style(overflow: auto !important; position: initial !important;)
+✅ 多域名拆分: analytics-debugger.com,bliink.io,coros.com,istories.media,racius.com,shipoffoolsgame.com,thestraight.com.au,topnatur.cz,wdp.eu,zomaplast.cz##body,html:style(overflow: auto !important; position: initial !important;)
     → |analytics-debugger.com##body,html:style(overflow: auto !important; position: initial !important;)
     → |bliink.io##body,html:style(overflow: auto !important; position: initial !important;)
     → |coros.com##body,html:style(overflow: auto !important; position: initial !important;)
     → |istories.media##body,html:style(overflow: auto !important; position: initial !important;)
-    → |point.md##body,html:style(overflow: auto !important; position: initial !important;)
     → |racius.com##body,html:style(overflow: auto !important; position: initial !important;)
     → |shipoffoolsgame.com##body,html:style(overflow: auto !important; position: initial !important;)
     → |thestraight.com.au##body,html:style(overflow: auto !important; position: initial !important;)
@@ -206526,11 +206550,15 @@
     → |sporty.co.il###cookie-consent-popup
     → |spy.org.il###cookie-consent-popup
     → |tudo.co.il###cookie-consent-popup
-✅ 多域名拆分: bneidavid.org,djistore.benda.co.il,fly-guy.club,ydssound.co.il###cookiez-banner
+✅ 多域名拆分: bneidavid.org,djistore.benda.co.il,fly-guy.club,puzzleland.co.il,ydssound.co.il###cookiez-banner
     → |bneidavid.org###cookiez-banner
     → |djistore.benda.co.il###cookiez-banner
     → |fly-guy.club###cookiez-banner
+    → |puzzleland.co.il###cookiez-banner
     → |ydssound.co.il###cookiez-banner
+✅ 多域名拆分: israelinfo.co.il,kupatbravo.co.il###ii-consent-root
+    → |israelinfo.co.il###ii-consent-root
+    → |kupatbravo.co.il###ii-consent-root
 ✅ 多域名拆分: nationalgeographic.co.il,ngkids.co.il###il-cookie-banner
     → |nationalgeographic.co.il###il-cookie-banner
     → |ngkids.co.il###il-cookie-banner
@@ -206545,8 +206573,9 @@
 ✅ 多域名拆分: ptora.co.il,zmaneshkol.co.il###ilp-consent-banner
     → |ptora.co.il###ilp-consent-banner
     → |zmaneshkol.co.il###ilp-consent-banner
-✅ 多域名拆分: bargad.co.il,coi.co.il,storemobile.co.il###privacyPop
+✅ 多域名拆分: bargad.co.il,bhl.co.il,coi.co.il,storemobile.co.il###privacyPop
     → |bargad.co.il###privacyPop
+    → |bhl.co.il###privacyPop
     → |coi.co.il###privacyPop
     → |storemobile.co.il###privacyPop
 ✅ 多域名拆分: nabob-lock.co.il,ronitek.co.il,shukhashmal.co.il###privacy_alert
@@ -206556,7 +206585,7 @@
 ✅ 多域名拆分: dunietz-elad.co.il,invoice4u.co.il###privacy_policy_popup
     → |dunietz-elad.co.il###privacy_policy_popup
     → |invoice4u.co.il###privacy_policy_popup
-✅ 多域名拆分: 18comp.co.il,an-cooling.com,autotire.co.il,dpirzul.com,dsfiga.co.il,egopower.co.il,gantim.com,gilcopharm.com,givunim.com,gordonsystem.co.il,gsil.co.il,hobby-3.co.il,hrsena.com,matov.co.il,matrefa.com,matzberim.co.il,medi-pharm.co.il,mersa.co.il,meyuly.co.il,mishely-art.com,peimot.com,sjlightcompany.com,skil-israel.co.il,sos365.co.il,sound-world.co.il,tiptop-tire.co.il,tireplus.co.il,yuvalim-sdy.com,zolsefer.co.il###sb_privacy_policy_notice
+✅ 多域名拆分: 18comp.co.il,an-cooling.com,autotire.co.il,dpirzul.com,dsfiga.co.il,egopower.co.il,gantim.com,gilcopharm.com,givunim.com,gordonsystem.co.il,gsil.co.il,hobby-3.co.il,hrsena.com,kfargiladi.co.il,matov.co.il,matrefa.com,matzberim.co.il,medi-pharm.co.il,mersa.co.il,meyuly.co.il,mishely-art.com,peimot.com,sjlightcompany.com,skil-israel.co.il,sos365.co.il,sound-world.co.il,tiptop-tire.co.il,tireplus.co.il,yuvalim-sdy.com,zolsefer.co.il###sb_privacy_policy_notice
     → |18comp.co.il###sb_privacy_policy_notice
     → |an-cooling.com###sb_privacy_policy_notice
     → |autotire.co.il###sb_privacy_policy_notice
@@ -206570,6 +206599,7 @@
     → |gsil.co.il###sb_privacy_policy_notice
     → |hobby-3.co.il###sb_privacy_policy_notice
     → |hrsena.com###sb_privacy_policy_notice
+    → |kfargiladi.co.il###sb_privacy_policy_notice
     → |matov.co.il###sb_privacy_policy_notice
     → |matrefa.com###sb_privacy_policy_notice
     → |matzberim.co.il###sb_privacy_policy_notice
@@ -206616,11 +206646,12 @@
     → |climma.co.il###sp-consent
     → |derech-eretz.co.il###sp-consent
     → |health-comfort.co.il###sp-consent
-✅ 多域名拆分: dan-marble.co.il,israel-extreme.com,la-bama.co.il,paz-merkavim.co.il###tp-cookie-consent
+✅ 多域名拆分: dan-marble.co.il,israel-extreme.com,la-bama.co.il,paz-merkavim.co.il,visit.zefat.muni.il###tp-cookie-consent
     → |dan-marble.co.il###tp-cookie-consent
     → |israel-extreme.com###tp-cookie-consent
     → |la-bama.co.il###tp-cookie-consent
     → |paz-merkavim.co.il###tp-cookie-consent
+    → |visit.zefat.muni.il###tp-cookie-consent
 ✅ 多域名拆分: agrica.co.il,cts.co.il,dnaateyelevel.com,gadgety.co.il,humus-eli-yahoo.com,kidstv.co.il###upnext-cookie-notice
     → |agrica.co.il###upnext-cookie-notice
     → |cts.co.il###upnext-cookie-notice
@@ -206639,6 +206670,9 @@
 ✅ 多域名拆分: shop.sano.co.il,sportsale-online.com##.accept_cookies_wrapper
     → |shop.sano.co.il##.accept_cookies_wrapper
     → |sportsale-online.com##.accept_cookies_wrapper
+✅ 多域名拆分: voicenter.co.il,voicenter.com##.base-cookies-modal
+    → |voicenter.co.il##.base-cookies-modal
+    → |voicenter.com##.base-cookies-modal
 ✅ 多域名拆分: aloni-alum.co.il,iballoon.co.il,solar-click.co.il,sorag.co.il##.cbox-wrap
     → |aloni-alum.co.il##.cbox-wrap
     → |iballoon.co.il##.cbox-wrap
@@ -206668,7 +206702,8 @@
     → |bursteinstore.co.il##.custom-cookie-outer
     → |kitchenware.co.il##.custom-cookie-outer
     → |negro.co.il##.custom-cookie-outer
-✅ 多域名拆分: medic-center-sport.co.il,winehouse.co.il##.digita-privacy-popup
+✅ 多域名拆分: digita.co.il,medic-center-sport.co.il,winehouse.co.il##.digita-privacy-popup
+    → |digita.co.il##.digita-privacy-popup
     → |medic-center-sport.co.il##.digita-privacy-popup
     → |winehouse.co.il##.digita-privacy-popup
 ✅ 多域名拆分: bcommunications.co.il,ir.maxstock.co.il##.ecl-banner
@@ -206741,12 +206776,17 @@
 ✅ 多域名拆分: jspca.org.il,letlive.org.il##.site-consent-banner
     → |jspca.org.il##.site-consent-banner
     → |letlive.org.il##.site-consent-banner
+✅ 多域名拆分: iwp.co.il,walla.co.il##div[aria-label="××××¢× ×¢× ×©××××© ××¢×××××ª"]
+    → |iwp.co.il##div[aria-label="××××¢× ×¢× ×©××××© ××¢×××××ª"]
+    → |walla.co.il##div[aria-label="××××¢× ×¢× ×©××××© ××¢×××××ª"]
 ✅ 多域名拆分: morfix.co.il,on-the-way-two.vercel.app##div[aria-label="××¡××× ××©××××© ××¢×××××ª"]
     → |morfix.co.il##div[aria-label="××¡××× ××©××××© ××¢×××××ª"]
     → |on-the-way-two.vercel.app##div[aria-label="××¡××× ××©××××© ××¢×××××ª"]
-✅ 多域名拆分: business.colmobil.co.il,hyundaimotors.co.il##div[class^="StyledPopupPrivacyCookies-"]
+✅ 多域名拆分: business.colmobil.co.il,hyundaimotors.co.il,jaecoo.co.il,omoda.co.il##div[class^="StyledPopupPrivacyCookies-"]
     → |business.colmobil.co.il##div[class^="StyledPopupPrivacyCookies-"]
     → |hyundaimotors.co.il##div[class^="StyledPopupPrivacyCookies-"]
+    → |jaecoo.co.il##div[class^="StyledPopupPrivacyCookies-"]
+    → |omoda.co.il##div[class^="StyledPopupPrivacyCookies-"]
 ✅ 多域名拆分: amosbld.co.il,billiard.co.il,brandsonsale.co.il,cameracity.co.il,carmelpc.co.il,ceramicdepot.co.il,depot365.co.il,dror-tools.co.il,drummer.co.il,dynamica.co.il,dyo-ink.co.il,electro-buy.co.il,eline.co.il,elitaieb.co.il,espressobar.com,foxhead.co.il,freedio.co.il,grillmaster.co.il,hotbuy.co.il,iwtools.co.il,j-sale.co.il,kafu.co.il,kfar.co.il,kilombo.co.il,ktech.co.il,laserline.co.il,lcdeal.co.il,levhabait.co.il,mabudi.co.il,mai-art.co.il,mnmltd.co.il,motoline.co.il,msport.co.il,mugrabi.co.il,musicol-shop.co.il,musicworld.co.il,orpc.co.il,out-of-the-box.co.il,owlmarket.co.il,pascale.co.il,pokito.co.il,pro-safety.co.il,selaram.co.il,speedio.co.il,sportcenter.co.il,studioland.co.il,sulemastore.co.il,taflaya.co.il,tapro.co.il,technoshlomo.co.il,totalsport.co.il,toysandmore.co.il,victor-arizot.co.il,video.org.il,voltstreet.co.il,welovecoffee.co.il,wineandmore.co.il,workimhi.co.il##div[class^="cookiesPopup"]
     → |amosbld.co.il##div[class^="cookiesPopup"]
     → |billiard.co.il##div[class^="cookiesPopup"]
@@ -217358,9 +217398,9 @@
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: !---------------------------------Allowlists----------------------------------!
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: VRlEkTaT/nT/QeHX8z2tBQ
+🚫 去掉注释行: ! Checksum: KM+aMng3MKQwzSWPq1N09g
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Last modified: 2026-11-18 20:50 UTC
+🚫 去掉注释行: ! Last modified: 2026-11-19 10:50 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
@@ -233340,12 +233380,14 @@
 ✅ 多域名拆分: johnfrederick.co.uk,pestdefence.co.uk###wp-notification
     → |johnfrederick.co.uk###wp-notification
     → |pestdefence.co.uk###wp-notification
-✅ 多域名拆分: acoup.blog,candidcyber.com,commonplacefacts.com,maxstock.co.il,pokespecial.com.pl,sciencebasedmedicine.org###wpconsent-root
+✅ 多域名拆分: acoup.blog,candidcyber.com,commonplacefacts.com,decorado.co.il,maxstock.co.il,pokespecial.com.pl,sahisaudavel.com.br,sciencebasedmedicine.org###wpconsent-root
     → |acoup.blog###wpconsent-root
     → |candidcyber.com###wpconsent-root
     → |commonplacefacts.com###wpconsent-root
+    → |decorado.co.il###wpconsent-root
     → |maxstock.co.il###wpconsent-root
     → |pokespecial.com.pl###wpconsent-root
+    → |sahisaudavel.com.br###wpconsent-root
     → |sciencebasedmedicine.org###wpconsent-root
 ✅ 多域名拆分: 1kosmos.com,avaloniaui.net,brside.com,buildship.com,bunq.com,coworker.ai,daytona.io,enhanced.com,etfbook.com,fitanalytics.com,framer.com,gitbook.com,iverify.io,juliahub.com,localculture.org,luckyorange.com,meetkevin.com,neon-free.ch,netcraft.com,podspace.com,rollbar.com,site.trasti.pl,snoutcover.com,splx.ai,stirling.com,strongcloud.online,syncly.app,walllet.com##.--framer-cookie-banner-container
     → |1kosmos.com##.--framer-cookie-banner-container
@@ -233799,8 +233841,9 @@
 ✅ 多域名拆分: premid.app,vulncheck.com##.cookieControl
     → |premid.app##.cookieControl
     → |vulncheck.com##.cookieControl
-✅ 多域名拆分: autopilot.ru,kommersant.ru,myweekend.ru,sasa.co.id##.cookie_consent
+✅ 多域名拆分: autopilot.ru,fullyst.com,kommersant.ru,myweekend.ru,sasa.co.id##.cookie_consent
     → |autopilot.ru##.cookie_consent
+    → |fullyst.com##.cookie_consent
     → |kommersant.ru##.cookie_consent
     → |myweekend.ru##.cookie_consent
     → |sasa.co.id##.cookie_consent
@@ -233831,6 +233874,9 @@
 ✅ 多域名拆分: keralanotes.com,rockmods.net##.cookies-show
     → |keralanotes.com##.cookies-show
     → |rockmods.net##.cookies-show
+✅ 多域名拆分: lightpdf.com,picwish.com##.cookies-tip-v1-consent-container
+    → |lightpdf.com##.cookies-tip-v1-consent-container
+    → |picwish.com##.cookies-tip-v1-consent-container
 ✅ 多域名拆分: freesmsgateway.com,germanospalhasitalianas.com.br,otokrypto.pl,shop.rgnywine.com,ucoin.net##.cookies-warning
     → |freesmsgateway.com##.cookies-warning
     → |germanospalhasitalianas.com.br##.cookies-warning
@@ -238081,7 +238127,7 @@
     → |scite.ai##div[class^="CookieNoti"]
 🚫 去掉注释行: !! CookiesNoti
 🚫 去掉注释行: !! .cookie-notice
-✅ 多域名拆分: 21group.at,acidcow.com,allangray.co.za,almayadeen.net,amaze.org,artdentis.com,autosolar.co,autosolar.pe,backaldrin.com,bankofengland.co.uk,bestlawyers.com,binary.transparency.dev,breadandbutter.ru,camgo.com,candaceowens.com,castlefineart.com,cls-computer.de,dio-center.info,direct2u.co.uk,drgerard.eu,ecosia.org,estately.com,freevpnplanet.com,getbring.com,greenhouseseeds.nl,greenpeace.org,gvtc.com,harveynichols.com,iamcook.ru,ifo.de,iihf.com,isubqo.com,jetset-hairextensions.nl,kappahl.com,lehigh.edu,lightspeed.com,mageba-group.com,manpower.com.ar,manpowergroup.com.ar,mashable.com,maspethfederal.com,matchtv.ru,mct.co.il,millers.ch,monnik-dranken.nl,motocard.com,nbtc.go.th,nc-planica.si,ncfu.ru,news.sportbox.ru,oakville.ca,onlinedrugtraining.com,outfit7.com,pagetiger.com,podomatic.com,portfoliobox.com,pryor.com,psychiatryonline.org,rex-royal.ch,schweizermonat.ch,scotworkusa.com,security.mozwik.com,spartanien.de,threadless.com,toolbox.googleapps.com,topmarket.co.il,trustsig.eu,ucbi.com,ucrazy.org,underbelly.is,viboom.com,vidal.ru,vixx.nl,wine-searcher.com,xtreme.pt,zonstudio.nl##.cookie-notice
+✅ 多域名拆分: 21group.at,acidcow.com,allangray.co.za,almayadeen.net,amaze.org,artdentis.com,autosolar.co,autosolar.pe,backaldrin.com,bankofengland.co.uk,bestlawyers.com,binary.transparency.dev,breadandbutter.ru,camgo.com,candaceowens.com,castlefineart.com,cls-computer.de,dio-center.info,direct2u.co.uk,drgerard.eu,ecosia.org,emailnator.com,estately.com,freevpnplanet.com,getbring.com,greenhouseseeds.nl,greenpeace.org,gvtc.com,harveynichols.com,iamcook.ru,ifo.de,iihf.com,isubqo.com,jetset-hairextensions.nl,kappahl.com,lehigh.edu,lightspeed.com,mageba-group.com,manpower.com.ar,manpowergroup.com.ar,mashable.com,maspethfederal.com,matchtv.ru,mct.co.il,millers.ch,monnik-dranken.nl,motocard.com,nbtc.go.th,nc-planica.si,ncfu.ru,news.sportbox.ru,oakville.ca,onlinedrugtraining.com,outfit7.com,pagetiger.com,podomatic.com,portfoliobox.com,pryor.com,psychiatryonline.org,rex-royal.ch,schweizermonat.ch,scotworkusa.com,security.mozwik.com,spartanien.de,threadless.com,toolbox.googleapps.com,topmarket.co.il,trustsig.eu,ucbi.com,ucrazy.org,underbelly.is,viboom.com,vidal.ru,vixx.nl,wine-searcher.com,xtreme.pt,zonstudio.nl##.cookie-notice
     → |21group.at##.cookie-notice
     → |acidcow.com##.cookie-notice
     → |allangray.co.za##.cookie-notice
@@ -238103,6 +238149,7 @@
     → |direct2u.co.uk##.cookie-notice
     → |drgerard.eu##.cookie-notice
     → |ecosia.org##.cookie-notice
+    → |emailnator.com##.cookie-notice
     → |estately.com##.cookie-notice
     → |freevpnplanet.com##.cookie-notice
     → |getbring.com##.cookie-notice
@@ -238555,7 +238602,7 @@
     → |myhealth.bg###cookiebannerModal
     → |qinn.es###cookiebannerModal
 🚫 去掉注释行: !! .cookies
-✅ 多域名拆分: 2x2.su,4-72.com.co,4kdownload.com,4memail.com,7.wan.com,acaplast-group.com,acaplast.com,adscompass.com,advstreet.ru,aegeanbalticbank.com,agerip.com.br,agugiarofigna.com,aislamientostrapaga.com,akado.ru,aliorbank.pl,alty.co,amikado.com,and-rus.ru,angolodelregalo.it,angora.com.pl,aoc.com,apcloud.es,aphome.es,appaddict.org,aquasain.com,aragon.es,arbiton.com,asda.com,aslimnica.lv,asmcf.org,astra-mag.com,autempoeuropie.pl,auto1.fi,auto10.com,avanga.org,bacelic.hr,bahianoticias.com.br,bandainamcostudios.my,bandainamcostudios.sg,base.garant.ru,baza.io,bbva.mx,bcm.marketing,belarus24.by,belenus.com.br,belivehotels.com,bemob.com,bfc.pl,bim-bike.hr,binomo.com,biofoodolbia.com,blog.nubank.com.br,blomedry.com,bogazici.edu.tr,bokadirekt.se,bolagsverket.se,boomverzorgingmichiel.be,botrix.live,brandmake.nl,bubble-ecoworking.com,bubok.com.ar,caaquebec.com,calltouch.ru,carowall.com,cashconverters.es,cavex.co.uk,cdnnow.pro,cdnnow.ru,cebupacificair.com,centromaiez.com,certafarmacia.com.br,ch1ef.ru,chemistdirect.co.uk,chiavalon.hr,chilexpress.cl,chophytol.ru,ciar.london,cienpalacios.com,cineworld.co.uk,city-story.ru,classen.pl,colaboraread.com.br,compendium.com.ua,conquistainternet.com,consultant.net.ua,corporate.it,cp.pt,creatica.com.ar,creditural.ru,creotech.pl,crytek.com,custplace.com,cutterbrooks.com,cvat.ai,cyberctm.com,danwood.de,darking.cz,data.gov.hr,depintxopote.com,desirebutik.pl,dhosting.pl,diamantea.com,diariodelaribera.net,dille-kamille.de,dimply.ai,divinity.game,dobro.hr,doctoralilianamarrero.com,doit.software,domarket.ru,dorotheum.com,duplicatephotosfixer.com,dur.ac.uk,dvdmax.pl,e-bebek.com,e-glossa.it,ebschool.cz,edifier.com,egyptair.com,egzaminy.edu.pl,elmachips.com.br,emall.by,emea.com.tr,enable-javascript.com,equall.gr,espariga.lv,estudiotextilcolor.com,etymon-solutions.com,eudita.es,euromedictorun.pl,eurozine.com,everybody-s.com,evisa.express,evropochta.by,fair.bg,fannatic.be,fastpersonal.ru,fileink.com,filtrosfera.pl,firmaelectronica.gob.es,fitpatrol.pl,flatironsquare.co.uk,fluid.co.uk,fnsea.fr,folklore-society.com,fondazionehenraux.it,food.vkusvill.ru,foodforsoul.it,forsettlement.com,fortressbp.com,fotomatonia.com,free3dbase.com,freevpnplanet.com,friendsfit.cz,friendsofeurope.org,fuegodevida.com,gamdias.com,game-game.com,game-game.com.ua,game-game.ee,gandalf.com.pl,garajecentrobilbao.com,gartic.io,gdplegal.es,generator-rus.ru,geschenking.de,gindih.co.il,glavred.info,gmzp.pl,goboony.be,golfdondurma.com.tr,gorealtravel.com,gorodn.ru,gramota.ru,graneleiro.com.br,graspop.be,guggenheim-bilbao.eus,gumenadom.si,gurutzekogurasoak.eus,hartfordbusiness.com,hemocentroriopreto.com.br,heyzine.com,hi-fi.ru,hmv.com,hondadealers.com,hopdoddy.com,hospitaldebase.com.br,hotel-merlin.cz,hotel-spider.com,hotelbellaire.com,hotelhaven.fi,hotelskeppsholmen.se,houkesloot.nl,hp-store.hr,hse.ru,huntshowdown.com,iamhungry.fr,iasgp.org,iden.team,idiomaster-arrasate.com,igsoft.be,ileanafundi.com,ilmainensanakirja.fi,imaginanet.com,imq.es,inagrm.com,indepth.dev,ingrad.ru,intendit.se,intergameonline.com,invb.ru,itkkit.com,iwp.be,izhlife.ru,jefferson-hifi-video.fr,jkef.co.il,jobs.lenovo.com,justicaeleitoral.jus.br,kabola.hr,kaitseliit.ee,keporn.com,kiauto.fr,kituramirus.com,laboratoriohlab.com.br,lama-media.com,larepublica.co,laskort.com,latiendadelaspegatinas.com,lavardi.ru,ldavinci.edu.pe,lelieuunique.com,lenovostore.hr,les33.ru,lfv.se,ligaforty.com.br,litostroj.si,login.bankhapoalim.co.il,lvsas.sk,m.brettspielwelt.de,mabanque.bnpparibas,macpaw.com,madalinliviu.ro,mailjet.com,makandracards.com,mannheimerswartling.se,marchecentral.com,markups.kdanmobile.com,marsgaming.eu,martinrandall.com,maschinenportal24.de,maxhub.com,mcc.live,media-sense.com,meintierdiscount.de,melag.com,metaflux-ts.cz,metalomarao.pt,meteopodaci.dhz.hr,mikronis.hr,milanowek.pl,mindshareworld.com,mindswarms.com,mir-tema.ru,mlp-advokat.ru,mm.ck.ua,mmk.ru,mnemonic.io,mobilephonemuseum.com,moby.it,mobylines.com,mobylines.de,mobylines.fr,modirum.com,monetizze.com.br,monterail.com,moongamestudios.com,mpccreative.io,muastore.pl,mute.design,myinvestor.es,mzk.zgora.pl,najlepszemeble.pl,nanocad.com,nascentdesign.com,naszefutrzaki.eu,nedbank.co.za,nederlandsebrouwers.nl,netify.ai,neumaticoszorroza.com,nextmillennium.com,niedziela.pl,nobis.se,nobishotel.se,northmagnetic.com,nowports.com,o-ma-god.com,okocrm.com,omaweetraad.nl,onas.org.pl,onderdelenlijn.nl,oneticket.cz,onpoint.ru,onwelo.com,operakallaren.se,orientalmart.co.uk,ostrog.com,otkritkiok.ru,oxfloormultistep.com,panamaamerica.com.pa,panfasad.com,parfumsclub.de,patek.com,paysale.com,pearos.xyz,peporn.com,perfumesclub.co.uk,perfumesclub.com,perfumesclub.fr,perfumesclub.it,perfumesclub.nl,perfumesclub.pt,permak.com.tr,pho.to,photonengine.com,picnic.app,pics.io,pildorasdefe.net,pkpcargo.com,playgwent.com,podmaz.sk,poolboy.eu,portalnovosti.com,portovivosru.pt,previssima.fr,pribram.cz,privatbank.ua,prof53.ru,propertygem.pl,proton.com,proxyparts.com,proxyparts.de,proxyparts.es,proxyparts.fr,proxyparts.pl,puntodepartida.com,radio-ecuador.com,referendum.gov.pl,reinbold-entsorgungstechnik.com,renaultbryanston.co.za,renaultfourways.co.za,renaultretailgroup.es,resumebuild.eu,rktbns.de,rowery-indiana.pl,royalparks.org.uk,rskrf.ru,rss.com,rti.org.tw,rtl.hr,rubyroidlabs.com,rusvpn.com,samsonite.ro,santiment.net,sapphiretech.com,satdl.com,sbsjager.sk,scamner.com,scobel.pasaz24.pl,screenflanders.be,sejmsenat2019.pkw.gov.pl,selfhost.de,selo-zelenoe.ru,sgu.se,sharafdg.com,shimmer.care,shoker.ru,showroomcinema.org.uk,sikera.com,singulart.com,sino-hotels.com,sisjointressenter.se,sistic.com.sg,skillbox.ru,sklif.mos.ru,sky.com.mx,slicethepie.com,sosbernuciemati.lv,spensen.com,sport5.by,sprawdzonyfizjoterapeuta.pl,sprinter-avto.com,srazenazver.cz,stallmastaregarden.se,staltrans.ru,stanumamoy.com,stary.pl,stb.com.tn,stratoflow.com,streetfootballworld.org,strefawalut.pl,stuttafordvanlines.co.za,sudzibas.lv,summa.es,supercast.com,svww.de,swood.pl,sylan.pl,systeme.ru,taylorandfrancis.com,tdsexport.com,technolove.ru,teen21.com,teknikdelar.se,telsu.fi,temp-image.com,terilogy.com,tescomobile.ie,testeri.fi,thea-nordic.dk,thenottingham.com,thisisplayground.com,thomas-elliott.co.uk,threadreaderapp.com,tireshop.ua,tirrenia.it,todomecanica.com,topographic-map.com,topvintage.com,topwayschool.com,trempak.co.za,trend-russia.ru,tripster.ru,tse.jus.br,tsmodelstube.com,tuplus.com.co,twinings.co.uk,uanal.com,udruga-gradova.hr,ukcisa.org.uk,umicore.com,unian.info,unian.net,unian.ua,universiteitleiden.nl,unknownphone.com,unpoly.com,uob.edu.om,uptodown.com,userinyerface.com,ustavprava.cz,uxfocus.cz,valledeelda.com,veb.net,ver-tv.online,vertabelo.com,vestaconsultores.com,vfs.cz,vips.com.mx,visolit.net,vizologi.com,vocesmexico.com,volvocars.com,vuz24.ru,vvdntools.com,webawards.com.ua,webdock.dk,webdock.io,welfarepartners.ie,westpandi.com,wesur.fr,weweler.eu,wid.com.pl,wilko.com,wizards.com,wkruk.pl,worldeducation.hr,wybory.gov.pl,wyylde.com,xmobi.co,xn--h1alcedd.xn--d1aqf.xn--p1ai,youareinapp.com,zelena-akcija.hr,zerolives.com,zieduveikals.lv,zoom.earth##.cookies
+✅ 多域名拆分: 2x2.su,4-72.com.co,4kdownload.com,4memail.com,7.wan.com,acaplast-group.com,acaplast.com,adscompass.com,advstreet.ru,aegeanbalticbank.com,agerip.com.br,agugiarofigna.com,aislamientostrapaga.com,akado.ru,aliorbank.pl,alty.co,amikado.com,and-rus.ru,angolodelregalo.it,angora.com.pl,aoc.com,apcloud.es,aphome.es,appaddict.org,aquasain.com,aragon.es,arbiton.com,asda.com,aslimnica.lv,asmcf.org,astra-mag.com,autempoeuropie.pl,auto1.fi,auto10.com,avanga.org,bacelic.hr,bahianoticias.com.br,bandainamcostudios.my,bandainamcostudios.sg,base.garant.ru,baza.io,bbva.mx,bcm.marketing,belarus24.by,belenus.com.br,belivehotels.com,bemob.com,bfc.pl,bim-bike.hr,binomo.com,biofoodolbia.com,blog.nubank.com.br,blomedry.com,bogazici.edu.tr,bokadirekt.se,bolagsverket.se,boomverzorgingmichiel.be,botrix.live,brandmake.nl,bubble-ecoworking.com,bubok.com.ar,caaquebec.com,calltouch.ru,carowall.com,cashconverters.es,cavex.co.uk,cdnnow.pro,cdnnow.ru,cebupacificair.com,centromaiez.com,certafarmacia.com.br,ch1ef.ru,chemistdirect.co.uk,chiavalon.hr,chilexpress.cl,chophytol.ru,ciar.london,cienpalacios.com,cineworld.co.uk,city-story.ru,classen.pl,colaboraread.com.br,compendium.com.ua,conquistainternet.com,consultant.net.ua,corporate.it,cp.pt,creatica.com.ar,creditural.ru,creotech.pl,crytek.com,custplace.com,cutterbrooks.com,cvat.ai,cyberctm.com,danwood.de,darking.cz,data.gov.hr,depintxopote.com,desirebutik.pl,dhosting.pl,diamantea.com,diariodelaribera.net,dille-kamille.de,dimply.ai,divinity.game,dobro.hr,doctoralilianamarrero.com,doit.software,domarket.ru,dorotheum.com,duplicatephotosfixer.com,dur.ac.uk,dvdmax.pl,e-bebek.com,e-glossa.it,ebschool.cz,edifier.com,egyptair.com,egzaminy.edu.pl,elmachips.com.br,emall.by,emea.com.tr,enable-javascript.com,equall.gr,espariga.lv,estudiotextilcolor.com,etymon-solutions.com,eudita.es,euromedictorun.pl,eurozine.com,everybody-s.com,evisa.express,evropochta.by,fair.bg,fannatic.be,fastpersonal.ru,fileink.com,filtrosfera.pl,firmaelectronica.gob.es,fitpatrol.pl,flatironsquare.co.uk,fluid.co.uk,fnsea.fr,folklore-society.com,fondazionehenraux.it,food.vkusvill.ru,foodforsoul.it,forsettlement.com,fortressbp.com,fotomatonia.com,free3dbase.com,freevpnplanet.com,friendsfit.cz,friendsofeurope.org,fuegodevida.com,gamdias.com,game-game.com,game-game.com.ua,game-game.ee,gandalf.com.pl,garajecentrobilbao.com,gartic.io,gdplegal.es,generator-rus.ru,geschenking.de,gindih.co.il,glavred.info,gmzp.pl,goboony.be,golfdondurma.com.tr,gorealtravel.com,gorodn.ru,gramota.ru,graneleiro.com.br,graspop.be,guggenheim-bilbao.eus,gumenadom.si,gurutzekogurasoak.eus,hartfordbusiness.com,hemocentroriopreto.com.br,heyzine.com,hi-fi.ru,hmv.com,hondadealers.com,hopdoddy.com,hospitaldebase.com.br,hotel-merlin.cz,hotel-spider.com,hotelbellaire.com,hotelhaven.fi,hotelskeppsholmen.se,houkesloot.nl,hp-store.hr,hse.ru,huntshowdown.com,iamhungry.fr,iasgp.org,iden.team,idiomaster-arrasate.com,igsoft.be,ileanafundi.com,ilmainensanakirja.fi,imaginanet.com,imq.es,inagrm.com,indepth.dev,ingrad.ru,intendit.se,intergameonline.com,invb.ru,itkkit.com,iwp.be,izhlife.ru,jefferson-hifi-video.fr,jkef.co.il,jobs.lenovo.com,justicaeleitoral.jus.br,kabola.hr,kaitseliit.ee,keporn.com,kiauto.fr,kituramirus.com,laboratoriohlab.com.br,lama-media.com,larepublica.co,laskort.com,latiendadelaspegatinas.com,lavardi.ru,ldavinci.edu.pe,lelieuunique.com,lenovostore.hr,les33.ru,lfv.se,ligaforty.com.br,litostroj.si,login.bankhapoalim.co.il,lvsas.sk,m.brettspielwelt.de,mabanque.bnpparibas,macpaw.com,madalinliviu.ro,mailjet.com,makandracards.com,mannheimerswartling.se,marchecentral.com,markups.kdanmobile.com,marsgaming.eu,martinrandall.com,maschinenportal24.de,maxhub.com,mcc.live,media-sense.com,meintierdiscount.de,melag.com,metaflux-ts.cz,metalomarao.pt,meteopodaci.dhz.hr,mikronis.hr,milanowek.pl,mindshareworld.com,mindswarms.com,mir-tema.ru,mlp-advokat.ru,mm.ck.ua,mmk.ru,mnemonic.io,mobilephonemuseum.com,moby.it,mobylines.com,mobylines.de,mobylines.fr,modirum.com,monetizze.com.br,monterail.com,moongamestudios.com,mpccreative.io,muastore.pl,mute.design,myinvestor.es,mzk.zgora.pl,najlepszemeble.pl,nanocad.com,nascentdesign.com,naszefutrzaki.eu,nedbank.co.za,nederlandsebrouwers.nl,netify.ai,neumaticoszorroza.com,nextmillennium.com,niedziela.pl,nobis.se,nobishotel.se,northmagnetic.com,nowports.com,o-ma-god.com,okocrm.com,omaweetraad.nl,onas.org.pl,onderdelenlijn.nl,oneticket.cz,onpoint.ru,onwelo.com,operakallaren.se,orientalmart.co.uk,ostrog.com,otkritkiok.ru,oxfloormultistep.com,panamaamerica.com.pa,panfasad.com,parfumsclub.de,patek.com,paysale.com,pearos.xyz,peporn.com,perfumesclub.co.uk,perfumesclub.com,perfumesclub.fr,perfumesclub.it,perfumesclub.nl,perfumesclub.pt,permak.com.tr,pho.to,photonengine.com,picnic.app,pics.io,pildorasdefe.net,pkpcargo.com,playgwent.com,podmaz.sk,poolboy.eu,portalnovosti.com,portovivosru.pt,previssima.fr,pribram.cz,privatbank.ua,prof53.ru,propertygem.pl,proton.com,proxyparts.com,proxyparts.de,proxyparts.es,proxyparts.fr,proxyparts.pl,puntodepartida.com,radio-ecuador.com,referendum.gov.pl,reinbold-entsorgungstechnik.com,renaultbryanston.co.za,renaultfourways.co.za,renaultretailgroup.es,resumebuild.eu,rktbns.de,rowery-indiana.pl,royalparks.org.uk,rskrf.ru,rss.com,rti.org.tw,rtl.hr,rubyroidlabs.com,rusvpn.com,samsonite.ro,santiment.net,sapphiretech.com,satdl.com,sbsjager.sk,scamner.com,scobel.pasaz24.pl,screenflanders.be,sejmsenat2019.pkw.gov.pl,selfhost.de,selo-zelenoe.ru,sgu.se,sharafdg.com,shimmer.care,shoker.ru,showroomcinema.org.uk,sikera.com,singulart.com,sino-hotels.com,sisjointressenter.se,sistic.com.sg,skillbox.ru,sklif.mos.ru,sky.com.mx,slicethepie.com,sosbernuciemati.lv,spensen.com,sport5.by,sprawdzonyfizjoterapeuta.pl,sprinter-avto.com,srazenazver.cz,stallmastaregarden.se,staltrans.ru,stanumamoy.com,stary.pl,stb.com.tn,stratoflow.com,streetfootballworld.org,strefawalut.pl,stuttafordvanlines.co.za,sudzibas.lv,summa.es,supercast.com,svww.de,swood.pl,sylan.pl,systeme.ru,taylorandfrancis.com,tdsexport.com,technolove.ru,teen21.com,teknikdelar.se,telsu.fi,temp-image.com,tempmailg.com,terilogy.com,tescomobile.ie,testeri.fi,thea-nordic.dk,thenottingham.com,thisisplayground.com,thomas-elliott.co.uk,threadreaderapp.com,tireshop.ua,tirrenia.it,todomecanica.com,topographic-map.com,topvintage.com,topwayschool.com,trempak.co.za,trend-russia.ru,tripster.ru,tse.jus.br,tsmodelstube.com,tuplus.com.co,twinings.co.uk,uanal.com,udruga-gradova.hr,ukcisa.org.uk,umicore.com,unian.info,unian.net,unian.ua,universiteitleiden.nl,unknownphone.com,unpoly.com,uob.edu.om,uptodown.com,userinyerface.com,ustavprava.cz,uxfocus.cz,valledeelda.com,veb.net,ver-tv.online,vertabelo.com,vestaconsultores.com,vfs.cz,vips.com.mx,visolit.net,vizologi.com,vocesmexico.com,volvocars.com,vuz24.ru,vvdntools.com,webawards.com.ua,webdock.dk,webdock.io,welfarepartners.ie,westpandi.com,wesur.fr,weweler.eu,wid.com.pl,wilko.com,wizards.com,wkruk.pl,worldeducation.hr,wybory.gov.pl,wyylde.com,xmobi.co,xn--h1alcedd.xn--d1aqf.xn--p1ai,youareinapp.com,zelena-akcija.hr,zerolives.com,zieduveikals.lv,zoom.earth##.cookies
     → |2x2.su##.cookies
     → |4-72.com.co##.cookies
     → |4kdownload.com##.cookies
@@ -238971,6 +239018,7 @@
     → |teknikdelar.se##.cookies
     → |telsu.fi##.cookies
     → |temp-image.com##.cookies
+    → |tempmailg.com##.cookies
     → |terilogy.com##.cookies
     → |tescomobile.ie##.cookies
     → |testeri.fi##.cookies
@@ -241500,7 +241548,7 @@
     → |dahlhaus-leuchten.de##.cc-layer
     → |poenvoorgroen.nl##.cc-layer
 🚫 去掉注释行: !! #cookie-consent-banner
-✅ 多域名拆分: absonline.co.il,alarm.com,albar.co.il,alislamy.co.il,am-oved.co.il,amrusi.co.il,anglo-saxon.co.il,april.co.il,armyinform.com.ua,bigassfans.com,bsmart.co.il,caratx.com,chicagobooth.edu,city-garden.co.il,cliffwater.com,crypton.sh,doesitplay.org,etzmaleh.co.il,eurocommercialproperties.com,europa.eu,falcao.org,frisbi24.ru,fundrazr.com,gilsport.co.il,globalcallforwarding.com,gocase.com.br,ibjjf.com,interdiscount.ch,joinstellar.ai,keter-books.co.il,kibutz-poalim.co.il,kley-zemer.co.il,kzpro.co.il,ladaat.co,lgdisplay.com,lightyear.com,liveagent.com,mashtelaadhabait.com,matzman-merutz.co.il,meiami.co.il,miok.co.il,modan.co.il,motohurt.com,mrclab.co.il,multitool.co.il,mundoperfecto.net,news.stanford.edu,notaly.co.il,orioninnovation.com,panet.com,parks.org.il,pedalim.co.il,pepper.ru,rcbalance.com,rfdtvcanada.ca,shekel4u.co.il,shop.harim.co.il,softexia.com,stateofsurveillance.org,suger.io,tainio-mania.online,tfgm.com,thecowboychannelcanada.ca,thetadata.net,thewaterchannel.ca,webdunia.com,wheretowatch.stream,wildtv.ca,yagurgan.co.il,zer4u.co.il###cookie-consent-banner
+✅ 多域名拆分: absonline.co.il,alarm.com,albar.co.il,alislamy.co.il,am-oved.co.il,amrusi.co.il,anglo-saxon.co.il,april.co.il,armyinform.com.ua,bigassfans.com,bsmart.co.il,caratx.com,chefdepot.co.il,chicagobooth.edu,city-garden.co.il,cliffwater.com,crypton.sh,doesitplay.org,etzmaleh.co.il,eurocommercialproperties.com,europa.eu,falcao.org,frisbi24.ru,fundrazr.com,gilsport.co.il,globalcallforwarding.com,gocase.com.br,ibjjf.com,interdiscount.ch,joinstellar.ai,keter-books.co.il,kibutz-poalim.co.il,kley-zemer.co.il,kzpro.co.il,ladaat.co,lgdisplay.com,lightyear.com,liveagent.com,mashtelaadhabait.com,matzman-merutz.co.il,meiami.co.il,miok.co.il,modan.co.il,motohurt.com,mrclab.co.il,multitool.co.il,mundoperfecto.net,news.stanford.edu,notaly.co.il,orioninnovation.com,panet.com,parks.org.il,pedalim.co.il,pepper.ru,rcbalance.com,rfdtvcanada.ca,shekel4u.co.il,shop.harim.co.il,softexia.com,stateofsurveillance.org,suger.io,tainio-mania.online,tfgm.com,thecowboychannelcanada.ca,thetadata.net,thewaterchannel.ca,webdunia.com,wheretowatch.stream,wildtv.ca,yagurgan.co.il,zer4u.co.il###cookie-consent-banner
     → |absonline.co.il###cookie-consent-banner
     → |alarm.com###cookie-consent-banner
     → |albar.co.il###cookie-consent-banner
@@ -241513,6 +241561,7 @@
     → |bigassfans.com###cookie-consent-banner
     → |bsmart.co.il###cookie-consent-banner
     → |caratx.com###cookie-consent-banner
+    → |chefdepot.co.il###cookie-consent-banner
     → |chicagobooth.edu###cookie-consent-banner
     → |city-garden.co.il###cookie-consent-banner
     → |cliffwater.com###cookie-consent-banner
@@ -246019,11 +246068,15 @@
     → |sporty.co.il###cookie-consent-popup
     → |spy.org.il###cookie-consent-popup
     → |tudo.co.il###cookie-consent-popup
-✅ 多域名拆分: bneidavid.org,djistore.benda.co.il,fly-guy.club,ydssound.co.il###cookiez-banner
+✅ 多域名拆分: bneidavid.org,djistore.benda.co.il,fly-guy.club,puzzleland.co.il,ydssound.co.il###cookiez-banner
     → |bneidavid.org###cookiez-banner
     → |djistore.benda.co.il###cookiez-banner
     → |fly-guy.club###cookiez-banner
+    → |puzzleland.co.il###cookiez-banner
     → |ydssound.co.il###cookiez-banner
+✅ 多域名拆分: israelinfo.co.il,kupatbravo.co.il###ii-consent-root
+    → |israelinfo.co.il###ii-consent-root
+    → |kupatbravo.co.il###ii-consent-root
 ✅ 多域名拆分: nationalgeographic.co.il,ngkids.co.il###il-cookie-banner
     → |nationalgeographic.co.il###il-cookie-banner
     → |ngkids.co.il###il-cookie-banner
@@ -246038,8 +246091,9 @@
 ✅ 多域名拆分: ptora.co.il,zmaneshkol.co.il###ilp-consent-banner
     → |ptora.co.il###ilp-consent-banner
     → |zmaneshkol.co.il###ilp-consent-banner
-✅ 多域名拆分: bargad.co.il,coi.co.il,storemobile.co.il###privacyPop
+✅ 多域名拆分: bargad.co.il,bhl.co.il,coi.co.il,storemobile.co.il###privacyPop
     → |bargad.co.il###privacyPop
+    → |bhl.co.il###privacyPop
     → |coi.co.il###privacyPop
     → |storemobile.co.il###privacyPop
 ✅ 多域名拆分: nabob-lock.co.il,ronitek.co.il,shukhashmal.co.il###privacy_alert
@@ -246049,7 +246103,7 @@
 ✅ 多域名拆分: dunietz-elad.co.il,invoice4u.co.il###privacy_policy_popup
     → |dunietz-elad.co.il###privacy_policy_popup
     → |invoice4u.co.il###privacy_policy_popup
-✅ 多域名拆分: 18comp.co.il,an-cooling.com,autotire.co.il,dpirzul.com,dsfiga.co.il,egopower.co.il,gantim.com,gilcopharm.com,givunim.com,gordonsystem.co.il,gsil.co.il,hobby-3.co.il,hrsena.com,matov.co.il,matrefa.com,matzberim.co.il,medi-pharm.co.il,mersa.co.il,meyuly.co.il,mishely-art.com,peimot.com,sjlightcompany.com,skil-israel.co.il,sos365.co.il,sound-world.co.il,tiptop-tire.co.il,tireplus.co.il,yuvalim-sdy.com,zolsefer.co.il###sb_privacy_policy_notice
+✅ 多域名拆分: 18comp.co.il,an-cooling.com,autotire.co.il,dpirzul.com,dsfiga.co.il,egopower.co.il,gantim.com,gilcopharm.com,givunim.com,gordonsystem.co.il,gsil.co.il,hobby-3.co.il,hrsena.com,kfargiladi.co.il,matov.co.il,matrefa.com,matzberim.co.il,medi-pharm.co.il,mersa.co.il,meyuly.co.il,mishely-art.com,peimot.com,sjlightcompany.com,skil-israel.co.il,sos365.co.il,sound-world.co.il,tiptop-tire.co.il,tireplus.co.il,yuvalim-sdy.com,zolsefer.co.il###sb_privacy_policy_notice
     → |18comp.co.il###sb_privacy_policy_notice
     → |an-cooling.com###sb_privacy_policy_notice
     → |autotire.co.il###sb_privacy_policy_notice
@@ -246063,6 +246117,7 @@
     → |gsil.co.il###sb_privacy_policy_notice
     → |hobby-3.co.il###sb_privacy_policy_notice
     → |hrsena.com###sb_privacy_policy_notice
+    → |kfargiladi.co.il###sb_privacy_policy_notice
     → |matov.co.il###sb_privacy_policy_notice
     → |matrefa.com###sb_privacy_policy_notice
     → |matzberim.co.il###sb_privacy_policy_notice
@@ -246109,11 +246164,12 @@
     → |climma.co.il###sp-consent
     → |derech-eretz.co.il###sp-consent
     → |health-comfort.co.il###sp-consent
-✅ 多域名拆分: dan-marble.co.il,israel-extreme.com,la-bama.co.il,paz-merkavim.co.il###tp-cookie-consent
+✅ 多域名拆分: dan-marble.co.il,israel-extreme.com,la-bama.co.il,paz-merkavim.co.il,visit.zefat.muni.il###tp-cookie-consent
     → |dan-marble.co.il###tp-cookie-consent
     → |israel-extreme.com###tp-cookie-consent
     → |la-bama.co.il###tp-cookie-consent
     → |paz-merkavim.co.il###tp-cookie-consent
+    → |visit.zefat.muni.il###tp-cookie-consent
 ✅ 多域名拆分: agrica.co.il,cts.co.il,dnaateyelevel.com,gadgety.co.il,humus-eli-yahoo.com,kidstv.co.il###upnext-cookie-notice
     → |agrica.co.il###upnext-cookie-notice
     → |cts.co.il###upnext-cookie-notice
@@ -246132,6 +246188,9 @@
 ✅ 多域名拆分: shop.sano.co.il,sportsale-online.com##.accept_cookies_wrapper
     → |shop.sano.co.il##.accept_cookies_wrapper
     → |sportsale-online.com##.accept_cookies_wrapper
+✅ 多域名拆分: voicenter.co.il,voicenter.com##.base-cookies-modal
+    → |voicenter.co.il##.base-cookies-modal
+    → |voicenter.com##.base-cookies-modal
 ✅ 多域名拆分: aloni-alum.co.il,iballoon.co.il,solar-click.co.il,sorag.co.il##.cbox-wrap
     → |aloni-alum.co.il##.cbox-wrap
     → |iballoon.co.il##.cbox-wrap
@@ -246161,7 +246220,8 @@
     → |bursteinstore.co.il##.custom-cookie-outer
     → |kitchenware.co.il##.custom-cookie-outer
     → |negro.co.il##.custom-cookie-outer
-✅ 多域名拆分: medic-center-sport.co.il,winehouse.co.il##.digita-privacy-popup
+✅ 多域名拆分: digita.co.il,medic-center-sport.co.il,winehouse.co.il##.digita-privacy-popup
+    → |digita.co.il##.digita-privacy-popup
     → |medic-center-sport.co.il##.digita-privacy-popup
     → |winehouse.co.il##.digita-privacy-popup
 ✅ 多域名拆分: bcommunications.co.il,ir.maxstock.co.il##.ecl-banner
@@ -246234,12 +246294,17 @@
 ✅ 多域名拆分: jspca.org.il,letlive.org.il##.site-consent-banner
     → |jspca.org.il##.site-consent-banner
     → |letlive.org.il##.site-consent-banner
+✅ 多域名拆分: iwp.co.il,walla.co.il##div[aria-label="××××¢× ×¢× ×©××××© ××¢×××××ª"]
+    → |iwp.co.il##div[aria-label="××××¢× ×¢× ×©××××© ××¢×××××ª"]
+    → |walla.co.il##div[aria-label="××××¢× ×¢× ×©××××© ××¢×××××ª"]
 ✅ 多域名拆分: morfix.co.il,on-the-way-two.vercel.app##div[aria-label="××¡××× ××©××××© ××¢×××××ª"]
     → |morfix.co.il##div[aria-label="××¡××× ××©××××© ××¢×××××ª"]
     → |on-the-way-two.vercel.app##div[aria-label="××¡××× ××©××××© ××¢×××××ª"]
-✅ 多域名拆分: business.colmobil.co.il,hyundaimotors.co.il##div[class^="StyledPopupPrivacyCookies-"]
+✅ 多域名拆分: business.colmobil.co.il,hyundaimotors.co.il,jaecoo.co.il,omoda.co.il##div[class^="StyledPopupPrivacyCookies-"]
     → |business.colmobil.co.il##div[class^="StyledPopupPrivacyCookies-"]
     → |hyundaimotors.co.il##div[class^="StyledPopupPrivacyCookies-"]
+    → |jaecoo.co.il##div[class^="StyledPopupPrivacyCookies-"]
+    → |omoda.co.il##div[class^="StyledPopupPrivacyCookies-"]
 ✅ 多域名拆分: amosbld.co.il,billiard.co.il,brandsonsale.co.il,cameracity.co.il,carmelpc.co.il,ceramicdepot.co.il,depot365.co.il,dror-tools.co.il,drummer.co.il,dynamica.co.il,dyo-ink.co.il,electro-buy.co.il,eline.co.il,elitaieb.co.il,espressobar.com,foxhead.co.il,freedio.co.il,grillmaster.co.il,hotbuy.co.il,iwtools.co.il,j-sale.co.il,kafu.co.il,kfar.co.il,kilombo.co.il,ktech.co.il,laserline.co.il,lcdeal.co.il,levhabait.co.il,mabudi.co.il,mai-art.co.il,mnmltd.co.il,motoline.co.il,msport.co.il,mugrabi.co.il,musicol-shop.co.il,musicworld.co.il,orpc.co.il,out-of-the-box.co.il,owlmarket.co.il,pascale.co.il,pokito.co.il,pro-safety.co.il,selaram.co.il,speedio.co.il,sportcenter.co.il,studioland.co.il,sulemastore.co.il,taflaya.co.il,tapro.co.il,technoshlomo.co.il,totalsport.co.il,toysandmore.co.il,victor-arizot.co.il,video.org.il,voltstreet.co.il,welovecoffee.co.il,wineandmore.co.il,workimhi.co.il##div[class^="cookiesPopup"]
     → |amosbld.co.il##div[class^="cookiesPopup"]
     → |billiard.co.il##div[class^="cookiesPopup"]
