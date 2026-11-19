@@ -1406,6 +1406,9 @@ newrepublic.com##.ad-container-house
 saturdayeveningpost.com##.ad-sponsored-inline
 thejakartapost.com##.ad-v-box
 carnewschina.com##.ad__custom_html_datatracker_article_top
+tools.tracemyip.org##.addA.ad_header_cls_top_a
+tools.tracemyip.org##.addB.ad_header_cls_middle_a
+tools.tracemyip.org##.addC.ad_header_cls_bottom_a
 thenewhumanitarian.org##.addendum
 whowhatwhy.org##.ads
 scrippsnews.com##.ads-container
@@ -5405,6 +5408,7 @@ tennis.com##.-sharebar
 |abebooks.com##.ActionBar
 |americanbanker.com##.ActionBar
 |koaa.com##.ActionBar
+|kosu.org##.ActionBar
 |nbcsports.com##.ActionBar
 |newatlas.com##.ActionBar
 |nhpr.org##.ActionBar
@@ -5512,6 +5516,7 @@ amusingplanet.com##.SocialButtons
 |themirror.com##.SocialFollowBar_wrapper__h4k_D
 |walesonline.co.uk##.SocialFollowBar_wrapper__h4k_D
 cbssports.com##.SocialIconsBar
+|kosu.org##.SocialLink
 |suntimes.com##.SocialLink
 |tageblatt.de##.SocialLink
 complex.com##.SocialLinks__SocialButtonsContainer-sc-vif6xs-0
@@ -6817,6 +6822,7 @@ aceshowbiz.com##.post-share-area
 |douglasnow.com##.post-share-float
 |energy-reporters.com##.post-share-float
 |rockstarintel.com##.post-share-float
+|thehoneypop.com##.post-share-float
 |trustedreviews.com##.post-share-float
 |watchinamerica.com##.post-share-float
 churchpop.com##.post-share-section
@@ -7619,6 +7625,7 @@ interestingengineering.com##.t-w-\[128px\]
 interestingengineering.com##.t-w-\[200px\]
 toucharcade.com##.ta_followWidget
 gamingbolt.com##.tag-social-media
+celebs100.com##.tags-share-box
 notthebee.com##.take-shareables
 firstpost.com##.tbl-cell-wp
 thediplomat.com##.td-follow
@@ -7781,7 +7788,8 @@ business-standard.com##.whtsclick
 indiatoday.in##.whtspp_share
 business-standard.com##.whtsppchannle
 androidheadlines.com##.widget-ahcount
-trustedreviews.com##.widget-social-b
+|thehoneypop.com##.widget-social-b
+|trustedreviews.com##.widget-social-b
 mediapost.com##.widget-waypoint
 madinamerica.com##.widget_a2a_share_save_widget
 theyucatantimes.com##.widget_ame_tiktok_widget
@@ -9729,6 +9737,7 @@ miruro.*##section[class^="_noticeSection_"]
 |espnsiouxfalls.com##.social-share
 |espnwesterncolorado.com##.social-share
 |euromaidanpress.com##.social-share
+|fashiontimes.co.uk##.social-share
 |fedscoop.com##.social-share
 |foxsports1510.com##.social-share
 |foxsportsutahradio.com##.social-share
@@ -21516,6 +21525,7 @@ morningstar.com###additionalInfoe
 |javalambre-valdelinares.com###overlay
 |kadewe.de###overlay
 |kirklees.gov.uk###overlay
+|lonax.ru###overlay
 |muenchen.rotary.de###overlay
 |nanu-nana.at###overlay
 |nanu-nana.de###overlay
@@ -23431,6 +23441,7 @@ decovarrubias.es###sliding-popup-cookies
 |riverelmasgrande.com##.cookie-consent
 |route-inn.co.jp##.cookie-consent
 |runpulse.com##.cookie-consent
+|rusamara.com##.cookie-consent
 |sbm-rail.com##.cookie-consent
 |sevensons.net##.cookie-consent
 |sinparty.com##.cookie-consent
@@ -43200,6 +43211,7 @@ fialkaspb.ru##.bottom__cookie_block
 34travel.me##.bottom__cookies
 bitrix24.ru##.bx-main-cookie-policy-sidebar
 drive2.ru##.c-cookie-banner
+bluesleep.ru##.c-ep-ca
 tvguru.ru##.c-modal
 apteka-april.ru##.c-notices > .hasButton.c-notice
 ria.com##.c-notifier-container
@@ -43222,6 +43234,7 @@ eridon.ua##.cook
 mnogo.ru##.cook_LFPnK
 propb.ru##.cooke
 invitro.ru##.cookie--popup
+ormatek.com##.cookie-accepter
 voka.tv##.cookie-alertcomponent__BlurContainer-sc-b564p5-0
 technopark.ru##.cookie-allow
 spbu.ru##.cookie-block
@@ -43374,6 +43387,7 @@ kfim.com##.message
 |tvguru.ru##.message-alert
 npfb.ru##.messenger-popup
 mosreg.ru##.metrica-warning
+mrmattress.ru##.mm-cookie-notice
 |strana.one##.modal
 |strana.today##.modal
 asna.ru##.modalCookies_root__356Q-
@@ -43521,6 +43535,7 @@ eecmedical.ru##.welcome-popup
 |profdelo.com##.widget_cookie
 info.2gis.ru##.wrapper-R5Fvly
 warthunder.ru##.wt-cb
+dimax.ru##.xw-popup--cookies
 yasno.live##.y-gdpr
 uralkarcher.ru##.zalupa
 |360.ru##[aria-label="cookie-agreement"]
@@ -43573,6 +43588,7 @@ rabota.sber.ru##div[class*="styled__CookieWrapper-"]
 ggsel.net##div[class^="CookieBanner-module"]
 |sberbank.com##div[class^="CookieWarning-"]
 |sberbank.ru##div[class^="CookieWarning-"]
+askona.ru##div[class^="CookieWarning_warning_"]
 sponsr.ru##div[class^="Cookie_container"]
 life.by##div[class^="Cookie_modalRoot_"]
 novayagazeta.eu##div[class^="CookiesInformer_"]
@@ -51026,6 +51042,7 @@ idealista.pt##.newsletter-subscription-form
 |iowapublicradio.org###mc_embed_signup
 |jweekly.com###mc_embed_signup
 |kliknijwzdrowie.pl###mc_embed_signup
+|kosu.org###mc_embed_signup
 |kyivpost.com###mc_embed_signup
 |lacapital.com.ar###mc_embed_signup
 |lapatilla.com###mc_embed_signup

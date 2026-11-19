@@ -899,6 +899,7 @@ tennis.com##.-sharebar
 |abebooks.com##.ActionBar
 |americanbanker.com##.ActionBar
 |koaa.com##.ActionBar
+|kosu.org##.ActionBar
 |nbcsports.com##.ActionBar
 |newatlas.com##.ActionBar
 |nhpr.org##.ActionBar
@@ -1006,6 +1007,7 @@ amusingplanet.com##.SocialButtons
 |themirror.com##.SocialFollowBar_wrapper__h4k_D
 |walesonline.co.uk##.SocialFollowBar_wrapper__h4k_D
 cbssports.com##.SocialIconsBar
+|kosu.org##.SocialLink
 |suntimes.com##.SocialLink
 |tageblatt.de##.SocialLink
 complex.com##.SocialLinks__SocialButtonsContainer-sc-vif6xs-0
@@ -2311,6 +2313,7 @@ aceshowbiz.com##.post-share-area
 |douglasnow.com##.post-share-float
 |energy-reporters.com##.post-share-float
 |rockstarintel.com##.post-share-float
+|thehoneypop.com##.post-share-float
 |trustedreviews.com##.post-share-float
 |watchinamerica.com##.post-share-float
 churchpop.com##.post-share-section
@@ -3113,6 +3116,7 @@ interestingengineering.com##.t-w-\[128px\]
 interestingengineering.com##.t-w-\[200px\]
 toucharcade.com##.ta_followWidget
 gamingbolt.com##.tag-social-media
+celebs100.com##.tags-share-box
 notthebee.com##.take-shareables
 firstpost.com##.tbl-cell-wp
 thediplomat.com##.td-follow
@@ -3275,7 +3279,8 @@ business-standard.com##.whtsclick
 indiatoday.in##.whtspp_share
 business-standard.com##.whtsppchannle
 androidheadlines.com##.widget-ahcount
-trustedreviews.com##.widget-social-b
+|thehoneypop.com##.widget-social-b
+|trustedreviews.com##.widget-social-b
 mediapost.com##.widget-waypoint
 madinamerica.com##.widget_a2a_share_save_widget
 theyucatantimes.com##.widget_ame_tiktok_widget
@@ -5223,6 +5228,7 @@ miruro.*##section[class^="_noticeSection_"]
 |espnsiouxfalls.com##.social-share
 |espnwesterncolorado.com##.social-share
 |euromaidanpress.com##.social-share
+|fashiontimes.co.uk##.social-share
 |fedscoop.com##.social-share
 |foxsports1510.com##.social-share
 |foxsportsutahradio.com##.social-share
