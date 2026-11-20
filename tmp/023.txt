@@ -5243,11 +5243,14 @@ jacobin.com###post-header-share
 mediaite.com###post-social
 news.keckmedicine.org###ppmodule_shareus
 news.keckmedicine.org###ppmodule_socialmedia
+|bismarcktribune.com###preferredSource
 |chippewa.com###preferredSource
 |columbustelegram.com###preferredSource
 |journalstar.com###preferredSource
+|pantagraph.com###preferredSource
 |qctimes.com###preferredSource
 |siouxcityjournal.com###preferredSource
+|wcfcourier.com###preferredSource
 wikihow.com###preferred_source_btn
 digit.in###prefsource-button
 |auburnpub.com###reaction-wrap
@@ -5777,6 +5780,7 @@ irishtimes.com##.b-it-social-share-block
 |tsn.ca##.b-share-bar
 protos.com##.b-sharers
 spokesman.com##.ba
+techpartner.news##.badge-light
 dutchnews.nl##.badge-social
 dezeen.com##.badges
 butwhytho.net##.bam-topbar-social
@@ -7786,6 +7790,7 @@ newsroom.paypal-corp.com##.wd_tools
 poynter.org##.wdm-share-container
 thepridela.com##.weart-share
 ctrl.blog##.webshare
+whispersinthecorridors.in##.wh-share
 firstpost.com##.whats-app-desc
 businesstoday.in##.whatsAppChannel
 |dailymail.co.uk##.whatsapp
@@ -18301,6 +18306,7 @@ content.techgig.com##[class^="gdpr-info"]
 letsdeal.se##[class^="gdpr-overlay"]
 bybit.com##[class^="style_gdpr"]
 underarmour.com##[class^="trustarc_consent"]
+collaboraonline.com##[consent-skip-blocker]
 myworkdayjobs.com##[data-automation-id="legalNotice"]
 id.jobstreet.com##[data-automation="launchBanner"]
 th.jobsdb.com##[data-automation="privacyPolicyBanner"]
@@ -49951,6 +49957,7 @@ theenergymix.com##.weekender-green
 theenergymix.com##.weekender-white
 theconsensus.dev##.weekly-cta
 health.harvard.edu##.welcome-popup
+whispersinthecorridors.in##.wh-share-box
 dictionary.com##.widget
 a16z.com##.widget--subscribe
 hpcwire.com##.widget-2
@@ -50287,6 +50294,7 @@ christianpost.com##section[class^="inline-newsletter"]
 regain.us##section[data-testid="newsletter-section"]
 theguardian.com#?#[data-spacefinder-role="inline"]:has-text(Sign up)
 pedestrian.tv##ticker-subscription
+whispersinthecorridors.in#?#div.wh-widget:has-text(Stay informed)
 |polygon.com##.duet--cta--newsletter
 |theverge.com##.duet--cta--newsletter
 cnbc.com##.CNBCFooter-sectionItem:has(> [href="/sign-up-for-cnbc-newsletters/"])
