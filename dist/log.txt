@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-11-19T16:10:27.324Z
+🚫 去掉注释行: ! Last modified: 2026-11-19T22:09:14.529Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -1679,10 +1679,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 95688
-🚫 去掉注释行: ! Checksum: 9B8J5La9GJIDGcESfiDq4A
-🚫 去掉注释行: ! Version: 202611191742
+🚫 去掉注释行: ! Checksum: yW6kBzZSJw4dwGWswEbjDg
+🚫 去掉注释行: ! Version: 202611200004
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 19 Nov 2026 17:42 UTC
+🚫 去掉注释行: ! Last modified: 20 Nov 2026 00:04 UTC
 🚫 去掉注释行: ! Expires: 12 hours (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -11148,6 +11148,8 @@
 🚫 去掉注释行: ##.da-custom-ad-box
 🚫 去掉注释行: ##.dac__banner__wrapper
 🚫 去掉注释行: ##.daily-adlabel
+🚫 去掉注释行: ##.dappier-ad-chain
+🚫 去掉注释行: ##.dappier-ads-top
 🚫 去掉注释行: ##.dart-ad
 🚫 去掉注释行: ##.dart-ad-content
 🚫 去掉注释行: ##.dart-ad-grid
@@ -25359,10 +25361,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: UO2xqzGsImQ5UeTyiJF2Fg
-🚫 去掉注释行: ! Version: 202611191742
+🚫 去掉注释行: ! Checksum: /Dl3yjY/N6Pjtb6hRludRQ
+🚫 去掉注释行: ! Version: 202611200004
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 19 Nov 2026 17:42 UTC
+🚫 去掉注释行: ! Last modified: 20 Nov 2026 00:04 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -28710,10 +28712,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: GPZMdENoBNWX7rVIVfWLig
-🚫 去掉注释行: ! Version: 202611191742
+🚫 去掉注释行: ! Checksum: 27DU6mpyHCXq4Xa19HEAzA
+🚫 去掉注释行: ! Version: 202611200004
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 19 Nov 2026 17:42 UTC
+🚫 去掉注释行: ! Last modified: 20 Nov 2026 00:04 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29391,11 +29393,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202611191747
+🚫 去掉注释行: ! Version: 202611192359
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 19 Nov 2026 17:47 UTC
+🚫 去掉注释行: ! Last modified: 19 Nov 2026 23:59 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 4ba93e9fb0a49dd5f9aec1d84ff0193f25c39d37
+🚫 去掉注释行: ! Commit: 09eb39c41cf6d23b327c5e9acf78bee490169fe1
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -38864,6 +38866,8 @@
 🚫 去掉注释行: ##.da-custom-ad-box
 🚫 去掉注释行: ##.dac__banner__wrapper
 🚫 去掉注释行: ##.daily-adlabel
+🚫 去掉注释行: ##.dappier-ad-chain
+🚫 去掉注释行: ##.dappier-ads-top
 🚫 去掉注释行: ##.dart-ad
 🚫 去掉注释行: ##.dart-ad-content
 🚫 去掉注释行: ##.dart-ad-grid
@@ -53107,11 +53111,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202611191750
+🚫 去掉注释行: ! Version: 202611192359
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 19 Nov 2026 17:50 UTC
+🚫 去掉注释行: ! Last modified: 19 Nov 2026 23:59 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 8bd1318df323470b5f797e4b19854ace88515740
+🚫 去掉注释行: ! Commit: 09eb39c41cf6d23b327c5e9acf78bee490169fe1
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -62986,6 +62990,12 @@
 ✅ 多域名拆分: lifezette.com,revolver.news###menu-social-buttons-header
     → |lifezette.com###menu-social-buttons-header
     → |revolver.news###menu-social-buttons-header
+✅ 多域名拆分: chippewa.com,columbustelegram.com,journalstar.com,qctimes.com,siouxcityjournal.com###preferredSource
+    → |chippewa.com###preferredSource
+    → |columbustelegram.com###preferredSource
+    → |journalstar.com###preferredSource
+    → |qctimes.com###preferredSource
+    → |siouxcityjournal.com###preferredSource
 ✅ 多域名拆分: auburnpub.com,azdailysun.com,beatricedailysun.com,billingsgazette.com,bismarcktribune.com,chippewa.com,columbustelegram.com,cumberlink.com,dailyjournalonline.com,democratherald.com,elkodaily.com,fremonttribune.com,gazettetimes.com,globegazette.com,hanfordsentinel.com,helenair.com,herald-review.com,jg-tc.com,journalstar.com,journaltimes.com,lacrossetribune.com,lompocrecord.com,magicvalley.com,missoulanews.com,missoulian.com,mtstandard.com,muscatinejournal.com,napavalleyregister.com,nwitimes.com,pantagraph.com,poststar.com,qconline.com,qctimes.com,rapidcityjournal.com,ravallirepublic.com,santamariatimes.com,siouxcityjournal.com,stltoday.com,tdn.com,thesouthern.com,thetandd.com,theworldlink.com,trib.com,tucson.com,wcfcourier.com,winonadailynews.com,wiscnews.com###reaction-wrap
     → |auburnpub.com###reaction-wrap
     → |azdailysun.com###reaction-wrap
@@ -63638,6 +63648,9 @@
     → |ringsidenews.com##.google-preferred-btn
     → |thehealthsite.com##.google-preferred-btn
     → |tmz.com##.google-preferred-btn
+✅ 多域名拆分: cultofmac.com,mlive.com##.google-preferred-source
+    → |cultofmac.com##.google-preferred-source
+    → |mlive.com##.google-preferred-source
 ✅ 多域名拆分: 9to5google.com,9to5mac.com,9to5toys.com,dronedj.com,mathrubhumi.com,spaceexplored.com##.google-preferred-source-badge
     → |9to5google.com##.google-preferred-source-badge
     → |9to5mac.com##.google-preferred-source-badge
@@ -63653,7 +63666,8 @@
     → |azfamily.com##.google-source-button
     → |bolde.com##.google-source-button
     → |walb.com##.google-source-button
-✅ 多域名拆分: publicradiotulsa.org,stlpr.org##.gtm_share
+✅ 多域名拆分: kcur.org,publicradiotulsa.org,stlpr.org##.gtm_share
+    → |kcur.org##.gtm_share
     → |publicradiotulsa.org##.gtm_share
     → |stlpr.org##.gtm_share
 ✅ 多域名拆分: egotastic.com,egotasticsports.com##.h-fixed-footer
@@ -69569,10 +69583,10 @@
 🚫 去掉注释行: ! Issues: https://github.com/hagezi/dns-blocklists/issues
 🚫 去掉注释行: ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 🚫 去掉注释行: ! Expires: 8 hours
-🚫 去掉注释行: ! Last modified: 19 Nov 2026 15:29 UTC
-🚫 去掉注释行: ! Version: 2026.1119.1529.57
+🚫 去掉注释行: ! Last modified: 19 Nov 2026 23:33 UTC
+🚫 去掉注释行: ! Version: 2026.1119.2333.26
 🚫 去掉注释行: ! Syntax: AdBlock
-🚫 去掉注释行: ! Number of entries: 92176
+🚫 去掉注释行: ! Number of entries: 92319
 🚫 去掉注释行: !
 🚫 去掉注释行: !Title: anti-AD for AdGuard
 🚫 去掉注释行: !Version: 20261117015534856955325
@@ -69593,8 +69607,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL%203.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA%204.0
-🚫 去掉注释行: !Generated: 2026-11-19 23:41:03 +08
-🚫 去掉注释行: !RuleCount: 816542
+🚫 去掉注释行: !Generated: 2026-11-20 03:24:53 +08
+🚫 去掉注释行: !RuleCount: 816573
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
@@ -149982,10 +149996,10 @@
 🚫 去掉注释行: ! Blocked domains: 8480
 🚫 去掉注释行: ! unBlocked domains: 16
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: /rRGjYserzIAmT50YFQuow
-🚫 去掉注释行: ! Version: 202611191050
+🚫 去掉注释行: ! Checksum: oPJG7iyZqkbhzjOnkltmKQ
+🚫 去掉注释行: ! Version: 202611192125
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-11-19 10:50 UTC
+🚫 去掉注释行: ! Last modified: 2026-11-19 21:25 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -151436,7 +151450,7 @@
     → |herald-zeitung.com##.asset-paging
     → |lmtribune.com##.asset-paging
     → |nashvillescene.com##.asset-paging
-✅ 多域名拆分: berkshireeagle.com,bgdailynews.com,bozemandailychronicle.com,bramptonguardian.com,captimes.com,chronicle-tribune.com,citizentribune.com,clintonherald.com,couriernews.com,crossroadstoday.com,csindy.com,dailycal.org,dailygazette.com,dailyitem.com,dentonrc.com,denvergazette.com,gazette.com,gmtoday.com,guelphmercury.com,herald-dispatch.com,hjnews.com,homenewshere.com,insidenova.com,insideottawavalley.com,insightnews.com,jhnewsandguide.com,kentuckytoday.com,keysnews.com,khq.com,kilgorenewsherald.com,kmaland.com,kmzu.com,komu.com,ktbs.com,kulr8.com,ladowntownnews.com,lufkindailynews.com,mdjonline.com,montanarightnow.com,mtdemocrat.com,nashvillescene.com,nbcrightnow.com,news-gazette.com,newsmirror.net,niagarafallsreview.ca,niagarathisweek.com,northcentralpa.com,oswegocountynewsnow.com,ottumwacourier.com,phillytrib.com,postandcourier.com,pulaskicountyweekly.com,reformer.com,romesentinel.com,sfexaminer.com,sfweekly.com,sharonherald.com,starlocalmedia.com,swiowanewssource.com,thecanadianpressnews.ca,thecentersquare.com,themountaineer.com,thenewsenterprise.com,thepeterboroughexaminer.com,therecord.com,thespec.com,thesuburban.com,thetimestribune.com,times-herald.com,unionleader.com,wdel.com,wdrb.com,wellandtribune.ca,wfmz.com,winnipegsun.com,wvgazettemail.com,wvnews.com,wyomingnewsnow.tv,youralaskalink.com##.asset-paging-container
+✅ 多域名拆分: berkshireeagle.com,bgdailynews.com,bozemandailychronicle.com,bramptonguardian.com,captimes.com,chronicle-tribune.com,citizentribune.com,clintonherald.com,couriernews.com,crossroadstoday.com,csindy.com,dailycal.org,dailygazette.com,dailyitem.com,dentonrc.com,denvergazette.com,gazette.com,gmtoday.com,guelphmercury.com,herald-dispatch.com,hjnews.com,homenewshere.com,insidenova.com,insideottawavalley.com,insightnews.com,jhnewsandguide.com,kentuckytoday.com,keysnews.com,khq.com,kilgorenewsherald.com,kmaland.com,kmzu.com,komu.com,ktbs.com,kulr8.com,ladowntownnews.com,lufkindailynews.com,mdjonline.com,montanarightnow.com,mtdemocrat.com,nashvillescene.com,nbcrightnow.com,news-gazette.com,newsmirror.net,niagarafallsreview.ca,niagarathisweek.com,northcentralpa.com,oswegocountynewsnow.com,ottumwacourier.com,phillytrib.com,postandcourier.com,pulaskicountyweekly.com,record-eagle.com,reformer.com,romesentinel.com,sfexaminer.com,sfweekly.com,sharonherald.com,starlocalmedia.com,swiowanewssource.com,thecanadianpressnews.ca,thecentersquare.com,themountaineer.com,thenewsenterprise.com,thepeterboroughexaminer.com,therecord.com,thespec.com,thesuburban.com,thetimestribune.com,times-herald.com,unionleader.com,wdel.com,wdrb.com,wellandtribune.ca,wfmz.com,winnipegsun.com,wvgazettemail.com,wvnews.com,wyomingnewsnow.tv,youralaskalink.com##.asset-paging-container
     → |berkshireeagle.com##.asset-paging-container
     → |bgdailynews.com##.asset-paging-container
     → |bozemandailychronicle.com##.asset-paging-container
@@ -151489,6 +151503,7 @@
     → |phillytrib.com##.asset-paging-container
     → |postandcourier.com##.asset-paging-container
     → |pulaskicountyweekly.com##.asset-paging-container
+    → |record-eagle.com##.asset-paging-container
     → |reformer.com##.asset-paging-container
     → |romesentinel.com##.asset-paging-container
     → |sfexaminer.com##.asset-paging-container
@@ -151760,9 +151775,10 @@
     → |toplegal.it###backToTop
     → |tsc.ca###backToTop
     → |vov.vn###backToTop
-✅ 多域名拆分: andreazottola.com.ar,astm.it,circuitbasics.com,codam.nl,foodstuffsa.co.za,hardwarezone.com.sg,holidayswithkids.com.au,koningsverfenbehang.nl,milwaukeeindependent.com,panoramapolitico.co,presseverteiler.de,thegrio.com,vgleaks.com###back_to_top
+✅ 多域名拆分: andreazottola.com.ar,astm.it,brownfieldagnews.com,circuitbasics.com,codam.nl,foodstuffsa.co.za,hardwarezone.com.sg,holidayswithkids.com.au,koningsverfenbehang.nl,milwaukeeindependent.com,panoramapolitico.co,presseverteiler.de,thegrio.com,vgleaks.com###back_to_top
     → |andreazottola.com.ar###back_to_top
     → |astm.it###back_to_top
+    → |brownfieldagnews.com###back_to_top
     → |circuitbasics.com###back_to_top
     → |codam.nl###back_to_top
     → |foodstuffsa.co.za###back_to_top
@@ -162818,6 +162834,12 @@
 ✅ 多域名拆分: lifezette.com,revolver.news###menu-social-buttons-header
     → |lifezette.com###menu-social-buttons-header
     → |revolver.news###menu-social-buttons-header
+✅ 多域名拆分: chippewa.com,columbustelegram.com,journalstar.com,qctimes.com,siouxcityjournal.com###preferredSource
+    → |chippewa.com###preferredSource
+    → |columbustelegram.com###preferredSource
+    → |journalstar.com###preferredSource
+    → |qctimes.com###preferredSource
+    → |siouxcityjournal.com###preferredSource
 ✅ 多域名拆分: auburnpub.com,azdailysun.com,beatricedailysun.com,billingsgazette.com,bismarcktribune.com,chippewa.com,columbustelegram.com,cumberlink.com,dailyjournalonline.com,democratherald.com,elkodaily.com,fremonttribune.com,gazettetimes.com,globegazette.com,hanfordsentinel.com,helenair.com,herald-review.com,jg-tc.com,journalstar.com,journaltimes.com,lacrossetribune.com,lompocrecord.com,magicvalley.com,missoulanews.com,missoulian.com,mtstandard.com,muscatinejournal.com,napavalleyregister.com,nwitimes.com,pantagraph.com,poststar.com,qconline.com,qctimes.com,rapidcityjournal.com,ravallirepublic.com,santamariatimes.com,siouxcityjournal.com,stltoday.com,tdn.com,thesouthern.com,thetandd.com,theworldlink.com,trib.com,tucson.com,wcfcourier.com,winonadailynews.com,wiscnews.com###reaction-wrap
     → |auburnpub.com###reaction-wrap
     → |azdailysun.com###reaction-wrap
@@ -163470,6 +163492,9 @@
     → |ringsidenews.com##.google-preferred-btn
     → |thehealthsite.com##.google-preferred-btn
     → |tmz.com##.google-preferred-btn
+✅ 多域名拆分: cultofmac.com,mlive.com##.google-preferred-source
+    → |cultofmac.com##.google-preferred-source
+    → |mlive.com##.google-preferred-source
 ✅ 多域名拆分: 9to5google.com,9to5mac.com,9to5toys.com,dronedj.com,mathrubhumi.com,spaceexplored.com##.google-preferred-source-badge
     → |9to5google.com##.google-preferred-source-badge
     → |9to5mac.com##.google-preferred-source-badge
@@ -163485,7 +163510,8 @@
     → |azfamily.com##.google-source-button
     → |bolde.com##.google-source-button
     → |walb.com##.google-source-button
-✅ 多域名拆分: publicradiotulsa.org,stlpr.org##.gtm_share
+✅ 多域名拆分: kcur.org,publicradiotulsa.org,stlpr.org##.gtm_share
+    → |kcur.org##.gtm_share
     → |publicradiotulsa.org##.gtm_share
     → |stlpr.org##.gtm_share
 ✅ 多域名拆分: egotastic.com,egotasticsports.com##.h-fixed-footer
@@ -210542,10 +210568,12 @@
     → |aftermath.site##.NewsletterSignup_wrapper__rmf2c
     → |dailydot.com##.NewsletterSignup_wrapper__rmf2c
     → |nautil.us##.NewsletterSignup_wrapper__rmf2c
-✅ 多域名拆分: keranews.org,kpbs.org,publicradiotulsa.org##.PromoD
+✅ 多域名拆分: kcur.org,keranews.org,kpbs.org,publicradiotulsa.org,statenews.org##.PromoD
+    → |kcur.org##.PromoD
     → |keranews.org##.PromoD
     → |kpbs.org##.PromoD
     → |publicradiotulsa.org##.PromoD
+    → |statenews.org##.PromoD
 ✅ 多域名拆分: abc7.com,abc7ny.com##.Shfq
     → |abc7.com##.Shfq
     → |abc7ny.com##.Shfq
@@ -211496,6 +211524,10 @@
 ✅ 多域名拆分: idropnews.com,semiengineering.com##.newsletter-title
     → |idropnews.com##.newsletter-title
     → |semiengineering.com##.newsletter-title
+✅ 多域名拆分: beloitdailynews.com,gmanetwork.com,thegazette.com##.newsletter-widget-container
+    → |beloitdailynews.com##.newsletter-widget-container
+    → |gmanetwork.com##.newsletter-widget-container
+    → |thegazette.com##.newsletter-widget-container
 ✅ 多域名拆分: forward.com,gadgets-africa.com,ijnet.org,jam-news.net,webmd.com,whoopsee.it##.newsletter-wrapper
     → |forward.com##.newsletter-wrapper
     → |gadgets-africa.com##.newsletter-wrapper
@@ -213274,7 +213306,7 @@
     → |vidaextra.com###newsletter
     → |wdcb.org###newsletter
 🚫 去掉注释行: !! .newsletter-block
-✅ 多域名拆分: cointribune.com,elcaribe.com.do,feinschmecker.de,friendsjournal.org,la-croix.com,momentarecovery.com,romesentinel.com,slate.fr,starlocalmedia.com,thedial.world##.newsletter-block
+✅ 多域名拆分: cointribune.com,elcaribe.com.do,feinschmecker.de,friendsjournal.org,la-croix.com,momentarecovery.com,romesentinel.com,slate.fr,starlocalmedia.com,thedial.world,wfyi.org##.newsletter-block
     → |cointribune.com##.newsletter-block
     → |elcaribe.com.do##.newsletter-block
     → |feinschmecker.de##.newsletter-block
@@ -213285,6 +213317,7 @@
     → |slate.fr##.newsletter-block
     → |starlocalmedia.com##.newsletter-block
     → |thedial.world##.newsletter-block
+    → |wfyi.org##.newsletter-block
 🚫 去掉注释行: !! .featherlight
 🚫 去掉注释行: !! .newsletter-form
 ✅ 多域名拆分: about.gitlab.com,aeiou.pt,appfigures.com,blog.google,captimes.com,carwashpro.nl,challenges.fr,cined.com,cnnturk.com,dnevnik.bg,eff.org,financemagnates.com,foxnews.com,frandroid.com,infrasite.nl,news247.gr,omroepmax.nl,pitcherlist.com,revistaoeste.com,rijschoolpro.nl,securityaffairs.com,spoorpro.nl,superdeluxeedition.com,taxipro.nl,thecanadianpressnews.ca,uploadvr.com,usmagazine.com,visualstudiomagazine.com,wayfairertravel.com,wine-searcher.com,wsbtv.com,zelfrijdendvervoer.nl##.newsletter-form

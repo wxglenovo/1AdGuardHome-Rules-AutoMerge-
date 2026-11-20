@@ -1330,6 +1330,8 @@ scroll.in###supportStrap
 the74million.org###support_box
 pewresearch.org###survey-2-ease-of-understanding
 hackster.io###surveyJS
+record-eagle.com###ta_background
+record-eagle.com###ta_invisible
 washingtonmonthly.com###text-11
 conservativedailynews.com###text-html-widget-8
 ghacks.net###the-day-in-history
@@ -1376,7 +1378,6 @@ meduza.io##.Layout-module-banner
 laist.com##.MembershipModule
 wbez.org##.PagePromoModuleC
 gamedeveloper.com##.ProgramHeader
-kcur.org##.PromoD
 wgbh.org##.PromoS
 sacurrent.com##.PromoTopBar
 thekitchn.com##.PromotionalRibbon
@@ -2390,6 +2391,7 @@ thespinoff.co.nz##.article-peep
 |phillytrib.com##.asset-paging-container
 |postandcourier.com##.asset-paging-container
 |pulaskicountyweekly.com##.asset-paging-container
+|record-eagle.com##.asset-paging-container
 |reformer.com##.asset-paging-container
 |romesentinel.com##.asset-paging-container
 |sfexaminer.com##.asset-paging-container
@@ -2735,6 +2737,7 @@ cdw.com###backToTopWrapper
 medicinenet.com###backTop
 |andreazottola.com.ar###back_to_top
 |astm.it###back_to_top
+|brownfieldagnews.com###back_to_top
 |circuitbasics.com###back_to_top
 |codam.nl###back_to_top
 |foodstuffsa.co.za###back_to_top
@@ -5240,6 +5243,11 @@ jacobin.com###post-header-share
 mediaite.com###post-social
 news.keckmedicine.org###ppmodule_shareus
 news.keckmedicine.org###ppmodule_socialmedia
+|chippewa.com###preferredSource
+|columbustelegram.com###preferredSource
+|journalstar.com###preferredSource
+|qctimes.com###preferredSource
+|siouxcityjournal.com###preferredSource
 wikihow.com###preferred_source_btn
 digit.in###prefsource-button
 |auburnpub.com###reaction-wrap
@@ -6420,7 +6428,8 @@ techspot.com##.google-preferred
 |tmz.com##.google-preferred-btn
 realestate.com.au##.google-preferred-link
 sammobile.com##.google-preferred-news-source-cta
-cultofmac.com##.google-preferred-source
+|cultofmac.com##.google-preferred-source
+|mlive.com##.google-preferred-source
 |9to5google.com##.google-preferred-source-badge
 |9to5mac.com##.google-preferred-source-badge
 |9to5toys.com##.google-preferred-source-badge
@@ -6455,6 +6464,7 @@ ethanzuckerman.com##.group-1
 gadgets360.com##.gsocialbar
 atlanticcouncil.org##.gta-hover-share-container
 united24media.com##.gtm-bottom-popup-article
+|kcur.org##.gtm_share
 |publicradiotulsa.org##.gtm_share
 |stlpr.org##.gtm_share
 theprint.in##.gw-follow-button
@@ -7069,6 +7079,7 @@ vimeo.com##.share_body
 snowbrains.com##.share_btnhead
 goodmenproject.com##.share_count_holder
 wikihow.com##.share_dropdown_wrap
+messengernews.net##.share_icons
 |idlprocycling.com##.share_item
 |indeleiderstrui.nl##.share_item
 |twenteinsite.nl##.share_item
@@ -47110,9 +47121,11 @@ brighteon.com##.PopUpNewsletter
 thekitchn.com##.Post__emailSignup
 thedailybeast.com##.ProductCalloutNewsletterModule
 wgbh.org##.PromoCard
+|kcur.org##.PromoD
 |keranews.org##.PromoD
 |kpbs.org##.PromoD
 |publicradiotulsa.org##.PromoD
+|statenews.org##.PromoD
 kpbs.org##.PromoNewsletter
 bigissue.com##.ReactModal__Overlay
 meduza.io##.Section-module-isBrief_subscription
@@ -48775,6 +48788,7 @@ slashfilm.com##.newsletter-btn
 |dailydot.com##.newsletter-button
 |folhape.com.br##.newsletter-button
 commondreams.org##.newsletter-button-top
+nebraskapublicmedia.org##.newsletter-callout__container
 |independent.co.uk##.newsletter-component
 |the-independent.com##.newsletter-component
 |theblock.co##.newsletter-component
@@ -48935,7 +48949,9 @@ sltrib.com##.newsletter-test-a
 |idropnews.com##.newsletter-title
 |semiengineering.com##.newsletter-title
 maginative.com##.newsletter-toast
-gmanetwork.com##.newsletter-widget-container
+|beloitdailynews.com##.newsletter-widget-container
+|gmanetwork.com##.newsletter-widget-container
+|thegazette.com##.newsletter-widget-container
 eatthis.com##.newsletter-window
 zenger.news##.newsletter-world-watch
 |forward.com##.newsletter-wrapper
@@ -49102,6 +49118,8 @@ pcguide.com##.pcg-newsletter
 paydaythegame.com##.pdtgfooternewsletter
 hbr.org##.persistent-banner
 bonappetit.com##.persistent-bottom
+albertleatribune.com##.pg-article-body-email-capture
+albertleatribune.com##.pg-email-capture
 washingtontimes.com##.piano-fixed-footer-two
 olivemagazine.com##.piano-inline-template__content
 mathrubhumi.com##.piano-newsletter-article
@@ -51546,6 +51564,7 @@ idealista.pt##.newsletter-subscription-form
 |slate.fr##.newsletter-block
 |starlocalmedia.com##.newsletter-block
 |thedial.world##.newsletter-block
+|wfyi.org##.newsletter-block
 fashionrepublicmagazine.com##.featherlight
 |about.gitlab.com##.newsletter-form
 |aeiou.pt##.newsletter-form
