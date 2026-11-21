@@ -934,7 +934,6 @@ federalnewsnetwork.com##.Entry-infoSocial
 omannews.gov.om##.Fiction-FeedBack
 abc.net.au##.FixedHeader_shareBtn__yNush
 weather.com##.Footer--socialContainer--3z8CW
-thedailybeast.com##.Footer__socials
 i24news.tv##.Footer_social-network-links-wrapper__xN9Go
 earth.com##.Footer_social_bar__E9yGn
 ndtv.com##.FtrScl
@@ -1264,7 +1263,6 @@ irishtimes.com##.b-it-social-share-block
 |cp24.com##.b-share-bar
 |ctvnews.ca##.b-share-bar
 |irishnews.com##.b-share-bar
-|thedailybeast.com##.b-share-bar
 |tsn.ca##.b-share-bar
 protos.com##.b-sharers
 spokesman.com##.ba
@@ -3399,6 +3397,8 @@ news.sky.com##[data-component-name="sdc-article-strapline"]
 theguardian.com##[data-component="preferred-source-button-prefer"]
 latimes.com##[data-element="google-preferred-sources"]
 lifehacker.com##[data-ga-element="social-link"]
+|marketscreener.com##[data-ga_action="Google Preferred Source"]
+|zonebourse.com##[data-ga_action="Google Preferred Source"]
 cnet.com##[data-meta="footer-section-social"]
 cnet.com##[data-meta="footer-section-social"] + ul
 scmp.com##[data-qa="ArticleGoogleNewsButton-Container"]
@@ -3444,6 +3444,7 @@ hentai-moon.com##[href^="https://telegram.me/"]
 hentai-moon.com##[href^="https://twitter.com/"]
 irishnews.com##[href^="https://whatsapp.com/channel/"]
 |dataconomy.com##[href^="https://www.google.com/preferences/source"]
+|dexerto.com##[href^="https://www.google.com/preferences/source"]
 |digitaltrends.com##[href^="https://www.google.com/preferences/source"]
 |driveteslacanada.ca##[href^="https://www.google.com/preferences/source"]
 |mothership.sg##[href^="https://www.google.com/preferences/source"]
@@ -3498,6 +3499,8 @@ fortune.com#?#.info-surface:has-text(Add Fortune on Google)
 icann.org##iti-share-icons
 newscenter.lbl.gov##lbl-icon-list
 discord.me##li.menu-link.d-xl-inline-block
+|marketscreener.com#?#.c-block.btn--action--outter:has-text(Share)
+|zonebourse.com#?#.c-block.btn--action--outter:has-text(Share)
 githubstatus.com##nav[aria-label="GitHub's Social Media Links"]
 |gamesradar.com##p:has(> a[href^="https://news.google.com/publications/"])
 |guitarworld.com##p:has(> a[href^="https://news.google.com/publications/"])
