@@ -5396,7 +5396,7 @@ swig.com##[aria-label="Cookie policy banner"]
 |mrbeastjobs.com##[aria-label="Cookie preferences"]
 |swapped.com##[aria-label="Cookie preferences"]
 |umbc.edu##[aria-label="Cookie preferences"]
-kalkulatory.marciniwuc.com##[aria-label="Cookies i prywatnoÅÄ"]
+kalkulatory.marciniwuc.com##[aria-label="Cookies i prywatność"]
 |docs.nats.io##[aria-label="Cookies"]
 |ideal.house##[aria-label="Cookies"]
 khanacademy.org##[aria-label="Notification Banner"]
@@ -5405,7 +5405,7 @@ stocktwits.com##[aria-label="We Care About Your Privacy"]
 |tesco.*##[aria-label="consent-banner"]
 perlego.com##[aria-label="cookie banner"]
 app.joinknack.com##[aria-label="cookie consent banner"]
-kantan.news##[aria-label="Ãerezler ve Gizlilik"]
+kantan.news##[aria-label="Çerezler ve Gizlilik"]
 mangooutlet.com##[aria-labelledby="cbanner-title"]
 |app.wooclap.com##[aria-labelledby="cookie-banner-title"]
 |doctoralia.com.mx##[aria-labelledby="cookie-banner-title"]
@@ -10729,7 +10729,7 @@ latitudeandlongitude.net###cookiesConsentModal
 |przedawnione.pl##.spu-bg
 |przedsiebiorcza.com##.spu-bg
 |przedszkolankowo.pl##.spu-bg
-|przesyÅ-energii.pl##.spu-bg
+|przesył-energii.pl##.spu-bg
 |radiowarszawa.com.pl##.spu-bg
 |rauhanpuolustajat.org##.spu-bg
 |recreatisse.com##.spu-bg
@@ -15258,9 +15258,9 @@ eda.ru#?#.ejn6mx64.emotion-8zds09:has-text(cookies)
 etherpad.org#?#[role="dialog"]:has-text(This page uses)
 ev-mallorca.com#?#.bottom-0.fixed:has-text(This website uses cookies)
 fairwinds.org#?#.bg-white.flex-col.flex.fixed:has-text(Your Privacy is Important to Us)
-help.semmelweis.hu#?#.modal:has(h3:has-text(SÃ¼tik hasznÃ¡lata)):has(button:has-text(ElfogadÃ¡s))
+help.semmelweis.hu#?#.modal:has(h3:has-text(Sütik használata)):has(button:has-text(Elfogadás))
 hm-news.co.il#?#[data-elementor-type="popup"]:has-text(Cookies)
-hml.co.il#?#[data-elementor-type="popup"]:has-text(×¢×××××ª)
+hml.co.il#?#[data-elementor-type="popup"]:has-text(עוגיות)
 honeygain.com#?#.Wrapper--1lbmq00:has-text(This website uses cookies)
 kick.com#?#.z-modal:has-text(You are in control of cookies used)
 memefi.club#?#.MuiStack-root:has-text(Personalised ads)
@@ -15269,9 +15269,7 @@ mixcloud.com#?#[style^="--x-backgroundColor"] > [class]:has-text(Cookies)
 |rimon.net.il#?#.elementor-popup-modal:has-text(cookies)
 |spectracities.com#?#.elementor-popup-modal:has-text(cookies)
 news.abs-cbn.com#?#.MuiBox-root:has-text(Welcome,)
-noon.com#?#div[class^="_wrapper_"]:has-text(/We use cookies|ÙØ³ØªØ®Ø¯Ù
-Ù
-ÙÙØ§Øª ØªØ¹Ø±ÙÙ/)
+noon.com#?#div[class^="_wrapper_"]:has-text(/We use cookies|نستخدم ملفات تعريف/)
 payermax.com#?#.dialog:has-text(Cookies on PayerMax Website)
 planeteclipse.com#?#.notification:has-text(We use only essential cookies)
 play.google.com#?#.gb_g:has-text(cookie)
@@ -15283,7 +15281,7 @@ stations.vesselfinder.com#?#.main-footer:has-text(This website uses cookies)
 t3.chat#?#.justify-center.flex:has-text(Make sure you agree)
 tinder.com#?#.C\(\$c-ds-text-secondary\):has-text(We value your privacy.)
 twitch.tv#?#.hLgTAv:has-text(Terms of Sale)
-ura.news#?#.gR.t:has-text(Ð¡Ð°Ð¹Ñ Ð¸ÑÐ¿Ð¾Ð»ÑÐ·ÑÐµÑ cookie.)
+ura.news#?#.gR.t:has-text(Сайт использует cookie.)
 walmart.ca#?#.bottom-0.nav-clickable-padded:has-text(Your data)
 wolframalpha.com#?#section:has-text(This website uses cookies)
 x.com#?#.css-175oi2r.r-12vffkv[style^="position: absolute; bottom: 0px; width: 100%;"]:has-text(data protection)
@@ -15656,7 +15654,7 @@ ruegenwalder.de###csdialogmd2
 |urnerwanderwege.ch###ct-custom-cookie-notice
 |valrando.ch###ct-custom-cookie-notice
 |wanderwege-beider-basel.ch###ct-custom-cookie-notice
-|wanderwege-graubÃ¼nden.ch###ct-custom-cookie-notice
+|wanderwege-graubünden.ch###ct-custom-cookie-notice
 |zuercher-wanderwege.ch###ct-custom-cookie-notice
 |zugerwanderwege.ch###ct-custom-cookie-notice
 cubonic.de###cubonic-cookie-overlay
@@ -17340,10 +17338,10 @@ telia.fi##[data-component-data*="cookie-consent"]
 paivyri.fi##[style="width:100%;background-color:#F0F0F0;padding:10px;text-align:center"]
 bonusway.fi##bw-info-bar
 vertaa.fi##div > .cg-57
-|espoo.fi##div[aria-label="Denna webbplats anvÃ¤nder webbkakor"]
-|luvn.fi##div[aria-label="Denna webbplats anvÃ¤nder webbkakor"]
-|espoo.fi##div[aria-label="Sivustolla kÃ¤ytetÃ¤Ã¤n evÃ¤steitÃ¤"]
-|luvn.fi##div[aria-label="Sivustolla kÃ¤ytetÃ¤Ã¤n evÃ¤steitÃ¤"]
+|espoo.fi##div[aria-label="Denna webbplats använder webbkakor"]
+|luvn.fi##div[aria-label="Denna webbplats använder webbkakor"]
+|espoo.fi##div[aria-label="Sivustolla käytetään evästeitä"]
+|luvn.fi##div[aria-label="Sivustolla käytetään evästeitä"]
 |espoo.fi##div[aria-label="This website uses cookies"]
 |luvn.fi##div[aria-label="This website uses cookies"]
 lido.fi##div[class^="CookiesTooltipStyle_"]
@@ -17740,12 +17738,12 @@ hillula.co.il##[class^="ai-cookie-popup-"]
 alljobs.co.il##[id^="ZA_CAMP_BUBBLE_CONTAINER_CID_"]
 lastminute.co.il##app-notifications-container
 iec.co.il##app-sticky-banner
-|iwp.co.il##div[aria-label="××××¢× ×¢× ×©××××© ××¢×××××ª"]
-|walla.co.il##div[aria-label="××××¢× ×¢× ×©××××© ××¢×××××ª"]
-kamazeole.co.il##div[aria-label="××××¢×ª ×©××××© ××§××¦× Cookie"]
-|morfix.co.il##div[aria-label="××¡××× ××©××××© ××¢×××××ª"]
-|on-the-way-two.vercel.app##div[aria-label="××¡××× ××©××××© ××¢×××××ª"]
-foodiepedia.co.il##div[aria-label="×¢×××××ª"]
+|iwp.co.il##div[aria-label="הודעה על שימוש בעוגיות"]
+|walla.co.il##div[aria-label="הודעה על שימוש בעוגיות"]
+kamazeole.co.il##div[aria-label="הודעת שימוש בקבצי Cookie"]
+|morfix.co.il##div[aria-label="הסכמה לשימוש בעוגיות"]
+|on-the-way-two.vercel.app##div[aria-label="הסכמה לשימוש בעוגיות"]
+foodiepedia.co.il##div[aria-label="עוגיות"]
 nokdimapp.co.il##div[aria-labelledby="cookie-consent-title"]
 azrielimalls.co.il##div[class$="_cookies-banner"]
 hagarin.co.il##div[class^="CookieConsentBar_"]
@@ -17825,8 +17823,8 @@ hb2.bankleumi.co.il##div[data-tid="cookies-banner"]
 postalfinance.co.il##float-window-alert
 |shilav.co.il##popup-message[data-cookie-duration]
 |zurmarket.co.il##popup-message[data-cookie-duration]
-solar-portal.co.il##section[aria-label="××××¢×ª ×¤×¨××××ª ××§×××¦× Cookie"]
-tv10.co.il##section[aria-label="××¡××× ××©××××© ××¢×××××ª"]
+solar-portal.co.il##section[aria-label="הודעת פרטיות וקובצי Cookie"]
+tv10.co.il##section[aria-label="הסכמה לשימוש בעוגיות"]
 tase.co.il##tase-cookies-policy
 |alpinbike.hu###CLayer
 |belteriajtok.hu###CLayer
@@ -17927,7 +17925,7 @@ thecurrent.is##.px-40
 |kki.is##.session-text
 |stjornarradid.is##.session-text
 torshavn.fo##.sucd-banner
-arionbanki.is#?#.MuiSnackbar-anchorOriginBottomLeft:has-text(ViÃ° notum kÃ¶kur)
+arionbanki.is#?#.MuiSnackbar-anchorOriginBottomLeft:has-text(Við notum kökur)
 mohfw.gov.in##.CookieConsent
 myvi.in##.CookieConsent_cookieBox__G2Gpm
 gujaratsamachar.com##.CookiesModel

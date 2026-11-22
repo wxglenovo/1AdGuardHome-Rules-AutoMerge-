@@ -2285,11 +2285,11 @@ developer.android.com#?#.devsite-snackbar-snack:has-text(Please help us)
 www.google.*##div[jsname="wA2P2b"][data-li=""]
 google.com#?#.Ryrdad:has-text(Please help us improve)
 google.com#?#[jscontroller="HCSvae"]:has-text(/Sign in to Google|Build Android apps faster/)
-www.google.com#?#[aria-describedby="promo_desc_id"]:has-text(/Time for a new laptop|Gemini, |Choose Chrome|built by Google|Search differently|Cherchez diffÃ©remment|Search just got easier|Try more ways|Switch to Chrome|Keep things dark/)
+www.google.com#?#[aria-describedby="promo_desc_id"]:has-text(/Time for a new laptop|Gemini, |Choose Chrome|built by Google|Search differently|Cherchez différemment|Search just got easier|Try more ways|Switch to Chrome|Keep things dark/)
 youtube.com##.ytp-paid-content-overlay
 youtube.com###offer-module
 www.youtube.com#?##content > .ytd-rich-section-renderer:has-text(YouTube Playables)
-music.youtube.com#?#tp-yt-paper-dialog.ytmusic-popup-container:has-text(/Weâre listening!|family plan|Premium|ad-free|background play|kept playing|month free|without the ads|Try YouTube Music/)
+music.youtube.com#?#tp-yt-paper-dialog.ytmusic-popup-container:has-text(/We’re listening!|family plan|Premium|ad-free|background play|kept playing|month free|without the ads|Try YouTube Music/)
 www.youtube.com##tp-yt-paper-dialog.ytd-popup-container:has(> .ytd-popup-container > #options[class$="survey-renderer"])
 www.youtube.com#?#.YtdTalkToRecsFlowRendererHost:has-text(What hobbies are you interested in developing?)
 www.youtube.com#?#tp-yt-paper-dialog.ytd-popup-container:has-text(/How do you feel|Which of the following|following Premium|Get background play|Choose all that apply|Become a member of this channel|Free trial|How are your|How interested|Live TV|Wish videos|better TV|cable box|cable reimagined|hidden fees|of YouTube TV|on YouTube TV|unlimited DVR|with YouTube TV|without the ads|try this feature|Terms apply|View live scores|YouTube experience/)
@@ -8066,7 +8066,7 @@ browserstack.com#?#.custom-footer-wrapper__heading:has-text(Social)
 carnewschina.com#?#.article_detail__top_stories:has-text(Follow us for ev updates)
 cbsnews.com#?#.FooterLinks-group:has-text(Follow Us On)
 club386.com#?#.td-block-title:has-text(Share)
-clubic.com#?#[style="position: sticky; top: 55px;"]:has-text(Inscrivez-vous Ã  notre newsletter quotidienne !)
+clubic.com#?#[style="position: sticky; top: 55px;"]:has-text(Inscrivez-vous à notre newsletter quotidienne !)
 cryptotimes.io#?#.heading-title:has-text(Follow US)
 cybersecuritynews.com#?#.has-background:has-text(Follow us)
 cybersecuritynews.com#?#.tdm_block_button_simplified:has-text(Follow on LinkedIn)
@@ -12608,7 +12608,7 @@ upday.com##div[class^="ShareButton_"]
 |businessinsider.es##div[class^="social-list_"]
 |hobbyconsolas.com##div[class^="social-list_"]
 |topgear.es##div[class^="social-list_"]
-posta.com.mx##img[alt="SÃ­guenos en Google News"]
+posta.com.mx##img[alt="Síguenos en Google News"]
 15min.lt##.share--sticky
 |harpersbazaar.com.tr##.gl-btn
 |samdan.com.tr##.gl-btn
@@ -18264,7 +18264,7 @@ swig.com##[aria-label="Cookie policy banner"]
 |mrbeastjobs.com##[aria-label="Cookie preferences"]
 |swapped.com##[aria-label="Cookie preferences"]
 |umbc.edu##[aria-label="Cookie preferences"]
-kalkulatory.marciniwuc.com##[aria-label="Cookies i prywatnoÅÄ"]
+kalkulatory.marciniwuc.com##[aria-label="Cookies i prywatność"]
 |docs.nats.io##[aria-label="Cookies"]
 |ideal.house##[aria-label="Cookies"]
 khanacademy.org##[aria-label="Notification Banner"]
@@ -18273,7 +18273,7 @@ stocktwits.com##[aria-label="We Care About Your Privacy"]
 |tesco.*##[aria-label="consent-banner"]
 perlego.com##[aria-label="cookie banner"]
 app.joinknack.com##[aria-label="cookie consent banner"]
-kantan.news##[aria-label="Ãerezler ve Gizlilik"]
+kantan.news##[aria-label="Çerezler ve Gizlilik"]
 mangooutlet.com##[aria-labelledby="cbanner-title"]
 |app.wooclap.com##[aria-labelledby="cookie-banner-title"]
 |doctoralia.com.mx##[aria-labelledby="cookie-banner-title"]
@@ -23597,7 +23597,7 @@ latitudeandlongitude.net###cookiesConsentModal
 |przedawnione.pl##.spu-bg
 |przedsiebiorcza.com##.spu-bg
 |przedszkolankowo.pl##.spu-bg
-|przesyÅ-energii.pl##.spu-bg
+|przesył-energii.pl##.spu-bg
 |radiowarszawa.com.pl##.spu-bg
 |rauhanpuolustajat.org##.spu-bg
 |recreatisse.com##.spu-bg
@@ -28126,9 +28126,9 @@ eda.ru#?#.ejn6mx64.emotion-8zds09:has-text(cookies)
 etherpad.org#?#[role="dialog"]:has-text(This page uses)
 ev-mallorca.com#?#.bottom-0.fixed:has-text(This website uses cookies)
 fairwinds.org#?#.bg-white.flex-col.flex.fixed:has-text(Your Privacy is Important to Us)
-help.semmelweis.hu#?#.modal:has(h3:has-text(SÃ¼tik hasznÃ¡lata)):has(button:has-text(ElfogadÃ¡s))
+help.semmelweis.hu#?#.modal:has(h3:has-text(Sütik használata)):has(button:has-text(Elfogadás))
 hm-news.co.il#?#[data-elementor-type="popup"]:has-text(Cookies)
-hml.co.il#?#[data-elementor-type="popup"]:has-text(×¢×××××ª)
+hml.co.il#?#[data-elementor-type="popup"]:has-text(עוגיות)
 honeygain.com#?#.Wrapper--1lbmq00:has-text(This website uses cookies)
 kick.com#?#.z-modal:has-text(You are in control of cookies used)
 memefi.club#?#.MuiStack-root:has-text(Personalised ads)
@@ -28137,9 +28137,7 @@ mixcloud.com#?#[style^="--x-backgroundColor"] > [class]:has-text(Cookies)
 |rimon.net.il#?#.elementor-popup-modal:has-text(cookies)
 |spectracities.com#?#.elementor-popup-modal:has-text(cookies)
 news.abs-cbn.com#?#.MuiBox-root:has-text(Welcome,)
-noon.com#?#div[class^="_wrapper_"]:has-text(/We use cookies|ÙØ³ØªØ®Ø¯Ù
-Ù
-ÙÙØ§Øª ØªØ¹Ø±ÙÙ/)
+noon.com#?#div[class^="_wrapper_"]:has-text(/We use cookies|نستخدم ملفات تعريف/)
 payermax.com#?#.dialog:has-text(Cookies on PayerMax Website)
 planeteclipse.com#?#.notification:has-text(We use only essential cookies)
 play.google.com#?#.gb_g:has-text(cookie)
@@ -28151,7 +28149,7 @@ stations.vesselfinder.com#?#.main-footer:has-text(This website uses cookies)
 t3.chat#?#.justify-center.flex:has-text(Make sure you agree)
 tinder.com#?#.C\(\$c-ds-text-secondary\):has-text(We value your privacy.)
 twitch.tv#?#.hLgTAv:has-text(Terms of Sale)
-ura.news#?#.gR.t:has-text(Ð¡Ð°Ð¹Ñ Ð¸ÑÐ¿Ð¾Ð»ÑÐ·ÑÐµÑ cookie.)
+ura.news#?#.gR.t:has-text(Сайт использует cookie.)
 walmart.ca#?#.bottom-0.nav-clickable-padded:has-text(Your data)
 wolframalpha.com#?#section:has-text(This website uses cookies)
 x.com#?#.css-175oi2r.r-12vffkv[style^="position: absolute; bottom: 0px; width: 100%;"]:has-text(data protection)
@@ -36263,7 +36261,7 @@ cursr.app##.cdk-overlay-container
 |heikkala.com##+js(rc, wcc-popup-overflow, body, stay)
 |hermesit.net##+js(rc, wcc-popup-overflow, body, stay)
 |hotspring.be##+js(rc, wcc-popup-overflow, body, stay)
-|inkomstfÃ¶rsÃ¤kring.se##+js(rc, wcc-popup-overflow, body, stay)
+|inkomstförsäkring.se##+js(rc, wcc-popup-overflow, body, stay)
 |innohome.com##+js(rc, wcc-popup-overflow, body, stay)
 |klinger.fi##+js(rc, wcc-popup-overflow, body, stay)
 |londonwomenscentre.co.uk##+js(rc, wcc-popup-overflow, body, stay)
@@ -36314,7 +36312,7 @@ cursr.app##.cdk-overlay-container
 |heikkala.com##.wcc-overlay
 |hermesit.net##.wcc-overlay
 |hotspring.be##.wcc-overlay
-|inkomstfÃ¶rsÃ¤kring.se##.wcc-overlay
+|inkomstförsäkring.se##.wcc-overlay
 |innohome.com##.wcc-overlay
 |klinger.fi##.wcc-overlay
 |londonwomenscentre.co.uk##.wcc-overlay
@@ -36365,7 +36363,7 @@ cursr.app##.cdk-overlay-container
 |heikkala.com##.wcc-popup-center
 |hermesit.net##.wcc-popup-center
 |hotspring.be##.wcc-popup-center
-|inkomstfÃ¶rsÃ¤kring.se##.wcc-popup-center
+|inkomstförsäkring.se##.wcc-popup-center
 |innohome.com##.wcc-popup-center
 |klinger.fi##.wcc-popup-center
 |londonwomenscentre.co.uk##.wcc-popup-center
@@ -39560,7 +39558,7 @@ ruegenwalder.de###csdialogmd2
 |urnerwanderwege.ch###ct-custom-cookie-notice
 |valrando.ch###ct-custom-cookie-notice
 |wanderwege-beider-basel.ch###ct-custom-cookie-notice
-|wanderwege-graubÃ¼nden.ch###ct-custom-cookie-notice
+|wanderwege-graubünden.ch###ct-custom-cookie-notice
 |zuercher-wanderwege.ch###ct-custom-cookie-notice
 |zugerwanderwege.ch###ct-custom-cookie-notice
 cubonic.de###cubonic-cookie-overlay
@@ -41244,10 +41242,10 @@ telia.fi##[data-component-data*="cookie-consent"]
 paivyri.fi##[style="width:100%;background-color:#F0F0F0;padding:10px;text-align:center"]
 bonusway.fi##bw-info-bar
 vertaa.fi##div > .cg-57
-|espoo.fi##div[aria-label="Denna webbplats anvÃ¤nder webbkakor"]
-|luvn.fi##div[aria-label="Denna webbplats anvÃ¤nder webbkakor"]
-|espoo.fi##div[aria-label="Sivustolla kÃ¤ytetÃ¤Ã¤n evÃ¤steitÃ¤"]
-|luvn.fi##div[aria-label="Sivustolla kÃ¤ytetÃ¤Ã¤n evÃ¤steitÃ¤"]
+|espoo.fi##div[aria-label="Denna webbplats använder webbkakor"]
+|luvn.fi##div[aria-label="Denna webbplats använder webbkakor"]
+|espoo.fi##div[aria-label="Sivustolla käytetään evästeitä"]
+|luvn.fi##div[aria-label="Sivustolla käytetään evästeitä"]
 |espoo.fi##div[aria-label="This website uses cookies"]
 |luvn.fi##div[aria-label="This website uses cookies"]
 lido.fi##div[class^="CookiesTooltipStyle_"]
@@ -41644,12 +41642,12 @@ hillula.co.il##[class^="ai-cookie-popup-"]
 alljobs.co.il##[id^="ZA_CAMP_BUBBLE_CONTAINER_CID_"]
 lastminute.co.il##app-notifications-container
 iec.co.il##app-sticky-banner
-|iwp.co.il##div[aria-label="××××¢× ×¢× ×©××××© ××¢×××××ª"]
-|walla.co.il##div[aria-label="××××¢× ×¢× ×©××××© ××¢×××××ª"]
-kamazeole.co.il##div[aria-label="××××¢×ª ×©××××© ××§××¦× Cookie"]
-|morfix.co.il##div[aria-label="××¡××× ××©××××© ××¢×××××ª"]
-|on-the-way-two.vercel.app##div[aria-label="××¡××× ××©××××© ××¢×××××ª"]
-foodiepedia.co.il##div[aria-label="×¢×××××ª"]
+|iwp.co.il##div[aria-label="הודעה על שימוש בעוגיות"]
+|walla.co.il##div[aria-label="הודעה על שימוש בעוגיות"]
+kamazeole.co.il##div[aria-label="הודעת שימוש בקבצי Cookie"]
+|morfix.co.il##div[aria-label="הסכמה לשימוש בעוגיות"]
+|on-the-way-two.vercel.app##div[aria-label="הסכמה לשימוש בעוגיות"]
+foodiepedia.co.il##div[aria-label="עוגיות"]
 nokdimapp.co.il##div[aria-labelledby="cookie-consent-title"]
 azrielimalls.co.il##div[class$="_cookies-banner"]
 hagarin.co.il##div[class^="CookieConsentBar_"]
@@ -41729,8 +41727,8 @@ hb2.bankleumi.co.il##div[data-tid="cookies-banner"]
 postalfinance.co.il##float-window-alert
 |shilav.co.il##popup-message[data-cookie-duration]
 |zurmarket.co.il##popup-message[data-cookie-duration]
-solar-portal.co.il##section[aria-label="××××¢×ª ×¤×¨××××ª ××§×××¦× Cookie"]
-tv10.co.il##section[aria-label="××¡××× ××©××××© ××¢×××××ª"]
+solar-portal.co.il##section[aria-label="הודעת פרטיות וקובצי Cookie"]
+tv10.co.il##section[aria-label="הסכמה לשימוש בעוגיות"]
 tase.co.il##tase-cookies-policy
 |alpinbike.hu###CLayer
 |belteriajtok.hu###CLayer
@@ -41831,7 +41829,7 @@ thecurrent.is##.px-40
 |kki.is##.session-text
 |stjornarradid.is##.session-text
 torshavn.fo##.sucd-banner
-arionbanki.is#?#.MuiSnackbar-anchorOriginBottomLeft:has-text(ViÃ° notum kÃ¶kur)
+arionbanki.is#?#.MuiSnackbar-anchorOriginBottomLeft:has-text(Við notum kökur)
 mohfw.gov.in##.CookieConsent
 myvi.in##.CookieConsent_cookieBox__G2Gpm
 gujaratsamachar.com##.CookiesModel
@@ -50556,7 +50554,7 @@ thebrakereport.com#?#.has-palette-color-6-color:has-text(Sign up)
 thecooldown.com#?#.has-medium-font-size:has-text(Join our free newsletter)
 theguardian.com#?#.dcr-1mt0mpc:has-text(Sign up)
 theguardian.com#?#[data-testid="contributions-liveblog-epic"]:has-text(daily newsletter)
-theinformation.com#?#.bottom-0:has-text(/Join now to read full articles|Save 25% on reporting you wonât find anywhere else/)
+theinformation.com#?#.bottom-0:has-text(/Join now to read full articles|Save 25% on reporting you won’t find anywhere else/)
 themirror.com#?#.factbox:has-text(Sign up)
 thenewlede.org#?#.widget_custom_html:has-text(newsletter)
 theplaylist.net#?#.td_block_template_8:has-text(NEWSLETTER)
@@ -56202,7 +56200,7 @@ snkrdunk.com##a.d-block[href="https://snkrdunkapp.page.link/ZwvZ"]
 yhteishyva.fi##a[href="http://go.yhteishyva.fi/app"]
 snkrdunk.com##app-banner
 ups.com##app-promotion-popup
-homes.co.jp##aside[aria-label="LIFULL HOME'S ç¡æã¢ããªã§ãã£ã¨ä¾¿å©ã«"]
+homes.co.jp##aside[aria-label="LIFULL HOME'S 無料アプリでもっと便利に"]
 google.*##body > div[style="min-height: 100%; display: none;"] + div[style="visibility: visible;"] > div[jsowner]
 reddit.com##bottom-bar[app-link-params]
 areena.yle.fi##button[aria-label="Jaa ohjelma"]
@@ -56895,12 +56893,6 @@ mobi24.net#@#a[href^="https://www.mobi24.net/"]
 /module.popup-age-confirmation.min.js
 /plugins/age-verification-popup-for-woocommerce/*
 /plugins/wps-disclaimer/public/assets/js/disclaimer.js
-||agechecker.net^$third-party
-||ageverif.com^$third-party
-||av-northern-apps.com/js/agecheckerplus_
-||lifteragecheck.com^$third-party
-||static.elfsight.com/apps/age-verification/
-||zooomyapps.com/age/ZooomyAgeVerify.js
 ||editmysite.com/app/marketing/js/dist/lead$script,domain=blueandwhitebottleshop.com|weebly.com
 fcutrecht.net###popup-overlay
 |7games.bet.br##.content-manager.popup-holder-f-bc.popup-holder-bc
@@ -57118,6 +57110,12 @@ shoptheking.us##.popup-wrap
 vapetyson.com##.section-pd-age-gate
 relxnow.com##age-modal
 hypnoticherb.com##mkp-age-verification-popup
+||agechecker.net^$third-party
+||ageverif.com^$third-party
+||av-northern-apps.com/js/agecheckerplus_
+||lifteragecheck.com^$third-party
+||static.elfsight.com/apps/age-verification/
+||zooomyapps.com/age/ZooomyAgeVerify.js
 reddit.com##+js(rc, thumbnail-blur, , stay)
 reddit.com##+js(set-cookie, over18, 1)
 beyblade.com##+js(set-cookie, underage, false, , reload, 1)
