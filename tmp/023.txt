@@ -12882,7 +12882,6 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 -cookie-banner.
 -cookie-cnil.
 -cookie-consent-$~script
--cookie-consent.$~script,domain=~django-cookie-consent.readthedocs.io
 -cookie-consent.js
 -cookie-dialog.
 -cookie-filter/$script
@@ -46103,7 +46102,6 @@ yoigo.com#@#thor-cookies
 @@||caib.es/webgoib/o/goib-theme/js/klaro-config.js$~third-party
 @@||candidat.pole-emploi.fr^*/modules/jquery-eu-cookie-law-popup.js$script
 @@||cashyo.co.il/js/CookieJar.js$script,~third-party
-@@||catalog.ngc.nvidia.com/action/set-cookie-consent.data$xmlhttprequest
 @@||cdn.orangeclickmedia.com/tech/$script,domain=flash.gr
 @@||cdn.rp.pl/cmp/cmp.min.js
 @@||cdn.transcend.io/cm/$script,domain=outlier.org|pluralsight.com|visible.com
