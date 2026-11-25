@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-11-25T08:12:54.134Z
+🚫 去掉注释行: ! Last modified: 2026-11-25T18:11:23.183Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -1677,10 +1677,10 @@
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
 🚫 去掉注释行: !Total lines: 97166
-🚫 去掉注释行: ! Checksum: dAFz/PGfmEcfzEaE5jfR1w
-🚫 去掉注释行: ! Version: 202611250832
+🚫 去掉注释行: ! Checksum: E0DwUcDz3RKJIWACMx8RIQ
+🚫 去掉注释行: ! Version: 202611251843
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 25 Nov 2026 08:32 UTC
+🚫 去掉注释行: ! Last modified: 25 Nov 2026 18:43 UTC
 🚫 去掉注释行: ! Expires: 12 hours (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -24269,10 +24269,11 @@
 ✅ 多域名拆分: bravoteens.com,bravotube.net##.good_list_wrap
     → |bravoteens.com##.good_list_wrap
     → |bravotube.net##.good_list_wrap
-✅ 多域名拆分: ashemaletube.com,boyfriendtv.com,fetishpapa.com##.grid:has(a[href*="faphouse.com"])
+✅ 多域名拆分: ashemaletube.com,boyfriendtv.com,fetishpapa.com,pornoxo.com##.grid:has(a[href*="faphouse.com"])
     → |ashemaletube.com##.grid:has(a[href*="faphouse.com"])
     → |boyfriendtv.com##.grid:has(a[href*="faphouse.com"])
     → |fetishpapa.com##.grid:has(a[href*="faphouse.com"])
+    → |pornoxo.com##.grid:has(a[href*="faphouse.com"])
 ✅ 多域名拆分: homejav.com,kbjfree.com,onscreens.me,xmorex.com,xsz-av.com##.h-\[250px\]
     → |homejav.com##.h-\[250px\]
     → |kbjfree.com##.h-\[250px\]
@@ -24566,10 +24567,11 @@
     → |pornstarwarshentai.com##.right
     → |porntop.com##.right
     → |xnxx.army##.right
-✅ 多域名拆分: ashemaletube.com,boyfriendtv.com,fetishpapa.com##.right-rail-block
+✅ 多域名拆分: ashemaletube.com,boyfriendtv.com,fetishpapa.com,pornoxo.com##.right-rail-block
     → |ashemaletube.com##.right-rail-block
     → |boyfriendtv.com##.right-rail-block
     → |fetishpapa.com##.right-rail-block
+    → |pornoxo.com##.right-rail-block
 ✅ 多域名拆分: porn.com,pussy.org##.rmedia
     → |porn.com##.rmedia
     → |pussy.org##.rmedia
@@ -25083,10 +25085,11 @@
     → |tube8vip.com##a[href*="?ats="]
     → |xozilla.com##a[href*="?ats="]
     → |xxxymovies.com##a[href*="?ats="]
-✅ 多域名拆分: ashemaletube.com,boyfriendtv.com,fetishpapa.com##a[href*="faphouse.com"]
+✅ 多域名拆分: ashemaletube.com,boyfriendtv.com,fetishpapa.com,pornoxo.com##a[href*="faphouse.com"]
     → |ashemaletube.com##a[href*="faphouse.com"]
     → |boyfriendtv.com##a[href*="faphouse.com"]
     → |fetishpapa.com##a[href*="faphouse.com"]
+    → |pornoxo.com##a[href*="faphouse.com"]
 ✅ 多域名拆分: adultfilmdatabase.com,analegg.com,animeidhentai.com,babeforums.org,camvideos.tv,camwhores.tv,coomer.st,erothots.co,f95zone.to,familypornhd.com,fritchy.com,gifsauce.com,hentai2read.com,hotpornfile.org,hpjav.com,imagebam.com,imgbox.com,imgtaxi.com,kemono.cr,muchohentai.com,myporn.club,official.coomer.com.co,pandamovies.pw,planetsuzy.org,porntrex.com,pussyspace.com,sendvid.com,sextvx.com,simpcity.cr,socialmediagirls.com,thefappeningblog.com,vintage-erotica-forum.com,vipergirls.to,xfantazy.com##a[href*="theporndude.com"]
     → |adultfilmdatabase.com##a[href*="theporndude.com"]
     → |analegg.com##a[href*="theporndude.com"]
@@ -25357,6 +25360,9 @@
     → |youjizz.com##:-abp-properties(image/)
     → |youporn.com##:-abp-properties(image/)
 🚫 去掉注释行: ! ABP CSS injection filters
+✅ 多域名拆分: ashemaletube.com,boyfriendtv.com#?#head > style:-abp-contains(page-shell) {remove:true;}
+    → |ashemaletube.com#?#head > style:-abp-contains(page-shell) {remove:true;}
+    → |boyfriendtv.com#?#head > style:-abp-contains(page-shell) {remove:true;}
 🚫 去掉注释行: ! 69games.xxx/gamcore/porcore.com
 ✅ 多域名拆分: 69games.xxx,gamcore.com###tvnotice
     → |69games.xxx###tvnotice
@@ -25393,10 +25399,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: olB4dz9cpA+wqcaPXuZwPQ
-🚫 去掉注释行: ! Version: 202611250832
+🚫 去掉注释行: ! Checksum: 7y/7TN9oW5W/2iiJ4gG1rQ
+🚫 去掉注释行: ! Version: 202611251843
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 25 Nov 2026 08:32 UTC
+🚫 去掉注释行: ! Last modified: 25 Nov 2026 18:43 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -28744,10 +28750,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: 8jo3o1ikKy4Gi1VTyYPpOw
-🚫 去掉注释行: ! Version: 202611250832
+🚫 去掉注释行: ! Checksum: DKicQNeet/VlFlfgCpIlFA
+🚫 去掉注释行: ! Version: 202611251843
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 25 Nov 2026 08:32 UTC
+🚫 去掉注释行: ! Last modified: 25 Nov 2026 18:43 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29428,11 +29434,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202611250823
+🚫 去掉注释行: ! Version: 202611251846
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 25 Nov 2026 08:23 UTC
+🚫 去掉注释行: ! Last modified: 25 Nov 2026 18:46 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: d6a1572130cf450fcf43d043044414801016642b
+🚫 去掉注释行: ! Commit: 8ec4e85ead350e87626eda29c45f318a4c8dfcae
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -52031,10 +52037,11 @@
 ✅ 多域名拆分: bravoteens.com,bravotube.net##.good_list_wrap
     → |bravoteens.com##.good_list_wrap
     → |bravotube.net##.good_list_wrap
-✅ 多域名拆分: ashemaletube.com,boyfriendtv.com,fetishpapa.com##.grid:has(a[href*="faphouse.com"])
+✅ 多域名拆分: ashemaletube.com,boyfriendtv.com,fetishpapa.com,pornoxo.com##.grid:has(a[href*="faphouse.com"])
     → |ashemaletube.com##.grid:has(a[href*="faphouse.com"])
     → |boyfriendtv.com##.grid:has(a[href*="faphouse.com"])
     → |fetishpapa.com##.grid:has(a[href*="faphouse.com"])
+    → |pornoxo.com##.grid:has(a[href*="faphouse.com"])
 ✅ 多域名拆分: homejav.com,kbjfree.com,onscreens.me,xmorex.com,xsz-av.com##.h-\[250px\]
     → |homejav.com##.h-\[250px\]
     → |kbjfree.com##.h-\[250px\]
@@ -52328,10 +52335,11 @@
     → |pornstarwarshentai.com##.right
     → |porntop.com##.right
     → |xnxx.army##.right
-✅ 多域名拆分: ashemaletube.com,boyfriendtv.com,fetishpapa.com##.right-rail-block
+✅ 多域名拆分: ashemaletube.com,boyfriendtv.com,fetishpapa.com,pornoxo.com##.right-rail-block
     → |ashemaletube.com##.right-rail-block
     → |boyfriendtv.com##.right-rail-block
     → |fetishpapa.com##.right-rail-block
+    → |pornoxo.com##.right-rail-block
 ✅ 多域名拆分: porn.com,pussy.org##.rmedia
     → |porn.com##.rmedia
     → |pussy.org##.rmedia
@@ -52845,10 +52853,11 @@
     → |tube8vip.com##a[href*="?ats="]
     → |xozilla.com##a[href*="?ats="]
     → |xxxymovies.com##a[href*="?ats="]
-✅ 多域名拆分: ashemaletube.com,boyfriendtv.com,fetishpapa.com##a[href*="faphouse.com"]
+✅ 多域名拆分: ashemaletube.com,boyfriendtv.com,fetishpapa.com,pornoxo.com##a[href*="faphouse.com"]
     → |ashemaletube.com##a[href*="faphouse.com"]
     → |boyfriendtv.com##a[href*="faphouse.com"]
     → |fetishpapa.com##a[href*="faphouse.com"]
+    → |pornoxo.com##a[href*="faphouse.com"]
 ✅ 多域名拆分: adultfilmdatabase.com,analegg.com,animeidhentai.com,babeforums.org,camvideos.tv,camwhores.tv,coomer.st,erothots.co,f95zone.to,familypornhd.com,fritchy.com,gifsauce.com,hentai2read.com,hotpornfile.org,hpjav.com,imagebam.com,imgbox.com,imgtaxi.com,kemono.cr,muchohentai.com,myporn.club,official.coomer.com.co,pandamovies.pw,planetsuzy.org,porntrex.com,pussyspace.com,sendvid.com,sextvx.com,simpcity.cr,socialmediagirls.com,thefappeningblog.com,vintage-erotica-forum.com,vipergirls.to,xfantazy.com##a[href*="theporndude.com"]
     → |adultfilmdatabase.com##a[href*="theporndude.com"]
     → |analegg.com##a[href*="theporndude.com"]
@@ -53121,6 +53130,9 @@
     → |youjizz.com##:-abp-properties(image/)
     → |youporn.com##:-abp-properties(image/)
 🚫 去掉注释行: ! ABP CSS injection filters
+✅ 多域名拆分: ashemaletube.com,boyfriendtv.com#?#head > style:-abp-contains(page-shell) {remove:true;}
+    → |ashemaletube.com#?#head > style:-abp-contains(page-shell) {remove:true;}
+    → |boyfriendtv.com#?#head > style:-abp-contains(page-shell) {remove:true;}
 🚫 去掉注释行: ! 69games.xxx/gamcore/porcore.com
 ✅ 多域名拆分: 69games.xxx,gamcore.com###tvnotice
     → |69games.xxx###tvnotice
@@ -53180,11 +53192,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202611250823
+🚫 去掉注释行: ! Version: 202611251846
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 25 Nov 2026 08:23 UTC
+🚫 去掉注释行: ! Last modified: 25 Nov 2026 18:46 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: d6a1572130cf450fcf43d043044414801016642b
+🚫 去掉注释行: ! Commit: 8ec4e85ead350e87626eda29c45f318a4c8dfcae
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -69662,10 +69674,10 @@
 🚫 去掉注释行: ! Issues: https://github.com/hagezi/dns-blocklists/issues
 🚫 去掉注释行: ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 🚫 去掉注释行: ! Expires: 8 hours
-🚫 去掉注释行: ! Last modified: 24 Nov 2026 23:20 UTC
-🚫 去掉注释行: ! Version: 2026.1124.2320.06
+🚫 去掉注释行: ! Last modified: 25 Nov 2026 16:30 UTC
+🚫 去掉注释行: ! Version: 2026.1125.1630.46
 🚫 去掉注释行: ! Syntax: AdBlock
-🚫 去掉注释行: ! Number of entries: 85415
+🚫 去掉注释行: ! Number of entries: 85887
 🚫 去掉注释行: !
 🚫 去掉注释行: !Title: anti-AD for AdGuard
 🚫 去掉注释行: !Version: 20261122234222492443010
@@ -69686,8 +69698,8 @@
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL%203.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA%204.0
-🚫 去掉注释行: !Generated: 2026-11-25 10:58:36 +08
-🚫 去掉注释行: !RuleCount: 902011
+🚫 去掉注释行: !Generated: 2026-11-25 20:34:35 +08
+🚫 去掉注释行: !RuleCount: 902061
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
@@ -155647,10 +155659,10 @@
 🚫 去掉注释行: ! Blocked domains: 8480
 🚫 去掉注释行: ! unBlocked domains: 16
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: SR48UL4l8GW0BQof1jKHbw
-🚫 去掉注释行: ! Version: 202611250035
+🚫 去掉注释行: ! Checksum: lT4FyQtNoE21ty9oq2qX5g
+🚫 去掉注释行: ! Version: 202611251135
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-11-25 00:35 UTC
+🚫 去掉注释行: ! Last modified: 2026-11-25 11:35 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -223115,9 +223127,9 @@
 🚫 去掉注释行: ! 5kporn.com
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: 06IZ4B/nblLGAkyiNdiJGQ
+🚫 去掉注释行: ! Checksum: iGmAQUIVZacoAssmoZc+rQ
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Last modified: 2026-11-25 00:35 UTC
+🚫 去掉注释行: ! Last modified: 2026-11-25 11:35 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
@@ -254180,8 +254192,8 @@
 🚫 去掉注释行: #
 🚫 去掉注释行: # For more information about this list, see: https://pgl.yoyo.org/adservers/
 🚫 去掉注释行: # ----
-🚫 去掉注释行: # last updated:   Sun, 22 Nov 2026 23:58:03 GMT
-🚫 去掉注释行: # entries:        3557
+🚫 去掉注释行: # last updated:   Wed, 25 Nov 2026 11:58:27 GMT
+🚫 去掉注释行: # entries:        3558
 🚫 去掉注释行: # format:         hosts (hosts -- in hosts file format)
 🚫 去掉注释行: # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 🚫 去掉注释行: # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
@@ -257373,6 +257385,7 @@
 ✅ HOSTS 转换: 127.0.0.1 tics.techdirt.com → |tics.techdirt.com^
 ✅ HOSTS 转换: 127.0.0.1 tidaltv.com → |tidaltv.com^
 ✅ HOSTS 转换: 127.0.0.1 tidysprite.com → |tidysprite.com^
+✅ HOSTS 转换: 127.0.0.1 timeprince.com → |timeprince.com^
 ✅ HOSTS 转换: 127.0.0.1 tinybar.com → |tinybar.com^
 ✅ HOSTS 转换: 127.0.0.1 tinybluewhale.com → |tinybluewhale.com^
 ✅ HOSTS 转换: 127.0.0.1 tinytendency.com → |tinytendency.com^
