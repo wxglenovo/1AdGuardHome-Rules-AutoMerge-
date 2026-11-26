@@ -3,7 +3,7 @@
 🚫 去掉注释行: ! Description: Filter composed of several other filters (AdGuard Base filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 🚫 去掉注释行: ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 🚫 去掉注释行: ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-🚫 去掉注释行: ! Last modified: 2026-11-25T18:11:23.183Z
+🚫 去掉注释行: ! Last modified: 2026-11-26T00:24:49.684Z
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Compiled by @adguard/hostlist-compiler v2.1.0
 🚫 去掉注释行: !
@@ -1672,15 +1672,15 @@
 🚫 去掉注释行: ! Watson News App for iOS https://github.com/AdguardTeam/AdguardFilters/issues/4524
 🚫 去掉注释行: ! Fixing Walmart
 🚫 去掉注释行: !Title: anti-AD
-🚫 去掉注释行: !Version: 20261123074221
+🚫 去掉注释行: !Version: 20261126095244
 🚫 去掉注释行: !Homepage: https://github.com/privacy-protection-tools/anti-AD
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
-🚫 去掉注释行: !Total lines: 97166
-🚫 去掉注释行: ! Checksum: E0DwUcDz3RKJIWACMx8RIQ
-🚫 去掉注释行: ! Version: 202611251843
+🚫 去掉注释行: !Total lines: 96458
+🚫 去掉注释行: ! Checksum: 2M1OBCuIm7N02WvQnYpgEQ
+🚫 去掉注释行: ! Version: 202611260152
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 25 Nov 2026 18:43 UTC
+🚫 去掉注释行: ! Last modified: 26 Nov 2026 01:52 UTC
 🚫 去掉注释行: ! Expires: 12 hours (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -25399,10 +25399,10 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Checksum: 7y/7TN9oW5W/2iiJ4gG1rQ
-🚫 去掉注释行: ! Version: 202611251843
+🚫 去掉注释行: ! Checksum: PdOi7dsA6WW8gkiytxyRaQ
+🚫 去掉注释行: ! Version: 202611260152
 🚫 去掉注释行: ! Title: EasyList China
-🚫 去掉注释行: ! Last modified: 25 Nov 2026 18:43 UTC
+🚫 去掉注释行: ! Last modified: 26 Nov 2026 01:52 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://github.com/easylist/easylistchina/
 🚫 去掉注释行: !
@@ -28750,10 +28750,10 @@
 🚫 去掉注释行: !-------------------------------Fixed EasyPrivacy-----------------------------!
 🚫 去掉注释行: !---------------------------------Temporary-----------------------------------!
 🚫 去掉注释行: !----------------------------------The End------------------------------------!
-🚫 去掉注释行: ! Checksum: DKicQNeet/VlFlfgCpIlFA
-🚫 去掉注释行: ! Version: 202611251843
+🚫 去掉注释行: ! Checksum: y/hPtRHpT3m2+EbialtxZg
+🚫 去掉注释行: ! Version: 202611260152
 🚫 去掉注释行: ! Title: EasyPrivacy
-🚫 去掉注释行: ! Last modified: 25 Nov 2026 18:43 UTC
+🚫 去掉注释行: ! Last modified: 26 Nov 2026 01:52 UTC
 🚫 去掉注释行: ! Expires: 1 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! Licence: https://easylist.to/pages/licence.html
@@ -29434,11 +29434,11 @@
 🚫 去掉注释行: !
 🚫 去掉注释行: !---------- Anti-Adblock ----------
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Version: 202611251846
+🚫 去掉注释行: ! Version: 202611260148
 🚫 去掉注释行: ! Title: EasyList
-🚫 去掉注释行: ! Last modified: 25 Nov 2026 18:46 UTC
+🚫 去掉注释行: ! Last modified: 26 Nov 2026 01:48 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 8ec4e85ead350e87626eda29c45f318a4c8dfcae
+🚫 去掉注释行: ! Commit: 0174c6d4b1ed3e4b18abe0f1a1b8ebf44b5c5e50
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -53192,11 +53192,11 @@
 🚫 去掉注释行: ! xhamster
 🚫 去掉注释行: ! Anti-Adblock
 🚫 去掉注释行: ! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
-🚫 去掉注释行: ! Version: 202611251846
+🚫 去掉注释行: ! Version: 202611260153
 🚫 去掉注释行: ! Title: Fanboy's Social Blocking List
-🚫 去掉注释行: ! Last modified: 25 Nov 2026 18:46 UTC
+🚫 去掉注释行: ! Last modified: 26 Nov 2026 01:53 UTC
 🚫 去掉注释行: ! Expires: 4 days (update frequency)
-🚫 去掉注释行: ! Commit: 8ec4e85ead350e87626eda29c45f318a4c8dfcae
+🚫 去掉注释行: ! Commit: 328a026678b97be810da1e62195057d43c19f42c
 🚫 去掉注释行: ! *** easylist:template_header.txt ***
 🚫 去掉注释行: !
 🚫 去掉注释行: ! Please report any unblocked adverts or problems
@@ -63517,10 +63517,11 @@
 ✅ 多域名拆分: theverge.com,vox.com##.duet--article--share-buttons
     → |theverge.com##.duet--article--share-buttons
     → |vox.com##.duet--article--share-buttons
-✅ 多域名拆分: dailyboulder.com,echonewshub.com,jugomobile.com,thartribune.com,thedailyadda.com,thegamepost.com,townflex.com##.e-shared-sec
+✅ 多域名拆分: dailyboulder.com,echonewshub.com,jugomobile.com,scienceinhand.com,thartribune.com,thedailyadda.com,thegamepost.com,townflex.com##.e-shared-sec
     → |dailyboulder.com##.e-shared-sec
     → |echonewshub.com##.e-shared-sec
     → |jugomobile.com##.e-shared-sec
+    → |scienceinhand.com##.e-shared-sec
     → |thartribune.com##.e-shared-sec
     → |thedailyadda.com##.e-shared-sec
     → |thegamepost.com##.e-shared-sec
@@ -63786,6 +63787,9 @@
 ✅ 多域名拆分: levernews.com,overkill.wtf##.kg-callout-card-blue
     → |levernews.com##.kg-callout-card-blue
     → |overkill.wtf##.kg-callout-card-blue
+✅ 多域名拆分: scienceinhand.com,thedailyadda.com##.l-shared-sec
+    → |scienceinhand.com##.l-shared-sec
+    → |thedailyadda.com##.l-shared-sec
 ✅ 多域名拆分: mmoga.co.uk,mmoga.com,mmoga.de,mmoga.es,mmoga.fr,mmoga.se##.likeBtn
     → |mmoga.co.uk##.likeBtn
     → |mmoga.com##.likeBtn
@@ -69674,32 +69678,32 @@
 🚫 去掉注释行: ! Issues: https://github.com/hagezi/dns-blocklists/issues
 🚫 去掉注释行: ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 🚫 去掉注释行: ! Expires: 8 hours
-🚫 去掉注释行: ! Last modified: 25 Nov 2026 16:30 UTC
-🚫 去掉注释行: ! Version: 2026.1125.1630.46
+🚫 去掉注释行: ! Last modified: 25 Nov 2026 23:23 UTC
+🚫 去掉注释行: ! Version: 2026.1125.2323.27
 🚫 去掉注释行: ! Syntax: AdBlock
-🚫 去掉注释行: ! Number of entries: 85887
+🚫 去掉注释行: ! Number of entries: 84559
 🚫 去掉注释行: !
 🚫 去掉注释行: !Title: anti-AD for AdGuard
-🚫 去掉注释行: !Version: 20261122234222492443010
-🚫 去掉注释行: !Last modified: Sun Nov 22 23:42:22 UTC 2026
-🚫 去掉注释行: !Updated: 2026-11-22T23:42:22+00:00
+🚫 去掉注释行: !Version: 20261126015246022680601
+🚫 去掉注释行: !Last modified: Thu Nov 26 01:52:46 UTC 2026
+🚫 去掉注释行: !Updated: 2026-11-26T01:52:46+00:00
 🚫 去掉注释行: !Expires: 4 days
 🚫 去掉注释行: !Homepage: https://anti-ad.net/
 🚫 去掉注释行: !!!note! If you are using "AdGuard Home", please load https://anti-ad.net/easylist.txt
-🚫 去掉注释行: !Total lines: 102748
+🚫 去掉注释行: !Total lines: 102038
 🚫 去掉注释行: !Title: anti-AD
-🚫 去掉注释行: !Version: 20261123074221
+🚫 去掉注释行: !Version: 20261126095244
 🚫 去掉注释行: !Homepage: https://github.com/privacy-protection-tools/anti-AD
 🚫 去掉注释行: !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 🚫 去掉注释行: !!!This list only applies to "AdGuard Home".
-🚫 去掉注释行: !Total lines: 97166
+🚫 去掉注释行: !Total lines: 96458
 🚫 去掉注释行: !Title: Adblock-Rule-Collection-DNS
 🚫 去掉注释行: !Description: 一个汇总了多个DNS过滤器规则的DNS过滤器，每20分钟更新一次，确保即时同步上游减少误杀
 🚫 去掉注释行: !Homepage: https://github.com/REIJI007/Adblock-Rule-Collection
 🚫 去掉注释行: !LICENSE1: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-GPL%203.0
 🚫 去掉注释行: !LICENSE2: https://github.com/REIJI007/Adblock-Rule-Collection/blob/main/LICENSE-CC-BY-NC-SA%204.0
-🚫 去掉注释行: !Generated: 2026-11-25 20:34:35 +08
-🚫 去掉注释行: !RuleCount: 902061
+🚫 去掉注释行: !Generated: 2026-11-26 05:59:16 +08
+🚫 去掉注释行: !RuleCount: 902124
 🚫 去掉注释行: # Title: StevenBlack/hosts
 🚫 去掉注释行: #
 🚫 去掉注释行: # This hosts file is a merged collection of hosts from reputable sources,
@@ -155659,10 +155663,10 @@
 🚫 去掉注释行: ! Blocked domains: 8480
 🚫 去掉注释行: ! unBlocked domains: 16
 🚫 去掉注释行: !
-🚫 去掉注释行: ! Checksum: lT4FyQtNoE21ty9oq2qX5g
-🚫 去掉注释行: ! Version: 202611251135
+🚫 去掉注释行: ! Checksum: pbeGyC3Kg8JEHAeI4SdcTQ
+🚫 去掉注释行: ! Version: 202611260100
 🚫 去掉注释行: ! Title: Fanboy's Annoyance List
-🚫 去掉注释行: ! Last modified: 2026-11-25 11:35 UTC
+🚫 去掉注释行: ! Last modified: 2026-11-26 01:00 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! Homepage: https://easylist.to/
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
@@ -168943,10 +168947,11 @@
 ✅ 多域名拆分: theverge.com,vox.com##.duet--article--share-buttons
     → |theverge.com##.duet--article--share-buttons
     → |vox.com##.duet--article--share-buttons
-✅ 多域名拆分: dailyboulder.com,echonewshub.com,jugomobile.com,thartribune.com,thedailyadda.com,thegamepost.com,townflex.com##.e-shared-sec
+✅ 多域名拆分: dailyboulder.com,echonewshub.com,jugomobile.com,scienceinhand.com,thartribune.com,thedailyadda.com,thegamepost.com,townflex.com##.e-shared-sec
     → |dailyboulder.com##.e-shared-sec
     → |echonewshub.com##.e-shared-sec
     → |jugomobile.com##.e-shared-sec
+    → |scienceinhand.com##.e-shared-sec
     → |thartribune.com##.e-shared-sec
     → |thedailyadda.com##.e-shared-sec
     → |thegamepost.com##.e-shared-sec
@@ -169212,6 +169217,9 @@
 ✅ 多域名拆分: levernews.com,overkill.wtf##.kg-callout-card-blue
     → |levernews.com##.kg-callout-card-blue
     → |overkill.wtf##.kg-callout-card-blue
+✅ 多域名拆分: scienceinhand.com,thedailyadda.com##.l-shared-sec
+    → |scienceinhand.com##.l-shared-sec
+    → |thedailyadda.com##.l-shared-sec
 ✅ 多域名拆分: mmoga.co.uk,mmoga.com,mmoga.de,mmoga.es,mmoga.fr,mmoga.se##.likeBtn
     → |mmoga.co.uk##.likeBtn
     → |mmoga.com##.likeBtn
@@ -223127,9 +223135,9 @@
 🚫 去掉注释行: ! 5kporn.com
 🚫 去掉注释行: ! royalunibrew.dk
 🚫 去掉注释行: ! fanboy_agegate_allowlist.txt
-🚫 去掉注释行: ! Checksum: iGmAQUIVZacoAssmoZc+rQ
+🚫 去掉注释行: ! Checksum: AjwXmbCpCjQ4NUd4dwiKwQ
 🚫 去掉注释行: ! Title: Easylist Cookie List
-🚫 去掉注释行: ! Last modified: 2026-11-25 11:35 UTC
+🚫 去掉注释行: ! Last modified: 2026-11-26 01:00 UTC
 🚫 去掉注释行: ! Expires: 9 days (update frequency)
 🚫 去掉注释行: ! License: http://creativecommons.org/licenses/by/3.0/
 🚫 去掉注释行: ! Please report any unblocked content or problems by email or in our forums
